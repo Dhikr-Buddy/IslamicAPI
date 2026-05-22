@@ -1,0 +1,747 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-22T21:31:39.669Z",
+  "collections": [
+    {
+      "id": "ara-abudawud",
+      "name": "Sunan Abu Dawud",
+      "edition": "ara-abudawud",
+      "language": "Arabic",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-abudawud.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "ara-abudawud1",
+      "name": "Sunan Abu Dawud",
+      "edition": "ara-abudawud1",
+      "language": "Arabic",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-abudawud1.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "ben-abudawud",
+      "name": "Sunan Abu Dawud",
+      "edition": "ben-abudawud",
+      "language": "Bengali",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ben-abudawud.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "eng-abudawud",
+      "name": "Sunan Abu Dawud",
+      "edition": "eng-abudawud",
+      "language": "English",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-abudawud.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "fra-abudawud",
+      "name": "Sunan Abu Dawud",
+      "edition": "fra-abudawud",
+      "language": "French",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/fra-abudawud.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "ind-abudawud",
+      "name": "Sunan Abu Dawud",
+      "edition": "ind-abudawud",
+      "language": "Indonesian",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ind-abudawud.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "rus-abudawud",
+      "name": "Sunan Abu Dawud",
+      "edition": "rus-abudawud",
+      "language": "Russian",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/rus-abudawud.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "tur-abudawud",
+      "name": "Sunan Abu Dawud",
+      "edition": "tur-abudawud",
+      "language": "Turkish",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/tur-abudawud.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "urd-abudawud",
+      "name": "Sunan Abu Dawud",
+      "edition": "urd-abudawud",
+      "language": "Urdu",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/urd-abudawud.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "ara-bukhari",
+      "name": "Sahih al Bukhari",
+      "edition": "ara-bukhari",
+      "language": "Arabic",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-bukhari.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "ara-bukhari1",
+      "name": "Sahih al Bukhari",
+      "edition": "ara-bukhari1",
+      "language": "Arabic",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-bukhari1.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "ben-bukhari",
+      "name": "Sahih al Bukhari",
+      "edition": "ben-bukhari",
+      "language": "Bengali",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ben-bukhari.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "eng-bukhari",
+      "name": "Sahih al Bukhari",
+      "edition": "eng-bukhari",
+      "language": "English",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-bukhari.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "fra-bukhari",
+      "name": "Sahih al Bukhari",
+      "edition": "fra-bukhari",
+      "language": "French",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/fra-bukhari.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "ind-bukhari",
+      "name": "Sahih al Bukhari",
+      "edition": "ind-bukhari",
+      "language": "Indonesian",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ind-bukhari.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "rus-bukhari",
+      "name": "Sahih al Bukhari",
+      "edition": "rus-bukhari",
+      "language": "Russian",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/rus-bukhari.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "tam-bukhari",
+      "name": "Sahih al Bukhari",
+      "edition": "tam-bukhari",
+      "language": "Tamil",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/tam-bukhari.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "tur-bukhari",
+      "name": "Sahih al Bukhari",
+      "edition": "tur-bukhari",
+      "language": "Turkish",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/tur-bukhari.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "urd-bukhari",
+      "name": "Sahih al Bukhari",
+      "edition": "urd-bukhari",
+      "language": "Urdu",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/urd-bukhari.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "ara-dehlawi",
+      "name": "Forty Hadith of Shah Waliullah Dehlawi",
+      "edition": "ara-dehlawi",
+      "language": "Arabic",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-dehlawi.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "ara-dehlawi1",
+      "name": "Forty Hadith of Shah Waliullah Dehlawi",
+      "edition": "ara-dehlawi1",
+      "language": "Arabic",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-dehlawi1.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "eng-dehlawi",
+      "name": "Forty Hadith of Shah Waliullah Dehlawi",
+      "edition": "eng-dehlawi",
+      "language": "English",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-dehlawi.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "fra-dehlawi",
+      "name": "Forty Hadith of Shah Waliullah Dehlawi",
+      "edition": "fra-dehlawi",
+      "language": "French",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/fra-dehlawi.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "ara-ibnmajah",
+      "name": "Sunan Ibn Majah",
+      "edition": "ara-ibnmajah",
+      "language": "Arabic",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-ibnmajah.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "ara-ibnmajah1",
+      "name": "Sunan Ibn Majah",
+      "edition": "ara-ibnmajah1",
+      "language": "Arabic",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-ibnmajah1.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "ben-ibnmajah",
+      "name": "Sunan Ibn Majah",
+      "edition": "ben-ibnmajah",
+      "language": "Bengali",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ben-ibnmajah.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "eng-ibnmajah",
+      "name": "Sunan Ibn Majah",
+      "edition": "eng-ibnmajah",
+      "language": "English",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-ibnmajah.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "fra-ibnmajah",
+      "name": "Sunan Ibn Majah",
+      "edition": "fra-ibnmajah",
+      "language": "French",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/fra-ibnmajah.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "ind-ibnmajah",
+      "name": "Sunan Ibn Majah",
+      "edition": "ind-ibnmajah",
+      "language": "Indonesian",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ind-ibnmajah.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "tur-ibnmajah",
+      "name": "Sunan Ibn Majah",
+      "edition": "tur-ibnmajah",
+      "language": "Turkish",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/tur-ibnmajah.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "urd-ibnmajah",
+      "name": "Sunan Ibn Majah",
+      "edition": "urd-ibnmajah",
+      "language": "Urdu",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/urd-ibnmajah.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "ara-malik",
+      "name": "Muwatta Malik",
+      "edition": "ara-malik",
+      "language": "Arabic",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-malik.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "ara-malik1",
+      "name": "Muwatta Malik",
+      "edition": "ara-malik1",
+      "language": "Arabic",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-malik1.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "ben-malik",
+      "name": "Muwatta Malik",
+      "edition": "ben-malik",
+      "language": "Bengali",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ben-malik.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "eng-malik",
+      "name": "Muwatta Malik",
+      "edition": "eng-malik",
+      "language": "English",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-malik.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "fra-malik",
+      "name": "Muwatta Malik",
+      "edition": "fra-malik",
+      "language": "French",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/fra-malik.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "ind-malik",
+      "name": "Muwatta Malik",
+      "edition": "ind-malik",
+      "language": "Indonesian",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ind-malik.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "tur-malik",
+      "name": "Muwatta Malik",
+      "edition": "tur-malik",
+      "language": "Turkish",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/tur-malik.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "urd-malik",
+      "name": "Muwatta Malik",
+      "edition": "urd-malik",
+      "language": "Urdu",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/urd-malik.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "ara-muslim",
+      "name": "Sahih Muslim",
+      "edition": "ara-muslim",
+      "language": "Arabic",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-muslim.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "ara-muslim1",
+      "name": "Sahih Muslim",
+      "edition": "ara-muslim1",
+      "language": "Arabic",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-muslim1.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "ben-muslim",
+      "name": "Sahih Muslim",
+      "edition": "ben-muslim",
+      "language": "Bengali",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ben-muslim.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "eng-muslim",
+      "name": "Sahih Muslim",
+      "edition": "eng-muslim",
+      "language": "English",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-muslim.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "fra-muslim",
+      "name": "Sahih Muslim",
+      "edition": "fra-muslim",
+      "language": "French",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/fra-muslim.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "ind-muslim",
+      "name": "Sahih Muslim",
+      "edition": "ind-muslim",
+      "language": "Indonesian",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ind-muslim.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "rus-muslim",
+      "name": "Sahih Muslim",
+      "edition": "rus-muslim",
+      "language": "Russian",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/rus-muslim.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "tam-muslim",
+      "name": "Sahih Muslim",
+      "edition": "tam-muslim",
+      "language": "Tamil",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/tam-muslim.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "tur-muslim",
+      "name": "Sahih Muslim",
+      "edition": "tur-muslim",
+      "language": "Turkish",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/tur-muslim.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "urd-muslim",
+      "name": "Sahih Muslim",
+      "edition": "urd-muslim",
+      "language": "Urdu",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/urd-muslim.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "ara-nasai",
+      "name": "Sunan an Nasai",
+      "edition": "ara-nasai",
+      "language": "Arabic",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-nasai.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "ara-nasai1",
+      "name": "Sunan an Nasai",
+      "edition": "ara-nasai1",
+      "language": "Arabic",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-nasai1.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "ben-nasai",
+      "name": "Sunan an Nasai",
+      "edition": "ben-nasai",
+      "language": "Bengali",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ben-nasai.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "eng-nasai",
+      "name": "Sunan an Nasai",
+      "edition": "eng-nasai",
+      "language": "English",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-nasai.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "fra-nasai",
+      "name": "Sunan an Nasai",
+      "edition": "fra-nasai",
+      "language": "French",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/fra-nasai.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "ind-nasai",
+      "name": "Sunan an Nasai",
+      "edition": "ind-nasai",
+      "language": "Indonesian",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ind-nasai.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "tur-nasai",
+      "name": "Sunan an Nasai",
+      "edition": "tur-nasai",
+      "language": "Turkish",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/tur-nasai.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "urd-nasai",
+      "name": "Sunan an Nasai",
+      "edition": "urd-nasai",
+      "language": "Urdu",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/urd-nasai.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "ara-nawawi",
+      "name": "Forty Hadith of an-Nawawi",
+      "edition": "ara-nawawi",
+      "language": "Arabic",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-nawawi.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "ara-nawawi1",
+      "name": "Forty Hadith of an-Nawawi",
+      "edition": "ara-nawawi1",
+      "language": "Arabic",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-nawawi1.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "ben-nawawi",
+      "name": "Forty Hadith of an-Nawawi",
+      "edition": "ben-nawawi",
+      "language": "Bengali",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ben-nawawi.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "eng-nawawi",
+      "name": "Forty Hadith of an-Nawawi",
+      "edition": "eng-nawawi",
+      "language": "English",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-nawawi.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "fra-nawawi",
+      "name": "Forty Hadith of an-Nawawi",
+      "edition": "fra-nawawi",
+      "language": "French",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/fra-nawawi.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "tur-nawawi",
+      "name": "Forty Hadith of an-Nawawi",
+      "edition": "tur-nawawi",
+      "language": "Turkish",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/tur-nawawi.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "ara-qudsi",
+      "name": "Forty Hadith Qudsi",
+      "edition": "ara-qudsi",
+      "language": "Arabic",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-qudsi.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "ara-qudsi1",
+      "name": "Forty Hadith Qudsi",
+      "edition": "ara-qudsi1",
+      "language": "Arabic",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-qudsi1.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "eng-qudsi",
+      "name": "Forty Hadith Qudsi",
+      "edition": "eng-qudsi",
+      "language": "English",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-qudsi.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "fra-qudsi",
+      "name": "Forty Hadith Qudsi",
+      "edition": "fra-qudsi",
+      "language": "French",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/fra-qudsi.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "ara-tirmidhi",
+      "name": "Jami At Tirmidhi",
+      "edition": "ara-tirmidhi",
+      "language": "Arabic",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-tirmidhi.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "ara-tirmidhi1",
+      "name": "Jami At Tirmidhi",
+      "edition": "ara-tirmidhi1",
+      "language": "Arabic",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-tirmidhi1.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "ben-tirmidhi",
+      "name": "Jami At Tirmidhi",
+      "edition": "ben-tirmidhi",
+      "language": "Bengali",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ben-tirmidhi.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "eng-tirmidhi",
+      "name": "Jami At Tirmidhi",
+      "edition": "eng-tirmidhi",
+      "language": "English",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-tirmidhi.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "ind-tirmidhi",
+      "name": "Jami At Tirmidhi",
+      "edition": "ind-tirmidhi",
+      "language": "Indonesian",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ind-tirmidhi.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "tur-tirmidhi",
+      "name": "Jami At Tirmidhi",
+      "edition": "tur-tirmidhi",
+      "language": "Turkish",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/tur-tirmidhi.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    },
+    {
+      "id": "urd-tirmidhi",
+      "name": "Jami At Tirmidhi",
+      "edition": "urd-tirmidhi",
+      "language": "Urdu",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/urd-tirmidhi.json",
+      "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense",
+      "retrievedAt": "2026-05-22T21:31:31.805Z"
+    }
+  ],
+  "hadiths": []
+}

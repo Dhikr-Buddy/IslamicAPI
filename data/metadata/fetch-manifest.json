@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "runId": "2026-05-22T21-31-30-231Z",
+  "generatedAt": "2026-05-22T21:31:30.232Z",
+  "files": [
+    {
+      "sourceId": "tanzil-quran-text",
+      "domain": "quran",
+      "rawPath": "quran/raw/2026-05-22T21-31-30-231Z/tanzil-quran-text.txt",
+      "ok": true
+    },
+    {
+      "sourceId": "fawazahmed0-quran-api",
+      "domain": "quran",
+      "ok": false,
+      "error": "Fetch failed 403 for https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranuthmani.json"
+    },
+    {
+      "sourceId": "ar-tanzil-quran-simple-npm",
+      "domain": "quran",
+      "rawPath": "quran/raw/2026-05-22T21-31-30-231Z/ar-tanzil-quran-simple-npm.json",
+      "ok": true
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-api",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-31-30-231Z/fawazahmed0-hadith-api.json",
+      "ok": true
+    }
+  ]
+}

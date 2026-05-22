@@ -1,0 +1,42 @@
+{
+  "name": "@deen/sdk",
+  "version": "0.1.0",
+  "description": "Offline-first Islamic structured data SDK and reproducible dataset pipeline.",
+  "type": "module",
+  "packageManager": "pnpm@9.15.0",
+  "main": "./packages/deen-sdk/src/index.js",
+  "types": "./packages/deen-sdk/src/index.d.ts",
+  "exports": {
+    ".": "./packages/deen-sdk/src/index.js"
+  },
+  "files": [
+    "packages/deen-sdk/src",
+    "data",
+    "src",
+    "scripts",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "dev": "node src/server.js",
+    "discover:sources": "node scripts/discover-sources/index.js",
+    "fetch:datasets": "node scripts/fetch-datasets/index.js",
+    "validate:data": "node scripts/validate-data/index.js",
+    "normalize:quran": "node scripts/normalize-quran/index.js",
+    "normalize:hadith": "node scripts/normalize-hadith/index.js",
+    "normalize:audio": "node scripts/normalize-audio/index.js",
+    "sync:updates": "node scripts/sync-updates/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "quran",
+    "hadith",
+    "prayer-times",
+    "qibla",
+    "offline"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  }
+}

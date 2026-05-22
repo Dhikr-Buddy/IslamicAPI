@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-22T21:32:15.248Z",
+  "surahCount": 114,
+  "ayahCount": 6236,
+  "valid": true,
+  "warnings": [
+    {
+      "sourceUrl": "https://tanzil.net/docs/download",
+      "message": "Rejected Tanzil payload because it contained 0 parseable rows, expected 6236."
+    }
+  ]
+}

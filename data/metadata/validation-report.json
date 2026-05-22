@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-22T21:31:39.672Z",
+  "files": [
+    {
+      "sourceId": "tanzil-quran-text",
+      "domain": "quran",
+      "rawPath": "quran/raw/2026-05-22T21-31-30-231Z/tanzil-quran-text.txt",
+      "ok": true,
+      "bytes": 7115,
+      "valid": false,
+      "warnings": [],
+      "error": "Expected dataset text but received HTML."
+    },
+    {
+      "sourceId": "ar-tanzil-quran-simple-npm",
+      "domain": "quran",
+      "rawPath": "quran/raw/2026-05-22T21-31-30-231Z/ar-tanzil-quran-simple-npm.json",
+      "ok": true,
+      "bytes": 1339675,
+      "valid": true,
+      "warnings": [],
+      "shape": "array",
+      "topLevelKeys": []
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-api",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-31-30-231Z/fawazahmed0-hadith-api.json",
+      "ok": true,
+      "bytes": 30390,
+      "valid": true,
+      "warnings": [],
+      "shape": "object",
+      "topLevelKeys": [
+        "abudawud",
+        "bukhari",
+        "dehlawi",
+        "ibnmajah",
+        "malik",
+        "muslim",
+        "nasai",
+        "nawawi",
+        "qudsi",
+        "tirmidhi"
+      ]
+    }
+  ]
+}
