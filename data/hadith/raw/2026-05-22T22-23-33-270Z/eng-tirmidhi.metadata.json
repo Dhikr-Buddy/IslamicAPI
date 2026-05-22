@@ -1,0 +1,11 @@
+{
+  "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+  "directDownloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-tirmidhi.json",
+  "license": "Unlicense",
+  "retrievedAt": "2026-05-22T22:23:39.227Z",
+  "bytes": 3124797,
+  "collection": "tirmidhi",
+  "collectionName": "Jami At Tirmidhi",
+  "edition": "eng-tirmidhi",
+  "language": "English"
+}

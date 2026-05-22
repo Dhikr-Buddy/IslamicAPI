@@ -1,0 +1,11 @@
+{
+  "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+  "directDownloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-ibnmajah.json",
+  "license": "Unlicense",
+  "retrievedAt": "2026-05-22T22:23:38.146Z",
+  "bytes": 5583102,
+  "collection": "ibnmajah",
+  "collectionName": "Sunan Ibn Majah",
+  "edition": "ara-ibnmajah",
+  "language": "Arabic"
+}
