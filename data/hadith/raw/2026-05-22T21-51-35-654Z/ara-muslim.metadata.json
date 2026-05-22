@@ -1,0 +1,11 @@
+{
+  "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+  "directDownloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-muslim.json",
+  "license": "Unlicense",
+  "retrievedAt": "2026-05-22T21:52:07.254Z",
+  "bytes": 8685140,
+  "collection": "muslim",
+  "collectionName": "Sahih Muslim",
+  "edition": "ara-muslim",
+  "language": "Arabic"
+}

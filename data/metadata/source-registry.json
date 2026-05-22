@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-22T21:31:22.877Z",
+  "generatedAt": "2026-05-22T21:51:22.041Z",
   "searchQueries": [
     "Quran API open source",
     "Quran dataset JSON",
@@ -21,18 +21,18 @@
       "license": "Tanzil terms: verbatim copying/distribution permitted; text changes are not permitted",
       "kind": "quran-text",
       "openPublic": true,
-      "retrievalTimestamp": "2026-05-22T21:31:22.873Z",
+      "retrievalTimestamp": "2026-05-22T21:51:22.036Z",
       "rejected": false
     },
     {
-      "id": "fawazahmed0-quran-api",
-      "domain": "quran",
+      "id": "fawazahmed0-quran-fonts",
+      "domain": "fonts",
       "sourceUrl": "https://github.com/fawazahmed0/quran-api",
-      "directDownloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranuthmani.json",
-      "license": "Unlicense",
-      "kind": "quran-json",
+      "directDownloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts.json",
+      "license": "Unlicense for repository metadata; embedded KFGQPC font records retain their upstream EULA",
+      "kind": "font-index",
       "openPublic": true,
-      "retrievalTimestamp": "2026-05-22T21:31:22.877Z",
+      "retrievalTimestamp": "2026-05-22T21:51:22.041Z",
       "rejected": false
     },
     {
@@ -43,7 +43,7 @@
       "license": "Tanzil text: Creative Commons Attribution 3.0 with verbatim/no-change terms; npm package metadata lists ISC",
       "kind": "quran-json",
       "openPublic": true,
-      "retrievalTimestamp": "2026-05-22T21:31:22.877Z",
+      "retrievalTimestamp": "2026-05-22T21:51:22.041Z",
       "rejected": false
     },
     {
@@ -54,7 +54,7 @@
       "license": "MIT",
       "kind": "quran-api-reference",
       "openPublic": true,
-      "retrievalTimestamp": "2026-05-22T21:31:22.877Z",
+      "retrievalTimestamp": "2026-05-22T21:51:22.041Z",
       "rejected": false
     },
     {
@@ -65,7 +65,7 @@
       "license": "License not clearly declared on API docs; retain provenance and review before redistribution",
       "kind": "quran-api",
       "openPublic": true,
-      "retrievalTimestamp": "2026-05-22T21:31:22.877Z",
+      "retrievalTimestamp": "2026-05-22T21:51:22.041Z",
       "rejected": true
     },
     {
@@ -76,7 +76,7 @@
       "license": "Unlicense",
       "kind": "hadith-index",
       "openPublic": true,
-      "retrievalTimestamp": "2026-05-22T21:31:22.877Z",
+      "retrievalTimestamp": "2026-05-22T21:51:22.041Z",
       "rejected": false
     },
     {
@@ -87,7 +87,7 @@
       "license": "Custom/other license; requires review before redistribution",
       "kind": "hadith-database",
       "openPublic": true,
-      "retrievalTimestamp": "2026-05-22T21:31:22.877Z",
+      "retrievalTimestamp": "2026-05-22T21:51:22.041Z",
       "rejected": true
     },
     {
@@ -95,22 +95,22 @@
       "domain": "audio",
       "sourceUrl": "https://www.mp3quran.net/api",
       "directDownloadUrl": "https://www.mp3quran.net/api/v3/reciters?language=eng",
-      "license": "License not clearly declared on API docs; index URLs only until reviewed",
+      "license": "Public download/index API; per-reciter rights retained by reciters/publishers where applicable",
       "kind": "audio-index",
       "openPublic": true,
-      "retrievalTimestamp": "2026-05-22T21:31:22.877Z",
-      "rejected": true
+      "retrievalTimestamp": "2026-05-22T21:51:22.041Z",
+      "rejected": false
     },
     {
-      "id": "everyayah-public-recitation-index",
+      "id": "everyayah-recitations-page",
       "domain": "audio",
       "sourceUrl": "https://everyayah.com/recitations_ayat.html",
-      "directDownloadUrl": null,
-      "license": "License not clearly declared; public recitation index requires review before mirroring audio",
-      "kind": "audio-reference",
+      "directDownloadUrl": "https://everyayah.com/recitations_ayat.html",
+      "license": "Public download page with GO/ZIP/MD5 links; per-reciter rights retained by reciters/publishers where applicable",
+      "kind": "audio-recitation-index",
       "openPublic": true,
-      "retrievalTimestamp": "2026-05-22T21:31:22.877Z",
-      "rejected": true
+      "retrievalTimestamp": "2026-05-22T21:51:22.041Z",
+      "rejected": false
     },
     {
       "id": "batoulapps-adhan-js",
@@ -120,7 +120,7 @@
       "license": "MIT",
       "kind": "calculation-reference",
       "openPublic": true,
-      "retrievalTimestamp": "2026-05-22T21:31:22.877Z",
+      "retrievalTimestamp": "2026-05-22T21:51:22.041Z",
       "rejected": false
     }
   ]

@@ -1,0 +1,239 @@
+@font-face {
+  font-family: "Deen Bazzi V7 Full";
+  src: url("../files/bazzi-v7-full.woff2") format("woff2");
+  font-display: swap;
+}
+
+.deen-font-bazzi_v7_full {
+  font-family: "Deen Bazzi V7 Full", "Amiri Quran", "Scheherazade New", serif;
+}
+
+@font-face {
+  font-family: "Deen Doori V8 Full";
+  src: url("../files/doori-v8-full.woff2") format("woff2");
+  font-display: swap;
+}
+
+.deen-font-doori_v8_full {
+  font-family: "Deen Doori V8 Full", "Amiri Quran", "Scheherazade New", serif;
+}
+
+@font-face {
+  font-family: "Deen Hafs Nastaleeq Ver10";
+  src: url("../files/hafs-nastaleeq-ver10.woff2") format("woff2");
+  font-display: swap;
+}
+
+.deen-font-hafs_nastaleeq_ver10 {
+  font-family: "Deen Hafs Nastaleeq Ver10", "Amiri Quran", "Scheherazade New", serif;
+}
+
+@font-face {
+  font-family: "Deen Hafs Smart 07";
+  src: url("../files/hafs-smart-07.woff2") format("woff2");
+  font-display: swap;
+}
+
+.deen-font-hafs_smart_07 {
+  font-family: "Deen Hafs Smart 07", "Amiri Quran", "Scheherazade New", serif;
+}
+
+@font-face {
+  font-family: "Deen Hafs Uthmanic V14 Full";
+  src: url("../files/hafs-uthmanic-v14-full.woff2") format("woff2");
+  font-display: swap;
+}
+
+.deen-font-hafs_uthmanic_v14_full {
+  font-family: "Deen Hafs Uthmanic V14 Full", "Amiri Quran", "Scheherazade New", serif;
+}
+
+@font-face {
+  font-family: "Deen Harmattan";
+  src: url("../files/harmattan.woff2") format("woff2");
+  font-display: swap;
+}
+
+.deen-font-harmattan {
+  font-family: "Deen Harmattan", "Amiri Quran", "Scheherazade New", serif;
+}
+
+@font-face {
+  font-family: "Deen Harmattan Full";
+  src: url("../files/harmattan-full.woff2") format("woff2");
+  font-display: swap;
+}
+
+.deen-font-harmattan_full {
+  font-family: "Deen Harmattan Full", "Amiri Quran", "Scheherazade New", serif;
+}
+
+@font-face {
+  font-family: "Deen Nastaleeq V10 Full";
+  src: url("../files/nastaleeq-v10-full.woff2") format("woff2");
+  font-display: swap;
+}
+
+.deen-font-nastaleeq_v10_full {
+  font-family: "Deen Nastaleeq V10 Full", "Amiri Quran", "Scheherazade New", serif;
+}
+
+@font-face {
+  font-family: "Deen Qaloon V8 Full";
+  src: url("../files/qaloon-v8-full.woff2") format("woff2");
+  font-display: swap;
+}
+
+.deen-font-qaloon_v8_full {
+  font-family: "Deen Qaloon V8 Full", "Amiri Quran", "Scheherazade New", serif;
+}
+
+@font-face {
+  font-family: "Deen Qumbul V7 Full";
+  src: url("../files/qumbul-v7-full.woff2") format("woff2");
+  font-display: swap;
+}
+
+.deen-font-qumbul_v7_full {
+  font-family: "Deen Qumbul V7 Full", "Amiri Quran", "Scheherazade New", serif;
+}
+
+@font-face {
+  font-family: "Deen Shouba V7 Full";
+  src: url("../files/shouba-v7-full.woff2") format("woff2");
+  font-display: swap;
+}
+
+.deen-font-shouba_v7_full {
+  font-family: "Deen Shouba V7 Full", "Amiri Quran", "Scheherazade New", serif;
+}
+
+@font-face {
+  font-family: "Deen Soosi V8 Full";
+  src: url("../files/soosi-v8-full.woff2") format("woff2");
+  font-display: swap;
+}
+
+.deen-font-soosi_v8_full {
+  font-family: "Deen Soosi V8 Full", "Amiri Quran", "Scheherazade New", serif;
+}
+
+@font-face {
+  font-family: "Deen Uthmanic Bazzi1 Ver07";
+  src: url("../files/uthmanic-bazzi1-ver07.woff2") format("woff2");
+  font-display: swap;
+}
+
+.deen-font-uthmanic_bazzi1_ver07 {
+  font-family: "Deen Uthmanic Bazzi1 Ver07", "Amiri Quran", "Scheherazade New", serif;
+}
+
+@font-face {
+  font-family: "Deen Uthmanic Doori1 Ver08";
+  src: url("../files/uthmanic-doori1-ver08.woff2") format("woff2");
+  font-display: swap;
+}
+
+.deen-font-uthmanic_doori1_ver08 {
+  font-family: "Deen Uthmanic Doori1 Ver08", "Amiri Quran", "Scheherazade New", serif;
+}
+
+@font-face {
+  font-family: "Deen Uthmanic Hafs Ver13";
+  src: url("../files/uthmanic-hafs-ver13.woff2") format("woff2");
+  font-display: swap;
+}
+
+.deen-font-uthmanic_hafs_ver13 {
+  font-family: "Deen Uthmanic Hafs Ver13", "Amiri Quran", "Scheherazade New", serif;
+}
+
+@font-face {
+  font-family: "Deen Uthmanic Hafs1 Ver09";
+  src: url("../files/uthmanic-hafs1-ver09.woff2") format("woff2");
+  font-display: swap;
+}
+
+.deen-font-uthmanic_hafs1_ver09 {
+  font-family: "Deen Uthmanic Hafs1 Ver09", "Amiri Quran", "Scheherazade New", serif;
+}
+
+@font-face {
+  font-family: "Deen Uthmanic Hafs1 Ver13";
+  src: url("../files/uthmanic-hafs1-ver13.woff2") format("woff2");
+  font-display: swap;
+}
+
+.deen-font-uthmanic_hafs1_ver13 {
+  font-family: "Deen Uthmanic Hafs1 Ver13", "Amiri Quran", "Scheherazade New", serif;
+}
+
+@font-face {
+  font-family: "Deen Uthmanic Hafs1 Ver14";
+  src: url("../files/uthmanic-hafs1-ver14.woff2") format("woff2");
+  font-display: swap;
+}
+
+.deen-font-uthmanic_hafs1_ver14 {
+  font-family: "Deen Uthmanic Hafs1 Ver14", "Amiri Quran", "Scheherazade New", serif;
+}
+
+@font-face {
+  font-family: "Deen Uthmanic Qaloon1 Ver08";
+  src: url("../files/uthmanic-qaloon1-ver08.woff2") format("woff2");
+  font-display: swap;
+}
+
+.deen-font-uthmanic_qaloon1_ver08 {
+  font-family: "Deen Uthmanic Qaloon1 Ver08", "Amiri Quran", "Scheherazade New", serif;
+}
+
+@font-face {
+  font-family: "Deen Uthmanic Qumbul1 Ver07";
+  src: url("../files/uthmanic-qumbul1-ver07.woff2") format("woff2");
+  font-display: swap;
+}
+
+.deen-font-uthmanic_qumbul1_ver07 {
+  font-family: "Deen Uthmanic Qumbul1 Ver07", "Amiri Quran", "Scheherazade New", serif;
+}
+
+@font-face {
+  font-family: "Deen Uthmanic Shouba1 Ver07";
+  src: url("../files/uthmanic-shouba1-ver07.woff2") format("woff2");
+  font-display: swap;
+}
+
+.deen-font-uthmanic_shouba1_ver07 {
+  font-family: "Deen Uthmanic Shouba1 Ver07", "Amiri Quran", "Scheherazade New", serif;
+}
+
+@font-face {
+  font-family: "Deen Uthmanic Soosi1 Ver08";
+  src: url("../files/uthmanic-soosi1-ver08.woff2") format("woff2");
+  font-display: swap;
+}
+
+.deen-font-uthmanic_soosi1_ver08 {
+  font-family: "Deen Uthmanic Soosi1 Ver08", "Amiri Quran", "Scheherazade New", serif;
+}
+
+@font-face {
+  font-family: "Deen Uthmanic Warsh1 Ver08";
+  src: url("../files/uthmanic-warsh1-ver08.woff2") format("woff2");
+  font-display: swap;
+}
+
+.deen-font-uthmanic_warsh1_ver08 {
+  font-family: "Deen Uthmanic Warsh1 Ver08", "Amiri Quran", "Scheherazade New", serif;
+}
+
+@font-face {
+  font-family: "Deen Warsh V8 Full";
+  src: url("../files/warsh-v8-full.woff2") format("woff2");
+  font-display: swap;
+}
+
+.deen-font-warsh_v8_full {
+  font-family: "Deen Warsh V8 Full", "Amiri Quran", "Scheherazade New", serif;
+}

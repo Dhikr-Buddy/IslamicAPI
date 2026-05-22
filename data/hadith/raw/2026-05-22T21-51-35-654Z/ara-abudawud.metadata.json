@@ -1,0 +1,11 @@
+{
+  "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+  "directDownloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-abudawud.json",
+  "license": "Unlicense",
+  "retrievedAt": "2026-05-22T21:52:00.415Z",
+  "bytes": 7345422,
+  "collection": "abudawud",
+  "collectionName": "Sunan Abu Dawud",
+  "edition": "ara-abudawud",
+  "language": "Arabic"
+}

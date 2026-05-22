@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-22T21:54:45.743Z",
+  "repository": "Dhikr-Buddy/IslamicAPI",
+  "ref": "master",
+  "rawBase": "https://raw.githubusercontent.com/Dhikr-Buddy/IslamicAPI/master",
+  "files": {
+    "quran": {
+      "path": "data/quran/normalized/quran.json",
+      "url": "https://raw.githubusercontent.com/Dhikr-Buddy/IslamicAPI/master/data/quran/normalized/quran.json"
+    },
+    "hadith": {
+      "path": "data/hadith/normalized/hadith.json",
+      "url": "https://raw.githubusercontent.com/Dhikr-Buddy/IslamicAPI/master/data/hadith/normalized/hadith.json"
+    },
+    "audio": {
+      "path": "data/audio/normalized/audio-index.json",
+      "url": "https://raw.githubusercontent.com/Dhikr-Buddy/IslamicAPI/master/data/audio/normalized/audio-index.json"
+    },
+    "fonts": {
+      "path": "data/fonts/normalized/fonts.json",
+      "url": "https://raw.githubusercontent.com/Dhikr-Buddy/IslamicAPI/master/data/fonts/normalized/fonts.json"
+    },
+    "fontCss": {
+      "path": "data/fonts/css/deen-fonts.css",
+      "url": "https://raw.githubusercontent.com/Dhikr-Buddy/IslamicAPI/master/data/fonts/css/deen-fonts.css"
+    },
+    "prayerMethods": {
+      "path": "data/prayer/calculation-methods.json",
+      "url": "https://raw.githubusercontent.com/Dhikr-Buddy/IslamicAPI/master/data/prayer/calculation-methods.json"
+    },
+    "sourceRegistry": {
+      "path": "data/metadata/source-registry.json",
+      "url": "https://raw.githubusercontent.com/Dhikr-Buddy/IslamicAPI/master/data/metadata/source-registry.json"
+    }
+  },
+  "counts": {
+    "quranAyahs": 6236,
+    "hadiths": 34157,
+    "reciters": 356,
+    "fonts": 24
+  }
+}

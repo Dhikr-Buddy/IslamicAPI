@@ -2,9 +2,14 @@ import assert from "node:assert/strict";
 import test from "node:test";
 import {
   calculatePrayerTimes,
+  getAudioUrl,
   getAyah,
+  getFontList,
   getQiblaDirection,
+  getReciterList,
   getSurah,
+  githubRawUrl,
+  randomHadith,
   search
 } from "../packages/deen-sdk/src/index.js";
 
@@ -36,4 +41,19 @@ test("offline prayer calculator returns named times", () => {
   for (const key of ["fajr", "sunrise", "dhuhr", "asr", "maghrib", "isha"]) {
     assert.match(times[key], /^\d{2}:\d{2}$/);
   }
+});
+
+test("full data indexes are available offline", () => {
+  assert.ok(randomHadith());
+  assert.ok(getReciterList().length > 0);
+  assert.ok(getFontList().length > 0);
+});
+
+test("audio and raw GitHub helpers build URLs", () => {
+  const reciter = getReciterList()[0];
+  assert.match(getAudioUrl(reciter.id, 1, 1), /^https?:\/\//);
+  assert.equal(
+    githubRawUrl("data/api/index.json"),
+    "https://raw.githubusercontent.com/Dhikr-Buddy/IslamicAPI/master/data/api/index.json"
+  );
 });

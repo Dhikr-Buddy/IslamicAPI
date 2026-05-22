@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-22T21:31:39.672Z",
+  "generatedAt": "2026-05-22T21:52:28.606Z",
   "files": [
     {
       "sourceId": "tanzil-quran-text",
       "domain": "quran",
-      "rawPath": "quran/raw/2026-05-22T21-31-30-231Z/tanzil-quran-text.txt",
+      "rawPath": "quran/raw/2026-05-22T21-51-35-654Z/tanzil-quran-text.txt",
       "ok": true,
       "bytes": 7115,
       "valid": false,
@@ -13,9 +13,262 @@
       "error": "Expected dataset text but received HTML."
     },
     {
+      "sourceId": "fawazahmed0-quran-fonts",
+      "domain": "fonts",
+      "rawPath": "fonts/raw/2026-05-22T21-51-35-654Z/fawazahmed0-quran-fonts.json",
+      "ok": true,
+      "bytes": 188049,
+      "valid": true,
+      "warnings": [],
+      "shape": "object",
+      "topLevelKeys": [
+        "al_qalam_quran_majeed_1",
+        "al_qalam_quran_majeed_2",
+        "al_qalam_quran_majeed",
+        "al_qalam_quran",
+        "almarai_bold",
+        "almarai_extra_bold",
+        "almarai_light",
+        "almarai_regular_full",
+        "almarai_regular",
+        "almushaf",
+        "amiri_bold_italic",
+        "amiri_bold",
+        "amiri_bold_slanted",
+        "amiri_bold1",
+        "amiri_italic1",
+        "amiri_quran_colored_full",
+        "amiri_quran_colored",
+        "amiri_quran_full",
+        "amiri_quran",
+        "amiri_regular_full",
+        "amiri_regular",
+        "amiri_regular1_full",
+        "amiri_regular1",
+        "amiri_slanted_full",
+        "amiri_slanted"
+      ]
+    },
+    {
+      "sourceId": "quran-font:bazzi_v7_full",
+      "domain": "fonts",
+      "rawPath": "fonts/files/bazzi-v7-full.woff2",
+      "ok": true,
+      "bytes": 203045,
+      "valid": true,
+      "warnings": []
+    },
+    {
+      "sourceId": "quran-font:doori_v8_full",
+      "domain": "fonts",
+      "rawPath": "fonts/files/doori-v8-full.woff2",
+      "ok": true,
+      "bytes": 211120,
+      "valid": true,
+      "warnings": []
+    },
+    {
+      "sourceId": "quran-font:hafs_nastaleeq_ver10",
+      "domain": "fonts",
+      "rawPath": "fonts/files/hafs-nastaleeq-ver10.woff2",
+      "ok": true,
+      "bytes": 153817,
+      "valid": true,
+      "warnings": []
+    },
+    {
+      "sourceId": "quran-font:hafs_smart_07",
+      "domain": "fonts",
+      "rawPath": "fonts/files/hafs-smart-07.woff2",
+      "ok": true,
+      "bytes": 162287,
+      "valid": true,
+      "warnings": []
+    },
+    {
+      "sourceId": "quran-font:hafs_uthmanic_v14_full",
+      "domain": "fonts",
+      "rawPath": "fonts/files/hafs-uthmanic-v14-full.woff2",
+      "ok": true,
+      "bytes": 205126,
+      "valid": true,
+      "warnings": []
+    },
+    {
+      "sourceId": "quran-font:harmattan_full",
+      "domain": "fonts",
+      "rawPath": "fonts/files/harmattan-full.woff2",
+      "ok": true,
+      "bytes": 203938,
+      "valid": true,
+      "warnings": []
+    },
+    {
+      "sourceId": "quran-font:harmattan",
+      "domain": "fonts",
+      "rawPath": "fonts/files/harmattan.woff2",
+      "ok": true,
+      "bytes": 145830,
+      "valid": true,
+      "warnings": []
+    },
+    {
+      "sourceId": "quran-font:nastaleeq_v10_full",
+      "domain": "fonts",
+      "rawPath": "fonts/files/nastaleeq-v10-full.woff2",
+      "ok": true,
+      "bytes": 204247,
+      "valid": true,
+      "warnings": []
+    },
+    {
+      "sourceId": "quran-font:qaloon_v8_full",
+      "domain": "fonts",
+      "rawPath": "fonts/files/qaloon-v8-full.woff2",
+      "ok": true,
+      "bytes": 200181,
+      "valid": true,
+      "warnings": []
+    },
+    {
+      "sourceId": "quran-font:qumbul_v7_full",
+      "domain": "fonts",
+      "rawPath": "fonts/files/qumbul-v7-full.woff2",
+      "ok": true,
+      "bytes": 206168,
+      "valid": true,
+      "warnings": []
+    },
+    {
+      "sourceId": "quran-font:shouba_v7_full",
+      "domain": "fonts",
+      "rawPath": "fonts/files/shouba-v7-full.woff2",
+      "ok": true,
+      "bytes": 201789,
+      "valid": true,
+      "warnings": []
+    },
+    {
+      "sourceId": "quran-font:soosi_v8_full",
+      "domain": "fonts",
+      "rawPath": "fonts/files/soosi-v8-full.woff2",
+      "ok": true,
+      "bytes": 211792,
+      "valid": true,
+      "warnings": []
+    },
+    {
+      "sourceId": "quran-font:uthmanic_bazzi1_ver07",
+      "domain": "fonts",
+      "rawPath": "fonts/files/uthmanic-bazzi1-ver07.woff2",
+      "ok": true,
+      "bytes": 139622,
+      "valid": true,
+      "warnings": []
+    },
+    {
+      "sourceId": "quran-font:uthmanic_doori1_ver08",
+      "domain": "fonts",
+      "rawPath": "fonts/files/uthmanic-doori1-ver08.woff2",
+      "ok": true,
+      "bytes": 146744,
+      "valid": true,
+      "warnings": []
+    },
+    {
+      "sourceId": "quran-font:uthmanic_hafs_ver13",
+      "domain": "fonts",
+      "rawPath": "fonts/files/uthmanic-hafs-ver13.woff2",
+      "ok": true,
+      "bytes": 163031,
+      "valid": true,
+      "warnings": []
+    },
+    {
+      "sourceId": "quran-font:uthmanic_hafs1_ver09",
+      "domain": "fonts",
+      "rawPath": "fonts/files/uthmanic-hafs1-ver09.woff2",
+      "ok": true,
+      "bytes": 143783,
+      "valid": true,
+      "warnings": []
+    },
+    {
+      "sourceId": "quran-font:uthmanic_hafs1_ver13",
+      "domain": "fonts",
+      "rawPath": "fonts/files/uthmanic-hafs1-ver13.woff2",
+      "ok": true,
+      "bytes": 163391,
+      "valid": true,
+      "warnings": []
+    },
+    {
+      "sourceId": "quran-font:uthmanic_hafs1_ver14",
+      "domain": "fonts",
+      "rawPath": "fonts/files/uthmanic-hafs1-ver14.woff2",
+      "ok": true,
+      "bytes": 154762,
+      "valid": true,
+      "warnings": []
+    },
+    {
+      "sourceId": "quran-font:uthmanic_qaloon1_ver08",
+      "domain": "fonts",
+      "rawPath": "fonts/files/uthmanic-qaloon1-ver08.woff2",
+      "ok": true,
+      "bytes": 133868,
+      "valid": true,
+      "warnings": []
+    },
+    {
+      "sourceId": "quran-font:uthmanic_qumbul1_ver07",
+      "domain": "fonts",
+      "rawPath": "fonts/files/uthmanic-qumbul1-ver07.woff2",
+      "ok": true,
+      "bytes": 140122,
+      "valid": true,
+      "warnings": []
+    },
+    {
+      "sourceId": "quran-font:uthmanic_shouba1_ver07",
+      "domain": "fonts",
+      "rawPath": "fonts/files/uthmanic-shouba1-ver07.woff2",
+      "ok": true,
+      "bytes": 163731,
+      "valid": true,
+      "warnings": []
+    },
+    {
+      "sourceId": "quran-font:uthmanic_soosi1_ver08",
+      "domain": "fonts",
+      "rawPath": "fonts/files/uthmanic-soosi1-ver08.woff2",
+      "ok": true,
+      "bytes": 146976,
+      "valid": true,
+      "warnings": []
+    },
+    {
+      "sourceId": "quran-font:uthmanic_warsh1_ver08",
+      "domain": "fonts",
+      "rawPath": "fonts/files/uthmanic-warsh1-ver08.woff2",
+      "ok": true,
+      "bytes": 132808,
+      "valid": true,
+      "warnings": []
+    },
+    {
+      "sourceId": "quran-font:warsh_v8_full",
+      "domain": "fonts",
+      "rawPath": "fonts/files/warsh-v8-full.woff2",
+      "ok": true,
+      "bytes": 196956,
+      "valid": true,
+      "warnings": []
+    },
+    {
       "sourceId": "ar-tanzil-quran-simple-npm",
       "domain": "quran",
-      "rawPath": "quran/raw/2026-05-22T21-31-30-231Z/ar-tanzil-quran-simple-npm.json",
+      "rawPath": "quran/raw/2026-05-22T21-51-35-654Z/ar-tanzil-quran-simple-npm.json",
       "ok": true,
       "bytes": 1339675,
       "valid": true,
@@ -26,7 +279,7 @@
     {
       "sourceId": "fawazahmed0-hadith-api",
       "domain": "hadith",
-      "rawPath": "hadith/raw/2026-05-22T21-31-30-231Z/fawazahmed0-hadith-api.json",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/fawazahmed0-hadith-api.json",
       "ok": true,
       "bytes": 30390,
       "valid": true,
@@ -44,6 +297,280 @@
         "qudsi",
         "tirmidhi"
       ]
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-edition:ara-abudawud",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/ara-abudawud.json",
+      "ok": true,
+      "bytes": 7345422,
+      "valid": true,
+      "warnings": [],
+      "shape": "object",
+      "topLevelKeys": [
+        "metadata",
+        "hadiths"
+      ]
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-edition:ara-abudawud1",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/ara-abudawud1.json",
+      "ok": true,
+      "bytes": 5163103,
+      "valid": true,
+      "warnings": [],
+      "shape": "object",
+      "topLevelKeys": [
+        "metadata",
+        "hadiths"
+      ]
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-edition:eng-abudawud",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/eng-abudawud.json",
+      "ok": true,
+      "bytes": 4311308,
+      "valid": true,
+      "warnings": [],
+      "shape": "object",
+      "topLevelKeys": [
+        "metadata",
+        "hadiths"
+      ]
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-edition:ara-bukhari",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/ara-bukhari.json",
+      "ok": true,
+      "bytes": 9770083,
+      "valid": true,
+      "warnings": [],
+      "shape": "object",
+      "topLevelKeys": [
+        "metadata",
+        "hadiths"
+      ]
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-edition:ara-bukhari1",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/ara-bukhari1.json",
+      "ok": true,
+      "bytes": 6162554,
+      "valid": true,
+      "warnings": [],
+      "shape": "object",
+      "topLevelKeys": [
+        "metadata",
+        "hadiths"
+      ]
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-edition:eng-bukhari",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/eng-bukhari.json",
+      "ok": true,
+      "bytes": 5181725,
+      "valid": true,
+      "warnings": [],
+      "shape": "object",
+      "topLevelKeys": [
+        "metadata",
+        "hadiths"
+      ]
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-edition:ara-ibnmajah",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/ara-ibnmajah.json",
+      "ok": true,
+      "bytes": 5583102,
+      "valid": true,
+      "warnings": [],
+      "shape": "object",
+      "topLevelKeys": [
+        "metadata",
+        "hadiths"
+      ]
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-edition:ara-ibnmajah1",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/ara-ibnmajah1.json",
+      "ok": true,
+      "bytes": 3963089,
+      "valid": true,
+      "warnings": [],
+      "shape": "object",
+      "topLevelKeys": [
+        "metadata",
+        "hadiths"
+      ]
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-edition:eng-ibnmajah",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/eng-ibnmajah.json",
+      "ok": true,
+      "bytes": 3241088,
+      "valid": true,
+      "warnings": [],
+      "shape": "object",
+      "topLevelKeys": [
+        "metadata",
+        "hadiths"
+      ]
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-edition:ara-muslim",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/ara-muslim.json",
+      "ok": true,
+      "bytes": 8685140,
+      "valid": true,
+      "warnings": [],
+      "shape": "object",
+      "topLevelKeys": [
+        "metadata",
+        "hadiths"
+      ]
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-edition:ara-muslim1",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/ara-muslim1.json",
+      "ok": true,
+      "bytes": 5510446,
+      "valid": true,
+      "warnings": [],
+      "shape": "object",
+      "topLevelKeys": [
+        "metadata",
+        "hadiths"
+      ]
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-edition:eng-muslim",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/eng-muslim.json",
+      "ok": true,
+      "bytes": 4296152,
+      "valid": true,
+      "warnings": [],
+      "shape": "object",
+      "topLevelKeys": [
+        "metadata",
+        "hadiths"
+      ]
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-edition:ara-nasai",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/ara-nasai.json",
+      "ok": true,
+      "bytes": 7152291,
+      "valid": true,
+      "warnings": [],
+      "shape": "object",
+      "topLevelKeys": [
+        "metadata",
+        "hadiths"
+      ]
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-edition:ara-nasai1",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/ara-nasai1.json",
+      "ok": true,
+      "bytes": 4987849,
+      "valid": true,
+      "warnings": [],
+      "shape": "object",
+      "topLevelKeys": [
+        "metadata",
+        "hadiths"
+      ]
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-edition:eng-nasai",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/eng-nasai.json",
+      "ok": true,
+      "bytes": 4033923,
+      "valid": true,
+      "warnings": [],
+      "shape": "object",
+      "topLevelKeys": [
+        "metadata",
+        "hadiths"
+      ]
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-edition:ara-tirmidhi",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/ara-tirmidhi.json",
+      "ok": true,
+      "bytes": 7120806,
+      "valid": true,
+      "warnings": [],
+      "shape": "object",
+      "topLevelKeys": [
+        "metadata",
+        "hadiths"
+      ]
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-edition:ara-tirmidhi1",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/ara-tirmidhi1.json",
+      "ok": true,
+      "bytes": 4772293,
+      "valid": true,
+      "warnings": [],
+      "shape": "object",
+      "topLevelKeys": [
+        "metadata",
+        "hadiths"
+      ]
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-edition:eng-tirmidhi",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/eng-tirmidhi.json",
+      "ok": true,
+      "bytes": 3124797,
+      "valid": true,
+      "warnings": [],
+      "shape": "object",
+      "topLevelKeys": [
+        "metadata",
+        "hadiths"
+      ]
+    },
+    {
+      "sourceId": "mp3quran-api",
+      "domain": "audio",
+      "rawPath": "audio/raw/2026-05-22T21-51-35-654Z/mp3quran-api.json",
+      "ok": true,
+      "bytes": 157014,
+      "valid": true,
+      "warnings": [],
+      "shape": "object",
+      "topLevelKeys": [
+        "reciters"
+      ]
+    },
+    {
+      "sourceId": "everyayah-recitations-page",
+      "domain": "audio",
+      "rawPath": "audio/raw/2026-05-22T21-51-35-654Z/everyayah-recitations-page.html",
+      "ok": true,
+      "bytes": 51015,
+      "valid": true,
+      "warnings": []
     }
   ]
 }

@@ -1,0 +1,247 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-22T21:52:28.606Z",
+  "fonts": [
+    {
+      "id": "bazzi_v7_full",
+      "family": "Deen Bazzi V7 Full",
+      "file": "files/bazzi-v7-full.woff2",
+      "category": "uthmani",
+      "sourceUrl": "https://github.com/fawazahmed0/quran-api",
+      "directDownloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/bazzi-v7-full.woff2",
+      "license": "KFGQPC EULA: free use/copy/distribution; no sale, modification, reverse engineering, or alteration",
+      "retrievedAt": "2026-05-22T21:51:38.143Z"
+    },
+    {
+      "id": "doori_v8_full",
+      "family": "Deen Doori V8 Full",
+      "file": "files/doori-v8-full.woff2",
+      "category": "uthmani",
+      "sourceUrl": "https://github.com/fawazahmed0/quran-api",
+      "directDownloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/doori-v8-full.woff2",
+      "license": "KFGQPC EULA: free use/copy/distribution; no sale, modification, reverse engineering, or alteration",
+      "retrievedAt": "2026-05-22T21:51:39.120Z"
+    },
+    {
+      "id": "hafs_nastaleeq_ver10",
+      "family": "Deen Hafs Nastaleeq Ver10",
+      "file": "files/hafs-nastaleeq-ver10.woff2",
+      "category": "naskh-indopak",
+      "sourceUrl": "https://github.com/fawazahmed0/quran-api",
+      "directDownloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hafs-nastaleeq-ver10.woff2",
+      "license": "KFGQPC EULA: free use/copy/distribution; no sale, modification, reverse engineering, or alteration",
+      "retrievedAt": "2026-05-22T21:51:39.647Z"
+    },
+    {
+      "id": "hafs_smart_07",
+      "family": "Deen Hafs Smart 07",
+      "file": "files/hafs-smart-07.woff2",
+      "category": "uthmani",
+      "sourceUrl": "https://github.com/fawazahmed0/quran-api",
+      "directDownloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hafs-smart-07.woff2",
+      "license": "KFGQPC EULA: free use/copy/distribution; no sale, modification, reverse engineering, or alteration",
+      "retrievedAt": "2026-05-22T21:51:40.039Z"
+    },
+    {
+      "id": "hafs_uthmanic_v14_full",
+      "family": "Deen Hafs Uthmanic V14 Full",
+      "file": "files/hafs-uthmanic-v14-full.woff2",
+      "category": "uthmani",
+      "sourceUrl": "https://github.com/fawazahmed0/quran-api",
+      "directDownloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hafs-uthmanic-v14-full.woff2",
+      "license": "KFGQPC EULA: free use/copy/distribution; no sale, modification, reverse engineering, or alteration",
+      "retrievedAt": "2026-05-22T21:51:40.566Z"
+    },
+    {
+      "id": "harmattan",
+      "family": "Deen Harmattan",
+      "file": "files/harmattan.woff2",
+      "category": "plain-arabic",
+      "sourceUrl": "https://github.com/fawazahmed0/quran-api",
+      "directDownloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/harmattan.woff2",
+      "license": "Upstream font license retained; see source metadata",
+      "retrievedAt": "2026-05-22T21:51:41.824Z"
+    },
+    {
+      "id": "harmattan_full",
+      "family": "Deen Harmattan Full",
+      "file": "files/harmattan-full.woff2",
+      "category": "plain-arabic",
+      "sourceUrl": "https://github.com/fawazahmed0/quran-api",
+      "directDownloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/harmattan-full.woff2",
+      "license": "Upstream font license retained; see source metadata",
+      "retrievedAt": "2026-05-22T21:51:41.291Z"
+    },
+    {
+      "id": "nastaleeq_v10_full",
+      "family": "Deen Nastaleeq V10 Full",
+      "file": "files/nastaleeq-v10-full.woff2",
+      "category": "naskh-indopak",
+      "sourceUrl": "https://github.com/fawazahmed0/quran-api",
+      "directDownloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/nastaleeq-v10-full.woff2",
+      "license": "KFGQPC EULA: free use/copy/distribution; no sale, modification, reverse engineering, or alteration",
+      "retrievedAt": "2026-05-22T21:51:42.500Z"
+    },
+    {
+      "id": "qaloon_v8_full",
+      "family": "Deen Qaloon V8 Full",
+      "file": "files/qaloon-v8-full.woff2",
+      "category": "uthmani",
+      "sourceUrl": "https://github.com/fawazahmed0/quran-api",
+      "directDownloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/qaloon-v8-full.woff2",
+      "license": "KFGQPC EULA: free use/copy/distribution; no sale, modification, reverse engineering, or alteration",
+      "retrievedAt": "2026-05-22T21:51:43.329Z"
+    },
+    {
+      "id": "qumbul_v7_full",
+      "family": "Deen Qumbul V7 Full",
+      "file": "files/qumbul-v7-full.woff2",
+      "category": "uthmani",
+      "sourceUrl": "https://github.com/fawazahmed0/quran-api",
+      "directDownloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/qumbul-v7-full.woff2",
+      "license": "KFGQPC EULA: free use/copy/distribution; no sale, modification, reverse engineering, or alteration",
+      "retrievedAt": "2026-05-22T21:51:43.992Z"
+    },
+    {
+      "id": "shouba_v7_full",
+      "family": "Deen Shouba V7 Full",
+      "file": "files/shouba-v7-full.woff2",
+      "category": "uthmani",
+      "sourceUrl": "https://github.com/fawazahmed0/quran-api",
+      "directDownloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shouba-v7-full.woff2",
+      "license": "KFGQPC EULA: free use/copy/distribution; no sale, modification, reverse engineering, or alteration",
+      "retrievedAt": "2026-05-22T21:51:44.755Z"
+    },
+    {
+      "id": "soosi_v8_full",
+      "family": "Deen Soosi V8 Full",
+      "file": "files/soosi-v8-full.woff2",
+      "category": "uthmani",
+      "sourceUrl": "https://github.com/fawazahmed0/quran-api",
+      "directDownloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/soosi-v8-full.woff2",
+      "license": "KFGQPC EULA: free use/copy/distribution; no sale, modification, reverse engineering, or alteration",
+      "retrievedAt": "2026-05-22T21:51:45.285Z"
+    },
+    {
+      "id": "uthmanic_bazzi1_ver07",
+      "family": "Deen Uthmanic Bazzi1 Ver07",
+      "file": "files/uthmanic-bazzi1-ver07.woff2",
+      "category": "uthmani",
+      "sourceUrl": "https://github.com/fawazahmed0/quran-api",
+      "directDownloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-bazzi1-ver07.woff2",
+      "license": "KFGQPC EULA: free use/copy/distribution; no sale, modification, reverse engineering, or alteration",
+      "retrievedAt": "2026-05-22T21:51:47.434Z"
+    },
+    {
+      "id": "uthmanic_doori1_ver08",
+      "family": "Deen Uthmanic Doori1 Ver08",
+      "file": "files/uthmanic-doori1-ver08.woff2",
+      "category": "uthmani",
+      "sourceUrl": "https://github.com/fawazahmed0/quran-api",
+      "directDownloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-doori1-ver08.woff2",
+      "license": "KFGQPC EULA: free use/copy/distribution; no sale, modification, reverse engineering, or alteration",
+      "retrievedAt": "2026-05-22T21:51:52.764Z"
+    },
+    {
+      "id": "uthmanic_hafs_ver13",
+      "family": "Deen Uthmanic Hafs Ver13",
+      "file": "files/uthmanic-hafs-ver13.woff2",
+      "category": "uthmani",
+      "sourceUrl": "https://github.com/fawazahmed0/quran-api",
+      "directDownloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-hafs-ver13.woff2",
+      "license": "KFGQPC EULA: free use/copy/distribution; no sale, modification, reverse engineering, or alteration",
+      "retrievedAt": "2026-05-22T21:51:53.413Z"
+    },
+    {
+      "id": "uthmanic_hafs1_ver09",
+      "family": "Deen Uthmanic Hafs1 Ver09",
+      "file": "files/uthmanic-hafs1-ver09.woff2",
+      "category": "uthmani",
+      "sourceUrl": "https://github.com/fawazahmed0/quran-api",
+      "directDownloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-hafs1-ver09.woff2",
+      "license": "KFGQPC EULA: free use/copy/distribution; no sale, modification, reverse engineering, or alteration",
+      "retrievedAt": "2026-05-22T21:51:54.082Z"
+    },
+    {
+      "id": "uthmanic_hafs1_ver13",
+      "family": "Deen Uthmanic Hafs1 Ver13",
+      "file": "files/uthmanic-hafs1-ver13.woff2",
+      "category": "uthmani",
+      "sourceUrl": "https://github.com/fawazahmed0/quran-api",
+      "directDownloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-hafs1-ver13.woff2",
+      "license": "KFGQPC EULA: free use/copy/distribution; no sale, modification, reverse engineering, or alteration",
+      "retrievedAt": "2026-05-22T21:51:54.806Z"
+    },
+    {
+      "id": "uthmanic_hafs1_ver14",
+      "family": "Deen Uthmanic Hafs1 Ver14",
+      "file": "files/uthmanic-hafs1-ver14.woff2",
+      "category": "uthmani",
+      "sourceUrl": "https://github.com/fawazahmed0/quran-api",
+      "directDownloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-hafs1-ver14.woff2",
+      "license": "KFGQPC EULA: free use/copy/distribution; no sale, modification, reverse engineering, or alteration",
+      "retrievedAt": "2026-05-22T21:51:55.456Z"
+    },
+    {
+      "id": "uthmanic_qaloon1_ver08",
+      "family": "Deen Uthmanic Qaloon1 Ver08",
+      "file": "files/uthmanic-qaloon1-ver08.woff2",
+      "category": "uthmani",
+      "sourceUrl": "https://github.com/fawazahmed0/quran-api",
+      "directDownloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-qaloon1-ver08.woff2",
+      "license": "KFGQPC EULA: free use/copy/distribution; no sale, modification, reverse engineering, or alteration",
+      "retrievedAt": "2026-05-22T21:51:56.842Z"
+    },
+    {
+      "id": "uthmanic_qumbul1_ver07",
+      "family": "Deen Uthmanic Qumbul1 Ver07",
+      "file": "files/uthmanic-qumbul1-ver07.woff2",
+      "category": "uthmani",
+      "sourceUrl": "https://github.com/fawazahmed0/quran-api",
+      "directDownloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-qumbul1-ver07.woff2",
+      "license": "KFGQPC EULA: free use/copy/distribution; no sale, modification, reverse engineering, or alteration",
+      "retrievedAt": "2026-05-22T21:51:57.366Z"
+    },
+    {
+      "id": "uthmanic_shouba1_ver07",
+      "family": "Deen Uthmanic Shouba1 Ver07",
+      "file": "files/uthmanic-shouba1-ver07.woff2",
+      "category": "uthmani",
+      "sourceUrl": "https://github.com/fawazahmed0/quran-api",
+      "directDownloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-shouba1-ver07.woff2",
+      "license": "KFGQPC EULA: free use/copy/distribution; no sale, modification, reverse engineering, or alteration",
+      "retrievedAt": "2026-05-22T21:51:57.916Z"
+    },
+    {
+      "id": "uthmanic_soosi1_ver08",
+      "family": "Deen Uthmanic Soosi1 Ver08",
+      "file": "files/uthmanic-soosi1-ver08.woff2",
+      "category": "uthmani",
+      "sourceUrl": "https://github.com/fawazahmed0/quran-api",
+      "directDownloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-soosi1-ver08.woff2",
+      "license": "KFGQPC EULA: free use/copy/distribution; no sale, modification, reverse engineering, or alteration",
+      "retrievedAt": "2026-05-22T21:51:58.390Z"
+    },
+    {
+      "id": "uthmanic_warsh1_ver08",
+      "family": "Deen Uthmanic Warsh1 Ver08",
+      "file": "files/uthmanic-warsh1-ver08.woff2",
+      "category": "uthmani",
+      "sourceUrl": "https://github.com/fawazahmed0/quran-api",
+      "directDownloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-warsh1-ver08.woff2",
+      "license": "KFGQPC EULA: free use/copy/distribution; no sale, modification, reverse engineering, or alteration",
+      "retrievedAt": "2026-05-22T21:51:58.923Z"
+    },
+    {
+      "id": "warsh_v8_full",
+      "family": "Deen Warsh V8 Full",
+      "file": "files/warsh-v8-full.woff2",
+      "category": "uthmani",
+      "sourceUrl": "https://github.com/fawazahmed0/quran-api",
+      "directDownloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/warsh-v8-full.woff2",
+      "license": "KFGQPC EULA: free use/copy/distribution; no sale, modification, reverse engineering, or alteration",
+      "retrievedAt": "2026-05-22T21:51:59.516Z"
+    }
+  ],
+  "cssPath": "fonts/css/deen-fonts.css"
+}

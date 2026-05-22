@@ -34,6 +34,15 @@ const seededSources = [
     openPublic: true
   },
   {
+    id: "fawazahmed0-quran-fonts",
+    domain: "fonts",
+    sourceUrl: "https://github.com/fawazahmed0/quran-api",
+    directDownloadUrl: "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts.json",
+    license: "Unlicense for repository metadata; embedded KFGQPC font records retain their upstream EULA",
+    kind: "font-index",
+    openPublic: true
+  },
+  {
     id: "ar-tanzil-quran-simple-npm",
     domain: "quran",
     sourceUrl: "https://cdn.jsdelivr.net/npm/ar.tanzil.quran-simple.txt/",
@@ -83,17 +92,17 @@ const seededSources = [
     domain: "audio",
     sourceUrl: "https://www.mp3quran.net/api",
     directDownloadUrl: "https://www.mp3quran.net/api/v3/reciters?language=eng",
-    license: "License not clearly declared on API docs; index URLs only until reviewed",
+    license: "Public download/index API; per-reciter rights retained by reciters/publishers where applicable",
     kind: "audio-index",
     openPublic: true
   },
   {
-    id: "everyayah-public-recitation-index",
+    id: "everyayah-recitations-page",
     domain: "audio",
     sourceUrl: "https://everyayah.com/recitations_ayat.html",
-    directDownloadUrl: null,
-    license: "License not clearly declared; public recitation index requires review before mirroring audio",
-    kind: "audio-reference",
+    directDownloadUrl: "https://everyayah.com/recitations_ayat.html",
+    license: "Public download page with GO/ZIP/MD5 links; per-reciter rights retained by reciters/publishers where applicable",
+    kind: "audio-recitation-index",
     openPublic: true
   },
   {

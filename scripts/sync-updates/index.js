@@ -7,6 +7,8 @@ const steps = [
   ["node", ["scripts/normalize-quran/index.js"]],
   ["node", ["scripts/normalize-hadith/index.js"]],
   ["node", ["scripts/normalize-audio/index.js"]],
+  ["node", ["scripts/normalize-fonts/index.js"]],
+  ["node", ["scripts/build-api-index/index.js"]],
   ["node", ["--test"]]
 ];
 
@@ -25,9 +27,11 @@ run("git", [
   "packages",
   "deensdk",
   "src",
+  "docs",
   "scripts",
   "tests",
   "README.md",
+  "CHANGELOG.md",
   "package.json",
   "pnpm-lock.yaml",
   "pyproject.toml"

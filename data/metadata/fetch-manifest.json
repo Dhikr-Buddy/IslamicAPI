@@ -1,30 +1,294 @@
 {
   "schemaVersion": 1,
-  "runId": "2026-05-22T21-31-30-231Z",
-  "generatedAt": "2026-05-22T21:31:30.232Z",
+  "runId": "2026-05-22T21-51-35-654Z",
+  "generatedAt": "2026-05-22T21:51:35.662Z",
   "files": [
     {
       "sourceId": "tanzil-quran-text",
       "domain": "quran",
-      "rawPath": "quran/raw/2026-05-22T21-31-30-231Z/tanzil-quran-text.txt",
+      "rawPath": "quran/raw/2026-05-22T21-51-35-654Z/tanzil-quran-text.txt",
       "ok": true
     },
     {
-      "sourceId": "fawazahmed0-quran-api",
-      "domain": "quran",
-      "ok": false,
-      "error": "Fetch failed 403 for https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranuthmani.json"
+      "sourceId": "fawazahmed0-quran-fonts",
+      "domain": "fonts",
+      "rawPath": "fonts/raw/2026-05-22T21-51-35-654Z/fawazahmed0-quran-fonts.json",
+      "ok": true
+    },
+    {
+      "sourceId": "quran-font:bazzi_v7_full",
+      "domain": "fonts",
+      "rawPath": "fonts/files/bazzi-v7-full.woff2",
+      "ok": true
+    },
+    {
+      "sourceId": "quran-font:doori_v8_full",
+      "domain": "fonts",
+      "rawPath": "fonts/files/doori-v8-full.woff2",
+      "ok": true
+    },
+    {
+      "sourceId": "quran-font:hafs_nastaleeq_ver10",
+      "domain": "fonts",
+      "rawPath": "fonts/files/hafs-nastaleeq-ver10.woff2",
+      "ok": true
+    },
+    {
+      "sourceId": "quran-font:hafs_smart_07",
+      "domain": "fonts",
+      "rawPath": "fonts/files/hafs-smart-07.woff2",
+      "ok": true
+    },
+    {
+      "sourceId": "quran-font:hafs_uthmanic_v14_full",
+      "domain": "fonts",
+      "rawPath": "fonts/files/hafs-uthmanic-v14-full.woff2",
+      "ok": true
+    },
+    {
+      "sourceId": "quran-font:harmattan_full",
+      "domain": "fonts",
+      "rawPath": "fonts/files/harmattan-full.woff2",
+      "ok": true
+    },
+    {
+      "sourceId": "quran-font:harmattan",
+      "domain": "fonts",
+      "rawPath": "fonts/files/harmattan.woff2",
+      "ok": true
+    },
+    {
+      "sourceId": "quran-font:nastaleeq_v10_full",
+      "domain": "fonts",
+      "rawPath": "fonts/files/nastaleeq-v10-full.woff2",
+      "ok": true
+    },
+    {
+      "sourceId": "quran-font:qaloon_v8_full",
+      "domain": "fonts",
+      "rawPath": "fonts/files/qaloon-v8-full.woff2",
+      "ok": true
+    },
+    {
+      "sourceId": "quran-font:qumbul_v7_full",
+      "domain": "fonts",
+      "rawPath": "fonts/files/qumbul-v7-full.woff2",
+      "ok": true
+    },
+    {
+      "sourceId": "quran-font:shouba_v7_full",
+      "domain": "fonts",
+      "rawPath": "fonts/files/shouba-v7-full.woff2",
+      "ok": true
+    },
+    {
+      "sourceId": "quran-font:soosi_v8_full",
+      "domain": "fonts",
+      "rawPath": "fonts/files/soosi-v8-full.woff2",
+      "ok": true
+    },
+    {
+      "sourceId": "quran-font:uthmanic_bazzi1_ver07",
+      "domain": "fonts",
+      "rawPath": "fonts/files/uthmanic-bazzi1-ver07.woff2",
+      "ok": true
+    },
+    {
+      "sourceId": "quran-font:uthmanic_doori1_ver08",
+      "domain": "fonts",
+      "rawPath": "fonts/files/uthmanic-doori1-ver08.woff2",
+      "ok": true
+    },
+    {
+      "sourceId": "quran-font:uthmanic_hafs_ver13",
+      "domain": "fonts",
+      "rawPath": "fonts/files/uthmanic-hafs-ver13.woff2",
+      "ok": true
+    },
+    {
+      "sourceId": "quran-font:uthmanic_hafs1_ver09",
+      "domain": "fonts",
+      "rawPath": "fonts/files/uthmanic-hafs1-ver09.woff2",
+      "ok": true
+    },
+    {
+      "sourceId": "quran-font:uthmanic_hafs1_ver13",
+      "domain": "fonts",
+      "rawPath": "fonts/files/uthmanic-hafs1-ver13.woff2",
+      "ok": true
+    },
+    {
+      "sourceId": "quran-font:uthmanic_hafs1_ver14",
+      "domain": "fonts",
+      "rawPath": "fonts/files/uthmanic-hafs1-ver14.woff2",
+      "ok": true
+    },
+    {
+      "sourceId": "quran-font:uthmanic_qaloon1_ver08",
+      "domain": "fonts",
+      "rawPath": "fonts/files/uthmanic-qaloon1-ver08.woff2",
+      "ok": true
+    },
+    {
+      "sourceId": "quran-font:uthmanic_qumbul1_ver07",
+      "domain": "fonts",
+      "rawPath": "fonts/files/uthmanic-qumbul1-ver07.woff2",
+      "ok": true
+    },
+    {
+      "sourceId": "quran-font:uthmanic_shouba1_ver07",
+      "domain": "fonts",
+      "rawPath": "fonts/files/uthmanic-shouba1-ver07.woff2",
+      "ok": true
+    },
+    {
+      "sourceId": "quran-font:uthmanic_soosi1_ver08",
+      "domain": "fonts",
+      "rawPath": "fonts/files/uthmanic-soosi1-ver08.woff2",
+      "ok": true
+    },
+    {
+      "sourceId": "quran-font:uthmanic_warsh1_ver08",
+      "domain": "fonts",
+      "rawPath": "fonts/files/uthmanic-warsh1-ver08.woff2",
+      "ok": true
+    },
+    {
+      "sourceId": "quran-font:warsh_v8_full",
+      "domain": "fonts",
+      "rawPath": "fonts/files/warsh-v8-full.woff2",
+      "ok": true
     },
     {
       "sourceId": "ar-tanzil-quran-simple-npm",
       "domain": "quran",
-      "rawPath": "quran/raw/2026-05-22T21-31-30-231Z/ar-tanzil-quran-simple-npm.json",
+      "rawPath": "quran/raw/2026-05-22T21-51-35-654Z/ar-tanzil-quran-simple-npm.json",
       "ok": true
     },
     {
       "sourceId": "fawazahmed0-hadith-api",
       "domain": "hadith",
-      "rawPath": "hadith/raw/2026-05-22T21-31-30-231Z/fawazahmed0-hadith-api.json",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/fawazahmed0-hadith-api.json",
+      "ok": true
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-edition:ara-abudawud",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/ara-abudawud.json",
+      "ok": true
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-edition:ara-abudawud1",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/ara-abudawud1.json",
+      "ok": true
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-edition:eng-abudawud",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/eng-abudawud.json",
+      "ok": true
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-edition:ara-bukhari",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/ara-bukhari.json",
+      "ok": true
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-edition:ara-bukhari1",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/ara-bukhari1.json",
+      "ok": true
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-edition:eng-bukhari",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/eng-bukhari.json",
+      "ok": true
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-edition:ara-ibnmajah",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/ara-ibnmajah.json",
+      "ok": true
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-edition:ara-ibnmajah1",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/ara-ibnmajah1.json",
+      "ok": true
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-edition:eng-ibnmajah",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/eng-ibnmajah.json",
+      "ok": true
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-edition:ara-muslim",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/ara-muslim.json",
+      "ok": true
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-edition:ara-muslim1",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/ara-muslim1.json",
+      "ok": true
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-edition:eng-muslim",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/eng-muslim.json",
+      "ok": true
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-edition:ara-nasai",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/ara-nasai.json",
+      "ok": true
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-edition:ara-nasai1",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/ara-nasai1.json",
+      "ok": true
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-edition:eng-nasai",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/eng-nasai.json",
+      "ok": true
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-edition:ara-tirmidhi",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/ara-tirmidhi.json",
+      "ok": true
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-edition:ara-tirmidhi1",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/ara-tirmidhi1.json",
+      "ok": true
+    },
+    {
+      "sourceId": "fawazahmed0-hadith-edition:eng-tirmidhi",
+      "domain": "hadith",
+      "rawPath": "hadith/raw/2026-05-22T21-51-35-654Z/eng-tirmidhi.json",
+      "ok": true
+    },
+    {
+      "sourceId": "mp3quran-api",
+      "domain": "audio",
+      "rawPath": "audio/raw/2026-05-22T21-51-35-654Z/mp3quran-api.json",
+      "ok": true
+    },
+    {
+      "sourceId": "everyayah-recitations-page",
+      "domain": "audio",
+      "rawPath": "audio/raw/2026-05-22T21-51-35-654Z/everyayah-recitations-page.html",
       "ok": true
     }
   ]

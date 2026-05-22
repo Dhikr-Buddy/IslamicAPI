@@ -47,3 +47,20 @@ export function calculatePrayerTimes(input: {
 export function getQiblaDirection(latitude: number, longitude: number): number;
 export function getReciterList(): Array<Record<string, unknown>>;
 export function getAudioUrl(reciterId: string, surahNumber: number, ayahNumber: number): string | null;
+export function getFontList(): Array<Record<string, unknown>>;
+export function getFontCss(): string;
+export function githubRawUrl(filePath: string, options?: { owner?: string; repo?: string; ref?: string }): string;
+export function createRawDataClient(options?: {
+  owner?: string;
+  repo?: string;
+  ref?: string;
+  fetchImpl?: typeof fetch;
+}): {
+  indexUrl: string;
+  loadIndex(): Promise<Record<string, unknown>>;
+  loadQuran(): Promise<Record<string, unknown>>;
+  loadHadith(): Promise<Record<string, unknown>>;
+  loadAudio(): Promise<Record<string, unknown>>;
+  loadFonts(): Promise<Record<string, unknown>>;
+  rawUrl(filePath: string): string;
+};

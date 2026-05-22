@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>IslamicAPI Wiki</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main>
+      <h1>IslamicAPI Wiki</h1>
+      <p>
+        Offline-first Quran, hadith, prayer, qibla, recitation, and Mushaf font data with reproducible
+        provenance. No generated religious content is used.
+      </p>
+
+      <section>
+        <h2>Raw GitHub API</h2>
+        <pre><code>import { createDeenRawClient } from "https://dhikr-buddy.github.io/IslamicAPI/deen-web.js";
+
+const deen = createDeenRawClient();
+const quran = await deen.loadQuran();
+const hadith = await deen.loadHadith();</code></pre>
+      </section>
+
+      <section>
+        <h2>Local SDKs</h2>
+        <pre><code>pnpm install
+pnpm dev
+pip install -e .</code></pre>
+      </section>
+
+      <section>
+        <h2>Static Data Files</h2>
+        <ul id="files"></ul>
+      </section>
+    </main>
+    <script type="module">
+      import { createDeenRawClient } from "./deen-web.js";
+      const list = document.querySelector("#files");
+      const client = createDeenRawClient();
+      client.loadIndex().then((index) => {
+        for (const [name, file] of Object.entries(index.files)) {
+          const item = document.createElement("li");
+          const link = document.createElement("a");
+          link.href = file.url;
+          link.textContent = `${name}: ${file.path}`;
+          item.append(link);
+          list.append(item);
+        }
+      });
+    </script>
+  </body>
+</html>

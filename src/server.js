@@ -1,6 +1,10 @@
 import http from "node:http";
+import fs from "node:fs";
+import path from "node:path";
 import {
   calculatePrayerTimes,
+  getFontCss,
+  getFontList,
   getAudioUrl,
   getAyah,
   getHadith,
@@ -13,6 +17,8 @@ import {
 
 const port = Number(process.env.PORT || 3000);
 const host = process.env.HOST || "127.0.0.1";
+const root = path.resolve(new URL("..", import.meta.url).pathname);
+const dataRoot = process.env.DEEN_DATA_ROOT || path.join(root, "data");
 
 const server = http.createServer((req, res) => {
   const url = new URL(req.url, `http://${req.headers.host}`);
@@ -41,6 +47,12 @@ const server = http.createServer((req, res) => {
         { url: getAudioUrl(url.searchParams.get("reciterId"), url.searchParams.get("surah"), url.searchParams.get("ayah")) }
       );
     }
+    if (url.pathname === "/fonts") return json(res, getFontList());
+    if (url.pathname === "/fonts.css") return text(res, getFontCss(), "text/css; charset=utf-8");
+    if (url.pathname.startsWith("/fonts/files/")) return fontFile(res, url.pathname.replace("/fonts/files/", ""));
+    if (url.pathname === "/raw-api") {
+      return json(res, readJson(path.join(dataRoot, "api/index.json"), { error: "Run pnpm build:api-index first." }));
+    }
     return json(res, { error: "Not found" }, 404);
   } catch (error) {
     return json(res, { error: error.message }, 400);
@@ -54,4 +66,22 @@ server.listen(port, host, () => {
 function json(res, body, status = 200) {
   res.writeHead(status, { "content-type": "application/json; charset=utf-8" });
   res.end(JSON.stringify(body, null, 2));
+}
+
+function text(res, body, contentType, status = 200) {
+  res.writeHead(status, { "content-type": contentType });
+  res.end(body);
+}
+
+function fontFile(res, fileName) {
+  const safeName = path.basename(fileName);
+  const filePath = path.join(dataRoot, "fonts/files", safeName);
+  if (!fs.existsSync(filePath)) return json(res, { error: "Font not found" }, 404);
+  res.writeHead(200, { "content-type": "font/woff2", "cache-control": "public, max-age=31536000, immutable" });
+  fs.createReadStream(filePath).pipe(res);
+}
+
+function readJson(filePath, fallback) {
+  if (!fs.existsSync(filePath)) return fallback;
+  return JSON.parse(fs.readFileSync(filePath, "utf8"));
 }

@@ -1,0 +1,2 @@
+recursive-include data *.json *.css *.woff2 *.html *.txt
+include README.md LICENSE package.json

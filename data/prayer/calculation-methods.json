@@ -8,7 +8,7 @@
     "MuslimWorldLeague": { "fajrAngle": 18, "ishaAngle": 17 },
     "Egyptian": { "fajrAngle": 19.5, "ishaAngle": 17.5 },
     "Karachi": { "fajrAngle": 18, "ishaAngle": 18 },
-    "UmmAlQura": { "fajrAngle": 18.5, "ishaAngle": 0, "maghribMinutes": 90 },
+    "UmmAlQura": { "fajrAngle": 18.5, "ishaMinutes": 90 },
     "Dubai": { "fajrAngle": 18.2, "ishaAngle": 18.2 },
     "MoonsightingCommittee": { "fajrAngle": 18, "ishaAngle": 18 }
   }

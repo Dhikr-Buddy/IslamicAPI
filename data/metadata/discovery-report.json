@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-22T21:31:22.877Z",
+  "generatedAt": "2026-05-22T21:51:22.041Z",
   "accepted": [
     "tanzil-quran-text",
-    "fawazahmed0-quran-api",
+    "fawazahmed0-quran-fonts",
     "ar-tanzil-quran-simple-npm",
     "quran-foundation-api",
     "fawazahmed0-hadith-api",
+    "mp3quran-api",
+    "everyayah-recitations-page",
     "batoulapps-adhan-js"
   ],
   "requiresReview": [
     "alquran-cloud-api",
-    "mhashim6-open-hadith-data",
-    "mp3quran-api",
-    "everyayah-public-recitation-index"
+    "mhashim6-open-hadith-data"
   ],
   "previousRegistryPresent": true
 }

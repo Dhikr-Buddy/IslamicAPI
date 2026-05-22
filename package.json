@@ -15,6 +15,7 @@
     "src",
     "scripts",
     "README.md",
+    "CHANGELOG.md",
     "LICENSE"
   ],
   "scripts": {
@@ -25,6 +26,8 @@
     "normalize:quran": "node scripts/normalize-quran/index.js",
     "normalize:hadith": "node scripts/normalize-hadith/index.js",
     "normalize:audio": "node scripts/normalize-audio/index.js",
+    "normalize:fonts": "node scripts/normalize-fonts/index.js",
+    "build:api-index": "node scripts/build-api-index/index.js",
     "sync:updates": "node scripts/sync-updates/index.js",
     "test": "node --test"
   },

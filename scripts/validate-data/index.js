@@ -21,7 +21,7 @@ for (const file of manifest.files.filter((item) => item.ok)) {
   } else if (!text.trim()) {
     row.valid = false;
     row.error = "Empty text file";
-  } else if (/<html[\s>]/i.test(text) || /<!doctype html/i.test(text)) {
+  } else if ((/<html[\s>]/i.test(text) || /<!doctype html/i.test(text)) && file.sourceId !== "everyayah-recitations-page") {
     row.valid = false;
     row.error = "Expected dataset text but received HTML.";
   }

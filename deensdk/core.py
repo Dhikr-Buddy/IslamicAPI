@@ -30,6 +30,10 @@ def _audio() -> dict[str, Any]:
     return _read_json(DATA_ROOT / "audio/normalized/audio-index.json", {"reciters": [], "audio": []})
 
 
+def _fonts() -> dict[str, Any]:
+    return _read_json(DATA_ROOT / "fonts/normalized/fonts.json", {"fonts": []})
+
+
 def get_surah(number: int) -> dict[str, Any] | None:
     data = _quran()
     row = next((item for item in data["surahs"] if item.get("number") == int(number)), None)
@@ -79,11 +83,24 @@ def get_reciter_list() -> list[dict[str, Any]]:
 
 
 def get_audio_url(reciter_id: str, surah_number: int, ayah_number: int | None = None) -> str | None:
+    data = _audio()
     for row in _audio()["audio"]:
         if row.get("reciterId") == reciter_id and row.get("surahNumber") == int(surah_number):
-            if ayah_number is None or row.get("ayahNumber") == int(ayah_number):
+            if ayah_number is None or row.get("ayahNumber") in (int(ayah_number), None):
                 return row.get("url")
+    reciter = next((item for item in data["reciters"] if item.get("id") == reciter_id or item.get("reciterId") == reciter_id), None)
+    if reciter and reciter.get("urlTemplate"):
+        return _fill_audio_template(reciter["urlTemplate"], int(surah_number), int(ayah_number or 1))
     return None
+
+
+def get_font_list() -> list[dict[str, Any]]:
+    return _fonts()["fonts"]
+
+
+def github_raw_url(file_path: str, owner: str = "Dhikr-Buddy", repo: str = "IslamicAPI", ref: str = "master") -> str:
+    clean_path = file_path.lstrip("/")
+    return f"https://raw.githubusercontent.com/{owner}/{repo}/{ref}/{clean_path}"
 
 
 def get_qibla_direction(latitude: float, longitude: float) -> float:
@@ -101,7 +118,7 @@ METHODS = {
     "MuslimWorldLeague": {"fajrAngle": 18, "ishaAngle": 17},
     "Egyptian": {"fajrAngle": 19.5, "ishaAngle": 17.5},
     "Karachi": {"fajrAngle": 18, "ishaAngle": 18},
-    "UmmAlQura": {"fajrAngle": 18.5, "ishaAngle": 0, "maghribMinutes": 90},
+    "UmmAlQura": {"fajrAngle": 18.5, "ishaMinutes": 90},
     "Dubai": {"fajrAngle": 18.2, "ishaAngle": 18.2},
     "MoonsightingCommittee": {"fajrAngle": 18, "ishaAngle": 18},
 }
@@ -116,7 +133,8 @@ def calculate_prayer_times(
     madhab: str = "shafi",
 ) -> dict[str, Any]:
     current = date.fromisoformat(date_value) if isinstance(date_value, str) else date_value or date.today()
-    tz = timezone if timezone is not None else -datetime.now().astimezone().utcoffset().total_seconds() / 3600
+    offset = datetime.now().astimezone().utcoffset()
+    tz = timezone if timezone is not None else (offset.total_seconds() / 3600 if offset else 0)
     params = METHODS.get(method, METHODS["MuslimWorldLeague"])
     day = current.timetuple().tm_yday
     declination = 23.45 * math.sin(math.radians((360 / 365) * (day - 81)))
@@ -128,7 +146,11 @@ def calculate_prayer_times(
     asr = noon + _asr_angle(latitude, declination, 2 if madhab == "hanafi" else 1) / 15
     sunset = noon + _hour_angle(latitude, declination, 90.833) / 15
     maghrib = sunset + params.get("maghribMinutes", 0) / 60
-    isha = noon + _hour_angle(latitude, declination, 90 + params["ishaAngle"]) / 15
+    isha = (
+        sunset + params["ishaMinutes"] / 60
+        if "ishaMinutes" in params
+        else noon + _hour_angle(latitude, declination, 90 + params["ishaAngle"]) / 15
+    )
     return {
         "method": method,
         "date": current.isoformat(),
@@ -162,3 +184,12 @@ def _asr_angle(latitude: float, declination: float, shadow_factor: int) -> float
 def _format_time(hours: float) -> str:
     minutes = round((hours % 24) * 60)
     return f"{minutes // 60 % 24:02d}:{minutes % 60:02d}"
+
+
+def _fill_audio_template(template: str, surah_number: int, ayah_number: int) -> str:
+    return (
+        template.replace("{surah}", str(surah_number))
+        .replace("{ayah}", str(ayah_number))
+        .replace("{surah3}", f"{surah_number:03d}")
+        .replace("{ayah3}", f"{ayah_number:03d}")
+    )

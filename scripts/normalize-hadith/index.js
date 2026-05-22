@@ -10,6 +10,7 @@ for (const file of manifest.files.filter((item) => item.ok && item.domain === "h
   const metadata = readJson(absolute.replace(/\.[^.]+$/, ".metadata.json"), {});
   const json = JSON.parse(fs.readFileSync(absolute, "utf8"));
   if (file.sourceId === "fawazahmed0-hadith-api") normalizeFawazIndex(json, metadata);
+  if (file.sourceId.startsWith("fawazahmed0-hadith-edition:")) normalizeFawazEdition(json, metadata);
 }
 
 writeJson(path.join(dataRoot, "hadith/normalized/hadith.json"), out);
@@ -44,4 +45,60 @@ function normalizeFawazIndex(json, metadata) {
       retrievedAt: metadata.retrievedAt
     });
   }
+}
+
+function normalizeFawazEdition(json, metadata) {
+  const rows = Array.isArray(json) ? json : json.hadiths || json.data || [];
+  const languageKey = languageCode(metadata.language);
+  for (let index = 0; index < rows.length; index += 1) {
+    const row = rows[index];
+    const number = String(row.hadithnumber ?? row.hadithNumber ?? row.number ?? row.id ?? index + 1);
+    const collection = metadata.collection;
+    const id = `${collection}:${number}`;
+    const text = row.text || row.hadith || row.body || row.content;
+    if (!text) continue;
+    let hadith = out.hadiths.find((item) => item.id === id);
+    if (!hadith) {
+      hadith = {
+        id,
+        collection,
+        collectionName: metadata.collectionName,
+        book: bookName(row),
+        number,
+        text: {},
+        grade: grade(row),
+        provenance: []
+      };
+      out.hadiths.push(hadith);
+    }
+    hadith.text[languageKey] = text;
+    hadith.provenance.push({
+      sourceUrl: metadata.sourceUrl,
+      directDownloadUrl: metadata.directDownloadUrl,
+      license: metadata.license,
+      retrievedAt: metadata.retrievedAt,
+      edition: metadata.edition,
+      language: metadata.language
+    });
+  }
+}
+
+function languageCode(language) {
+  const lower = String(language || "").toLowerCase();
+  if (lower.startsWith("arabic")) return "ar";
+  if (lower.startsWith("english")) return "en";
+  return lower.slice(0, 2) || "und";
+}
+
+function bookName(row) {
+  if (typeof row.reference?.book === "string") return row.reference.book;
+  if (typeof row.book === "string") return row.book;
+  if (typeof row.book?.name === "string") return row.book.name;
+  return null;
+}
+
+function grade(row) {
+  if (typeof row.grade === "string") return row.grade;
+  if (Array.isArray(row.grades)) return row.grades.map((item) => item.grade || item).filter(Boolean).join("; ") || null;
+  return null;
 }

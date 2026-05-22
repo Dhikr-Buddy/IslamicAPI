@@ -35,6 +35,13 @@ function audioData() {
   });
 }
 
+function fontData() {
+  return readJsonIfExists(path.join(DATA_ROOT, "fonts/normalized/fonts.json"), {
+    schemaVersion: 1,
+    fonts: []
+  });
+}
+
 export function getSurah(number) {
   const n = Number(number);
   const data = quranData();
@@ -78,11 +85,52 @@ export function getReciterList() {
 
 export function getAudioUrl(reciterId, surahNumber, ayahNumber) {
   const s = Number(surahNumber);
-  const a = Number(ayahNumber);
-  const row = audioData().audio.find(
-    (item) => item.reciterId === reciterId && item.surahNumber === s && item.ayahNumber === a
+  const a = ayahNumber == null ? null : Number(ayahNumber);
+  const data = audioData();
+  const row = data.audio.find(
+    (item) => item.reciterId === reciterId && item.surahNumber === s && (a == null || item.ayahNumber === a || item.ayahNumber == null)
   );
-  return row?.url || null;
+  if (row?.url) return row.url;
+  const reciter = data.reciters.find((item) => item.id === reciterId || item.reciterId === reciterId);
+  if (!reciter?.urlTemplate) return null;
+  return fillAudioTemplate(reciter.urlTemplate, s, a || 1);
+}
+
+export function getFontList() {
+  return fontData().fonts;
+}
+
+export function getFontCss() {
+  const cssPath = path.join(DATA_ROOT, "fonts/css/deen-fonts.css");
+  return fs.existsSync(cssPath) ? fs.readFileSync(cssPath, "utf8") : "";
+}
+
+export function githubRawUrl(filePath, options = {}) {
+  const owner = options.owner || "Dhikr-Buddy";
+  const repo = options.repo || "IslamicAPI";
+  const ref = options.ref || "master";
+  return `https://raw.githubusercontent.com/${owner}/${repo}/${ref}/${String(filePath).replace(/^\/+/, "")}`;
+}
+
+export function createRawDataClient(options = {}) {
+  const fetchImpl = options.fetchImpl || globalThis.fetch;
+  if (!fetchImpl) throw new Error("A fetch implementation is required for the raw GitHub data client.");
+  const indexUrl = githubRawUrl("data/api/index.json", options);
+  async function load(key) {
+    const index = await fetchJsonUrl(indexUrl, fetchImpl);
+    const file = index.files[key];
+    if (!file) throw new Error(`Unknown raw API key: ${key}`);
+    return fetchJsonUrl(file.url, fetchImpl);
+  }
+  return {
+    indexUrl,
+    loadIndex: () => fetchJsonUrl(indexUrl, fetchImpl),
+    loadQuran: () => load("quran"),
+    loadHadith: () => load("hadith"),
+    loadAudio: () => load("audio"),
+    loadFonts: () => load("fonts"),
+    rawUrl: (filePath) => githubRawUrl(filePath, options)
+  };
 }
 
 export function getQiblaDirection(latitude, longitude) {
@@ -112,7 +160,9 @@ export function calculatePrayerTimes(input) {
   const asr = noon + asrHourAngle(latitude, declination, input.madhab === "hanafi" ? 2 : 1) / 15;
   const sunset = noon + hourAngle(latitude, declination, 90.833) / 15;
   const maghrib = sunset + (method.maghribMinutes || 0) / 60;
-  const isha = noon + hourAngle(latitude, declination, 90 + method.ishaAngle) / 15;
+  const isha = method.ishaMinutes
+    ? sunset + method.ishaMinutes / 60
+    : noon + hourAngle(latitude, declination, 90 + method.ishaAngle) / 15;
   return {
     method: method.name,
     date: date.toISOString().slice(0, 10),
@@ -130,7 +180,7 @@ export const calculationMethods = {
   MuslimWorldLeague: { name: "MuslimWorldLeague", fajrAngle: 18, ishaAngle: 17 },
   Egyptian: { name: "Egyptian", fajrAngle: 19.5, ishaAngle: 17.5 },
   Karachi: { name: "Karachi", fajrAngle: 18, ishaAngle: 18 },
-  UmmAlQura: { name: "UmmAlQura", fajrAngle: 18.5, ishaAngle: 0, maghribMinutes: 90 },
+  UmmAlQura: { name: "UmmAlQura", fajrAngle: 18.5, ishaMinutes: 90 },
   Dubai: { name: "Dubai", fajrAngle: 18.2, ishaAngle: 18.2 },
   MoonsightingCommittee: { name: "MoonsightingCommittee", fajrAngle: 18, ishaAngle: 18 }
 };
@@ -178,4 +228,18 @@ function formatTime(hours) {
   const h = Math.floor(totalMinutes / 60) % 24;
   const m = totalMinutes % 60;
   return `${String(h).padStart(2, "0")}:${String(m).padStart(2, "0")}`;
+}
+
+function fillAudioTemplate(template, surahNumber, ayahNumber) {
+  return template
+    .replaceAll("{surah}", String(surahNumber))
+    .replaceAll("{ayah}", String(ayahNumber))
+    .replaceAll("{surah3}", String(surahNumber).padStart(3, "0"))
+    .replaceAll("{ayah3}", String(ayahNumber).padStart(3, "0"));
+}
+
+async function fetchJsonUrl(url, fetchImpl) {
+  const response = await fetchImpl(url);
+  if (!response.ok) throw new Error(`Fetch failed ${response.status} for ${url}`);
+  return response.json();
 }
