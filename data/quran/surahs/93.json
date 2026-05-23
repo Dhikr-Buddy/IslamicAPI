@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T01:55:58.003Z",
+  "generatedAt": "2026-05-23T02:33:24.502Z",
   "surahNumber": 93,
   "ayahCount": 11,
   "ayahs": [
@@ -15,7 +15,26 @@
         "ur_maududi": "سورہ 93 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [93:1] en español.",
         "fr_hamidullah": "Traduction de [93:1] en français.",
-        "bn_hoque": "সূরা 93 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 93 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [93:1] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [93:1] на русский язык (Абу Адель).",
+        "tr_diyanet": "[93:1] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [93:1] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［93:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [93:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [93:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [93:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [93:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [93:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [93:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [93:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [93:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [93:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [93:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [93:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [93:1]."
       }
     },
     {
@@ -29,7 +48,26 @@
         "ur_maududi": "سورہ 93 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [93:2] en español.",
         "fr_hamidullah": "Traduction de [93:2] en français.",
-        "bn_hoque": "সূরা 93 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 93 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [93:2] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [93:2] на русский язык (Абу Адель).",
+        "tr_diyanet": "[93:2] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [93:2] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［93:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [93:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [93:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [93:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [93:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [93:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [93:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [93:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [93:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [93:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [93:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [93:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [93:2]."
       }
     },
     {
@@ -43,7 +81,26 @@
         "ur_maududi": "سورہ 93 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [93:3] en español.",
         "fr_hamidullah": "Traduction de [93:3] en français.",
-        "bn_hoque": "সূরা 93 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 93 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [93:3] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [93:3] на русский язык (Абу Адель).",
+        "tr_diyanet": "[93:3] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [93:3] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［93:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [93:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [93:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [93:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [93:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [93:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [93:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [93:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [93:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [93:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [93:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [93:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [93:3]."
       }
     },
     {
@@ -57,7 +114,26 @@
         "ur_maududi": "سورہ 93 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [93:4] en español.",
         "fr_hamidullah": "Traduction de [93:4] en français.",
-        "bn_hoque": "সূরা 93 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 93 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [93:4] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [93:4] на русский язык (Абу Адель).",
+        "tr_diyanet": "[93:4] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [93:4] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［93:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [93:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [93:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [93:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [93:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [93:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [93:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [93:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [93:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [93:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [93:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [93:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [93:4]."
       }
     },
     {
@@ -71,7 +147,26 @@
         "ur_maududi": "سورہ 93 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [93:5] en español.",
         "fr_hamidullah": "Traduction de [93:5] en français.",
-        "bn_hoque": "সূরা 93 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 93 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [93:5] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [93:5] на русский язык (Абу Адель).",
+        "tr_diyanet": "[93:5] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [93:5] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［93:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [93:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [93:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [93:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [93:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [93:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [93:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [93:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [93:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [93:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [93:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [93:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [93:5]."
       }
     },
     {
@@ -85,7 +180,26 @@
         "ur_maududi": "سورہ 93 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [93:6] en español.",
         "fr_hamidullah": "Traduction de [93:6] en français.",
-        "bn_hoque": "সূরা 93 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 93 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [93:6] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [93:6] на русский язык (Абу Адель).",
+        "tr_diyanet": "[93:6] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [93:6] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［93:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [93:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [93:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [93:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [93:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [93:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [93:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [93:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [93:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [93:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [93:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [93:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [93:6]."
       }
     },
     {
@@ -99,7 +213,26 @@
         "ur_maududi": "سورہ 93 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [93:7] en español.",
         "fr_hamidullah": "Traduction de [93:7] en français.",
-        "bn_hoque": "সূরা 93 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 93 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [93:7] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [93:7] на русский язык (Абу Адель).",
+        "tr_diyanet": "[93:7] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [93:7] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［93:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [93:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [93:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [93:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [93:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [93:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [93:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [93:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [93:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [93:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [93:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [93:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [93:7]."
       }
     },
     {
@@ -113,7 +246,26 @@
         "ur_maududi": "سورہ 93 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [93:8] en español.",
         "fr_hamidullah": "Traduction de [93:8] en français.",
-        "bn_hoque": "সূরা 93 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 93 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [93:8] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [93:8] на русский язык (Абу Адель).",
+        "tr_diyanet": "[93:8] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [93:8] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［93:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [93:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [93:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [93:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [93:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [93:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [93:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [93:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [93:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [93:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [93:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [93:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [93:8]."
       }
     },
     {
@@ -127,7 +279,26 @@
         "ur_maududi": "سورہ 93 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [93:9] en español.",
         "fr_hamidullah": "Traduction de [93:9] en français.",
-        "bn_hoque": "সূরা 93 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 93 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [93:9] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [93:9] на русский язык (Абу Адель).",
+        "tr_diyanet": "[93:9] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [93:9] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［93:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [93:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [93:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [93:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [93:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [93:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [93:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [93:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [93:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [93:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [93:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [93:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [93:9]."
       }
     },
     {
@@ -141,7 +312,26 @@
         "ur_maududi": "سورہ 93 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [93:10] en español.",
         "fr_hamidullah": "Traduction de [93:10] en français.",
-        "bn_hoque": "সূরা 93 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 93 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [93:10] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [93:10] на русский язык (Абу Адель).",
+        "tr_diyanet": "[93:10] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [93:10] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［93:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [93:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [93:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [93:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [93:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [93:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [93:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [93:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [93:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [93:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [93:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [93:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [93:10]."
       }
     },
     {
@@ -155,7 +345,26 @@
         "ur_maududi": "سورہ 93 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [93:11] en español.",
         "fr_hamidullah": "Traduction de [93:11] en français.",
-        "bn_hoque": "সূরা 93 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 93 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [93:11] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [93:11] на русский язык (Абу Адель).",
+        "tr_diyanet": "[93:11] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [93:11] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［93:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [93:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [93:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [93:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [93:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [93:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [93:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [93:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [93:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [93:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [93:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [93:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [93:11]."
       }
     }
   ],

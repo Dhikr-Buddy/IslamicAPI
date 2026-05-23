@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T01:55:57.996Z",
+  "generatedAt": "2026-05-23T02:33:24.494Z",
   "surahNumber": 71,
   "ayahCount": 28,
   "ayahs": [
@@ -15,7 +15,26 @@
         "ur_maududi": "سورہ 71 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [71:1] en español.",
         "fr_hamidullah": "Traduction de [71:1] en français.",
-        "bn_hoque": "সূরা 71 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 71 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [71:1] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [71:1] на русский язык (Абу Адель).",
+        "tr_diyanet": "[71:1] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [71:1] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［71:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [71:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [71:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [71:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [71:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [71:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [71:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [71:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [71:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [71:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [71:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [71:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [71:1]."
       }
     },
     {
@@ -29,7 +48,26 @@
         "ur_maududi": "سورہ 71 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [71:2] en español.",
         "fr_hamidullah": "Traduction de [71:2] en français.",
-        "bn_hoque": "সূরা 71 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 71 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [71:2] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [71:2] на русский язык (Абу Адель).",
+        "tr_diyanet": "[71:2] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [71:2] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［71:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [71:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [71:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [71:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [71:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [71:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [71:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [71:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [71:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [71:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [71:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [71:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [71:2]."
       }
     },
     {
@@ -43,7 +81,26 @@
         "ur_maududi": "سورہ 71 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [71:3] en español.",
         "fr_hamidullah": "Traduction de [71:3] en français.",
-        "bn_hoque": "সূরা 71 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 71 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [71:3] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [71:3] на русский язык (Абу Адель).",
+        "tr_diyanet": "[71:3] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [71:3] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［71:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [71:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [71:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [71:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [71:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [71:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [71:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [71:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [71:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [71:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [71:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [71:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [71:3]."
       }
     },
     {
@@ -57,7 +114,26 @@
         "ur_maududi": "سورہ 71 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [71:4] en español.",
         "fr_hamidullah": "Traduction de [71:4] en français.",
-        "bn_hoque": "সূরা 71 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 71 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [71:4] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [71:4] на русский язык (Абу Адель).",
+        "tr_diyanet": "[71:4] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [71:4] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［71:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [71:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [71:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [71:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [71:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [71:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [71:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [71:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [71:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [71:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [71:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [71:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [71:4]."
       }
     },
     {
@@ -71,7 +147,26 @@
         "ur_maududi": "سورہ 71 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [71:5] en español.",
         "fr_hamidullah": "Traduction de [71:5] en français.",
-        "bn_hoque": "সূরা 71 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 71 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [71:5] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [71:5] на русский язык (Абу Адель).",
+        "tr_diyanet": "[71:5] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [71:5] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［71:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [71:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [71:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [71:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [71:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [71:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [71:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [71:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [71:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [71:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [71:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [71:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [71:5]."
       }
     },
     {
@@ -85,7 +180,26 @@
         "ur_maududi": "سورہ 71 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [71:6] en español.",
         "fr_hamidullah": "Traduction de [71:6] en français.",
-        "bn_hoque": "সূরা 71 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 71 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [71:6] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [71:6] на русский язык (Абу Адель).",
+        "tr_diyanet": "[71:6] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [71:6] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［71:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [71:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [71:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [71:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [71:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [71:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [71:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [71:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [71:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [71:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [71:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [71:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [71:6]."
       }
     },
     {
@@ -99,7 +213,26 @@
         "ur_maududi": "سورہ 71 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [71:7] en español.",
         "fr_hamidullah": "Traduction de [71:7] en français.",
-        "bn_hoque": "সূরা 71 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 71 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [71:7] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [71:7] на русский язык (Абу Адель).",
+        "tr_diyanet": "[71:7] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [71:7] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［71:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [71:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [71:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [71:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [71:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [71:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [71:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [71:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [71:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [71:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [71:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [71:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [71:7]."
       }
     },
     {
@@ -113,7 +246,26 @@
         "ur_maududi": "سورہ 71 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [71:8] en español.",
         "fr_hamidullah": "Traduction de [71:8] en français.",
-        "bn_hoque": "সূরা 71 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 71 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [71:8] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [71:8] на русский язык (Абу Адель).",
+        "tr_diyanet": "[71:8] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [71:8] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［71:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [71:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [71:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [71:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [71:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [71:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [71:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [71:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [71:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [71:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [71:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [71:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [71:8]."
       }
     },
     {
@@ -127,7 +279,26 @@
         "ur_maududi": "سورہ 71 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [71:9] en español.",
         "fr_hamidullah": "Traduction de [71:9] en français.",
-        "bn_hoque": "সূরা 71 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 71 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [71:9] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [71:9] на русский язык (Абу Адель).",
+        "tr_diyanet": "[71:9] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [71:9] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［71:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [71:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [71:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [71:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [71:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [71:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [71:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [71:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [71:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [71:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [71:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [71:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [71:9]."
       }
     },
     {
@@ -141,7 +312,26 @@
         "ur_maududi": "سورہ 71 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [71:10] en español.",
         "fr_hamidullah": "Traduction de [71:10] en français.",
-        "bn_hoque": "সূরা 71 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 71 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [71:10] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [71:10] на русский язык (Абу Адель).",
+        "tr_diyanet": "[71:10] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [71:10] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［71:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [71:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [71:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [71:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [71:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [71:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [71:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [71:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [71:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [71:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [71:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [71:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [71:10]."
       }
     },
     {
@@ -155,7 +345,26 @@
         "ur_maududi": "سورہ 71 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [71:11] en español.",
         "fr_hamidullah": "Traduction de [71:11] en français.",
-        "bn_hoque": "সূরা 71 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 71 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [71:11] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [71:11] на русский язык (Абу Адель).",
+        "tr_diyanet": "[71:11] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [71:11] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［71:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [71:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [71:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [71:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [71:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [71:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [71:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [71:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [71:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [71:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [71:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [71:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [71:11]."
       }
     },
     {
@@ -169,7 +378,26 @@
         "ur_maududi": "سورہ 71 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [71:12] en español.",
         "fr_hamidullah": "Traduction de [71:12] en français.",
-        "bn_hoque": "সূরা 71 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 71 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [71:12] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [71:12] на русский язык (Абу Адель).",
+        "tr_diyanet": "[71:12] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [71:12] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［71:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [71:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [71:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [71:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [71:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [71:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [71:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [71:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [71:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [71:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [71:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [71:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [71:12]."
       }
     },
     {
@@ -183,7 +411,26 @@
         "ur_maududi": "سورہ 71 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [71:13] en español.",
         "fr_hamidullah": "Traduction de [71:13] en français.",
-        "bn_hoque": "সূরা 71 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 71 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [71:13] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [71:13] на русский язык (Абу Адель).",
+        "tr_diyanet": "[71:13] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [71:13] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［71:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [71:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [71:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [71:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [71:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [71:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [71:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [71:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [71:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [71:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [71:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [71:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [71:13]."
       }
     },
     {
@@ -197,7 +444,26 @@
         "ur_maududi": "سورہ 71 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [71:14] en español.",
         "fr_hamidullah": "Traduction de [71:14] en français.",
-        "bn_hoque": "সূরা 71 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 71 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [71:14] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [71:14] на русский язык (Абу Адель).",
+        "tr_diyanet": "[71:14] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [71:14] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［71:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [71:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [71:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [71:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [71:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [71:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [71:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [71:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [71:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [71:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [71:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [71:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [71:14]."
       }
     },
     {
@@ -211,7 +477,26 @@
         "ur_maududi": "سورہ 71 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [71:15] en español.",
         "fr_hamidullah": "Traduction de [71:15] en français.",
-        "bn_hoque": "সূরা 71 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 71 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [71:15] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [71:15] на русский язык (Абу Адель).",
+        "tr_diyanet": "[71:15] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [71:15] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［71:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [71:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [71:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [71:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [71:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [71:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [71:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [71:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [71:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [71:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [71:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [71:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [71:15]."
       }
     },
     {
@@ -225,7 +510,26 @@
         "ur_maududi": "سورہ 71 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [71:16] en español.",
         "fr_hamidullah": "Traduction de [71:16] en français.",
-        "bn_hoque": "সূরা 71 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 71 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [71:16] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [71:16] на русский язык (Абу Адель).",
+        "tr_diyanet": "[71:16] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [71:16] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［71:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [71:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [71:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [71:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [71:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [71:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [71:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [71:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [71:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [71:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [71:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [71:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [71:16]."
       }
     },
     {
@@ -239,7 +543,26 @@
         "ur_maududi": "سورہ 71 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [71:17] en español.",
         "fr_hamidullah": "Traduction de [71:17] en français.",
-        "bn_hoque": "সূরা 71 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 71 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [71:17] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [71:17] на русский язык (Абу Адель).",
+        "tr_diyanet": "[71:17] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [71:17] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［71:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [71:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [71:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [71:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [71:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [71:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [71:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [71:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [71:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [71:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [71:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [71:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [71:17]."
       }
     },
     {
@@ -253,7 +576,26 @@
         "ur_maududi": "سورہ 71 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [71:18] en español.",
         "fr_hamidullah": "Traduction de [71:18] en français.",
-        "bn_hoque": "সূরা 71 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 71 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [71:18] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [71:18] на русский язык (Абу Адель).",
+        "tr_diyanet": "[71:18] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [71:18] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［71:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [71:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [71:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [71:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [71:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [71:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [71:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [71:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [71:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [71:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [71:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [71:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [71:18]."
       }
     },
     {
@@ -267,7 +609,26 @@
         "ur_maududi": "سورہ 71 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [71:19] en español.",
         "fr_hamidullah": "Traduction de [71:19] en français.",
-        "bn_hoque": "সূরা 71 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 71 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [71:19] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [71:19] на русский язык (Абу Адель).",
+        "tr_diyanet": "[71:19] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [71:19] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［71:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [71:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [71:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [71:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [71:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [71:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [71:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [71:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [71:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [71:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [71:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [71:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [71:19]."
       }
     },
     {
@@ -281,7 +642,26 @@
         "ur_maududi": "سورہ 71 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [71:20] en español.",
         "fr_hamidullah": "Traduction de [71:20] en français.",
-        "bn_hoque": "সূরা 71 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 71 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [71:20] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [71:20] на русский язык (Абу Адель).",
+        "tr_diyanet": "[71:20] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [71:20] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［71:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [71:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [71:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [71:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [71:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [71:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [71:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [71:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [71:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [71:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [71:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [71:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [71:20]."
       }
     },
     {
@@ -295,7 +675,26 @@
         "ur_maududi": "سورہ 71 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [71:21] en español.",
         "fr_hamidullah": "Traduction de [71:21] en français.",
-        "bn_hoque": "সূরা 71 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 71 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [71:21] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [71:21] на русский язык (Абу Адель).",
+        "tr_diyanet": "[71:21] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [71:21] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［71:21］ 马坚 译文",
+        "it_piccardo": "Traduzione di [71:21] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [71:21] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [71:21] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [71:21] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [71:21]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [71:21] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [71:21].",
+        "ar_jalalayn": "تفسير الجلالين للآية [71:21] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [71:21].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [71:21].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [71:21].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [71:21]."
       }
     },
     {
@@ -309,7 +708,26 @@
         "ur_maududi": "سورہ 71 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [71:22] en español.",
         "fr_hamidullah": "Traduction de [71:22] en français.",
-        "bn_hoque": "সূরা 71 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 71 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [71:22] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [71:22] на русский язык (Абу Адель).",
+        "tr_diyanet": "[71:22] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [71:22] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［71:22］ 马坚 译文",
+        "it_piccardo": "Traduzione di [71:22] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [71:22] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [71:22] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [71:22] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [71:22]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [71:22] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [71:22].",
+        "ar_jalalayn": "تفسير الجلالين للآية [71:22] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [71:22].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [71:22].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [71:22].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [71:22]."
       }
     },
     {
@@ -323,7 +741,26 @@
         "ur_maududi": "سورہ 71 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [71:23] en español.",
         "fr_hamidullah": "Traduction de [71:23] en français.",
-        "bn_hoque": "সূরা 71 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 71 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [71:23] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [71:23] на русский язык (Абу Адель).",
+        "tr_diyanet": "[71:23] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [71:23] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［71:23］ 马坚 译文",
+        "it_piccardo": "Traduzione di [71:23] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [71:23] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [71:23] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [71:23] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [71:23]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [71:23] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [71:23].",
+        "ar_jalalayn": "تفسير الجلالين للآية [71:23] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [71:23].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [71:23].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [71:23].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [71:23]."
       }
     },
     {
@@ -337,7 +774,26 @@
         "ur_maududi": "سورہ 71 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [71:24] en español.",
         "fr_hamidullah": "Traduction de [71:24] en français.",
-        "bn_hoque": "সূরা 71 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 71 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [71:24] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [71:24] на русский язык (Абу Адель).",
+        "tr_diyanet": "[71:24] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [71:24] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［71:24］ 马坚 译文",
+        "it_piccardo": "Traduzione di [71:24] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [71:24] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [71:24] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [71:24] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [71:24]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [71:24] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [71:24].",
+        "ar_jalalayn": "تفسير الجلالين للآية [71:24] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [71:24].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [71:24].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [71:24].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [71:24]."
       }
     },
     {
@@ -351,7 +807,26 @@
         "ur_maududi": "سورہ 71 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [71:25] en español.",
         "fr_hamidullah": "Traduction de [71:25] en français.",
-        "bn_hoque": "সূরা 71 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 71 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [71:25] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [71:25] на русский язык (Абу Адель).",
+        "tr_diyanet": "[71:25] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [71:25] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［71:25］ 马坚 译文",
+        "it_piccardo": "Traduzione di [71:25] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [71:25] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [71:25] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [71:25] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [71:25]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [71:25] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [71:25].",
+        "ar_jalalayn": "تفسير الجلالين للآية [71:25] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [71:25].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [71:25].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [71:25].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [71:25]."
       }
     },
     {
@@ -365,7 +840,26 @@
         "ur_maududi": "سورہ 71 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [71:26] en español.",
         "fr_hamidullah": "Traduction de [71:26] en français.",
-        "bn_hoque": "সূরা 71 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 71 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [71:26] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [71:26] на русский язык (Абу Адель).",
+        "tr_diyanet": "[71:26] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [71:26] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［71:26］ 马坚 译文",
+        "it_piccardo": "Traduzione di [71:26] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [71:26] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [71:26] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [71:26] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [71:26]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [71:26] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [71:26].",
+        "ar_jalalayn": "تفسير الجلالين للآية [71:26] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [71:26].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [71:26].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [71:26].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [71:26]."
       }
     },
     {
@@ -379,7 +873,26 @@
         "ur_maududi": "سورہ 71 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [71:27] en español.",
         "fr_hamidullah": "Traduction de [71:27] en français.",
-        "bn_hoque": "সূরা 71 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 71 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [71:27] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [71:27] на русский язык (Абу Адель).",
+        "tr_diyanet": "[71:27] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [71:27] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［71:27］ 马坚 译文",
+        "it_piccardo": "Traduzione di [71:27] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [71:27] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [71:27] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [71:27] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [71:27]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [71:27] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [71:27].",
+        "ar_jalalayn": "تفسير الجلالين للآية [71:27] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [71:27].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [71:27].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [71:27].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [71:27]."
       }
     },
     {
@@ -393,7 +906,26 @@
         "ur_maududi": "سورہ 71 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [71:28] en español.",
         "fr_hamidullah": "Traduction de [71:28] en français.",
-        "bn_hoque": "সূরা 71 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 71 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [71:28] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [71:28] на русский язык (Абу Адель).",
+        "tr_diyanet": "[71:28] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [71:28] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［71:28］ 马坚 译文",
+        "it_piccardo": "Traduzione di [71:28] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [71:28] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [71:28] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [71:28] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [71:28]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [71:28] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [71:28].",
+        "ar_jalalayn": "تفسير الجلالين للآية [71:28] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [71:28].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [71:28].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [71:28].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [71:28]."
       }
     }
   ],

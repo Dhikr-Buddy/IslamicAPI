@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T01:55:58.004Z",
+  "generatedAt": "2026-05-23T02:33:24.506Z",
   "surahNumber": 102,
   "ayahCount": 8,
   "ayahs": [
@@ -15,7 +15,26 @@
         "ur_maududi": "سورہ 102 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [102:1] en español.",
         "fr_hamidullah": "Traduction de [102:1] en français.",
-        "bn_hoque": "সূরা 102 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 102 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [102:1] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [102:1] на русский язык (Абу Адель).",
+        "tr_diyanet": "[102:1] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [102:1] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［102:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [102:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [102:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [102:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [102:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [102:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [102:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [102:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [102:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [102:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [102:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [102:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [102:1]."
       }
     },
     {
@@ -29,7 +48,26 @@
         "ur_maududi": "سورہ 102 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [102:2] en español.",
         "fr_hamidullah": "Traduction de [102:2] en français.",
-        "bn_hoque": "সূরা 102 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 102 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [102:2] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [102:2] на русский язык (Абу Адель).",
+        "tr_diyanet": "[102:2] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [102:2] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［102:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [102:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [102:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [102:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [102:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [102:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [102:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [102:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [102:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [102:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [102:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [102:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [102:2]."
       }
     },
     {
@@ -43,7 +81,26 @@
         "ur_maududi": "سورہ 102 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [102:3] en español.",
         "fr_hamidullah": "Traduction de [102:3] en français.",
-        "bn_hoque": "সূরা 102 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 102 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [102:3] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [102:3] на русский язык (Абу Адель).",
+        "tr_diyanet": "[102:3] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [102:3] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［102:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [102:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [102:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [102:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [102:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [102:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [102:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [102:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [102:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [102:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [102:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [102:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [102:3]."
       }
     },
     {
@@ -57,7 +114,26 @@
         "ur_maududi": "سورہ 102 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [102:4] en español.",
         "fr_hamidullah": "Traduction de [102:4] en français.",
-        "bn_hoque": "সূরা 102 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 102 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [102:4] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [102:4] на русский язык (Абу Адель).",
+        "tr_diyanet": "[102:4] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [102:4] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［102:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [102:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [102:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [102:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [102:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [102:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [102:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [102:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [102:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [102:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [102:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [102:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [102:4]."
       }
     },
     {
@@ -71,7 +147,26 @@
         "ur_maududi": "سورہ 102 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [102:5] en español.",
         "fr_hamidullah": "Traduction de [102:5] en français.",
-        "bn_hoque": "সূরা 102 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 102 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [102:5] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [102:5] на русский язык (Абу Адель).",
+        "tr_diyanet": "[102:5] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [102:5] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［102:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [102:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [102:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [102:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [102:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [102:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [102:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [102:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [102:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [102:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [102:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [102:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [102:5]."
       }
     },
     {
@@ -85,7 +180,26 @@
         "ur_maududi": "سورہ 102 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [102:6] en español.",
         "fr_hamidullah": "Traduction de [102:6] en français.",
-        "bn_hoque": "সূরা 102 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 102 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [102:6] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [102:6] на русский язык (Абу Адель).",
+        "tr_diyanet": "[102:6] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [102:6] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［102:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [102:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [102:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [102:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [102:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [102:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [102:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [102:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [102:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [102:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [102:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [102:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [102:6]."
       }
     },
     {
@@ -99,7 +213,26 @@
         "ur_maududi": "سورہ 102 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [102:7] en español.",
         "fr_hamidullah": "Traduction de [102:7] en français.",
-        "bn_hoque": "সূরা 102 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 102 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [102:7] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [102:7] на русский язык (Абу Адель).",
+        "tr_diyanet": "[102:7] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [102:7] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［102:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [102:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [102:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [102:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [102:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [102:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [102:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [102:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [102:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [102:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [102:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [102:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [102:7]."
       }
     },
     {
@@ -113,7 +246,26 @@
         "ur_maududi": "سورہ 102 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [102:8] en español.",
         "fr_hamidullah": "Traduction de [102:8] en français.",
-        "bn_hoque": "সূরা 102 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 102 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [102:8] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [102:8] на русский язык (Абу Адель).",
+        "tr_diyanet": "[102:8] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [102:8] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［102:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [102:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [102:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [102:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [102:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [102:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [102:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [102:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [102:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [102:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [102:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [102:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [102:8]."
       }
     }
   ],

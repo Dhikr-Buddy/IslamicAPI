@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T01:55:57.975Z",
+  "generatedAt": "2026-05-23T02:33:24.463Z",
   "surahNumber": 19,
   "ayahCount": 98,
   "ayahs": [
@@ -15,7 +15,26 @@
         "ur_maududi": "سورہ 19 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:1] en español.",
         "fr_hamidullah": "Traduction de [19:1] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:1] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:1] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:1] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:1] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:1]."
       }
     },
     {
@@ -29,7 +48,26 @@
         "ur_maududi": "سورہ 19 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:2] en español.",
         "fr_hamidullah": "Traduction de [19:2] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:2] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:2] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:2] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:2] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:2]."
       }
     },
     {
@@ -43,7 +81,26 @@
         "ur_maududi": "سورہ 19 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:3] en español.",
         "fr_hamidullah": "Traduction de [19:3] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:3] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:3] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:3] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:3] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:3]."
       }
     },
     {
@@ -57,7 +114,26 @@
         "ur_maududi": "سورہ 19 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:4] en español.",
         "fr_hamidullah": "Traduction de [19:4] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:4] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:4] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:4] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:4] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:4]."
       }
     },
     {
@@ -71,7 +147,26 @@
         "ur_maududi": "سورہ 19 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:5] en español.",
         "fr_hamidullah": "Traduction de [19:5] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:5] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:5] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:5] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:5] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:5]."
       }
     },
     {
@@ -85,7 +180,26 @@
         "ur_maududi": "سورہ 19 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:6] en español.",
         "fr_hamidullah": "Traduction de [19:6] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:6] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:6] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:6] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:6] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:6]."
       }
     },
     {
@@ -99,7 +213,26 @@
         "ur_maududi": "سورہ 19 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:7] en español.",
         "fr_hamidullah": "Traduction de [19:7] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:7] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:7] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:7] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:7] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:7]."
       }
     },
     {
@@ -113,7 +246,26 @@
         "ur_maududi": "سورہ 19 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:8] en español.",
         "fr_hamidullah": "Traduction de [19:8] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:8] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:8] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:8] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:8] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:8]."
       }
     },
     {
@@ -127,7 +279,26 @@
         "ur_maududi": "سورہ 19 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:9] en español.",
         "fr_hamidullah": "Traduction de [19:9] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:9] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:9] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:9] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:9] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:9]."
       }
     },
     {
@@ -141,7 +312,26 @@
         "ur_maududi": "سورہ 19 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:10] en español.",
         "fr_hamidullah": "Traduction de [19:10] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:10] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:10] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:10] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:10] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:10]."
       }
     },
     {
@@ -155,7 +345,26 @@
         "ur_maududi": "سورہ 19 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:11] en español.",
         "fr_hamidullah": "Traduction de [19:11] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:11] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:11] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:11] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:11] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:11]."
       }
     },
     {
@@ -169,7 +378,26 @@
         "ur_maududi": "سورہ 19 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:12] en español.",
         "fr_hamidullah": "Traduction de [19:12] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:12] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:12] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:12] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:12] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:12]."
       }
     },
     {
@@ -183,7 +411,26 @@
         "ur_maududi": "سورہ 19 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:13] en español.",
         "fr_hamidullah": "Traduction de [19:13] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:13] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:13] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:13] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:13] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:13]."
       }
     },
     {
@@ -197,7 +444,26 @@
         "ur_maududi": "سورہ 19 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:14] en español.",
         "fr_hamidullah": "Traduction de [19:14] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:14] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:14] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:14] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:14] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:14]."
       }
     },
     {
@@ -211,7 +477,26 @@
         "ur_maududi": "سورہ 19 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:15] en español.",
         "fr_hamidullah": "Traduction de [19:15] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:15] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:15] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:15] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:15] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:15]."
       }
     },
     {
@@ -225,7 +510,26 @@
         "ur_maududi": "سورہ 19 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:16] en español.",
         "fr_hamidullah": "Traduction de [19:16] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:16] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:16] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:16] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:16] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:16]."
       }
     },
     {
@@ -239,7 +543,26 @@
         "ur_maududi": "سورہ 19 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:17] en español.",
         "fr_hamidullah": "Traduction de [19:17] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:17] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:17] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:17] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:17] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:17]."
       }
     },
     {
@@ -253,7 +576,26 @@
         "ur_maududi": "سورہ 19 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:18] en español.",
         "fr_hamidullah": "Traduction de [19:18] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:18] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:18] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:18] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:18] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:18]."
       }
     },
     {
@@ -267,7 +609,26 @@
         "ur_maududi": "سورہ 19 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:19] en español.",
         "fr_hamidullah": "Traduction de [19:19] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:19] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:19] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:19] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:19] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:19]."
       }
     },
     {
@@ -281,7 +642,26 @@
         "ur_maududi": "سورہ 19 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:20] en español.",
         "fr_hamidullah": "Traduction de [19:20] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:20] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:20] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:20] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:20] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:20]."
       }
     },
     {
@@ -295,7 +675,26 @@
         "ur_maududi": "سورہ 19 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:21] en español.",
         "fr_hamidullah": "Traduction de [19:21] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:21] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:21] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:21] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:21] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:21］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:21] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:21] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:21] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:21] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:21]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:21] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:21].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:21] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:21].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:21].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:21].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:21]."
       }
     },
     {
@@ -309,7 +708,26 @@
         "ur_maududi": "سورہ 19 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:22] en español.",
         "fr_hamidullah": "Traduction de [19:22] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:22] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:22] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:22] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:22] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:22］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:22] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:22] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:22] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:22] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:22]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:22] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:22].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:22] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:22].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:22].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:22].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:22]."
       }
     },
     {
@@ -323,7 +741,26 @@
         "ur_maududi": "سورہ 19 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:23] en español.",
         "fr_hamidullah": "Traduction de [19:23] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:23] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:23] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:23] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:23] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:23］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:23] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:23] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:23] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:23] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:23]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:23] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:23].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:23] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:23].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:23].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:23].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:23]."
       }
     },
     {
@@ -337,7 +774,26 @@
         "ur_maududi": "سورہ 19 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:24] en español.",
         "fr_hamidullah": "Traduction de [19:24] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:24] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:24] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:24] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:24] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:24］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:24] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:24] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:24] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:24] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:24]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:24] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:24].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:24] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:24].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:24].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:24].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:24]."
       }
     },
     {
@@ -351,7 +807,26 @@
         "ur_maududi": "سورہ 19 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:25] en español.",
         "fr_hamidullah": "Traduction de [19:25] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:25] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:25] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:25] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:25] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:25］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:25] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:25] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:25] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:25] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:25]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:25] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:25].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:25] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:25].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:25].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:25].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:25]."
       }
     },
     {
@@ -365,7 +840,26 @@
         "ur_maududi": "سورہ 19 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:26] en español.",
         "fr_hamidullah": "Traduction de [19:26] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:26] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:26] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:26] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:26] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:26］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:26] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:26] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:26] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:26] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:26]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:26] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:26].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:26] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:26].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:26].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:26].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:26]."
       }
     },
     {
@@ -379,7 +873,26 @@
         "ur_maududi": "سورہ 19 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:27] en español.",
         "fr_hamidullah": "Traduction de [19:27] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:27] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:27] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:27] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:27] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:27］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:27] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:27] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:27] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:27] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:27]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:27] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:27].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:27] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:27].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:27].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:27].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:27]."
       }
     },
     {
@@ -393,7 +906,26 @@
         "ur_maududi": "سورہ 19 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:28] en español.",
         "fr_hamidullah": "Traduction de [19:28] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:28] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:28] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:28] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:28] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:28］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:28] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:28] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:28] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:28] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:28]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:28] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:28].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:28] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:28].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:28].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:28].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:28]."
       }
     },
     {
@@ -407,7 +939,26 @@
         "ur_maududi": "سورہ 19 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:29] en español.",
         "fr_hamidullah": "Traduction de [19:29] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:29] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:29] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:29] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:29] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:29］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:29] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:29] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:29] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:29] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:29]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:29] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:29].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:29] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:29].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:29].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:29].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:29]."
       }
     },
     {
@@ -421,7 +972,26 @@
         "ur_maududi": "سورہ 19 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:30] en español.",
         "fr_hamidullah": "Traduction de [19:30] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:30] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:30] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:30] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:30] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:30］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:30] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:30] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:30] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:30] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:30]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:30] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:30].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:30] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:30].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:30].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:30].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:30]."
       }
     },
     {
@@ -435,7 +1005,26 @@
         "ur_maududi": "سورہ 19 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:31] en español.",
         "fr_hamidullah": "Traduction de [19:31] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:31] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:31] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:31] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:31] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:31］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:31] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:31] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:31] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:31] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:31]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:31] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:31].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:31] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:31].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:31].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:31].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:31]."
       }
     },
     {
@@ -449,7 +1038,26 @@
         "ur_maududi": "سورہ 19 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:32] en español.",
         "fr_hamidullah": "Traduction de [19:32] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:32] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:32] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:32] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:32] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:32］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:32] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:32] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:32] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:32] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:32]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:32] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:32].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:32] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:32].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:32].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:32].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:32]."
       }
     },
     {
@@ -463,7 +1071,26 @@
         "ur_maududi": "سورہ 19 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:33] en español.",
         "fr_hamidullah": "Traduction de [19:33] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:33] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:33] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:33] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:33] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:33］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:33] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:33] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:33] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:33] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:33]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:33] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:33].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:33] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:33].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:33].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:33].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:33]."
       }
     },
     {
@@ -477,7 +1104,26 @@
         "ur_maududi": "سورہ 19 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:34] en español.",
         "fr_hamidullah": "Traduction de [19:34] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:34] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:34] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:34] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:34] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:34］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:34] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:34] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:34] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:34] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:34]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:34] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:34].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:34] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:34].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:34].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:34].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:34]."
       }
     },
     {
@@ -491,7 +1137,26 @@
         "ur_maududi": "سورہ 19 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:35] en español.",
         "fr_hamidullah": "Traduction de [19:35] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:35] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:35] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:35] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:35] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:35］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:35] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:35] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:35] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:35] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:35]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:35] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:35].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:35] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:35].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:35].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:35].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:35]."
       }
     },
     {
@@ -505,7 +1170,26 @@
         "ur_maududi": "سورہ 19 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:36] en español.",
         "fr_hamidullah": "Traduction de [19:36] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:36] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:36] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:36] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:36] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:36］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:36] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:36] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:36] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:36] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:36]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:36] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:36].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:36] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:36].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:36].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:36].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:36]."
       }
     },
     {
@@ -519,7 +1203,26 @@
         "ur_maududi": "سورہ 19 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:37] en español.",
         "fr_hamidullah": "Traduction de [19:37] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:37] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:37] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:37] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:37] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:37］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:37] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:37] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:37] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:37] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:37]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:37] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:37].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:37] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:37].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:37].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:37].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:37]."
       }
     },
     {
@@ -533,7 +1236,26 @@
         "ur_maududi": "سورہ 19 آیت 38 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:38] en español.",
         "fr_hamidullah": "Traduction de [19:38] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:38] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:38] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:38] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:38] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:38］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:38] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:38] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:38] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:38] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:38]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:38] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:38].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:38] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:38].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:38].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:38].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:38]."
       }
     },
     {
@@ -547,7 +1269,26 @@
         "ur_maududi": "سورہ 19 آیت 39 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:39] en español.",
         "fr_hamidullah": "Traduction de [19:39] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:39] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:39] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:39] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:39] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:39］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:39] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:39] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:39] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:39] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:39]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:39] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:39].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:39] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:39].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:39].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:39].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:39]."
       }
     },
     {
@@ -561,7 +1302,26 @@
         "ur_maududi": "سورہ 19 آیت 40 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:40] en español.",
         "fr_hamidullah": "Traduction de [19:40] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:40] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:40] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:40] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:40] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:40］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:40] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:40] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:40] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:40] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:40]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:40] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:40].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:40] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:40].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:40].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:40].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:40]."
       }
     },
     {
@@ -575,7 +1335,26 @@
         "ur_maududi": "سورہ 19 آیت 41 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:41] en español.",
         "fr_hamidullah": "Traduction de [19:41] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:41] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:41] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:41] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:41] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:41］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:41] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:41] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:41] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:41] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:41]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:41] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:41].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:41] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:41].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:41].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:41].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:41]."
       }
     },
     {
@@ -589,7 +1368,26 @@
         "ur_maududi": "سورہ 19 آیت 42 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:42] en español.",
         "fr_hamidullah": "Traduction de [19:42] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:42] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:42] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:42] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:42] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:42］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:42] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:42] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:42] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:42] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:42]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:42] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:42].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:42] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:42].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:42].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:42].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:42]."
       }
     },
     {
@@ -603,7 +1401,26 @@
         "ur_maududi": "سورہ 19 آیت 43 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:43] en español.",
         "fr_hamidullah": "Traduction de [19:43] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:43] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:43] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:43] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:43] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:43］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:43] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:43] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:43] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:43] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:43]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:43] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:43].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:43] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:43].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:43].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:43].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:43]."
       }
     },
     {
@@ -617,7 +1434,26 @@
         "ur_maududi": "سورہ 19 آیت 44 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:44] en español.",
         "fr_hamidullah": "Traduction de [19:44] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:44] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:44] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:44] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:44] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:44］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:44] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:44] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:44] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:44] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:44]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:44] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:44].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:44] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:44].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:44].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:44].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:44]."
       }
     },
     {
@@ -631,7 +1467,26 @@
         "ur_maududi": "سورہ 19 آیت 45 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:45] en español.",
         "fr_hamidullah": "Traduction de [19:45] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:45] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:45] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:45] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:45] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:45］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:45] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:45] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:45] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:45] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:45]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:45] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:45].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:45] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:45].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:45].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:45].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:45]."
       }
     },
     {
@@ -645,7 +1500,26 @@
         "ur_maududi": "سورہ 19 آیت 46 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:46] en español.",
         "fr_hamidullah": "Traduction de [19:46] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:46] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:46] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:46] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:46] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:46］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:46] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:46] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:46] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:46] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:46]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:46] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:46].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:46] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:46].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:46].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:46].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:46]."
       }
     },
     {
@@ -659,7 +1533,26 @@
         "ur_maududi": "سورہ 19 آیت 47 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:47] en español.",
         "fr_hamidullah": "Traduction de [19:47] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:47] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:47] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:47] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:47] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:47］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:47] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:47] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:47] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:47] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:47]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:47] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:47].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:47] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:47].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:47].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:47].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:47]."
       }
     },
     {
@@ -673,7 +1566,26 @@
         "ur_maududi": "سورہ 19 آیت 48 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:48] en español.",
         "fr_hamidullah": "Traduction de [19:48] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:48] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:48] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:48] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:48] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:48］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:48] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:48] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:48] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:48] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:48]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:48] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:48].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:48] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:48].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:48].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:48].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:48]."
       }
     },
     {
@@ -687,7 +1599,26 @@
         "ur_maududi": "سورہ 19 آیت 49 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:49] en español.",
         "fr_hamidullah": "Traduction de [19:49] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:49] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:49] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:49] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:49] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:49］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:49] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:49] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:49] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:49] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:49]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:49] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:49].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:49] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:49].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:49].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:49].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:49]."
       }
     },
     {
@@ -701,7 +1632,26 @@
         "ur_maududi": "سورہ 19 آیت 50 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:50] en español.",
         "fr_hamidullah": "Traduction de [19:50] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:50] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:50] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:50] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:50] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:50］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:50] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:50] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:50] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:50] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:50]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:50] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:50].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:50] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:50].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:50].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:50].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:50]."
       }
     },
     {
@@ -715,7 +1665,26 @@
         "ur_maududi": "سورہ 19 آیت 51 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:51] en español.",
         "fr_hamidullah": "Traduction de [19:51] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:51] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:51] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:51] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:51] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:51］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:51] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:51] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:51] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:51] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:51]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:51] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:51].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:51] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:51].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:51].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:51].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:51]."
       }
     },
     {
@@ -729,7 +1698,26 @@
         "ur_maududi": "سورہ 19 آیت 52 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:52] en español.",
         "fr_hamidullah": "Traduction de [19:52] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:52] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:52] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:52] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:52] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:52］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:52] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:52] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:52] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:52] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:52]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:52] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:52].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:52] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:52].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:52].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:52].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:52]."
       }
     },
     {
@@ -743,7 +1731,26 @@
         "ur_maududi": "سورہ 19 آیت 53 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:53] en español.",
         "fr_hamidullah": "Traduction de [19:53] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 53 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 53 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:53] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:53] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:53] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:53] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:53］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:53] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:53] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:53] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:53] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:53]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:53] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:53].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:53] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:53].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:53].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:53].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:53]."
       }
     },
     {
@@ -757,7 +1764,26 @@
         "ur_maududi": "سورہ 19 آیت 54 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:54] en español.",
         "fr_hamidullah": "Traduction de [19:54] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 54 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 54 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:54] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:54] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:54] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:54] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:54］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:54] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:54] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:54] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:54] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:54]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:54] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:54].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:54] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:54].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:54].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:54].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:54]."
       }
     },
     {
@@ -771,7 +1797,26 @@
         "ur_maududi": "سورہ 19 آیت 55 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:55] en español.",
         "fr_hamidullah": "Traduction de [19:55] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 55 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 55 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:55] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:55] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:55] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:55] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:55］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:55] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:55] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:55] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:55] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:55]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:55] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:55].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:55] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:55].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:55].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:55].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:55]."
       }
     },
     {
@@ -785,7 +1830,26 @@
         "ur_maududi": "سورہ 19 آیت 56 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:56] en español.",
         "fr_hamidullah": "Traduction de [19:56] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 56 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 56 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:56] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:56] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:56] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:56] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:56］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:56] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:56] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:56] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:56] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:56]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:56] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:56].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:56] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:56].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:56].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:56].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:56]."
       }
     },
     {
@@ -799,7 +1863,26 @@
         "ur_maududi": "سورہ 19 آیت 57 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:57] en español.",
         "fr_hamidullah": "Traduction de [19:57] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 57 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 57 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:57] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:57] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:57] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:57] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:57］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:57] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:57] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:57] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:57] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:57]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:57] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:57].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:57] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:57].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:57].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:57].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:57]."
       }
     },
     {
@@ -813,7 +1896,26 @@
         "ur_maududi": "سورہ 19 آیت 58 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:58] en español.",
         "fr_hamidullah": "Traduction de [19:58] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 58 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 58 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:58] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:58] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:58] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:58] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:58］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:58] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:58] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:58] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:58] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:58]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:58] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:58].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:58] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:58].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:58].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:58].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:58]."
       }
     },
     {
@@ -827,7 +1929,26 @@
         "ur_maududi": "سورہ 19 آیت 59 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:59] en español.",
         "fr_hamidullah": "Traduction de [19:59] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 59 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 59 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:59] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:59] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:59] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:59] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:59］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:59] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:59] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:59] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:59] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:59]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:59] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:59].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:59] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:59].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:59].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:59].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:59]."
       }
     },
     {
@@ -841,7 +1962,26 @@
         "ur_maududi": "سورہ 19 آیت 60 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:60] en español.",
         "fr_hamidullah": "Traduction de [19:60] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 60 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 60 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:60] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:60] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:60] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:60] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:60］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:60] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:60] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:60] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:60] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:60]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:60] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:60].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:60] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:60].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:60].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:60].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:60]."
       }
     },
     {
@@ -855,7 +1995,26 @@
         "ur_maududi": "سورہ 19 آیت 61 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:61] en español.",
         "fr_hamidullah": "Traduction de [19:61] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 61 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 61 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:61] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:61] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:61] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:61] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:61］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:61] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:61] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:61] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:61] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:61]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:61] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:61].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:61] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:61].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:61].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:61].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:61]."
       }
     },
     {
@@ -869,7 +2028,26 @@
         "ur_maududi": "سورہ 19 آیت 62 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:62] en español.",
         "fr_hamidullah": "Traduction de [19:62] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 62 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 62 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:62] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:62] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:62] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:62] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:62］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:62] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:62] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:62] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:62] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:62]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:62] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:62].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:62] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:62].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:62].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:62].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:62]."
       }
     },
     {
@@ -883,7 +2061,26 @@
         "ur_maududi": "سورہ 19 آیت 63 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:63] en español.",
         "fr_hamidullah": "Traduction de [19:63] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 63 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 63 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:63] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:63] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:63] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:63] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:63］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:63] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:63] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:63] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:63] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:63]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:63] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:63].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:63] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:63].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:63].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:63].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:63]."
       }
     },
     {
@@ -897,7 +2094,26 @@
         "ur_maududi": "سورہ 19 آیت 64 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:64] en español.",
         "fr_hamidullah": "Traduction de [19:64] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 64 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 64 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:64] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:64] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:64] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:64] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:64］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:64] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:64] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:64] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:64] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:64]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:64] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:64].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:64] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:64].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:64].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:64].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:64]."
       }
     },
     {
@@ -911,7 +2127,26 @@
         "ur_maududi": "سورہ 19 آیت 65 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:65] en español.",
         "fr_hamidullah": "Traduction de [19:65] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 65 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 65 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:65] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:65] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:65] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:65] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:65］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:65] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:65] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:65] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:65] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:65]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:65] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:65].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:65] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:65].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:65].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:65].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:65]."
       }
     },
     {
@@ -925,7 +2160,26 @@
         "ur_maududi": "سورہ 19 آیت 66 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:66] en español.",
         "fr_hamidullah": "Traduction de [19:66] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 66 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 66 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:66] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:66] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:66] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:66] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:66］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:66] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:66] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:66] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:66] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:66]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:66] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:66].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:66] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:66].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:66].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:66].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:66]."
       }
     },
     {
@@ -939,7 +2193,26 @@
         "ur_maududi": "سورہ 19 آیت 67 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:67] en español.",
         "fr_hamidullah": "Traduction de [19:67] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 67 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 67 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:67] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:67] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:67] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:67] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:67］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:67] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:67] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:67] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:67] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:67]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:67] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:67].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:67] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:67].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:67].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:67].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:67]."
       }
     },
     {
@@ -953,7 +2226,26 @@
         "ur_maududi": "سورہ 19 آیت 68 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:68] en español.",
         "fr_hamidullah": "Traduction de [19:68] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 68 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 68 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:68] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:68] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:68] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:68] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:68］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:68] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:68] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:68] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:68] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:68]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:68] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:68].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:68] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:68].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:68].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:68].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:68]."
       }
     },
     {
@@ -967,7 +2259,26 @@
         "ur_maududi": "سورہ 19 آیت 69 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:69] en español.",
         "fr_hamidullah": "Traduction de [19:69] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 69 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 69 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:69] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:69] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:69] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:69] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:69］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:69] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:69] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:69] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:69] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:69]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:69] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:69].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:69] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:69].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:69].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:69].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:69]."
       }
     },
     {
@@ -981,7 +2292,26 @@
         "ur_maududi": "سورہ 19 آیت 70 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:70] en español.",
         "fr_hamidullah": "Traduction de [19:70] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 70 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 70 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:70] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:70] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:70] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:70] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:70］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:70] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:70] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:70] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:70] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:70]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:70] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:70].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:70] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:70].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:70].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:70].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:70]."
       }
     },
     {
@@ -995,7 +2325,26 @@
         "ur_maududi": "سورہ 19 آیت 71 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:71] en español.",
         "fr_hamidullah": "Traduction de [19:71] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 71 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 71 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:71] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:71] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:71] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:71] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:71］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:71] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:71] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:71] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:71] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:71]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:71] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:71].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:71] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:71].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:71].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:71].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:71]."
       }
     },
     {
@@ -1009,7 +2358,26 @@
         "ur_maududi": "سورہ 19 آیت 72 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:72] en español.",
         "fr_hamidullah": "Traduction de [19:72] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 72 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 72 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:72] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:72] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:72] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:72] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:72］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:72] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:72] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:72] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:72] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:72]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:72] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:72].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:72] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:72].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:72].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:72].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:72]."
       }
     },
     {
@@ -1023,7 +2391,26 @@
         "ur_maududi": "سورہ 19 آیت 73 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:73] en español.",
         "fr_hamidullah": "Traduction de [19:73] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 73 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 73 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:73] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:73] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:73] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:73] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:73］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:73] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:73] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:73] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:73] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:73]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:73] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:73].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:73] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:73].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:73].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:73].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:73]."
       }
     },
     {
@@ -1037,7 +2424,26 @@
         "ur_maududi": "سورہ 19 آیت 74 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:74] en español.",
         "fr_hamidullah": "Traduction de [19:74] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 74 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 74 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:74] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:74] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:74] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:74] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:74］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:74] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:74] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:74] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:74] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:74]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:74] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:74].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:74] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:74].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:74].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:74].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:74]."
       }
     },
     {
@@ -1051,7 +2457,26 @@
         "ur_maududi": "سورہ 19 آیت 75 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:75] en español.",
         "fr_hamidullah": "Traduction de [19:75] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 75 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 75 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:75] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:75] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:75] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:75] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:75］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:75] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:75] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:75] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:75] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:75]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:75] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:75].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:75] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:75].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:75].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:75].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:75]."
       }
     },
     {
@@ -1065,7 +2490,26 @@
         "ur_maududi": "سورہ 19 آیت 76 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:76] en español.",
         "fr_hamidullah": "Traduction de [19:76] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 76 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 76 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:76] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:76] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:76] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:76] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:76］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:76] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:76] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:76] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:76] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:76]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:76] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:76].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:76] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:76].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:76].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:76].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:76]."
       }
     },
     {
@@ -1079,7 +2523,26 @@
         "ur_maududi": "سورہ 19 آیت 77 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:77] en español.",
         "fr_hamidullah": "Traduction de [19:77] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 77 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 77 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:77] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:77] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:77] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:77] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:77］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:77] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:77] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:77] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:77] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:77]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:77] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:77].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:77] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:77].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:77].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:77].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:77]."
       }
     },
     {
@@ -1093,7 +2556,26 @@
         "ur_maududi": "سورہ 19 آیت 78 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:78] en español.",
         "fr_hamidullah": "Traduction de [19:78] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 78 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 78 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:78] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:78] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:78] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:78] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:78］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:78] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:78] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:78] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:78] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:78]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:78] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:78].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:78] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:78].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:78].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:78].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:78]."
       }
     },
     {
@@ -1107,7 +2589,26 @@
         "ur_maududi": "سورہ 19 آیت 79 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:79] en español.",
         "fr_hamidullah": "Traduction de [19:79] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 79 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 79 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:79] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:79] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:79] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:79] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:79］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:79] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:79] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:79] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:79] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:79]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:79] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:79].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:79] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:79].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:79].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:79].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:79]."
       }
     },
     {
@@ -1121,7 +2622,26 @@
         "ur_maududi": "سورہ 19 آیت 80 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:80] en español.",
         "fr_hamidullah": "Traduction de [19:80] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 80 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 80 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:80] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:80] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:80] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:80] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:80］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:80] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:80] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:80] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:80] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:80]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:80] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:80].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:80] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:80].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:80].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:80].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:80]."
       }
     },
     {
@@ -1135,7 +2655,26 @@
         "ur_maududi": "سورہ 19 آیت 81 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:81] en español.",
         "fr_hamidullah": "Traduction de [19:81] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 81 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 81 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:81] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:81] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:81] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:81] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:81］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:81] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:81] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:81] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:81] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:81]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:81] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:81].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:81] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:81].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:81].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:81].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:81]."
       }
     },
     {
@@ -1149,7 +2688,26 @@
         "ur_maududi": "سورہ 19 آیت 82 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:82] en español.",
         "fr_hamidullah": "Traduction de [19:82] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 82 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 82 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:82] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:82] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:82] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:82] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:82］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:82] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:82] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:82] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:82] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:82]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:82] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:82].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:82] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:82].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:82].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:82].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:82]."
       }
     },
     {
@@ -1163,7 +2721,26 @@
         "ur_maududi": "سورہ 19 آیت 83 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:83] en español.",
         "fr_hamidullah": "Traduction de [19:83] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 83 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 83 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:83] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:83] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:83] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:83] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:83］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:83] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:83] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:83] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:83] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:83]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:83] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:83].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:83] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:83].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:83].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:83].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:83]."
       }
     },
     {
@@ -1177,7 +2754,26 @@
         "ur_maududi": "سورہ 19 آیت 84 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:84] en español.",
         "fr_hamidullah": "Traduction de [19:84] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 84 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 84 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:84] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:84] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:84] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:84] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:84］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:84] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:84] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:84] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:84] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:84]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:84] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:84].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:84] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:84].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:84].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:84].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:84]."
       }
     },
     {
@@ -1191,7 +2787,26 @@
         "ur_maududi": "سورہ 19 آیت 85 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:85] en español.",
         "fr_hamidullah": "Traduction de [19:85] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 85 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 85 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:85] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:85] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:85] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:85] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:85］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:85] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:85] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:85] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:85] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:85]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:85] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:85].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:85] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:85].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:85].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:85].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:85]."
       }
     },
     {
@@ -1205,7 +2820,26 @@
         "ur_maududi": "سورہ 19 آیت 86 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:86] en español.",
         "fr_hamidullah": "Traduction de [19:86] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 86 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 86 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:86] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:86] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:86] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:86] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:86］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:86] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:86] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:86] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:86] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:86]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:86] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:86].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:86] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:86].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:86].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:86].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:86]."
       }
     },
     {
@@ -1219,7 +2853,26 @@
         "ur_maududi": "سورہ 19 آیت 87 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:87] en español.",
         "fr_hamidullah": "Traduction de [19:87] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 87 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 87 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:87] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:87] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:87] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:87] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:87］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:87] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:87] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:87] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:87] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:87]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:87] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:87].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:87] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:87].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:87].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:87].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:87]."
       }
     },
     {
@@ -1233,7 +2886,26 @@
         "ur_maududi": "سورہ 19 آیت 88 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:88] en español.",
         "fr_hamidullah": "Traduction de [19:88] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 88 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 88 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:88] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:88] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:88] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:88] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:88］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:88] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:88] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:88] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:88] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:88]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:88] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:88].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:88] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:88].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:88].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:88].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:88]."
       }
     },
     {
@@ -1247,7 +2919,26 @@
         "ur_maududi": "سورہ 19 آیت 89 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:89] en español.",
         "fr_hamidullah": "Traduction de [19:89] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 89 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 89 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:89] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:89] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:89] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:89] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:89］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:89] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:89] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:89] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:89] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:89]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:89] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:89].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:89] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:89].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:89].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:89].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:89]."
       }
     },
     {
@@ -1261,7 +2952,26 @@
         "ur_maududi": "سورہ 19 آیت 90 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:90] en español.",
         "fr_hamidullah": "Traduction de [19:90] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 90 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 90 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:90] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:90] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:90] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:90] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:90］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:90] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:90] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:90] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:90] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:90]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:90] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:90].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:90] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:90].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:90].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:90].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:90]."
       }
     },
     {
@@ -1275,7 +2985,26 @@
         "ur_maududi": "سورہ 19 آیت 91 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:91] en español.",
         "fr_hamidullah": "Traduction de [19:91] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 91 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 91 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:91] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:91] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:91] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:91] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:91］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:91] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:91] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:91] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:91] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:91]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:91] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:91].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:91] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:91].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:91].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:91].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:91]."
       }
     },
     {
@@ -1289,7 +3018,26 @@
         "ur_maududi": "سورہ 19 آیت 92 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:92] en español.",
         "fr_hamidullah": "Traduction de [19:92] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 92 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 92 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:92] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:92] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:92] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:92] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:92］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:92] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:92] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:92] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:92] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:92]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:92] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:92].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:92] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:92].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:92].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:92].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:92]."
       }
     },
     {
@@ -1303,7 +3051,26 @@
         "ur_maududi": "سورہ 19 آیت 93 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:93] en español.",
         "fr_hamidullah": "Traduction de [19:93] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 93 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 93 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:93] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:93] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:93] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:93] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:93］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:93] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:93] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:93] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:93] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:93]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:93] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:93].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:93] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:93].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:93].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:93].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:93]."
       }
     },
     {
@@ -1317,7 +3084,26 @@
         "ur_maududi": "سورہ 19 آیت 94 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:94] en español.",
         "fr_hamidullah": "Traduction de [19:94] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 94 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 94 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:94] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:94] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:94] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:94] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:94］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:94] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:94] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:94] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:94] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:94]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:94] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:94].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:94] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:94].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:94].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:94].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:94]."
       }
     },
     {
@@ -1331,7 +3117,26 @@
         "ur_maududi": "سورہ 19 آیت 95 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:95] en español.",
         "fr_hamidullah": "Traduction de [19:95] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 95 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 95 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:95] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:95] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:95] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:95] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:95］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:95] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:95] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:95] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:95] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:95]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:95] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:95].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:95] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:95].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:95].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:95].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:95]."
       }
     },
     {
@@ -1345,7 +3150,26 @@
         "ur_maududi": "سورہ 19 آیت 96 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:96] en español.",
         "fr_hamidullah": "Traduction de [19:96] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 96 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 96 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:96] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:96] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:96] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:96] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:96］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:96] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:96] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:96] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:96] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:96]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:96] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:96].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:96] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:96].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:96].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:96].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:96]."
       }
     },
     {
@@ -1359,7 +3183,26 @@
         "ur_maududi": "سورہ 19 آیت 97 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:97] en español.",
         "fr_hamidullah": "Traduction de [19:97] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 97 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 97 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:97] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:97] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:97] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:97] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:97］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:97] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:97] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:97] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:97] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:97]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:97] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:97].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:97] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:97].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:97].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:97].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:97]."
       }
     },
     {
@@ -1373,7 +3216,26 @@
         "ur_maududi": "سورہ 19 آیت 98 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [19:98] en español.",
         "fr_hamidullah": "Traduction de [19:98] en français.",
-        "bn_hoque": "সূরা 19 আয়াত 98 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 19 আয়াত 98 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [19:98] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [19:98] на русский язык (Абу Адель).",
+        "tr_diyanet": "[19:98] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [19:98] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［19:98］ 马坚 译文",
+        "it_piccardo": "Traduzione di [19:98] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [19:98] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [19:98] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [19:98] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [19:98]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [19:98] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [19:98].",
+        "ar_jalalayn": "تفسير الجلالين للآية [19:98] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [19:98].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [19:98].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [19:98].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [19:98]."
       }
     }
   ],

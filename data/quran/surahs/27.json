@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T01:55:57.981Z",
+  "generatedAt": "2026-05-23T02:33:24.471Z",
   "surahNumber": 27,
   "ayahCount": 93,
   "ayahs": [
@@ -15,7 +15,26 @@
         "ur_maududi": "سورہ 27 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:1] en español.",
         "fr_hamidullah": "Traduction de [27:1] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:1] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:1] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:1] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:1] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:1]."
       }
     },
     {
@@ -29,7 +48,26 @@
         "ur_maududi": "سورہ 27 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:2] en español.",
         "fr_hamidullah": "Traduction de [27:2] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:2] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:2] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:2] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:2] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:2]."
       }
     },
     {
@@ -43,7 +81,26 @@
         "ur_maududi": "سورہ 27 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:3] en español.",
         "fr_hamidullah": "Traduction de [27:3] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:3] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:3] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:3] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:3] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:3]."
       }
     },
     {
@@ -57,7 +114,26 @@
         "ur_maududi": "سورہ 27 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:4] en español.",
         "fr_hamidullah": "Traduction de [27:4] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:4] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:4] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:4] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:4] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:4]."
       }
     },
     {
@@ -71,7 +147,26 @@
         "ur_maududi": "سورہ 27 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:5] en español.",
         "fr_hamidullah": "Traduction de [27:5] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:5] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:5] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:5] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:5] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:5]."
       }
     },
     {
@@ -85,7 +180,26 @@
         "ur_maududi": "سورہ 27 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:6] en español.",
         "fr_hamidullah": "Traduction de [27:6] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:6] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:6] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:6] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:6] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:6]."
       }
     },
     {
@@ -99,7 +213,26 @@
         "ur_maududi": "سورہ 27 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:7] en español.",
         "fr_hamidullah": "Traduction de [27:7] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:7] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:7] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:7] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:7] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:7]."
       }
     },
     {
@@ -113,7 +246,26 @@
         "ur_maududi": "سورہ 27 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:8] en español.",
         "fr_hamidullah": "Traduction de [27:8] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:8] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:8] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:8] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:8] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:8]."
       }
     },
     {
@@ -127,7 +279,26 @@
         "ur_maududi": "سورہ 27 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:9] en español.",
         "fr_hamidullah": "Traduction de [27:9] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:9] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:9] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:9] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:9] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:9]."
       }
     },
     {
@@ -141,7 +312,26 @@
         "ur_maududi": "سورہ 27 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:10] en español.",
         "fr_hamidullah": "Traduction de [27:10] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:10] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:10] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:10] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:10] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:10]."
       }
     },
     {
@@ -155,7 +345,26 @@
         "ur_maududi": "سورہ 27 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:11] en español.",
         "fr_hamidullah": "Traduction de [27:11] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:11] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:11] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:11] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:11] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:11]."
       }
     },
     {
@@ -169,7 +378,26 @@
         "ur_maududi": "سورہ 27 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:12] en español.",
         "fr_hamidullah": "Traduction de [27:12] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:12] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:12] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:12] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:12] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:12]."
       }
     },
     {
@@ -183,7 +411,26 @@
         "ur_maududi": "سورہ 27 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:13] en español.",
         "fr_hamidullah": "Traduction de [27:13] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:13] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:13] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:13] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:13] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:13]."
       }
     },
     {
@@ -197,7 +444,26 @@
         "ur_maududi": "سورہ 27 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:14] en español.",
         "fr_hamidullah": "Traduction de [27:14] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:14] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:14] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:14] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:14] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:14]."
       }
     },
     {
@@ -211,7 +477,26 @@
         "ur_maududi": "سورہ 27 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:15] en español.",
         "fr_hamidullah": "Traduction de [27:15] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:15] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:15] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:15] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:15] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:15]."
       }
     },
     {
@@ -225,7 +510,26 @@
         "ur_maududi": "سورہ 27 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:16] en español.",
         "fr_hamidullah": "Traduction de [27:16] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:16] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:16] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:16] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:16] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:16]."
       }
     },
     {
@@ -239,7 +543,26 @@
         "ur_maududi": "سورہ 27 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:17] en español.",
         "fr_hamidullah": "Traduction de [27:17] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:17] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:17] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:17] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:17] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:17]."
       }
     },
     {
@@ -253,7 +576,26 @@
         "ur_maududi": "سورہ 27 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:18] en español.",
         "fr_hamidullah": "Traduction de [27:18] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:18] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:18] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:18] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:18] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:18]."
       }
     },
     {
@@ -267,7 +609,26 @@
         "ur_maududi": "سورہ 27 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:19] en español.",
         "fr_hamidullah": "Traduction de [27:19] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:19] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:19] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:19] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:19] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:19]."
       }
     },
     {
@@ -281,7 +642,26 @@
         "ur_maududi": "سورہ 27 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:20] en español.",
         "fr_hamidullah": "Traduction de [27:20] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:20] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:20] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:20] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:20] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:20]."
       }
     },
     {
@@ -295,7 +675,26 @@
         "ur_maududi": "سورہ 27 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:21] en español.",
         "fr_hamidullah": "Traduction de [27:21] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:21] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:21] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:21] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:21] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:21］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:21] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:21] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:21] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:21] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:21]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:21] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:21].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:21] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:21].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:21].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:21].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:21]."
       }
     },
     {
@@ -309,7 +708,26 @@
         "ur_maududi": "سورہ 27 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:22] en español.",
         "fr_hamidullah": "Traduction de [27:22] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:22] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:22] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:22] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:22] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:22］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:22] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:22] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:22] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:22] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:22]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:22] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:22].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:22] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:22].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:22].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:22].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:22]."
       }
     },
     {
@@ -323,7 +741,26 @@
         "ur_maududi": "سورہ 27 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:23] en español.",
         "fr_hamidullah": "Traduction de [27:23] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:23] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:23] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:23] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:23] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:23］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:23] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:23] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:23] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:23] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:23]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:23] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:23].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:23] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:23].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:23].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:23].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:23]."
       }
     },
     {
@@ -337,7 +774,26 @@
         "ur_maududi": "سورہ 27 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:24] en español.",
         "fr_hamidullah": "Traduction de [27:24] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:24] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:24] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:24] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:24] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:24］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:24] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:24] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:24] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:24] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:24]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:24] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:24].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:24] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:24].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:24].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:24].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:24]."
       }
     },
     {
@@ -351,7 +807,26 @@
         "ur_maududi": "سورہ 27 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:25] en español.",
         "fr_hamidullah": "Traduction de [27:25] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:25] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:25] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:25] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:25] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:25］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:25] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:25] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:25] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:25] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:25]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:25] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:25].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:25] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:25].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:25].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:25].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:25]."
       }
     },
     {
@@ -365,7 +840,26 @@
         "ur_maududi": "سورہ 27 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:26] en español.",
         "fr_hamidullah": "Traduction de [27:26] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:26] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:26] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:26] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:26] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:26］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:26] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:26] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:26] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:26] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:26]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:26] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:26].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:26] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:26].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:26].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:26].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:26]."
       }
     },
     {
@@ -379,7 +873,26 @@
         "ur_maududi": "سورہ 27 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:27] en español.",
         "fr_hamidullah": "Traduction de [27:27] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:27] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:27] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:27] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:27] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:27］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:27] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:27] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:27] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:27] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:27]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:27] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:27].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:27] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:27].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:27].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:27].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:27]."
       }
     },
     {
@@ -393,7 +906,26 @@
         "ur_maududi": "سورہ 27 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:28] en español.",
         "fr_hamidullah": "Traduction de [27:28] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:28] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:28] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:28] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:28] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:28］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:28] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:28] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:28] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:28] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:28]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:28] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:28].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:28] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:28].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:28].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:28].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:28]."
       }
     },
     {
@@ -407,7 +939,26 @@
         "ur_maududi": "سورہ 27 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:29] en español.",
         "fr_hamidullah": "Traduction de [27:29] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:29] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:29] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:29] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:29] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:29］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:29] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:29] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:29] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:29] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:29]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:29] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:29].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:29] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:29].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:29].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:29].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:29]."
       }
     },
     {
@@ -421,7 +972,26 @@
         "ur_maududi": "سورہ 27 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:30] en español.",
         "fr_hamidullah": "Traduction de [27:30] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:30] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:30] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:30] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:30] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:30］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:30] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:30] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:30] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:30] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:30]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:30] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:30].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:30] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:30].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:30].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:30].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:30]."
       }
     },
     {
@@ -435,7 +1005,26 @@
         "ur_maududi": "سورہ 27 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:31] en español.",
         "fr_hamidullah": "Traduction de [27:31] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:31] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:31] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:31] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:31] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:31］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:31] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:31] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:31] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:31] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:31]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:31] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:31].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:31] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:31].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:31].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:31].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:31]."
       }
     },
     {
@@ -449,7 +1038,26 @@
         "ur_maududi": "سورہ 27 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:32] en español.",
         "fr_hamidullah": "Traduction de [27:32] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:32] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:32] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:32] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:32] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:32］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:32] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:32] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:32] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:32] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:32]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:32] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:32].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:32] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:32].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:32].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:32].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:32]."
       }
     },
     {
@@ -463,7 +1071,26 @@
         "ur_maududi": "سورہ 27 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:33] en español.",
         "fr_hamidullah": "Traduction de [27:33] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:33] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:33] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:33] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:33] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:33］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:33] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:33] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:33] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:33] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:33]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:33] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:33].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:33] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:33].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:33].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:33].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:33]."
       }
     },
     {
@@ -477,7 +1104,26 @@
         "ur_maududi": "سورہ 27 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:34] en español.",
         "fr_hamidullah": "Traduction de [27:34] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:34] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:34] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:34] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:34] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:34］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:34] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:34] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:34] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:34] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:34]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:34] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:34].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:34] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:34].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:34].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:34].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:34]."
       }
     },
     {
@@ -491,7 +1137,26 @@
         "ur_maududi": "سورہ 27 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:35] en español.",
         "fr_hamidullah": "Traduction de [27:35] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:35] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:35] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:35] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:35] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:35］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:35] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:35] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:35] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:35] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:35]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:35] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:35].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:35] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:35].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:35].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:35].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:35]."
       }
     },
     {
@@ -505,7 +1170,26 @@
         "ur_maududi": "سورہ 27 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:36] en español.",
         "fr_hamidullah": "Traduction de [27:36] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:36] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:36] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:36] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:36] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:36］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:36] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:36] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:36] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:36] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:36]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:36] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:36].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:36] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:36].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:36].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:36].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:36]."
       }
     },
     {
@@ -519,7 +1203,26 @@
         "ur_maududi": "سورہ 27 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:37] en español.",
         "fr_hamidullah": "Traduction de [27:37] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:37] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:37] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:37] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:37] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:37］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:37] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:37] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:37] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:37] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:37]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:37] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:37].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:37] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:37].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:37].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:37].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:37]."
       }
     },
     {
@@ -533,7 +1236,26 @@
         "ur_maududi": "سورہ 27 آیت 38 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:38] en español.",
         "fr_hamidullah": "Traduction de [27:38] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:38] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:38] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:38] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:38] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:38］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:38] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:38] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:38] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:38] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:38]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:38] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:38].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:38] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:38].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:38].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:38].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:38]."
       }
     },
     {
@@ -547,7 +1269,26 @@
         "ur_maududi": "سورہ 27 آیت 39 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:39] en español.",
         "fr_hamidullah": "Traduction de [27:39] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:39] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:39] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:39] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:39] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:39］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:39] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:39] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:39] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:39] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:39]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:39] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:39].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:39] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:39].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:39].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:39].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:39]."
       }
     },
     {
@@ -561,7 +1302,26 @@
         "ur_maududi": "سورہ 27 آیت 40 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:40] en español.",
         "fr_hamidullah": "Traduction de [27:40] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:40] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:40] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:40] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:40] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:40］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:40] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:40] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:40] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:40] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:40]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:40] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:40].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:40] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:40].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:40].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:40].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:40]."
       }
     },
     {
@@ -575,7 +1335,26 @@
         "ur_maududi": "سورہ 27 آیت 41 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:41] en español.",
         "fr_hamidullah": "Traduction de [27:41] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:41] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:41] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:41] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:41] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:41］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:41] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:41] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:41] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:41] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:41]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:41] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:41].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:41] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:41].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:41].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:41].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:41]."
       }
     },
     {
@@ -589,7 +1368,26 @@
         "ur_maududi": "سورہ 27 آیت 42 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:42] en español.",
         "fr_hamidullah": "Traduction de [27:42] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:42] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:42] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:42] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:42] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:42］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:42] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:42] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:42] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:42] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:42]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:42] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:42].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:42] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:42].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:42].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:42].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:42]."
       }
     },
     {
@@ -603,7 +1401,26 @@
         "ur_maududi": "سورہ 27 آیت 43 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:43] en español.",
         "fr_hamidullah": "Traduction de [27:43] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:43] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:43] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:43] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:43] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:43］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:43] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:43] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:43] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:43] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:43]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:43] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:43].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:43] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:43].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:43].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:43].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:43]."
       }
     },
     {
@@ -617,7 +1434,26 @@
         "ur_maududi": "سورہ 27 آیت 44 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:44] en español.",
         "fr_hamidullah": "Traduction de [27:44] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:44] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:44] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:44] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:44] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:44］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:44] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:44] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:44] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:44] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:44]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:44] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:44].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:44] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:44].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:44].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:44].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:44]."
       }
     },
     {
@@ -631,7 +1467,26 @@
         "ur_maududi": "سورہ 27 آیت 45 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:45] en español.",
         "fr_hamidullah": "Traduction de [27:45] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:45] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:45] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:45] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:45] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:45］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:45] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:45] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:45] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:45] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:45]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:45] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:45].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:45] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:45].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:45].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:45].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:45]."
       }
     },
     {
@@ -645,7 +1500,26 @@
         "ur_maududi": "سورہ 27 آیت 46 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:46] en español.",
         "fr_hamidullah": "Traduction de [27:46] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:46] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:46] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:46] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:46] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:46］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:46] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:46] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:46] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:46] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:46]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:46] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:46].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:46] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:46].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:46].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:46].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:46]."
       }
     },
     {
@@ -659,7 +1533,26 @@
         "ur_maududi": "سورہ 27 آیت 47 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:47] en español.",
         "fr_hamidullah": "Traduction de [27:47] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:47] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:47] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:47] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:47] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:47］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:47] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:47] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:47] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:47] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:47]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:47] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:47].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:47] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:47].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:47].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:47].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:47]."
       }
     },
     {
@@ -673,7 +1566,26 @@
         "ur_maududi": "سورہ 27 آیت 48 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:48] en español.",
         "fr_hamidullah": "Traduction de [27:48] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:48] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:48] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:48] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:48] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:48］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:48] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:48] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:48] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:48] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:48]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:48] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:48].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:48] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:48].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:48].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:48].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:48]."
       }
     },
     {
@@ -687,7 +1599,26 @@
         "ur_maududi": "سورہ 27 آیت 49 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:49] en español.",
         "fr_hamidullah": "Traduction de [27:49] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:49] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:49] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:49] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:49] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:49］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:49] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:49] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:49] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:49] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:49]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:49] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:49].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:49] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:49].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:49].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:49].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:49]."
       }
     },
     {
@@ -701,7 +1632,26 @@
         "ur_maududi": "سورہ 27 آیت 50 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:50] en español.",
         "fr_hamidullah": "Traduction de [27:50] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:50] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:50] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:50] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:50] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:50］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:50] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:50] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:50] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:50] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:50]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:50] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:50].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:50] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:50].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:50].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:50].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:50]."
       }
     },
     {
@@ -715,7 +1665,26 @@
         "ur_maududi": "سورہ 27 آیت 51 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:51] en español.",
         "fr_hamidullah": "Traduction de [27:51] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:51] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:51] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:51] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:51] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:51］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:51] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:51] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:51] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:51] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:51]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:51] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:51].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:51] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:51].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:51].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:51].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:51]."
       }
     },
     {
@@ -729,7 +1698,26 @@
         "ur_maududi": "سورہ 27 آیت 52 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:52] en español.",
         "fr_hamidullah": "Traduction de [27:52] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:52] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:52] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:52] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:52] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:52］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:52] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:52] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:52] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:52] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:52]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:52] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:52].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:52] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:52].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:52].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:52].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:52]."
       }
     },
     {
@@ -743,7 +1731,26 @@
         "ur_maududi": "سورہ 27 آیت 53 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:53] en español.",
         "fr_hamidullah": "Traduction de [27:53] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 53 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 53 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:53] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:53] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:53] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:53] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:53］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:53] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:53] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:53] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:53] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:53]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:53] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:53].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:53] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:53].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:53].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:53].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:53]."
       }
     },
     {
@@ -757,7 +1764,26 @@
         "ur_maududi": "سورہ 27 آیت 54 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:54] en español.",
         "fr_hamidullah": "Traduction de [27:54] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 54 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 54 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:54] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:54] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:54] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:54] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:54］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:54] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:54] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:54] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:54] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:54]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:54] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:54].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:54] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:54].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:54].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:54].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:54]."
       }
     },
     {
@@ -771,7 +1797,26 @@
         "ur_maududi": "سورہ 27 آیت 55 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:55] en español.",
         "fr_hamidullah": "Traduction de [27:55] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 55 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 55 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:55] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:55] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:55] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:55] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:55］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:55] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:55] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:55] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:55] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:55]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:55] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:55].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:55] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:55].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:55].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:55].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:55]."
       }
     },
     {
@@ -785,7 +1830,26 @@
         "ur_maududi": "سورہ 27 آیت 56 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:56] en español.",
         "fr_hamidullah": "Traduction de [27:56] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 56 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 56 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:56] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:56] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:56] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:56] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:56］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:56] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:56] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:56] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:56] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:56]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:56] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:56].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:56] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:56].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:56].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:56].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:56]."
       }
     },
     {
@@ -799,7 +1863,26 @@
         "ur_maududi": "سورہ 27 آیت 57 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:57] en español.",
         "fr_hamidullah": "Traduction de [27:57] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 57 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 57 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:57] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:57] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:57] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:57] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:57］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:57] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:57] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:57] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:57] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:57]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:57] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:57].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:57] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:57].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:57].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:57].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:57]."
       }
     },
     {
@@ -813,7 +1896,26 @@
         "ur_maududi": "سورہ 27 آیت 58 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:58] en español.",
         "fr_hamidullah": "Traduction de [27:58] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 58 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 58 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:58] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:58] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:58] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:58] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:58］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:58] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:58] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:58] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:58] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:58]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:58] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:58].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:58] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:58].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:58].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:58].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:58]."
       }
     },
     {
@@ -827,7 +1929,26 @@
         "ur_maududi": "سورہ 27 آیت 59 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:59] en español.",
         "fr_hamidullah": "Traduction de [27:59] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 59 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 59 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:59] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:59] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:59] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:59] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:59］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:59] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:59] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:59] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:59] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:59]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:59] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:59].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:59] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:59].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:59].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:59].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:59]."
       }
     },
     {
@@ -841,7 +1962,26 @@
         "ur_maududi": "سورہ 27 آیت 60 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:60] en español.",
         "fr_hamidullah": "Traduction de [27:60] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 60 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 60 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:60] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:60] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:60] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:60] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:60］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:60] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:60] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:60] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:60] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:60]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:60] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:60].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:60] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:60].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:60].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:60].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:60]."
       }
     },
     {
@@ -855,7 +1995,26 @@
         "ur_maududi": "سورہ 27 آیت 61 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:61] en español.",
         "fr_hamidullah": "Traduction de [27:61] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 61 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 61 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:61] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:61] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:61] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:61] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:61］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:61] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:61] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:61] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:61] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:61]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:61] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:61].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:61] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:61].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:61].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:61].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:61]."
       }
     },
     {
@@ -869,7 +2028,26 @@
         "ur_maududi": "سورہ 27 آیت 62 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:62] en español.",
         "fr_hamidullah": "Traduction de [27:62] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 62 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 62 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:62] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:62] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:62] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:62] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:62］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:62] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:62] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:62] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:62] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:62]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:62] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:62].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:62] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:62].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:62].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:62].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:62]."
       }
     },
     {
@@ -883,7 +2061,26 @@
         "ur_maududi": "سورہ 27 آیت 63 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:63] en español.",
         "fr_hamidullah": "Traduction de [27:63] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 63 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 63 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:63] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:63] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:63] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:63] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:63］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:63] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:63] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:63] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:63] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:63]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:63] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:63].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:63] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:63].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:63].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:63].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:63]."
       }
     },
     {
@@ -897,7 +2094,26 @@
         "ur_maududi": "سورہ 27 آیت 64 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:64] en español.",
         "fr_hamidullah": "Traduction de [27:64] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 64 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 64 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:64] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:64] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:64] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:64] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:64］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:64] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:64] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:64] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:64] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:64]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:64] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:64].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:64] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:64].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:64].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:64].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:64]."
       }
     },
     {
@@ -911,7 +2127,26 @@
         "ur_maududi": "سورہ 27 آیت 65 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:65] en español.",
         "fr_hamidullah": "Traduction de [27:65] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 65 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 65 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:65] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:65] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:65] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:65] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:65］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:65] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:65] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:65] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:65] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:65]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:65] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:65].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:65] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:65].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:65].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:65].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:65]."
       }
     },
     {
@@ -925,7 +2160,26 @@
         "ur_maududi": "سورہ 27 آیت 66 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:66] en español.",
         "fr_hamidullah": "Traduction de [27:66] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 66 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 66 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:66] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:66] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:66] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:66] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:66］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:66] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:66] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:66] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:66] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:66]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:66] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:66].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:66] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:66].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:66].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:66].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:66]."
       }
     },
     {
@@ -939,7 +2193,26 @@
         "ur_maududi": "سورہ 27 آیت 67 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:67] en español.",
         "fr_hamidullah": "Traduction de [27:67] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 67 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 67 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:67] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:67] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:67] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:67] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:67］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:67] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:67] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:67] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:67] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:67]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:67] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:67].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:67] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:67].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:67].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:67].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:67]."
       }
     },
     {
@@ -953,7 +2226,26 @@
         "ur_maududi": "سورہ 27 آیت 68 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:68] en español.",
         "fr_hamidullah": "Traduction de [27:68] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 68 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 68 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:68] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:68] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:68] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:68] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:68］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:68] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:68] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:68] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:68] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:68]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:68] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:68].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:68] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:68].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:68].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:68].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:68]."
       }
     },
     {
@@ -967,7 +2259,26 @@
         "ur_maududi": "سورہ 27 آیت 69 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:69] en español.",
         "fr_hamidullah": "Traduction de [27:69] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 69 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 69 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:69] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:69] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:69] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:69] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:69］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:69] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:69] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:69] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:69] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:69]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:69] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:69].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:69] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:69].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:69].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:69].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:69]."
       }
     },
     {
@@ -981,7 +2292,26 @@
         "ur_maududi": "سورہ 27 آیت 70 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:70] en español.",
         "fr_hamidullah": "Traduction de [27:70] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 70 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 70 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:70] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:70] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:70] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:70] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:70］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:70] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:70] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:70] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:70] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:70]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:70] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:70].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:70] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:70].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:70].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:70].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:70]."
       }
     },
     {
@@ -995,7 +2325,26 @@
         "ur_maududi": "سورہ 27 آیت 71 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:71] en español.",
         "fr_hamidullah": "Traduction de [27:71] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 71 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 71 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:71] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:71] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:71] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:71] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:71］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:71] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:71] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:71] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:71] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:71]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:71] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:71].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:71] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:71].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:71].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:71].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:71]."
       }
     },
     {
@@ -1009,7 +2358,26 @@
         "ur_maududi": "سورہ 27 آیت 72 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:72] en español.",
         "fr_hamidullah": "Traduction de [27:72] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 72 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 72 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:72] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:72] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:72] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:72] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:72］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:72] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:72] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:72] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:72] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:72]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:72] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:72].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:72] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:72].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:72].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:72].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:72]."
       }
     },
     {
@@ -1023,7 +2391,26 @@
         "ur_maududi": "سورہ 27 آیت 73 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:73] en español.",
         "fr_hamidullah": "Traduction de [27:73] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 73 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 73 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:73] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:73] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:73] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:73] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:73］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:73] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:73] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:73] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:73] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:73]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:73] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:73].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:73] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:73].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:73].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:73].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:73]."
       }
     },
     {
@@ -1037,7 +2424,26 @@
         "ur_maududi": "سورہ 27 آیت 74 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:74] en español.",
         "fr_hamidullah": "Traduction de [27:74] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 74 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 74 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:74] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:74] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:74] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:74] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:74］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:74] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:74] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:74] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:74] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:74]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:74] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:74].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:74] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:74].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:74].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:74].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:74]."
       }
     },
     {
@@ -1051,7 +2457,26 @@
         "ur_maududi": "سورہ 27 آیت 75 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:75] en español.",
         "fr_hamidullah": "Traduction de [27:75] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 75 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 75 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:75] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:75] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:75] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:75] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:75］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:75] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:75] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:75] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:75] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:75]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:75] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:75].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:75] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:75].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:75].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:75].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:75]."
       }
     },
     {
@@ -1065,7 +2490,26 @@
         "ur_maududi": "سورہ 27 آیت 76 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:76] en español.",
         "fr_hamidullah": "Traduction de [27:76] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 76 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 76 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:76] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:76] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:76] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:76] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:76］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:76] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:76] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:76] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:76] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:76]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:76] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:76].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:76] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:76].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:76].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:76].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:76]."
       }
     },
     {
@@ -1079,7 +2523,26 @@
         "ur_maududi": "سورہ 27 آیت 77 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:77] en español.",
         "fr_hamidullah": "Traduction de [27:77] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 77 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 77 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:77] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:77] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:77] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:77] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:77］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:77] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:77] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:77] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:77] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:77]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:77] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:77].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:77] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:77].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:77].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:77].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:77]."
       }
     },
     {
@@ -1093,7 +2556,26 @@
         "ur_maududi": "سورہ 27 آیت 78 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:78] en español.",
         "fr_hamidullah": "Traduction de [27:78] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 78 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 78 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:78] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:78] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:78] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:78] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:78］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:78] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:78] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:78] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:78] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:78]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:78] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:78].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:78] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:78].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:78].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:78].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:78]."
       }
     },
     {
@@ -1107,7 +2589,26 @@
         "ur_maududi": "سورہ 27 آیت 79 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:79] en español.",
         "fr_hamidullah": "Traduction de [27:79] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 79 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 79 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:79] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:79] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:79] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:79] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:79］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:79] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:79] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:79] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:79] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:79]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:79] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:79].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:79] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:79].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:79].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:79].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:79]."
       }
     },
     {
@@ -1121,7 +2622,26 @@
         "ur_maududi": "سورہ 27 آیت 80 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:80] en español.",
         "fr_hamidullah": "Traduction de [27:80] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 80 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 80 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:80] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:80] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:80] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:80] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:80］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:80] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:80] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:80] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:80] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:80]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:80] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:80].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:80] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:80].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:80].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:80].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:80]."
       }
     },
     {
@@ -1135,7 +2655,26 @@
         "ur_maududi": "سورہ 27 آیت 81 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:81] en español.",
         "fr_hamidullah": "Traduction de [27:81] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 81 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 81 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:81] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:81] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:81] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:81] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:81］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:81] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:81] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:81] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:81] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:81]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:81] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:81].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:81] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:81].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:81].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:81].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:81]."
       }
     },
     {
@@ -1149,7 +2688,26 @@
         "ur_maududi": "سورہ 27 آیت 82 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:82] en español.",
         "fr_hamidullah": "Traduction de [27:82] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 82 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 82 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:82] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:82] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:82] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:82] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:82］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:82] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:82] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:82] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:82] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:82]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:82] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:82].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:82] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:82].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:82].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:82].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:82]."
       }
     },
     {
@@ -1163,7 +2721,26 @@
         "ur_maududi": "سورہ 27 آیت 83 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:83] en español.",
         "fr_hamidullah": "Traduction de [27:83] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 83 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 83 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:83] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:83] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:83] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:83] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:83］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:83] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:83] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:83] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:83] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:83]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:83] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:83].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:83] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:83].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:83].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:83].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:83]."
       }
     },
     {
@@ -1177,7 +2754,26 @@
         "ur_maududi": "سورہ 27 آیت 84 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:84] en español.",
         "fr_hamidullah": "Traduction de [27:84] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 84 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 84 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:84] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:84] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:84] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:84] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:84］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:84] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:84] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:84] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:84] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:84]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:84] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:84].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:84] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:84].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:84].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:84].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:84]."
       }
     },
     {
@@ -1191,7 +2787,26 @@
         "ur_maududi": "سورہ 27 آیت 85 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:85] en español.",
         "fr_hamidullah": "Traduction de [27:85] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 85 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 85 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:85] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:85] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:85] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:85] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:85］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:85] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:85] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:85] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:85] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:85]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:85] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:85].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:85] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:85].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:85].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:85].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:85]."
       }
     },
     {
@@ -1205,7 +2820,26 @@
         "ur_maududi": "سورہ 27 آیت 86 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:86] en español.",
         "fr_hamidullah": "Traduction de [27:86] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 86 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 86 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:86] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:86] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:86] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:86] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:86］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:86] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:86] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:86] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:86] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:86]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:86] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:86].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:86] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:86].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:86].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:86].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:86]."
       }
     },
     {
@@ -1219,7 +2853,26 @@
         "ur_maududi": "سورہ 27 آیت 87 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:87] en español.",
         "fr_hamidullah": "Traduction de [27:87] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 87 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 87 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:87] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:87] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:87] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:87] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:87］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:87] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:87] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:87] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:87] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:87]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:87] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:87].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:87] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:87].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:87].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:87].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:87]."
       }
     },
     {
@@ -1233,7 +2886,26 @@
         "ur_maududi": "سورہ 27 آیت 88 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:88] en español.",
         "fr_hamidullah": "Traduction de [27:88] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 88 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 88 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:88] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:88] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:88] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:88] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:88］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:88] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:88] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:88] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:88] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:88]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:88] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:88].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:88] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:88].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:88].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:88].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:88]."
       }
     },
     {
@@ -1247,7 +2919,26 @@
         "ur_maududi": "سورہ 27 آیت 89 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:89] en español.",
         "fr_hamidullah": "Traduction de [27:89] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 89 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 89 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:89] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:89] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:89] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:89] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:89］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:89] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:89] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:89] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:89] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:89]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:89] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:89].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:89] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:89].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:89].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:89].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:89]."
       }
     },
     {
@@ -1261,7 +2952,26 @@
         "ur_maududi": "سورہ 27 آیت 90 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:90] en español.",
         "fr_hamidullah": "Traduction de [27:90] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 90 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 90 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:90] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:90] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:90] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:90] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:90］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:90] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:90] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:90] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:90] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:90]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:90] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:90].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:90] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:90].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:90].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:90].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:90]."
       }
     },
     {
@@ -1275,7 +2985,26 @@
         "ur_maududi": "سورہ 27 آیت 91 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:91] en español.",
         "fr_hamidullah": "Traduction de [27:91] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 91 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 91 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:91] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:91] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:91] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:91] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:91］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:91] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:91] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:91] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:91] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:91]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:91] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:91].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:91] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:91].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:91].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:91].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:91]."
       }
     },
     {
@@ -1289,7 +3018,26 @@
         "ur_maududi": "سورہ 27 آیت 92 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:92] en español.",
         "fr_hamidullah": "Traduction de [27:92] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 92 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 92 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:92] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:92] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:92] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:92] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:92］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:92] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:92] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:92] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:92] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:92]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:92] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:92].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:92] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:92].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:92].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:92].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:92]."
       }
     },
     {
@@ -1303,7 +3051,26 @@
         "ur_maududi": "سورہ 27 آیت 93 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [27:93] en español.",
         "fr_hamidullah": "Traduction de [27:93] en français.",
-        "bn_hoque": "সূরা 27 আয়াত 93 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 27 আয়াত 93 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [27:93] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [27:93] на русский язык (Абу Адель).",
+        "tr_diyanet": "[27:93] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [27:93] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［27:93］ 马坚 译文",
+        "it_piccardo": "Traduzione di [27:93] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [27:93] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [27:93] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [27:93] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [27:93]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [27:93] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [27:93].",
+        "ar_jalalayn": "تفسير الجلالين للآية [27:93] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [27:93].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [27:93].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [27:93].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [27:93]."
       }
     }
   ],

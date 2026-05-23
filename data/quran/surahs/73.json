@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T01:55:57.996Z",
+  "generatedAt": "2026-05-23T02:33:24.495Z",
   "surahNumber": 73,
   "ayahCount": 20,
   "ayahs": [
@@ -15,7 +15,26 @@
         "ur_maududi": "سورہ 73 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [73:1] en español.",
         "fr_hamidullah": "Traduction de [73:1] en français.",
-        "bn_hoque": "সূরা 73 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 73 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [73:1] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [73:1] на русский язык (Абу Адель).",
+        "tr_diyanet": "[73:1] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [73:1] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［73:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [73:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [73:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [73:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [73:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [73:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [73:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [73:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [73:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [73:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [73:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [73:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [73:1]."
       }
     },
     {
@@ -29,7 +48,26 @@
         "ur_maududi": "سورہ 73 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [73:2] en español.",
         "fr_hamidullah": "Traduction de [73:2] en français.",
-        "bn_hoque": "সূরা 73 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 73 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [73:2] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [73:2] на русский язык (Абу Адель).",
+        "tr_diyanet": "[73:2] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [73:2] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［73:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [73:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [73:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [73:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [73:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [73:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [73:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [73:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [73:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [73:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [73:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [73:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [73:2]."
       }
     },
     {
@@ -43,7 +81,26 @@
         "ur_maududi": "سورہ 73 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [73:3] en español.",
         "fr_hamidullah": "Traduction de [73:3] en français.",
-        "bn_hoque": "সূরা 73 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 73 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [73:3] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [73:3] на русский язык (Абу Адель).",
+        "tr_diyanet": "[73:3] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [73:3] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［73:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [73:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [73:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [73:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [73:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [73:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [73:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [73:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [73:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [73:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [73:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [73:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [73:3]."
       }
     },
     {
@@ -57,7 +114,26 @@
         "ur_maududi": "سورہ 73 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [73:4] en español.",
         "fr_hamidullah": "Traduction de [73:4] en français.",
-        "bn_hoque": "সূরা 73 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 73 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [73:4] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [73:4] на русский язык (Абу Адель).",
+        "tr_diyanet": "[73:4] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [73:4] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［73:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [73:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [73:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [73:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [73:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [73:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [73:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [73:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [73:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [73:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [73:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [73:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [73:4]."
       }
     },
     {
@@ -71,7 +147,26 @@
         "ur_maududi": "سورہ 73 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [73:5] en español.",
         "fr_hamidullah": "Traduction de [73:5] en français.",
-        "bn_hoque": "সূরা 73 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 73 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [73:5] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [73:5] на русский язык (Абу Адель).",
+        "tr_diyanet": "[73:5] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [73:5] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［73:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [73:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [73:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [73:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [73:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [73:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [73:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [73:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [73:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [73:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [73:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [73:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [73:5]."
       }
     },
     {
@@ -85,7 +180,26 @@
         "ur_maududi": "سورہ 73 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [73:6] en español.",
         "fr_hamidullah": "Traduction de [73:6] en français.",
-        "bn_hoque": "সূরা 73 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 73 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [73:6] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [73:6] на русский язык (Абу Адель).",
+        "tr_diyanet": "[73:6] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [73:6] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［73:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [73:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [73:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [73:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [73:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [73:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [73:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [73:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [73:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [73:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [73:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [73:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [73:6]."
       }
     },
     {
@@ -99,7 +213,26 @@
         "ur_maududi": "سورہ 73 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [73:7] en español.",
         "fr_hamidullah": "Traduction de [73:7] en français.",
-        "bn_hoque": "সূরা 73 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 73 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [73:7] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [73:7] на русский язык (Абу Адель).",
+        "tr_diyanet": "[73:7] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [73:7] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［73:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [73:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [73:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [73:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [73:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [73:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [73:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [73:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [73:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [73:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [73:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [73:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [73:7]."
       }
     },
     {
@@ -113,7 +246,26 @@
         "ur_maududi": "سورہ 73 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [73:8] en español.",
         "fr_hamidullah": "Traduction de [73:8] en français.",
-        "bn_hoque": "সূরা 73 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 73 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [73:8] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [73:8] на русский язык (Абу Адель).",
+        "tr_diyanet": "[73:8] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [73:8] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［73:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [73:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [73:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [73:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [73:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [73:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [73:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [73:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [73:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [73:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [73:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [73:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [73:8]."
       }
     },
     {
@@ -127,7 +279,26 @@
         "ur_maududi": "سورہ 73 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [73:9] en español.",
         "fr_hamidullah": "Traduction de [73:9] en français.",
-        "bn_hoque": "সূরা 73 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 73 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [73:9] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [73:9] на русский язык (Абу Адель).",
+        "tr_diyanet": "[73:9] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [73:9] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［73:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [73:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [73:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [73:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [73:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [73:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [73:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [73:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [73:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [73:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [73:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [73:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [73:9]."
       }
     },
     {
@@ -141,7 +312,26 @@
         "ur_maududi": "سورہ 73 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [73:10] en español.",
         "fr_hamidullah": "Traduction de [73:10] en français.",
-        "bn_hoque": "সূরা 73 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 73 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [73:10] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [73:10] на русский язык (Абу Адель).",
+        "tr_diyanet": "[73:10] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [73:10] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［73:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [73:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [73:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [73:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [73:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [73:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [73:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [73:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [73:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [73:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [73:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [73:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [73:10]."
       }
     },
     {
@@ -155,7 +345,26 @@
         "ur_maududi": "سورہ 73 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [73:11] en español.",
         "fr_hamidullah": "Traduction de [73:11] en français.",
-        "bn_hoque": "সূরা 73 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 73 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [73:11] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [73:11] на русский язык (Абу Адель).",
+        "tr_diyanet": "[73:11] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [73:11] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［73:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [73:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [73:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [73:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [73:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [73:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [73:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [73:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [73:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [73:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [73:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [73:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [73:11]."
       }
     },
     {
@@ -169,7 +378,26 @@
         "ur_maududi": "سورہ 73 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [73:12] en español.",
         "fr_hamidullah": "Traduction de [73:12] en français.",
-        "bn_hoque": "সূরা 73 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 73 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [73:12] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [73:12] на русский язык (Абу Адель).",
+        "tr_diyanet": "[73:12] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [73:12] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［73:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [73:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [73:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [73:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [73:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [73:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [73:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [73:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [73:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [73:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [73:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [73:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [73:12]."
       }
     },
     {
@@ -183,7 +411,26 @@
         "ur_maududi": "سورہ 73 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [73:13] en español.",
         "fr_hamidullah": "Traduction de [73:13] en français.",
-        "bn_hoque": "সূরা 73 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 73 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [73:13] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [73:13] на русский язык (Абу Адель).",
+        "tr_diyanet": "[73:13] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [73:13] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［73:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [73:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [73:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [73:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [73:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [73:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [73:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [73:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [73:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [73:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [73:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [73:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [73:13]."
       }
     },
     {
@@ -197,7 +444,26 @@
         "ur_maududi": "سورہ 73 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [73:14] en español.",
         "fr_hamidullah": "Traduction de [73:14] en français.",
-        "bn_hoque": "সূরা 73 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 73 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [73:14] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [73:14] на русский язык (Абу Адель).",
+        "tr_diyanet": "[73:14] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [73:14] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［73:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [73:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [73:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [73:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [73:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [73:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [73:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [73:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [73:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [73:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [73:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [73:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [73:14]."
       }
     },
     {
@@ -211,7 +477,26 @@
         "ur_maududi": "سورہ 73 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [73:15] en español.",
         "fr_hamidullah": "Traduction de [73:15] en français.",
-        "bn_hoque": "সূরা 73 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 73 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [73:15] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [73:15] на русский язык (Абу Адель).",
+        "tr_diyanet": "[73:15] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [73:15] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［73:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [73:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [73:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [73:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [73:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [73:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [73:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [73:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [73:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [73:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [73:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [73:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [73:15]."
       }
     },
     {
@@ -225,7 +510,26 @@
         "ur_maududi": "سورہ 73 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [73:16] en español.",
         "fr_hamidullah": "Traduction de [73:16] en français.",
-        "bn_hoque": "সূরা 73 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 73 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [73:16] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [73:16] на русский язык (Абу Адель).",
+        "tr_diyanet": "[73:16] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [73:16] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［73:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [73:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [73:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [73:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [73:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [73:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [73:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [73:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [73:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [73:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [73:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [73:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [73:16]."
       }
     },
     {
@@ -239,7 +543,26 @@
         "ur_maududi": "سورہ 73 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [73:17] en español.",
         "fr_hamidullah": "Traduction de [73:17] en français.",
-        "bn_hoque": "সূরা 73 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 73 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [73:17] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [73:17] на русский язык (Абу Адель).",
+        "tr_diyanet": "[73:17] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [73:17] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［73:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [73:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [73:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [73:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [73:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [73:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [73:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [73:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [73:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [73:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [73:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [73:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [73:17]."
       }
     },
     {
@@ -253,7 +576,26 @@
         "ur_maududi": "سورہ 73 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [73:18] en español.",
         "fr_hamidullah": "Traduction de [73:18] en français.",
-        "bn_hoque": "সূরা 73 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 73 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [73:18] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [73:18] на русский язык (Абу Адель).",
+        "tr_diyanet": "[73:18] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [73:18] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［73:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [73:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [73:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [73:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [73:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [73:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [73:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [73:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [73:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [73:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [73:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [73:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [73:18]."
       }
     },
     {
@@ -267,7 +609,26 @@
         "ur_maududi": "سورہ 73 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [73:19] en español.",
         "fr_hamidullah": "Traduction de [73:19] en français.",
-        "bn_hoque": "সূরা 73 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 73 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [73:19] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [73:19] на русский язык (Абу Адель).",
+        "tr_diyanet": "[73:19] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [73:19] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［73:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [73:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [73:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [73:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [73:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [73:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [73:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [73:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [73:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [73:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [73:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [73:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [73:19]."
       }
     },
     {
@@ -281,7 +642,26 @@
         "ur_maududi": "سورہ 73 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [73:20] en español.",
         "fr_hamidullah": "Traduction de [73:20] en français.",
-        "bn_hoque": "সূরা 73 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 73 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [73:20] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [73:20] на русский язык (Абу Адель).",
+        "tr_diyanet": "[73:20] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [73:20] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［73:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [73:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [73:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [73:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [73:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [73:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [73:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [73:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [73:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [73:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [73:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [73:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [73:20]."
       }
     }
   ],

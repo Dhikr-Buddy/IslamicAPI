@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T01:55:57.999Z",
+  "generatedAt": "2026-05-23T02:33:24.500Z",
   "surahNumber": 84,
   "ayahCount": 25,
   "ayahs": [
@@ -15,7 +15,26 @@
         "ur_maududi": "سورہ 84 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [84:1] en español.",
         "fr_hamidullah": "Traduction de [84:1] en français.",
-        "bn_hoque": "সূরা 84 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 84 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [84:1] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [84:1] на русский язык (Абу Адель).",
+        "tr_diyanet": "[84:1] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [84:1] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［84:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [84:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [84:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [84:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [84:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [84:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [84:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [84:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [84:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [84:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [84:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [84:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [84:1]."
       }
     },
     {
@@ -29,7 +48,26 @@
         "ur_maududi": "سورہ 84 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [84:2] en español.",
         "fr_hamidullah": "Traduction de [84:2] en français.",
-        "bn_hoque": "সূরা 84 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 84 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [84:2] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [84:2] на русский язык (Абу Адель).",
+        "tr_diyanet": "[84:2] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [84:2] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［84:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [84:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [84:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [84:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [84:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [84:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [84:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [84:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [84:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [84:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [84:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [84:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [84:2]."
       }
     },
     {
@@ -43,7 +81,26 @@
         "ur_maududi": "سورہ 84 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [84:3] en español.",
         "fr_hamidullah": "Traduction de [84:3] en français.",
-        "bn_hoque": "সূরা 84 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 84 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [84:3] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [84:3] на русский язык (Абу Адель).",
+        "tr_diyanet": "[84:3] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [84:3] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［84:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [84:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [84:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [84:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [84:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [84:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [84:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [84:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [84:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [84:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [84:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [84:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [84:3]."
       }
     },
     {
@@ -57,7 +114,26 @@
         "ur_maududi": "سورہ 84 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [84:4] en español.",
         "fr_hamidullah": "Traduction de [84:4] en français.",
-        "bn_hoque": "সূরা 84 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 84 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [84:4] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [84:4] на русский язык (Абу Адель).",
+        "tr_diyanet": "[84:4] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [84:4] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［84:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [84:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [84:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [84:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [84:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [84:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [84:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [84:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [84:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [84:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [84:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [84:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [84:4]."
       }
     },
     {
@@ -71,7 +147,26 @@
         "ur_maududi": "سورہ 84 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [84:5] en español.",
         "fr_hamidullah": "Traduction de [84:5] en français.",
-        "bn_hoque": "সূরা 84 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 84 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [84:5] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [84:5] на русский язык (Абу Адель).",
+        "tr_diyanet": "[84:5] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [84:5] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［84:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [84:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [84:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [84:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [84:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [84:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [84:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [84:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [84:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [84:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [84:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [84:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [84:5]."
       }
     },
     {
@@ -85,7 +180,26 @@
         "ur_maududi": "سورہ 84 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [84:6] en español.",
         "fr_hamidullah": "Traduction de [84:6] en français.",
-        "bn_hoque": "সূরা 84 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 84 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [84:6] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [84:6] на русский язык (Абу Адель).",
+        "tr_diyanet": "[84:6] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [84:6] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［84:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [84:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [84:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [84:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [84:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [84:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [84:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [84:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [84:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [84:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [84:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [84:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [84:6]."
       }
     },
     {
@@ -99,7 +213,26 @@
         "ur_maududi": "سورہ 84 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [84:7] en español.",
         "fr_hamidullah": "Traduction de [84:7] en français.",
-        "bn_hoque": "সূরা 84 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 84 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [84:7] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [84:7] на русский язык (Абу Адель).",
+        "tr_diyanet": "[84:7] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [84:7] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［84:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [84:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [84:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [84:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [84:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [84:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [84:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [84:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [84:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [84:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [84:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [84:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [84:7]."
       }
     },
     {
@@ -113,7 +246,26 @@
         "ur_maududi": "سورہ 84 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [84:8] en español.",
         "fr_hamidullah": "Traduction de [84:8] en français.",
-        "bn_hoque": "সূরা 84 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 84 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [84:8] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [84:8] на русский язык (Абу Адель).",
+        "tr_diyanet": "[84:8] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [84:8] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［84:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [84:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [84:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [84:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [84:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [84:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [84:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [84:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [84:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [84:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [84:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [84:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [84:8]."
       }
     },
     {
@@ -127,7 +279,26 @@
         "ur_maududi": "سورہ 84 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [84:9] en español.",
         "fr_hamidullah": "Traduction de [84:9] en français.",
-        "bn_hoque": "সূরা 84 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 84 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [84:9] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [84:9] на русский язык (Абу Адель).",
+        "tr_diyanet": "[84:9] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [84:9] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［84:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [84:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [84:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [84:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [84:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [84:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [84:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [84:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [84:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [84:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [84:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [84:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [84:9]."
       }
     },
     {
@@ -141,7 +312,26 @@
         "ur_maududi": "سورہ 84 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [84:10] en español.",
         "fr_hamidullah": "Traduction de [84:10] en français.",
-        "bn_hoque": "সূরা 84 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 84 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [84:10] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [84:10] на русский язык (Абу Адель).",
+        "tr_diyanet": "[84:10] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [84:10] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［84:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [84:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [84:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [84:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [84:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [84:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [84:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [84:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [84:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [84:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [84:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [84:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [84:10]."
       }
     },
     {
@@ -155,7 +345,26 @@
         "ur_maududi": "سورہ 84 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [84:11] en español.",
         "fr_hamidullah": "Traduction de [84:11] en français.",
-        "bn_hoque": "সূরা 84 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 84 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [84:11] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [84:11] на русский язык (Абу Адель).",
+        "tr_diyanet": "[84:11] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [84:11] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［84:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [84:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [84:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [84:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [84:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [84:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [84:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [84:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [84:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [84:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [84:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [84:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [84:11]."
       }
     },
     {
@@ -169,7 +378,26 @@
         "ur_maududi": "سورہ 84 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [84:12] en español.",
         "fr_hamidullah": "Traduction de [84:12] en français.",
-        "bn_hoque": "সূরা 84 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 84 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [84:12] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [84:12] на русский язык (Абу Адель).",
+        "tr_diyanet": "[84:12] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [84:12] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［84:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [84:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [84:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [84:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [84:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [84:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [84:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [84:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [84:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [84:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [84:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [84:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [84:12]."
       }
     },
     {
@@ -183,7 +411,26 @@
         "ur_maududi": "سورہ 84 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [84:13] en español.",
         "fr_hamidullah": "Traduction de [84:13] en français.",
-        "bn_hoque": "সূরা 84 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 84 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [84:13] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [84:13] на русский язык (Абу Адель).",
+        "tr_diyanet": "[84:13] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [84:13] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［84:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [84:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [84:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [84:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [84:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [84:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [84:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [84:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [84:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [84:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [84:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [84:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [84:13]."
       }
     },
     {
@@ -197,7 +444,26 @@
         "ur_maududi": "سورہ 84 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [84:14] en español.",
         "fr_hamidullah": "Traduction de [84:14] en français.",
-        "bn_hoque": "সূরা 84 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 84 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [84:14] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [84:14] на русский язык (Абу Адель).",
+        "tr_diyanet": "[84:14] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [84:14] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［84:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [84:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [84:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [84:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [84:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [84:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [84:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [84:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [84:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [84:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [84:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [84:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [84:14]."
       }
     },
     {
@@ -211,7 +477,26 @@
         "ur_maududi": "سورہ 84 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [84:15] en español.",
         "fr_hamidullah": "Traduction de [84:15] en français.",
-        "bn_hoque": "সূরা 84 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 84 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [84:15] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [84:15] на русский язык (Абу Адель).",
+        "tr_diyanet": "[84:15] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [84:15] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［84:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [84:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [84:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [84:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [84:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [84:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [84:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [84:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [84:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [84:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [84:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [84:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [84:15]."
       }
     },
     {
@@ -225,7 +510,26 @@
         "ur_maududi": "سورہ 84 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [84:16] en español.",
         "fr_hamidullah": "Traduction de [84:16] en français.",
-        "bn_hoque": "সূরা 84 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 84 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [84:16] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [84:16] на русский язык (Абу Адель).",
+        "tr_diyanet": "[84:16] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [84:16] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［84:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [84:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [84:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [84:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [84:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [84:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [84:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [84:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [84:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [84:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [84:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [84:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [84:16]."
       }
     },
     {
@@ -239,7 +543,26 @@
         "ur_maududi": "سورہ 84 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [84:17] en español.",
         "fr_hamidullah": "Traduction de [84:17] en français.",
-        "bn_hoque": "সূরা 84 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 84 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [84:17] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [84:17] на русский язык (Абу Адель).",
+        "tr_diyanet": "[84:17] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [84:17] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［84:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [84:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [84:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [84:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [84:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [84:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [84:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [84:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [84:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [84:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [84:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [84:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [84:17]."
       }
     },
     {
@@ -253,7 +576,26 @@
         "ur_maududi": "سورہ 84 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [84:18] en español.",
         "fr_hamidullah": "Traduction de [84:18] en français.",
-        "bn_hoque": "সূরা 84 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 84 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [84:18] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [84:18] на русский язык (Абу Адель).",
+        "tr_diyanet": "[84:18] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [84:18] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［84:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [84:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [84:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [84:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [84:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [84:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [84:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [84:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [84:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [84:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [84:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [84:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [84:18]."
       }
     },
     {
@@ -267,7 +609,26 @@
         "ur_maududi": "سورہ 84 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [84:19] en español.",
         "fr_hamidullah": "Traduction de [84:19] en français.",
-        "bn_hoque": "সূরা 84 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 84 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [84:19] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [84:19] на русский язык (Абу Адель).",
+        "tr_diyanet": "[84:19] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [84:19] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［84:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [84:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [84:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [84:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [84:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [84:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [84:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [84:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [84:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [84:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [84:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [84:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [84:19]."
       }
     },
     {
@@ -281,7 +642,26 @@
         "ur_maududi": "سورہ 84 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [84:20] en español.",
         "fr_hamidullah": "Traduction de [84:20] en français.",
-        "bn_hoque": "সূরা 84 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 84 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [84:20] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [84:20] на русский язык (Абу Адель).",
+        "tr_diyanet": "[84:20] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [84:20] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［84:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [84:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [84:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [84:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [84:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [84:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [84:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [84:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [84:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [84:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [84:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [84:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [84:20]."
       }
     },
     {
@@ -295,7 +675,26 @@
         "ur_maududi": "سورہ 84 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [84:21] en español.",
         "fr_hamidullah": "Traduction de [84:21] en français.",
-        "bn_hoque": "সূরা 84 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 84 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [84:21] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [84:21] на русский язык (Абу Адель).",
+        "tr_diyanet": "[84:21] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [84:21] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［84:21］ 马坚 译文",
+        "it_piccardo": "Traduzione di [84:21] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [84:21] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [84:21] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [84:21] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [84:21]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [84:21] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [84:21].",
+        "ar_jalalayn": "تفسير الجلالين للآية [84:21] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [84:21].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [84:21].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [84:21].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [84:21]."
       }
     },
     {
@@ -309,7 +708,26 @@
         "ur_maududi": "سورہ 84 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [84:22] en español.",
         "fr_hamidullah": "Traduction de [84:22] en français.",
-        "bn_hoque": "সূরা 84 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 84 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [84:22] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [84:22] на русский язык (Абу Адель).",
+        "tr_diyanet": "[84:22] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [84:22] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［84:22］ 马坚 译文",
+        "it_piccardo": "Traduzione di [84:22] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [84:22] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [84:22] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [84:22] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [84:22]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [84:22] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [84:22].",
+        "ar_jalalayn": "تفسير الجلالين للآية [84:22] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [84:22].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [84:22].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [84:22].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [84:22]."
       }
     },
     {
@@ -323,7 +741,26 @@
         "ur_maududi": "سورہ 84 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [84:23] en español.",
         "fr_hamidullah": "Traduction de [84:23] en français.",
-        "bn_hoque": "সূরা 84 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 84 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [84:23] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [84:23] на русский язык (Абу Адель).",
+        "tr_diyanet": "[84:23] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [84:23] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［84:23］ 马坚 译文",
+        "it_piccardo": "Traduzione di [84:23] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [84:23] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [84:23] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [84:23] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [84:23]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [84:23] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [84:23].",
+        "ar_jalalayn": "تفسير الجلالين للآية [84:23] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [84:23].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [84:23].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [84:23].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [84:23]."
       }
     },
     {
@@ -337,7 +774,26 @@
         "ur_maududi": "سورہ 84 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [84:24] en español.",
         "fr_hamidullah": "Traduction de [84:24] en français.",
-        "bn_hoque": "সূরা 84 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 84 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [84:24] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [84:24] на русский язык (Абу Адель).",
+        "tr_diyanet": "[84:24] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [84:24] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［84:24］ 马坚 译文",
+        "it_piccardo": "Traduzione di [84:24] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [84:24] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [84:24] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [84:24] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [84:24]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [84:24] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [84:24].",
+        "ar_jalalayn": "تفسير الجلالين للآية [84:24] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [84:24].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [84:24].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [84:24].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [84:24]."
       }
     },
     {
@@ -351,7 +807,26 @@
         "ur_maududi": "سورہ 84 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [84:25] en español.",
         "fr_hamidullah": "Traduction de [84:25] en français.",
-        "bn_hoque": "সূরা 84 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 84 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [84:25] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [84:25] на русский язык (Абу Адель).",
+        "tr_diyanet": "[84:25] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [84:25] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［84:25］ 马坚 译文",
+        "it_piccardo": "Traduzione di [84:25] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [84:25] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [84:25] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [84:25] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [84:25]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [84:25] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [84:25].",
+        "ar_jalalayn": "تفسير الجلالين للآية [84:25] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [84:25].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [84:25].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [84:25].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [84:25]."
       }
     }
   ],

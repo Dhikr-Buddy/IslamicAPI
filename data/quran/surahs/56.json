@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T01:55:57.992Z",
+  "generatedAt": "2026-05-23T02:33:24.488Z",
   "surahNumber": 56,
   "ayahCount": 96,
   "ayahs": [
@@ -15,7 +15,26 @@
         "ur_maududi": "سورہ 56 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:1] en español.",
         "fr_hamidullah": "Traduction de [56:1] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:1] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:1] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:1] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:1] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:1]."
       }
     },
     {
@@ -29,7 +48,26 @@
         "ur_maududi": "سورہ 56 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:2] en español.",
         "fr_hamidullah": "Traduction de [56:2] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:2] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:2] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:2] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:2] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:2]."
       }
     },
     {
@@ -43,7 +81,26 @@
         "ur_maududi": "سورہ 56 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:3] en español.",
         "fr_hamidullah": "Traduction de [56:3] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:3] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:3] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:3] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:3] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:3]."
       }
     },
     {
@@ -57,7 +114,26 @@
         "ur_maududi": "سورہ 56 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:4] en español.",
         "fr_hamidullah": "Traduction de [56:4] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:4] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:4] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:4] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:4] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:4]."
       }
     },
     {
@@ -71,7 +147,26 @@
         "ur_maududi": "سورہ 56 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:5] en español.",
         "fr_hamidullah": "Traduction de [56:5] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:5] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:5] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:5] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:5] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:5]."
       }
     },
     {
@@ -85,7 +180,26 @@
         "ur_maududi": "سورہ 56 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:6] en español.",
         "fr_hamidullah": "Traduction de [56:6] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:6] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:6] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:6] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:6] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:6]."
       }
     },
     {
@@ -99,7 +213,26 @@
         "ur_maududi": "سورہ 56 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:7] en español.",
         "fr_hamidullah": "Traduction de [56:7] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:7] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:7] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:7] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:7] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:7]."
       }
     },
     {
@@ -113,7 +246,26 @@
         "ur_maududi": "سورہ 56 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:8] en español.",
         "fr_hamidullah": "Traduction de [56:8] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:8] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:8] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:8] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:8] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:8]."
       }
     },
     {
@@ -127,7 +279,26 @@
         "ur_maududi": "سورہ 56 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:9] en español.",
         "fr_hamidullah": "Traduction de [56:9] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:9] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:9] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:9] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:9] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:9]."
       }
     },
     {
@@ -141,7 +312,26 @@
         "ur_maududi": "سورہ 56 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:10] en español.",
         "fr_hamidullah": "Traduction de [56:10] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:10] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:10] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:10] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:10] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:10]."
       }
     },
     {
@@ -155,7 +345,26 @@
         "ur_maududi": "سورہ 56 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:11] en español.",
         "fr_hamidullah": "Traduction de [56:11] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:11] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:11] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:11] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:11] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:11]."
       }
     },
     {
@@ -169,7 +378,26 @@
         "ur_maududi": "سورہ 56 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:12] en español.",
         "fr_hamidullah": "Traduction de [56:12] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:12] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:12] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:12] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:12] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:12]."
       }
     },
     {
@@ -183,7 +411,26 @@
         "ur_maududi": "سورہ 56 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:13] en español.",
         "fr_hamidullah": "Traduction de [56:13] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:13] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:13] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:13] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:13] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:13]."
       }
     },
     {
@@ -197,7 +444,26 @@
         "ur_maududi": "سورہ 56 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:14] en español.",
         "fr_hamidullah": "Traduction de [56:14] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:14] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:14] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:14] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:14] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:14]."
       }
     },
     {
@@ -211,7 +477,26 @@
         "ur_maududi": "سورہ 56 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:15] en español.",
         "fr_hamidullah": "Traduction de [56:15] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:15] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:15] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:15] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:15] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:15]."
       }
     },
     {
@@ -225,7 +510,26 @@
         "ur_maududi": "سورہ 56 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:16] en español.",
         "fr_hamidullah": "Traduction de [56:16] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:16] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:16] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:16] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:16] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:16]."
       }
     },
     {
@@ -239,7 +543,26 @@
         "ur_maududi": "سورہ 56 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:17] en español.",
         "fr_hamidullah": "Traduction de [56:17] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:17] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:17] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:17] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:17] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:17]."
       }
     },
     {
@@ -253,7 +576,26 @@
         "ur_maududi": "سورہ 56 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:18] en español.",
         "fr_hamidullah": "Traduction de [56:18] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:18] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:18] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:18] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:18] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:18]."
       }
     },
     {
@@ -267,7 +609,26 @@
         "ur_maududi": "سورہ 56 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:19] en español.",
         "fr_hamidullah": "Traduction de [56:19] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:19] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:19] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:19] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:19] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:19]."
       }
     },
     {
@@ -281,7 +642,26 @@
         "ur_maududi": "سورہ 56 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:20] en español.",
         "fr_hamidullah": "Traduction de [56:20] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:20] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:20] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:20] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:20] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:20]."
       }
     },
     {
@@ -295,7 +675,26 @@
         "ur_maududi": "سورہ 56 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:21] en español.",
         "fr_hamidullah": "Traduction de [56:21] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:21] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:21] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:21] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:21] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:21］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:21] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:21] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:21] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:21] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:21]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:21] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:21].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:21] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:21].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:21].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:21].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:21]."
       }
     },
     {
@@ -309,7 +708,26 @@
         "ur_maududi": "سورہ 56 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:22] en español.",
         "fr_hamidullah": "Traduction de [56:22] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:22] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:22] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:22] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:22] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:22］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:22] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:22] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:22] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:22] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:22]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:22] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:22].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:22] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:22].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:22].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:22].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:22]."
       }
     },
     {
@@ -323,7 +741,26 @@
         "ur_maududi": "سورہ 56 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:23] en español.",
         "fr_hamidullah": "Traduction de [56:23] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:23] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:23] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:23] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:23] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:23］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:23] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:23] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:23] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:23] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:23]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:23] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:23].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:23] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:23].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:23].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:23].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:23]."
       }
     },
     {
@@ -337,7 +774,26 @@
         "ur_maududi": "سورہ 56 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:24] en español.",
         "fr_hamidullah": "Traduction de [56:24] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:24] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:24] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:24] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:24] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:24］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:24] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:24] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:24] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:24] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:24]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:24] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:24].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:24] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:24].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:24].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:24].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:24]."
       }
     },
     {
@@ -351,7 +807,26 @@
         "ur_maududi": "سورہ 56 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:25] en español.",
         "fr_hamidullah": "Traduction de [56:25] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:25] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:25] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:25] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:25] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:25］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:25] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:25] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:25] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:25] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:25]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:25] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:25].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:25] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:25].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:25].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:25].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:25]."
       }
     },
     {
@@ -365,7 +840,26 @@
         "ur_maududi": "سورہ 56 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:26] en español.",
         "fr_hamidullah": "Traduction de [56:26] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:26] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:26] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:26] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:26] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:26］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:26] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:26] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:26] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:26] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:26]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:26] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:26].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:26] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:26].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:26].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:26].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:26]."
       }
     },
     {
@@ -379,7 +873,26 @@
         "ur_maududi": "سورہ 56 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:27] en español.",
         "fr_hamidullah": "Traduction de [56:27] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:27] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:27] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:27] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:27] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:27］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:27] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:27] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:27] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:27] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:27]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:27] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:27].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:27] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:27].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:27].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:27].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:27]."
       }
     },
     {
@@ -393,7 +906,26 @@
         "ur_maududi": "سورہ 56 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:28] en español.",
         "fr_hamidullah": "Traduction de [56:28] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:28] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:28] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:28] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:28] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:28］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:28] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:28] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:28] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:28] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:28]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:28] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:28].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:28] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:28].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:28].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:28].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:28]."
       }
     },
     {
@@ -407,7 +939,26 @@
         "ur_maududi": "سورہ 56 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:29] en español.",
         "fr_hamidullah": "Traduction de [56:29] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:29] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:29] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:29] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:29] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:29］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:29] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:29] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:29] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:29] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:29]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:29] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:29].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:29] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:29].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:29].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:29].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:29]."
       }
     },
     {
@@ -421,7 +972,26 @@
         "ur_maududi": "سورہ 56 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:30] en español.",
         "fr_hamidullah": "Traduction de [56:30] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:30] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:30] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:30] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:30] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:30］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:30] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:30] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:30] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:30] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:30]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:30] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:30].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:30] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:30].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:30].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:30].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:30]."
       }
     },
     {
@@ -435,7 +1005,26 @@
         "ur_maududi": "سورہ 56 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:31] en español.",
         "fr_hamidullah": "Traduction de [56:31] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:31] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:31] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:31] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:31] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:31］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:31] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:31] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:31] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:31] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:31]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:31] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:31].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:31] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:31].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:31].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:31].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:31]."
       }
     },
     {
@@ -449,7 +1038,26 @@
         "ur_maududi": "سورہ 56 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:32] en español.",
         "fr_hamidullah": "Traduction de [56:32] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:32] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:32] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:32] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:32] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:32］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:32] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:32] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:32] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:32] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:32]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:32] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:32].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:32] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:32].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:32].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:32].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:32]."
       }
     },
     {
@@ -463,7 +1071,26 @@
         "ur_maududi": "سورہ 56 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:33] en español.",
         "fr_hamidullah": "Traduction de [56:33] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:33] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:33] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:33] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:33] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:33］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:33] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:33] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:33] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:33] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:33]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:33] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:33].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:33] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:33].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:33].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:33].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:33]."
       }
     },
     {
@@ -477,7 +1104,26 @@
         "ur_maududi": "سورہ 56 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:34] en español.",
         "fr_hamidullah": "Traduction de [56:34] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:34] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:34] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:34] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:34] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:34］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:34] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:34] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:34] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:34] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:34]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:34] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:34].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:34] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:34].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:34].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:34].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:34]."
       }
     },
     {
@@ -491,7 +1137,26 @@
         "ur_maududi": "سورہ 56 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:35] en español.",
         "fr_hamidullah": "Traduction de [56:35] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:35] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:35] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:35] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:35] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:35］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:35] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:35] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:35] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:35] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:35]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:35] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:35].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:35] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:35].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:35].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:35].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:35]."
       }
     },
     {
@@ -505,7 +1170,26 @@
         "ur_maududi": "سورہ 56 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:36] en español.",
         "fr_hamidullah": "Traduction de [56:36] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:36] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:36] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:36] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:36] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:36］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:36] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:36] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:36] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:36] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:36]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:36] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:36].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:36] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:36].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:36].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:36].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:36]."
       }
     },
     {
@@ -519,7 +1203,26 @@
         "ur_maududi": "سورہ 56 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:37] en español.",
         "fr_hamidullah": "Traduction de [56:37] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:37] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:37] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:37] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:37] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:37］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:37] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:37] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:37] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:37] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:37]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:37] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:37].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:37] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:37].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:37].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:37].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:37]."
       }
     },
     {
@@ -533,7 +1236,26 @@
         "ur_maududi": "سورہ 56 آیت 38 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:38] en español.",
         "fr_hamidullah": "Traduction de [56:38] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:38] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:38] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:38] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:38] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:38］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:38] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:38] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:38] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:38] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:38]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:38] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:38].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:38] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:38].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:38].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:38].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:38]."
       }
     },
     {
@@ -547,7 +1269,26 @@
         "ur_maududi": "سورہ 56 آیت 39 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:39] en español.",
         "fr_hamidullah": "Traduction de [56:39] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:39] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:39] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:39] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:39] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:39］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:39] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:39] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:39] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:39] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:39]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:39] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:39].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:39] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:39].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:39].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:39].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:39]."
       }
     },
     {
@@ -561,7 +1302,26 @@
         "ur_maududi": "سورہ 56 آیت 40 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:40] en español.",
         "fr_hamidullah": "Traduction de [56:40] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:40] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:40] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:40] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:40] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:40］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:40] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:40] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:40] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:40] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:40]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:40] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:40].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:40] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:40].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:40].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:40].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:40]."
       }
     },
     {
@@ -575,7 +1335,26 @@
         "ur_maududi": "سورہ 56 آیت 41 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:41] en español.",
         "fr_hamidullah": "Traduction de [56:41] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:41] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:41] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:41] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:41] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:41］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:41] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:41] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:41] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:41] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:41]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:41] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:41].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:41] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:41].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:41].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:41].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:41]."
       }
     },
     {
@@ -589,7 +1368,26 @@
         "ur_maududi": "سورہ 56 آیت 42 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:42] en español.",
         "fr_hamidullah": "Traduction de [56:42] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:42] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:42] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:42] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:42] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:42］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:42] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:42] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:42] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:42] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:42]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:42] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:42].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:42] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:42].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:42].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:42].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:42]."
       }
     },
     {
@@ -603,7 +1401,26 @@
         "ur_maududi": "سورہ 56 آیت 43 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:43] en español.",
         "fr_hamidullah": "Traduction de [56:43] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:43] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:43] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:43] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:43] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:43］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:43] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:43] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:43] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:43] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:43]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:43] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:43].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:43] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:43].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:43].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:43].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:43]."
       }
     },
     {
@@ -617,7 +1434,26 @@
         "ur_maududi": "سورہ 56 آیت 44 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:44] en español.",
         "fr_hamidullah": "Traduction de [56:44] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:44] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:44] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:44] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:44] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:44］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:44] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:44] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:44] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:44] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:44]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:44] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:44].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:44] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:44].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:44].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:44].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:44]."
       }
     },
     {
@@ -631,7 +1467,26 @@
         "ur_maududi": "سورہ 56 آیت 45 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:45] en español.",
         "fr_hamidullah": "Traduction de [56:45] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:45] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:45] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:45] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:45] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:45］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:45] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:45] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:45] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:45] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:45]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:45] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:45].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:45] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:45].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:45].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:45].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:45]."
       }
     },
     {
@@ -645,7 +1500,26 @@
         "ur_maududi": "سورہ 56 آیت 46 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:46] en español.",
         "fr_hamidullah": "Traduction de [56:46] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:46] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:46] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:46] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:46] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:46］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:46] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:46] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:46] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:46] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:46]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:46] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:46].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:46] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:46].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:46].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:46].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:46]."
       }
     },
     {
@@ -659,7 +1533,26 @@
         "ur_maududi": "سورہ 56 آیت 47 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:47] en español.",
         "fr_hamidullah": "Traduction de [56:47] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:47] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:47] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:47] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:47] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:47］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:47] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:47] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:47] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:47] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:47]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:47] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:47].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:47] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:47].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:47].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:47].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:47]."
       }
     },
     {
@@ -673,7 +1566,26 @@
         "ur_maududi": "سورہ 56 آیت 48 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:48] en español.",
         "fr_hamidullah": "Traduction de [56:48] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:48] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:48] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:48] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:48] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:48］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:48] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:48] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:48] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:48] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:48]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:48] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:48].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:48] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:48].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:48].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:48].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:48]."
       }
     },
     {
@@ -687,7 +1599,26 @@
         "ur_maududi": "سورہ 56 آیت 49 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:49] en español.",
         "fr_hamidullah": "Traduction de [56:49] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:49] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:49] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:49] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:49] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:49］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:49] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:49] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:49] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:49] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:49]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:49] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:49].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:49] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:49].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:49].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:49].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:49]."
       }
     },
     {
@@ -701,7 +1632,26 @@
         "ur_maududi": "سورہ 56 آیت 50 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:50] en español.",
         "fr_hamidullah": "Traduction de [56:50] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:50] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:50] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:50] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:50] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:50］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:50] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:50] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:50] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:50] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:50]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:50] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:50].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:50] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:50].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:50].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:50].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:50]."
       }
     },
     {
@@ -715,7 +1665,26 @@
         "ur_maududi": "سورہ 56 آیت 51 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:51] en español.",
         "fr_hamidullah": "Traduction de [56:51] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:51] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:51] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:51] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:51] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:51］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:51] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:51] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:51] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:51] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:51]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:51] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:51].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:51] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:51].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:51].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:51].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:51]."
       }
     },
     {
@@ -729,7 +1698,26 @@
         "ur_maududi": "سورہ 56 آیت 52 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:52] en español.",
         "fr_hamidullah": "Traduction de [56:52] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:52] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:52] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:52] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:52] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:52］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:52] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:52] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:52] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:52] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:52]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:52] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:52].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:52] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:52].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:52].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:52].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:52]."
       }
     },
     {
@@ -743,7 +1731,26 @@
         "ur_maududi": "سورہ 56 آیت 53 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:53] en español.",
         "fr_hamidullah": "Traduction de [56:53] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 53 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 53 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:53] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:53] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:53] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:53] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:53］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:53] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:53] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:53] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:53] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:53]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:53] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:53].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:53] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:53].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:53].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:53].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:53]."
       }
     },
     {
@@ -757,7 +1764,26 @@
         "ur_maududi": "سورہ 56 آیت 54 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:54] en español.",
         "fr_hamidullah": "Traduction de [56:54] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 54 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 54 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:54] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:54] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:54] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:54] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:54］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:54] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:54] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:54] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:54] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:54]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:54] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:54].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:54] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:54].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:54].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:54].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:54]."
       }
     },
     {
@@ -771,7 +1797,26 @@
         "ur_maududi": "سورہ 56 آیت 55 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:55] en español.",
         "fr_hamidullah": "Traduction de [56:55] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 55 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 55 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:55] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:55] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:55] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:55] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:55］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:55] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:55] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:55] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:55] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:55]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:55] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:55].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:55] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:55].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:55].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:55].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:55]."
       }
     },
     {
@@ -785,7 +1830,26 @@
         "ur_maududi": "سورہ 56 آیت 56 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:56] en español.",
         "fr_hamidullah": "Traduction de [56:56] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 56 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 56 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:56] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:56] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:56] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:56] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:56］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:56] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:56] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:56] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:56] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:56]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:56] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:56].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:56] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:56].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:56].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:56].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:56]."
       }
     },
     {
@@ -799,7 +1863,26 @@
         "ur_maududi": "سورہ 56 آیت 57 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:57] en español.",
         "fr_hamidullah": "Traduction de [56:57] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 57 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 57 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:57] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:57] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:57] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:57] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:57］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:57] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:57] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:57] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:57] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:57]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:57] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:57].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:57] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:57].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:57].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:57].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:57]."
       }
     },
     {
@@ -813,7 +1896,26 @@
         "ur_maududi": "سورہ 56 آیت 58 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:58] en español.",
         "fr_hamidullah": "Traduction de [56:58] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 58 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 58 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:58] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:58] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:58] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:58] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:58］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:58] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:58] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:58] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:58] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:58]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:58] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:58].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:58] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:58].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:58].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:58].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:58]."
       }
     },
     {
@@ -827,7 +1929,26 @@
         "ur_maududi": "سورہ 56 آیت 59 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:59] en español.",
         "fr_hamidullah": "Traduction de [56:59] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 59 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 59 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:59] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:59] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:59] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:59] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:59］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:59] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:59] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:59] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:59] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:59]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:59] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:59].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:59] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:59].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:59].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:59].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:59]."
       }
     },
     {
@@ -841,7 +1962,26 @@
         "ur_maududi": "سورہ 56 آیت 60 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:60] en español.",
         "fr_hamidullah": "Traduction de [56:60] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 60 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 60 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:60] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:60] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:60] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:60] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:60］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:60] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:60] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:60] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:60] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:60]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:60] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:60].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:60] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:60].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:60].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:60].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:60]."
       }
     },
     {
@@ -855,7 +1995,26 @@
         "ur_maududi": "سورہ 56 آیت 61 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:61] en español.",
         "fr_hamidullah": "Traduction de [56:61] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 61 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 61 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:61] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:61] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:61] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:61] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:61］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:61] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:61] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:61] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:61] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:61]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:61] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:61].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:61] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:61].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:61].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:61].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:61]."
       }
     },
     {
@@ -869,7 +2028,26 @@
         "ur_maududi": "سورہ 56 آیت 62 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:62] en español.",
         "fr_hamidullah": "Traduction de [56:62] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 62 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 62 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:62] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:62] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:62] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:62] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:62］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:62] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:62] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:62] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:62] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:62]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:62] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:62].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:62] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:62].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:62].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:62].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:62]."
       }
     },
     {
@@ -883,7 +2061,26 @@
         "ur_maududi": "سورہ 56 آیت 63 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:63] en español.",
         "fr_hamidullah": "Traduction de [56:63] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 63 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 63 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:63] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:63] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:63] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:63] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:63］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:63] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:63] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:63] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:63] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:63]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:63] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:63].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:63] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:63].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:63].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:63].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:63]."
       }
     },
     {
@@ -897,7 +2094,26 @@
         "ur_maududi": "سورہ 56 آیت 64 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:64] en español.",
         "fr_hamidullah": "Traduction de [56:64] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 64 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 64 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:64] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:64] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:64] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:64] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:64］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:64] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:64] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:64] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:64] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:64]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:64] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:64].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:64] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:64].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:64].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:64].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:64]."
       }
     },
     {
@@ -911,7 +2127,26 @@
         "ur_maududi": "سورہ 56 آیت 65 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:65] en español.",
         "fr_hamidullah": "Traduction de [56:65] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 65 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 65 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:65] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:65] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:65] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:65] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:65］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:65] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:65] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:65] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:65] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:65]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:65] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:65].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:65] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:65].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:65].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:65].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:65]."
       }
     },
     {
@@ -925,7 +2160,26 @@
         "ur_maududi": "سورہ 56 آیت 66 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:66] en español.",
         "fr_hamidullah": "Traduction de [56:66] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 66 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 66 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:66] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:66] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:66] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:66] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:66］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:66] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:66] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:66] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:66] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:66]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:66] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:66].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:66] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:66].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:66].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:66].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:66]."
       }
     },
     {
@@ -939,7 +2193,26 @@
         "ur_maududi": "سورہ 56 آیت 67 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:67] en español.",
         "fr_hamidullah": "Traduction de [56:67] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 67 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 67 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:67] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:67] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:67] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:67] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:67］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:67] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:67] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:67] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:67] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:67]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:67] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:67].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:67] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:67].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:67].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:67].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:67]."
       }
     },
     {
@@ -953,7 +2226,26 @@
         "ur_maududi": "سورہ 56 آیت 68 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:68] en español.",
         "fr_hamidullah": "Traduction de [56:68] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 68 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 68 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:68] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:68] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:68] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:68] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:68］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:68] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:68] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:68] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:68] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:68]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:68] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:68].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:68] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:68].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:68].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:68].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:68]."
       }
     },
     {
@@ -967,7 +2259,26 @@
         "ur_maududi": "سورہ 56 آیت 69 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:69] en español.",
         "fr_hamidullah": "Traduction de [56:69] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 69 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 69 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:69] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:69] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:69] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:69] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:69］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:69] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:69] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:69] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:69] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:69]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:69] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:69].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:69] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:69].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:69].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:69].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:69]."
       }
     },
     {
@@ -981,7 +2292,26 @@
         "ur_maududi": "سورہ 56 آیت 70 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:70] en español.",
         "fr_hamidullah": "Traduction de [56:70] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 70 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 70 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:70] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:70] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:70] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:70] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:70］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:70] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:70] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:70] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:70] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:70]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:70] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:70].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:70] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:70].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:70].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:70].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:70]."
       }
     },
     {
@@ -995,7 +2325,26 @@
         "ur_maududi": "سورہ 56 آیت 71 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:71] en español.",
         "fr_hamidullah": "Traduction de [56:71] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 71 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 71 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:71] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:71] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:71] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:71] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:71］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:71] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:71] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:71] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:71] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:71]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:71] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:71].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:71] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:71].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:71].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:71].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:71]."
       }
     },
     {
@@ -1009,7 +2358,26 @@
         "ur_maududi": "سورہ 56 آیت 72 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:72] en español.",
         "fr_hamidullah": "Traduction de [56:72] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 72 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 72 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:72] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:72] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:72] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:72] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:72］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:72] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:72] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:72] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:72] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:72]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:72] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:72].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:72] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:72].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:72].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:72].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:72]."
       }
     },
     {
@@ -1023,7 +2391,26 @@
         "ur_maududi": "سورہ 56 آیت 73 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:73] en español.",
         "fr_hamidullah": "Traduction de [56:73] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 73 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 73 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:73] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:73] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:73] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:73] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:73］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:73] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:73] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:73] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:73] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:73]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:73] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:73].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:73] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:73].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:73].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:73].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:73]."
       }
     },
     {
@@ -1037,7 +2424,26 @@
         "ur_maududi": "سورہ 56 آیت 74 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:74] en español.",
         "fr_hamidullah": "Traduction de [56:74] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 74 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 74 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:74] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:74] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:74] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:74] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:74］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:74] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:74] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:74] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:74] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:74]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:74] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:74].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:74] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:74].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:74].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:74].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:74]."
       }
     },
     {
@@ -1051,7 +2457,26 @@
         "ur_maududi": "سورہ 56 آیت 75 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:75] en español.",
         "fr_hamidullah": "Traduction de [56:75] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 75 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 75 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:75] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:75] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:75] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:75] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:75］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:75] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:75] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:75] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:75] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:75]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:75] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:75].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:75] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:75].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:75].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:75].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:75]."
       }
     },
     {
@@ -1065,7 +2490,26 @@
         "ur_maududi": "سورہ 56 آیت 76 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:76] en español.",
         "fr_hamidullah": "Traduction de [56:76] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 76 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 76 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:76] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:76] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:76] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:76] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:76］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:76] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:76] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:76] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:76] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:76]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:76] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:76].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:76] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:76].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:76].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:76].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:76]."
       }
     },
     {
@@ -1079,7 +2523,26 @@
         "ur_maududi": "سورہ 56 آیت 77 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:77] en español.",
         "fr_hamidullah": "Traduction de [56:77] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 77 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 77 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:77] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:77] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:77] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:77] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:77］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:77] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:77] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:77] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:77] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:77]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:77] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:77].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:77] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:77].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:77].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:77].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:77]."
       }
     },
     {
@@ -1093,7 +2556,26 @@
         "ur_maududi": "سورہ 56 آیت 78 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:78] en español.",
         "fr_hamidullah": "Traduction de [56:78] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 78 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 78 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:78] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:78] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:78] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:78] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:78］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:78] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:78] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:78] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:78] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:78]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:78] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:78].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:78] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:78].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:78].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:78].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:78]."
       }
     },
     {
@@ -1107,7 +2589,26 @@
         "ur_maududi": "سورہ 56 آیت 79 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:79] en español.",
         "fr_hamidullah": "Traduction de [56:79] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 79 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 79 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:79] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:79] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:79] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:79] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:79］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:79] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:79] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:79] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:79] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:79]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:79] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:79].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:79] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:79].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:79].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:79].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:79]."
       }
     },
     {
@@ -1121,7 +2622,26 @@
         "ur_maududi": "سورہ 56 آیت 80 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:80] en español.",
         "fr_hamidullah": "Traduction de [56:80] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 80 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 80 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:80] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:80] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:80] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:80] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:80］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:80] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:80] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:80] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:80] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:80]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:80] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:80].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:80] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:80].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:80].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:80].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:80]."
       }
     },
     {
@@ -1135,7 +2655,26 @@
         "ur_maududi": "سورہ 56 آیت 81 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:81] en español.",
         "fr_hamidullah": "Traduction de [56:81] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 81 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 81 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:81] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:81] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:81] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:81] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:81］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:81] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:81] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:81] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:81] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:81]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:81] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:81].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:81] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:81].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:81].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:81].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:81]."
       }
     },
     {
@@ -1149,7 +2688,26 @@
         "ur_maududi": "سورہ 56 آیت 82 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:82] en español.",
         "fr_hamidullah": "Traduction de [56:82] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 82 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 82 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:82] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:82] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:82] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:82] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:82］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:82] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:82] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:82] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:82] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:82]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:82] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:82].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:82] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:82].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:82].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:82].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:82]."
       }
     },
     {
@@ -1163,7 +2721,26 @@
         "ur_maududi": "سورہ 56 آیت 83 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:83] en español.",
         "fr_hamidullah": "Traduction de [56:83] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 83 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 83 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:83] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:83] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:83] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:83] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:83］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:83] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:83] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:83] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:83] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:83]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:83] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:83].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:83] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:83].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:83].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:83].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:83]."
       }
     },
     {
@@ -1177,7 +2754,26 @@
         "ur_maududi": "سورہ 56 آیت 84 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:84] en español.",
         "fr_hamidullah": "Traduction de [56:84] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 84 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 84 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:84] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:84] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:84] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:84] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:84］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:84] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:84] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:84] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:84] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:84]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:84] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:84].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:84] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:84].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:84].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:84].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:84]."
       }
     },
     {
@@ -1191,7 +2787,26 @@
         "ur_maududi": "سورہ 56 آیت 85 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:85] en español.",
         "fr_hamidullah": "Traduction de [56:85] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 85 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 85 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:85] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:85] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:85] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:85] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:85］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:85] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:85] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:85] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:85] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:85]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:85] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:85].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:85] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:85].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:85].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:85].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:85]."
       }
     },
     {
@@ -1205,7 +2820,26 @@
         "ur_maududi": "سورہ 56 آیت 86 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:86] en español.",
         "fr_hamidullah": "Traduction de [56:86] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 86 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 86 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:86] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:86] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:86] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:86] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:86］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:86] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:86] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:86] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:86] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:86]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:86] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:86].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:86] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:86].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:86].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:86].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:86]."
       }
     },
     {
@@ -1219,7 +2853,26 @@
         "ur_maududi": "سورہ 56 آیت 87 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:87] en español.",
         "fr_hamidullah": "Traduction de [56:87] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 87 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 87 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:87] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:87] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:87] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:87] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:87］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:87] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:87] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:87] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:87] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:87]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:87] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:87].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:87] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:87].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:87].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:87].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:87]."
       }
     },
     {
@@ -1233,7 +2886,26 @@
         "ur_maududi": "سورہ 56 آیت 88 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:88] en español.",
         "fr_hamidullah": "Traduction de [56:88] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 88 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 88 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:88] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:88] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:88] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:88] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:88］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:88] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:88] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:88] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:88] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:88]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:88] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:88].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:88] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:88].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:88].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:88].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:88]."
       }
     },
     {
@@ -1247,7 +2919,26 @@
         "ur_maududi": "سورہ 56 آیت 89 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:89] en español.",
         "fr_hamidullah": "Traduction de [56:89] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 89 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 89 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:89] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:89] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:89] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:89] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:89］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:89] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:89] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:89] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:89] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:89]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:89] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:89].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:89] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:89].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:89].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:89].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:89]."
       }
     },
     {
@@ -1261,7 +2952,26 @@
         "ur_maududi": "سورہ 56 آیت 90 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:90] en español.",
         "fr_hamidullah": "Traduction de [56:90] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 90 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 90 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:90] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:90] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:90] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:90] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:90］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:90] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:90] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:90] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:90] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:90]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:90] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:90].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:90] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:90].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:90].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:90].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:90]."
       }
     },
     {
@@ -1275,7 +2985,26 @@
         "ur_maududi": "سورہ 56 آیت 91 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:91] en español.",
         "fr_hamidullah": "Traduction de [56:91] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 91 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 91 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:91] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:91] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:91] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:91] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:91］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:91] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:91] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:91] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:91] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:91]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:91] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:91].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:91] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:91].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:91].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:91].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:91]."
       }
     },
     {
@@ -1289,7 +3018,26 @@
         "ur_maududi": "سورہ 56 آیت 92 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:92] en español.",
         "fr_hamidullah": "Traduction de [56:92] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 92 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 92 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:92] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:92] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:92] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:92] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:92］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:92] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:92] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:92] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:92] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:92]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:92] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:92].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:92] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:92].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:92].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:92].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:92]."
       }
     },
     {
@@ -1303,7 +3051,26 @@
         "ur_maududi": "سورہ 56 آیت 93 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:93] en español.",
         "fr_hamidullah": "Traduction de [56:93] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 93 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 93 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:93] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:93] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:93] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:93] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:93］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:93] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:93] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:93] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:93] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:93]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:93] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:93].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:93] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:93].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:93].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:93].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:93]."
       }
     },
     {
@@ -1317,7 +3084,26 @@
         "ur_maududi": "سورہ 56 آیت 94 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:94] en español.",
         "fr_hamidullah": "Traduction de [56:94] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 94 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 94 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:94] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:94] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:94] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:94] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:94］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:94] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:94] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:94] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:94] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:94]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:94] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:94].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:94] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:94].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:94].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:94].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:94]."
       }
     },
     {
@@ -1331,7 +3117,26 @@
         "ur_maududi": "سورہ 56 آیت 95 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:95] en español.",
         "fr_hamidullah": "Traduction de [56:95] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 95 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 95 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:95] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:95] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:95] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:95] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:95］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:95] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:95] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:95] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:95] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:95]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:95] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:95].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:95] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:95].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:95].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:95].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:95]."
       }
     },
     {
@@ -1345,7 +3150,26 @@
         "ur_maududi": "سورہ 56 آیت 96 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [56:96] en español.",
         "fr_hamidullah": "Traduction de [56:96] en français.",
-        "bn_hoque": "সূরা 56 আয়াত 96 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 56 আয়াত 96 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [56:96] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [56:96] на русский язык (Абу Адель).",
+        "tr_diyanet": "[56:96] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [56:96] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［56:96］ 马坚 译文",
+        "it_piccardo": "Traduzione di [56:96] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [56:96] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [56:96] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [56:96] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [56:96]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [56:96] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [56:96].",
+        "ar_jalalayn": "تفسير الجلالين للآية [56:96] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [56:96].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [56:96].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [56:96].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [56:96]."
       }
     }
   ],

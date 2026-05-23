@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T01:55:57.972Z",
+  "generatedAt": "2026-05-23T02:33:24.456Z",
   "surahNumber": 12,
   "ayahCount": 111,
   "ayahs": [
@@ -15,7 +15,26 @@
         "ur_maududi": "سورہ 12 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:1] en español.",
         "fr_hamidullah": "Traduction de [12:1] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:1] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:1] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:1] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:1] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:1]."
       }
     },
     {
@@ -29,7 +48,26 @@
         "ur_maududi": "سورہ 12 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:2] en español.",
         "fr_hamidullah": "Traduction de [12:2] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:2] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:2] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:2] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:2] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:2]."
       }
     },
     {
@@ -43,7 +81,26 @@
         "ur_maududi": "سورہ 12 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:3] en español.",
         "fr_hamidullah": "Traduction de [12:3] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:3] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:3] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:3] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:3] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:3]."
       }
     },
     {
@@ -57,7 +114,26 @@
         "ur_maududi": "سورہ 12 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:4] en español.",
         "fr_hamidullah": "Traduction de [12:4] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:4] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:4] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:4] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:4] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:4]."
       }
     },
     {
@@ -71,7 +147,26 @@
         "ur_maududi": "سورہ 12 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:5] en español.",
         "fr_hamidullah": "Traduction de [12:5] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:5] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:5] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:5] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:5] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:5]."
       }
     },
     {
@@ -85,7 +180,26 @@
         "ur_maududi": "سورہ 12 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:6] en español.",
         "fr_hamidullah": "Traduction de [12:6] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:6] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:6] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:6] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:6] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:6]."
       }
     },
     {
@@ -99,7 +213,26 @@
         "ur_maududi": "سورہ 12 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:7] en español.",
         "fr_hamidullah": "Traduction de [12:7] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:7] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:7] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:7] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:7] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:7]."
       }
     },
     {
@@ -113,7 +246,26 @@
         "ur_maududi": "سورہ 12 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:8] en español.",
         "fr_hamidullah": "Traduction de [12:8] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:8] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:8] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:8] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:8] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:8]."
       }
     },
     {
@@ -127,7 +279,26 @@
         "ur_maududi": "سورہ 12 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:9] en español.",
         "fr_hamidullah": "Traduction de [12:9] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:9] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:9] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:9] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:9] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:9]."
       }
     },
     {
@@ -141,7 +312,26 @@
         "ur_maududi": "سورہ 12 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:10] en español.",
         "fr_hamidullah": "Traduction de [12:10] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:10] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:10] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:10] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:10] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:10]."
       }
     },
     {
@@ -155,7 +345,26 @@
         "ur_maududi": "سورہ 12 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:11] en español.",
         "fr_hamidullah": "Traduction de [12:11] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:11] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:11] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:11] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:11] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:11]."
       }
     },
     {
@@ -169,7 +378,26 @@
         "ur_maududi": "سورہ 12 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:12] en español.",
         "fr_hamidullah": "Traduction de [12:12] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:12] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:12] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:12] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:12] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:12]."
       }
     },
     {
@@ -183,7 +411,26 @@
         "ur_maududi": "سورہ 12 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:13] en español.",
         "fr_hamidullah": "Traduction de [12:13] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:13] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:13] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:13] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:13] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:13]."
       }
     },
     {
@@ -197,7 +444,26 @@
         "ur_maududi": "سورہ 12 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:14] en español.",
         "fr_hamidullah": "Traduction de [12:14] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:14] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:14] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:14] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:14] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:14]."
       }
     },
     {
@@ -211,7 +477,26 @@
         "ur_maududi": "سورہ 12 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:15] en español.",
         "fr_hamidullah": "Traduction de [12:15] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:15] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:15] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:15] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:15] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:15]."
       }
     },
     {
@@ -225,7 +510,26 @@
         "ur_maududi": "سورہ 12 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:16] en español.",
         "fr_hamidullah": "Traduction de [12:16] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:16] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:16] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:16] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:16] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:16]."
       }
     },
     {
@@ -239,7 +543,26 @@
         "ur_maududi": "سورہ 12 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:17] en español.",
         "fr_hamidullah": "Traduction de [12:17] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:17] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:17] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:17] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:17] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:17]."
       }
     },
     {
@@ -253,7 +576,26 @@
         "ur_maududi": "سورہ 12 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:18] en español.",
         "fr_hamidullah": "Traduction de [12:18] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:18] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:18] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:18] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:18] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:18]."
       }
     },
     {
@@ -267,7 +609,26 @@
         "ur_maududi": "سورہ 12 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:19] en español.",
         "fr_hamidullah": "Traduction de [12:19] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:19] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:19] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:19] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:19] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:19]."
       }
     },
     {
@@ -281,7 +642,26 @@
         "ur_maududi": "سورہ 12 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:20] en español.",
         "fr_hamidullah": "Traduction de [12:20] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:20] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:20] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:20] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:20] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:20]."
       }
     },
     {
@@ -295,7 +675,26 @@
         "ur_maududi": "سورہ 12 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:21] en español.",
         "fr_hamidullah": "Traduction de [12:21] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:21] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:21] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:21] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:21] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:21］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:21] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:21] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:21] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:21] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:21]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:21] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:21].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:21] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:21].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:21].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:21].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:21]."
       }
     },
     {
@@ -309,7 +708,26 @@
         "ur_maududi": "سورہ 12 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:22] en español.",
         "fr_hamidullah": "Traduction de [12:22] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:22] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:22] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:22] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:22] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:22］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:22] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:22] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:22] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:22] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:22]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:22] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:22].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:22] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:22].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:22].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:22].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:22]."
       }
     },
     {
@@ -323,7 +741,26 @@
         "ur_maududi": "سورہ 12 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:23] en español.",
         "fr_hamidullah": "Traduction de [12:23] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:23] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:23] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:23] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:23] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:23］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:23] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:23] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:23] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:23] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:23]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:23] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:23].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:23] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:23].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:23].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:23].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:23]."
       }
     },
     {
@@ -337,7 +774,26 @@
         "ur_maududi": "سورہ 12 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:24] en español.",
         "fr_hamidullah": "Traduction de [12:24] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:24] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:24] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:24] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:24] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:24］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:24] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:24] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:24] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:24] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:24]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:24] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:24].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:24] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:24].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:24].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:24].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:24]."
       }
     },
     {
@@ -351,7 +807,26 @@
         "ur_maududi": "سورہ 12 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:25] en español.",
         "fr_hamidullah": "Traduction de [12:25] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:25] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:25] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:25] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:25] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:25］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:25] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:25] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:25] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:25] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:25]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:25] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:25].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:25] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:25].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:25].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:25].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:25]."
       }
     },
     {
@@ -365,7 +840,26 @@
         "ur_maududi": "سورہ 12 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:26] en español.",
         "fr_hamidullah": "Traduction de [12:26] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:26] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:26] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:26] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:26] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:26］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:26] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:26] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:26] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:26] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:26]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:26] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:26].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:26] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:26].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:26].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:26].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:26]."
       }
     },
     {
@@ -379,7 +873,26 @@
         "ur_maududi": "سورہ 12 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:27] en español.",
         "fr_hamidullah": "Traduction de [12:27] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:27] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:27] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:27] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:27] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:27］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:27] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:27] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:27] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:27] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:27]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:27] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:27].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:27] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:27].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:27].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:27].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:27]."
       }
     },
     {
@@ -393,7 +906,26 @@
         "ur_maududi": "سورہ 12 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:28] en español.",
         "fr_hamidullah": "Traduction de [12:28] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:28] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:28] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:28] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:28] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:28］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:28] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:28] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:28] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:28] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:28]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:28] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:28].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:28] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:28].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:28].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:28].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:28]."
       }
     },
     {
@@ -407,7 +939,26 @@
         "ur_maududi": "سورہ 12 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:29] en español.",
         "fr_hamidullah": "Traduction de [12:29] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:29] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:29] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:29] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:29] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:29］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:29] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:29] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:29] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:29] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:29]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:29] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:29].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:29] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:29].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:29].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:29].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:29]."
       }
     },
     {
@@ -421,7 +972,26 @@
         "ur_maududi": "سورہ 12 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:30] en español.",
         "fr_hamidullah": "Traduction de [12:30] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:30] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:30] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:30] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:30] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:30］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:30] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:30] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:30] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:30] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:30]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:30] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:30].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:30] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:30].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:30].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:30].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:30]."
       }
     },
     {
@@ -435,7 +1005,26 @@
         "ur_maududi": "سورہ 12 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:31] en español.",
         "fr_hamidullah": "Traduction de [12:31] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:31] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:31] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:31] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:31] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:31］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:31] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:31] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:31] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:31] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:31]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:31] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:31].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:31] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:31].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:31].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:31].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:31]."
       }
     },
     {
@@ -449,7 +1038,26 @@
         "ur_maududi": "سورہ 12 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:32] en español.",
         "fr_hamidullah": "Traduction de [12:32] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:32] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:32] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:32] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:32] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:32］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:32] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:32] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:32] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:32] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:32]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:32] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:32].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:32] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:32].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:32].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:32].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:32]."
       }
     },
     {
@@ -463,7 +1071,26 @@
         "ur_maududi": "سورہ 12 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:33] en español.",
         "fr_hamidullah": "Traduction de [12:33] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:33] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:33] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:33] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:33] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:33］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:33] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:33] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:33] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:33] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:33]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:33] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:33].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:33] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:33].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:33].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:33].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:33]."
       }
     },
     {
@@ -477,7 +1104,26 @@
         "ur_maududi": "سورہ 12 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:34] en español.",
         "fr_hamidullah": "Traduction de [12:34] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:34] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:34] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:34] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:34] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:34］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:34] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:34] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:34] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:34] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:34]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:34] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:34].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:34] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:34].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:34].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:34].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:34]."
       }
     },
     {
@@ -491,7 +1137,26 @@
         "ur_maududi": "سورہ 12 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:35] en español.",
         "fr_hamidullah": "Traduction de [12:35] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:35] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:35] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:35] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:35] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:35］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:35] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:35] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:35] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:35] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:35]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:35] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:35].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:35] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:35].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:35].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:35].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:35]."
       }
     },
     {
@@ -505,7 +1170,26 @@
         "ur_maududi": "سورہ 12 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:36] en español.",
         "fr_hamidullah": "Traduction de [12:36] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:36] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:36] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:36] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:36] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:36］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:36] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:36] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:36] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:36] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:36]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:36] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:36].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:36] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:36].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:36].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:36].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:36]."
       }
     },
     {
@@ -519,7 +1203,26 @@
         "ur_maududi": "سورہ 12 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:37] en español.",
         "fr_hamidullah": "Traduction de [12:37] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:37] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:37] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:37] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:37] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:37］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:37] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:37] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:37] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:37] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:37]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:37] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:37].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:37] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:37].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:37].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:37].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:37]."
       }
     },
     {
@@ -533,7 +1236,26 @@
         "ur_maududi": "سورہ 12 آیت 38 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:38] en español.",
         "fr_hamidullah": "Traduction de [12:38] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:38] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:38] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:38] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:38] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:38］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:38] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:38] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:38] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:38] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:38]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:38] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:38].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:38] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:38].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:38].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:38].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:38]."
       }
     },
     {
@@ -547,7 +1269,26 @@
         "ur_maududi": "سورہ 12 آیت 39 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:39] en español.",
         "fr_hamidullah": "Traduction de [12:39] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:39] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:39] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:39] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:39] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:39］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:39] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:39] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:39] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:39] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:39]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:39] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:39].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:39] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:39].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:39].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:39].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:39]."
       }
     },
     {
@@ -561,7 +1302,26 @@
         "ur_maududi": "سورہ 12 آیت 40 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:40] en español.",
         "fr_hamidullah": "Traduction de [12:40] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:40] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:40] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:40] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:40] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:40］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:40] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:40] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:40] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:40] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:40]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:40] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:40].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:40] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:40].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:40].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:40].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:40]."
       }
     },
     {
@@ -575,7 +1335,26 @@
         "ur_maududi": "سورہ 12 آیت 41 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:41] en español.",
         "fr_hamidullah": "Traduction de [12:41] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:41] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:41] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:41] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:41] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:41］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:41] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:41] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:41] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:41] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:41]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:41] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:41].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:41] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:41].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:41].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:41].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:41]."
       }
     },
     {
@@ -589,7 +1368,26 @@
         "ur_maududi": "سورہ 12 آیت 42 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:42] en español.",
         "fr_hamidullah": "Traduction de [12:42] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:42] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:42] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:42] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:42] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:42］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:42] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:42] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:42] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:42] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:42]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:42] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:42].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:42] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:42].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:42].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:42].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:42]."
       }
     },
     {
@@ -603,7 +1401,26 @@
         "ur_maududi": "سورہ 12 آیت 43 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:43] en español.",
         "fr_hamidullah": "Traduction de [12:43] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:43] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:43] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:43] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:43] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:43］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:43] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:43] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:43] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:43] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:43]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:43] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:43].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:43] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:43].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:43].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:43].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:43]."
       }
     },
     {
@@ -617,7 +1434,26 @@
         "ur_maududi": "سورہ 12 آیت 44 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:44] en español.",
         "fr_hamidullah": "Traduction de [12:44] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:44] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:44] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:44] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:44] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:44］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:44] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:44] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:44] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:44] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:44]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:44] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:44].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:44] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:44].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:44].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:44].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:44]."
       }
     },
     {
@@ -631,7 +1467,26 @@
         "ur_maududi": "سورہ 12 آیت 45 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:45] en español.",
         "fr_hamidullah": "Traduction de [12:45] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:45] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:45] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:45] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:45] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:45］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:45] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:45] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:45] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:45] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:45]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:45] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:45].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:45] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:45].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:45].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:45].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:45]."
       }
     },
     {
@@ -645,7 +1500,26 @@
         "ur_maududi": "سورہ 12 آیت 46 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:46] en español.",
         "fr_hamidullah": "Traduction de [12:46] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:46] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:46] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:46] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:46] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:46］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:46] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:46] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:46] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:46] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:46]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:46] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:46].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:46] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:46].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:46].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:46].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:46]."
       }
     },
     {
@@ -659,7 +1533,26 @@
         "ur_maududi": "سورہ 12 آیت 47 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:47] en español.",
         "fr_hamidullah": "Traduction de [12:47] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:47] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:47] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:47] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:47] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:47］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:47] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:47] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:47] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:47] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:47]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:47] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:47].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:47] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:47].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:47].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:47].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:47]."
       }
     },
     {
@@ -673,7 +1566,26 @@
         "ur_maududi": "سورہ 12 آیت 48 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:48] en español.",
         "fr_hamidullah": "Traduction de [12:48] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:48] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:48] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:48] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:48] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:48］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:48] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:48] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:48] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:48] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:48]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:48] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:48].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:48] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:48].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:48].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:48].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:48]."
       }
     },
     {
@@ -687,7 +1599,26 @@
         "ur_maududi": "سورہ 12 آیت 49 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:49] en español.",
         "fr_hamidullah": "Traduction de [12:49] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:49] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:49] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:49] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:49] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:49］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:49] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:49] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:49] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:49] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:49]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:49] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:49].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:49] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:49].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:49].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:49].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:49]."
       }
     },
     {
@@ -701,7 +1632,26 @@
         "ur_maududi": "سورہ 12 آیت 50 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:50] en español.",
         "fr_hamidullah": "Traduction de [12:50] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:50] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:50] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:50] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:50] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:50］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:50] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:50] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:50] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:50] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:50]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:50] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:50].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:50] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:50].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:50].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:50].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:50]."
       }
     },
     {
@@ -715,7 +1665,26 @@
         "ur_maududi": "سورہ 12 آیت 51 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:51] en español.",
         "fr_hamidullah": "Traduction de [12:51] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:51] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:51] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:51] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:51] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:51］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:51] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:51] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:51] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:51] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:51]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:51] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:51].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:51] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:51].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:51].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:51].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:51]."
       }
     },
     {
@@ -729,7 +1698,26 @@
         "ur_maududi": "سورہ 12 آیت 52 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:52] en español.",
         "fr_hamidullah": "Traduction de [12:52] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:52] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:52] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:52] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:52] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:52］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:52] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:52] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:52] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:52] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:52]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:52] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:52].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:52] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:52].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:52].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:52].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:52]."
       }
     },
     {
@@ -743,7 +1731,26 @@
         "ur_maududi": "سورہ 12 آیت 53 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:53] en español.",
         "fr_hamidullah": "Traduction de [12:53] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 53 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 53 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:53] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:53] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:53] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:53] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:53］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:53] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:53] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:53] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:53] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:53]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:53] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:53].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:53] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:53].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:53].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:53].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:53]."
       }
     },
     {
@@ -757,7 +1764,26 @@
         "ur_maududi": "سورہ 12 آیت 54 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:54] en español.",
         "fr_hamidullah": "Traduction de [12:54] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 54 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 54 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:54] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:54] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:54] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:54] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:54］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:54] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:54] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:54] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:54] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:54]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:54] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:54].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:54] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:54].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:54].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:54].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:54]."
       }
     },
     {
@@ -771,7 +1797,26 @@
         "ur_maududi": "سورہ 12 آیت 55 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:55] en español.",
         "fr_hamidullah": "Traduction de [12:55] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 55 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 55 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:55] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:55] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:55] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:55] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:55］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:55] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:55] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:55] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:55] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:55]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:55] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:55].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:55] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:55].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:55].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:55].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:55]."
       }
     },
     {
@@ -785,7 +1830,26 @@
         "ur_maududi": "سورہ 12 آیت 56 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:56] en español.",
         "fr_hamidullah": "Traduction de [12:56] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 56 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 56 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:56] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:56] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:56] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:56] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:56］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:56] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:56] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:56] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:56] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:56]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:56] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:56].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:56] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:56].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:56].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:56].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:56]."
       }
     },
     {
@@ -799,7 +1863,26 @@
         "ur_maududi": "سورہ 12 آیت 57 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:57] en español.",
         "fr_hamidullah": "Traduction de [12:57] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 57 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 57 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:57] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:57] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:57] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:57] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:57］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:57] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:57] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:57] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:57] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:57]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:57] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:57].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:57] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:57].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:57].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:57].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:57]."
       }
     },
     {
@@ -813,7 +1896,26 @@
         "ur_maududi": "سورہ 12 آیت 58 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:58] en español.",
         "fr_hamidullah": "Traduction de [12:58] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 58 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 58 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:58] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:58] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:58] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:58] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:58］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:58] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:58] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:58] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:58] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:58]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:58] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:58].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:58] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:58].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:58].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:58].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:58]."
       }
     },
     {
@@ -827,7 +1929,26 @@
         "ur_maududi": "سورہ 12 آیت 59 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:59] en español.",
         "fr_hamidullah": "Traduction de [12:59] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 59 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 59 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:59] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:59] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:59] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:59] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:59］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:59] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:59] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:59] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:59] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:59]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:59] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:59].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:59] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:59].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:59].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:59].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:59]."
       }
     },
     {
@@ -841,7 +1962,26 @@
         "ur_maududi": "سورہ 12 آیت 60 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:60] en español.",
         "fr_hamidullah": "Traduction de [12:60] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 60 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 60 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:60] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:60] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:60] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:60] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:60］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:60] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:60] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:60] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:60] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:60]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:60] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:60].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:60] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:60].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:60].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:60].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:60]."
       }
     },
     {
@@ -855,7 +1995,26 @@
         "ur_maududi": "سورہ 12 آیت 61 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:61] en español.",
         "fr_hamidullah": "Traduction de [12:61] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 61 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 61 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:61] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:61] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:61] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:61] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:61］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:61] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:61] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:61] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:61] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:61]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:61] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:61].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:61] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:61].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:61].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:61].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:61]."
       }
     },
     {
@@ -869,7 +2028,26 @@
         "ur_maududi": "سورہ 12 آیت 62 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:62] en español.",
         "fr_hamidullah": "Traduction de [12:62] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 62 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 62 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:62] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:62] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:62] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:62] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:62］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:62] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:62] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:62] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:62] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:62]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:62] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:62].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:62] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:62].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:62].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:62].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:62]."
       }
     },
     {
@@ -883,7 +2061,26 @@
         "ur_maududi": "سورہ 12 آیت 63 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:63] en español.",
         "fr_hamidullah": "Traduction de [12:63] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 63 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 63 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:63] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:63] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:63] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:63] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:63］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:63] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:63] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:63] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:63] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:63]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:63] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:63].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:63] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:63].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:63].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:63].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:63]."
       }
     },
     {
@@ -897,7 +2094,26 @@
         "ur_maududi": "سورہ 12 آیت 64 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:64] en español.",
         "fr_hamidullah": "Traduction de [12:64] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 64 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 64 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:64] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:64] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:64] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:64] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:64］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:64] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:64] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:64] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:64] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:64]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:64] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:64].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:64] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:64].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:64].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:64].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:64]."
       }
     },
     {
@@ -911,7 +2127,26 @@
         "ur_maududi": "سورہ 12 آیت 65 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:65] en español.",
         "fr_hamidullah": "Traduction de [12:65] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 65 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 65 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:65] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:65] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:65] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:65] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:65］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:65] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:65] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:65] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:65] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:65]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:65] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:65].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:65] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:65].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:65].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:65].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:65]."
       }
     },
     {
@@ -925,7 +2160,26 @@
         "ur_maududi": "سورہ 12 آیت 66 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:66] en español.",
         "fr_hamidullah": "Traduction de [12:66] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 66 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 66 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:66] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:66] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:66] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:66] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:66］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:66] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:66] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:66] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:66] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:66]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:66] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:66].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:66] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:66].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:66].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:66].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:66]."
       }
     },
     {
@@ -939,7 +2193,26 @@
         "ur_maududi": "سورہ 12 آیت 67 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:67] en español.",
         "fr_hamidullah": "Traduction de [12:67] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 67 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 67 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:67] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:67] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:67] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:67] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:67］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:67] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:67] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:67] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:67] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:67]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:67] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:67].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:67] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:67].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:67].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:67].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:67]."
       }
     },
     {
@@ -953,7 +2226,26 @@
         "ur_maududi": "سورہ 12 آیت 68 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:68] en español.",
         "fr_hamidullah": "Traduction de [12:68] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 68 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 68 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:68] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:68] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:68] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:68] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:68］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:68] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:68] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:68] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:68] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:68]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:68] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:68].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:68] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:68].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:68].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:68].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:68]."
       }
     },
     {
@@ -967,7 +2259,26 @@
         "ur_maududi": "سورہ 12 آیت 69 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:69] en español.",
         "fr_hamidullah": "Traduction de [12:69] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 69 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 69 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:69] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:69] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:69] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:69] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:69］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:69] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:69] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:69] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:69] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:69]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:69] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:69].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:69] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:69].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:69].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:69].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:69]."
       }
     },
     {
@@ -981,7 +2292,26 @@
         "ur_maududi": "سورہ 12 آیت 70 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:70] en español.",
         "fr_hamidullah": "Traduction de [12:70] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 70 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 70 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:70] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:70] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:70] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:70] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:70］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:70] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:70] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:70] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:70] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:70]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:70] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:70].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:70] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:70].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:70].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:70].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:70]."
       }
     },
     {
@@ -995,7 +2325,26 @@
         "ur_maududi": "سورہ 12 آیت 71 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:71] en español.",
         "fr_hamidullah": "Traduction de [12:71] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 71 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 71 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:71] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:71] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:71] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:71] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:71］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:71] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:71] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:71] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:71] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:71]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:71] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:71].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:71] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:71].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:71].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:71].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:71]."
       }
     },
     {
@@ -1009,7 +2358,26 @@
         "ur_maududi": "سورہ 12 آیت 72 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:72] en español.",
         "fr_hamidullah": "Traduction de [12:72] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 72 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 72 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:72] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:72] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:72] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:72] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:72］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:72] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:72] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:72] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:72] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:72]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:72] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:72].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:72] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:72].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:72].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:72].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:72]."
       }
     },
     {
@@ -1023,7 +2391,26 @@
         "ur_maududi": "سورہ 12 آیت 73 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:73] en español.",
         "fr_hamidullah": "Traduction de [12:73] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 73 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 73 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:73] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:73] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:73] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:73] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:73］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:73] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:73] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:73] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:73] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:73]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:73] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:73].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:73] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:73].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:73].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:73].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:73]."
       }
     },
     {
@@ -1037,7 +2424,26 @@
         "ur_maududi": "سورہ 12 آیت 74 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:74] en español.",
         "fr_hamidullah": "Traduction de [12:74] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 74 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 74 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:74] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:74] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:74] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:74] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:74］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:74] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:74] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:74] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:74] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:74]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:74] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:74].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:74] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:74].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:74].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:74].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:74]."
       }
     },
     {
@@ -1051,7 +2457,26 @@
         "ur_maududi": "سورہ 12 آیت 75 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:75] en español.",
         "fr_hamidullah": "Traduction de [12:75] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 75 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 75 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:75] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:75] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:75] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:75] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:75］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:75] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:75] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:75] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:75] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:75]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:75] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:75].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:75] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:75].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:75].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:75].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:75]."
       }
     },
     {
@@ -1065,7 +2490,26 @@
         "ur_maududi": "سورہ 12 آیت 76 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:76] en español.",
         "fr_hamidullah": "Traduction de [12:76] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 76 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 76 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:76] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:76] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:76] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:76] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:76］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:76] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:76] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:76] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:76] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:76]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:76] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:76].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:76] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:76].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:76].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:76].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:76]."
       }
     },
     {
@@ -1079,7 +2523,26 @@
         "ur_maududi": "سورہ 12 آیت 77 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:77] en español.",
         "fr_hamidullah": "Traduction de [12:77] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 77 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 77 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:77] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:77] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:77] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:77] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:77］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:77] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:77] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:77] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:77] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:77]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:77] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:77].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:77] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:77].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:77].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:77].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:77]."
       }
     },
     {
@@ -1093,7 +2556,26 @@
         "ur_maududi": "سورہ 12 آیت 78 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:78] en español.",
         "fr_hamidullah": "Traduction de [12:78] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 78 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 78 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:78] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:78] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:78] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:78] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:78］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:78] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:78] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:78] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:78] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:78]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:78] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:78].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:78] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:78].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:78].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:78].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:78]."
       }
     },
     {
@@ -1107,7 +2589,26 @@
         "ur_maududi": "سورہ 12 آیت 79 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:79] en español.",
         "fr_hamidullah": "Traduction de [12:79] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 79 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 79 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:79] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:79] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:79] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:79] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:79］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:79] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:79] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:79] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:79] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:79]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:79] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:79].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:79] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:79].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:79].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:79].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:79]."
       }
     },
     {
@@ -1121,7 +2622,26 @@
         "ur_maududi": "سورہ 12 آیت 80 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:80] en español.",
         "fr_hamidullah": "Traduction de [12:80] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 80 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 80 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:80] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:80] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:80] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:80] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:80］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:80] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:80] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:80] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:80] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:80]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:80] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:80].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:80] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:80].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:80].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:80].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:80]."
       }
     },
     {
@@ -1135,7 +2655,26 @@
         "ur_maududi": "سورہ 12 آیت 81 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:81] en español.",
         "fr_hamidullah": "Traduction de [12:81] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 81 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 81 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:81] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:81] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:81] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:81] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:81］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:81] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:81] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:81] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:81] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:81]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:81] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:81].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:81] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:81].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:81].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:81].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:81]."
       }
     },
     {
@@ -1149,7 +2688,26 @@
         "ur_maududi": "سورہ 12 آیت 82 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:82] en español.",
         "fr_hamidullah": "Traduction de [12:82] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 82 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 82 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:82] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:82] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:82] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:82] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:82］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:82] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:82] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:82] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:82] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:82]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:82] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:82].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:82] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:82].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:82].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:82].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:82]."
       }
     },
     {
@@ -1163,7 +2721,26 @@
         "ur_maududi": "سورہ 12 آیت 83 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:83] en español.",
         "fr_hamidullah": "Traduction de [12:83] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 83 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 83 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:83] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:83] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:83] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:83] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:83］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:83] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:83] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:83] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:83] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:83]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:83] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:83].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:83] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:83].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:83].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:83].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:83]."
       }
     },
     {
@@ -1177,7 +2754,26 @@
         "ur_maududi": "سورہ 12 آیت 84 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:84] en español.",
         "fr_hamidullah": "Traduction de [12:84] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 84 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 84 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:84] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:84] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:84] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:84] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:84］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:84] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:84] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:84] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:84] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:84]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:84] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:84].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:84] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:84].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:84].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:84].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:84]."
       }
     },
     {
@@ -1191,7 +2787,26 @@
         "ur_maududi": "سورہ 12 آیت 85 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:85] en español.",
         "fr_hamidullah": "Traduction de [12:85] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 85 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 85 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:85] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:85] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:85] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:85] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:85］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:85] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:85] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:85] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:85] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:85]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:85] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:85].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:85] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:85].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:85].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:85].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:85]."
       }
     },
     {
@@ -1205,7 +2820,26 @@
         "ur_maududi": "سورہ 12 آیت 86 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:86] en español.",
         "fr_hamidullah": "Traduction de [12:86] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 86 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 86 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:86] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:86] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:86] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:86] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:86］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:86] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:86] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:86] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:86] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:86]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:86] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:86].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:86] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:86].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:86].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:86].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:86]."
       }
     },
     {
@@ -1219,7 +2853,26 @@
         "ur_maududi": "سورہ 12 آیت 87 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:87] en español.",
         "fr_hamidullah": "Traduction de [12:87] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 87 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 87 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:87] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:87] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:87] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:87] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:87］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:87] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:87] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:87] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:87] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:87]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:87] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:87].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:87] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:87].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:87].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:87].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:87]."
       }
     },
     {
@@ -1233,7 +2886,26 @@
         "ur_maududi": "سورہ 12 آیت 88 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:88] en español.",
         "fr_hamidullah": "Traduction de [12:88] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 88 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 88 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:88] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:88] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:88] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:88] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:88］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:88] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:88] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:88] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:88] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:88]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:88] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:88].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:88] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:88].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:88].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:88].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:88]."
       }
     },
     {
@@ -1247,7 +2919,26 @@
         "ur_maududi": "سورہ 12 آیت 89 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:89] en español.",
         "fr_hamidullah": "Traduction de [12:89] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 89 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 89 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:89] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:89] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:89] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:89] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:89］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:89] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:89] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:89] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:89] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:89]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:89] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:89].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:89] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:89].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:89].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:89].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:89]."
       }
     },
     {
@@ -1261,7 +2952,26 @@
         "ur_maududi": "سورہ 12 آیت 90 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:90] en español.",
         "fr_hamidullah": "Traduction de [12:90] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 90 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 90 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:90] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:90] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:90] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:90] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:90］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:90] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:90] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:90] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:90] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:90]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:90] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:90].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:90] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:90].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:90].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:90].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:90]."
       }
     },
     {
@@ -1275,7 +2985,26 @@
         "ur_maududi": "سورہ 12 آیت 91 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:91] en español.",
         "fr_hamidullah": "Traduction de [12:91] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 91 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 91 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:91] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:91] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:91] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:91] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:91］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:91] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:91] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:91] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:91] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:91]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:91] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:91].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:91] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:91].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:91].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:91].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:91]."
       }
     },
     {
@@ -1289,7 +3018,26 @@
         "ur_maududi": "سورہ 12 آیت 92 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:92] en español.",
         "fr_hamidullah": "Traduction de [12:92] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 92 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 92 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:92] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:92] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:92] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:92] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:92］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:92] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:92] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:92] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:92] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:92]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:92] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:92].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:92] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:92].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:92].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:92].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:92]."
       }
     },
     {
@@ -1303,7 +3051,26 @@
         "ur_maududi": "سورہ 12 آیت 93 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:93] en español.",
         "fr_hamidullah": "Traduction de [12:93] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 93 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 93 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:93] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:93] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:93] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:93] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:93］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:93] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:93] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:93] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:93] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:93]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:93] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:93].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:93] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:93].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:93].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:93].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:93]."
       }
     },
     {
@@ -1317,7 +3084,26 @@
         "ur_maududi": "سورہ 12 آیت 94 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:94] en español.",
         "fr_hamidullah": "Traduction de [12:94] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 94 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 94 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:94] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:94] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:94] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:94] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:94］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:94] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:94] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:94] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:94] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:94]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:94] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:94].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:94] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:94].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:94].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:94].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:94]."
       }
     },
     {
@@ -1331,7 +3117,26 @@
         "ur_maududi": "سورہ 12 آیت 95 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:95] en español.",
         "fr_hamidullah": "Traduction de [12:95] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 95 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 95 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:95] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:95] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:95] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:95] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:95］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:95] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:95] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:95] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:95] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:95]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:95] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:95].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:95] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:95].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:95].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:95].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:95]."
       }
     },
     {
@@ -1345,7 +3150,26 @@
         "ur_maududi": "سورہ 12 آیت 96 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:96] en español.",
         "fr_hamidullah": "Traduction de [12:96] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 96 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 96 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:96] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:96] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:96] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:96] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:96］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:96] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:96] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:96] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:96] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:96]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:96] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:96].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:96] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:96].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:96].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:96].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:96]."
       }
     },
     {
@@ -1359,7 +3183,26 @@
         "ur_maududi": "سورہ 12 آیت 97 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:97] en español.",
         "fr_hamidullah": "Traduction de [12:97] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 97 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 97 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:97] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:97] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:97] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:97] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:97］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:97] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:97] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:97] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:97] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:97]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:97] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:97].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:97] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:97].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:97].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:97].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:97]."
       }
     },
     {
@@ -1373,7 +3216,26 @@
         "ur_maududi": "سورہ 12 آیت 98 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:98] en español.",
         "fr_hamidullah": "Traduction de [12:98] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 98 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 98 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:98] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:98] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:98] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:98] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:98］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:98] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:98] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:98] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:98] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:98]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:98] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:98].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:98] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:98].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:98].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:98].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:98]."
       }
     },
     {
@@ -1387,7 +3249,26 @@
         "ur_maududi": "سورہ 12 آیت 99 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:99] en español.",
         "fr_hamidullah": "Traduction de [12:99] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 99 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 99 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:99] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:99] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:99] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:99] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:99］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:99] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:99] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:99] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:99] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:99]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:99] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:99].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:99] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:99].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:99].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:99].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:99]."
       }
     },
     {
@@ -1401,7 +3282,26 @@
         "ur_maududi": "سورہ 12 آیت 100 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:100] en español.",
         "fr_hamidullah": "Traduction de [12:100] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 100 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 100 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:100] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:100] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:100] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:100] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:100］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:100] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:100] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:100] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:100] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:100]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:100] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:100].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:100] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:100].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:100].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:100].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:100]."
       }
     },
     {
@@ -1415,7 +3315,26 @@
         "ur_maududi": "سورہ 12 آیت 101 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:101] en español.",
         "fr_hamidullah": "Traduction de [12:101] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 101 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 101 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:101] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:101] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:101] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:101] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:101］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:101] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:101] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:101] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:101] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:101]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:101] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:101].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:101] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:101].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:101].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:101].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:101]."
       }
     },
     {
@@ -1429,7 +3348,26 @@
         "ur_maududi": "سورہ 12 آیت 102 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:102] en español.",
         "fr_hamidullah": "Traduction de [12:102] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 102 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 102 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:102] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:102] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:102] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:102] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:102］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:102] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:102] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:102] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:102] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:102]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:102] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:102].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:102] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:102].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:102].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:102].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:102]."
       }
     },
     {
@@ -1443,7 +3381,26 @@
         "ur_maududi": "سورہ 12 آیت 103 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:103] en español.",
         "fr_hamidullah": "Traduction de [12:103] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 103 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 103 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:103] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:103] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:103] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:103] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:103］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:103] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:103] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:103] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:103] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:103]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:103] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:103].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:103] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:103].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:103].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:103].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:103]."
       }
     },
     {
@@ -1457,7 +3414,26 @@
         "ur_maududi": "سورہ 12 آیت 104 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:104] en español.",
         "fr_hamidullah": "Traduction de [12:104] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 104 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 104 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:104] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:104] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:104] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:104] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:104］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:104] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:104] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:104] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:104] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:104]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:104] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:104].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:104] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:104].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:104].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:104].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:104]."
       }
     },
     {
@@ -1471,7 +3447,26 @@
         "ur_maududi": "سورہ 12 آیت 105 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:105] en español.",
         "fr_hamidullah": "Traduction de [12:105] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 105 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 105 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:105] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:105] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:105] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:105] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:105］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:105] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:105] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:105] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:105] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:105]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:105] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:105].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:105] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:105].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:105].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:105].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:105]."
       }
     },
     {
@@ -1485,7 +3480,26 @@
         "ur_maududi": "سورہ 12 آیت 106 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:106] en español.",
         "fr_hamidullah": "Traduction de [12:106] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 106 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 106 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:106] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:106] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:106] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:106] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:106］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:106] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:106] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:106] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:106] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:106]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:106] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:106].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:106] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:106].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:106].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:106].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:106]."
       }
     },
     {
@@ -1499,7 +3513,26 @@
         "ur_maududi": "سورہ 12 آیت 107 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:107] en español.",
         "fr_hamidullah": "Traduction de [12:107] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 107 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 107 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:107] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:107] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:107] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:107] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:107］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:107] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:107] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:107] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:107] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:107]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:107] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:107].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:107] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:107].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:107].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:107].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:107]."
       }
     },
     {
@@ -1513,7 +3546,26 @@
         "ur_maududi": "سورہ 12 آیت 108 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:108] en español.",
         "fr_hamidullah": "Traduction de [12:108] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 108 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 108 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:108] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:108] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:108] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:108] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:108］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:108] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:108] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:108] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:108] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:108]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:108] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:108].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:108] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:108].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:108].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:108].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:108]."
       }
     },
     {
@@ -1527,7 +3579,26 @@
         "ur_maududi": "سورہ 12 آیت 109 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:109] en español.",
         "fr_hamidullah": "Traduction de [12:109] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 109 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 109 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:109] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:109] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:109] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:109] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:109］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:109] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:109] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:109] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:109] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:109]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:109] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:109].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:109] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:109].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:109].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:109].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:109]."
       }
     },
     {
@@ -1541,7 +3612,26 @@
         "ur_maududi": "سورہ 12 آیت 110 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:110] en español.",
         "fr_hamidullah": "Traduction de [12:110] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 110 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 110 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:110] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:110] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:110] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:110] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:110］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:110] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:110] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:110] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:110] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:110]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:110] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:110].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:110] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:110].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:110].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:110].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:110]."
       }
     },
     {
@@ -1555,7 +3645,26 @@
         "ur_maududi": "سورہ 12 آیت 111 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [12:111] en español.",
         "fr_hamidullah": "Traduction de [12:111] en français.",
-        "bn_hoque": "সূরা 12 আয়াত 111 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 12 আয়াত 111 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [12:111] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [12:111] на русский язык (Абу Адель).",
+        "tr_diyanet": "[12:111] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [12:111] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［12:111］ 马坚 译文",
+        "it_piccardo": "Traduzione di [12:111] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [12:111] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [12:111] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [12:111] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [12:111]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [12:111] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [12:111].",
+        "ar_jalalayn": "تفسير الجلالين للآية [12:111] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [12:111].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [12:111].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [12:111].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [12:111]."
       }
     }
   ],

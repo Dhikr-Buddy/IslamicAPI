@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T01:55:58.003Z",
+  "generatedAt": "2026-05-23T02:33:24.504Z",
   "surahNumber": 96,
   "ayahCount": 19,
   "ayahs": [
@@ -15,7 +15,26 @@
         "ur_maududi": "سورہ 96 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [96:1] en español.",
         "fr_hamidullah": "Traduction de [96:1] en français.",
-        "bn_hoque": "সূরা 96 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 96 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [96:1] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [96:1] на русский язык (Абу Адель).",
+        "tr_diyanet": "[96:1] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [96:1] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［96:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [96:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [96:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [96:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [96:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [96:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [96:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [96:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [96:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [96:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [96:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [96:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [96:1]."
       }
     },
     {
@@ -29,7 +48,26 @@
         "ur_maududi": "سورہ 96 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [96:2] en español.",
         "fr_hamidullah": "Traduction de [96:2] en français.",
-        "bn_hoque": "সূরা 96 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 96 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [96:2] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [96:2] на русский язык (Абу Адель).",
+        "tr_diyanet": "[96:2] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [96:2] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［96:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [96:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [96:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [96:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [96:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [96:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [96:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [96:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [96:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [96:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [96:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [96:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [96:2]."
       }
     },
     {
@@ -43,7 +81,26 @@
         "ur_maududi": "سورہ 96 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [96:3] en español.",
         "fr_hamidullah": "Traduction de [96:3] en français.",
-        "bn_hoque": "সূরা 96 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 96 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [96:3] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [96:3] на русский язык (Абу Адель).",
+        "tr_diyanet": "[96:3] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [96:3] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［96:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [96:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [96:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [96:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [96:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [96:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [96:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [96:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [96:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [96:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [96:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [96:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [96:3]."
       }
     },
     {
@@ -57,7 +114,26 @@
         "ur_maududi": "سورہ 96 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [96:4] en español.",
         "fr_hamidullah": "Traduction de [96:4] en français.",
-        "bn_hoque": "সূরা 96 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 96 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [96:4] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [96:4] на русский язык (Абу Адель).",
+        "tr_diyanet": "[96:4] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [96:4] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［96:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [96:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [96:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [96:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [96:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [96:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [96:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [96:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [96:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [96:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [96:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [96:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [96:4]."
       }
     },
     {
@@ -71,7 +147,26 @@
         "ur_maududi": "سورہ 96 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [96:5] en español.",
         "fr_hamidullah": "Traduction de [96:5] en français.",
-        "bn_hoque": "সূরা 96 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 96 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [96:5] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [96:5] на русский язык (Абу Адель).",
+        "tr_diyanet": "[96:5] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [96:5] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［96:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [96:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [96:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [96:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [96:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [96:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [96:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [96:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [96:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [96:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [96:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [96:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [96:5]."
       }
     },
     {
@@ -85,7 +180,26 @@
         "ur_maududi": "سورہ 96 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [96:6] en español.",
         "fr_hamidullah": "Traduction de [96:6] en français.",
-        "bn_hoque": "সূরা 96 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 96 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [96:6] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [96:6] на русский язык (Абу Адель).",
+        "tr_diyanet": "[96:6] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [96:6] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［96:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [96:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [96:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [96:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [96:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [96:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [96:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [96:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [96:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [96:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [96:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [96:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [96:6]."
       }
     },
     {
@@ -99,7 +213,26 @@
         "ur_maududi": "سورہ 96 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [96:7] en español.",
         "fr_hamidullah": "Traduction de [96:7] en français.",
-        "bn_hoque": "সূরা 96 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 96 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [96:7] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [96:7] на русский язык (Абу Адель).",
+        "tr_diyanet": "[96:7] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [96:7] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［96:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [96:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [96:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [96:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [96:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [96:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [96:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [96:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [96:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [96:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [96:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [96:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [96:7]."
       }
     },
     {
@@ -113,7 +246,26 @@
         "ur_maududi": "سورہ 96 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [96:8] en español.",
         "fr_hamidullah": "Traduction de [96:8] en français.",
-        "bn_hoque": "সূরা 96 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 96 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [96:8] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [96:8] на русский язык (Абу Адель).",
+        "tr_diyanet": "[96:8] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [96:8] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［96:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [96:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [96:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [96:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [96:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [96:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [96:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [96:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [96:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [96:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [96:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [96:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [96:8]."
       }
     },
     {
@@ -127,7 +279,26 @@
         "ur_maududi": "سورہ 96 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [96:9] en español.",
         "fr_hamidullah": "Traduction de [96:9] en français.",
-        "bn_hoque": "সূরা 96 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 96 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [96:9] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [96:9] на русский язык (Абу Адель).",
+        "tr_diyanet": "[96:9] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [96:9] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［96:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [96:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [96:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [96:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [96:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [96:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [96:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [96:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [96:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [96:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [96:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [96:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [96:9]."
       }
     },
     {
@@ -141,7 +312,26 @@
         "ur_maududi": "سورہ 96 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [96:10] en español.",
         "fr_hamidullah": "Traduction de [96:10] en français.",
-        "bn_hoque": "সূরা 96 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 96 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [96:10] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [96:10] на русский язык (Абу Адель).",
+        "tr_diyanet": "[96:10] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [96:10] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［96:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [96:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [96:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [96:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [96:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [96:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [96:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [96:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [96:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [96:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [96:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [96:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [96:10]."
       }
     },
     {
@@ -155,7 +345,26 @@
         "ur_maududi": "سورہ 96 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [96:11] en español.",
         "fr_hamidullah": "Traduction de [96:11] en français.",
-        "bn_hoque": "সূরা 96 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 96 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [96:11] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [96:11] на русский язык (Абу Адель).",
+        "tr_diyanet": "[96:11] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [96:11] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［96:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [96:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [96:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [96:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [96:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [96:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [96:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [96:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [96:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [96:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [96:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [96:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [96:11]."
       }
     },
     {
@@ -169,7 +378,26 @@
         "ur_maududi": "سورہ 96 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [96:12] en español.",
         "fr_hamidullah": "Traduction de [96:12] en français.",
-        "bn_hoque": "সূরা 96 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 96 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [96:12] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [96:12] на русский язык (Абу Адель).",
+        "tr_diyanet": "[96:12] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [96:12] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［96:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [96:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [96:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [96:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [96:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [96:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [96:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [96:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [96:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [96:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [96:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [96:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [96:12]."
       }
     },
     {
@@ -183,7 +411,26 @@
         "ur_maududi": "سورہ 96 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [96:13] en español.",
         "fr_hamidullah": "Traduction de [96:13] en français.",
-        "bn_hoque": "সূরা 96 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 96 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [96:13] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [96:13] на русский язык (Абу Адель).",
+        "tr_diyanet": "[96:13] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [96:13] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［96:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [96:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [96:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [96:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [96:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [96:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [96:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [96:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [96:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [96:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [96:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [96:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [96:13]."
       }
     },
     {
@@ -197,7 +444,26 @@
         "ur_maududi": "سورہ 96 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [96:14] en español.",
         "fr_hamidullah": "Traduction de [96:14] en français.",
-        "bn_hoque": "সূরা 96 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 96 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [96:14] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [96:14] на русский язык (Абу Адель).",
+        "tr_diyanet": "[96:14] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [96:14] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［96:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [96:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [96:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [96:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [96:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [96:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [96:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [96:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [96:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [96:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [96:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [96:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [96:14]."
       }
     },
     {
@@ -211,7 +477,26 @@
         "ur_maududi": "سورہ 96 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [96:15] en español.",
         "fr_hamidullah": "Traduction de [96:15] en français.",
-        "bn_hoque": "সূরা 96 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 96 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [96:15] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [96:15] на русский язык (Абу Адель).",
+        "tr_diyanet": "[96:15] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [96:15] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［96:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [96:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [96:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [96:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [96:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [96:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [96:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [96:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [96:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [96:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [96:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [96:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [96:15]."
       }
     },
     {
@@ -225,7 +510,26 @@
         "ur_maududi": "سورہ 96 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [96:16] en español.",
         "fr_hamidullah": "Traduction de [96:16] en français.",
-        "bn_hoque": "সূরা 96 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 96 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [96:16] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [96:16] на русский язык (Абу Адель).",
+        "tr_diyanet": "[96:16] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [96:16] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［96:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [96:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [96:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [96:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [96:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [96:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [96:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [96:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [96:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [96:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [96:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [96:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [96:16]."
       }
     },
     {
@@ -239,7 +543,26 @@
         "ur_maududi": "سورہ 96 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [96:17] en español.",
         "fr_hamidullah": "Traduction de [96:17] en français.",
-        "bn_hoque": "সূরা 96 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 96 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [96:17] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [96:17] на русский язык (Абу Адель).",
+        "tr_diyanet": "[96:17] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [96:17] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［96:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [96:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [96:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [96:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [96:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [96:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [96:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [96:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [96:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [96:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [96:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [96:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [96:17]."
       }
     },
     {
@@ -253,7 +576,26 @@
         "ur_maududi": "سورہ 96 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [96:18] en español.",
         "fr_hamidullah": "Traduction de [96:18] en français.",
-        "bn_hoque": "সূরা 96 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 96 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [96:18] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [96:18] на русский язык (Абу Адель).",
+        "tr_diyanet": "[96:18] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [96:18] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［96:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [96:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [96:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [96:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [96:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [96:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [96:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [96:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [96:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [96:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [96:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [96:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [96:18]."
       }
     },
     {
@@ -267,7 +609,26 @@
         "ur_maududi": "سورہ 96 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [96:19] en español.",
         "fr_hamidullah": "Traduction de [96:19] en français.",
-        "bn_hoque": "সূরা 96 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 96 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [96:19] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [96:19] на русский язык (Абу Адель).",
+        "tr_diyanet": "[96:19] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [96:19] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［96:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [96:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [96:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [96:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [96:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [96:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [96:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [96:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [96:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [96:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [96:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [96:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [96:19]."
       }
     }
   ],

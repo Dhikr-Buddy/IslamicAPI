@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T01:55:58.006Z",
+  "generatedAt": "2026-05-23T02:33:24.509Z",
   "surahNumber": 110,
   "ayahCount": 3,
   "ayahs": [
@@ -15,7 +15,26 @@
         "ur_maududi": "سورہ 110 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [110:1] en español.",
         "fr_hamidullah": "Traduction de [110:1] en français.",
-        "bn_hoque": "সূরা 110 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 110 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [110:1] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [110:1] на русский язык (Абу Адель).",
+        "tr_diyanet": "[110:1] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [110:1] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［110:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [110:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [110:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [110:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [110:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [110:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [110:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [110:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [110:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [110:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [110:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [110:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [110:1]."
       }
     },
     {
@@ -29,7 +48,26 @@
         "ur_maududi": "سورہ 110 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [110:2] en español.",
         "fr_hamidullah": "Traduction de [110:2] en français.",
-        "bn_hoque": "সূরা 110 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 110 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [110:2] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [110:2] на русский язык (Абу Адель).",
+        "tr_diyanet": "[110:2] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [110:2] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［110:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [110:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [110:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [110:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [110:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [110:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [110:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [110:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [110:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [110:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [110:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [110:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [110:2]."
       }
     },
     {
@@ -43,7 +81,26 @@
         "ur_maududi": "سورہ 110 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [110:3] en español.",
         "fr_hamidullah": "Traduction de [110:3] en français.",
-        "bn_hoque": "সূরা 110 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 110 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [110:3] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [110:3] на русский язык (Абу Адель).",
+        "tr_diyanet": "[110:3] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [110:3] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［110:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [110:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [110:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [110:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [110:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [110:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [110:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [110:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [110:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [110:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [110:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [110:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [110:3]."
       }
     }
   ],

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T01:55:57.983Z",
+  "generatedAt": "2026-05-23T02:33:24.475Z",
   "surahNumber": 32,
   "ayahCount": 30,
   "ayahs": [
@@ -15,7 +15,26 @@
         "ur_maududi": "سورہ 32 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [32:1] en español.",
         "fr_hamidullah": "Traduction de [32:1] en français.",
-        "bn_hoque": "সূরা 32 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 32 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [32:1] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [32:1] на русский язык (Абу Адель).",
+        "tr_diyanet": "[32:1] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [32:1] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［32:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [32:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [32:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [32:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [32:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [32:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [32:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [32:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [32:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [32:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [32:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [32:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [32:1]."
       }
     },
     {
@@ -29,7 +48,26 @@
         "ur_maududi": "سورہ 32 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [32:2] en español.",
         "fr_hamidullah": "Traduction de [32:2] en français.",
-        "bn_hoque": "সূরা 32 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 32 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [32:2] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [32:2] на русский язык (Абу Адель).",
+        "tr_diyanet": "[32:2] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [32:2] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［32:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [32:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [32:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [32:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [32:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [32:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [32:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [32:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [32:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [32:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [32:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [32:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [32:2]."
       }
     },
     {
@@ -43,7 +81,26 @@
         "ur_maududi": "سورہ 32 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [32:3] en español.",
         "fr_hamidullah": "Traduction de [32:3] en français.",
-        "bn_hoque": "সূরা 32 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 32 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [32:3] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [32:3] на русский язык (Абу Адель).",
+        "tr_diyanet": "[32:3] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [32:3] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［32:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [32:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [32:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [32:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [32:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [32:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [32:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [32:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [32:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [32:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [32:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [32:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [32:3]."
       }
     },
     {
@@ -57,7 +114,26 @@
         "ur_maududi": "سورہ 32 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [32:4] en español.",
         "fr_hamidullah": "Traduction de [32:4] en français.",
-        "bn_hoque": "সূরা 32 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 32 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [32:4] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [32:4] на русский язык (Абу Адель).",
+        "tr_diyanet": "[32:4] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [32:4] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［32:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [32:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [32:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [32:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [32:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [32:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [32:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [32:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [32:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [32:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [32:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [32:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [32:4]."
       }
     },
     {
@@ -71,7 +147,26 @@
         "ur_maududi": "سورہ 32 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [32:5] en español.",
         "fr_hamidullah": "Traduction de [32:5] en français.",
-        "bn_hoque": "সূরা 32 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 32 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [32:5] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [32:5] на русский язык (Абу Адель).",
+        "tr_diyanet": "[32:5] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [32:5] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［32:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [32:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [32:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [32:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [32:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [32:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [32:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [32:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [32:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [32:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [32:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [32:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [32:5]."
       }
     },
     {
@@ -85,7 +180,26 @@
         "ur_maududi": "سورہ 32 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [32:6] en español.",
         "fr_hamidullah": "Traduction de [32:6] en français.",
-        "bn_hoque": "সূরা 32 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 32 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [32:6] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [32:6] на русский язык (Абу Адель).",
+        "tr_diyanet": "[32:6] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [32:6] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［32:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [32:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [32:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [32:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [32:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [32:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [32:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [32:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [32:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [32:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [32:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [32:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [32:6]."
       }
     },
     {
@@ -99,7 +213,26 @@
         "ur_maududi": "سورہ 32 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [32:7] en español.",
         "fr_hamidullah": "Traduction de [32:7] en français.",
-        "bn_hoque": "সূরা 32 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 32 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [32:7] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [32:7] на русский язык (Абу Адель).",
+        "tr_diyanet": "[32:7] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [32:7] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［32:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [32:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [32:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [32:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [32:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [32:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [32:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [32:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [32:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [32:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [32:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [32:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [32:7]."
       }
     },
     {
@@ -113,7 +246,26 @@
         "ur_maududi": "سورہ 32 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [32:8] en español.",
         "fr_hamidullah": "Traduction de [32:8] en français.",
-        "bn_hoque": "সূরা 32 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 32 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [32:8] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [32:8] на русский язык (Абу Адель).",
+        "tr_diyanet": "[32:8] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [32:8] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［32:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [32:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [32:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [32:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [32:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [32:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [32:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [32:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [32:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [32:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [32:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [32:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [32:8]."
       }
     },
     {
@@ -127,7 +279,26 @@
         "ur_maududi": "سورہ 32 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [32:9] en español.",
         "fr_hamidullah": "Traduction de [32:9] en français.",
-        "bn_hoque": "সূরা 32 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 32 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [32:9] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [32:9] на русский язык (Абу Адель).",
+        "tr_diyanet": "[32:9] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [32:9] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［32:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [32:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [32:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [32:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [32:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [32:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [32:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [32:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [32:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [32:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [32:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [32:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [32:9]."
       }
     },
     {
@@ -141,7 +312,26 @@
         "ur_maududi": "سورہ 32 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [32:10] en español.",
         "fr_hamidullah": "Traduction de [32:10] en français.",
-        "bn_hoque": "সূরা 32 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 32 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [32:10] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [32:10] на русский язык (Абу Адель).",
+        "tr_diyanet": "[32:10] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [32:10] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［32:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [32:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [32:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [32:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [32:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [32:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [32:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [32:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [32:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [32:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [32:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [32:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [32:10]."
       }
     },
     {
@@ -155,7 +345,26 @@
         "ur_maududi": "سورہ 32 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [32:11] en español.",
         "fr_hamidullah": "Traduction de [32:11] en français.",
-        "bn_hoque": "সূরা 32 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 32 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [32:11] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [32:11] на русский язык (Абу Адель).",
+        "tr_diyanet": "[32:11] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [32:11] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［32:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [32:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [32:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [32:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [32:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [32:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [32:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [32:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [32:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [32:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [32:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [32:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [32:11]."
       }
     },
     {
@@ -169,7 +378,26 @@
         "ur_maududi": "سورہ 32 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [32:12] en español.",
         "fr_hamidullah": "Traduction de [32:12] en français.",
-        "bn_hoque": "সূরা 32 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 32 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [32:12] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [32:12] на русский язык (Абу Адель).",
+        "tr_diyanet": "[32:12] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [32:12] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［32:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [32:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [32:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [32:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [32:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [32:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [32:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [32:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [32:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [32:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [32:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [32:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [32:12]."
       }
     },
     {
@@ -183,7 +411,26 @@
         "ur_maududi": "سورہ 32 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [32:13] en español.",
         "fr_hamidullah": "Traduction de [32:13] en français.",
-        "bn_hoque": "সূরা 32 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 32 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [32:13] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [32:13] на русский язык (Абу Адель).",
+        "tr_diyanet": "[32:13] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [32:13] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［32:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [32:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [32:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [32:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [32:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [32:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [32:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [32:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [32:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [32:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [32:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [32:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [32:13]."
       }
     },
     {
@@ -197,7 +444,26 @@
         "ur_maududi": "سورہ 32 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [32:14] en español.",
         "fr_hamidullah": "Traduction de [32:14] en français.",
-        "bn_hoque": "সূরা 32 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 32 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [32:14] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [32:14] на русский язык (Абу Адель).",
+        "tr_diyanet": "[32:14] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [32:14] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［32:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [32:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [32:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [32:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [32:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [32:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [32:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [32:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [32:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [32:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [32:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [32:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [32:14]."
       }
     },
     {
@@ -211,7 +477,26 @@
         "ur_maududi": "سورہ 32 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [32:15] en español.",
         "fr_hamidullah": "Traduction de [32:15] en français.",
-        "bn_hoque": "সূরা 32 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 32 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [32:15] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [32:15] на русский язык (Абу Адель).",
+        "tr_diyanet": "[32:15] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [32:15] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［32:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [32:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [32:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [32:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [32:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [32:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [32:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [32:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [32:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [32:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [32:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [32:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [32:15]."
       }
     },
     {
@@ -225,7 +510,26 @@
         "ur_maududi": "سورہ 32 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [32:16] en español.",
         "fr_hamidullah": "Traduction de [32:16] en français.",
-        "bn_hoque": "সূরা 32 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 32 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [32:16] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [32:16] на русский язык (Абу Адель).",
+        "tr_diyanet": "[32:16] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [32:16] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［32:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [32:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [32:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [32:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [32:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [32:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [32:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [32:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [32:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [32:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [32:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [32:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [32:16]."
       }
     },
     {
@@ -239,7 +543,26 @@
         "ur_maududi": "سورہ 32 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [32:17] en español.",
         "fr_hamidullah": "Traduction de [32:17] en français.",
-        "bn_hoque": "সূরা 32 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 32 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [32:17] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [32:17] на русский язык (Абу Адель).",
+        "tr_diyanet": "[32:17] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [32:17] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［32:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [32:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [32:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [32:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [32:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [32:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [32:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [32:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [32:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [32:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [32:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [32:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [32:17]."
       }
     },
     {
@@ -253,7 +576,26 @@
         "ur_maududi": "سورہ 32 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [32:18] en español.",
         "fr_hamidullah": "Traduction de [32:18] en français.",
-        "bn_hoque": "সূরা 32 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 32 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [32:18] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [32:18] на русский язык (Абу Адель).",
+        "tr_diyanet": "[32:18] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [32:18] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［32:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [32:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [32:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [32:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [32:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [32:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [32:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [32:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [32:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [32:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [32:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [32:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [32:18]."
       }
     },
     {
@@ -267,7 +609,26 @@
         "ur_maududi": "سورہ 32 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [32:19] en español.",
         "fr_hamidullah": "Traduction de [32:19] en français.",
-        "bn_hoque": "সূরা 32 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 32 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [32:19] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [32:19] на русский язык (Абу Адель).",
+        "tr_diyanet": "[32:19] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [32:19] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［32:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [32:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [32:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [32:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [32:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [32:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [32:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [32:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [32:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [32:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [32:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [32:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [32:19]."
       }
     },
     {
@@ -281,7 +642,26 @@
         "ur_maududi": "سورہ 32 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [32:20] en español.",
         "fr_hamidullah": "Traduction de [32:20] en français.",
-        "bn_hoque": "সূরা 32 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 32 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [32:20] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [32:20] на русский язык (Абу Адель).",
+        "tr_diyanet": "[32:20] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [32:20] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［32:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [32:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [32:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [32:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [32:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [32:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [32:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [32:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [32:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [32:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [32:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [32:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [32:20]."
       }
     },
     {
@@ -295,7 +675,26 @@
         "ur_maududi": "سورہ 32 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [32:21] en español.",
         "fr_hamidullah": "Traduction de [32:21] en français.",
-        "bn_hoque": "সূরা 32 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 32 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [32:21] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [32:21] на русский язык (Абу Адель).",
+        "tr_diyanet": "[32:21] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [32:21] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［32:21］ 马坚 译文",
+        "it_piccardo": "Traduzione di [32:21] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [32:21] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [32:21] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [32:21] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [32:21]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [32:21] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [32:21].",
+        "ar_jalalayn": "تفسير الجلالين للآية [32:21] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [32:21].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [32:21].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [32:21].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [32:21]."
       }
     },
     {
@@ -309,7 +708,26 @@
         "ur_maududi": "سورہ 32 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [32:22] en español.",
         "fr_hamidullah": "Traduction de [32:22] en français.",
-        "bn_hoque": "সূরা 32 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 32 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [32:22] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [32:22] на русский язык (Абу Адель).",
+        "tr_diyanet": "[32:22] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [32:22] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［32:22］ 马坚 译文",
+        "it_piccardo": "Traduzione di [32:22] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [32:22] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [32:22] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [32:22] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [32:22]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [32:22] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [32:22].",
+        "ar_jalalayn": "تفسير الجلالين للآية [32:22] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [32:22].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [32:22].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [32:22].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [32:22]."
       }
     },
     {
@@ -323,7 +741,26 @@
         "ur_maududi": "سورہ 32 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [32:23] en español.",
         "fr_hamidullah": "Traduction de [32:23] en français.",
-        "bn_hoque": "সূরা 32 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 32 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [32:23] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [32:23] на русский язык (Абу Адель).",
+        "tr_diyanet": "[32:23] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [32:23] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［32:23］ 马坚 译文",
+        "it_piccardo": "Traduzione di [32:23] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [32:23] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [32:23] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [32:23] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [32:23]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [32:23] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [32:23].",
+        "ar_jalalayn": "تفسير الجلالين للآية [32:23] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [32:23].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [32:23].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [32:23].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [32:23]."
       }
     },
     {
@@ -337,7 +774,26 @@
         "ur_maududi": "سورہ 32 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [32:24] en español.",
         "fr_hamidullah": "Traduction de [32:24] en français.",
-        "bn_hoque": "সূরা 32 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 32 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [32:24] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [32:24] на русский язык (Абу Адель).",
+        "tr_diyanet": "[32:24] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [32:24] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［32:24］ 马坚 译文",
+        "it_piccardo": "Traduzione di [32:24] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [32:24] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [32:24] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [32:24] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [32:24]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [32:24] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [32:24].",
+        "ar_jalalayn": "تفسير الجلالين للآية [32:24] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [32:24].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [32:24].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [32:24].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [32:24]."
       }
     },
     {
@@ -351,7 +807,26 @@
         "ur_maududi": "سورہ 32 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [32:25] en español.",
         "fr_hamidullah": "Traduction de [32:25] en français.",
-        "bn_hoque": "সূরা 32 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 32 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [32:25] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [32:25] на русский язык (Абу Адель).",
+        "tr_diyanet": "[32:25] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [32:25] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［32:25］ 马坚 译文",
+        "it_piccardo": "Traduzione di [32:25] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [32:25] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [32:25] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [32:25] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [32:25]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [32:25] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [32:25].",
+        "ar_jalalayn": "تفسير الجلالين للآية [32:25] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [32:25].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [32:25].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [32:25].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [32:25]."
       }
     },
     {
@@ -365,7 +840,26 @@
         "ur_maududi": "سورہ 32 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [32:26] en español.",
         "fr_hamidullah": "Traduction de [32:26] en français.",
-        "bn_hoque": "সূরা 32 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 32 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [32:26] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [32:26] на русский язык (Абу Адель).",
+        "tr_diyanet": "[32:26] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [32:26] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［32:26］ 马坚 译文",
+        "it_piccardo": "Traduzione di [32:26] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [32:26] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [32:26] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [32:26] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [32:26]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [32:26] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [32:26].",
+        "ar_jalalayn": "تفسير الجلالين للآية [32:26] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [32:26].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [32:26].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [32:26].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [32:26]."
       }
     },
     {
@@ -379,7 +873,26 @@
         "ur_maududi": "سورہ 32 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [32:27] en español.",
         "fr_hamidullah": "Traduction de [32:27] en français.",
-        "bn_hoque": "সূরা 32 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 32 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [32:27] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [32:27] на русский язык (Абу Адель).",
+        "tr_diyanet": "[32:27] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [32:27] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［32:27］ 马坚 译文",
+        "it_piccardo": "Traduzione di [32:27] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [32:27] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [32:27] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [32:27] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [32:27]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [32:27] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [32:27].",
+        "ar_jalalayn": "تفسير الجلالين للآية [32:27] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [32:27].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [32:27].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [32:27].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [32:27]."
       }
     },
     {
@@ -393,7 +906,26 @@
         "ur_maududi": "سورہ 32 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [32:28] en español.",
         "fr_hamidullah": "Traduction de [32:28] en français.",
-        "bn_hoque": "সূরা 32 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 32 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [32:28] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [32:28] на русский язык (Абу Адель).",
+        "tr_diyanet": "[32:28] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [32:28] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［32:28］ 马坚 译文",
+        "it_piccardo": "Traduzione di [32:28] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [32:28] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [32:28] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [32:28] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [32:28]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [32:28] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [32:28].",
+        "ar_jalalayn": "تفسير الجلالين للآية [32:28] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [32:28].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [32:28].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [32:28].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [32:28]."
       }
     },
     {
@@ -407,7 +939,26 @@
         "ur_maududi": "سورہ 32 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [32:29] en español.",
         "fr_hamidullah": "Traduction de [32:29] en français.",
-        "bn_hoque": "সূরা 32 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 32 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [32:29] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [32:29] на русский язык (Абу Адель).",
+        "tr_diyanet": "[32:29] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [32:29] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［32:29］ 马坚 译文",
+        "it_piccardo": "Traduzione di [32:29] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [32:29] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [32:29] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [32:29] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [32:29]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [32:29] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [32:29].",
+        "ar_jalalayn": "تفسير الجلالين للآية [32:29] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [32:29].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [32:29].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [32:29].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [32:29]."
       }
     },
     {
@@ -421,7 +972,26 @@
         "ur_maududi": "سورہ 32 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [32:30] en español.",
         "fr_hamidullah": "Traduction de [32:30] en français.",
-        "bn_hoque": "সূরা 32 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 32 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [32:30] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [32:30] на русский язык (Абу Адель).",
+        "tr_diyanet": "[32:30] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [32:30] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［32:30］ 马坚 译文",
+        "it_piccardo": "Traduzione di [32:30] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [32:30] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [32:30] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [32:30] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [32:30]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [32:30] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [32:30].",
+        "ar_jalalayn": "تفسير الجلالين للآية [32:30] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [32:30].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [32:30].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [32:30].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [32:30]."
       }
     }
   ],

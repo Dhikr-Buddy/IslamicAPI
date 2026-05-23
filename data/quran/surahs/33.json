@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T01:55:57.984Z",
+  "generatedAt": "2026-05-23T02:33:24.475Z",
   "surahNumber": 33,
   "ayahCount": 73,
   "ayahs": [
@@ -15,7 +15,26 @@
         "ur_maududi": "سورہ 33 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:1] en español.",
         "fr_hamidullah": "Traduction de [33:1] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:1] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:1] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:1] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:1] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:1]."
       }
     },
     {
@@ -29,7 +48,26 @@
         "ur_maududi": "سورہ 33 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:2] en español.",
         "fr_hamidullah": "Traduction de [33:2] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:2] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:2] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:2] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:2] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:2]."
       }
     },
     {
@@ -43,7 +81,26 @@
         "ur_maududi": "سورہ 33 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:3] en español.",
         "fr_hamidullah": "Traduction de [33:3] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:3] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:3] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:3] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:3] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:3]."
       }
     },
     {
@@ -57,7 +114,26 @@
         "ur_maududi": "سورہ 33 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:4] en español.",
         "fr_hamidullah": "Traduction de [33:4] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:4] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:4] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:4] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:4] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:4]."
       }
     },
     {
@@ -71,7 +147,26 @@
         "ur_maududi": "سورہ 33 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:5] en español.",
         "fr_hamidullah": "Traduction de [33:5] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:5] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:5] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:5] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:5] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:5]."
       }
     },
     {
@@ -85,7 +180,26 @@
         "ur_maududi": "سورہ 33 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:6] en español.",
         "fr_hamidullah": "Traduction de [33:6] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:6] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:6] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:6] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:6] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:6]."
       }
     },
     {
@@ -99,7 +213,26 @@
         "ur_maududi": "سورہ 33 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:7] en español.",
         "fr_hamidullah": "Traduction de [33:7] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:7] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:7] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:7] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:7] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:7]."
       }
     },
     {
@@ -113,7 +246,26 @@
         "ur_maududi": "سورہ 33 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:8] en español.",
         "fr_hamidullah": "Traduction de [33:8] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:8] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:8] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:8] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:8] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:8]."
       }
     },
     {
@@ -127,7 +279,26 @@
         "ur_maududi": "سورہ 33 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:9] en español.",
         "fr_hamidullah": "Traduction de [33:9] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:9] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:9] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:9] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:9] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:9]."
       }
     },
     {
@@ -141,7 +312,26 @@
         "ur_maududi": "سورہ 33 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:10] en español.",
         "fr_hamidullah": "Traduction de [33:10] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:10] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:10] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:10] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:10] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:10]."
       }
     },
     {
@@ -155,7 +345,26 @@
         "ur_maududi": "سورہ 33 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:11] en español.",
         "fr_hamidullah": "Traduction de [33:11] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:11] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:11] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:11] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:11] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:11]."
       }
     },
     {
@@ -169,7 +378,26 @@
         "ur_maududi": "سورہ 33 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:12] en español.",
         "fr_hamidullah": "Traduction de [33:12] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:12] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:12] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:12] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:12] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:12]."
       }
     },
     {
@@ -183,7 +411,26 @@
         "ur_maududi": "سورہ 33 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:13] en español.",
         "fr_hamidullah": "Traduction de [33:13] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:13] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:13] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:13] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:13] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:13]."
       }
     },
     {
@@ -197,7 +444,26 @@
         "ur_maududi": "سورہ 33 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:14] en español.",
         "fr_hamidullah": "Traduction de [33:14] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:14] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:14] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:14] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:14] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:14]."
       }
     },
     {
@@ -211,7 +477,26 @@
         "ur_maududi": "سورہ 33 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:15] en español.",
         "fr_hamidullah": "Traduction de [33:15] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:15] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:15] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:15] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:15] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:15]."
       }
     },
     {
@@ -225,7 +510,26 @@
         "ur_maududi": "سورہ 33 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:16] en español.",
         "fr_hamidullah": "Traduction de [33:16] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:16] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:16] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:16] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:16] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:16]."
       }
     },
     {
@@ -239,7 +543,26 @@
         "ur_maududi": "سورہ 33 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:17] en español.",
         "fr_hamidullah": "Traduction de [33:17] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:17] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:17] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:17] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:17] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:17]."
       }
     },
     {
@@ -253,7 +576,26 @@
         "ur_maududi": "سورہ 33 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:18] en español.",
         "fr_hamidullah": "Traduction de [33:18] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:18] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:18] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:18] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:18] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:18]."
       }
     },
     {
@@ -267,7 +609,26 @@
         "ur_maududi": "سورہ 33 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:19] en español.",
         "fr_hamidullah": "Traduction de [33:19] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:19] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:19] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:19] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:19] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:19]."
       }
     },
     {
@@ -281,7 +642,26 @@
         "ur_maududi": "سورہ 33 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:20] en español.",
         "fr_hamidullah": "Traduction de [33:20] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:20] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:20] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:20] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:20] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:20]."
       }
     },
     {
@@ -295,7 +675,26 @@
         "ur_maududi": "سورہ 33 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:21] en español.",
         "fr_hamidullah": "Traduction de [33:21] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:21] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:21] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:21] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:21] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:21］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:21] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:21] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:21] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:21] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:21]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:21] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:21].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:21] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:21].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:21].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:21].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:21]."
       }
     },
     {
@@ -309,7 +708,26 @@
         "ur_maududi": "سورہ 33 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:22] en español.",
         "fr_hamidullah": "Traduction de [33:22] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:22] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:22] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:22] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:22] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:22］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:22] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:22] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:22] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:22] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:22]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:22] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:22].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:22] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:22].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:22].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:22].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:22]."
       }
     },
     {
@@ -323,7 +741,26 @@
         "ur_maududi": "سورہ 33 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:23] en español.",
         "fr_hamidullah": "Traduction de [33:23] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:23] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:23] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:23] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:23] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:23］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:23] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:23] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:23] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:23] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:23]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:23] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:23].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:23] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:23].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:23].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:23].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:23]."
       }
     },
     {
@@ -337,7 +774,26 @@
         "ur_maududi": "سورہ 33 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:24] en español.",
         "fr_hamidullah": "Traduction de [33:24] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:24] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:24] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:24] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:24] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:24］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:24] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:24] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:24] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:24] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:24]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:24] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:24].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:24] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:24].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:24].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:24].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:24]."
       }
     },
     {
@@ -351,7 +807,26 @@
         "ur_maududi": "سورہ 33 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:25] en español.",
         "fr_hamidullah": "Traduction de [33:25] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:25] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:25] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:25] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:25] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:25］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:25] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:25] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:25] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:25] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:25]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:25] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:25].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:25] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:25].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:25].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:25].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:25]."
       }
     },
     {
@@ -365,7 +840,26 @@
         "ur_maududi": "سورہ 33 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:26] en español.",
         "fr_hamidullah": "Traduction de [33:26] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:26] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:26] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:26] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:26] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:26］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:26] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:26] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:26] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:26] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:26]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:26] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:26].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:26] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:26].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:26].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:26].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:26]."
       }
     },
     {
@@ -379,7 +873,26 @@
         "ur_maududi": "سورہ 33 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:27] en español.",
         "fr_hamidullah": "Traduction de [33:27] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:27] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:27] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:27] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:27] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:27］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:27] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:27] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:27] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:27] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:27]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:27] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:27].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:27] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:27].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:27].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:27].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:27]."
       }
     },
     {
@@ -393,7 +906,26 @@
         "ur_maududi": "سورہ 33 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:28] en español.",
         "fr_hamidullah": "Traduction de [33:28] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:28] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:28] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:28] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:28] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:28］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:28] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:28] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:28] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:28] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:28]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:28] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:28].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:28] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:28].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:28].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:28].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:28]."
       }
     },
     {
@@ -407,7 +939,26 @@
         "ur_maududi": "سورہ 33 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:29] en español.",
         "fr_hamidullah": "Traduction de [33:29] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:29] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:29] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:29] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:29] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:29］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:29] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:29] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:29] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:29] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:29]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:29] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:29].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:29] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:29].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:29].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:29].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:29]."
       }
     },
     {
@@ -421,7 +972,26 @@
         "ur_maududi": "سورہ 33 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:30] en español.",
         "fr_hamidullah": "Traduction de [33:30] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:30] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:30] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:30] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:30] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:30］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:30] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:30] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:30] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:30] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:30]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:30] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:30].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:30] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:30].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:30].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:30].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:30]."
       }
     },
     {
@@ -435,7 +1005,26 @@
         "ur_maududi": "سورہ 33 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:31] en español.",
         "fr_hamidullah": "Traduction de [33:31] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:31] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:31] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:31] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:31] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:31］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:31] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:31] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:31] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:31] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:31]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:31] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:31].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:31] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:31].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:31].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:31].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:31]."
       }
     },
     {
@@ -449,7 +1038,26 @@
         "ur_maududi": "سورہ 33 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:32] en español.",
         "fr_hamidullah": "Traduction de [33:32] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:32] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:32] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:32] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:32] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:32］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:32] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:32] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:32] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:32] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:32]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:32] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:32].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:32] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:32].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:32].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:32].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:32]."
       }
     },
     {
@@ -463,7 +1071,26 @@
         "ur_maududi": "سورہ 33 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:33] en español.",
         "fr_hamidullah": "Traduction de [33:33] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:33] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:33] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:33] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:33] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:33］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:33] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:33] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:33] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:33] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:33]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:33] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:33].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:33] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:33].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:33].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:33].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:33]."
       }
     },
     {
@@ -477,7 +1104,26 @@
         "ur_maududi": "سورہ 33 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:34] en español.",
         "fr_hamidullah": "Traduction de [33:34] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:34] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:34] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:34] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:34] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:34］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:34] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:34] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:34] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:34] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:34]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:34] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:34].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:34] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:34].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:34].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:34].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:34]."
       }
     },
     {
@@ -491,7 +1137,26 @@
         "ur_maududi": "سورہ 33 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:35] en español.",
         "fr_hamidullah": "Traduction de [33:35] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:35] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:35] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:35] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:35] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:35］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:35] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:35] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:35] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:35] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:35]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:35] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:35].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:35] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:35].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:35].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:35].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:35]."
       }
     },
     {
@@ -505,7 +1170,26 @@
         "ur_maududi": "سورہ 33 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:36] en español.",
         "fr_hamidullah": "Traduction de [33:36] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:36] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:36] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:36] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:36] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:36］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:36] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:36] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:36] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:36] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:36]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:36] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:36].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:36] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:36].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:36].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:36].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:36]."
       }
     },
     {
@@ -519,7 +1203,26 @@
         "ur_maududi": "سورہ 33 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:37] en español.",
         "fr_hamidullah": "Traduction de [33:37] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:37] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:37] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:37] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:37] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:37］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:37] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:37] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:37] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:37] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:37]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:37] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:37].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:37] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:37].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:37].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:37].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:37]."
       }
     },
     {
@@ -533,7 +1236,26 @@
         "ur_maududi": "سورہ 33 آیت 38 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:38] en español.",
         "fr_hamidullah": "Traduction de [33:38] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:38] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:38] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:38] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:38] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:38］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:38] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:38] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:38] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:38] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:38]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:38] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:38].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:38] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:38].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:38].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:38].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:38]."
       }
     },
     {
@@ -547,7 +1269,26 @@
         "ur_maududi": "سورہ 33 آیت 39 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:39] en español.",
         "fr_hamidullah": "Traduction de [33:39] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:39] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:39] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:39] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:39] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:39］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:39] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:39] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:39] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:39] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:39]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:39] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:39].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:39] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:39].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:39].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:39].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:39]."
       }
     },
     {
@@ -561,7 +1302,26 @@
         "ur_maududi": "سورہ 33 آیت 40 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:40] en español.",
         "fr_hamidullah": "Traduction de [33:40] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:40] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:40] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:40] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:40] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:40］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:40] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:40] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:40] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:40] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:40]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:40] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:40].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:40] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:40].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:40].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:40].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:40]."
       }
     },
     {
@@ -575,7 +1335,26 @@
         "ur_maududi": "سورہ 33 آیت 41 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:41] en español.",
         "fr_hamidullah": "Traduction de [33:41] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:41] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:41] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:41] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:41] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:41］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:41] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:41] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:41] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:41] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:41]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:41] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:41].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:41] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:41].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:41].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:41].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:41]."
       }
     },
     {
@@ -589,7 +1368,26 @@
         "ur_maududi": "سورہ 33 آیت 42 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:42] en español.",
         "fr_hamidullah": "Traduction de [33:42] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:42] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:42] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:42] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:42] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:42］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:42] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:42] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:42] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:42] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:42]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:42] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:42].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:42] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:42].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:42].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:42].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:42]."
       }
     },
     {
@@ -603,7 +1401,26 @@
         "ur_maududi": "سورہ 33 آیت 43 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:43] en español.",
         "fr_hamidullah": "Traduction de [33:43] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:43] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:43] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:43] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:43] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:43］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:43] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:43] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:43] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:43] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:43]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:43] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:43].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:43] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:43].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:43].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:43].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:43]."
       }
     },
     {
@@ -617,7 +1434,26 @@
         "ur_maududi": "سورہ 33 آیت 44 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:44] en español.",
         "fr_hamidullah": "Traduction de [33:44] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:44] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:44] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:44] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:44] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:44］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:44] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:44] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:44] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:44] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:44]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:44] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:44].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:44] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:44].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:44].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:44].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:44]."
       }
     },
     {
@@ -631,7 +1467,26 @@
         "ur_maududi": "سورہ 33 آیت 45 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:45] en español.",
         "fr_hamidullah": "Traduction de [33:45] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:45] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:45] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:45] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:45] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:45］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:45] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:45] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:45] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:45] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:45]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:45] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:45].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:45] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:45].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:45].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:45].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:45]."
       }
     },
     {
@@ -645,7 +1500,26 @@
         "ur_maududi": "سورہ 33 آیت 46 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:46] en español.",
         "fr_hamidullah": "Traduction de [33:46] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:46] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:46] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:46] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:46] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:46］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:46] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:46] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:46] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:46] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:46]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:46] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:46].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:46] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:46].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:46].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:46].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:46]."
       }
     },
     {
@@ -659,7 +1533,26 @@
         "ur_maududi": "سورہ 33 آیت 47 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:47] en español.",
         "fr_hamidullah": "Traduction de [33:47] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:47] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:47] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:47] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:47] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:47］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:47] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:47] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:47] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:47] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:47]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:47] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:47].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:47] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:47].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:47].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:47].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:47]."
       }
     },
     {
@@ -673,7 +1566,26 @@
         "ur_maududi": "سورہ 33 آیت 48 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:48] en español.",
         "fr_hamidullah": "Traduction de [33:48] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:48] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:48] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:48] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:48] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:48］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:48] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:48] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:48] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:48] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:48]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:48] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:48].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:48] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:48].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:48].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:48].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:48]."
       }
     },
     {
@@ -687,7 +1599,26 @@
         "ur_maududi": "سورہ 33 آیت 49 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:49] en español.",
         "fr_hamidullah": "Traduction de [33:49] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:49] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:49] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:49] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:49] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:49］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:49] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:49] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:49] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:49] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:49]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:49] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:49].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:49] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:49].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:49].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:49].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:49]."
       }
     },
     {
@@ -701,7 +1632,26 @@
         "ur_maududi": "سورہ 33 آیت 50 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:50] en español.",
         "fr_hamidullah": "Traduction de [33:50] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:50] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:50] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:50] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:50] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:50］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:50] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:50] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:50] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:50] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:50]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:50] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:50].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:50] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:50].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:50].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:50].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:50]."
       }
     },
     {
@@ -715,7 +1665,26 @@
         "ur_maududi": "سورہ 33 آیت 51 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:51] en español.",
         "fr_hamidullah": "Traduction de [33:51] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:51] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:51] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:51] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:51] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:51］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:51] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:51] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:51] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:51] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:51]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:51] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:51].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:51] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:51].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:51].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:51].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:51]."
       }
     },
     {
@@ -729,7 +1698,26 @@
         "ur_maududi": "سورہ 33 آیت 52 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:52] en español.",
         "fr_hamidullah": "Traduction de [33:52] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:52] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:52] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:52] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:52] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:52］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:52] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:52] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:52] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:52] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:52]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:52] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:52].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:52] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:52].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:52].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:52].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:52]."
       }
     },
     {
@@ -743,7 +1731,26 @@
         "ur_maududi": "سورہ 33 آیت 53 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:53] en español.",
         "fr_hamidullah": "Traduction de [33:53] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 53 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 53 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:53] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:53] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:53] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:53] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:53］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:53] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:53] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:53] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:53] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:53]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:53] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:53].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:53] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:53].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:53].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:53].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:53]."
       }
     },
     {
@@ -757,7 +1764,26 @@
         "ur_maududi": "سورہ 33 آیت 54 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:54] en español.",
         "fr_hamidullah": "Traduction de [33:54] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 54 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 54 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:54] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:54] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:54] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:54] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:54］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:54] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:54] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:54] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:54] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:54]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:54] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:54].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:54] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:54].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:54].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:54].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:54]."
       }
     },
     {
@@ -771,7 +1797,26 @@
         "ur_maududi": "سورہ 33 آیت 55 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:55] en español.",
         "fr_hamidullah": "Traduction de [33:55] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 55 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 55 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:55] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:55] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:55] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:55] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:55］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:55] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:55] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:55] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:55] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:55]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:55] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:55].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:55] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:55].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:55].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:55].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:55]."
       }
     },
     {
@@ -785,7 +1830,26 @@
         "ur_maududi": "سورہ 33 آیت 56 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:56] en español.",
         "fr_hamidullah": "Traduction de [33:56] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 56 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 56 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:56] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:56] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:56] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:56] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:56］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:56] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:56] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:56] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:56] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:56]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:56] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:56].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:56] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:56].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:56].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:56].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:56]."
       }
     },
     {
@@ -799,7 +1863,26 @@
         "ur_maududi": "سورہ 33 آیت 57 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:57] en español.",
         "fr_hamidullah": "Traduction de [33:57] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 57 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 57 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:57] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:57] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:57] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:57] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:57］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:57] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:57] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:57] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:57] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:57]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:57] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:57].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:57] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:57].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:57].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:57].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:57]."
       }
     },
     {
@@ -813,7 +1896,26 @@
         "ur_maududi": "سورہ 33 آیت 58 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:58] en español.",
         "fr_hamidullah": "Traduction de [33:58] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 58 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 58 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:58] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:58] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:58] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:58] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:58］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:58] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:58] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:58] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:58] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:58]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:58] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:58].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:58] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:58].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:58].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:58].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:58]."
       }
     },
     {
@@ -827,7 +1929,26 @@
         "ur_maududi": "سورہ 33 آیت 59 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:59] en español.",
         "fr_hamidullah": "Traduction de [33:59] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 59 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 59 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:59] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:59] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:59] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:59] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:59］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:59] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:59] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:59] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:59] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:59]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:59] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:59].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:59] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:59].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:59].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:59].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:59]."
       }
     },
     {
@@ -841,7 +1962,26 @@
         "ur_maududi": "سورہ 33 آیت 60 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:60] en español.",
         "fr_hamidullah": "Traduction de [33:60] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 60 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 60 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:60] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:60] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:60] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:60] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:60］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:60] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:60] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:60] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:60] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:60]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:60] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:60].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:60] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:60].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:60].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:60].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:60]."
       }
     },
     {
@@ -855,7 +1995,26 @@
         "ur_maududi": "سورہ 33 آیت 61 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:61] en español.",
         "fr_hamidullah": "Traduction de [33:61] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 61 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 61 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:61] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:61] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:61] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:61] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:61］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:61] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:61] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:61] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:61] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:61]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:61] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:61].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:61] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:61].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:61].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:61].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:61]."
       }
     },
     {
@@ -869,7 +2028,26 @@
         "ur_maududi": "سورہ 33 آیت 62 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:62] en español.",
         "fr_hamidullah": "Traduction de [33:62] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 62 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 62 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:62] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:62] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:62] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:62] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:62］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:62] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:62] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:62] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:62] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:62]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:62] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:62].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:62] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:62].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:62].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:62].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:62]."
       }
     },
     {
@@ -883,7 +2061,26 @@
         "ur_maududi": "سورہ 33 آیت 63 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:63] en español.",
         "fr_hamidullah": "Traduction de [33:63] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 63 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 63 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:63] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:63] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:63] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:63] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:63］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:63] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:63] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:63] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:63] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:63]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:63] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:63].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:63] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:63].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:63].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:63].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:63]."
       }
     },
     {
@@ -897,7 +2094,26 @@
         "ur_maududi": "سورہ 33 آیت 64 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:64] en español.",
         "fr_hamidullah": "Traduction de [33:64] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 64 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 64 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:64] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:64] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:64] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:64] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:64］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:64] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:64] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:64] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:64] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:64]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:64] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:64].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:64] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:64].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:64].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:64].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:64]."
       }
     },
     {
@@ -911,7 +2127,26 @@
         "ur_maududi": "سورہ 33 آیت 65 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:65] en español.",
         "fr_hamidullah": "Traduction de [33:65] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 65 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 65 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:65] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:65] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:65] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:65] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:65］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:65] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:65] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:65] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:65] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:65]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:65] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:65].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:65] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:65].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:65].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:65].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:65]."
       }
     },
     {
@@ -925,7 +2160,26 @@
         "ur_maududi": "سورہ 33 آیت 66 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:66] en español.",
         "fr_hamidullah": "Traduction de [33:66] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 66 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 66 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:66] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:66] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:66] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:66] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:66］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:66] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:66] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:66] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:66] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:66]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:66] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:66].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:66] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:66].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:66].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:66].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:66]."
       }
     },
     {
@@ -939,7 +2193,26 @@
         "ur_maududi": "سورہ 33 آیت 67 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:67] en español.",
         "fr_hamidullah": "Traduction de [33:67] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 67 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 67 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:67] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:67] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:67] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:67] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:67］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:67] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:67] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:67] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:67] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:67]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:67] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:67].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:67] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:67].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:67].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:67].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:67]."
       }
     },
     {
@@ -953,7 +2226,26 @@
         "ur_maududi": "سورہ 33 آیت 68 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:68] en español.",
         "fr_hamidullah": "Traduction de [33:68] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 68 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 68 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:68] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:68] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:68] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:68] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:68］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:68] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:68] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:68] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:68] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:68]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:68] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:68].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:68] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:68].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:68].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:68].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:68]."
       }
     },
     {
@@ -967,7 +2259,26 @@
         "ur_maududi": "سورہ 33 آیت 69 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:69] en español.",
         "fr_hamidullah": "Traduction de [33:69] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 69 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 69 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:69] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:69] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:69] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:69] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:69］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:69] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:69] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:69] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:69] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:69]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:69] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:69].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:69] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:69].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:69].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:69].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:69]."
       }
     },
     {
@@ -981,7 +2292,26 @@
         "ur_maududi": "سورہ 33 آیت 70 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:70] en español.",
         "fr_hamidullah": "Traduction de [33:70] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 70 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 70 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:70] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:70] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:70] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:70] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:70］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:70] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:70] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:70] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:70] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:70]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:70] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:70].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:70] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:70].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:70].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:70].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:70]."
       }
     },
     {
@@ -995,7 +2325,26 @@
         "ur_maududi": "سورہ 33 آیت 71 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:71] en español.",
         "fr_hamidullah": "Traduction de [33:71] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 71 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 71 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:71] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:71] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:71] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:71] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:71］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:71] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:71] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:71] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:71] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:71]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:71] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:71].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:71] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:71].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:71].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:71].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:71]."
       }
     },
     {
@@ -1009,7 +2358,26 @@
         "ur_maududi": "سورہ 33 آیت 72 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:72] en español.",
         "fr_hamidullah": "Traduction de [33:72] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 72 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 72 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:72] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:72] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:72] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:72] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:72］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:72] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:72] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:72] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:72] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:72]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:72] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:72].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:72] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:72].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:72].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:72].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:72]."
       }
     },
     {
@@ -1023,7 +2391,26 @@
         "ur_maududi": "سورہ 33 آیت 73 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [33:73] en español.",
         "fr_hamidullah": "Traduction de [33:73] en français.",
-        "bn_hoque": "সূরা 33 আয়াত 73 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 33 আয়াত 73 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [33:73] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [33:73] на русский язык (Абу Адель).",
+        "tr_diyanet": "[33:73] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [33:73] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［33:73］ 马坚 译文",
+        "it_piccardo": "Traduzione di [33:73] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [33:73] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [33:73] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [33:73] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [33:73]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [33:73] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [33:73].",
+        "ar_jalalayn": "تفسير الجلالين للآية [33:73] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [33:73].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [33:73].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [33:73].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [33:73]."
       }
     }
   ],

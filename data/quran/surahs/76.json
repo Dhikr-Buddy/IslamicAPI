@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T01:55:57.997Z",
+  "generatedAt": "2026-05-23T02:33:24.496Z",
   "surahNumber": 76,
   "ayahCount": 31,
   "ayahs": [
@@ -15,7 +15,26 @@
         "ur_maududi": "سورہ 76 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [76:1] en español.",
         "fr_hamidullah": "Traduction de [76:1] en français.",
-        "bn_hoque": "সূরা 76 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 76 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [76:1] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [76:1] на русский язык (Абу Адель).",
+        "tr_diyanet": "[76:1] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [76:1] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［76:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [76:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [76:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [76:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [76:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [76:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [76:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [76:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [76:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [76:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [76:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [76:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [76:1]."
       }
     },
     {
@@ -29,7 +48,26 @@
         "ur_maududi": "سورہ 76 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [76:2] en español.",
         "fr_hamidullah": "Traduction de [76:2] en français.",
-        "bn_hoque": "সূরা 76 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 76 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [76:2] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [76:2] на русский язык (Абу Адель).",
+        "tr_diyanet": "[76:2] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [76:2] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［76:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [76:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [76:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [76:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [76:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [76:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [76:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [76:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [76:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [76:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [76:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [76:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [76:2]."
       }
     },
     {
@@ -43,7 +81,26 @@
         "ur_maududi": "سورہ 76 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [76:3] en español.",
         "fr_hamidullah": "Traduction de [76:3] en français.",
-        "bn_hoque": "সূরা 76 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 76 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [76:3] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [76:3] на русский язык (Абу Адель).",
+        "tr_diyanet": "[76:3] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [76:3] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［76:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [76:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [76:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [76:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [76:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [76:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [76:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [76:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [76:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [76:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [76:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [76:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [76:3]."
       }
     },
     {
@@ -57,7 +114,26 @@
         "ur_maududi": "سورہ 76 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [76:4] en español.",
         "fr_hamidullah": "Traduction de [76:4] en français.",
-        "bn_hoque": "সূরা 76 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 76 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [76:4] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [76:4] на русский язык (Абу Адель).",
+        "tr_diyanet": "[76:4] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [76:4] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［76:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [76:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [76:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [76:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [76:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [76:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [76:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [76:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [76:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [76:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [76:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [76:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [76:4]."
       }
     },
     {
@@ -71,7 +147,26 @@
         "ur_maududi": "سورہ 76 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [76:5] en español.",
         "fr_hamidullah": "Traduction de [76:5] en français.",
-        "bn_hoque": "সূরা 76 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 76 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [76:5] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [76:5] на русский язык (Абу Адель).",
+        "tr_diyanet": "[76:5] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [76:5] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［76:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [76:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [76:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [76:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [76:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [76:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [76:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [76:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [76:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [76:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [76:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [76:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [76:5]."
       }
     },
     {
@@ -85,7 +180,26 @@
         "ur_maududi": "سورہ 76 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [76:6] en español.",
         "fr_hamidullah": "Traduction de [76:6] en français.",
-        "bn_hoque": "সূরা 76 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 76 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [76:6] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [76:6] на русский язык (Абу Адель).",
+        "tr_diyanet": "[76:6] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [76:6] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［76:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [76:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [76:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [76:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [76:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [76:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [76:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [76:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [76:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [76:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [76:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [76:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [76:6]."
       }
     },
     {
@@ -99,7 +213,26 @@
         "ur_maududi": "سورہ 76 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [76:7] en español.",
         "fr_hamidullah": "Traduction de [76:7] en français.",
-        "bn_hoque": "সূরা 76 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 76 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [76:7] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [76:7] на русский язык (Абу Адель).",
+        "tr_diyanet": "[76:7] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [76:7] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［76:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [76:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [76:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [76:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [76:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [76:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [76:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [76:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [76:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [76:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [76:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [76:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [76:7]."
       }
     },
     {
@@ -113,7 +246,26 @@
         "ur_maududi": "سورہ 76 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [76:8] en español.",
         "fr_hamidullah": "Traduction de [76:8] en français.",
-        "bn_hoque": "সূরা 76 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 76 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [76:8] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [76:8] на русский язык (Абу Адель).",
+        "tr_diyanet": "[76:8] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [76:8] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［76:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [76:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [76:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [76:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [76:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [76:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [76:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [76:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [76:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [76:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [76:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [76:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [76:8]."
       }
     },
     {
@@ -127,7 +279,26 @@
         "ur_maududi": "سورہ 76 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [76:9] en español.",
         "fr_hamidullah": "Traduction de [76:9] en français.",
-        "bn_hoque": "সূরা 76 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 76 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [76:9] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [76:9] на русский язык (Абу Адель).",
+        "tr_diyanet": "[76:9] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [76:9] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［76:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [76:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [76:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [76:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [76:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [76:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [76:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [76:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [76:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [76:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [76:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [76:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [76:9]."
       }
     },
     {
@@ -141,7 +312,26 @@
         "ur_maududi": "سورہ 76 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [76:10] en español.",
         "fr_hamidullah": "Traduction de [76:10] en français.",
-        "bn_hoque": "সূরা 76 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 76 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [76:10] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [76:10] на русский язык (Абу Адель).",
+        "tr_diyanet": "[76:10] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [76:10] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［76:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [76:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [76:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [76:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [76:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [76:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [76:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [76:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [76:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [76:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [76:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [76:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [76:10]."
       }
     },
     {
@@ -155,7 +345,26 @@
         "ur_maududi": "سورہ 76 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [76:11] en español.",
         "fr_hamidullah": "Traduction de [76:11] en français.",
-        "bn_hoque": "সূরা 76 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 76 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [76:11] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [76:11] на русский язык (Абу Адель).",
+        "tr_diyanet": "[76:11] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [76:11] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［76:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [76:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [76:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [76:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [76:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [76:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [76:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [76:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [76:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [76:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [76:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [76:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [76:11]."
       }
     },
     {
@@ -169,7 +378,26 @@
         "ur_maududi": "سورہ 76 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [76:12] en español.",
         "fr_hamidullah": "Traduction de [76:12] en français.",
-        "bn_hoque": "সূরা 76 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 76 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [76:12] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [76:12] на русский язык (Абу Адель).",
+        "tr_diyanet": "[76:12] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [76:12] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［76:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [76:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [76:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [76:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [76:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [76:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [76:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [76:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [76:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [76:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [76:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [76:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [76:12]."
       }
     },
     {
@@ -183,7 +411,26 @@
         "ur_maududi": "سورہ 76 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [76:13] en español.",
         "fr_hamidullah": "Traduction de [76:13] en français.",
-        "bn_hoque": "সূরা 76 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 76 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [76:13] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [76:13] на русский язык (Абу Адель).",
+        "tr_diyanet": "[76:13] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [76:13] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［76:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [76:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [76:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [76:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [76:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [76:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [76:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [76:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [76:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [76:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [76:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [76:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [76:13]."
       }
     },
     {
@@ -197,7 +444,26 @@
         "ur_maududi": "سورہ 76 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [76:14] en español.",
         "fr_hamidullah": "Traduction de [76:14] en français.",
-        "bn_hoque": "সূরা 76 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 76 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [76:14] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [76:14] на русский язык (Абу Адель).",
+        "tr_diyanet": "[76:14] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [76:14] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［76:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [76:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [76:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [76:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [76:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [76:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [76:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [76:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [76:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [76:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [76:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [76:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [76:14]."
       }
     },
     {
@@ -211,7 +477,26 @@
         "ur_maududi": "سورہ 76 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [76:15] en español.",
         "fr_hamidullah": "Traduction de [76:15] en français.",
-        "bn_hoque": "সূরা 76 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 76 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [76:15] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [76:15] на русский язык (Абу Адель).",
+        "tr_diyanet": "[76:15] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [76:15] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［76:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [76:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [76:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [76:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [76:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [76:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [76:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [76:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [76:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [76:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [76:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [76:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [76:15]."
       }
     },
     {
@@ -225,7 +510,26 @@
         "ur_maududi": "سورہ 76 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [76:16] en español.",
         "fr_hamidullah": "Traduction de [76:16] en français.",
-        "bn_hoque": "সূরা 76 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 76 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [76:16] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [76:16] на русский язык (Абу Адель).",
+        "tr_diyanet": "[76:16] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [76:16] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［76:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [76:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [76:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [76:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [76:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [76:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [76:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [76:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [76:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [76:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [76:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [76:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [76:16]."
       }
     },
     {
@@ -239,7 +543,26 @@
         "ur_maududi": "سورہ 76 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [76:17] en español.",
         "fr_hamidullah": "Traduction de [76:17] en français.",
-        "bn_hoque": "সূরা 76 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 76 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [76:17] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [76:17] на русский язык (Абу Адель).",
+        "tr_diyanet": "[76:17] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [76:17] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［76:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [76:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [76:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [76:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [76:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [76:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [76:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [76:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [76:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [76:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [76:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [76:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [76:17]."
       }
     },
     {
@@ -253,7 +576,26 @@
         "ur_maududi": "سورہ 76 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [76:18] en español.",
         "fr_hamidullah": "Traduction de [76:18] en français.",
-        "bn_hoque": "সূরা 76 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 76 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [76:18] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [76:18] на русский язык (Абу Адель).",
+        "tr_diyanet": "[76:18] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [76:18] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［76:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [76:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [76:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [76:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [76:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [76:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [76:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [76:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [76:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [76:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [76:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [76:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [76:18]."
       }
     },
     {
@@ -267,7 +609,26 @@
         "ur_maududi": "سورہ 76 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [76:19] en español.",
         "fr_hamidullah": "Traduction de [76:19] en français.",
-        "bn_hoque": "সূরা 76 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 76 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [76:19] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [76:19] на русский язык (Абу Адель).",
+        "tr_diyanet": "[76:19] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [76:19] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［76:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [76:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [76:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [76:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [76:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [76:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [76:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [76:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [76:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [76:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [76:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [76:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [76:19]."
       }
     },
     {
@@ -281,7 +642,26 @@
         "ur_maududi": "سورہ 76 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [76:20] en español.",
         "fr_hamidullah": "Traduction de [76:20] en français.",
-        "bn_hoque": "সূরা 76 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 76 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [76:20] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [76:20] на русский язык (Абу Адель).",
+        "tr_diyanet": "[76:20] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [76:20] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［76:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [76:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [76:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [76:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [76:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [76:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [76:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [76:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [76:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [76:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [76:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [76:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [76:20]."
       }
     },
     {
@@ -295,7 +675,26 @@
         "ur_maududi": "سورہ 76 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [76:21] en español.",
         "fr_hamidullah": "Traduction de [76:21] en français.",
-        "bn_hoque": "সূরা 76 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 76 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [76:21] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [76:21] на русский язык (Абу Адель).",
+        "tr_diyanet": "[76:21] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [76:21] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［76:21］ 马坚 译文",
+        "it_piccardo": "Traduzione di [76:21] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [76:21] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [76:21] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [76:21] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [76:21]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [76:21] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [76:21].",
+        "ar_jalalayn": "تفسير الجلالين للآية [76:21] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [76:21].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [76:21].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [76:21].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [76:21]."
       }
     },
     {
@@ -309,7 +708,26 @@
         "ur_maududi": "سورہ 76 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [76:22] en español.",
         "fr_hamidullah": "Traduction de [76:22] en français.",
-        "bn_hoque": "সূরা 76 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 76 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [76:22] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [76:22] на русский язык (Абу Адель).",
+        "tr_diyanet": "[76:22] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [76:22] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［76:22］ 马坚 译文",
+        "it_piccardo": "Traduzione di [76:22] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [76:22] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [76:22] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [76:22] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [76:22]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [76:22] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [76:22].",
+        "ar_jalalayn": "تفسير الجلالين للآية [76:22] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [76:22].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [76:22].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [76:22].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [76:22]."
       }
     },
     {
@@ -323,7 +741,26 @@
         "ur_maududi": "سورہ 76 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [76:23] en español.",
         "fr_hamidullah": "Traduction de [76:23] en français.",
-        "bn_hoque": "সূরা 76 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 76 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [76:23] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [76:23] на русский язык (Абу Адель).",
+        "tr_diyanet": "[76:23] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [76:23] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［76:23］ 马坚 译文",
+        "it_piccardo": "Traduzione di [76:23] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [76:23] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [76:23] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [76:23] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [76:23]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [76:23] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [76:23].",
+        "ar_jalalayn": "تفسير الجلالين للآية [76:23] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [76:23].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [76:23].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [76:23].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [76:23]."
       }
     },
     {
@@ -337,7 +774,26 @@
         "ur_maududi": "سورہ 76 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [76:24] en español.",
         "fr_hamidullah": "Traduction de [76:24] en français.",
-        "bn_hoque": "সূরা 76 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 76 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [76:24] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [76:24] на русский язык (Абу Адель).",
+        "tr_diyanet": "[76:24] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [76:24] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［76:24］ 马坚 译文",
+        "it_piccardo": "Traduzione di [76:24] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [76:24] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [76:24] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [76:24] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [76:24]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [76:24] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [76:24].",
+        "ar_jalalayn": "تفسير الجلالين للآية [76:24] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [76:24].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [76:24].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [76:24].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [76:24]."
       }
     },
     {
@@ -351,7 +807,26 @@
         "ur_maududi": "سورہ 76 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [76:25] en español.",
         "fr_hamidullah": "Traduction de [76:25] en français.",
-        "bn_hoque": "সূরা 76 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 76 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [76:25] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [76:25] на русский язык (Абу Адель).",
+        "tr_diyanet": "[76:25] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [76:25] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［76:25］ 马坚 译文",
+        "it_piccardo": "Traduzione di [76:25] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [76:25] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [76:25] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [76:25] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [76:25]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [76:25] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [76:25].",
+        "ar_jalalayn": "تفسير الجلالين للآية [76:25] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [76:25].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [76:25].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [76:25].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [76:25]."
       }
     },
     {
@@ -365,7 +840,26 @@
         "ur_maududi": "سورہ 76 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [76:26] en español.",
         "fr_hamidullah": "Traduction de [76:26] en français.",
-        "bn_hoque": "সূরা 76 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 76 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [76:26] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [76:26] на русский язык (Абу Адель).",
+        "tr_diyanet": "[76:26] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [76:26] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［76:26］ 马坚 译文",
+        "it_piccardo": "Traduzione di [76:26] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [76:26] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [76:26] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [76:26] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [76:26]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [76:26] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [76:26].",
+        "ar_jalalayn": "تفسير الجلالين للآية [76:26] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [76:26].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [76:26].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [76:26].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [76:26]."
       }
     },
     {
@@ -379,7 +873,26 @@
         "ur_maududi": "سورہ 76 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [76:27] en español.",
         "fr_hamidullah": "Traduction de [76:27] en français.",
-        "bn_hoque": "সূরা 76 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 76 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [76:27] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [76:27] на русский язык (Абу Адель).",
+        "tr_diyanet": "[76:27] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [76:27] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［76:27］ 马坚 译文",
+        "it_piccardo": "Traduzione di [76:27] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [76:27] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [76:27] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [76:27] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [76:27]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [76:27] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [76:27].",
+        "ar_jalalayn": "تفسير الجلالين للآية [76:27] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [76:27].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [76:27].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [76:27].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [76:27]."
       }
     },
     {
@@ -393,7 +906,26 @@
         "ur_maududi": "سورہ 76 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [76:28] en español.",
         "fr_hamidullah": "Traduction de [76:28] en français.",
-        "bn_hoque": "সূরা 76 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 76 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [76:28] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [76:28] на русский язык (Абу Адель).",
+        "tr_diyanet": "[76:28] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [76:28] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［76:28］ 马坚 译文",
+        "it_piccardo": "Traduzione di [76:28] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [76:28] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [76:28] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [76:28] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [76:28]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [76:28] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [76:28].",
+        "ar_jalalayn": "تفسير الجلالين للآية [76:28] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [76:28].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [76:28].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [76:28].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [76:28]."
       }
     },
     {
@@ -407,7 +939,26 @@
         "ur_maududi": "سورہ 76 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [76:29] en español.",
         "fr_hamidullah": "Traduction de [76:29] en français.",
-        "bn_hoque": "সূরা 76 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 76 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [76:29] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [76:29] на русский язык (Абу Адель).",
+        "tr_diyanet": "[76:29] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [76:29] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［76:29］ 马坚 译文",
+        "it_piccardo": "Traduzione di [76:29] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [76:29] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [76:29] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [76:29] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [76:29]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [76:29] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [76:29].",
+        "ar_jalalayn": "تفسير الجلالين للآية [76:29] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [76:29].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [76:29].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [76:29].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [76:29]."
       }
     },
     {
@@ -421,7 +972,26 @@
         "ur_maududi": "سورہ 76 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [76:30] en español.",
         "fr_hamidullah": "Traduction de [76:30] en français.",
-        "bn_hoque": "সূরা 76 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 76 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [76:30] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [76:30] на русский язык (Абу Адель).",
+        "tr_diyanet": "[76:30] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [76:30] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［76:30］ 马坚 译文",
+        "it_piccardo": "Traduzione di [76:30] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [76:30] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [76:30] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [76:30] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [76:30]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [76:30] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [76:30].",
+        "ar_jalalayn": "تفسير الجلالين للآية [76:30] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [76:30].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [76:30].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [76:30].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [76:30]."
       }
     },
     {
@@ -435,7 +1005,26 @@
         "ur_maududi": "سورہ 76 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [76:31] en español.",
         "fr_hamidullah": "Traduction de [76:31] en français.",
-        "bn_hoque": "সূরা 76 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 76 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [76:31] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [76:31] на русский язык (Абу Адель).",
+        "tr_diyanet": "[76:31] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [76:31] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［76:31］ 马坚 译文",
+        "it_piccardo": "Traduzione di [76:31] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [76:31] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [76:31] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [76:31] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [76:31]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [76:31] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [76:31].",
+        "ar_jalalayn": "تفسير الجلالين للآية [76:31] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [76:31].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [76:31].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [76:31].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [76:31]."
       }
     }
   ],

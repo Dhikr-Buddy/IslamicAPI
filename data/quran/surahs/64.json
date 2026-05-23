@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T01:55:57.994Z",
+  "generatedAt": "2026-05-23T02:33:24.491Z",
   "surahNumber": 64,
   "ayahCount": 18,
   "ayahs": [
@@ -15,7 +15,26 @@
         "ur_maududi": "سورہ 64 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [64:1] en español.",
         "fr_hamidullah": "Traduction de [64:1] en français.",
-        "bn_hoque": "সূরা 64 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 64 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [64:1] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [64:1] на русский язык (Абу Адель).",
+        "tr_diyanet": "[64:1] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [64:1] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［64:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [64:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [64:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [64:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [64:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [64:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [64:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [64:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [64:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [64:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [64:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [64:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [64:1]."
       }
     },
     {
@@ -29,7 +48,26 @@
         "ur_maududi": "سورہ 64 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [64:2] en español.",
         "fr_hamidullah": "Traduction de [64:2] en français.",
-        "bn_hoque": "সূরা 64 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 64 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [64:2] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [64:2] на русский язык (Абу Адель).",
+        "tr_diyanet": "[64:2] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [64:2] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［64:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [64:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [64:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [64:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [64:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [64:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [64:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [64:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [64:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [64:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [64:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [64:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [64:2]."
       }
     },
     {
@@ -43,7 +81,26 @@
         "ur_maududi": "سورہ 64 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [64:3] en español.",
         "fr_hamidullah": "Traduction de [64:3] en français.",
-        "bn_hoque": "সূরা 64 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 64 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [64:3] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [64:3] на русский язык (Абу Адель).",
+        "tr_diyanet": "[64:3] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [64:3] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［64:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [64:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [64:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [64:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [64:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [64:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [64:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [64:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [64:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [64:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [64:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [64:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [64:3]."
       }
     },
     {
@@ -57,7 +114,26 @@
         "ur_maududi": "سورہ 64 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [64:4] en español.",
         "fr_hamidullah": "Traduction de [64:4] en français.",
-        "bn_hoque": "সূরা 64 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 64 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [64:4] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [64:4] на русский язык (Абу Адель).",
+        "tr_diyanet": "[64:4] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [64:4] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［64:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [64:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [64:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [64:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [64:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [64:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [64:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [64:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [64:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [64:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [64:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [64:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [64:4]."
       }
     },
     {
@@ -71,7 +147,26 @@
         "ur_maududi": "سورہ 64 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [64:5] en español.",
         "fr_hamidullah": "Traduction de [64:5] en français.",
-        "bn_hoque": "সূরা 64 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 64 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [64:5] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [64:5] на русский язык (Абу Адель).",
+        "tr_diyanet": "[64:5] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [64:5] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［64:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [64:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [64:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [64:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [64:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [64:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [64:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [64:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [64:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [64:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [64:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [64:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [64:5]."
       }
     },
     {
@@ -85,7 +180,26 @@
         "ur_maududi": "سورہ 64 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [64:6] en español.",
         "fr_hamidullah": "Traduction de [64:6] en français.",
-        "bn_hoque": "সূরা 64 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 64 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [64:6] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [64:6] на русский язык (Абу Адель).",
+        "tr_diyanet": "[64:6] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [64:6] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［64:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [64:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [64:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [64:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [64:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [64:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [64:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [64:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [64:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [64:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [64:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [64:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [64:6]."
       }
     },
     {
@@ -99,7 +213,26 @@
         "ur_maududi": "سورہ 64 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [64:7] en español.",
         "fr_hamidullah": "Traduction de [64:7] en français.",
-        "bn_hoque": "সূরা 64 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 64 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [64:7] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [64:7] на русский язык (Абу Адель).",
+        "tr_diyanet": "[64:7] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [64:7] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［64:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [64:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [64:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [64:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [64:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [64:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [64:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [64:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [64:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [64:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [64:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [64:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [64:7]."
       }
     },
     {
@@ -113,7 +246,26 @@
         "ur_maududi": "سورہ 64 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [64:8] en español.",
         "fr_hamidullah": "Traduction de [64:8] en français.",
-        "bn_hoque": "সূরা 64 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 64 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [64:8] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [64:8] на русский язык (Абу Адель).",
+        "tr_diyanet": "[64:8] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [64:8] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［64:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [64:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [64:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [64:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [64:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [64:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [64:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [64:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [64:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [64:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [64:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [64:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [64:8]."
       }
     },
     {
@@ -127,7 +279,26 @@
         "ur_maududi": "سورہ 64 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [64:9] en español.",
         "fr_hamidullah": "Traduction de [64:9] en français.",
-        "bn_hoque": "সূরা 64 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 64 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [64:9] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [64:9] на русский язык (Абу Адель).",
+        "tr_diyanet": "[64:9] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [64:9] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［64:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [64:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [64:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [64:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [64:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [64:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [64:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [64:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [64:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [64:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [64:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [64:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [64:9]."
       }
     },
     {
@@ -141,7 +312,26 @@
         "ur_maududi": "سورہ 64 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [64:10] en español.",
         "fr_hamidullah": "Traduction de [64:10] en français.",
-        "bn_hoque": "সূরা 64 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 64 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [64:10] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [64:10] на русский язык (Абу Адель).",
+        "tr_diyanet": "[64:10] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [64:10] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［64:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [64:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [64:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [64:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [64:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [64:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [64:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [64:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [64:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [64:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [64:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [64:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [64:10]."
       }
     },
     {
@@ -155,7 +345,26 @@
         "ur_maududi": "سورہ 64 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [64:11] en español.",
         "fr_hamidullah": "Traduction de [64:11] en français.",
-        "bn_hoque": "সূরা 64 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 64 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [64:11] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [64:11] на русский язык (Абу Адель).",
+        "tr_diyanet": "[64:11] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [64:11] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［64:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [64:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [64:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [64:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [64:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [64:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [64:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [64:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [64:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [64:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [64:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [64:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [64:11]."
       }
     },
     {
@@ -169,7 +378,26 @@
         "ur_maududi": "سورہ 64 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [64:12] en español.",
         "fr_hamidullah": "Traduction de [64:12] en français.",
-        "bn_hoque": "সূরা 64 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 64 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [64:12] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [64:12] на русский язык (Абу Адель).",
+        "tr_diyanet": "[64:12] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [64:12] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［64:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [64:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [64:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [64:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [64:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [64:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [64:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [64:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [64:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [64:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [64:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [64:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [64:12]."
       }
     },
     {
@@ -183,7 +411,26 @@
         "ur_maududi": "سورہ 64 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [64:13] en español.",
         "fr_hamidullah": "Traduction de [64:13] en français.",
-        "bn_hoque": "সূরা 64 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 64 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [64:13] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [64:13] на русский язык (Абу Адель).",
+        "tr_diyanet": "[64:13] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [64:13] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［64:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [64:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [64:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [64:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [64:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [64:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [64:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [64:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [64:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [64:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [64:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [64:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [64:13]."
       }
     },
     {
@@ -197,7 +444,26 @@
         "ur_maududi": "سورہ 64 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [64:14] en español.",
         "fr_hamidullah": "Traduction de [64:14] en français.",
-        "bn_hoque": "সূরা 64 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 64 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [64:14] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [64:14] на русский язык (Абу Адель).",
+        "tr_diyanet": "[64:14] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [64:14] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［64:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [64:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [64:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [64:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [64:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [64:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [64:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [64:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [64:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [64:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [64:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [64:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [64:14]."
       }
     },
     {
@@ -211,7 +477,26 @@
         "ur_maududi": "سورہ 64 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [64:15] en español.",
         "fr_hamidullah": "Traduction de [64:15] en français.",
-        "bn_hoque": "সূরা 64 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 64 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [64:15] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [64:15] на русский язык (Абу Адель).",
+        "tr_diyanet": "[64:15] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [64:15] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［64:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [64:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [64:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [64:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [64:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [64:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [64:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [64:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [64:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [64:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [64:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [64:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [64:15]."
       }
     },
     {
@@ -225,7 +510,26 @@
         "ur_maududi": "سورہ 64 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [64:16] en español.",
         "fr_hamidullah": "Traduction de [64:16] en français.",
-        "bn_hoque": "সূরা 64 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 64 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [64:16] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [64:16] на русский язык (Абу Адель).",
+        "tr_diyanet": "[64:16] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [64:16] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［64:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [64:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [64:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [64:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [64:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [64:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [64:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [64:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [64:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [64:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [64:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [64:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [64:16]."
       }
     },
     {
@@ -239,7 +543,26 @@
         "ur_maududi": "سورہ 64 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [64:17] en español.",
         "fr_hamidullah": "Traduction de [64:17] en français.",
-        "bn_hoque": "সূরা 64 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 64 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [64:17] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [64:17] на русский язык (Абу Адель).",
+        "tr_diyanet": "[64:17] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [64:17] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［64:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [64:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [64:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [64:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [64:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [64:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [64:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [64:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [64:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [64:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [64:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [64:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [64:17]."
       }
     },
     {
@@ -253,7 +576,26 @@
         "ur_maududi": "سورہ 64 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [64:18] en español.",
         "fr_hamidullah": "Traduction de [64:18] en français.",
-        "bn_hoque": "সূরা 64 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 64 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [64:18] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [64:18] на русский язык (Абу Адель).",
+        "tr_diyanet": "[64:18] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [64:18] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［64:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [64:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [64:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [64:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [64:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [64:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [64:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [64:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [64:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [64:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [64:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [64:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [64:18]."
       }
     }
   ],

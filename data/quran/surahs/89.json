@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T01:55:58.001Z",
+  "generatedAt": "2026-05-23T02:33:24.501Z",
   "surahNumber": 89,
   "ayahCount": 30,
   "ayahs": [
@@ -15,7 +15,26 @@
         "ur_maududi": "سورہ 89 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [89:1] en español.",
         "fr_hamidullah": "Traduction de [89:1] en français.",
-        "bn_hoque": "সূরা 89 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 89 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [89:1] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [89:1] на русский язык (Абу Адель).",
+        "tr_diyanet": "[89:1] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [89:1] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［89:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [89:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [89:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [89:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [89:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [89:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [89:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [89:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [89:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [89:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [89:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [89:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [89:1]."
       }
     },
     {
@@ -29,7 +48,26 @@
         "ur_maududi": "سورہ 89 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [89:2] en español.",
         "fr_hamidullah": "Traduction de [89:2] en français.",
-        "bn_hoque": "সূরা 89 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 89 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [89:2] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [89:2] на русский язык (Абу Адель).",
+        "tr_diyanet": "[89:2] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [89:2] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［89:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [89:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [89:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [89:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [89:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [89:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [89:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [89:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [89:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [89:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [89:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [89:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [89:2]."
       }
     },
     {
@@ -43,7 +81,26 @@
         "ur_maududi": "سورہ 89 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [89:3] en español.",
         "fr_hamidullah": "Traduction de [89:3] en français.",
-        "bn_hoque": "সূরা 89 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 89 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [89:3] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [89:3] на русский язык (Абу Адель).",
+        "tr_diyanet": "[89:3] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [89:3] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［89:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [89:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [89:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [89:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [89:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [89:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [89:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [89:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [89:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [89:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [89:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [89:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [89:3]."
       }
     },
     {
@@ -57,7 +114,26 @@
         "ur_maududi": "سورہ 89 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [89:4] en español.",
         "fr_hamidullah": "Traduction de [89:4] en français.",
-        "bn_hoque": "সূরা 89 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 89 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [89:4] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [89:4] на русский язык (Абу Адель).",
+        "tr_diyanet": "[89:4] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [89:4] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［89:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [89:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [89:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [89:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [89:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [89:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [89:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [89:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [89:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [89:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [89:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [89:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [89:4]."
       }
     },
     {
@@ -71,7 +147,26 @@
         "ur_maududi": "سورہ 89 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [89:5] en español.",
         "fr_hamidullah": "Traduction de [89:5] en français.",
-        "bn_hoque": "সূরা 89 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 89 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [89:5] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [89:5] на русский язык (Абу Адель).",
+        "tr_diyanet": "[89:5] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [89:5] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［89:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [89:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [89:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [89:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [89:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [89:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [89:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [89:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [89:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [89:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [89:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [89:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [89:5]."
       }
     },
     {
@@ -85,7 +180,26 @@
         "ur_maududi": "سورہ 89 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [89:6] en español.",
         "fr_hamidullah": "Traduction de [89:6] en français.",
-        "bn_hoque": "সূরা 89 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 89 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [89:6] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [89:6] на русский язык (Абу Адель).",
+        "tr_diyanet": "[89:6] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [89:6] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［89:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [89:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [89:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [89:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [89:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [89:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [89:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [89:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [89:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [89:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [89:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [89:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [89:6]."
       }
     },
     {
@@ -99,7 +213,26 @@
         "ur_maududi": "سورہ 89 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [89:7] en español.",
         "fr_hamidullah": "Traduction de [89:7] en français.",
-        "bn_hoque": "সূরা 89 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 89 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [89:7] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [89:7] на русский язык (Абу Адель).",
+        "tr_diyanet": "[89:7] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [89:7] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［89:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [89:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [89:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [89:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [89:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [89:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [89:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [89:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [89:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [89:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [89:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [89:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [89:7]."
       }
     },
     {
@@ -113,7 +246,26 @@
         "ur_maududi": "سورہ 89 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [89:8] en español.",
         "fr_hamidullah": "Traduction de [89:8] en français.",
-        "bn_hoque": "সূরা 89 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 89 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [89:8] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [89:8] на русский язык (Абу Адель).",
+        "tr_diyanet": "[89:8] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [89:8] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［89:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [89:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [89:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [89:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [89:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [89:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [89:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [89:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [89:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [89:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [89:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [89:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [89:8]."
       }
     },
     {
@@ -127,7 +279,26 @@
         "ur_maududi": "سورہ 89 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [89:9] en español.",
         "fr_hamidullah": "Traduction de [89:9] en français.",
-        "bn_hoque": "সূরা 89 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 89 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [89:9] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [89:9] на русский язык (Абу Адель).",
+        "tr_diyanet": "[89:9] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [89:9] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［89:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [89:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [89:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [89:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [89:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [89:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [89:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [89:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [89:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [89:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [89:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [89:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [89:9]."
       }
     },
     {
@@ -141,7 +312,26 @@
         "ur_maududi": "سورہ 89 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [89:10] en español.",
         "fr_hamidullah": "Traduction de [89:10] en français.",
-        "bn_hoque": "সূরা 89 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 89 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [89:10] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [89:10] на русский язык (Абу Адель).",
+        "tr_diyanet": "[89:10] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [89:10] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［89:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [89:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [89:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [89:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [89:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [89:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [89:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [89:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [89:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [89:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [89:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [89:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [89:10]."
       }
     },
     {
@@ -155,7 +345,26 @@
         "ur_maududi": "سورہ 89 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [89:11] en español.",
         "fr_hamidullah": "Traduction de [89:11] en français.",
-        "bn_hoque": "সূরা 89 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 89 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [89:11] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [89:11] на русский язык (Абу Адель).",
+        "tr_diyanet": "[89:11] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [89:11] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［89:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [89:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [89:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [89:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [89:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [89:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [89:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [89:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [89:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [89:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [89:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [89:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [89:11]."
       }
     },
     {
@@ -169,7 +378,26 @@
         "ur_maududi": "سورہ 89 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [89:12] en español.",
         "fr_hamidullah": "Traduction de [89:12] en français.",
-        "bn_hoque": "সূরা 89 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 89 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [89:12] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [89:12] на русский язык (Абу Адель).",
+        "tr_diyanet": "[89:12] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [89:12] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［89:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [89:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [89:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [89:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [89:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [89:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [89:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [89:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [89:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [89:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [89:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [89:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [89:12]."
       }
     },
     {
@@ -183,7 +411,26 @@
         "ur_maududi": "سورہ 89 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [89:13] en español.",
         "fr_hamidullah": "Traduction de [89:13] en français.",
-        "bn_hoque": "সূরা 89 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 89 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [89:13] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [89:13] на русский язык (Абу Адель).",
+        "tr_diyanet": "[89:13] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [89:13] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［89:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [89:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [89:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [89:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [89:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [89:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [89:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [89:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [89:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [89:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [89:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [89:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [89:13]."
       }
     },
     {
@@ -197,7 +444,26 @@
         "ur_maududi": "سورہ 89 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [89:14] en español.",
         "fr_hamidullah": "Traduction de [89:14] en français.",
-        "bn_hoque": "সূরা 89 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 89 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [89:14] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [89:14] на русский язык (Абу Адель).",
+        "tr_diyanet": "[89:14] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [89:14] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［89:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [89:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [89:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [89:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [89:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [89:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [89:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [89:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [89:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [89:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [89:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [89:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [89:14]."
       }
     },
     {
@@ -211,7 +477,26 @@
         "ur_maududi": "سورہ 89 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [89:15] en español.",
         "fr_hamidullah": "Traduction de [89:15] en français.",
-        "bn_hoque": "সূরা 89 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 89 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [89:15] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [89:15] на русский язык (Абу Адель).",
+        "tr_diyanet": "[89:15] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [89:15] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［89:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [89:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [89:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [89:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [89:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [89:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [89:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [89:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [89:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [89:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [89:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [89:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [89:15]."
       }
     },
     {
@@ -225,7 +510,26 @@
         "ur_maududi": "سورہ 89 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [89:16] en español.",
         "fr_hamidullah": "Traduction de [89:16] en français.",
-        "bn_hoque": "সূরা 89 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 89 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [89:16] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [89:16] на русский язык (Абу Адель).",
+        "tr_diyanet": "[89:16] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [89:16] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［89:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [89:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [89:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [89:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [89:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [89:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [89:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [89:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [89:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [89:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [89:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [89:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [89:16]."
       }
     },
     {
@@ -239,7 +543,26 @@
         "ur_maududi": "سورہ 89 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [89:17] en español.",
         "fr_hamidullah": "Traduction de [89:17] en français.",
-        "bn_hoque": "সূরা 89 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 89 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [89:17] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [89:17] на русский язык (Абу Адель).",
+        "tr_diyanet": "[89:17] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [89:17] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［89:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [89:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [89:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [89:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [89:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [89:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [89:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [89:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [89:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [89:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [89:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [89:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [89:17]."
       }
     },
     {
@@ -253,7 +576,26 @@
         "ur_maududi": "سورہ 89 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [89:18] en español.",
         "fr_hamidullah": "Traduction de [89:18] en français.",
-        "bn_hoque": "সূরা 89 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 89 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [89:18] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [89:18] на русский язык (Абу Адель).",
+        "tr_diyanet": "[89:18] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [89:18] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［89:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [89:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [89:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [89:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [89:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [89:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [89:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [89:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [89:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [89:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [89:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [89:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [89:18]."
       }
     },
     {
@@ -267,7 +609,26 @@
         "ur_maududi": "سورہ 89 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [89:19] en español.",
         "fr_hamidullah": "Traduction de [89:19] en français.",
-        "bn_hoque": "সূরা 89 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 89 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [89:19] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [89:19] на русский язык (Абу Адель).",
+        "tr_diyanet": "[89:19] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [89:19] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［89:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [89:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [89:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [89:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [89:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [89:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [89:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [89:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [89:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [89:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [89:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [89:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [89:19]."
       }
     },
     {
@@ -281,7 +642,26 @@
         "ur_maududi": "سورہ 89 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [89:20] en español.",
         "fr_hamidullah": "Traduction de [89:20] en français.",
-        "bn_hoque": "সূরা 89 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 89 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [89:20] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [89:20] на русский язык (Абу Адель).",
+        "tr_diyanet": "[89:20] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [89:20] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［89:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [89:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [89:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [89:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [89:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [89:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [89:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [89:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [89:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [89:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [89:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [89:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [89:20]."
       }
     },
     {
@@ -295,7 +675,26 @@
         "ur_maududi": "سورہ 89 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [89:21] en español.",
         "fr_hamidullah": "Traduction de [89:21] en français.",
-        "bn_hoque": "সূরা 89 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 89 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [89:21] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [89:21] на русский язык (Абу Адель).",
+        "tr_diyanet": "[89:21] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [89:21] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［89:21］ 马坚 译文",
+        "it_piccardo": "Traduzione di [89:21] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [89:21] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [89:21] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [89:21] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [89:21]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [89:21] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [89:21].",
+        "ar_jalalayn": "تفسير الجلالين للآية [89:21] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [89:21].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [89:21].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [89:21].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [89:21]."
       }
     },
     {
@@ -309,7 +708,26 @@
         "ur_maududi": "سورہ 89 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [89:22] en español.",
         "fr_hamidullah": "Traduction de [89:22] en français.",
-        "bn_hoque": "সূরা 89 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 89 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [89:22] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [89:22] на русский язык (Абу Адель).",
+        "tr_diyanet": "[89:22] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [89:22] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［89:22］ 马坚 译文",
+        "it_piccardo": "Traduzione di [89:22] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [89:22] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [89:22] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [89:22] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [89:22]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [89:22] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [89:22].",
+        "ar_jalalayn": "تفسير الجلالين للآية [89:22] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [89:22].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [89:22].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [89:22].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [89:22]."
       }
     },
     {
@@ -323,7 +741,26 @@
         "ur_maududi": "سورہ 89 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [89:23] en español.",
         "fr_hamidullah": "Traduction de [89:23] en français.",
-        "bn_hoque": "সূরা 89 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 89 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [89:23] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [89:23] на русский язык (Абу Адель).",
+        "tr_diyanet": "[89:23] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [89:23] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［89:23］ 马坚 译文",
+        "it_piccardo": "Traduzione di [89:23] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [89:23] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [89:23] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [89:23] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [89:23]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [89:23] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [89:23].",
+        "ar_jalalayn": "تفسير الجلالين للآية [89:23] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [89:23].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [89:23].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [89:23].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [89:23]."
       }
     },
     {
@@ -337,7 +774,26 @@
         "ur_maududi": "سورہ 89 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [89:24] en español.",
         "fr_hamidullah": "Traduction de [89:24] en français.",
-        "bn_hoque": "সূরা 89 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 89 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [89:24] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [89:24] на русский язык (Абу Адель).",
+        "tr_diyanet": "[89:24] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [89:24] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［89:24］ 马坚 译文",
+        "it_piccardo": "Traduzione di [89:24] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [89:24] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [89:24] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [89:24] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [89:24]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [89:24] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [89:24].",
+        "ar_jalalayn": "تفسير الجلالين للآية [89:24] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [89:24].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [89:24].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [89:24].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [89:24]."
       }
     },
     {
@@ -351,7 +807,26 @@
         "ur_maududi": "سورہ 89 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [89:25] en español.",
         "fr_hamidullah": "Traduction de [89:25] en français.",
-        "bn_hoque": "সূরা 89 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 89 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [89:25] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [89:25] на русский язык (Абу Адель).",
+        "tr_diyanet": "[89:25] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [89:25] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［89:25］ 马坚 译文",
+        "it_piccardo": "Traduzione di [89:25] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [89:25] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [89:25] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [89:25] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [89:25]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [89:25] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [89:25].",
+        "ar_jalalayn": "تفسير الجلالين للآية [89:25] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [89:25].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [89:25].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [89:25].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [89:25]."
       }
     },
     {
@@ -365,7 +840,26 @@
         "ur_maududi": "سورہ 89 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [89:26] en español.",
         "fr_hamidullah": "Traduction de [89:26] en français.",
-        "bn_hoque": "সূরা 89 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 89 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [89:26] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [89:26] на русский язык (Абу Адель).",
+        "tr_diyanet": "[89:26] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [89:26] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［89:26］ 马坚 译文",
+        "it_piccardo": "Traduzione di [89:26] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [89:26] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [89:26] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [89:26] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [89:26]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [89:26] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [89:26].",
+        "ar_jalalayn": "تفسير الجلالين للآية [89:26] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [89:26].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [89:26].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [89:26].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [89:26]."
       }
     },
     {
@@ -379,7 +873,26 @@
         "ur_maududi": "سورہ 89 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [89:27] en español.",
         "fr_hamidullah": "Traduction de [89:27] en français.",
-        "bn_hoque": "সূরা 89 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 89 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [89:27] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [89:27] на русский язык (Абу Адель).",
+        "tr_diyanet": "[89:27] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [89:27] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［89:27］ 马坚 译文",
+        "it_piccardo": "Traduzione di [89:27] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [89:27] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [89:27] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [89:27] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [89:27]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [89:27] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [89:27].",
+        "ar_jalalayn": "تفسير الجلالين للآية [89:27] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [89:27].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [89:27].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [89:27].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [89:27]."
       }
     },
     {
@@ -393,7 +906,26 @@
         "ur_maududi": "سورہ 89 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [89:28] en español.",
         "fr_hamidullah": "Traduction de [89:28] en français.",
-        "bn_hoque": "সূরা 89 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 89 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [89:28] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [89:28] на русский язык (Абу Адель).",
+        "tr_diyanet": "[89:28] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [89:28] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［89:28］ 马坚 译文",
+        "it_piccardo": "Traduzione di [89:28] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [89:28] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [89:28] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [89:28] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [89:28]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [89:28] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [89:28].",
+        "ar_jalalayn": "تفسير الجلالين للآية [89:28] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [89:28].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [89:28].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [89:28].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [89:28]."
       }
     },
     {
@@ -407,7 +939,26 @@
         "ur_maududi": "سورہ 89 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [89:29] en español.",
         "fr_hamidullah": "Traduction de [89:29] en français.",
-        "bn_hoque": "সূরা 89 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 89 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [89:29] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [89:29] на русский язык (Абу Адель).",
+        "tr_diyanet": "[89:29] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [89:29] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［89:29］ 马坚 译文",
+        "it_piccardo": "Traduzione di [89:29] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [89:29] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [89:29] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [89:29] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [89:29]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [89:29] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [89:29].",
+        "ar_jalalayn": "تفسير الجلالين للآية [89:29] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [89:29].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [89:29].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [89:29].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [89:29]."
       }
     },
     {
@@ -421,7 +972,26 @@
         "ur_maududi": "سورہ 89 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [89:30] en español.",
         "fr_hamidullah": "Traduction de [89:30] en français.",
-        "bn_hoque": "সূরা 89 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 89 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [89:30] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [89:30] на русский язык (Абу Адель).",
+        "tr_diyanet": "[89:30] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [89:30] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［89:30］ 马坚 译文",
+        "it_piccardo": "Traduzione di [89:30] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [89:30] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [89:30] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [89:30] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [89:30]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [89:30] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [89:30].",
+        "ar_jalalayn": "تفسير الجلالين للآية [89:30] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [89:30].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [89:30].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [89:30].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [89:30]."
       }
     }
   ],

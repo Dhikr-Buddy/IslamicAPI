@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T01:55:58.002Z",
+  "generatedAt": "2026-05-23T02:33:24.502Z",
   "surahNumber": 92,
   "ayahCount": 21,
   "ayahs": [
@@ -15,7 +15,26 @@
         "ur_maududi": "سورہ 92 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [92:1] en español.",
         "fr_hamidullah": "Traduction de [92:1] en français.",
-        "bn_hoque": "সূরা 92 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 92 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [92:1] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [92:1] на русский язык (Абу Адель).",
+        "tr_diyanet": "[92:1] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [92:1] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［92:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [92:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [92:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [92:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [92:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [92:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [92:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [92:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [92:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [92:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [92:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [92:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [92:1]."
       }
     },
     {
@@ -29,7 +48,26 @@
         "ur_maududi": "سورہ 92 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [92:2] en español.",
         "fr_hamidullah": "Traduction de [92:2] en français.",
-        "bn_hoque": "সূরা 92 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 92 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [92:2] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [92:2] на русский язык (Абу Адель).",
+        "tr_diyanet": "[92:2] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [92:2] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［92:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [92:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [92:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [92:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [92:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [92:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [92:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [92:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [92:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [92:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [92:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [92:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [92:2]."
       }
     },
     {
@@ -43,7 +81,26 @@
         "ur_maududi": "سورہ 92 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [92:3] en español.",
         "fr_hamidullah": "Traduction de [92:3] en français.",
-        "bn_hoque": "সূরা 92 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 92 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [92:3] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [92:3] на русский язык (Абу Адель).",
+        "tr_diyanet": "[92:3] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [92:3] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［92:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [92:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [92:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [92:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [92:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [92:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [92:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [92:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [92:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [92:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [92:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [92:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [92:3]."
       }
     },
     {
@@ -57,7 +114,26 @@
         "ur_maududi": "سورہ 92 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [92:4] en español.",
         "fr_hamidullah": "Traduction de [92:4] en français.",
-        "bn_hoque": "সূরা 92 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 92 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [92:4] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [92:4] на русский язык (Абу Адель).",
+        "tr_diyanet": "[92:4] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [92:4] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［92:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [92:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [92:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [92:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [92:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [92:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [92:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [92:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [92:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [92:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [92:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [92:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [92:4]."
       }
     },
     {
@@ -71,7 +147,26 @@
         "ur_maududi": "سورہ 92 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [92:5] en español.",
         "fr_hamidullah": "Traduction de [92:5] en français.",
-        "bn_hoque": "সূরা 92 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 92 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [92:5] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [92:5] на русский язык (Абу Адель).",
+        "tr_diyanet": "[92:5] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [92:5] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［92:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [92:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [92:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [92:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [92:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [92:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [92:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [92:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [92:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [92:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [92:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [92:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [92:5]."
       }
     },
     {
@@ -85,7 +180,26 @@
         "ur_maududi": "سورہ 92 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [92:6] en español.",
         "fr_hamidullah": "Traduction de [92:6] en français.",
-        "bn_hoque": "সূরা 92 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 92 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [92:6] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [92:6] на русский язык (Абу Адель).",
+        "tr_diyanet": "[92:6] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [92:6] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［92:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [92:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [92:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [92:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [92:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [92:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [92:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [92:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [92:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [92:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [92:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [92:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [92:6]."
       }
     },
     {
@@ -99,7 +213,26 @@
         "ur_maududi": "سورہ 92 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [92:7] en español.",
         "fr_hamidullah": "Traduction de [92:7] en français.",
-        "bn_hoque": "সূরা 92 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 92 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [92:7] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [92:7] на русский язык (Абу Адель).",
+        "tr_diyanet": "[92:7] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [92:7] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［92:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [92:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [92:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [92:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [92:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [92:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [92:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [92:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [92:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [92:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [92:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [92:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [92:7]."
       }
     },
     {
@@ -113,7 +246,26 @@
         "ur_maududi": "سورہ 92 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [92:8] en español.",
         "fr_hamidullah": "Traduction de [92:8] en français.",
-        "bn_hoque": "সূরা 92 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 92 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [92:8] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [92:8] на русский язык (Абу Адель).",
+        "tr_diyanet": "[92:8] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [92:8] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［92:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [92:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [92:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [92:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [92:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [92:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [92:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [92:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [92:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [92:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [92:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [92:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [92:8]."
       }
     },
     {
@@ -127,7 +279,26 @@
         "ur_maududi": "سورہ 92 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [92:9] en español.",
         "fr_hamidullah": "Traduction de [92:9] en français.",
-        "bn_hoque": "সূরা 92 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 92 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [92:9] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [92:9] на русский язык (Абу Адель).",
+        "tr_diyanet": "[92:9] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [92:9] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［92:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [92:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [92:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [92:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [92:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [92:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [92:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [92:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [92:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [92:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [92:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [92:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [92:9]."
       }
     },
     {
@@ -141,7 +312,26 @@
         "ur_maududi": "سورہ 92 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [92:10] en español.",
         "fr_hamidullah": "Traduction de [92:10] en français.",
-        "bn_hoque": "সূরা 92 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 92 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [92:10] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [92:10] на русский язык (Абу Адель).",
+        "tr_diyanet": "[92:10] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [92:10] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［92:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [92:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [92:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [92:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [92:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [92:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [92:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [92:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [92:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [92:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [92:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [92:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [92:10]."
       }
     },
     {
@@ -155,7 +345,26 @@
         "ur_maududi": "سورہ 92 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [92:11] en español.",
         "fr_hamidullah": "Traduction de [92:11] en français.",
-        "bn_hoque": "সূরা 92 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 92 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [92:11] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [92:11] на русский язык (Абу Адель).",
+        "tr_diyanet": "[92:11] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [92:11] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［92:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [92:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [92:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [92:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [92:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [92:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [92:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [92:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [92:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [92:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [92:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [92:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [92:11]."
       }
     },
     {
@@ -169,7 +378,26 @@
         "ur_maududi": "سورہ 92 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [92:12] en español.",
         "fr_hamidullah": "Traduction de [92:12] en français.",
-        "bn_hoque": "সূরা 92 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 92 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [92:12] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [92:12] на русский язык (Абу Адель).",
+        "tr_diyanet": "[92:12] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [92:12] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［92:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [92:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [92:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [92:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [92:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [92:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [92:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [92:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [92:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [92:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [92:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [92:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [92:12]."
       }
     },
     {
@@ -183,7 +411,26 @@
         "ur_maududi": "سورہ 92 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [92:13] en español.",
         "fr_hamidullah": "Traduction de [92:13] en français.",
-        "bn_hoque": "সূরা 92 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 92 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [92:13] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [92:13] на русский язык (Абу Адель).",
+        "tr_diyanet": "[92:13] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [92:13] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［92:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [92:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [92:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [92:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [92:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [92:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [92:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [92:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [92:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [92:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [92:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [92:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [92:13]."
       }
     },
     {
@@ -197,7 +444,26 @@
         "ur_maududi": "سورہ 92 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [92:14] en español.",
         "fr_hamidullah": "Traduction de [92:14] en français.",
-        "bn_hoque": "সূরা 92 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 92 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [92:14] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [92:14] на русский язык (Абу Адель).",
+        "tr_diyanet": "[92:14] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [92:14] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［92:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [92:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [92:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [92:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [92:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [92:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [92:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [92:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [92:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [92:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [92:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [92:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [92:14]."
       }
     },
     {
@@ -211,7 +477,26 @@
         "ur_maududi": "سورہ 92 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [92:15] en español.",
         "fr_hamidullah": "Traduction de [92:15] en français.",
-        "bn_hoque": "সূরা 92 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 92 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [92:15] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [92:15] на русский язык (Абу Адель).",
+        "tr_diyanet": "[92:15] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [92:15] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［92:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [92:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [92:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [92:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [92:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [92:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [92:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [92:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [92:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [92:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [92:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [92:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [92:15]."
       }
     },
     {
@@ -225,7 +510,26 @@
         "ur_maududi": "سورہ 92 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [92:16] en español.",
         "fr_hamidullah": "Traduction de [92:16] en français.",
-        "bn_hoque": "সূরা 92 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 92 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [92:16] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [92:16] на русский язык (Абу Адель).",
+        "tr_diyanet": "[92:16] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [92:16] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［92:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [92:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [92:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [92:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [92:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [92:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [92:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [92:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [92:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [92:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [92:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [92:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [92:16]."
       }
     },
     {
@@ -239,7 +543,26 @@
         "ur_maududi": "سورہ 92 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [92:17] en español.",
         "fr_hamidullah": "Traduction de [92:17] en français.",
-        "bn_hoque": "সূরা 92 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 92 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [92:17] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [92:17] на русский язык (Абу Адель).",
+        "tr_diyanet": "[92:17] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [92:17] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［92:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [92:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [92:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [92:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [92:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [92:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [92:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [92:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [92:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [92:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [92:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [92:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [92:17]."
       }
     },
     {
@@ -253,7 +576,26 @@
         "ur_maududi": "سورہ 92 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [92:18] en español.",
         "fr_hamidullah": "Traduction de [92:18] en français.",
-        "bn_hoque": "সূরা 92 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 92 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [92:18] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [92:18] на русский язык (Абу Адель).",
+        "tr_diyanet": "[92:18] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [92:18] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［92:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [92:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [92:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [92:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [92:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [92:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [92:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [92:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [92:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [92:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [92:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [92:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [92:18]."
       }
     },
     {
@@ -267,7 +609,26 @@
         "ur_maududi": "سورہ 92 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [92:19] en español.",
         "fr_hamidullah": "Traduction de [92:19] en français.",
-        "bn_hoque": "সূরা 92 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 92 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [92:19] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [92:19] на русский язык (Абу Адель).",
+        "tr_diyanet": "[92:19] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [92:19] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［92:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [92:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [92:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [92:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [92:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [92:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [92:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [92:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [92:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [92:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [92:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [92:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [92:19]."
       }
     },
     {
@@ -281,7 +642,26 @@
         "ur_maududi": "سورہ 92 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [92:20] en español.",
         "fr_hamidullah": "Traduction de [92:20] en français.",
-        "bn_hoque": "সূরা 92 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 92 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [92:20] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [92:20] на русский язык (Абу Адель).",
+        "tr_diyanet": "[92:20] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [92:20] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［92:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [92:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [92:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [92:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [92:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [92:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [92:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [92:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [92:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [92:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [92:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [92:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [92:20]."
       }
     },
     {
@@ -295,7 +675,26 @@
         "ur_maududi": "سورہ 92 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [92:21] en español.",
         "fr_hamidullah": "Traduction de [92:21] en français.",
-        "bn_hoque": "সূরা 92 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 92 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [92:21] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [92:21] на русский язык (Абу Адель).",
+        "tr_diyanet": "[92:21] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [92:21] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［92:21］ 马坚 译文",
+        "it_piccardo": "Traduzione di [92:21] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [92:21] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [92:21] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [92:21] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [92:21]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [92:21] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [92:21].",
+        "ar_jalalayn": "تفسير الجلالين للآية [92:21] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [92:21].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [92:21].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [92:21].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [92:21]."
       }
     }
   ],

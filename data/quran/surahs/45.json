@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T01:55:57.987Z",
+  "generatedAt": "2026-05-23T02:33:24.483Z",
   "surahNumber": 45,
   "ayahCount": 37,
   "ayahs": [
@@ -15,7 +15,26 @@
         "ur_maududi": "سورہ 45 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:1] en español.",
         "fr_hamidullah": "Traduction de [45:1] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:1] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:1] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:1] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:1] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:1]."
       }
     },
     {
@@ -29,7 +48,26 @@
         "ur_maududi": "سورہ 45 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:2] en español.",
         "fr_hamidullah": "Traduction de [45:2] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:2] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:2] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:2] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:2] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:2]."
       }
     },
     {
@@ -43,7 +81,26 @@
         "ur_maududi": "سورہ 45 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:3] en español.",
         "fr_hamidullah": "Traduction de [45:3] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:3] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:3] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:3] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:3] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:3]."
       }
     },
     {
@@ -57,7 +114,26 @@
         "ur_maududi": "سورہ 45 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:4] en español.",
         "fr_hamidullah": "Traduction de [45:4] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:4] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:4] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:4] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:4] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:4]."
       }
     },
     {
@@ -71,7 +147,26 @@
         "ur_maududi": "سورہ 45 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:5] en español.",
         "fr_hamidullah": "Traduction de [45:5] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:5] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:5] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:5] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:5] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:5]."
       }
     },
     {
@@ -85,7 +180,26 @@
         "ur_maududi": "سورہ 45 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:6] en español.",
         "fr_hamidullah": "Traduction de [45:6] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:6] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:6] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:6] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:6] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:6]."
       }
     },
     {
@@ -99,7 +213,26 @@
         "ur_maududi": "سورہ 45 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:7] en español.",
         "fr_hamidullah": "Traduction de [45:7] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:7] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:7] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:7] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:7] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:7]."
       }
     },
     {
@@ -113,7 +246,26 @@
         "ur_maududi": "سورہ 45 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:8] en español.",
         "fr_hamidullah": "Traduction de [45:8] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:8] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:8] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:8] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:8] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:8]."
       }
     },
     {
@@ -127,7 +279,26 @@
         "ur_maududi": "سورہ 45 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:9] en español.",
         "fr_hamidullah": "Traduction de [45:9] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:9] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:9] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:9] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:9] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:9]."
       }
     },
     {
@@ -141,7 +312,26 @@
         "ur_maududi": "سورہ 45 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:10] en español.",
         "fr_hamidullah": "Traduction de [45:10] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:10] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:10] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:10] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:10] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:10]."
       }
     },
     {
@@ -155,7 +345,26 @@
         "ur_maududi": "سورہ 45 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:11] en español.",
         "fr_hamidullah": "Traduction de [45:11] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:11] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:11] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:11] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:11] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:11]."
       }
     },
     {
@@ -169,7 +378,26 @@
         "ur_maududi": "سورہ 45 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:12] en español.",
         "fr_hamidullah": "Traduction de [45:12] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:12] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:12] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:12] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:12] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:12]."
       }
     },
     {
@@ -183,7 +411,26 @@
         "ur_maududi": "سورہ 45 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:13] en español.",
         "fr_hamidullah": "Traduction de [45:13] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:13] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:13] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:13] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:13] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:13]."
       }
     },
     {
@@ -197,7 +444,26 @@
         "ur_maududi": "سورہ 45 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:14] en español.",
         "fr_hamidullah": "Traduction de [45:14] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:14] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:14] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:14] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:14] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:14]."
       }
     },
     {
@@ -211,7 +477,26 @@
         "ur_maududi": "سورہ 45 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:15] en español.",
         "fr_hamidullah": "Traduction de [45:15] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:15] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:15] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:15] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:15] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:15]."
       }
     },
     {
@@ -225,7 +510,26 @@
         "ur_maududi": "سورہ 45 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:16] en español.",
         "fr_hamidullah": "Traduction de [45:16] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:16] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:16] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:16] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:16] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:16]."
       }
     },
     {
@@ -239,7 +543,26 @@
         "ur_maududi": "سورہ 45 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:17] en español.",
         "fr_hamidullah": "Traduction de [45:17] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:17] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:17] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:17] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:17] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:17]."
       }
     },
     {
@@ -253,7 +576,26 @@
         "ur_maududi": "سورہ 45 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:18] en español.",
         "fr_hamidullah": "Traduction de [45:18] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:18] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:18] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:18] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:18] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:18]."
       }
     },
     {
@@ -267,7 +609,26 @@
         "ur_maududi": "سورہ 45 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:19] en español.",
         "fr_hamidullah": "Traduction de [45:19] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:19] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:19] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:19] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:19] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:19]."
       }
     },
     {
@@ -281,7 +642,26 @@
         "ur_maududi": "سورہ 45 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:20] en español.",
         "fr_hamidullah": "Traduction de [45:20] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:20] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:20] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:20] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:20] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:20]."
       }
     },
     {
@@ -295,7 +675,26 @@
         "ur_maududi": "سورہ 45 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:21] en español.",
         "fr_hamidullah": "Traduction de [45:21] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:21] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:21] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:21] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:21] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:21］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:21] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:21] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:21] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:21] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:21]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:21] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:21].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:21] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:21].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:21].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:21].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:21]."
       }
     },
     {
@@ -309,7 +708,26 @@
         "ur_maududi": "سورہ 45 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:22] en español.",
         "fr_hamidullah": "Traduction de [45:22] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:22] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:22] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:22] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:22] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:22］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:22] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:22] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:22] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:22] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:22]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:22] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:22].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:22] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:22].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:22].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:22].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:22]."
       }
     },
     {
@@ -323,7 +741,26 @@
         "ur_maududi": "سورہ 45 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:23] en español.",
         "fr_hamidullah": "Traduction de [45:23] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:23] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:23] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:23] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:23] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:23］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:23] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:23] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:23] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:23] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:23]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:23] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:23].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:23] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:23].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:23].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:23].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:23]."
       }
     },
     {
@@ -337,7 +774,26 @@
         "ur_maududi": "سورہ 45 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:24] en español.",
         "fr_hamidullah": "Traduction de [45:24] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:24] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:24] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:24] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:24] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:24］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:24] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:24] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:24] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:24] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:24]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:24] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:24].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:24] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:24].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:24].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:24].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:24]."
       }
     },
     {
@@ -351,7 +807,26 @@
         "ur_maududi": "سورہ 45 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:25] en español.",
         "fr_hamidullah": "Traduction de [45:25] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:25] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:25] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:25] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:25] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:25］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:25] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:25] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:25] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:25] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:25]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:25] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:25].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:25] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:25].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:25].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:25].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:25]."
       }
     },
     {
@@ -365,7 +840,26 @@
         "ur_maududi": "سورہ 45 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:26] en español.",
         "fr_hamidullah": "Traduction de [45:26] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:26] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:26] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:26] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:26] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:26］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:26] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:26] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:26] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:26] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:26]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:26] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:26].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:26] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:26].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:26].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:26].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:26]."
       }
     },
     {
@@ -379,7 +873,26 @@
         "ur_maududi": "سورہ 45 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:27] en español.",
         "fr_hamidullah": "Traduction de [45:27] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:27] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:27] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:27] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:27] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:27］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:27] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:27] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:27] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:27] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:27]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:27] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:27].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:27] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:27].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:27].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:27].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:27]."
       }
     },
     {
@@ -393,7 +906,26 @@
         "ur_maududi": "سورہ 45 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:28] en español.",
         "fr_hamidullah": "Traduction de [45:28] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:28] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:28] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:28] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:28] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:28］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:28] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:28] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:28] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:28] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:28]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:28] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:28].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:28] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:28].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:28].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:28].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:28]."
       }
     },
     {
@@ -407,7 +939,26 @@
         "ur_maududi": "سورہ 45 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:29] en español.",
         "fr_hamidullah": "Traduction de [45:29] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:29] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:29] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:29] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:29] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:29］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:29] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:29] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:29] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:29] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:29]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:29] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:29].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:29] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:29].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:29].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:29].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:29]."
       }
     },
     {
@@ -421,7 +972,26 @@
         "ur_maududi": "سورہ 45 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:30] en español.",
         "fr_hamidullah": "Traduction de [45:30] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:30] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:30] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:30] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:30] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:30］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:30] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:30] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:30] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:30] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:30]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:30] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:30].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:30] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:30].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:30].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:30].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:30]."
       }
     },
     {
@@ -435,7 +1005,26 @@
         "ur_maududi": "سورہ 45 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:31] en español.",
         "fr_hamidullah": "Traduction de [45:31] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:31] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:31] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:31] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:31] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:31］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:31] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:31] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:31] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:31] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:31]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:31] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:31].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:31] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:31].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:31].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:31].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:31]."
       }
     },
     {
@@ -449,7 +1038,26 @@
         "ur_maududi": "سورہ 45 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:32] en español.",
         "fr_hamidullah": "Traduction de [45:32] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:32] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:32] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:32] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:32] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:32］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:32] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:32] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:32] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:32] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:32]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:32] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:32].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:32] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:32].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:32].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:32].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:32]."
       }
     },
     {
@@ -463,7 +1071,26 @@
         "ur_maududi": "سورہ 45 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:33] en español.",
         "fr_hamidullah": "Traduction de [45:33] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:33] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:33] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:33] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:33] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:33］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:33] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:33] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:33] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:33] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:33]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:33] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:33].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:33] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:33].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:33].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:33].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:33]."
       }
     },
     {
@@ -477,7 +1104,26 @@
         "ur_maududi": "سورہ 45 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:34] en español.",
         "fr_hamidullah": "Traduction de [45:34] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:34] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:34] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:34] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:34] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:34］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:34] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:34] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:34] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:34] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:34]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:34] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:34].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:34] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:34].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:34].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:34].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:34]."
       }
     },
     {
@@ -491,7 +1137,26 @@
         "ur_maududi": "سورہ 45 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:35] en español.",
         "fr_hamidullah": "Traduction de [45:35] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:35] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:35] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:35] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:35] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:35］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:35] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:35] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:35] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:35] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:35]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:35] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:35].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:35] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:35].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:35].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:35].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:35]."
       }
     },
     {
@@ -505,7 +1170,26 @@
         "ur_maududi": "سورہ 45 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:36] en español.",
         "fr_hamidullah": "Traduction de [45:36] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:36] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:36] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:36] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:36] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:36］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:36] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:36] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:36] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:36] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:36]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:36] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:36].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:36] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:36].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:36].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:36].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:36]."
       }
     },
     {
@@ -519,7 +1203,26 @@
         "ur_maududi": "سورہ 45 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [45:37] en español.",
         "fr_hamidullah": "Traduction de [45:37] en français.",
-        "bn_hoque": "সূরা 45 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 45 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [45:37] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [45:37] на русский язык (Абу Адель).",
+        "tr_diyanet": "[45:37] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [45:37] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［45:37］ 马坚 译文",
+        "it_piccardo": "Traduzione di [45:37] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [45:37] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [45:37] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [45:37] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [45:37]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [45:37] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [45:37].",
+        "ar_jalalayn": "تفسير الجلالين للآية [45:37] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [45:37].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [45:37].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [45:37].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [45:37]."
       }
     }
   ],

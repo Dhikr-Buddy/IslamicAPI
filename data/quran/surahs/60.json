@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T01:55:57.992Z",
+  "generatedAt": "2026-05-23T02:33:24.490Z",
   "surahNumber": 60,
   "ayahCount": 13,
   "ayahs": [
@@ -15,7 +15,26 @@
         "ur_maududi": "سورہ 60 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [60:1] en español.",
         "fr_hamidullah": "Traduction de [60:1] en français.",
-        "bn_hoque": "সূরা 60 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 60 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [60:1] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [60:1] на русский язык (Абу Адель).",
+        "tr_diyanet": "[60:1] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [60:1] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［60:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [60:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [60:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [60:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [60:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [60:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [60:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [60:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [60:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [60:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [60:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [60:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [60:1]."
       }
     },
     {
@@ -29,7 +48,26 @@
         "ur_maududi": "سورہ 60 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [60:2] en español.",
         "fr_hamidullah": "Traduction de [60:2] en français.",
-        "bn_hoque": "সূরা 60 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 60 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [60:2] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [60:2] на русский язык (Абу Адель).",
+        "tr_diyanet": "[60:2] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [60:2] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［60:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [60:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [60:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [60:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [60:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [60:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [60:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [60:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [60:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [60:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [60:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [60:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [60:2]."
       }
     },
     {
@@ -43,7 +81,26 @@
         "ur_maududi": "سورہ 60 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [60:3] en español.",
         "fr_hamidullah": "Traduction de [60:3] en français.",
-        "bn_hoque": "সূরা 60 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 60 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [60:3] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [60:3] на русский язык (Абу Адель).",
+        "tr_diyanet": "[60:3] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [60:3] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［60:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [60:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [60:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [60:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [60:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [60:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [60:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [60:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [60:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [60:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [60:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [60:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [60:3]."
       }
     },
     {
@@ -57,7 +114,26 @@
         "ur_maududi": "سورہ 60 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [60:4] en español.",
         "fr_hamidullah": "Traduction de [60:4] en français.",
-        "bn_hoque": "সূরা 60 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 60 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [60:4] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [60:4] на русский язык (Абу Адель).",
+        "tr_diyanet": "[60:4] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [60:4] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［60:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [60:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [60:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [60:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [60:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [60:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [60:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [60:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [60:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [60:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [60:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [60:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [60:4]."
       }
     },
     {
@@ -71,7 +147,26 @@
         "ur_maududi": "سورہ 60 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [60:5] en español.",
         "fr_hamidullah": "Traduction de [60:5] en français.",
-        "bn_hoque": "সূরা 60 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 60 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [60:5] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [60:5] на русский язык (Абу Адель).",
+        "tr_diyanet": "[60:5] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [60:5] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［60:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [60:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [60:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [60:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [60:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [60:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [60:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [60:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [60:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [60:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [60:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [60:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [60:5]."
       }
     },
     {
@@ -85,7 +180,26 @@
         "ur_maududi": "سورہ 60 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [60:6] en español.",
         "fr_hamidullah": "Traduction de [60:6] en français.",
-        "bn_hoque": "সূরা 60 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 60 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [60:6] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [60:6] на русский язык (Абу Адель).",
+        "tr_diyanet": "[60:6] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [60:6] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［60:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [60:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [60:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [60:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [60:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [60:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [60:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [60:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [60:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [60:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [60:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [60:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [60:6]."
       }
     },
     {
@@ -99,7 +213,26 @@
         "ur_maududi": "سورہ 60 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [60:7] en español.",
         "fr_hamidullah": "Traduction de [60:7] en français.",
-        "bn_hoque": "সূরা 60 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 60 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [60:7] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [60:7] на русский язык (Абу Адель).",
+        "tr_diyanet": "[60:7] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [60:7] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［60:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [60:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [60:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [60:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [60:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [60:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [60:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [60:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [60:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [60:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [60:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [60:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [60:7]."
       }
     },
     {
@@ -113,7 +246,26 @@
         "ur_maududi": "سورہ 60 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [60:8] en español.",
         "fr_hamidullah": "Traduction de [60:8] en français.",
-        "bn_hoque": "সূরা 60 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 60 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [60:8] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [60:8] на русский язык (Абу Адель).",
+        "tr_diyanet": "[60:8] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [60:8] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［60:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [60:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [60:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [60:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [60:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [60:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [60:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [60:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [60:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [60:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [60:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [60:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [60:8]."
       }
     },
     {
@@ -127,7 +279,26 @@
         "ur_maududi": "سورہ 60 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [60:9] en español.",
         "fr_hamidullah": "Traduction de [60:9] en français.",
-        "bn_hoque": "সূরা 60 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 60 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [60:9] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [60:9] на русский язык (Абу Адель).",
+        "tr_diyanet": "[60:9] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [60:9] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［60:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [60:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [60:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [60:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [60:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [60:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [60:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [60:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [60:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [60:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [60:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [60:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [60:9]."
       }
     },
     {
@@ -141,7 +312,26 @@
         "ur_maududi": "سورہ 60 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [60:10] en español.",
         "fr_hamidullah": "Traduction de [60:10] en français.",
-        "bn_hoque": "সূরা 60 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 60 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [60:10] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [60:10] на русский язык (Абу Адель).",
+        "tr_diyanet": "[60:10] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [60:10] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［60:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [60:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [60:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [60:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [60:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [60:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [60:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [60:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [60:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [60:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [60:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [60:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [60:10]."
       }
     },
     {
@@ -155,7 +345,26 @@
         "ur_maududi": "سورہ 60 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [60:11] en español.",
         "fr_hamidullah": "Traduction de [60:11] en français.",
-        "bn_hoque": "সূরা 60 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 60 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [60:11] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [60:11] на русский язык (Абу Адель).",
+        "tr_diyanet": "[60:11] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [60:11] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［60:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [60:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [60:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [60:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [60:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [60:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [60:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [60:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [60:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [60:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [60:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [60:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [60:11]."
       }
     },
     {
@@ -169,7 +378,26 @@
         "ur_maududi": "سورہ 60 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [60:12] en español.",
         "fr_hamidullah": "Traduction de [60:12] en français.",
-        "bn_hoque": "সূরা 60 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 60 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [60:12] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [60:12] на русский язык (Абу Адель).",
+        "tr_diyanet": "[60:12] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [60:12] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［60:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [60:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [60:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [60:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [60:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [60:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [60:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [60:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [60:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [60:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [60:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [60:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [60:12]."
       }
     },
     {
@@ -183,7 +411,26 @@
         "ur_maududi": "سورہ 60 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [60:13] en español.",
         "fr_hamidullah": "Traduction de [60:13] en français.",
-        "bn_hoque": "সূরা 60 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 60 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [60:13] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [60:13] на русский язык (Абу Адель).",
+        "tr_diyanet": "[60:13] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [60:13] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［60:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [60:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [60:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [60:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [60:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [60:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [60:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [60:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [60:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [60:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [60:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [60:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [60:13]."
       }
     }
   ],

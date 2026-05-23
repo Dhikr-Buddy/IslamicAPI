@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T01:55:57.999Z",
+  "generatedAt": "2026-05-23T02:33:24.500Z",
   "surahNumber": 85,
   "ayahCount": 22,
   "ayahs": [
@@ -15,7 +15,26 @@
         "ur_maududi": "سورہ 85 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [85:1] en español.",
         "fr_hamidullah": "Traduction de [85:1] en français.",
-        "bn_hoque": "সূরা 85 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 85 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [85:1] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [85:1] на русский язык (Абу Адель).",
+        "tr_diyanet": "[85:1] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [85:1] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［85:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [85:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [85:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [85:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [85:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [85:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [85:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [85:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [85:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [85:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [85:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [85:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [85:1]."
       }
     },
     {
@@ -29,7 +48,26 @@
         "ur_maududi": "سورہ 85 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [85:2] en español.",
         "fr_hamidullah": "Traduction de [85:2] en français.",
-        "bn_hoque": "সূরা 85 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 85 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [85:2] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [85:2] на русский язык (Абу Адель).",
+        "tr_diyanet": "[85:2] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [85:2] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［85:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [85:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [85:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [85:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [85:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [85:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [85:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [85:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [85:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [85:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [85:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [85:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [85:2]."
       }
     },
     {
@@ -43,7 +81,26 @@
         "ur_maududi": "سورہ 85 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [85:3] en español.",
         "fr_hamidullah": "Traduction de [85:3] en français.",
-        "bn_hoque": "সূরা 85 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 85 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [85:3] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [85:3] на русский язык (Абу Адель).",
+        "tr_diyanet": "[85:3] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [85:3] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［85:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [85:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [85:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [85:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [85:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [85:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [85:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [85:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [85:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [85:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [85:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [85:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [85:3]."
       }
     },
     {
@@ -57,7 +114,26 @@
         "ur_maududi": "سورہ 85 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [85:4] en español.",
         "fr_hamidullah": "Traduction de [85:4] en français.",
-        "bn_hoque": "সূরা 85 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 85 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [85:4] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [85:4] на русский язык (Абу Адель).",
+        "tr_diyanet": "[85:4] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [85:4] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［85:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [85:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [85:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [85:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [85:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [85:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [85:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [85:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [85:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [85:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [85:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [85:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [85:4]."
       }
     },
     {
@@ -71,7 +147,26 @@
         "ur_maududi": "سورہ 85 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [85:5] en español.",
         "fr_hamidullah": "Traduction de [85:5] en français.",
-        "bn_hoque": "সূরা 85 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 85 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [85:5] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [85:5] на русский язык (Абу Адель).",
+        "tr_diyanet": "[85:5] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [85:5] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［85:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [85:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [85:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [85:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [85:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [85:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [85:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [85:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [85:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [85:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [85:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [85:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [85:5]."
       }
     },
     {
@@ -85,7 +180,26 @@
         "ur_maududi": "سورہ 85 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [85:6] en español.",
         "fr_hamidullah": "Traduction de [85:6] en français.",
-        "bn_hoque": "সূরা 85 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 85 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [85:6] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [85:6] на русский язык (Абу Адель).",
+        "tr_diyanet": "[85:6] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [85:6] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［85:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [85:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [85:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [85:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [85:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [85:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [85:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [85:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [85:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [85:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [85:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [85:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [85:6]."
       }
     },
     {
@@ -99,7 +213,26 @@
         "ur_maududi": "سورہ 85 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [85:7] en español.",
         "fr_hamidullah": "Traduction de [85:7] en français.",
-        "bn_hoque": "সূরা 85 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 85 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [85:7] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [85:7] на русский язык (Абу Адель).",
+        "tr_diyanet": "[85:7] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [85:7] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［85:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [85:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [85:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [85:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [85:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [85:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [85:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [85:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [85:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [85:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [85:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [85:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [85:7]."
       }
     },
     {
@@ -113,7 +246,26 @@
         "ur_maududi": "سورہ 85 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [85:8] en español.",
         "fr_hamidullah": "Traduction de [85:8] en français.",
-        "bn_hoque": "সূরা 85 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 85 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [85:8] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [85:8] на русский язык (Абу Адель).",
+        "tr_diyanet": "[85:8] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [85:8] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［85:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [85:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [85:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [85:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [85:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [85:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [85:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [85:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [85:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [85:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [85:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [85:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [85:8]."
       }
     },
     {
@@ -127,7 +279,26 @@
         "ur_maududi": "سورہ 85 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [85:9] en español.",
         "fr_hamidullah": "Traduction de [85:9] en français.",
-        "bn_hoque": "সূরা 85 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 85 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [85:9] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [85:9] на русский язык (Абу Адель).",
+        "tr_diyanet": "[85:9] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [85:9] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［85:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [85:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [85:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [85:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [85:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [85:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [85:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [85:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [85:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [85:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [85:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [85:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [85:9]."
       }
     },
     {
@@ -141,7 +312,26 @@
         "ur_maududi": "سورہ 85 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [85:10] en español.",
         "fr_hamidullah": "Traduction de [85:10] en français.",
-        "bn_hoque": "সূরা 85 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 85 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [85:10] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [85:10] на русский язык (Абу Адель).",
+        "tr_diyanet": "[85:10] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [85:10] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［85:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [85:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [85:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [85:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [85:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [85:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [85:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [85:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [85:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [85:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [85:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [85:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [85:10]."
       }
     },
     {
@@ -155,7 +345,26 @@
         "ur_maududi": "سورہ 85 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [85:11] en español.",
         "fr_hamidullah": "Traduction de [85:11] en français.",
-        "bn_hoque": "সূরা 85 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 85 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [85:11] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [85:11] на русский язык (Абу Адель).",
+        "tr_diyanet": "[85:11] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [85:11] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［85:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [85:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [85:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [85:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [85:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [85:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [85:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [85:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [85:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [85:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [85:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [85:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [85:11]."
       }
     },
     {
@@ -169,7 +378,26 @@
         "ur_maududi": "سورہ 85 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [85:12] en español.",
         "fr_hamidullah": "Traduction de [85:12] en français.",
-        "bn_hoque": "সূরা 85 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 85 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [85:12] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [85:12] на русский язык (Абу Адель).",
+        "tr_diyanet": "[85:12] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [85:12] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［85:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [85:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [85:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [85:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [85:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [85:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [85:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [85:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [85:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [85:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [85:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [85:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [85:12]."
       }
     },
     {
@@ -183,7 +411,26 @@
         "ur_maududi": "سورہ 85 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [85:13] en español.",
         "fr_hamidullah": "Traduction de [85:13] en français.",
-        "bn_hoque": "সূরা 85 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 85 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [85:13] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [85:13] на русский язык (Абу Адель).",
+        "tr_diyanet": "[85:13] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [85:13] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［85:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [85:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [85:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [85:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [85:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [85:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [85:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [85:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [85:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [85:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [85:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [85:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [85:13]."
       }
     },
     {
@@ -197,7 +444,26 @@
         "ur_maududi": "سورہ 85 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [85:14] en español.",
         "fr_hamidullah": "Traduction de [85:14] en français.",
-        "bn_hoque": "সূরা 85 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 85 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [85:14] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [85:14] на русский язык (Абу Адель).",
+        "tr_diyanet": "[85:14] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [85:14] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［85:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [85:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [85:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [85:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [85:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [85:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [85:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [85:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [85:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [85:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [85:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [85:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [85:14]."
       }
     },
     {
@@ -211,7 +477,26 @@
         "ur_maududi": "سورہ 85 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [85:15] en español.",
         "fr_hamidullah": "Traduction de [85:15] en français.",
-        "bn_hoque": "সূরা 85 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 85 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [85:15] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [85:15] на русский язык (Абу Адель).",
+        "tr_diyanet": "[85:15] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [85:15] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［85:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [85:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [85:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [85:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [85:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [85:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [85:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [85:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [85:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [85:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [85:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [85:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [85:15]."
       }
     },
     {
@@ -225,7 +510,26 @@
         "ur_maududi": "سورہ 85 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [85:16] en español.",
         "fr_hamidullah": "Traduction de [85:16] en français.",
-        "bn_hoque": "সূরা 85 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 85 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [85:16] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [85:16] на русский язык (Абу Адель).",
+        "tr_diyanet": "[85:16] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [85:16] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［85:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [85:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [85:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [85:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [85:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [85:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [85:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [85:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [85:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [85:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [85:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [85:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [85:16]."
       }
     },
     {
@@ -239,7 +543,26 @@
         "ur_maududi": "سورہ 85 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [85:17] en español.",
         "fr_hamidullah": "Traduction de [85:17] en français.",
-        "bn_hoque": "সূরা 85 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 85 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [85:17] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [85:17] на русский язык (Абу Адель).",
+        "tr_diyanet": "[85:17] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [85:17] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［85:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [85:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [85:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [85:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [85:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [85:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [85:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [85:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [85:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [85:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [85:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [85:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [85:17]."
       }
     },
     {
@@ -253,7 +576,26 @@
         "ur_maududi": "سورہ 85 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [85:18] en español.",
         "fr_hamidullah": "Traduction de [85:18] en français.",
-        "bn_hoque": "সূরা 85 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 85 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [85:18] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [85:18] на русский язык (Абу Адель).",
+        "tr_diyanet": "[85:18] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [85:18] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［85:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [85:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [85:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [85:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [85:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [85:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [85:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [85:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [85:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [85:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [85:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [85:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [85:18]."
       }
     },
     {
@@ -267,7 +609,26 @@
         "ur_maududi": "سورہ 85 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [85:19] en español.",
         "fr_hamidullah": "Traduction de [85:19] en français.",
-        "bn_hoque": "সূরা 85 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 85 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [85:19] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [85:19] на русский язык (Абу Адель).",
+        "tr_diyanet": "[85:19] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [85:19] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［85:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [85:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [85:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [85:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [85:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [85:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [85:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [85:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [85:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [85:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [85:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [85:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [85:19]."
       }
     },
     {
@@ -281,7 +642,26 @@
         "ur_maududi": "سورہ 85 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [85:20] en español.",
         "fr_hamidullah": "Traduction de [85:20] en français.",
-        "bn_hoque": "সূরা 85 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 85 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [85:20] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [85:20] на русский язык (Абу Адель).",
+        "tr_diyanet": "[85:20] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [85:20] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［85:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [85:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [85:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [85:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [85:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [85:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [85:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [85:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [85:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [85:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [85:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [85:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [85:20]."
       }
     },
     {
@@ -295,7 +675,26 @@
         "ur_maududi": "سورہ 85 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [85:21] en español.",
         "fr_hamidullah": "Traduction de [85:21] en français.",
-        "bn_hoque": "সূরা 85 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 85 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [85:21] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [85:21] на русский язык (Абу Адель).",
+        "tr_diyanet": "[85:21] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [85:21] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［85:21］ 马坚 译文",
+        "it_piccardo": "Traduzione di [85:21] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [85:21] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [85:21] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [85:21] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [85:21]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [85:21] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [85:21].",
+        "ar_jalalayn": "تفسير الجلالين للآية [85:21] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [85:21].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [85:21].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [85:21].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [85:21]."
       }
     },
     {
@@ -309,7 +708,26 @@
         "ur_maududi": "سورہ 85 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [85:22] en español.",
         "fr_hamidullah": "Traduction de [85:22] en français.",
-        "bn_hoque": "সূরা 85 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 85 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [85:22] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [85:22] на русский язык (Абу Адель).",
+        "tr_diyanet": "[85:22] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [85:22] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［85:22］ 马坚 译文",
+        "it_piccardo": "Traduzione di [85:22] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [85:22] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [85:22] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [85:22] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [85:22]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [85:22] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [85:22].",
+        "ar_jalalayn": "تفسير الجلالين للآية [85:22] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [85:22].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [85:22].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [85:22].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [85:22]."
       }
     }
   ],

@@ -31,7 +31,8 @@
     "sync:updates": "node scripts/sync-updates/index.js",
     "generate:data": "node scripts/generate-data.js",
     "push:gitlab": "node scripts/push-to-gitlab.js",
-    "test": "node --test"
+    "test": "node --test",
+    "build": "mkdir -p packages/deen-sdk/dist && terser packages/deen-sdk/src/index.js -o packages/deen-sdk/dist/index.min.js -m -c && terser docs/deen-web.js -o docs/deen-web.min.js -m -c"
   },
   "keywords": [
     "quran",
@@ -43,5 +44,8 @@
   "license": "MIT",
   "engines": {
     "node": ">=20"
+  },
+  "devDependencies": {
+    "terser": "^5.48.0"
   }
 }

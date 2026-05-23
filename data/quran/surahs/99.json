@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T01:55:58.004Z",
+  "generatedAt": "2026-05-23T02:33:24.506Z",
   "surahNumber": 99,
   "ayahCount": 8,
   "ayahs": [
@@ -15,7 +15,26 @@
         "ur_maududi": "سورہ 99 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [99:1] en español.",
         "fr_hamidullah": "Traduction de [99:1] en français.",
-        "bn_hoque": "সূরা 99 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 99 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [99:1] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [99:1] на русский язык (Абу Адель).",
+        "tr_diyanet": "[99:1] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [99:1] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［99:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [99:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [99:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [99:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [99:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [99:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [99:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [99:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [99:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [99:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [99:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [99:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [99:1]."
       }
     },
     {
@@ -29,7 +48,26 @@
         "ur_maududi": "سورہ 99 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [99:2] en español.",
         "fr_hamidullah": "Traduction de [99:2] en français.",
-        "bn_hoque": "সূরা 99 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 99 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [99:2] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [99:2] на русский язык (Абу Адель).",
+        "tr_diyanet": "[99:2] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [99:2] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［99:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [99:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [99:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [99:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [99:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [99:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [99:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [99:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [99:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [99:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [99:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [99:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [99:2]."
       }
     },
     {
@@ -43,7 +81,26 @@
         "ur_maududi": "سورہ 99 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [99:3] en español.",
         "fr_hamidullah": "Traduction de [99:3] en français.",
-        "bn_hoque": "সূরা 99 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 99 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [99:3] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [99:3] на русский язык (Абу Адель).",
+        "tr_diyanet": "[99:3] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [99:3] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［99:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [99:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [99:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [99:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [99:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [99:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [99:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [99:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [99:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [99:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [99:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [99:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [99:3]."
       }
     },
     {
@@ -57,7 +114,26 @@
         "ur_maududi": "سورہ 99 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [99:4] en español.",
         "fr_hamidullah": "Traduction de [99:4] en français.",
-        "bn_hoque": "সূরা 99 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 99 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [99:4] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [99:4] на русский язык (Абу Адель).",
+        "tr_diyanet": "[99:4] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [99:4] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［99:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [99:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [99:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [99:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [99:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [99:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [99:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [99:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [99:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [99:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [99:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [99:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [99:4]."
       }
     },
     {
@@ -71,7 +147,26 @@
         "ur_maududi": "سورہ 99 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [99:5] en español.",
         "fr_hamidullah": "Traduction de [99:5] en français.",
-        "bn_hoque": "সূরা 99 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 99 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [99:5] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [99:5] на русский язык (Абу Адель).",
+        "tr_diyanet": "[99:5] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [99:5] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［99:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [99:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [99:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [99:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [99:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [99:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [99:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [99:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [99:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [99:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [99:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [99:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [99:5]."
       }
     },
     {
@@ -85,7 +180,26 @@
         "ur_maududi": "سورہ 99 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [99:6] en español.",
         "fr_hamidullah": "Traduction de [99:6] en français.",
-        "bn_hoque": "সূরা 99 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 99 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [99:6] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [99:6] на русский язык (Абу Адель).",
+        "tr_diyanet": "[99:6] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [99:6] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［99:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [99:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [99:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [99:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [99:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [99:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [99:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [99:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [99:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [99:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [99:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [99:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [99:6]."
       }
     },
     {
@@ -99,7 +213,26 @@
         "ur_maududi": "سورہ 99 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [99:7] en español.",
         "fr_hamidullah": "Traduction de [99:7] en français.",
-        "bn_hoque": "সূরা 99 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 99 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [99:7] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [99:7] на русский язык (Абу Адель).",
+        "tr_diyanet": "[99:7] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [99:7] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［99:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [99:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [99:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [99:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [99:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [99:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [99:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [99:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [99:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [99:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [99:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [99:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [99:7]."
       }
     },
     {
@@ -113,7 +246,26 @@
         "ur_maududi": "سورہ 99 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [99:8] en español.",
         "fr_hamidullah": "Traduction de [99:8] en français.",
-        "bn_hoque": "সূরা 99 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 99 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [99:8] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [99:8] на русский язык (Абу Адель).",
+        "tr_diyanet": "[99:8] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [99:8] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［99:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [99:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [99:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [99:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [99:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [99:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [99:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [99:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [99:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [99:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [99:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [99:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [99:8]."
       }
     }
   ],
