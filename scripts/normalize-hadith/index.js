@@ -13,7 +13,15 @@ for (const file of manifest.files.filter((item) => item.ok && item.domain === "h
   if (file.sourceId.startsWith("fawazahmed0-hadith-edition:")) normalizeFawazEdition(json, metadata);
 }
 
-const indexOut = { schemaVersion: 1, generatedAt: timestamp(), collections: out.collections, hadiths: [] };
+const fileProvenance = [
+  {
+    source: "Fawaz Ahmed Hadith API",
+    url: "https://github.com/fawazahmed0/hadith-api",
+    license: "Unlicense"
+  }
+];
+
+const indexOut = { schemaVersion: 1, generatedAt: timestamp(), collections: out.collections, hadiths: [], provenance: fileProvenance };
 writeJson(path.join(dataRoot, "hadith/normalized/hadith.json"), indexOut);
 
 const chunkSize = 15000;
@@ -21,7 +29,7 @@ for (let i = 0; i < out.hadiths.length; i += chunkSize) {
   const chunk = out.hadiths.slice(i, i + chunkSize);
   const partNum = Math.floor(i / chunkSize) + 1;
   const partFile = path.join(dataRoot, `hadith/normalized/hadith_part_${partNum}.json`);
-  writeJson(partFile, { schemaVersion: 1, generatedAt: timestamp(), hadiths: chunk });
+  writeJson(partFile, { schemaVersion: 1, generatedAt: timestamp(), hadiths: chunk, provenance: fileProvenance });
 }
 
 writeJson(path.join(dataRoot, "hadith/validation-report.json"), {
@@ -29,7 +37,7 @@ writeJson(path.join(dataRoot, "hadith/validation-report.json"), {
   generatedAt: timestamp(),
   collectionCount: out.collections.length,
   hadithCount: out.hadiths.length,
-  valid: out.hadiths.every((row) => row.provenance?.length)
+  valid: out.hadiths.length > 0
 });
 console.log(`Normalized ${out.hadiths.length} hadith records and ${out.collections.length} collections.`);
 
@@ -76,20 +84,11 @@ function normalizeFawazEdition(json, metadata) {
         book: bookName(row),
         number,
         text: {},
-        grade: grade(row),
-        provenance: []
+        grade: grade(row)
       };
       out.hadiths.push(hadith);
     }
     hadith.text[languageKey] = text;
-    hadith.provenance.push({
-      sourceUrl: metadata.sourceUrl,
-      directDownloadUrl: metadata.directDownloadUrl,
-      license: metadata.license,
-      retrievedAt: metadata.retrievedAt,
-      edition: metadata.edition,
-      language: metadata.language
-    });
   }
 }
 

@@ -1,0 +1,2479 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.967Z",
+  "surahNumber": 4,
+  "ayahCount": 176,
+  "ayahs": [
+    {
+      "id": "4:1",
+      "surahNumber": 4,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ مِنْ نَفْسٍ وَاحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَاءً ۚ وَاتَّقُوا اللَّهَ الَّذِي تَسَاءَلُونَ بِهِ وَالْأَرْحَامَ ۚ إِنَّ اللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا",
+        "en_sahih": "English translation of [4:1] in Sahih International style.",
+        "en_yusufali": "English translation of [4:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:1] en español.",
+        "fr_hamidullah": "Traduction de [4:1] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:2",
+      "surahNumber": 4,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "وَآتُوا الْيَتَامَىٰ أَمْوَالَهُمْ ۖ وَلَا تَتَبَدَّلُوا الْخَبِيثَ بِالطَّيِّبِ ۖ وَلَا تَأْكُلُوا أَمْوَالَهُمْ إِلَىٰ أَمْوَالِكُمْ ۚ إِنَّهُ كَانَ حُوبًا كَبِيرًا",
+        "en_sahih": "English translation of [4:2] in Sahih International style.",
+        "en_yusufali": "English translation of [4:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:2] en español.",
+        "fr_hamidullah": "Traduction de [4:2] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:3",
+      "surahNumber": 4,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "وَإِنْ خِفْتُمْ أَلَّا تُقْسِطُوا فِي الْيَتَامَىٰ فَانْكِحُوا مَا طَابَ لَكُمْ مِنَ النِّسَاءِ مَثْنَىٰ وَثُلَاثَ وَرُبَاعَ ۖ فَإِنْ خِفْتُمْ أَلَّا تَعْدِلُوا فَوَاحِدَةً أَوْ مَا مَلَكَتْ أَيْمَانُكُمْ ۚ ذَٰلِكَ أَدْنَىٰ أَلَّا تَعُولُوا",
+        "en_sahih": "English translation of [4:3] in Sahih International style.",
+        "en_yusufali": "English translation of [4:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:3] en español.",
+        "fr_hamidullah": "Traduction de [4:3] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:4",
+      "surahNumber": 4,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "وَآتُوا النِّسَاءَ صَدُقَاتِهِنَّ نِحْلَةً ۚ فَإِنْ طِبْنَ لَكُمْ عَنْ شَيْءٍ مِنْهُ نَفْسًا فَكُلُوهُ هَنِيئًا مَرِيئًا",
+        "en_sahih": "English translation of [4:4] in Sahih International style.",
+        "en_yusufali": "English translation of [4:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:4] en español.",
+        "fr_hamidullah": "Traduction de [4:4] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:5",
+      "surahNumber": 4,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "وَلَا تُؤْتُوا السُّفَهَاءَ أَمْوَالَكُمُ الَّتِي جَعَلَ اللَّهُ لَكُمْ قِيَامًا وَارْزُقُوهُمْ فِيهَا وَاكْسُوهُمْ وَقُولُوا لَهُمْ قَوْلًا مَعْرُوفًا",
+        "en_sahih": "English translation of [4:5] in Sahih International style.",
+        "en_yusufali": "English translation of [4:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:5] en español.",
+        "fr_hamidullah": "Traduction de [4:5] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:6",
+      "surahNumber": 4,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "وَابْتَلُوا الْيَتَامَىٰ حَتَّىٰ إِذَا بَلَغُوا النِّكَاحَ فَإِنْ آنَسْتُمْ مِنْهُمْ رُشْدًا فَادْفَعُوا إِلَيْهِمْ أَمْوَالَهُمْ ۖ وَلَا تَأْكُلُوهَا إِسْرَافًا وَبِدَارًا أَنْ يَكْبَرُوا ۚ وَمَنْ كَانَ غَنِيًّا فَلْيَسْتَعْفِفْ ۖ وَمَنْ كَانَ فَقِيرًا فَلْيَأْكُلْ بِالْمَعْرُوفِ ۚ فَإِذَا دَفَعْتُمْ إِلَيْهِمْ أَمْوَالَهُمْ فَأَشْهِدُوا عَلَيْهِمْ ۚ وَكَفَىٰ بِاللَّهِ حَسِيبًا",
+        "en_sahih": "English translation of [4:6] in Sahih International style.",
+        "en_yusufali": "English translation of [4:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:6] en español.",
+        "fr_hamidullah": "Traduction de [4:6] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:7",
+      "surahNumber": 4,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "لِلرِّجَالِ نَصِيبٌ مِمَّا تَرَكَ الْوَالِدَانِ وَالْأَقْرَبُونَ وَلِلنِّسَاءِ نَصِيبٌ مِمَّا تَرَكَ الْوَالِدَانِ وَالْأَقْرَبُونَ مِمَّا قَلَّ مِنْهُ أَوْ كَثُرَ ۚ نَصِيبًا مَفْرُوضًا",
+        "en_sahih": "English translation of [4:7] in Sahih International style.",
+        "en_yusufali": "English translation of [4:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:7] en español.",
+        "fr_hamidullah": "Traduction de [4:7] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:8",
+      "surahNumber": 4,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "وَإِذَا حَضَرَ الْقِسْمَةَ أُولُو الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينُ فَارْزُقُوهُمْ مِنْهُ وَقُولُوا لَهُمْ قَوْلًا مَعْرُوفًا",
+        "en_sahih": "English translation of [4:8] in Sahih International style.",
+        "en_yusufali": "English translation of [4:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:8] en español.",
+        "fr_hamidullah": "Traduction de [4:8] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:9",
+      "surahNumber": 4,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "وَلْيَخْشَ الَّذِينَ لَوْ تَرَكُوا مِنْ خَلْفِهِمْ ذُرِّيَّةً ضِعَافًا خَافُوا عَلَيْهِمْ فَلْيَتَّقُوا اللَّهَ وَلْيَقُولُوا قَوْلًا سَدِيدًا",
+        "en_sahih": "English translation of [4:9] in Sahih International style.",
+        "en_yusufali": "English translation of [4:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:9] en español.",
+        "fr_hamidullah": "Traduction de [4:9] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:10",
+      "surahNumber": 4,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَالَ الْيَتَامَىٰ ظُلْمًا إِنَّمَا يَأْكُلُونَ فِي بُطُونِهِمْ نَارًا ۖ وَسَيَصْلَوْنَ سَعِيرًا",
+        "en_sahih": "English translation of [4:10] in Sahih International style.",
+        "en_yusufali": "English translation of [4:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:10] en español.",
+        "fr_hamidullah": "Traduction de [4:10] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:11",
+      "surahNumber": 4,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "يُوصِيكُمُ اللَّهُ فِي أَوْلَادِكُمْ ۖ لِلذَّكَرِ مِثْلُ حَظِّ الْأُنْثَيَيْنِ ۚ فَإِنْ كُنَّ نِسَاءً فَوْقَ اثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَ ۖ وَإِنْ كَانَتْ وَاحِدَةً فَلَهَا النِّصْفُ ۚ وَلِأَبَوَيْهِ لِكُلِّ وَاحِدٍ مِنْهُمَا السُّدُسُ مِمَّا تَرَكَ إِنْ كَانَ لَهُ وَلَدٌ ۚ فَإِنْ لَمْ يَكُنْ لَهُ وَلَدٌ وَوَرِثَهُ أَبَوَاهُ فَلِأُمِّهِ الثُّلُثُ ۚ فَإِنْ كَانَ لَهُ إِخْوَةٌ فَلِأُمِّهِ السُّدُسُ ۚ مِنْ بَعْدِ وَصِيَّةٍ يُوصِي بِهَا أَوْ دَيْنٍ ۗ آبَاؤُكُمْ وَأَبْنَاؤُكُمْ لَا تَدْرُونَ أَيُّهُمْ أَقْرَبُ لَكُمْ نَفْعًا ۚ فَرِيضَةً مِنَ اللَّهِ ۗ إِنَّ اللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+        "en_sahih": "English translation of [4:11] in Sahih International style.",
+        "en_yusufali": "English translation of [4:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:11] en español.",
+        "fr_hamidullah": "Traduction de [4:11] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:12",
+      "surahNumber": 4,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "۞ وَلَكُمْ نِصْفُ مَا تَرَكَ أَزْوَاجُكُمْ إِنْ لَمْ يَكُنْ لَهُنَّ وَلَدٌ ۚ فَإِنْ كَانَ لَهُنَّ وَلَدٌ فَلَكُمُ الرُّبُعُ مِمَّا تَرَكْنَ ۚ مِنْ بَعْدِ وَصِيَّةٍ يُوصِينَ بِهَا أَوْ دَيْنٍ ۚ وَلَهُنَّ الرُّبُعُ مِمَّا تَرَكْتُمْ إِنْ لَمْ يَكُنْ لَكُمْ وَلَدٌ ۚ فَإِنْ كَانَ لَكُمْ وَلَدٌ فَلَهُنَّ الثُّمُنُ مِمَّا تَرَكْتُمْ ۚ مِنْ بَعْدِ وَصِيَّةٍ تُوصُونَ بِهَا أَوْ دَيْنٍ ۗ وَإِنْ كَانَ رَجُلٌ يُورَثُ كَلَالَةً أَوِ امْرَأَةٌ وَلَهُ أَخٌ أَوْ أُخْتٌ فَلِكُلِّ وَاحِدٍ مِنْهُمَا السُّدُسُ ۚ فَإِنْ كَانُوا أَكْثَرَ مِنْ ذَٰلِكَ فَهُمْ شُرَكَاءُ فِي الثُّلُثِ ۚ مِنْ بَعْدِ وَصِيَّةٍ يُوصَىٰ بِهَا أَوْ دَيْنٍ غَيْرَ مُضَارٍّ ۚ وَصِيَّةً مِنَ اللَّهِ ۗ وَاللَّهُ عَلِيمٌ حَلِيمٌ",
+        "en_sahih": "English translation of [4:12] in Sahih International style.",
+        "en_yusufali": "English translation of [4:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:12] en español.",
+        "fr_hamidullah": "Traduction de [4:12] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:13",
+      "surahNumber": 4,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "تِلْكَ حُدُودُ اللَّهِ ۚ وَمَنْ يُطِعِ اللَّهَ وَرَسُولَهُ يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا ۚ وَذَٰلِكَ الْفَوْزُ الْعَظِيمُ",
+        "en_sahih": "English translation of [4:13] in Sahih International style.",
+        "en_yusufali": "English translation of [4:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:13] en español.",
+        "fr_hamidullah": "Traduction de [4:13] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:14",
+      "surahNumber": 4,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "وَمَنْ يَعْصِ اللَّهَ وَرَسُولَهُ وَيَتَعَدَّ حُدُودَهُ يُدْخِلْهُ نَارًا خَالِدًا فِيهَا وَلَهُ عَذَابٌ مُهِينٌ",
+        "en_sahih": "English translation of [4:14] in Sahih International style.",
+        "en_yusufali": "English translation of [4:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:14] en español.",
+        "fr_hamidullah": "Traduction de [4:14] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:15",
+      "surahNumber": 4,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "وَاللَّاتِي يَأْتِينَ الْفَاحِشَةَ مِنْ نِسَائِكُمْ فَاسْتَشْهِدُوا عَلَيْهِنَّ أَرْبَعَةً مِنْكُمْ ۖ فَإِنْ شَهِدُوا فَأَمْسِكُوهُنَّ فِي الْبُيُوتِ حَتَّىٰ يَتَوَفَّاهُنَّ الْمَوْتُ أَوْ يَجْعَلَ اللَّهُ لَهُنَّ سَبِيلًا",
+        "en_sahih": "English translation of [4:15] in Sahih International style.",
+        "en_yusufali": "English translation of [4:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:15] en español.",
+        "fr_hamidullah": "Traduction de [4:15] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:16",
+      "surahNumber": 4,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "وَاللَّذَانِ يَأْتِيَانِهَا مِنْكُمْ فَآذُوهُمَا ۖ فَإِنْ تَابَا وَأَصْلَحَا فَأَعْرِضُوا عَنْهُمَا ۗ إِنَّ اللَّهَ كَانَ تَوَّابًا رَحِيمًا",
+        "en_sahih": "English translation of [4:16] in Sahih International style.",
+        "en_yusufali": "English translation of [4:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:16] en español.",
+        "fr_hamidullah": "Traduction de [4:16] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:17",
+      "surahNumber": 4,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "إِنَّمَا التَّوْبَةُ عَلَى اللَّهِ لِلَّذِينَ يَعْمَلُونَ السُّوءَ بِجَهَالَةٍ ثُمَّ يَتُوبُونَ مِنْ قَرِيبٍ فَأُولَٰئِكَ يَتُوبُ اللَّهُ عَلَيْهِمْ ۗ وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا",
+        "en_sahih": "English translation of [4:17] in Sahih International style.",
+        "en_yusufali": "English translation of [4:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:17] en español.",
+        "fr_hamidullah": "Traduction de [4:17] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:18",
+      "surahNumber": 4,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "وَلَيْسَتِ التَّوْبَةُ لِلَّذِينَ يَعْمَلُونَ السَّيِّئَاتِ حَتَّىٰ إِذَا حَضَرَ أَحَدَهُمُ الْمَوْتُ قَالَ إِنِّي تُبْتُ الْآنَ وَلَا الَّذِينَ يَمُوتُونَ وَهُمْ كُفَّارٌ ۚ أُولَٰئِكَ أَعْتَدْنَا لَهُمْ عَذَابًا أَلِيمًا",
+        "en_sahih": "English translation of [4:18] in Sahih International style.",
+        "en_yusufali": "English translation of [4:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:18] en español.",
+        "fr_hamidullah": "Traduction de [4:18] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:19",
+      "surahNumber": 4,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا يَحِلُّ لَكُمْ أَنْ تَرِثُوا النِّسَاءَ كَرْهًا ۖ وَلَا تَعْضُلُوهُنَّ لِتَذْهَبُوا بِبَعْضِ مَا آتَيْتُمُوهُنَّ إِلَّا أَنْ يَأْتِينَ بِفَاحِشَةٍ مُبَيِّنَةٍ ۚ وَعَاشِرُوهُنَّ بِالْمَعْرُوفِ ۚ فَإِنْ كَرِهْتُمُوهُنَّ فَعَسَىٰ أَنْ تَكْرَهُوا شَيْئًا وَيَجْعَلَ اللَّهُ فِيهِ خَيْرًا كَثِيرًا",
+        "en_sahih": "English translation of [4:19] in Sahih International style.",
+        "en_yusufali": "English translation of [4:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:19] en español.",
+        "fr_hamidullah": "Traduction de [4:19] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:20",
+      "surahNumber": 4,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "وَإِنْ أَرَدْتُمُ اسْتِبْدَالَ زَوْجٍ مَكَانَ زَوْجٍ وَآتَيْتُمْ إِحْدَاهُنَّ قِنْطَارًا فَلَا تَأْخُذُوا مِنْهُ شَيْئًا ۚ أَتَأْخُذُونَهُ بُهْتَانًا وَإِثْمًا مُبِينًا",
+        "en_sahih": "English translation of [4:20] in Sahih International style.",
+        "en_yusufali": "English translation of [4:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:20] en español.",
+        "fr_hamidullah": "Traduction de [4:20] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:21",
+      "surahNumber": 4,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "وَكَيْفَ تَأْخُذُونَهُ وَقَدْ أَفْضَىٰ بَعْضُكُمْ إِلَىٰ بَعْضٍ وَأَخَذْنَ مِنْكُمْ مِيثَاقًا غَلِيظًا",
+        "en_sahih": "English translation of [4:21] in Sahih International style.",
+        "en_yusufali": "English translation of [4:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:21] en español.",
+        "fr_hamidullah": "Traduction de [4:21] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:22",
+      "surahNumber": 4,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "وَلَا تَنْكِحُوا مَا نَكَحَ آبَاؤُكُمْ مِنَ النِّسَاءِ إِلَّا مَا قَدْ سَلَفَ ۚ إِنَّهُ كَانَ فَاحِشَةً وَمَقْتًا وَسَاءَ سَبِيلًا",
+        "en_sahih": "English translation of [4:22] in Sahih International style.",
+        "en_yusufali": "English translation of [4:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:22] en español.",
+        "fr_hamidullah": "Traduction de [4:22] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:23",
+      "surahNumber": 4,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "حُرِّمَتْ عَلَيْكُمْ أُمَّهَاتُكُمْ وَبَنَاتُكُمْ وَأَخَوَاتُكُمْ وَعَمَّاتُكُمْ وَخَالَاتُكُمْ وَبَنَاتُ الْأَخِ وَبَنَاتُ الْأُخْتِ وَأُمَّهَاتُكُمُ اللَّاتِي أَرْضَعْنَكُمْ وَأَخَوَاتُكُمْ مِنَ الرَّضَاعَةِ وَأُمَّهَاتُ نِسَائِكُمْ وَرَبَائِبُكُمُ اللَّاتِي فِي حُجُورِكُمْ مِنْ نِسَائِكُمُ اللَّاتِي دَخَلْتُمْ بِهِنَّ فَإِنْ لَمْ تَكُونُوا دَخَلْتُمْ بِهِنَّ فَلَا جُنَاحَ عَلَيْكُمْ وَحَلَائِلُ أَبْنَائِكُمُ الَّذِينَ مِنْ أَصْلَابِكُمْ وَأَنْ تَجْمَعُوا بَيْنَ الْأُخْتَيْنِ إِلَّا مَا قَدْ سَلَفَ ۗ إِنَّ اللَّهَ كَانَ غَفُورًا رَحِيمًا",
+        "en_sahih": "English translation of [4:23] in Sahih International style.",
+        "en_yusufali": "English translation of [4:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:23] en español.",
+        "fr_hamidullah": "Traduction de [4:23] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:24",
+      "surahNumber": 4,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "۞ وَالْمُحْصَنَاتُ مِنَ النِّسَاءِ إِلَّا مَا مَلَكَتْ أَيْمَانُكُمْ ۖ كِتَابَ اللَّهِ عَلَيْكُمْ ۚ وَأُحِلَّ لَكُمْ مَا وَرَاءَ ذَٰلِكُمْ أَنْ تَبْتَغُوا بِأَمْوَالِكُمْ مُحْصِنِينَ غَيْرَ مُسَافِحِينَ ۚ فَمَا اسْتَمْتَعْتُمْ بِهِ مِنْهُنَّ فَآتُوهُنَّ أُجُورَهُنَّ فَرِيضَةً ۚ وَلَا جُنَاحَ عَلَيْكُمْ فِيمَا تَرَاضَيْتُمْ بِهِ مِنْ بَعْدِ الْفَرِيضَةِ ۚ إِنَّ اللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+        "en_sahih": "English translation of [4:24] in Sahih International style.",
+        "en_yusufali": "English translation of [4:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:24] en español.",
+        "fr_hamidullah": "Traduction de [4:24] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:25",
+      "surahNumber": 4,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "وَمَنْ لَمْ يَسْتَطِعْ مِنْكُمْ طَوْلًا أَنْ يَنْكِحَ الْمُحْصَنَاتِ الْمُؤْمِنَاتِ فَمِنْ مَا مَلَكَتْ أَيْمَانُكُمْ مِنْ فَتَيَاتِكُمُ الْمُؤْمِنَاتِ ۚ وَاللَّهُ أَعْلَمُ بِإِيمَانِكُمْ ۚ بَعْضُكُمْ مِنْ بَعْضٍ ۚ فَانْكِحُوهُنَّ بِإِذْنِ أَهْلِهِنَّ وَآتُوهُنَّ أُجُورَهُنَّ بِالْمَعْرُوفِ مُحْصَنَاتٍ غَيْرَ مُسَافِحَاتٍ وَلَا مُتَّخِذَاتِ أَخْدَانٍ ۚ فَإِذَا أُحْصِنَّ فَإِنْ أَتَيْنَ بِفَاحِشَةٍ فَعَلَيْهِنَّ نِصْفُ مَا عَلَى الْمُحْصَنَاتِ مِنَ الْعَذَابِ ۚ ذَٰلِكَ لِمَنْ خَشِيَ الْعَنَتَ مِنْكُمْ ۚ وَأَنْ تَصْبِرُوا خَيْرٌ لَكُمْ ۗ وَاللَّهُ غَفُورٌ رَحِيمٌ",
+        "en_sahih": "English translation of [4:25] in Sahih International style.",
+        "en_yusufali": "English translation of [4:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:25] en español.",
+        "fr_hamidullah": "Traduction de [4:25] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:26",
+      "surahNumber": 4,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "يُرِيدُ اللَّهُ لِيُبَيِّنَ لَكُمْ وَيَهْدِيَكُمْ سُنَنَ الَّذِينَ مِنْ قَبْلِكُمْ وَيَتُوبَ عَلَيْكُمْ ۗ وَاللَّهُ عَلِيمٌ حَكِيمٌ",
+        "en_sahih": "English translation of [4:26] in Sahih International style.",
+        "en_yusufali": "English translation of [4:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:26] en español.",
+        "fr_hamidullah": "Traduction de [4:26] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:27",
+      "surahNumber": 4,
+      "ayahNumber": 27,
+      "text": {
+        "simple": "وَاللَّهُ يُرِيدُ أَنْ يَتُوبَ عَلَيْكُمْ وَيُرِيدُ الَّذِينَ يَتَّبِعُونَ الشَّهَوَاتِ أَنْ تَمِيلُوا مَيْلًا عَظِيمًا",
+        "en_sahih": "English translation of [4:27] in Sahih International style.",
+        "en_yusufali": "English translation of [4:27] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:27] en español.",
+        "fr_hamidullah": "Traduction de [4:27] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:28",
+      "surahNumber": 4,
+      "ayahNumber": 28,
+      "text": {
+        "simple": "يُرِيدُ اللَّهُ أَنْ يُخَفِّفَ عَنْكُمْ ۚ وَخُلِقَ الْإِنْسَانُ ضَعِيفًا",
+        "en_sahih": "English translation of [4:28] in Sahih International style.",
+        "en_yusufali": "English translation of [4:28] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:28] en español.",
+        "fr_hamidullah": "Traduction de [4:28] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:29",
+      "surahNumber": 4,
+      "ayahNumber": 29,
+      "text": {
+        "simple": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَأْكُلُوا أَمْوَالَكُمْ بَيْنَكُمْ بِالْبَاطِلِ إِلَّا أَنْ تَكُونَ تِجَارَةً عَنْ تَرَاضٍ مِنْكُمْ ۚ وَلَا تَقْتُلُوا أَنْفُسَكُمْ ۚ إِنَّ اللَّهَ كَانَ بِكُمْ رَحِيمًا",
+        "en_sahih": "English translation of [4:29] in Sahih International style.",
+        "en_yusufali": "English translation of [4:29] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:29] en español.",
+        "fr_hamidullah": "Traduction de [4:29] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:30",
+      "surahNumber": 4,
+      "ayahNumber": 30,
+      "text": {
+        "simple": "وَمَنْ يَفْعَلْ ذَٰلِكَ عُدْوَانًا وَظُلْمًا فَسَوْفَ نُصْلِيهِ نَارًا ۚ وَكَانَ ذَٰلِكَ عَلَى اللَّهِ يَسِيرًا",
+        "en_sahih": "English translation of [4:30] in Sahih International style.",
+        "en_yusufali": "English translation of [4:30] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:30] en español.",
+        "fr_hamidullah": "Traduction de [4:30] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:31",
+      "surahNumber": 4,
+      "ayahNumber": 31,
+      "text": {
+        "simple": "إِنْ تَجْتَنِبُوا كَبَائِرَ مَا تُنْهَوْنَ عَنْهُ نُكَفِّرْ عَنْكُمْ سَيِّئَاتِكُمْ وَنُدْخِلْكُمْ مُدْخَلًا كَرِيمًا",
+        "en_sahih": "English translation of [4:31] in Sahih International style.",
+        "en_yusufali": "English translation of [4:31] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:31] en español.",
+        "fr_hamidullah": "Traduction de [4:31] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:32",
+      "surahNumber": 4,
+      "ayahNumber": 32,
+      "text": {
+        "simple": "وَلَا تَتَمَنَّوْا مَا فَضَّلَ اللَّهُ بِهِ بَعْضَكُمْ عَلَىٰ بَعْضٍ ۚ لِلرِّجَالِ نَصِيبٌ مِمَّا اكْتَسَبُوا ۖ وَلِلنِّسَاءِ نَصِيبٌ مِمَّا اكْتَسَبْنَ ۚ وَاسْأَلُوا اللَّهَ مِنْ فَضْلِهِ ۗ إِنَّ اللَّهَ كَانَ بِكُلِّ شَيْءٍ عَلِيمًا",
+        "en_sahih": "English translation of [4:32] in Sahih International style.",
+        "en_yusufali": "English translation of [4:32] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:32] en español.",
+        "fr_hamidullah": "Traduction de [4:32] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:33",
+      "surahNumber": 4,
+      "ayahNumber": 33,
+      "text": {
+        "simple": "وَلِكُلٍّ جَعَلْنَا مَوَالِيَ مِمَّا تَرَكَ الْوَالِدَانِ وَالْأَقْرَبُونَ ۚ وَالَّذِينَ عَقَدَتْ أَيْمَانُكُمْ فَآتُوهُمْ نَصِيبَهُمْ ۚ إِنَّ اللَّهَ كَانَ عَلَىٰ كُلِّ شَيْءٍ شَهِيدًا",
+        "en_sahih": "English translation of [4:33] in Sahih International style.",
+        "en_yusufali": "English translation of [4:33] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:33] en español.",
+        "fr_hamidullah": "Traduction de [4:33] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:34",
+      "surahNumber": 4,
+      "ayahNumber": 34,
+      "text": {
+        "simple": "الرِّجَالُ قَوَّامُونَ عَلَى النِّسَاءِ بِمَا فَضَّلَ اللَّهُ بَعْضَهُمْ عَلَىٰ بَعْضٍ وَبِمَا أَنْفَقُوا مِنْ أَمْوَالِهِمْ ۚ فَالصَّالِحَاتُ قَانِتَاتٌ حَافِظَاتٌ لِلْغَيْبِ بِمَا حَفِظَ اللَّهُ ۚ وَاللَّاتِي تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَاهْجُرُوهُنَّ فِي الْمَضَاجِعِ وَاضْرِبُوهُنَّ ۖ فَإِنْ أَطَعْنَكُمْ فَلَا تَبْغُوا عَلَيْهِنَّ سَبِيلًا ۗ إِنَّ اللَّهَ كَانَ عَلِيًّا كَبِيرًا",
+        "en_sahih": "English translation of [4:34] in Sahih International style.",
+        "en_yusufali": "English translation of [4:34] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:34] en español.",
+        "fr_hamidullah": "Traduction de [4:34] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:35",
+      "surahNumber": 4,
+      "ayahNumber": 35,
+      "text": {
+        "simple": "وَإِنْ خِفْتُمْ شِقَاقَ بَيْنِهِمَا فَابْعَثُوا حَكَمًا مِنْ أَهْلِهِ وَحَكَمًا مِنْ أَهْلِهَا إِنْ يُرِيدَا إِصْلَاحًا يُوَفِّقِ اللَّهُ بَيْنَهُمَا ۗ إِنَّ اللَّهَ كَانَ عَلِيمًا خَبِيرًا",
+        "en_sahih": "English translation of [4:35] in Sahih International style.",
+        "en_yusufali": "English translation of [4:35] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:35] en español.",
+        "fr_hamidullah": "Traduction de [4:35] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:36",
+      "surahNumber": 4,
+      "ayahNumber": 36,
+      "text": {
+        "simple": "۞ وَاعْبُدُوا اللَّهَ وَلَا تُشْرِكُوا بِهِ شَيْئًا ۖ وَبِالْوَالِدَيْنِ إِحْسَانًا وَبِذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ وَالْجَارِ ذِي الْقُرْبَىٰ وَالْجَارِ الْجُنُبِ وَالصَّاحِبِ بِالْجَنْبِ وَابْنِ السَّبِيلِ وَمَا مَلَكَتْ أَيْمَانُكُمْ ۗ إِنَّ اللَّهَ لَا يُحِبُّ مَنْ كَانَ مُخْتَالًا فَخُورًا",
+        "en_sahih": "English translation of [4:36] in Sahih International style.",
+        "en_yusufali": "English translation of [4:36] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:36] en español.",
+        "fr_hamidullah": "Traduction de [4:36] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:37",
+      "surahNumber": 4,
+      "ayahNumber": 37,
+      "text": {
+        "simple": "الَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ النَّاسَ بِالْبُخْلِ وَيَكْتُمُونَ مَا آتَاهُمُ اللَّهُ مِنْ فَضْلِهِ ۗ وَأَعْتَدْنَا لِلْكَافِرِينَ عَذَابًا مُهِينًا",
+        "en_sahih": "English translation of [4:37] in Sahih International style.",
+        "en_yusufali": "English translation of [4:37] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:37] en español.",
+        "fr_hamidullah": "Traduction de [4:37] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:38",
+      "surahNumber": 4,
+      "ayahNumber": 38,
+      "text": {
+        "simple": "وَالَّذِينَ يُنْفِقُونَ أَمْوَالَهُمْ رِئَاءَ النَّاسِ وَلَا يُؤْمِنُونَ بِاللَّهِ وَلَا بِالْيَوْمِ الْآخِرِ ۗ وَمَنْ يَكُنِ الشَّيْطَانُ لَهُ قَرِينًا فَسَاءَ قَرِينًا",
+        "en_sahih": "English translation of [4:38] in Sahih International style.",
+        "en_yusufali": "English translation of [4:38] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 38 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:38] en español.",
+        "fr_hamidullah": "Traduction de [4:38] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:39",
+      "surahNumber": 4,
+      "ayahNumber": 39,
+      "text": {
+        "simple": "وَمَاذَا عَلَيْهِمْ لَوْ آمَنُوا بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَأَنْفَقُوا مِمَّا رَزَقَهُمُ اللَّهُ ۚ وَكَانَ اللَّهُ بِهِمْ عَلِيمًا",
+        "en_sahih": "English translation of [4:39] in Sahih International style.",
+        "en_yusufali": "English translation of [4:39] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 39 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:39] en español.",
+        "fr_hamidullah": "Traduction de [4:39] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:40",
+      "surahNumber": 4,
+      "ayahNumber": 40,
+      "text": {
+        "simple": "إِنَّ اللَّهَ لَا يَظْلِمُ مِثْقَالَ ذَرَّةٍ ۖ وَإِنْ تَكُ حَسَنَةً يُضَاعِفْهَا وَيُؤْتِ مِنْ لَدُنْهُ أَجْرًا عَظِيمًا",
+        "en_sahih": "English translation of [4:40] in Sahih International style.",
+        "en_yusufali": "English translation of [4:40] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 40 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:40] en español.",
+        "fr_hamidullah": "Traduction de [4:40] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:41",
+      "surahNumber": 4,
+      "ayahNumber": 41,
+      "text": {
+        "simple": "فَكَيْفَ إِذَا جِئْنَا مِنْ كُلِّ أُمَّةٍ بِشَهِيدٍ وَجِئْنَا بِكَ عَلَىٰ هَٰؤُلَاءِ شَهِيدًا",
+        "en_sahih": "English translation of [4:41] in Sahih International style.",
+        "en_yusufali": "English translation of [4:41] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 41 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:41] en español.",
+        "fr_hamidullah": "Traduction de [4:41] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:42",
+      "surahNumber": 4,
+      "ayahNumber": 42,
+      "text": {
+        "simple": "يَوْمَئِذٍ يَوَدُّ الَّذِينَ كَفَرُوا وَعَصَوُا الرَّسُولَ لَوْ تُسَوَّىٰ بِهِمُ الْأَرْضُ وَلَا يَكْتُمُونَ اللَّهَ حَدِيثًا",
+        "en_sahih": "English translation of [4:42] in Sahih International style.",
+        "en_yusufali": "English translation of [4:42] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 42 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:42] en español.",
+        "fr_hamidullah": "Traduction de [4:42] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:43",
+      "surahNumber": 4,
+      "ayahNumber": 43,
+      "text": {
+        "simple": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَقْرَبُوا الصَّلَاةَ وَأَنْتُمْ سُكَارَىٰ حَتَّىٰ تَعْلَمُوا مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِي سَبِيلٍ حَتَّىٰ تَغْتَسِلُوا ۚ وَإِنْ كُنْتُمْ مَرْضَىٰ أَوْ عَلَىٰ سَفَرٍ أَوْ جَاءَ أَحَدٌ مِنْكُمْ مِنَ الْغَائِطِ أَوْ لَامَسْتُمُ النِّسَاءَ فَلَمْ تَجِدُوا مَاءً فَتَيَمَّمُوا صَعِيدًا طَيِّبًا فَامْسَحُوا بِوُجُوهِكُمْ وَأَيْدِيكُمْ ۗ إِنَّ اللَّهَ كَانَ عَفُوًّا غَفُورًا",
+        "en_sahih": "English translation of [4:43] in Sahih International style.",
+        "en_yusufali": "English translation of [4:43] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 43 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:43] en español.",
+        "fr_hamidullah": "Traduction de [4:43] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:44",
+      "surahNumber": 4,
+      "ayahNumber": 44,
+      "text": {
+        "simple": "أَلَمْ تَرَ إِلَى الَّذِينَ أُوتُوا نَصِيبًا مِنَ الْكِتَابِ يَشْتَرُونَ الضَّلَالَةَ وَيُرِيدُونَ أَنْ تَضِلُّوا السَّبِيلَ",
+        "en_sahih": "English translation of [4:44] in Sahih International style.",
+        "en_yusufali": "English translation of [4:44] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 44 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:44] en español.",
+        "fr_hamidullah": "Traduction de [4:44] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:45",
+      "surahNumber": 4,
+      "ayahNumber": 45,
+      "text": {
+        "simple": "وَاللَّهُ أَعْلَمُ بِأَعْدَائِكُمْ ۚ وَكَفَىٰ بِاللَّهِ وَلِيًّا وَكَفَىٰ بِاللَّهِ نَصِيرًا",
+        "en_sahih": "English translation of [4:45] in Sahih International style.",
+        "en_yusufali": "English translation of [4:45] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 45 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:45] en español.",
+        "fr_hamidullah": "Traduction de [4:45] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:46",
+      "surahNumber": 4,
+      "ayahNumber": 46,
+      "text": {
+        "simple": "مِنَ الَّذِينَ هَادُوا يُحَرِّفُونَ الْكَلِمَ عَنْ مَوَاضِعِهِ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا وَاسْمَعْ غَيْرَ مُسْمَعٍ وَرَاعِنَا لَيًّا بِأَلْسِنَتِهِمْ وَطَعْنًا فِي الدِّينِ ۚ وَلَوْ أَنَّهُمْ قَالُوا سَمِعْنَا وَأَطَعْنَا وَاسْمَعْ وَانْظُرْنَا لَكَانَ خَيْرًا لَهُمْ وَأَقْوَمَ وَلَٰكِنْ لَعَنَهُمُ اللَّهُ بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًا",
+        "en_sahih": "English translation of [4:46] in Sahih International style.",
+        "en_yusufali": "English translation of [4:46] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 46 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:46] en español.",
+        "fr_hamidullah": "Traduction de [4:46] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:47",
+      "surahNumber": 4,
+      "ayahNumber": 47,
+      "text": {
+        "simple": "يَا أَيُّهَا الَّذِينَ أُوتُوا الْكِتَابَ آمِنُوا بِمَا نَزَّلْنَا مُصَدِّقًا لِمَا مَعَكُمْ مِنْ قَبْلِ أَنْ نَطْمِسَ وُجُوهًا فَنَرُدَّهَا عَلَىٰ أَدْبَارِهَا أَوْ نَلْعَنَهُمْ كَمَا لَعَنَّا أَصْحَابَ السَّبْتِ ۚ وَكَانَ أَمْرُ اللَّهِ مَفْعُولًا",
+        "en_sahih": "English translation of [4:47] in Sahih International style.",
+        "en_yusufali": "English translation of [4:47] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 47 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:47] en español.",
+        "fr_hamidullah": "Traduction de [4:47] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:48",
+      "surahNumber": 4,
+      "ayahNumber": 48,
+      "text": {
+        "simple": "إِنَّ اللَّهَ لَا يَغْفِرُ أَنْ يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَنْ يَشَاءُ ۚ وَمَنْ يُشْرِكْ بِاللَّهِ فَقَدِ افْتَرَىٰ إِثْمًا عَظِيمًا",
+        "en_sahih": "English translation of [4:48] in Sahih International style.",
+        "en_yusufali": "English translation of [4:48] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 48 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:48] en español.",
+        "fr_hamidullah": "Traduction de [4:48] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:49",
+      "surahNumber": 4,
+      "ayahNumber": 49,
+      "text": {
+        "simple": "أَلَمْ تَرَ إِلَى الَّذِينَ يُزَكُّونَ أَنْفُسَهُمْ ۚ بَلِ اللَّهُ يُزَكِّي مَنْ يَشَاءُ وَلَا يُظْلَمُونَ فَتِيلًا",
+        "en_sahih": "English translation of [4:49] in Sahih International style.",
+        "en_yusufali": "English translation of [4:49] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 49 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:49] en español.",
+        "fr_hamidullah": "Traduction de [4:49] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:50",
+      "surahNumber": 4,
+      "ayahNumber": 50,
+      "text": {
+        "simple": "انْظُرْ كَيْفَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ ۖ وَكَفَىٰ بِهِ إِثْمًا مُبِينًا",
+        "en_sahih": "English translation of [4:50] in Sahih International style.",
+        "en_yusufali": "English translation of [4:50] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 50 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:50] en español.",
+        "fr_hamidullah": "Traduction de [4:50] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:51",
+      "surahNumber": 4,
+      "ayahNumber": 51,
+      "text": {
+        "simple": "أَلَمْ تَرَ إِلَى الَّذِينَ أُوتُوا نَصِيبًا مِنَ الْكِتَابِ يُؤْمِنُونَ بِالْجِبْتِ وَالطَّاغُوتِ وَيَقُولُونَ لِلَّذِينَ كَفَرُوا هَٰؤُلَاءِ أَهْدَىٰ مِنَ الَّذِينَ آمَنُوا سَبِيلًا",
+        "en_sahih": "English translation of [4:51] in Sahih International style.",
+        "en_yusufali": "English translation of [4:51] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 51 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:51] en español.",
+        "fr_hamidullah": "Traduction de [4:51] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:52",
+      "surahNumber": 4,
+      "ayahNumber": 52,
+      "text": {
+        "simple": "أُولَٰئِكَ الَّذِينَ لَعَنَهُمُ اللَّهُ ۖ وَمَنْ يَلْعَنِ اللَّهُ فَلَنْ تَجِدَ لَهُ نَصِيرًا",
+        "en_sahih": "English translation of [4:52] in Sahih International style.",
+        "en_yusufali": "English translation of [4:52] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 52 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:52] en español.",
+        "fr_hamidullah": "Traduction de [4:52] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:53",
+      "surahNumber": 4,
+      "ayahNumber": 53,
+      "text": {
+        "simple": "أَمْ لَهُمْ نَصِيبٌ مِنَ الْمُلْكِ فَإِذًا لَا يُؤْتُونَ النَّاسَ نَقِيرًا",
+        "en_sahih": "English translation of [4:53] in Sahih International style.",
+        "en_yusufali": "English translation of [4:53] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 53 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:53] en español.",
+        "fr_hamidullah": "Traduction de [4:53] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 53 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:54",
+      "surahNumber": 4,
+      "ayahNumber": 54,
+      "text": {
+        "simple": "أَمْ يَحْسُدُونَ النَّاسَ عَلَىٰ مَا آتَاهُمُ اللَّهُ مِنْ فَضْلِهِ ۖ فَقَدْ آتَيْنَا آلَ إِبْرَاهِيمَ الْكِتَابَ وَالْحِكْمَةَ وَآتَيْنَاهُمْ مُلْكًا عَظِيمًا",
+        "en_sahih": "English translation of [4:54] in Sahih International style.",
+        "en_yusufali": "English translation of [4:54] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 54 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:54] en español.",
+        "fr_hamidullah": "Traduction de [4:54] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 54 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:55",
+      "surahNumber": 4,
+      "ayahNumber": 55,
+      "text": {
+        "simple": "فَمِنْهُمْ مَنْ آمَنَ بِهِ وَمِنْهُمْ مَنْ صَدَّ عَنْهُ ۚ وَكَفَىٰ بِجَهَنَّمَ سَعِيرًا",
+        "en_sahih": "English translation of [4:55] in Sahih International style.",
+        "en_yusufali": "English translation of [4:55] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 55 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:55] en español.",
+        "fr_hamidullah": "Traduction de [4:55] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 55 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:56",
+      "surahNumber": 4,
+      "ayahNumber": 56,
+      "text": {
+        "simple": "إِنَّ الَّذِينَ كَفَرُوا بِآيَاتِنَا سَوْفَ نُصْلِيهِمْ نَارًا كُلَّمَا نَضِجَتْ جُلُودُهُمْ بَدَّلْنَاهُمْ جُلُودًا غَيْرَهَا لِيَذُوقُوا الْعَذَابَ ۗ إِنَّ اللَّهَ كَانَ عَزِيزًا حَكِيمًا",
+        "en_sahih": "English translation of [4:56] in Sahih International style.",
+        "en_yusufali": "English translation of [4:56] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 56 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:56] en español.",
+        "fr_hamidullah": "Traduction de [4:56] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 56 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:57",
+      "surahNumber": 4,
+      "ayahNumber": 57,
+      "text": {
+        "simple": "وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۖ لَهُمْ فِيهَا أَزْوَاجٌ مُطَهَّرَةٌ ۖ وَنُدْخِلُهُمْ ظِلًّا ظَلِيلًا",
+        "en_sahih": "English translation of [4:57] in Sahih International style.",
+        "en_yusufali": "English translation of [4:57] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 57 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:57] en español.",
+        "fr_hamidullah": "Traduction de [4:57] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 57 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:58",
+      "surahNumber": 4,
+      "ayahNumber": 58,
+      "text": {
+        "simple": "۞ إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا وَإِذَا حَكَمْتُمْ بَيْنَ النَّاسِ أَنْ تَحْكُمُوا بِالْعَدْلِ ۚ إِنَّ اللَّهَ نِعِمَّا يَعِظُكُمْ بِهِ ۗ إِنَّ اللَّهَ كَانَ سَمِيعًا بَصِيرًا",
+        "en_sahih": "English translation of [4:58] in Sahih International style.",
+        "en_yusufali": "English translation of [4:58] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 58 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:58] en español.",
+        "fr_hamidullah": "Traduction de [4:58] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 58 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:59",
+      "surahNumber": 4,
+      "ayahNumber": 59,
+      "text": {
+        "simple": "يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ ۖ فَإِنْ تَنَازَعْتُمْ فِي شَيْءٍ فَرُدُّوهُ إِلَى اللَّهِ وَالرَّسُولِ إِنْ كُنْتُمْ تُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۚ ذَٰلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلًا",
+        "en_sahih": "English translation of [4:59] in Sahih International style.",
+        "en_yusufali": "English translation of [4:59] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 59 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:59] en español.",
+        "fr_hamidullah": "Traduction de [4:59] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 59 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:60",
+      "surahNumber": 4,
+      "ayahNumber": 60,
+      "text": {
+        "simple": "أَلَمْ تَرَ إِلَى الَّذِينَ يَزْعُمُونَ أَنَّهُمْ آمَنُوا بِمَا أُنْزِلَ إِلَيْكَ وَمَا أُنْزِلَ مِنْ قَبْلِكَ يُرِيدُونَ أَنْ يَتَحَاكَمُوا إِلَى الطَّاغُوتِ وَقَدْ أُمِرُوا أَنْ يَكْفُرُوا بِهِ وَيُرِيدُ الشَّيْطَانُ أَنْ يُضِلَّهُمْ ضَلَالًا بَعِيدًا",
+        "en_sahih": "English translation of [4:60] in Sahih International style.",
+        "en_yusufali": "English translation of [4:60] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 60 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:60] en español.",
+        "fr_hamidullah": "Traduction de [4:60] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 60 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:61",
+      "surahNumber": 4,
+      "ayahNumber": 61,
+      "text": {
+        "simple": "وَإِذَا قِيلَ لَهُمْ تَعَالَوْا إِلَىٰ مَا أَنْزَلَ اللَّهُ وَإِلَى الرَّسُولِ رَأَيْتَ الْمُنَافِقِينَ يَصُدُّونَ عَنْكَ صُدُودًا",
+        "en_sahih": "English translation of [4:61] in Sahih International style.",
+        "en_yusufali": "English translation of [4:61] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 61 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:61] en español.",
+        "fr_hamidullah": "Traduction de [4:61] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 61 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:62",
+      "surahNumber": 4,
+      "ayahNumber": 62,
+      "text": {
+        "simple": "فَكَيْفَ إِذَا أَصَابَتْهُمْ مُصِيبَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ ثُمَّ جَاءُوكَ يَحْلِفُونَ بِاللَّهِ إِنْ أَرَدْنَا إِلَّا إِحْسَانًا وَتَوْفِيقًا",
+        "en_sahih": "English translation of [4:62] in Sahih International style.",
+        "en_yusufali": "English translation of [4:62] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 62 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:62] en español.",
+        "fr_hamidullah": "Traduction de [4:62] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 62 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:63",
+      "surahNumber": 4,
+      "ayahNumber": 63,
+      "text": {
+        "simple": "أُولَٰئِكَ الَّذِينَ يَعْلَمُ اللَّهُ مَا فِي قُلُوبِهِمْ فَأَعْرِضْ عَنْهُمْ وَعِظْهُمْ وَقُلْ لَهُمْ فِي أَنْفُسِهِمْ قَوْلًا بَلِيغًا",
+        "en_sahih": "English translation of [4:63] in Sahih International style.",
+        "en_yusufali": "English translation of [4:63] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 63 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:63] en español.",
+        "fr_hamidullah": "Traduction de [4:63] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 63 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:64",
+      "surahNumber": 4,
+      "ayahNumber": 64,
+      "text": {
+        "simple": "وَمَا أَرْسَلْنَا مِنْ رَسُولٍ إِلَّا لِيُطَاعَ بِإِذْنِ اللَّهِ ۚ وَلَوْ أَنَّهُمْ إِذْ ظَلَمُوا أَنْفُسَهُمْ جَاءُوكَ فَاسْتَغْفَرُوا اللَّهَ وَاسْتَغْفَرَ لَهُمُ الرَّسُولُ لَوَجَدُوا اللَّهَ تَوَّابًا رَحِيمًا",
+        "en_sahih": "English translation of [4:64] in Sahih International style.",
+        "en_yusufali": "English translation of [4:64] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 64 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:64] en español.",
+        "fr_hamidullah": "Traduction de [4:64] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 64 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:65",
+      "surahNumber": 4,
+      "ayahNumber": 65,
+      "text": {
+        "simple": "فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ ثُمَّ لَا يَجِدُوا فِي أَنْفُسِهِمْ حَرَجًا مِمَّا قَضَيْتَ وَيُسَلِّمُوا تَسْلِيمًا",
+        "en_sahih": "English translation of [4:65] in Sahih International style.",
+        "en_yusufali": "English translation of [4:65] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 65 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:65] en español.",
+        "fr_hamidullah": "Traduction de [4:65] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 65 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:66",
+      "surahNumber": 4,
+      "ayahNumber": 66,
+      "text": {
+        "simple": "وَلَوْ أَنَّا كَتَبْنَا عَلَيْهِمْ أَنِ اقْتُلُوا أَنْفُسَكُمْ أَوِ اخْرُجُوا مِنْ دِيَارِكُمْ مَا فَعَلُوهُ إِلَّا قَلِيلٌ مِنْهُمْ ۖ وَلَوْ أَنَّهُمْ فَعَلُوا مَا يُوعَظُونَ بِهِ لَكَانَ خَيْرًا لَهُمْ وَأَشَدَّ تَثْبِيتًا",
+        "en_sahih": "English translation of [4:66] in Sahih International style.",
+        "en_yusufali": "English translation of [4:66] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 66 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:66] en español.",
+        "fr_hamidullah": "Traduction de [4:66] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 66 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:67",
+      "surahNumber": 4,
+      "ayahNumber": 67,
+      "text": {
+        "simple": "وَإِذًا لَآتَيْنَاهُمْ مِنْ لَدُنَّا أَجْرًا عَظِيمًا",
+        "en_sahih": "English translation of [4:67] in Sahih International style.",
+        "en_yusufali": "English translation of [4:67] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 67 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:67] en español.",
+        "fr_hamidullah": "Traduction de [4:67] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 67 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:68",
+      "surahNumber": 4,
+      "ayahNumber": 68,
+      "text": {
+        "simple": "وَلَهَدَيْنَاهُمْ صِرَاطًا مُسْتَقِيمًا",
+        "en_sahih": "English translation of [4:68] in Sahih International style.",
+        "en_yusufali": "English translation of [4:68] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 68 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:68] en español.",
+        "fr_hamidullah": "Traduction de [4:68] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 68 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:69",
+      "surahNumber": 4,
+      "ayahNumber": 69,
+      "text": {
+        "simple": "وَمَنْ يُطِعِ اللَّهَ وَالرَّسُولَ فَأُولَٰئِكَ مَعَ الَّذِينَ أَنْعَمَ اللَّهُ عَلَيْهِمْ مِنَ النَّبِيِّينَ وَالصِّدِّيقِينَ وَالشُّهَدَاءِ وَالصَّالِحِينَ ۚ وَحَسُنَ أُولَٰئِكَ رَفِيقًا",
+        "en_sahih": "English translation of [4:69] in Sahih International style.",
+        "en_yusufali": "English translation of [4:69] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 69 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:69] en español.",
+        "fr_hamidullah": "Traduction de [4:69] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 69 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:70",
+      "surahNumber": 4,
+      "ayahNumber": 70,
+      "text": {
+        "simple": "ذَٰلِكَ الْفَضْلُ مِنَ اللَّهِ ۚ وَكَفَىٰ بِاللَّهِ عَلِيمًا",
+        "en_sahih": "English translation of [4:70] in Sahih International style.",
+        "en_yusufali": "English translation of [4:70] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 70 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:70] en español.",
+        "fr_hamidullah": "Traduction de [4:70] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 70 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:71",
+      "surahNumber": 4,
+      "ayahNumber": 71,
+      "text": {
+        "simple": "يَا أَيُّهَا الَّذِينَ آمَنُوا خُذُوا حِذْرَكُمْ فَانْفِرُوا ثُبَاتٍ أَوِ انْفِرُوا جَمِيعًا",
+        "en_sahih": "English translation of [4:71] in Sahih International style.",
+        "en_yusufali": "English translation of [4:71] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 71 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:71] en español.",
+        "fr_hamidullah": "Traduction de [4:71] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 71 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:72",
+      "surahNumber": 4,
+      "ayahNumber": 72,
+      "text": {
+        "simple": "وَإِنَّ مِنْكُمْ لَمَنْ لَيُبَطِّئَنَّ فَإِنْ أَصَابَتْكُمْ مُصِيبَةٌ قَالَ قَدْ أَنْعَمَ اللَّهُ عَلَيَّ إِذْ لَمْ أَكُنْ مَعَهُمْ شَهِيدًا",
+        "en_sahih": "English translation of [4:72] in Sahih International style.",
+        "en_yusufali": "English translation of [4:72] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 72 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:72] en español.",
+        "fr_hamidullah": "Traduction de [4:72] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 72 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:73",
+      "surahNumber": 4,
+      "ayahNumber": 73,
+      "text": {
+        "simple": "وَلَئِنْ أَصَابَكُمْ فَضْلٌ مِنَ اللَّهِ لَيَقُولَنَّ كَأَنْ لَمْ تَكُنْ بَيْنَكُمْ وَبَيْنَهُ مَوَدَّةٌ يَا لَيْتَنِي كُنْتُ مَعَهُمْ فَأَفُوزَ فَوْزًا عَظِيمًا",
+        "en_sahih": "English translation of [4:73] in Sahih International style.",
+        "en_yusufali": "English translation of [4:73] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 73 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:73] en español.",
+        "fr_hamidullah": "Traduction de [4:73] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 73 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:74",
+      "surahNumber": 4,
+      "ayahNumber": 74,
+      "text": {
+        "simple": "۞ فَلْيُقَاتِلْ فِي سَبِيلِ اللَّهِ الَّذِينَ يَشْرُونَ الْحَيَاةَ الدُّنْيَا بِالْآخِرَةِ ۚ وَمَنْ يُقَاتِلْ فِي سَبِيلِ اللَّهِ فَيُقْتَلْ أَوْ يَغْلِبْ فَسَوْفَ نُؤْتِيهِ أَجْرًا عَظِيمًا",
+        "en_sahih": "English translation of [4:74] in Sahih International style.",
+        "en_yusufali": "English translation of [4:74] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 74 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:74] en español.",
+        "fr_hamidullah": "Traduction de [4:74] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 74 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:75",
+      "surahNumber": 4,
+      "ayahNumber": 75,
+      "text": {
+        "simple": "وَمَا لَكُمْ لَا تُقَاتِلُونَ فِي سَبِيلِ اللَّهِ وَالْمُسْتَضْعَفِينَ مِنَ الرِّجَالِ وَالنِّسَاءِ وَالْوِلْدَانِ الَّذِينَ يَقُولُونَ رَبَّنَا أَخْرِجْنَا مِنْ هَٰذِهِ الْقَرْيَةِ الظَّالِمِ أَهْلُهَا وَاجْعَلْ لَنَا مِنْ لَدُنْكَ وَلِيًّا وَاجْعَلْ لَنَا مِنْ لَدُنْكَ نَصِيرًا",
+        "en_sahih": "English translation of [4:75] in Sahih International style.",
+        "en_yusufali": "English translation of [4:75] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 75 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:75] en español.",
+        "fr_hamidullah": "Traduction de [4:75] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 75 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:76",
+      "surahNumber": 4,
+      "ayahNumber": 76,
+      "text": {
+        "simple": "الَّذِينَ آمَنُوا يُقَاتِلُونَ فِي سَبِيلِ اللَّهِ ۖ وَالَّذِينَ كَفَرُوا يُقَاتِلُونَ فِي سَبِيلِ الطَّاغُوتِ فَقَاتِلُوا أَوْلِيَاءَ الشَّيْطَانِ ۖ إِنَّ كَيْدَ الشَّيْطَانِ كَانَ ضَعِيفًا",
+        "en_sahih": "English translation of [4:76] in Sahih International style.",
+        "en_yusufali": "English translation of [4:76] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 76 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:76] en español.",
+        "fr_hamidullah": "Traduction de [4:76] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 76 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:77",
+      "surahNumber": 4,
+      "ayahNumber": 77,
+      "text": {
+        "simple": "أَلَمْ تَرَ إِلَى الَّذِينَ قِيلَ لَهُمْ كُفُّوا أَيْدِيَكُمْ وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ فَلَمَّا كُتِبَ عَلَيْهِمُ الْقِتَالُ إِذَا فَرِيقٌ مِنْهُمْ يَخْشَوْنَ النَّاسَ كَخَشْيَةِ اللَّهِ أَوْ أَشَدَّ خَشْيَةً ۚ وَقَالُوا رَبَّنَا لِمَ كَتَبْتَ عَلَيْنَا الْقِتَالَ لَوْلَا أَخَّرْتَنَا إِلَىٰ أَجَلٍ قَرِيبٍ ۗ قُلْ مَتَاعُ الدُّنْيَا قَلِيلٌ وَالْآخِرَةُ خَيْرٌ لِمَنِ اتَّقَىٰ وَلَا تُظْلَمُونَ فَتِيلًا",
+        "en_sahih": "English translation of [4:77] in Sahih International style.",
+        "en_yusufali": "English translation of [4:77] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 77 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:77] en español.",
+        "fr_hamidullah": "Traduction de [4:77] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 77 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:78",
+      "surahNumber": 4,
+      "ayahNumber": 78,
+      "text": {
+        "simple": "أَيْنَمَا تَكُونُوا يُدْرِكْكُمُ الْمَوْتُ وَلَوْ كُنْتُمْ فِي بُرُوجٍ مُشَيَّدَةٍ ۗ وَإِنْ تُصِبْهُمْ حَسَنَةٌ يَقُولُوا هَٰذِهِ مِنْ عِنْدِ اللَّهِ ۖ وَإِنْ تُصِبْهُمْ سَيِّئَةٌ يَقُولُوا هَٰذِهِ مِنْ عِنْدِكَ ۚ قُلْ كُلٌّ مِنْ عِنْدِ اللَّهِ ۖ فَمَالِ هَٰؤُلَاءِ الْقَوْمِ لَا يَكَادُونَ يَفْقَهُونَ حَدِيثًا",
+        "en_sahih": "English translation of [4:78] in Sahih International style.",
+        "en_yusufali": "English translation of [4:78] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 78 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:78] en español.",
+        "fr_hamidullah": "Traduction de [4:78] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 78 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:79",
+      "surahNumber": 4,
+      "ayahNumber": 79,
+      "text": {
+        "simple": "مَا أَصَابَكَ مِنْ حَسَنَةٍ فَمِنَ اللَّهِ ۖ وَمَا أَصَابَكَ مِنْ سَيِّئَةٍ فَمِنْ نَفْسِكَ ۚ وَأَرْسَلْنَاكَ لِلنَّاسِ رَسُولًا ۚ وَكَفَىٰ بِاللَّهِ شَهِيدًا",
+        "en_sahih": "English translation of [4:79] in Sahih International style.",
+        "en_yusufali": "English translation of [4:79] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 79 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:79] en español.",
+        "fr_hamidullah": "Traduction de [4:79] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 79 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:80",
+      "surahNumber": 4,
+      "ayahNumber": 80,
+      "text": {
+        "simple": "مَنْ يُطِعِ الرَّسُولَ فَقَدْ أَطَاعَ اللَّهَ ۖ وَمَنْ تَوَلَّىٰ فَمَا أَرْسَلْنَاكَ عَلَيْهِمْ حَفِيظًا",
+        "en_sahih": "English translation of [4:80] in Sahih International style.",
+        "en_yusufali": "English translation of [4:80] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 80 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:80] en español.",
+        "fr_hamidullah": "Traduction de [4:80] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 80 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:81",
+      "surahNumber": 4,
+      "ayahNumber": 81,
+      "text": {
+        "simple": "وَيَقُولُونَ طَاعَةٌ فَإِذَا بَرَزُوا مِنْ عِنْدِكَ بَيَّتَ طَائِفَةٌ مِنْهُمْ غَيْرَ الَّذِي تَقُولُ ۖ وَاللَّهُ يَكْتُبُ مَا يُبَيِّتُونَ ۖ فَأَعْرِضْ عَنْهُمْ وَتَوَكَّلْ عَلَى اللَّهِ ۚ وَكَفَىٰ بِاللَّهِ وَكِيلًا",
+        "en_sahih": "English translation of [4:81] in Sahih International style.",
+        "en_yusufali": "English translation of [4:81] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 81 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:81] en español.",
+        "fr_hamidullah": "Traduction de [4:81] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 81 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:82",
+      "surahNumber": 4,
+      "ayahNumber": 82,
+      "text": {
+        "simple": "أَفَلَا يَتَدَبَّرُونَ الْقُرْآنَ ۚ وَلَوْ كَانَ مِنْ عِنْدِ غَيْرِ اللَّهِ لَوَجَدُوا فِيهِ اخْتِلَافًا كَثِيرًا",
+        "en_sahih": "English translation of [4:82] in Sahih International style.",
+        "en_yusufali": "English translation of [4:82] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 82 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:82] en español.",
+        "fr_hamidullah": "Traduction de [4:82] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 82 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:83",
+      "surahNumber": 4,
+      "ayahNumber": 83,
+      "text": {
+        "simple": "وَإِذَا جَاءَهُمْ أَمْرٌ مِنَ الْأَمْنِ أَوِ الْخَوْفِ أَذَاعُوا بِهِ ۖ وَلَوْ رَدُّوهُ إِلَى الرَّسُولِ وَإِلَىٰ أُولِي الْأَمْرِ مِنْهُمْ لَعَلِمَهُ الَّذِينَ يَسْتَنْبِطُونَهُ مِنْهُمْ ۗ وَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ لَاتَّبَعْتُمُ الشَّيْطَانَ إِلَّا قَلِيلًا",
+        "en_sahih": "English translation of [4:83] in Sahih International style.",
+        "en_yusufali": "English translation of [4:83] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 83 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:83] en español.",
+        "fr_hamidullah": "Traduction de [4:83] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 83 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:84",
+      "surahNumber": 4,
+      "ayahNumber": 84,
+      "text": {
+        "simple": "فَقَاتِلْ فِي سَبِيلِ اللَّهِ لَا تُكَلَّفُ إِلَّا نَفْسَكَ ۚ وَحَرِّضِ الْمُؤْمِنِينَ ۖ عَسَى اللَّهُ أَنْ يَكُفَّ بَأْسَ الَّذِينَ كَفَرُوا ۚ وَاللَّهُ أَشَدُّ بَأْسًا وَأَشَدُّ تَنْكِيلًا",
+        "en_sahih": "English translation of [4:84] in Sahih International style.",
+        "en_yusufali": "English translation of [4:84] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 84 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:84] en español.",
+        "fr_hamidullah": "Traduction de [4:84] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 84 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:85",
+      "surahNumber": 4,
+      "ayahNumber": 85,
+      "text": {
+        "simple": "مَنْ يَشْفَعْ شَفَاعَةً حَسَنَةً يَكُنْ لَهُ نَصِيبٌ مِنْهَا ۖ وَمَنْ يَشْفَعْ شَفَاعَةً سَيِّئَةً يَكُنْ لَهُ كِفْلٌ مِنْهَا ۗ وَكَانَ اللَّهُ عَلَىٰ كُلِّ شَيْءٍ مُقِيتًا",
+        "en_sahih": "English translation of [4:85] in Sahih International style.",
+        "en_yusufali": "English translation of [4:85] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 85 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:85] en español.",
+        "fr_hamidullah": "Traduction de [4:85] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 85 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:86",
+      "surahNumber": 4,
+      "ayahNumber": 86,
+      "text": {
+        "simple": "وَإِذَا حُيِّيتُمْ بِتَحِيَّةٍ فَحَيُّوا بِأَحْسَنَ مِنْهَا أَوْ رُدُّوهَا ۗ إِنَّ اللَّهَ كَانَ عَلَىٰ كُلِّ شَيْءٍ حَسِيبًا",
+        "en_sahih": "English translation of [4:86] in Sahih International style.",
+        "en_yusufali": "English translation of [4:86] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 86 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:86] en español.",
+        "fr_hamidullah": "Traduction de [4:86] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 86 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:87",
+      "surahNumber": 4,
+      "ayahNumber": 87,
+      "text": {
+        "simple": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ ۚ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ الْقِيَامَةِ لَا رَيْبَ فِيهِ ۗ وَمَنْ أَصْدَقُ مِنَ اللَّهِ حَدِيثًا",
+        "en_sahih": "English translation of [4:87] in Sahih International style.",
+        "en_yusufali": "English translation of [4:87] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 87 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:87] en español.",
+        "fr_hamidullah": "Traduction de [4:87] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 87 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:88",
+      "surahNumber": 4,
+      "ayahNumber": 88,
+      "text": {
+        "simple": "۞ فَمَا لَكُمْ فِي الْمُنَافِقِينَ فِئَتَيْنِ وَاللَّهُ أَرْكَسَهُمْ بِمَا كَسَبُوا ۚ أَتُرِيدُونَ أَنْ تَهْدُوا مَنْ أَضَلَّ اللَّهُ ۖ وَمَنْ يُضْلِلِ اللَّهُ فَلَنْ تَجِدَ لَهُ سَبِيلًا",
+        "en_sahih": "English translation of [4:88] in Sahih International style.",
+        "en_yusufali": "English translation of [4:88] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 88 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:88] en español.",
+        "fr_hamidullah": "Traduction de [4:88] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 88 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:89",
+      "surahNumber": 4,
+      "ayahNumber": 89,
+      "text": {
+        "simple": "وَدُّوا لَوْ تَكْفُرُونَ كَمَا كَفَرُوا فَتَكُونُونَ سَوَاءً ۖ فَلَا تَتَّخِذُوا مِنْهُمْ أَوْلِيَاءَ حَتَّىٰ يُهَاجِرُوا فِي سَبِيلِ اللَّهِ ۚ فَإِنْ تَوَلَّوْا فَخُذُوهُمْ وَاقْتُلُوهُمْ حَيْثُ وَجَدْتُمُوهُمْ ۖ وَلَا تَتَّخِذُوا مِنْهُمْ وَلِيًّا وَلَا نَصِيرًا",
+        "en_sahih": "English translation of [4:89] in Sahih International style.",
+        "en_yusufali": "English translation of [4:89] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 89 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:89] en español.",
+        "fr_hamidullah": "Traduction de [4:89] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 89 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:90",
+      "surahNumber": 4,
+      "ayahNumber": 90,
+      "text": {
+        "simple": "إِلَّا الَّذِينَ يَصِلُونَ إِلَىٰ قَوْمٍ بَيْنَكُمْ وَبَيْنَهُمْ مِيثَاقٌ أَوْ جَاءُوكُمْ حَصِرَتْ صُدُورُهُمْ أَنْ يُقَاتِلُوكُمْ أَوْ يُقَاتِلُوا قَوْمَهُمْ ۚ وَلَوْ شَاءَ اللَّهُ لَسَلَّطَهُمْ عَلَيْكُمْ فَلَقَاتَلُوكُمْ ۚ فَإِنِ اعْتَزَلُوكُمْ فَلَمْ يُقَاتِلُوكُمْ وَأَلْقَوْا إِلَيْكُمُ السَّلَمَ فَمَا جَعَلَ اللَّهُ لَكُمْ عَلَيْهِمْ سَبِيلًا",
+        "en_sahih": "English translation of [4:90] in Sahih International style.",
+        "en_yusufali": "English translation of [4:90] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 90 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:90] en español.",
+        "fr_hamidullah": "Traduction de [4:90] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 90 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:91",
+      "surahNumber": 4,
+      "ayahNumber": 91,
+      "text": {
+        "simple": "سَتَجِدُونَ آخَرِينَ يُرِيدُونَ أَنْ يَأْمَنُوكُمْ وَيَأْمَنُوا قَوْمَهُمْ كُلَّ مَا رُدُّوا إِلَى الْفِتْنَةِ أُرْكِسُوا فِيهَا ۚ فَإِنْ لَمْ يَعْتَزِلُوكُمْ وَيُلْقُوا إِلَيْكُمُ السَّلَمَ وَيَكُفُّوا أَيْدِيَهُمْ فَخُذُوهُمْ وَاقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ ۚ وَأُولَٰئِكُمْ جَعَلْنَا لَكُمْ عَلَيْهِمْ سُلْطَانًا مُبِينًا",
+        "en_sahih": "English translation of [4:91] in Sahih International style.",
+        "en_yusufali": "English translation of [4:91] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 91 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:91] en español.",
+        "fr_hamidullah": "Traduction de [4:91] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 91 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:92",
+      "surahNumber": 4,
+      "ayahNumber": 92,
+      "text": {
+        "simple": "وَمَا كَانَ لِمُؤْمِنٍ أَنْ يَقْتُلَ مُؤْمِنًا إِلَّا خَطَأً ۚ وَمَنْ قَتَلَ مُؤْمِنًا خَطَأً فَتَحْرِيرُ رَقَبَةٍ مُؤْمِنَةٍ وَدِيَةٌ مُسَلَّمَةٌ إِلَىٰ أَهْلِهِ إِلَّا أَنْ يَصَّدَّقُوا ۚ فَإِنْ كَانَ مِنْ قَوْمٍ عَدُوٍّ لَكُمْ وَهُوَ مُؤْمِنٌ فَتَحْرِيرُ رَقَبَةٍ مُؤْمِنَةٍ ۖ وَإِنْ كَانَ مِنْ قَوْمٍ بَيْنَكُمْ وَبَيْنَهُمْ مِيثَاقٌ فَدِيَةٌ مُسَلَّمَةٌ إِلَىٰ أَهْلِهِ وَتَحْرِيرُ رَقَبَةٍ مُؤْمِنَةٍ ۖ فَمَنْ لَمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ تَوْبَةً مِنَ اللَّهِ ۗ وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا",
+        "en_sahih": "English translation of [4:92] in Sahih International style.",
+        "en_yusufali": "English translation of [4:92] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 92 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:92] en español.",
+        "fr_hamidullah": "Traduction de [4:92] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 92 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:93",
+      "surahNumber": 4,
+      "ayahNumber": 93,
+      "text": {
+        "simple": "وَمَنْ يَقْتُلْ مُؤْمِنًا مُتَعَمِّدًا فَجَزَاؤُهُ جَهَنَّمُ خَالِدًا فِيهَا وَغَضِبَ اللَّهُ عَلَيْهِ وَلَعَنَهُ وَأَعَدَّ لَهُ عَذَابًا عَظِيمًا",
+        "en_sahih": "English translation of [4:93] in Sahih International style.",
+        "en_yusufali": "English translation of [4:93] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 93 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:93] en español.",
+        "fr_hamidullah": "Traduction de [4:93] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 93 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:94",
+      "surahNumber": 4,
+      "ayahNumber": 94,
+      "text": {
+        "simple": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا ضَرَبْتُمْ فِي سَبِيلِ اللَّهِ فَتَبَيَّنُوا وَلَا تَقُولُوا لِمَنْ أَلْقَىٰ إِلَيْكُمُ السَّلَامَ لَسْتَ مُؤْمِنًا تَبْتَغُونَ عَرَضَ الْحَيَاةِ الدُّنْيَا فَعِنْدَ اللَّهِ مَغَانِمُ كَثِيرَةٌ ۚ كَذَٰلِكَ كُنْتُمْ مِنْ قَبْلُ فَمَنَّ اللَّهُ عَلَيْكُمْ فَتَبَيَّنُوا ۚ إِنَّ اللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا",
+        "en_sahih": "English translation of [4:94] in Sahih International style.",
+        "en_yusufali": "English translation of [4:94] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 94 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:94] en español.",
+        "fr_hamidullah": "Traduction de [4:94] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 94 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:95",
+      "surahNumber": 4,
+      "ayahNumber": 95,
+      "text": {
+        "simple": "لَا يَسْتَوِي الْقَاعِدُونَ مِنَ الْمُؤْمِنِينَ غَيْرُ أُولِي الضَّرَرِ وَالْمُجَاهِدُونَ فِي سَبِيلِ اللَّهِ بِأَمْوَالِهِمْ وَأَنْفُسِهِمْ ۚ فَضَّلَ اللَّهُ الْمُجَاهِدِينَ بِأَمْوَالِهِمْ وَأَنْفُسِهِمْ عَلَى الْقَاعِدِينَ دَرَجَةً ۚ وَكُلًّا وَعَدَ اللَّهُ الْحُسْنَىٰ ۚ وَفَضَّلَ اللَّهُ الْمُجَاهِدِينَ عَلَى الْقَاعِدِينَ أَجْرًا عَظِيمًا",
+        "en_sahih": "English translation of [4:95] in Sahih International style.",
+        "en_yusufali": "English translation of [4:95] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 95 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:95] en español.",
+        "fr_hamidullah": "Traduction de [4:95] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 95 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:96",
+      "surahNumber": 4,
+      "ayahNumber": 96,
+      "text": {
+        "simple": "دَرَجَاتٍ مِنْهُ وَمَغْفِرَةً وَرَحْمَةً ۚ وَكَانَ اللَّهُ غَفُورًا رَحِيمًا",
+        "en_sahih": "English translation of [4:96] in Sahih International style.",
+        "en_yusufali": "English translation of [4:96] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 96 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:96] en español.",
+        "fr_hamidullah": "Traduction de [4:96] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 96 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:97",
+      "surahNumber": 4,
+      "ayahNumber": 97,
+      "text": {
+        "simple": "إِنَّ الَّذِينَ تَوَفَّاهُمُ الْمَلَائِكَةُ ظَالِمِي أَنْفُسِهِمْ قَالُوا فِيمَ كُنْتُمْ ۖ قَالُوا كُنَّا مُسْتَضْعَفِينَ فِي الْأَرْضِ ۚ قَالُوا أَلَمْ تَكُنْ أَرْضُ اللَّهِ وَاسِعَةً فَتُهَاجِرُوا فِيهَا ۚ فَأُولَٰئِكَ مَأْوَاهُمْ جَهَنَّمُ ۖ وَسَاءَتْ مَصِيرًا",
+        "en_sahih": "English translation of [4:97] in Sahih International style.",
+        "en_yusufali": "English translation of [4:97] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 97 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:97] en español.",
+        "fr_hamidullah": "Traduction de [4:97] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 97 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:98",
+      "surahNumber": 4,
+      "ayahNumber": 98,
+      "text": {
+        "simple": "إِلَّا الْمُسْتَضْعَفِينَ مِنَ الرِّجَالِ وَالنِّسَاءِ وَالْوِلْدَانِ لَا يَسْتَطِيعُونَ حِيلَةً وَلَا يَهْتَدُونَ سَبِيلًا",
+        "en_sahih": "English translation of [4:98] in Sahih International style.",
+        "en_yusufali": "English translation of [4:98] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 98 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:98] en español.",
+        "fr_hamidullah": "Traduction de [4:98] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 98 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:99",
+      "surahNumber": 4,
+      "ayahNumber": 99,
+      "text": {
+        "simple": "فَأُولَٰئِكَ عَسَى اللَّهُ أَنْ يَعْفُوَ عَنْهُمْ ۚ وَكَانَ اللَّهُ عَفُوًّا غَفُورًا",
+        "en_sahih": "English translation of [4:99] in Sahih International style.",
+        "en_yusufali": "English translation of [4:99] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 99 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:99] en español.",
+        "fr_hamidullah": "Traduction de [4:99] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 99 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:100",
+      "surahNumber": 4,
+      "ayahNumber": 100,
+      "text": {
+        "simple": "۞ وَمَنْ يُهَاجِرْ فِي سَبِيلِ اللَّهِ يَجِدْ فِي الْأَرْضِ مُرَاغَمًا كَثِيرًا وَسَعَةً ۚ وَمَنْ يَخْرُجْ مِنْ بَيْتِهِ مُهَاجِرًا إِلَى اللَّهِ وَرَسُولِهِ ثُمَّ يُدْرِكْهُ الْمَوْتُ فَقَدْ وَقَعَ أَجْرُهُ عَلَى اللَّهِ ۗ وَكَانَ اللَّهُ غَفُورًا رَحِيمًا",
+        "en_sahih": "English translation of [4:100] in Sahih International style.",
+        "en_yusufali": "English translation of [4:100] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 100 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:100] en español.",
+        "fr_hamidullah": "Traduction de [4:100] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 100 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:101",
+      "surahNumber": 4,
+      "ayahNumber": 101,
+      "text": {
+        "simple": "وَإِذَا ضَرَبْتُمْ فِي الْأَرْضِ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَنْ تَقْصُرُوا مِنَ الصَّلَاةِ إِنْ خِفْتُمْ أَنْ يَفْتِنَكُمُ الَّذِينَ كَفَرُوا ۚ إِنَّ الْكَافِرِينَ كَانُوا لَكُمْ عَدُوًّا مُبِينًا",
+        "en_sahih": "English translation of [4:101] in Sahih International style.",
+        "en_yusufali": "English translation of [4:101] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 101 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:101] en español.",
+        "fr_hamidullah": "Traduction de [4:101] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 101 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:102",
+      "surahNumber": 4,
+      "ayahNumber": 102,
+      "text": {
+        "simple": "وَإِذَا كُنْتَ فِيهِمْ فَأَقَمْتَ لَهُمُ الصَّلَاةَ فَلْتَقُمْ طَائِفَةٌ مِنْهُمْ مَعَكَ وَلْيَأْخُذُوا أَسْلِحَتَهُمْ فَإِذَا سَجَدُوا فَلْيَكُونُوا مِنْ وَرَائِكُمْ وَلْتَأْتِ طَائِفَةٌ أُخْرَىٰ لَمْ يُصَلُّوا فَلْيُصَلُّوا مَعَكَ وَلْيَأْخُذُوا حِذْرَهُمْ وَأَسْلِحَتَهُمْ ۗ وَدَّ الَّذِينَ كَفَرُوا لَوْ تَغْفُلُونَ عَنْ أَسْلِحَتِكُمْ وَأَمْتِعَتِكُمْ فَيَمِيلُونَ عَلَيْكُمْ مَيْلَةً وَاحِدَةً ۚ وَلَا جُنَاحَ عَلَيْكُمْ إِنْ كَانَ بِكُمْ أَذًى مِنْ مَطَرٍ أَوْ كُنْتُمْ مَرْضَىٰ أَنْ تَضَعُوا أَسْلِحَتَكُمْ ۖ وَخُذُوا حِذْرَكُمْ ۗ إِنَّ اللَّهَ أَعَدَّ لِلْكَافِرِينَ عَذَابًا مُهِينًا",
+        "en_sahih": "English translation of [4:102] in Sahih International style.",
+        "en_yusufali": "English translation of [4:102] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 102 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:102] en español.",
+        "fr_hamidullah": "Traduction de [4:102] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 102 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:103",
+      "surahNumber": 4,
+      "ayahNumber": 103,
+      "text": {
+        "simple": "فَإِذَا قَضَيْتُمُ الصَّلَاةَ فَاذْكُرُوا اللَّهَ قِيَامًا وَقُعُودًا وَعَلَىٰ جُنُوبِكُمْ ۚ فَإِذَا اطْمَأْنَنْتُمْ فَأَقِيمُوا الصَّلَاةَ ۚ إِنَّ الصَّلَاةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَوْقُوتًا",
+        "en_sahih": "English translation of [4:103] in Sahih International style.",
+        "en_yusufali": "English translation of [4:103] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 103 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:103] en español.",
+        "fr_hamidullah": "Traduction de [4:103] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 103 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:104",
+      "surahNumber": 4,
+      "ayahNumber": 104,
+      "text": {
+        "simple": "وَلَا تَهِنُوا فِي ابْتِغَاءِ الْقَوْمِ ۖ إِنْ تَكُونُوا تَأْلَمُونَ فَإِنَّهُمْ يَأْلَمُونَ كَمَا تَأْلَمُونَ ۖ وَتَرْجُونَ مِنَ اللَّهِ مَا لَا يَرْجُونَ ۗ وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا",
+        "en_sahih": "English translation of [4:104] in Sahih International style.",
+        "en_yusufali": "English translation of [4:104] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 104 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:104] en español.",
+        "fr_hamidullah": "Traduction de [4:104] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 104 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:105",
+      "surahNumber": 4,
+      "ayahNumber": 105,
+      "text": {
+        "simple": "إِنَّا أَنْزَلْنَا إِلَيْكَ الْكِتَابَ بِالْحَقِّ لِتَحْكُمَ بَيْنَ النَّاسِ بِمَا أَرَاكَ اللَّهُ ۚ وَلَا تَكُنْ لِلْخَائِنِينَ خَصِيمًا",
+        "en_sahih": "English translation of [4:105] in Sahih International style.",
+        "en_yusufali": "English translation of [4:105] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 105 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:105] en español.",
+        "fr_hamidullah": "Traduction de [4:105] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 105 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:106",
+      "surahNumber": 4,
+      "ayahNumber": 106,
+      "text": {
+        "simple": "وَاسْتَغْفِرِ اللَّهَ ۖ إِنَّ اللَّهَ كَانَ غَفُورًا رَحِيمًا",
+        "en_sahih": "English translation of [4:106] in Sahih International style.",
+        "en_yusufali": "English translation of [4:106] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 106 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:106] en español.",
+        "fr_hamidullah": "Traduction de [4:106] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 106 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:107",
+      "surahNumber": 4,
+      "ayahNumber": 107,
+      "text": {
+        "simple": "وَلَا تُجَادِلْ عَنِ الَّذِينَ يَخْتَانُونَ أَنْفُسَهُمْ ۚ إِنَّ اللَّهَ لَا يُحِبُّ مَنْ كَانَ خَوَّانًا أَثِيمًا",
+        "en_sahih": "English translation of [4:107] in Sahih International style.",
+        "en_yusufali": "English translation of [4:107] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 107 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:107] en español.",
+        "fr_hamidullah": "Traduction de [4:107] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 107 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:108",
+      "surahNumber": 4,
+      "ayahNumber": 108,
+      "text": {
+        "simple": "يَسْتَخْفُونَ مِنَ النَّاسِ وَلَا يَسْتَخْفُونَ مِنَ اللَّهِ وَهُوَ مَعَهُمْ إِذْ يُبَيِّتُونَ مَا لَا يَرْضَىٰ مِنَ الْقَوْلِ ۚ وَكَانَ اللَّهُ بِمَا يَعْمَلُونَ مُحِيطًا",
+        "en_sahih": "English translation of [4:108] in Sahih International style.",
+        "en_yusufali": "English translation of [4:108] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 108 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:108] en español.",
+        "fr_hamidullah": "Traduction de [4:108] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 108 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:109",
+      "surahNumber": 4,
+      "ayahNumber": 109,
+      "text": {
+        "simple": "هَا أَنْتُمْ هَٰؤُلَاءِ جَادَلْتُمْ عَنْهُمْ فِي الْحَيَاةِ الدُّنْيَا فَمَنْ يُجَادِلُ اللَّهَ عَنْهُمْ يَوْمَ الْقِيَامَةِ أَمْ مَنْ يَكُونُ عَلَيْهِمْ وَكِيلًا",
+        "en_sahih": "English translation of [4:109] in Sahih International style.",
+        "en_yusufali": "English translation of [4:109] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 109 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:109] en español.",
+        "fr_hamidullah": "Traduction de [4:109] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 109 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:110",
+      "surahNumber": 4,
+      "ayahNumber": 110,
+      "text": {
+        "simple": "وَمَنْ يَعْمَلْ سُوءًا أَوْ يَظْلِمْ نَفْسَهُ ثُمَّ يَسْتَغْفِرِ اللَّهَ يَجِدِ اللَّهَ غَفُورًا رَحِيمًا",
+        "en_sahih": "English translation of [4:110] in Sahih International style.",
+        "en_yusufali": "English translation of [4:110] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 110 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:110] en español.",
+        "fr_hamidullah": "Traduction de [4:110] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 110 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:111",
+      "surahNumber": 4,
+      "ayahNumber": 111,
+      "text": {
+        "simple": "وَمَنْ يَكْسِبْ إِثْمًا فَإِنَّمَا يَكْسِبُهُ عَلَىٰ نَفْسِهِ ۚ وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا",
+        "en_sahih": "English translation of [4:111] in Sahih International style.",
+        "en_yusufali": "English translation of [4:111] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 111 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:111] en español.",
+        "fr_hamidullah": "Traduction de [4:111] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 111 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:112",
+      "surahNumber": 4,
+      "ayahNumber": 112,
+      "text": {
+        "simple": "وَمَنْ يَكْسِبْ خَطِيئَةً أَوْ إِثْمًا ثُمَّ يَرْمِ بِهِ بَرِيئًا فَقَدِ احْتَمَلَ بُهْتَانًا وَإِثْمًا مُبِينًا",
+        "en_sahih": "English translation of [4:112] in Sahih International style.",
+        "en_yusufali": "English translation of [4:112] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 112 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:112] en español.",
+        "fr_hamidullah": "Traduction de [4:112] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 112 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:113",
+      "surahNumber": 4,
+      "ayahNumber": 113,
+      "text": {
+        "simple": "وَلَوْلَا فَضْلُ اللَّهِ عَلَيْكَ وَرَحْمَتُهُ لَهَمَّتْ طَائِفَةٌ مِنْهُمْ أَنْ يُضِلُّوكَ وَمَا يُضِلُّونَ إِلَّا أَنْفُسَهُمْ ۖ وَمَا يَضُرُّونَكَ مِنْ شَيْءٍ ۚ وَأَنْزَلَ اللَّهُ عَلَيْكَ الْكِتَابَ وَالْحِكْمَةَ وَعَلَّمَكَ مَا لَمْ تَكُنْ تَعْلَمُ ۚ وَكَانَ فَضْلُ اللَّهِ عَلَيْكَ عَظِيمًا",
+        "en_sahih": "English translation of [4:113] in Sahih International style.",
+        "en_yusufali": "English translation of [4:113] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 113 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:113] en español.",
+        "fr_hamidullah": "Traduction de [4:113] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 113 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:114",
+      "surahNumber": 4,
+      "ayahNumber": 114,
+      "text": {
+        "simple": "۞ لَا خَيْرَ فِي كَثِيرٍ مِنْ نَجْوَاهُمْ إِلَّا مَنْ أَمَرَ بِصَدَقَةٍ أَوْ مَعْرُوفٍ أَوْ إِصْلَاحٍ بَيْنَ النَّاسِ ۚ وَمَنْ يَفْعَلْ ذَٰلِكَ ابْتِغَاءَ مَرْضَاتِ اللَّهِ فَسَوْفَ نُؤْتِيهِ أَجْرًا عَظِيمًا",
+        "en_sahih": "English translation of [4:114] in Sahih International style.",
+        "en_yusufali": "English translation of [4:114] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 114 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:114] en español.",
+        "fr_hamidullah": "Traduction de [4:114] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 114 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:115",
+      "surahNumber": 4,
+      "ayahNumber": 115,
+      "text": {
+        "simple": "وَمَنْ يُشَاقِقِ الرَّسُولَ مِنْ بَعْدِ مَا تَبَيَّنَ لَهُ الْهُدَىٰ وَيَتَّبِعْ غَيْرَ سَبِيلِ الْمُؤْمِنِينَ نُوَلِّهِ مَا تَوَلَّىٰ وَنُصْلِهِ جَهَنَّمَ ۖ وَسَاءَتْ مَصِيرًا",
+        "en_sahih": "English translation of [4:115] in Sahih International style.",
+        "en_yusufali": "English translation of [4:115] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 115 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:115] en español.",
+        "fr_hamidullah": "Traduction de [4:115] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 115 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:116",
+      "surahNumber": 4,
+      "ayahNumber": 116,
+      "text": {
+        "simple": "إِنَّ اللَّهَ لَا يَغْفِرُ أَنْ يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَنْ يَشَاءُ ۚ وَمَنْ يُشْرِكْ بِاللَّهِ فَقَدْ ضَلَّ ضَلَالًا بَعِيدًا",
+        "en_sahih": "English translation of [4:116] in Sahih International style.",
+        "en_yusufali": "English translation of [4:116] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 116 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:116] en español.",
+        "fr_hamidullah": "Traduction de [4:116] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 116 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:117",
+      "surahNumber": 4,
+      "ayahNumber": 117,
+      "text": {
+        "simple": "إِنْ يَدْعُونَ مِنْ دُونِهِ إِلَّا إِنَاثًا وَإِنْ يَدْعُونَ إِلَّا شَيْطَانًا مَرِيدًا",
+        "en_sahih": "English translation of [4:117] in Sahih International style.",
+        "en_yusufali": "English translation of [4:117] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 117 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:117] en español.",
+        "fr_hamidullah": "Traduction de [4:117] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 117 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:118",
+      "surahNumber": 4,
+      "ayahNumber": 118,
+      "text": {
+        "simple": "لَعَنَهُ اللَّهُ ۘ وَقَالَ لَأَتَّخِذَنَّ مِنْ عِبَادِكَ نَصِيبًا مَفْرُوضًا",
+        "en_sahih": "English translation of [4:118] in Sahih International style.",
+        "en_yusufali": "English translation of [4:118] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 118 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:118] en español.",
+        "fr_hamidullah": "Traduction de [4:118] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 118 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:119",
+      "surahNumber": 4,
+      "ayahNumber": 119,
+      "text": {
+        "simple": "وَلَأُضِلَّنَّهُمْ وَلَأُمَنِّيَنَّهُمْ وَلَآمُرَنَّهُمْ فَلَيُبَتِّكُنَّ آذَانَ الْأَنْعَامِ وَلَآمُرَنَّهُمْ فَلَيُغَيِّرُنَّ خَلْقَ اللَّهِ ۚ وَمَنْ يَتَّخِذِ الشَّيْطَانَ وَلِيًّا مِنْ دُونِ اللَّهِ فَقَدْ خَسِرَ خُسْرَانًا مُبِينًا",
+        "en_sahih": "English translation of [4:119] in Sahih International style.",
+        "en_yusufali": "English translation of [4:119] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 119 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:119] en español.",
+        "fr_hamidullah": "Traduction de [4:119] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 119 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:120",
+      "surahNumber": 4,
+      "ayahNumber": 120,
+      "text": {
+        "simple": "يَعِدُهُمْ وَيُمَنِّيهِمْ ۖ وَمَا يَعِدُهُمُ الشَّيْطَانُ إِلَّا غُرُورًا",
+        "en_sahih": "English translation of [4:120] in Sahih International style.",
+        "en_yusufali": "English translation of [4:120] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 120 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:120] en español.",
+        "fr_hamidullah": "Traduction de [4:120] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 120 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:121",
+      "surahNumber": 4,
+      "ayahNumber": 121,
+      "text": {
+        "simple": "أُولَٰئِكَ مَأْوَاهُمْ جَهَنَّمُ وَلَا يَجِدُونَ عَنْهَا مَحِيصًا",
+        "en_sahih": "English translation of [4:121] in Sahih International style.",
+        "en_yusufali": "English translation of [4:121] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 121 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:121] en español.",
+        "fr_hamidullah": "Traduction de [4:121] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 121 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:122",
+      "surahNumber": 4,
+      "ayahNumber": 122,
+      "text": {
+        "simple": "وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۖ وَعْدَ اللَّهِ حَقًّا ۚ وَمَنْ أَصْدَقُ مِنَ اللَّهِ قِيلًا",
+        "en_sahih": "English translation of [4:122] in Sahih International style.",
+        "en_yusufali": "English translation of [4:122] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 122 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:122] en español.",
+        "fr_hamidullah": "Traduction de [4:122] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 122 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:123",
+      "surahNumber": 4,
+      "ayahNumber": 123,
+      "text": {
+        "simple": "لَيْسَ بِأَمَانِيِّكُمْ وَلَا أَمَانِيِّ أَهْلِ الْكِتَابِ ۗ مَنْ يَعْمَلْ سُوءًا يُجْزَ بِهِ وَلَا يَجِدْ لَهُ مِنْ دُونِ اللَّهِ وَلِيًّا وَلَا نَصِيرًا",
+        "en_sahih": "English translation of [4:123] in Sahih International style.",
+        "en_yusufali": "English translation of [4:123] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 123 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:123] en español.",
+        "fr_hamidullah": "Traduction de [4:123] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 123 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:124",
+      "surahNumber": 4,
+      "ayahNumber": 124,
+      "text": {
+        "simple": "وَمَنْ يَعْمَلْ مِنَ الصَّالِحَاتِ مِنْ ذَكَرٍ أَوْ أُنْثَىٰ وَهُوَ مُؤْمِنٌ فَأُولَٰئِكَ يَدْخُلُونَ الْجَنَّةَ وَلَا يُظْلَمُونَ نَقِيرًا",
+        "en_sahih": "English translation of [4:124] in Sahih International style.",
+        "en_yusufali": "English translation of [4:124] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 124 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:124] en español.",
+        "fr_hamidullah": "Traduction de [4:124] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 124 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:125",
+      "surahNumber": 4,
+      "ayahNumber": 125,
+      "text": {
+        "simple": "وَمَنْ أَحْسَنُ دِينًا مِمَّنْ أَسْلَمَ وَجْهَهُ لِلَّهِ وَهُوَ مُحْسِنٌ وَاتَّبَعَ مِلَّةَ إِبْرَاهِيمَ حَنِيفًا ۗ وَاتَّخَذَ اللَّهُ إِبْرَاهِيمَ خَلِيلًا",
+        "en_sahih": "English translation of [4:125] in Sahih International style.",
+        "en_yusufali": "English translation of [4:125] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 125 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:125] en español.",
+        "fr_hamidullah": "Traduction de [4:125] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 125 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:126",
+      "surahNumber": 4,
+      "ayahNumber": 126,
+      "text": {
+        "simple": "وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۚ وَكَانَ اللَّهُ بِكُلِّ شَيْءٍ مُحِيطًا",
+        "en_sahih": "English translation of [4:126] in Sahih International style.",
+        "en_yusufali": "English translation of [4:126] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 126 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:126] en español.",
+        "fr_hamidullah": "Traduction de [4:126] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 126 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:127",
+      "surahNumber": 4,
+      "ayahNumber": 127,
+      "text": {
+        "simple": "وَيَسْتَفْتُونَكَ فِي النِّسَاءِ ۖ قُلِ اللَّهُ يُفْتِيكُمْ فِيهِنَّ وَمَا يُتْلَىٰ عَلَيْكُمْ فِي الْكِتَابِ فِي يَتَامَى النِّسَاءِ اللَّاتِي لَا تُؤْتُونَهُنَّ مَا كُتِبَ لَهُنَّ وَتَرْغَبُونَ أَنْ تَنْكِحُوهُنَّ وَالْمُسْتَضْعَفِينَ مِنَ الْوِلْدَانِ وَأَنْ تَقُومُوا لِلْيَتَامَىٰ بِالْقِسْطِ ۚ وَمَا تَفْعَلُوا مِنْ خَيْرٍ فَإِنَّ اللَّهَ كَانَ بِهِ عَلِيمًا",
+        "en_sahih": "English translation of [4:127] in Sahih International style.",
+        "en_yusufali": "English translation of [4:127] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 127 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:127] en español.",
+        "fr_hamidullah": "Traduction de [4:127] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 127 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:128",
+      "surahNumber": 4,
+      "ayahNumber": 128,
+      "text": {
+        "simple": "وَإِنِ امْرَأَةٌ خَافَتْ مِنْ بَعْلِهَا نُشُوزًا أَوْ إِعْرَاضًا فَلَا جُنَاحَ عَلَيْهِمَا أَنْ يُصْلِحَا بَيْنَهُمَا صُلْحًا ۚ وَالصُّلْحُ خَيْرٌ ۗ وَأُحْضِرَتِ الْأَنْفُسُ الشُّحَّ ۚ وَإِنْ تُحْسِنُوا وَتَتَّقُوا فَإِنَّ اللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا",
+        "en_sahih": "English translation of [4:128] in Sahih International style.",
+        "en_yusufali": "English translation of [4:128] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 128 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:128] en español.",
+        "fr_hamidullah": "Traduction de [4:128] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 128 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:129",
+      "surahNumber": 4,
+      "ayahNumber": 129,
+      "text": {
+        "simple": "وَلَنْ تَسْتَطِيعُوا أَنْ تَعْدِلُوا بَيْنَ النِّسَاءِ وَلَوْ حَرَصْتُمْ ۖ فَلَا تَمِيلُوا كُلَّ الْمَيْلِ فَتَذَرُوهَا كَالْمُعَلَّقَةِ ۚ وَإِنْ تُصْلِحُوا وَتَتَّقُوا فَإِنَّ اللَّهَ كَانَ غَفُورًا رَحِيمًا",
+        "en_sahih": "English translation of [4:129] in Sahih International style.",
+        "en_yusufali": "English translation of [4:129] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 129 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:129] en español.",
+        "fr_hamidullah": "Traduction de [4:129] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 129 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:130",
+      "surahNumber": 4,
+      "ayahNumber": 130,
+      "text": {
+        "simple": "وَإِنْ يَتَفَرَّقَا يُغْنِ اللَّهُ كُلًّا مِنْ سَعَتِهِ ۚ وَكَانَ اللَّهُ وَاسِعًا حَكِيمًا",
+        "en_sahih": "English translation of [4:130] in Sahih International style.",
+        "en_yusufali": "English translation of [4:130] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 130 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:130] en español.",
+        "fr_hamidullah": "Traduction de [4:130] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 130 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:131",
+      "surahNumber": 4,
+      "ayahNumber": 131,
+      "text": {
+        "simple": "وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ وَلَقَدْ وَصَّيْنَا الَّذِينَ أُوتُوا الْكِتَابَ مِنْ قَبْلِكُمْ وَإِيَّاكُمْ أَنِ اتَّقُوا اللَّهَ ۚ وَإِنْ تَكْفُرُوا فَإِنَّ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۚ وَكَانَ اللَّهُ غَنِيًّا حَمِيدًا",
+        "en_sahih": "English translation of [4:131] in Sahih International style.",
+        "en_yusufali": "English translation of [4:131] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 131 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:131] en español.",
+        "fr_hamidullah": "Traduction de [4:131] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 131 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:132",
+      "surahNumber": 4,
+      "ayahNumber": 132,
+      "text": {
+        "simple": "وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۚ وَكَفَىٰ بِاللَّهِ وَكِيلًا",
+        "en_sahih": "English translation of [4:132] in Sahih International style.",
+        "en_yusufali": "English translation of [4:132] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 132 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:132] en español.",
+        "fr_hamidullah": "Traduction de [4:132] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 132 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:133",
+      "surahNumber": 4,
+      "ayahNumber": 133,
+      "text": {
+        "simple": "إِنْ يَشَأْ يُذْهِبْكُمْ أَيُّهَا النَّاسُ وَيَأْتِ بِآخَرِينَ ۚ وَكَانَ اللَّهُ عَلَىٰ ذَٰلِكَ قَدِيرًا",
+        "en_sahih": "English translation of [4:133] in Sahih International style.",
+        "en_yusufali": "English translation of [4:133] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 133 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:133] en español.",
+        "fr_hamidullah": "Traduction de [4:133] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 133 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:134",
+      "surahNumber": 4,
+      "ayahNumber": 134,
+      "text": {
+        "simple": "مَنْ كَانَ يُرِيدُ ثَوَابَ الدُّنْيَا فَعِنْدَ اللَّهِ ثَوَابُ الدُّنْيَا وَالْآخِرَةِ ۚ وَكَانَ اللَّهُ سَمِيعًا بَصِيرًا",
+        "en_sahih": "English translation of [4:134] in Sahih International style.",
+        "en_yusufali": "English translation of [4:134] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 134 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:134] en español.",
+        "fr_hamidullah": "Traduction de [4:134] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 134 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:135",
+      "surahNumber": 4,
+      "ayahNumber": 135,
+      "text": {
+        "simple": "۞ يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ بِالْقِسْطِ شُهَدَاءَ لِلَّهِ وَلَوْ عَلَىٰ أَنْفُسِكُمْ أَوِ الْوَالِدَيْنِ وَالْأَقْرَبِينَ ۚ إِنْ يَكُنْ غَنِيًّا أَوْ فَقِيرًا فَاللَّهُ أَوْلَىٰ بِهِمَا ۖ فَلَا تَتَّبِعُوا الْهَوَىٰ أَنْ تَعْدِلُوا ۚ وَإِنْ تَلْوُوا أَوْ تُعْرِضُوا فَإِنَّ اللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا",
+        "en_sahih": "English translation of [4:135] in Sahih International style.",
+        "en_yusufali": "English translation of [4:135] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 135 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:135] en español.",
+        "fr_hamidullah": "Traduction de [4:135] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 135 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:136",
+      "surahNumber": 4,
+      "ayahNumber": 136,
+      "text": {
+        "simple": "يَا أَيُّهَا الَّذِينَ آمَنُوا آمِنُوا بِاللَّهِ وَرَسُولِهِ وَالْكِتَابِ الَّذِي نَزَّلَ عَلَىٰ رَسُولِهِ وَالْكِتَابِ الَّذِي أَنْزَلَ مِنْ قَبْلُ ۚ وَمَنْ يَكْفُرْ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ وَالْيَوْمِ الْآخِرِ فَقَدْ ضَلَّ ضَلَالًا بَعِيدًا",
+        "en_sahih": "English translation of [4:136] in Sahih International style.",
+        "en_yusufali": "English translation of [4:136] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 136 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:136] en español.",
+        "fr_hamidullah": "Traduction de [4:136] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 136 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:137",
+      "surahNumber": 4,
+      "ayahNumber": 137,
+      "text": {
+        "simple": "إِنَّ الَّذِينَ آمَنُوا ثُمَّ كَفَرُوا ثُمَّ آمَنُوا ثُمَّ كَفَرُوا ثُمَّ ازْدَادُوا كُفْرًا لَمْ يَكُنِ اللَّهُ لِيَغْفِرَ لَهُمْ وَلَا لِيَهْدِيَهُمْ سَبِيلًا",
+        "en_sahih": "English translation of [4:137] in Sahih International style.",
+        "en_yusufali": "English translation of [4:137] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 137 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:137] en español.",
+        "fr_hamidullah": "Traduction de [4:137] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 137 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:138",
+      "surahNumber": 4,
+      "ayahNumber": 138,
+      "text": {
+        "simple": "بَشِّرِ الْمُنَافِقِينَ بِأَنَّ لَهُمْ عَذَابًا أَلِيمًا",
+        "en_sahih": "English translation of [4:138] in Sahih International style.",
+        "en_yusufali": "English translation of [4:138] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 138 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:138] en español.",
+        "fr_hamidullah": "Traduction de [4:138] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 138 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:139",
+      "surahNumber": 4,
+      "ayahNumber": 139,
+      "text": {
+        "simple": "الَّذِينَ يَتَّخِذُونَ الْكَافِرِينَ أَوْلِيَاءَ مِنْ دُونِ الْمُؤْمِنِينَ ۚ أَيَبْتَغُونَ عِنْدَهُمُ الْعِزَّةَ فَإِنَّ الْعِزَّةَ لِلَّهِ جَمِيعًا",
+        "en_sahih": "English translation of [4:139] in Sahih International style.",
+        "en_yusufali": "English translation of [4:139] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 139 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:139] en español.",
+        "fr_hamidullah": "Traduction de [4:139] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 139 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:140",
+      "surahNumber": 4,
+      "ayahNumber": 140,
+      "text": {
+        "simple": "وَقَدْ نَزَّلَ عَلَيْكُمْ فِي الْكِتَابِ أَنْ إِذَا سَمِعْتُمْ آيَاتِ اللَّهِ يُكْفَرُ بِهَا وَيُسْتَهْزَأُ بِهَا فَلَا تَقْعُدُوا مَعَهُمْ حَتَّىٰ يَخُوضُوا فِي حَدِيثٍ غَيْرِهِ ۚ إِنَّكُمْ إِذًا مِثْلُهُمْ ۗ إِنَّ اللَّهَ جَامِعُ الْمُنَافِقِينَ وَالْكَافِرِينَ فِي جَهَنَّمَ جَمِيعًا",
+        "en_sahih": "English translation of [4:140] in Sahih International style.",
+        "en_yusufali": "English translation of [4:140] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 140 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:140] en español.",
+        "fr_hamidullah": "Traduction de [4:140] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 140 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:141",
+      "surahNumber": 4,
+      "ayahNumber": 141,
+      "text": {
+        "simple": "الَّذِينَ يَتَرَبَّصُونَ بِكُمْ فَإِنْ كَانَ لَكُمْ فَتْحٌ مِنَ اللَّهِ قَالُوا أَلَمْ نَكُنْ مَعَكُمْ وَإِنْ كَانَ لِلْكَافِرِينَ نَصِيبٌ قَالُوا أَلَمْ نَسْتَحْوِذْ عَلَيْكُمْ وَنَمْنَعْكُمْ مِنَ الْمُؤْمِنِينَ ۚ فَاللَّهُ يَحْكُمُ بَيْنَكُمْ يَوْمَ الْقِيَامَةِ ۗ وَلَنْ يَجْعَلَ اللَّهُ لِلْكَافِرِينَ عَلَى الْمُؤْمِنِينَ سَبِيلًا",
+        "en_sahih": "English translation of [4:141] in Sahih International style.",
+        "en_yusufali": "English translation of [4:141] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 141 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:141] en español.",
+        "fr_hamidullah": "Traduction de [4:141] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 141 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:142",
+      "surahNumber": 4,
+      "ayahNumber": 142,
+      "text": {
+        "simple": "إِنَّ الْمُنَافِقِينَ يُخَادِعُونَ اللَّهَ وَهُوَ خَادِعُهُمْ وَإِذَا قَامُوا إِلَى الصَّلَاةِ قَامُوا كُسَالَىٰ يُرَاءُونَ النَّاسَ وَلَا يَذْكُرُونَ اللَّهَ إِلَّا قَلِيلًا",
+        "en_sahih": "English translation of [4:142] in Sahih International style.",
+        "en_yusufali": "English translation of [4:142] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 142 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:142] en español.",
+        "fr_hamidullah": "Traduction de [4:142] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 142 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:143",
+      "surahNumber": 4,
+      "ayahNumber": 143,
+      "text": {
+        "simple": "مُذَبْذَبِينَ بَيْنَ ذَٰلِكَ لَا إِلَىٰ هَٰؤُلَاءِ وَلَا إِلَىٰ هَٰؤُلَاءِ ۚ وَمَنْ يُضْلِلِ اللَّهُ فَلَنْ تَجِدَ لَهُ سَبِيلًا",
+        "en_sahih": "English translation of [4:143] in Sahih International style.",
+        "en_yusufali": "English translation of [4:143] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 143 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:143] en español.",
+        "fr_hamidullah": "Traduction de [4:143] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 143 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:144",
+      "surahNumber": 4,
+      "ayahNumber": 144,
+      "text": {
+        "simple": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا الْكَافِرِينَ أَوْلِيَاءَ مِنْ دُونِ الْمُؤْمِنِينَ ۚ أَتُرِيدُونَ أَنْ تَجْعَلُوا لِلَّهِ عَلَيْكُمْ سُلْطَانًا مُبِينًا",
+        "en_sahih": "English translation of [4:144] in Sahih International style.",
+        "en_yusufali": "English translation of [4:144] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 144 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:144] en español.",
+        "fr_hamidullah": "Traduction de [4:144] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 144 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:145",
+      "surahNumber": 4,
+      "ayahNumber": 145,
+      "text": {
+        "simple": "إِنَّ الْمُنَافِقِينَ فِي الدَّرْكِ الْأَسْفَلِ مِنَ النَّارِ وَلَنْ تَجِدَ لَهُمْ نَصِيرًا",
+        "en_sahih": "English translation of [4:145] in Sahih International style.",
+        "en_yusufali": "English translation of [4:145] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 145 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:145] en español.",
+        "fr_hamidullah": "Traduction de [4:145] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 145 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:146",
+      "surahNumber": 4,
+      "ayahNumber": 146,
+      "text": {
+        "simple": "إِلَّا الَّذِينَ تَابُوا وَأَصْلَحُوا وَاعْتَصَمُوا بِاللَّهِ وَأَخْلَصُوا دِينَهُمْ لِلَّهِ فَأُولَٰئِكَ مَعَ الْمُؤْمِنِينَ ۖ وَسَوْفَ يُؤْتِ اللَّهُ الْمُؤْمِنِينَ أَجْرًا عَظِيمًا",
+        "en_sahih": "English translation of [4:146] in Sahih International style.",
+        "en_yusufali": "English translation of [4:146] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 146 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:146] en español.",
+        "fr_hamidullah": "Traduction de [4:146] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 146 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:147",
+      "surahNumber": 4,
+      "ayahNumber": 147,
+      "text": {
+        "simple": "مَا يَفْعَلُ اللَّهُ بِعَذَابِكُمْ إِنْ شَكَرْتُمْ وَآمَنْتُمْ ۚ وَكَانَ اللَّهُ شَاكِرًا عَلِيمًا",
+        "en_sahih": "English translation of [4:147] in Sahih International style.",
+        "en_yusufali": "English translation of [4:147] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 147 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:147] en español.",
+        "fr_hamidullah": "Traduction de [4:147] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 147 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:148",
+      "surahNumber": 4,
+      "ayahNumber": 148,
+      "text": {
+        "simple": "۞ لَا يُحِبُّ اللَّهُ الْجَهْرَ بِالسُّوءِ مِنَ الْقَوْلِ إِلَّا مَنْ ظُلِمَ ۚ وَكَانَ اللَّهُ سَمِيعًا عَلِيمًا",
+        "en_sahih": "English translation of [4:148] in Sahih International style.",
+        "en_yusufali": "English translation of [4:148] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 148 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:148] en español.",
+        "fr_hamidullah": "Traduction de [4:148] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 148 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:149",
+      "surahNumber": 4,
+      "ayahNumber": 149,
+      "text": {
+        "simple": "إِنْ تُبْدُوا خَيْرًا أَوْ تُخْفُوهُ أَوْ تَعْفُوا عَنْ سُوءٍ فَإِنَّ اللَّهَ كَانَ عَفُوًّا قَدِيرًا",
+        "en_sahih": "English translation of [4:149] in Sahih International style.",
+        "en_yusufali": "English translation of [4:149] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 149 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:149] en español.",
+        "fr_hamidullah": "Traduction de [4:149] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 149 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:150",
+      "surahNumber": 4,
+      "ayahNumber": 150,
+      "text": {
+        "simple": "إِنَّ الَّذِينَ يَكْفُرُونَ بِاللَّهِ وَرُسُلِهِ وَيُرِيدُونَ أَنْ يُفَرِّقُوا بَيْنَ اللَّهِ وَرُسُلِهِ وَيَقُولُونَ نُؤْمِنُ بِبَعْضٍ وَنَكْفُرُ بِبَعْضٍ وَيُرِيدُونَ أَنْ يَتَّخِذُوا بَيْنَ ذَٰلِكَ سَبِيلًا",
+        "en_sahih": "English translation of [4:150] in Sahih International style.",
+        "en_yusufali": "English translation of [4:150] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 150 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:150] en español.",
+        "fr_hamidullah": "Traduction de [4:150] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 150 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:151",
+      "surahNumber": 4,
+      "ayahNumber": 151,
+      "text": {
+        "simple": "أُولَٰئِكَ هُمُ الْكَافِرُونَ حَقًّا ۚ وَأَعْتَدْنَا لِلْكَافِرِينَ عَذَابًا مُهِينًا",
+        "en_sahih": "English translation of [4:151] in Sahih International style.",
+        "en_yusufali": "English translation of [4:151] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 151 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:151] en español.",
+        "fr_hamidullah": "Traduction de [4:151] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 151 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:152",
+      "surahNumber": 4,
+      "ayahNumber": 152,
+      "text": {
+        "simple": "وَالَّذِينَ آمَنُوا بِاللَّهِ وَرُسُلِهِ وَلَمْ يُفَرِّقُوا بَيْنَ أَحَدٍ مِنْهُمْ أُولَٰئِكَ سَوْفَ يُؤْتِيهِمْ أُجُورَهُمْ ۗ وَكَانَ اللَّهُ غَفُورًا رَحِيمًا",
+        "en_sahih": "English translation of [4:152] in Sahih International style.",
+        "en_yusufali": "English translation of [4:152] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 152 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:152] en español.",
+        "fr_hamidullah": "Traduction de [4:152] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 152 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:153",
+      "surahNumber": 4,
+      "ayahNumber": 153,
+      "text": {
+        "simple": "يَسْأَلُكَ أَهْلُ الْكِتَابِ أَنْ تُنَزِّلَ عَلَيْهِمْ كِتَابًا مِنَ السَّمَاءِ ۚ فَقَدْ سَأَلُوا مُوسَىٰ أَكْبَرَ مِنْ ذَٰلِكَ فَقَالُوا أَرِنَا اللَّهَ جَهْرَةً فَأَخَذَتْهُمُ الصَّاعِقَةُ بِظُلْمِهِمْ ۚ ثُمَّ اتَّخَذُوا الْعِجْلَ مِنْ بَعْدِ مَا جَاءَتْهُمُ الْبَيِّنَاتُ فَعَفَوْنَا عَنْ ذَٰلِكَ ۚ وَآتَيْنَا مُوسَىٰ سُلْطَانًا مُبِينًا",
+        "en_sahih": "English translation of [4:153] in Sahih International style.",
+        "en_yusufali": "English translation of [4:153] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 153 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:153] en español.",
+        "fr_hamidullah": "Traduction de [4:153] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 153 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:154",
+      "surahNumber": 4,
+      "ayahNumber": 154,
+      "text": {
+        "simple": "وَرَفَعْنَا فَوْقَهُمُ الطُّورَ بِمِيثَاقِهِمْ وَقُلْنَا لَهُمُ ادْخُلُوا الْبَابَ سُجَّدًا وَقُلْنَا لَهُمْ لَا تَعْدُوا فِي السَّبْتِ وَأَخَذْنَا مِنْهُمْ مِيثَاقًا غَلِيظًا",
+        "en_sahih": "English translation of [4:154] in Sahih International style.",
+        "en_yusufali": "English translation of [4:154] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 154 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:154] en español.",
+        "fr_hamidullah": "Traduction de [4:154] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 154 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:155",
+      "surahNumber": 4,
+      "ayahNumber": 155,
+      "text": {
+        "simple": "فَبِمَا نَقْضِهِمْ مِيثَاقَهُمْ وَكُفْرِهِمْ بِآيَاتِ اللَّهِ وَقَتْلِهِمُ الْأَنْبِيَاءَ بِغَيْرِ حَقٍّ وَقَوْلِهِمْ قُلُوبُنَا غُلْفٌ ۚ بَلْ طَبَعَ اللَّهُ عَلَيْهَا بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًا",
+        "en_sahih": "English translation of [4:155] in Sahih International style.",
+        "en_yusufali": "English translation of [4:155] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 155 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:155] en español.",
+        "fr_hamidullah": "Traduction de [4:155] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 155 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:156",
+      "surahNumber": 4,
+      "ayahNumber": 156,
+      "text": {
+        "simple": "وَبِكُفْرِهِمْ وَقَوْلِهِمْ عَلَىٰ مَرْيَمَ بُهْتَانًا عَظِيمًا",
+        "en_sahih": "English translation of [4:156] in Sahih International style.",
+        "en_yusufali": "English translation of [4:156] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 156 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:156] en español.",
+        "fr_hamidullah": "Traduction de [4:156] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 156 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:157",
+      "surahNumber": 4,
+      "ayahNumber": 157,
+      "text": {
+        "simple": "وَقَوْلِهِمْ إِنَّا قَتَلْنَا الْمَسِيحَ عِيسَى ابْنَ مَرْيَمَ رَسُولَ اللَّهِ وَمَا قَتَلُوهُ وَمَا صَلَبُوهُ وَلَٰكِنْ شُبِّهَ لَهُمْ ۚ وَإِنَّ الَّذِينَ اخْتَلَفُوا فِيهِ لَفِي شَكٍّ مِنْهُ ۚ مَا لَهُمْ بِهِ مِنْ عِلْمٍ إِلَّا اتِّبَاعَ الظَّنِّ ۚ وَمَا قَتَلُوهُ يَقِينًا",
+        "en_sahih": "English translation of [4:157] in Sahih International style.",
+        "en_yusufali": "English translation of [4:157] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 157 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:157] en español.",
+        "fr_hamidullah": "Traduction de [4:157] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 157 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:158",
+      "surahNumber": 4,
+      "ayahNumber": 158,
+      "text": {
+        "simple": "بَلْ رَفَعَهُ اللَّهُ إِلَيْهِ ۚ وَكَانَ اللَّهُ عَزِيزًا حَكِيمًا",
+        "en_sahih": "English translation of [4:158] in Sahih International style.",
+        "en_yusufali": "English translation of [4:158] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 158 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:158] en español.",
+        "fr_hamidullah": "Traduction de [4:158] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 158 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:159",
+      "surahNumber": 4,
+      "ayahNumber": 159,
+      "text": {
+        "simple": "وَإِنْ مِنْ أَهْلِ الْكِتَابِ إِلَّا لَيُؤْمِنَنَّ بِهِ قَبْلَ مَوْتِهِ ۖ وَيَوْمَ الْقِيَامَةِ يَكُونُ عَلَيْهِمْ شَهِيدًا",
+        "en_sahih": "English translation of [4:159] in Sahih International style.",
+        "en_yusufali": "English translation of [4:159] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 159 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:159] en español.",
+        "fr_hamidullah": "Traduction de [4:159] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 159 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:160",
+      "surahNumber": 4,
+      "ayahNumber": 160,
+      "text": {
+        "simple": "فَبِظُلْمٍ مِنَ الَّذِينَ هَادُوا حَرَّمْنَا عَلَيْهِمْ طَيِّبَاتٍ أُحِلَّتْ لَهُمْ وَبِصَدِّهِمْ عَنْ سَبِيلِ اللَّهِ كَثِيرًا",
+        "en_sahih": "English translation of [4:160] in Sahih International style.",
+        "en_yusufali": "English translation of [4:160] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 160 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:160] en español.",
+        "fr_hamidullah": "Traduction de [4:160] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 160 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:161",
+      "surahNumber": 4,
+      "ayahNumber": 161,
+      "text": {
+        "simple": "وَأَخْذِهِمُ الرِّبَا وَقَدْ نُهُوا عَنْهُ وَأَكْلِهِمْ أَمْوَالَ النَّاسِ بِالْبَاطِلِ ۚ وَأَعْتَدْنَا لِلْكَافِرِينَ مِنْهُمْ عَذَابًا أَلِيمًا",
+        "en_sahih": "English translation of [4:161] in Sahih International style.",
+        "en_yusufali": "English translation of [4:161] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 161 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:161] en español.",
+        "fr_hamidullah": "Traduction de [4:161] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 161 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:162",
+      "surahNumber": 4,
+      "ayahNumber": 162,
+      "text": {
+        "simple": "لَٰكِنِ الرَّاسِخُونَ فِي الْعِلْمِ مِنْهُمْ وَالْمُؤْمِنُونَ يُؤْمِنُونَ بِمَا أُنْزِلَ إِلَيْكَ وَمَا أُنْزِلَ مِنْ قَبْلِكَ ۚ وَالْمُقِيمِينَ الصَّلَاةَ ۚ وَالْمُؤْتُونَ الزَّكَاةَ وَالْمُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ أُولَٰئِكَ سَنُؤْتِيهِمْ أَجْرًا عَظِيمًا",
+        "en_sahih": "English translation of [4:162] in Sahih International style.",
+        "en_yusufali": "English translation of [4:162] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 162 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:162] en español.",
+        "fr_hamidullah": "Traduction de [4:162] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 162 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:163",
+      "surahNumber": 4,
+      "ayahNumber": 163,
+      "text": {
+        "simple": "۞ إِنَّا أَوْحَيْنَا إِلَيْكَ كَمَا أَوْحَيْنَا إِلَىٰ نُوحٍ وَالنَّبِيِّينَ مِنْ بَعْدِهِ ۚ وَأَوْحَيْنَا إِلَىٰ إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالْأَسْبَاطِ وَعِيسَىٰ وَأَيُّوبَ وَيُونُسَ وَهَارُونَ وَسُلَيْمَانَ ۚ وَآتَيْنَا دَاوُودَ زَبُورًا",
+        "en_sahih": "English translation of [4:163] in Sahih International style.",
+        "en_yusufali": "English translation of [4:163] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 163 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:163] en español.",
+        "fr_hamidullah": "Traduction de [4:163] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 163 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:164",
+      "surahNumber": 4,
+      "ayahNumber": 164,
+      "text": {
+        "simple": "وَرُسُلًا قَدْ قَصَصْنَاهُمْ عَلَيْكَ مِنْ قَبْلُ وَرُسُلًا لَمْ نَقْصُصْهُمْ عَلَيْكَ ۚ وَكَلَّمَ اللَّهُ مُوسَىٰ تَكْلِيمًا",
+        "en_sahih": "English translation of [4:164] in Sahih International style.",
+        "en_yusufali": "English translation of [4:164] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 164 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:164] en español.",
+        "fr_hamidullah": "Traduction de [4:164] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 164 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:165",
+      "surahNumber": 4,
+      "ayahNumber": 165,
+      "text": {
+        "simple": "رُسُلًا مُبَشِّرِينَ وَمُنْذِرِينَ لِئَلَّا يَكُونَ لِلنَّاسِ عَلَى اللَّهِ حُجَّةٌ بَعْدَ الرُّسُلِ ۚ وَكَانَ اللَّهُ عَزِيزًا حَكِيمًا",
+        "en_sahih": "English translation of [4:165] in Sahih International style.",
+        "en_yusufali": "English translation of [4:165] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 165 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:165] en español.",
+        "fr_hamidullah": "Traduction de [4:165] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 165 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:166",
+      "surahNumber": 4,
+      "ayahNumber": 166,
+      "text": {
+        "simple": "لَٰكِنِ اللَّهُ يَشْهَدُ بِمَا أَنْزَلَ إِلَيْكَ ۖ أَنْزَلَهُ بِعِلْمِهِ ۖ وَالْمَلَائِكَةُ يَشْهَدُونَ ۚ وَكَفَىٰ بِاللَّهِ شَهِيدًا",
+        "en_sahih": "English translation of [4:166] in Sahih International style.",
+        "en_yusufali": "English translation of [4:166] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 166 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:166] en español.",
+        "fr_hamidullah": "Traduction de [4:166] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 166 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:167",
+      "surahNumber": 4,
+      "ayahNumber": 167,
+      "text": {
+        "simple": "إِنَّ الَّذِينَ كَفَرُوا وَصَدُّوا عَنْ سَبِيلِ اللَّهِ قَدْ ضَلُّوا ضَلَالًا بَعِيدًا",
+        "en_sahih": "English translation of [4:167] in Sahih International style.",
+        "en_yusufali": "English translation of [4:167] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 167 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:167] en español.",
+        "fr_hamidullah": "Traduction de [4:167] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 167 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:168",
+      "surahNumber": 4,
+      "ayahNumber": 168,
+      "text": {
+        "simple": "إِنَّ الَّذِينَ كَفَرُوا وَظَلَمُوا لَمْ يَكُنِ اللَّهُ لِيَغْفِرَ لَهُمْ وَلَا لِيَهْدِيَهُمْ طَرِيقًا",
+        "en_sahih": "English translation of [4:168] in Sahih International style.",
+        "en_yusufali": "English translation of [4:168] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 168 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:168] en español.",
+        "fr_hamidullah": "Traduction de [4:168] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 168 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:169",
+      "surahNumber": 4,
+      "ayahNumber": 169,
+      "text": {
+        "simple": "إِلَّا طَرِيقَ جَهَنَّمَ خَالِدِينَ فِيهَا أَبَدًا ۚ وَكَانَ ذَٰلِكَ عَلَى اللَّهِ يَسِيرًا",
+        "en_sahih": "English translation of [4:169] in Sahih International style.",
+        "en_yusufali": "English translation of [4:169] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 169 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:169] en español.",
+        "fr_hamidullah": "Traduction de [4:169] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 169 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:170",
+      "surahNumber": 4,
+      "ayahNumber": 170,
+      "text": {
+        "simple": "يَا أَيُّهَا النَّاسُ قَدْ جَاءَكُمُ الرَّسُولُ بِالْحَقِّ مِنْ رَبِّكُمْ فَآمِنُوا خَيْرًا لَكُمْ ۚ وَإِنْ تَكْفُرُوا فَإِنَّ لِلَّهِ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۚ وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا",
+        "en_sahih": "English translation of [4:170] in Sahih International style.",
+        "en_yusufali": "English translation of [4:170] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 170 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:170] en español.",
+        "fr_hamidullah": "Traduction de [4:170] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 170 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:171",
+      "surahNumber": 4,
+      "ayahNumber": 171,
+      "text": {
+        "simple": "يَا أَهْلَ الْكِتَابِ لَا تَغْلُوا فِي دِينِكُمْ وَلَا تَقُولُوا عَلَى اللَّهِ إِلَّا الْحَقَّ ۚ إِنَّمَا الْمَسِيحُ عِيسَى ابْنُ مَرْيَمَ رَسُولُ اللَّهِ وَكَلِمَتُهُ أَلْقَاهَا إِلَىٰ مَرْيَمَ وَرُوحٌ مِنْهُ ۖ فَآمِنُوا بِاللَّهِ وَرُسُلِهِ ۖ وَلَا تَقُولُوا ثَلَاثَةٌ ۚ انْتَهُوا خَيْرًا لَكُمْ ۚ إِنَّمَا اللَّهُ إِلَٰهٌ وَاحِدٌ ۖ سُبْحَانَهُ أَنْ يَكُونَ لَهُ وَلَدٌ ۘ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ وَكَفَىٰ بِاللَّهِ وَكِيلًا",
+        "en_sahih": "English translation of [4:171] in Sahih International style.",
+        "en_yusufali": "English translation of [4:171] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 171 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:171] en español.",
+        "fr_hamidullah": "Traduction de [4:171] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 171 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:172",
+      "surahNumber": 4,
+      "ayahNumber": 172,
+      "text": {
+        "simple": "لَنْ يَسْتَنْكِفَ الْمَسِيحُ أَنْ يَكُونَ عَبْدًا لِلَّهِ وَلَا الْمَلَائِكَةُ الْمُقَرَّبُونَ ۚ وَمَنْ يَسْتَنْكِفْ عَنْ عِبَادَتِهِ وَيَسْتَكْبِرْ فَسَيَحْشُرُهُمْ إِلَيْهِ جَمِيعًا",
+        "en_sahih": "English translation of [4:172] in Sahih International style.",
+        "en_yusufali": "English translation of [4:172] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 172 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:172] en español.",
+        "fr_hamidullah": "Traduction de [4:172] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 172 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:173",
+      "surahNumber": 4,
+      "ayahNumber": 173,
+      "text": {
+        "simple": "فَأَمَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَيُوَفِّيهِمْ أُجُورَهُمْ وَيَزِيدُهُمْ مِنْ فَضْلِهِ ۖ وَأَمَّا الَّذِينَ اسْتَنْكَفُوا وَاسْتَكْبَرُوا فَيُعَذِّبُهُمْ عَذَابًا أَلِيمًا وَلَا يَجِدُونَ لَهُمْ مِنْ دُونِ اللَّهِ وَلِيًّا وَلَا نَصِيرًا",
+        "en_sahih": "English translation of [4:173] in Sahih International style.",
+        "en_yusufali": "English translation of [4:173] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 173 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:173] en español.",
+        "fr_hamidullah": "Traduction de [4:173] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 173 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:174",
+      "surahNumber": 4,
+      "ayahNumber": 174,
+      "text": {
+        "simple": "يَا أَيُّهَا النَّاسُ قَدْ جَاءَكُمْ بُرْهَانٌ مِنْ رَبِّكُمْ وَأَنْزَلْنَا إِلَيْكُمْ نُورًا مُبِينًا",
+        "en_sahih": "English translation of [4:174] in Sahih International style.",
+        "en_yusufali": "English translation of [4:174] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 174 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:174] en español.",
+        "fr_hamidullah": "Traduction de [4:174] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 174 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:175",
+      "surahNumber": 4,
+      "ayahNumber": 175,
+      "text": {
+        "simple": "فَأَمَّا الَّذِينَ آمَنُوا بِاللَّهِ وَاعْتَصَمُوا بِهِ فَسَيُدْخِلُهُمْ فِي رَحْمَةٍ مِنْهُ وَفَضْلٍ وَيَهْدِيهِمْ إِلَيْهِ صِرَاطًا مُسْتَقِيمًا",
+        "en_sahih": "English translation of [4:175] in Sahih International style.",
+        "en_yusufali": "English translation of [4:175] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 175 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:175] en español.",
+        "fr_hamidullah": "Traduction de [4:175] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 175 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "4:176",
+      "surahNumber": 4,
+      "ayahNumber": 176,
+      "text": {
+        "simple": "يَسْتَفْتُونَكَ قُلِ اللَّهُ يُفْتِيكُمْ فِي الْكَلَالَةِ ۚ إِنِ امْرُؤٌ هَلَكَ لَيْسَ لَهُ وَلَدٌ وَلَهُ أُخْتٌ فَلَهَا نِصْفُ مَا تَرَكَ ۚ وَهُوَ يَرِثُهَا إِنْ لَمْ يَكُنْ لَهَا وَلَدٌ ۚ فَإِنْ كَانَتَا اثْنَتَيْنِ فَلَهُمَا الثُّلُثَانِ مِمَّا تَرَكَ ۚ وَإِنْ كَانُوا إِخْوَةً رِجَالًا وَنِسَاءً فَلِلذَّكَرِ مِثْلُ حَظِّ الْأُنْثَيَيْنِ ۗ يُبَيِّنُ اللَّهُ لَكُمْ أَنْ تَضِلُّوا ۗ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ",
+        "en_sahih": "English translation of [4:176] in Sahih International style.",
+        "en_yusufali": "English translation of [4:176] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 4 آیت 176 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [4:176] en español.",
+        "fr_hamidullah": "Traduction de [4:176] en français.",
+        "bn_hoque": "সূরা 4 আয়াত 176 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

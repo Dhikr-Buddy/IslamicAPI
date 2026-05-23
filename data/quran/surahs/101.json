@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:58.004Z",
+  "surahNumber": 101,
+  "ayahCount": 11,
+  "ayahs": [
+    {
+      "id": "101:1",
+      "surahNumber": 101,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ الْقَارِعَةُ",
+        "en_sahih": "English translation of [101:1] in Sahih International style.",
+        "en_yusufali": "English translation of [101:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 101 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [101:1] en español.",
+        "fr_hamidullah": "Traduction de [101:1] en français.",
+        "bn_hoque": "সূরা 101 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "101:2",
+      "surahNumber": 101,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "مَا الْقَارِعَةُ",
+        "en_sahih": "English translation of [101:2] in Sahih International style.",
+        "en_yusufali": "English translation of [101:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 101 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [101:2] en español.",
+        "fr_hamidullah": "Traduction de [101:2] en français.",
+        "bn_hoque": "সূরা 101 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "101:3",
+      "surahNumber": 101,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "وَمَا أَدْرَاكَ مَا الْقَارِعَةُ",
+        "en_sahih": "English translation of [101:3] in Sahih International style.",
+        "en_yusufali": "English translation of [101:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 101 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [101:3] en español.",
+        "fr_hamidullah": "Traduction de [101:3] en français.",
+        "bn_hoque": "সূরা 101 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "101:4",
+      "surahNumber": 101,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "يَوْمَ يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِ",
+        "en_sahih": "English translation of [101:4] in Sahih International style.",
+        "en_yusufali": "English translation of [101:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 101 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [101:4] en español.",
+        "fr_hamidullah": "Traduction de [101:4] en français.",
+        "bn_hoque": "সূরা 101 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "101:5",
+      "surahNumber": 101,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنْفُوشِ",
+        "en_sahih": "English translation of [101:5] in Sahih International style.",
+        "en_yusufali": "English translation of [101:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 101 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [101:5] en español.",
+        "fr_hamidullah": "Traduction de [101:5] en français.",
+        "bn_hoque": "সূরা 101 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "101:6",
+      "surahNumber": 101,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "فَأَمَّا مَنْ ثَقُلَتْ مَوَازِينُهُ",
+        "en_sahih": "English translation of [101:6] in Sahih International style.",
+        "en_yusufali": "English translation of [101:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 101 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [101:6] en español.",
+        "fr_hamidullah": "Traduction de [101:6] en français.",
+        "bn_hoque": "সূরা 101 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "101:7",
+      "surahNumber": 101,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "فَهُوَ فِي عِيشَةٍ رَاضِيَةٍ",
+        "en_sahih": "English translation of [101:7] in Sahih International style.",
+        "en_yusufali": "English translation of [101:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 101 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [101:7] en español.",
+        "fr_hamidullah": "Traduction de [101:7] en français.",
+        "bn_hoque": "সূরা 101 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "101:8",
+      "surahNumber": 101,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "وَأَمَّا مَنْ خَفَّتْ مَوَازِينُهُ",
+        "en_sahih": "English translation of [101:8] in Sahih International style.",
+        "en_yusufali": "English translation of [101:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 101 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [101:8] en español.",
+        "fr_hamidullah": "Traduction de [101:8] en français.",
+        "bn_hoque": "সূরা 101 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "101:9",
+      "surahNumber": 101,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "فَأُمُّهُ هَاوِيَةٌ",
+        "en_sahih": "English translation of [101:9] in Sahih International style.",
+        "en_yusufali": "English translation of [101:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 101 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [101:9] en español.",
+        "fr_hamidullah": "Traduction de [101:9] en français.",
+        "bn_hoque": "সূরা 101 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "101:10",
+      "surahNumber": 101,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "وَمَا أَدْرَاكَ مَا هِيَهْ",
+        "en_sahih": "English translation of [101:10] in Sahih International style.",
+        "en_yusufali": "English translation of [101:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 101 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [101:10] en español.",
+        "fr_hamidullah": "Traduction de [101:10] en français.",
+        "bn_hoque": "সূরা 101 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "101:11",
+      "surahNumber": 101,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "نَارٌ حَامِيَةٌ",
+        "en_sahih": "English translation of [101:11] in Sahih International style.",
+        "en_yusufali": "English translation of [101:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 101 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [101:11] en español.",
+        "fr_hamidullah": "Traduction de [101:11] en français.",
+        "bn_hoque": "সূরা 101 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

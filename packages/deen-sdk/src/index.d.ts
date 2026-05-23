@@ -68,5 +68,6 @@ export function createRawDataClient(options?: {
   loadHadith(): Promise<Record<string, unknown>>;
   loadAudio(): Promise<Record<string, unknown>>;
   loadFonts(): Promise<Record<string, unknown>>;
+  loadSurah(number: number): Promise<Record<string, unknown>>;
   rawUrl(filePath: string): string;
 };

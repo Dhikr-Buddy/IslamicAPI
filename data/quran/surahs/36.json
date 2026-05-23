@@ -1,0 +1,1177 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.985Z",
+  "surahNumber": 36,
+  "ayahCount": 83,
+  "ayahs": [
+    {
+      "id": "36:1",
+      "surahNumber": 36,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ يس",
+        "en_sahih": "English translation of [36:1] in Sahih International style.",
+        "en_yusufali": "English translation of [36:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:1] en español.",
+        "fr_hamidullah": "Traduction de [36:1] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:2",
+      "surahNumber": 36,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "وَالْقُرْآنِ الْحَكِيمِ",
+        "en_sahih": "English translation of [36:2] in Sahih International style.",
+        "en_yusufali": "English translation of [36:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:2] en español.",
+        "fr_hamidullah": "Traduction de [36:2] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:3",
+      "surahNumber": 36,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "إِنَّكَ لَمِنَ الْمُرْسَلِينَ",
+        "en_sahih": "English translation of [36:3] in Sahih International style.",
+        "en_yusufali": "English translation of [36:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:3] en español.",
+        "fr_hamidullah": "Traduction de [36:3] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:4",
+      "surahNumber": 36,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "عَلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+        "en_sahih": "English translation of [36:4] in Sahih International style.",
+        "en_yusufali": "English translation of [36:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:4] en español.",
+        "fr_hamidullah": "Traduction de [36:4] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:5",
+      "surahNumber": 36,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "تَنْزِيلَ الْعَزِيزِ الرَّحِيمِ",
+        "en_sahih": "English translation of [36:5] in Sahih International style.",
+        "en_yusufali": "English translation of [36:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:5] en español.",
+        "fr_hamidullah": "Traduction de [36:5] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:6",
+      "surahNumber": 36,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "لِتُنْذِرَ قَوْمًا مَا أُنْذِرَ آبَاؤُهُمْ فَهُمْ غَافِلُونَ",
+        "en_sahih": "English translation of [36:6] in Sahih International style.",
+        "en_yusufali": "English translation of [36:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:6] en español.",
+        "fr_hamidullah": "Traduction de [36:6] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:7",
+      "surahNumber": 36,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "لَقَدْ حَقَّ الْقَوْلُ عَلَىٰ أَكْثَرِهِمْ فَهُمْ لَا يُؤْمِنُونَ",
+        "en_sahih": "English translation of [36:7] in Sahih International style.",
+        "en_yusufali": "English translation of [36:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:7] en español.",
+        "fr_hamidullah": "Traduction de [36:7] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:8",
+      "surahNumber": 36,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "إِنَّا جَعَلْنَا فِي أَعْنَاقِهِمْ أَغْلَالًا فَهِيَ إِلَى الْأَذْقَانِ فَهُمْ مُقْمَحُونَ",
+        "en_sahih": "English translation of [36:8] in Sahih International style.",
+        "en_yusufali": "English translation of [36:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:8] en español.",
+        "fr_hamidullah": "Traduction de [36:8] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:9",
+      "surahNumber": 36,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "وَجَعَلْنَا مِنْ بَيْنِ أَيْدِيهِمْ سَدًّا وَمِنْ خَلْفِهِمْ سَدًّا فَأَغْشَيْنَاهُمْ فَهُمْ لَا يُبْصِرُونَ",
+        "en_sahih": "English translation of [36:9] in Sahih International style.",
+        "en_yusufali": "English translation of [36:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:9] en español.",
+        "fr_hamidullah": "Traduction de [36:9] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:10",
+      "surahNumber": 36,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "وَسَوَاءٌ عَلَيْهِمْ أَأَنْذَرْتَهُمْ أَمْ لَمْ تُنْذِرْهُمْ لَا يُؤْمِنُونَ",
+        "en_sahih": "English translation of [36:10] in Sahih International style.",
+        "en_yusufali": "English translation of [36:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:10] en español.",
+        "fr_hamidullah": "Traduction de [36:10] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:11",
+      "surahNumber": 36,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "إِنَّمَا تُنْذِرُ مَنِ اتَّبَعَ الذِّكْرَ وَخَشِيَ الرَّحْمَٰنَ بِالْغَيْبِ ۖ فَبَشِّرْهُ بِمَغْفِرَةٍ وَأَجْرٍ كَرِيمٍ",
+        "en_sahih": "English translation of [36:11] in Sahih International style.",
+        "en_yusufali": "English translation of [36:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:11] en español.",
+        "fr_hamidullah": "Traduction de [36:11] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:12",
+      "surahNumber": 36,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "إِنَّا نَحْنُ نُحْيِي الْمَوْتَىٰ وَنَكْتُبُ مَا قَدَّمُوا وَآثَارَهُمْ ۚ وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ فِي إِمَامٍ مُبِينٍ",
+        "en_sahih": "English translation of [36:12] in Sahih International style.",
+        "en_yusufali": "English translation of [36:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:12] en español.",
+        "fr_hamidullah": "Traduction de [36:12] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:13",
+      "surahNumber": 36,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "وَاضْرِبْ لَهُمْ مَثَلًا أَصْحَابَ الْقَرْيَةِ إِذْ جَاءَهَا الْمُرْسَلُونَ",
+        "en_sahih": "English translation of [36:13] in Sahih International style.",
+        "en_yusufali": "English translation of [36:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:13] en español.",
+        "fr_hamidullah": "Traduction de [36:13] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:14",
+      "surahNumber": 36,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "إِذْ أَرْسَلْنَا إِلَيْهِمُ اثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍ فَقَالُوا إِنَّا إِلَيْكُمْ مُرْسَلُونَ",
+        "en_sahih": "English translation of [36:14] in Sahih International style.",
+        "en_yusufali": "English translation of [36:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:14] en español.",
+        "fr_hamidullah": "Traduction de [36:14] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:15",
+      "surahNumber": 36,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "قَالُوا مَا أَنْتُمْ إِلَّا بَشَرٌ مِثْلُنَا وَمَا أَنْزَلَ الرَّحْمَٰنُ مِنْ شَيْءٍ إِنْ أَنْتُمْ إِلَّا تَكْذِبُونَ",
+        "en_sahih": "English translation of [36:15] in Sahih International style.",
+        "en_yusufali": "English translation of [36:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:15] en español.",
+        "fr_hamidullah": "Traduction de [36:15] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:16",
+      "surahNumber": 36,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "قَالُوا رَبُّنَا يَعْلَمُ إِنَّا إِلَيْكُمْ لَمُرْسَلُونَ",
+        "en_sahih": "English translation of [36:16] in Sahih International style.",
+        "en_yusufali": "English translation of [36:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:16] en español.",
+        "fr_hamidullah": "Traduction de [36:16] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:17",
+      "surahNumber": 36,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "وَمَا عَلَيْنَا إِلَّا الْبَلَاغُ الْمُبِينُ",
+        "en_sahih": "English translation of [36:17] in Sahih International style.",
+        "en_yusufali": "English translation of [36:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:17] en español.",
+        "fr_hamidullah": "Traduction de [36:17] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:18",
+      "surahNumber": 36,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "قَالُوا إِنَّا تَطَيَّرْنَا بِكُمْ ۖ لَئِنْ لَمْ تَنْتَهُوا لَنَرْجُمَنَّكُمْ وَلَيَمَسَّنَّكُمْ مِنَّا عَذَابٌ أَلِيمٌ",
+        "en_sahih": "English translation of [36:18] in Sahih International style.",
+        "en_yusufali": "English translation of [36:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:18] en español.",
+        "fr_hamidullah": "Traduction de [36:18] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:19",
+      "surahNumber": 36,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "قَالُوا طَائِرُكُمْ مَعَكُمْ ۚ أَئِنْ ذُكِّرْتُمْ ۚ بَلْ أَنْتُمْ قَوْمٌ مُسْرِفُونَ",
+        "en_sahih": "English translation of [36:19] in Sahih International style.",
+        "en_yusufali": "English translation of [36:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:19] en español.",
+        "fr_hamidullah": "Traduction de [36:19] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:20",
+      "surahNumber": 36,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "وَجَاءَ مِنْ أَقْصَى الْمَدِينَةِ رَجُلٌ يَسْعَىٰ قَالَ يَا قَوْمِ اتَّبِعُوا الْمُرْسَلِينَ",
+        "en_sahih": "English translation of [36:20] in Sahih International style.",
+        "en_yusufali": "English translation of [36:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:20] en español.",
+        "fr_hamidullah": "Traduction de [36:20] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:21",
+      "surahNumber": 36,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "اتَّبِعُوا مَنْ لَا يَسْأَلُكُمْ أَجْرًا وَهُمْ مُهْتَدُونَ",
+        "en_sahih": "English translation of [36:21] in Sahih International style.",
+        "en_yusufali": "English translation of [36:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:21] en español.",
+        "fr_hamidullah": "Traduction de [36:21] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:22",
+      "surahNumber": 36,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "وَمَا لِيَ لَا أَعْبُدُ الَّذِي فَطَرَنِي وَإِلَيْهِ تُرْجَعُونَ",
+        "en_sahih": "English translation of [36:22] in Sahih International style.",
+        "en_yusufali": "English translation of [36:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:22] en español.",
+        "fr_hamidullah": "Traduction de [36:22] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:23",
+      "surahNumber": 36,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "أَأَتَّخِذُ مِنْ دُونِهِ آلِهَةً إِنْ يُرِدْنِ الرَّحْمَٰنُ بِضُرٍّ لَا تُغْنِ عَنِّي شَفَاعَتُهُمْ شَيْئًا وَلَا يُنْقِذُونِ",
+        "en_sahih": "English translation of [36:23] in Sahih International style.",
+        "en_yusufali": "English translation of [36:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:23] en español.",
+        "fr_hamidullah": "Traduction de [36:23] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:24",
+      "surahNumber": 36,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "إِنِّي إِذًا لَفِي ضَلَالٍ مُبِينٍ",
+        "en_sahih": "English translation of [36:24] in Sahih International style.",
+        "en_yusufali": "English translation of [36:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:24] en español.",
+        "fr_hamidullah": "Traduction de [36:24] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:25",
+      "surahNumber": 36,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "إِنِّي آمَنْتُ بِرَبِّكُمْ فَاسْمَعُونِ",
+        "en_sahih": "English translation of [36:25] in Sahih International style.",
+        "en_yusufali": "English translation of [36:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:25] en español.",
+        "fr_hamidullah": "Traduction de [36:25] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:26",
+      "surahNumber": 36,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "قِيلَ ادْخُلِ الْجَنَّةَ ۖ قَالَ يَا لَيْتَ قَوْمِي يَعْلَمُونَ",
+        "en_sahih": "English translation of [36:26] in Sahih International style.",
+        "en_yusufali": "English translation of [36:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:26] en español.",
+        "fr_hamidullah": "Traduction de [36:26] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:27",
+      "surahNumber": 36,
+      "ayahNumber": 27,
+      "text": {
+        "simple": "بِمَا غَفَرَ لِي رَبِّي وَجَعَلَنِي مِنَ الْمُكْرَمِينَ",
+        "en_sahih": "English translation of [36:27] in Sahih International style.",
+        "en_yusufali": "English translation of [36:27] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:27] en español.",
+        "fr_hamidullah": "Traduction de [36:27] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:28",
+      "surahNumber": 36,
+      "ayahNumber": 28,
+      "text": {
+        "simple": "۞ وَمَا أَنْزَلْنَا عَلَىٰ قَوْمِهِ مِنْ بَعْدِهِ مِنْ جُنْدٍ مِنَ السَّمَاءِ وَمَا كُنَّا مُنْزِلِينَ",
+        "en_sahih": "English translation of [36:28] in Sahih International style.",
+        "en_yusufali": "English translation of [36:28] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:28] en español.",
+        "fr_hamidullah": "Traduction de [36:28] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:29",
+      "surahNumber": 36,
+      "ayahNumber": 29,
+      "text": {
+        "simple": "إِنْ كَانَتْ إِلَّا صَيْحَةً وَاحِدَةً فَإِذَا هُمْ خَامِدُونَ",
+        "en_sahih": "English translation of [36:29] in Sahih International style.",
+        "en_yusufali": "English translation of [36:29] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:29] en español.",
+        "fr_hamidullah": "Traduction de [36:29] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:30",
+      "surahNumber": 36,
+      "ayahNumber": 30,
+      "text": {
+        "simple": "يَا حَسْرَةً عَلَى الْعِبَادِ ۚ مَا يَأْتِيهِمْ مِنْ رَسُولٍ إِلَّا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+        "en_sahih": "English translation of [36:30] in Sahih International style.",
+        "en_yusufali": "English translation of [36:30] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:30] en español.",
+        "fr_hamidullah": "Traduction de [36:30] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:31",
+      "surahNumber": 36,
+      "ayahNumber": 31,
+      "text": {
+        "simple": "أَلَمْ يَرَوْا كَمْ أَهْلَكْنَا قَبْلَهُمْ مِنَ الْقُرُونِ أَنَّهُمْ إِلَيْهِمْ لَا يَرْجِعُونَ",
+        "en_sahih": "English translation of [36:31] in Sahih International style.",
+        "en_yusufali": "English translation of [36:31] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:31] en español.",
+        "fr_hamidullah": "Traduction de [36:31] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:32",
+      "surahNumber": 36,
+      "ayahNumber": 32,
+      "text": {
+        "simple": "وَإِنْ كُلٌّ لَمَّا جَمِيعٌ لَدَيْنَا مُحْضَرُونَ",
+        "en_sahih": "English translation of [36:32] in Sahih International style.",
+        "en_yusufali": "English translation of [36:32] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:32] en español.",
+        "fr_hamidullah": "Traduction de [36:32] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:33",
+      "surahNumber": 36,
+      "ayahNumber": 33,
+      "text": {
+        "simple": "وَآيَةٌ لَهُمُ الْأَرْضُ الْمَيْتَةُ أَحْيَيْنَاهَا وَأَخْرَجْنَا مِنْهَا حَبًّا فَمِنْهُ يَأْكُلُونَ",
+        "en_sahih": "English translation of [36:33] in Sahih International style.",
+        "en_yusufali": "English translation of [36:33] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:33] en español.",
+        "fr_hamidullah": "Traduction de [36:33] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:34",
+      "surahNumber": 36,
+      "ayahNumber": 34,
+      "text": {
+        "simple": "وَجَعَلْنَا فِيهَا جَنَّاتٍ مِنْ نَخِيلٍ وَأَعْنَابٍ وَفَجَّرْنَا فِيهَا مِنَ الْعُيُونِ",
+        "en_sahih": "English translation of [36:34] in Sahih International style.",
+        "en_yusufali": "English translation of [36:34] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:34] en español.",
+        "fr_hamidullah": "Traduction de [36:34] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:35",
+      "surahNumber": 36,
+      "ayahNumber": 35,
+      "text": {
+        "simple": "لِيَأْكُلُوا مِنْ ثَمَرِهِ وَمَا عَمِلَتْهُ أَيْدِيهِمْ ۖ أَفَلَا يَشْكُرُونَ",
+        "en_sahih": "English translation of [36:35] in Sahih International style.",
+        "en_yusufali": "English translation of [36:35] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:35] en español.",
+        "fr_hamidullah": "Traduction de [36:35] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:36",
+      "surahNumber": 36,
+      "ayahNumber": 36,
+      "text": {
+        "simple": "سُبْحَانَ الَّذِي خَلَقَ الْأَزْوَاجَ كُلَّهَا مِمَّا تُنْبِتُ الْأَرْضُ وَمِنْ أَنْفُسِهِمْ وَمِمَّا لَا يَعْلَمُونَ",
+        "en_sahih": "English translation of [36:36] in Sahih International style.",
+        "en_yusufali": "English translation of [36:36] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:36] en español.",
+        "fr_hamidullah": "Traduction de [36:36] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:37",
+      "surahNumber": 36,
+      "ayahNumber": 37,
+      "text": {
+        "simple": "وَآيَةٌ لَهُمُ اللَّيْلُ نَسْلَخُ مِنْهُ النَّهَارَ فَإِذَا هُمْ مُظْلِمُونَ",
+        "en_sahih": "English translation of [36:37] in Sahih International style.",
+        "en_yusufali": "English translation of [36:37] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:37] en español.",
+        "fr_hamidullah": "Traduction de [36:37] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:38",
+      "surahNumber": 36,
+      "ayahNumber": 38,
+      "text": {
+        "simple": "وَالشَّمْسُ تَجْرِي لِمُسْتَقَرٍّ لَهَا ۚ ذَٰلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ",
+        "en_sahih": "English translation of [36:38] in Sahih International style.",
+        "en_yusufali": "English translation of [36:38] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 38 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:38] en español.",
+        "fr_hamidullah": "Traduction de [36:38] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:39",
+      "surahNumber": 36,
+      "ayahNumber": 39,
+      "text": {
+        "simple": "وَالْقَمَرَ قَدَّرْنَاهُ مَنَازِلَ حَتَّىٰ عَادَ كَالْعُرْجُونِ الْقَدِيمِ",
+        "en_sahih": "English translation of [36:39] in Sahih International style.",
+        "en_yusufali": "English translation of [36:39] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 39 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:39] en español.",
+        "fr_hamidullah": "Traduction de [36:39] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:40",
+      "surahNumber": 36,
+      "ayahNumber": 40,
+      "text": {
+        "simple": "لَا الشَّمْسُ يَنْبَغِي لَهَا أَنْ تُدْرِكَ الْقَمَرَ وَلَا اللَّيْلُ سَابِقُ النَّهَارِ ۚ وَكُلٌّ فِي فَلَكٍ يَسْبَحُونَ",
+        "en_sahih": "English translation of [36:40] in Sahih International style.",
+        "en_yusufali": "English translation of [36:40] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 40 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:40] en español.",
+        "fr_hamidullah": "Traduction de [36:40] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:41",
+      "surahNumber": 36,
+      "ayahNumber": 41,
+      "text": {
+        "simple": "وَآيَةٌ لَهُمْ أَنَّا حَمَلْنَا ذُرِّيَّتَهُمْ فِي الْفُلْكِ الْمَشْحُونِ",
+        "en_sahih": "English translation of [36:41] in Sahih International style.",
+        "en_yusufali": "English translation of [36:41] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 41 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:41] en español.",
+        "fr_hamidullah": "Traduction de [36:41] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:42",
+      "surahNumber": 36,
+      "ayahNumber": 42,
+      "text": {
+        "simple": "وَخَلَقْنَا لَهُمْ مِنْ مِثْلِهِ مَا يَرْكَبُونَ",
+        "en_sahih": "English translation of [36:42] in Sahih International style.",
+        "en_yusufali": "English translation of [36:42] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 42 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:42] en español.",
+        "fr_hamidullah": "Traduction de [36:42] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:43",
+      "surahNumber": 36,
+      "ayahNumber": 43,
+      "text": {
+        "simple": "وَإِنْ نَشَأْ نُغْرِقْهُمْ فَلَا صَرِيخَ لَهُمْ وَلَا هُمْ يُنْقَذُونَ",
+        "en_sahih": "English translation of [36:43] in Sahih International style.",
+        "en_yusufali": "English translation of [36:43] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 43 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:43] en español.",
+        "fr_hamidullah": "Traduction de [36:43] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:44",
+      "surahNumber": 36,
+      "ayahNumber": 44,
+      "text": {
+        "simple": "إِلَّا رَحْمَةً مِنَّا وَمَتَاعًا إِلَىٰ حِينٍ",
+        "en_sahih": "English translation of [36:44] in Sahih International style.",
+        "en_yusufali": "English translation of [36:44] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 44 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:44] en español.",
+        "fr_hamidullah": "Traduction de [36:44] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:45",
+      "surahNumber": 36,
+      "ayahNumber": 45,
+      "text": {
+        "simple": "وَإِذَا قِيلَ لَهُمُ اتَّقُوا مَا بَيْنَ أَيْدِيكُمْ وَمَا خَلْفَكُمْ لَعَلَّكُمْ تُرْحَمُونَ",
+        "en_sahih": "English translation of [36:45] in Sahih International style.",
+        "en_yusufali": "English translation of [36:45] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 45 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:45] en español.",
+        "fr_hamidullah": "Traduction de [36:45] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:46",
+      "surahNumber": 36,
+      "ayahNumber": 46,
+      "text": {
+        "simple": "وَمَا تَأْتِيهِمْ مِنْ آيَةٍ مِنْ آيَاتِ رَبِّهِمْ إِلَّا كَانُوا عَنْهَا مُعْرِضِينَ",
+        "en_sahih": "English translation of [36:46] in Sahih International style.",
+        "en_yusufali": "English translation of [36:46] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 46 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:46] en español.",
+        "fr_hamidullah": "Traduction de [36:46] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:47",
+      "surahNumber": 36,
+      "ayahNumber": 47,
+      "text": {
+        "simple": "وَإِذَا قِيلَ لَهُمْ أَنْفِقُوا مِمَّا رَزَقَكُمُ اللَّهُ قَالَ الَّذِينَ كَفَرُوا لِلَّذِينَ آمَنُوا أَنُطْعِمُ مَنْ لَوْ يَشَاءُ اللَّهُ أَطْعَمَهُ إِنْ أَنْتُمْ إِلَّا فِي ضَلَالٍ مُبِينٍ",
+        "en_sahih": "English translation of [36:47] in Sahih International style.",
+        "en_yusufali": "English translation of [36:47] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 47 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:47] en español.",
+        "fr_hamidullah": "Traduction de [36:47] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:48",
+      "surahNumber": 36,
+      "ayahNumber": 48,
+      "text": {
+        "simple": "وَيَقُولُونَ مَتَىٰ هَٰذَا الْوَعْدُ إِنْ كُنْتُمْ صَادِقِينَ",
+        "en_sahih": "English translation of [36:48] in Sahih International style.",
+        "en_yusufali": "English translation of [36:48] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 48 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:48] en español.",
+        "fr_hamidullah": "Traduction de [36:48] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:49",
+      "surahNumber": 36,
+      "ayahNumber": 49,
+      "text": {
+        "simple": "مَا يَنْظُرُونَ إِلَّا صَيْحَةً وَاحِدَةً تَأْخُذُهُمْ وَهُمْ يَخِصِّمُونَ",
+        "en_sahih": "English translation of [36:49] in Sahih International style.",
+        "en_yusufali": "English translation of [36:49] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 49 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:49] en español.",
+        "fr_hamidullah": "Traduction de [36:49] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:50",
+      "surahNumber": 36,
+      "ayahNumber": 50,
+      "text": {
+        "simple": "فَلَا يَسْتَطِيعُونَ تَوْصِيَةً وَلَا إِلَىٰ أَهْلِهِمْ يَرْجِعُونَ",
+        "en_sahih": "English translation of [36:50] in Sahih International style.",
+        "en_yusufali": "English translation of [36:50] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 50 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:50] en español.",
+        "fr_hamidullah": "Traduction de [36:50] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:51",
+      "surahNumber": 36,
+      "ayahNumber": 51,
+      "text": {
+        "simple": "وَنُفِخَ فِي الصُّورِ فَإِذَا هُمْ مِنَ الْأَجْدَاثِ إِلَىٰ رَبِّهِمْ يَنْسِلُونَ",
+        "en_sahih": "English translation of [36:51] in Sahih International style.",
+        "en_yusufali": "English translation of [36:51] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 51 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:51] en español.",
+        "fr_hamidullah": "Traduction de [36:51] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:52",
+      "surahNumber": 36,
+      "ayahNumber": 52,
+      "text": {
+        "simple": "قَالُوا يَا وَيْلَنَا مَنْ بَعَثَنَا مِنْ مَرْقَدِنَا ۜ ۗ هَٰذَا مَا وَعَدَ الرَّحْمَٰنُ وَصَدَقَ الْمُرْسَلُونَ",
+        "en_sahih": "English translation of [36:52] in Sahih International style.",
+        "en_yusufali": "English translation of [36:52] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 52 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:52] en español.",
+        "fr_hamidullah": "Traduction de [36:52] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:53",
+      "surahNumber": 36,
+      "ayahNumber": 53,
+      "text": {
+        "simple": "إِنْ كَانَتْ إِلَّا صَيْحَةً وَاحِدَةً فَإِذَا هُمْ جَمِيعٌ لَدَيْنَا مُحْضَرُونَ",
+        "en_sahih": "English translation of [36:53] in Sahih International style.",
+        "en_yusufali": "English translation of [36:53] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 53 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:53] en español.",
+        "fr_hamidullah": "Traduction de [36:53] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 53 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:54",
+      "surahNumber": 36,
+      "ayahNumber": 54,
+      "text": {
+        "simple": "فَالْيَوْمَ لَا تُظْلَمُ نَفْسٌ شَيْئًا وَلَا تُجْزَوْنَ إِلَّا مَا كُنْتُمْ تَعْمَلُونَ",
+        "en_sahih": "English translation of [36:54] in Sahih International style.",
+        "en_yusufali": "English translation of [36:54] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 54 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:54] en español.",
+        "fr_hamidullah": "Traduction de [36:54] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 54 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:55",
+      "surahNumber": 36,
+      "ayahNumber": 55,
+      "text": {
+        "simple": "إِنَّ أَصْحَابَ الْجَنَّةِ الْيَوْمَ فِي شُغُلٍ فَاكِهُونَ",
+        "en_sahih": "English translation of [36:55] in Sahih International style.",
+        "en_yusufali": "English translation of [36:55] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 55 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:55] en español.",
+        "fr_hamidullah": "Traduction de [36:55] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 55 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:56",
+      "surahNumber": 36,
+      "ayahNumber": 56,
+      "text": {
+        "simple": "هُمْ وَأَزْوَاجُهُمْ فِي ظِلَالٍ عَلَى الْأَرَائِكِ مُتَّكِئُونَ",
+        "en_sahih": "English translation of [36:56] in Sahih International style.",
+        "en_yusufali": "English translation of [36:56] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 56 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:56] en español.",
+        "fr_hamidullah": "Traduction de [36:56] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 56 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:57",
+      "surahNumber": 36,
+      "ayahNumber": 57,
+      "text": {
+        "simple": "لَهُمْ فِيهَا فَاكِهَةٌ وَلَهُمْ مَا يَدَّعُونَ",
+        "en_sahih": "English translation of [36:57] in Sahih International style.",
+        "en_yusufali": "English translation of [36:57] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 57 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:57] en español.",
+        "fr_hamidullah": "Traduction de [36:57] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 57 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:58",
+      "surahNumber": 36,
+      "ayahNumber": 58,
+      "text": {
+        "simple": "سَلَامٌ قَوْلًا مِنْ رَبٍّ رَحِيمٍ",
+        "en_sahih": "English translation of [36:58] in Sahih International style.",
+        "en_yusufali": "English translation of [36:58] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 58 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:58] en español.",
+        "fr_hamidullah": "Traduction de [36:58] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 58 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:59",
+      "surahNumber": 36,
+      "ayahNumber": 59,
+      "text": {
+        "simple": "وَامْتَازُوا الْيَوْمَ أَيُّهَا الْمُجْرِمُونَ",
+        "en_sahih": "English translation of [36:59] in Sahih International style.",
+        "en_yusufali": "English translation of [36:59] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 59 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:59] en español.",
+        "fr_hamidullah": "Traduction de [36:59] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 59 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:60",
+      "surahNumber": 36,
+      "ayahNumber": 60,
+      "text": {
+        "simple": "۞ أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَنِي آدَمَ أَنْ لَا تَعْبُدُوا الشَّيْطَانَ ۖ إِنَّهُ لَكُمْ عَدُوٌّ مُبِينٌ",
+        "en_sahih": "English translation of [36:60] in Sahih International style.",
+        "en_yusufali": "English translation of [36:60] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 60 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:60] en español.",
+        "fr_hamidullah": "Traduction de [36:60] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 60 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:61",
+      "surahNumber": 36,
+      "ayahNumber": 61,
+      "text": {
+        "simple": "وَأَنِ اعْبُدُونِي ۚ هَٰذَا صِرَاطٌ مُسْتَقِيمٌ",
+        "en_sahih": "English translation of [36:61] in Sahih International style.",
+        "en_yusufali": "English translation of [36:61] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 61 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:61] en español.",
+        "fr_hamidullah": "Traduction de [36:61] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 61 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:62",
+      "surahNumber": 36,
+      "ayahNumber": 62,
+      "text": {
+        "simple": "وَلَقَدْ أَضَلَّ مِنْكُمْ جِبِلًّا كَثِيرًا ۖ أَفَلَمْ تَكُونُوا تَعْقِلُونَ",
+        "en_sahih": "English translation of [36:62] in Sahih International style.",
+        "en_yusufali": "English translation of [36:62] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 62 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:62] en español.",
+        "fr_hamidullah": "Traduction de [36:62] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 62 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:63",
+      "surahNumber": 36,
+      "ayahNumber": 63,
+      "text": {
+        "simple": "هَٰذِهِ جَهَنَّمُ الَّتِي كُنْتُمْ تُوعَدُونَ",
+        "en_sahih": "English translation of [36:63] in Sahih International style.",
+        "en_yusufali": "English translation of [36:63] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 63 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:63] en español.",
+        "fr_hamidullah": "Traduction de [36:63] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 63 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:64",
+      "surahNumber": 36,
+      "ayahNumber": 64,
+      "text": {
+        "simple": "اصْلَوْهَا الْيَوْمَ بِمَا كُنْتُمْ تَكْفُرُونَ",
+        "en_sahih": "English translation of [36:64] in Sahih International style.",
+        "en_yusufali": "English translation of [36:64] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 64 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:64] en español.",
+        "fr_hamidullah": "Traduction de [36:64] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 64 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:65",
+      "surahNumber": 36,
+      "ayahNumber": 65,
+      "text": {
+        "simple": "الْيَوْمَ نَخْتِمُ عَلَىٰ أَفْوَاهِهِمْ وَتُكَلِّمُنَا أَيْدِيهِمْ وَتَشْهَدُ أَرْجُلُهُمْ بِمَا كَانُوا يَكْسِبُونَ",
+        "en_sahih": "English translation of [36:65] in Sahih International style.",
+        "en_yusufali": "English translation of [36:65] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 65 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:65] en español.",
+        "fr_hamidullah": "Traduction de [36:65] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 65 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:66",
+      "surahNumber": 36,
+      "ayahNumber": 66,
+      "text": {
+        "simple": "وَلَوْ نَشَاءُ لَطَمَسْنَا عَلَىٰ أَعْيُنِهِمْ فَاسْتَبَقُوا الصِّرَاطَ فَأَنَّىٰ يُبْصِرُونَ",
+        "en_sahih": "English translation of [36:66] in Sahih International style.",
+        "en_yusufali": "English translation of [36:66] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 66 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:66] en español.",
+        "fr_hamidullah": "Traduction de [36:66] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 66 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:67",
+      "surahNumber": 36,
+      "ayahNumber": 67,
+      "text": {
+        "simple": "وَلَوْ نَشَاءُ لَمَسَخْنَاهُمْ عَلَىٰ مَكَانَتِهِمْ فَمَا اسْتَطَاعُوا مُضِيًّا وَلَا يَرْجِعُونَ",
+        "en_sahih": "English translation of [36:67] in Sahih International style.",
+        "en_yusufali": "English translation of [36:67] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 67 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:67] en español.",
+        "fr_hamidullah": "Traduction de [36:67] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 67 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:68",
+      "surahNumber": 36,
+      "ayahNumber": 68,
+      "text": {
+        "simple": "وَمَنْ نُعَمِّرْهُ نُنَكِّسْهُ فِي الْخَلْقِ ۖ أَفَلَا يَعْقِلُونَ",
+        "en_sahih": "English translation of [36:68] in Sahih International style.",
+        "en_yusufali": "English translation of [36:68] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 68 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:68] en español.",
+        "fr_hamidullah": "Traduction de [36:68] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 68 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:69",
+      "surahNumber": 36,
+      "ayahNumber": 69,
+      "text": {
+        "simple": "وَمَا عَلَّمْنَاهُ الشِّعْرَ وَمَا يَنْبَغِي لَهُ ۚ إِنْ هُوَ إِلَّا ذِكْرٌ وَقُرْآنٌ مُبِينٌ",
+        "en_sahih": "English translation of [36:69] in Sahih International style.",
+        "en_yusufali": "English translation of [36:69] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 69 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:69] en español.",
+        "fr_hamidullah": "Traduction de [36:69] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 69 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:70",
+      "surahNumber": 36,
+      "ayahNumber": 70,
+      "text": {
+        "simple": "لِيُنْذِرَ مَنْ كَانَ حَيًّا وَيَحِقَّ الْقَوْلُ عَلَى الْكَافِرِينَ",
+        "en_sahih": "English translation of [36:70] in Sahih International style.",
+        "en_yusufali": "English translation of [36:70] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 70 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:70] en español.",
+        "fr_hamidullah": "Traduction de [36:70] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 70 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:71",
+      "surahNumber": 36,
+      "ayahNumber": 71,
+      "text": {
+        "simple": "أَوَلَمْ يَرَوْا أَنَّا خَلَقْنَا لَهُمْ مِمَّا عَمِلَتْ أَيْدِينَا أَنْعَامًا فَهُمْ لَهَا مَالِكُونَ",
+        "en_sahih": "English translation of [36:71] in Sahih International style.",
+        "en_yusufali": "English translation of [36:71] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 71 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:71] en español.",
+        "fr_hamidullah": "Traduction de [36:71] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 71 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:72",
+      "surahNumber": 36,
+      "ayahNumber": 72,
+      "text": {
+        "simple": "وَذَلَّلْنَاهَا لَهُمْ فَمِنْهَا رَكُوبُهُمْ وَمِنْهَا يَأْكُلُونَ",
+        "en_sahih": "English translation of [36:72] in Sahih International style.",
+        "en_yusufali": "English translation of [36:72] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 72 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:72] en español.",
+        "fr_hamidullah": "Traduction de [36:72] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 72 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:73",
+      "surahNumber": 36,
+      "ayahNumber": 73,
+      "text": {
+        "simple": "وَلَهُمْ فِيهَا مَنَافِعُ وَمَشَارِبُ ۖ أَفَلَا يَشْكُرُونَ",
+        "en_sahih": "English translation of [36:73] in Sahih International style.",
+        "en_yusufali": "English translation of [36:73] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 73 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:73] en español.",
+        "fr_hamidullah": "Traduction de [36:73] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 73 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:74",
+      "surahNumber": 36,
+      "ayahNumber": 74,
+      "text": {
+        "simple": "وَاتَّخَذُوا مِنْ دُونِ اللَّهِ آلِهَةً لَعَلَّهُمْ يُنْصَرُونَ",
+        "en_sahih": "English translation of [36:74] in Sahih International style.",
+        "en_yusufali": "English translation of [36:74] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 74 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:74] en español.",
+        "fr_hamidullah": "Traduction de [36:74] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 74 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:75",
+      "surahNumber": 36,
+      "ayahNumber": 75,
+      "text": {
+        "simple": "لَا يَسْتَطِيعُونَ نَصْرَهُمْ وَهُمْ لَهُمْ جُنْدٌ مُحْضَرُونَ",
+        "en_sahih": "English translation of [36:75] in Sahih International style.",
+        "en_yusufali": "English translation of [36:75] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 75 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:75] en español.",
+        "fr_hamidullah": "Traduction de [36:75] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 75 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:76",
+      "surahNumber": 36,
+      "ayahNumber": 76,
+      "text": {
+        "simple": "فَلَا يَحْزُنْكَ قَوْلُهُمْ ۘ إِنَّا نَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ",
+        "en_sahih": "English translation of [36:76] in Sahih International style.",
+        "en_yusufali": "English translation of [36:76] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 76 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:76] en español.",
+        "fr_hamidullah": "Traduction de [36:76] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 76 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:77",
+      "surahNumber": 36,
+      "ayahNumber": 77,
+      "text": {
+        "simple": "أَوَلَمْ يَرَ الْإِنْسَانُ أَنَّا خَلَقْنَاهُ مِنْ نُطْفَةٍ فَإِذَا هُوَ خَصِيمٌ مُبِينٌ",
+        "en_sahih": "English translation of [36:77] in Sahih International style.",
+        "en_yusufali": "English translation of [36:77] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 77 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:77] en español.",
+        "fr_hamidullah": "Traduction de [36:77] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 77 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:78",
+      "surahNumber": 36,
+      "ayahNumber": 78,
+      "text": {
+        "simple": "وَضَرَبَ لَنَا مَثَلًا وَنَسِيَ خَلْقَهُ ۖ قَالَ مَنْ يُحْيِي الْعِظَامَ وَهِيَ رَمِيمٌ",
+        "en_sahih": "English translation of [36:78] in Sahih International style.",
+        "en_yusufali": "English translation of [36:78] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 78 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:78] en español.",
+        "fr_hamidullah": "Traduction de [36:78] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 78 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:79",
+      "surahNumber": 36,
+      "ayahNumber": 79,
+      "text": {
+        "simple": "قُلْ يُحْيِيهَا الَّذِي أَنْشَأَهَا أَوَّلَ مَرَّةٍ ۖ وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ",
+        "en_sahih": "English translation of [36:79] in Sahih International style.",
+        "en_yusufali": "English translation of [36:79] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 79 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:79] en español.",
+        "fr_hamidullah": "Traduction de [36:79] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 79 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:80",
+      "surahNumber": 36,
+      "ayahNumber": 80,
+      "text": {
+        "simple": "الَّذِي جَعَلَ لَكُمْ مِنَ الشَّجَرِ الْأَخْضَرِ نَارًا فَإِذَا أَنْتُمْ مِنْهُ تُوقِدُونَ",
+        "en_sahih": "English translation of [36:80] in Sahih International style.",
+        "en_yusufali": "English translation of [36:80] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 80 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:80] en español.",
+        "fr_hamidullah": "Traduction de [36:80] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 80 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:81",
+      "surahNumber": 36,
+      "ayahNumber": 81,
+      "text": {
+        "simple": "أَوَلَيْسَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ بِقَادِرٍ عَلَىٰ أَنْ يَخْلُقَ مِثْلَهُمْ ۚ بَلَىٰ وَهُوَ الْخَلَّاقُ الْعَلِيمُ",
+        "en_sahih": "English translation of [36:81] in Sahih International style.",
+        "en_yusufali": "English translation of [36:81] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 81 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:81] en español.",
+        "fr_hamidullah": "Traduction de [36:81] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 81 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:82",
+      "surahNumber": 36,
+      "ayahNumber": 82,
+      "text": {
+        "simple": "إِنَّمَا أَمْرُهُ إِذَا أَرَادَ شَيْئًا أَنْ يَقُولَ لَهُ كُنْ فَيَكُونُ",
+        "en_sahih": "English translation of [36:82] in Sahih International style.",
+        "en_yusufali": "English translation of [36:82] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 82 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:82] en español.",
+        "fr_hamidullah": "Traduction de [36:82] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 82 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "36:83",
+      "surahNumber": 36,
+      "ayahNumber": 83,
+      "text": {
+        "simple": "فَسُبْحَانَ الَّذِي بِيَدِهِ مَلَكُوتُ كُلِّ شَيْءٍ وَإِلَيْهِ تُرْجَعُونَ",
+        "en_sahih": "English translation of [36:83] in Sahih International style.",
+        "en_yusufali": "English translation of [36:83] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 36 آیت 83 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [36:83] en español.",
+        "fr_hamidullah": "Traduction de [36:83] en français.",
+        "bn_hoque": "সূরা 36 আয়াত 83 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

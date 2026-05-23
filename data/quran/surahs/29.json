@@ -1,0 +1,981 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.982Z",
+  "surahNumber": 29,
+  "ayahCount": 69,
+  "ayahs": [
+    {
+      "id": "29:1",
+      "surahNumber": 29,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ الم",
+        "en_sahih": "English translation of [29:1] in Sahih International style.",
+        "en_yusufali": "English translation of [29:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:1] en español.",
+        "fr_hamidullah": "Traduction de [29:1] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:2",
+      "surahNumber": 29,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "أَحَسِبَ النَّاسُ أَنْ يُتْرَكُوا أَنْ يَقُولُوا آمَنَّا وَهُمْ لَا يُفْتَنُونَ",
+        "en_sahih": "English translation of [29:2] in Sahih International style.",
+        "en_yusufali": "English translation of [29:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:2] en español.",
+        "fr_hamidullah": "Traduction de [29:2] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:3",
+      "surahNumber": 29,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "وَلَقَدْ فَتَنَّا الَّذِينَ مِنْ قَبْلِهِمْ ۖ فَلَيَعْلَمَنَّ اللَّهُ الَّذِينَ صَدَقُوا وَلَيَعْلَمَنَّ الْكَاذِبِينَ",
+        "en_sahih": "English translation of [29:3] in Sahih International style.",
+        "en_yusufali": "English translation of [29:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:3] en español.",
+        "fr_hamidullah": "Traduction de [29:3] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:4",
+      "surahNumber": 29,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "أَمْ حَسِبَ الَّذِينَ يَعْمَلُونَ السَّيِّئَاتِ أَنْ يَسْبِقُونَا ۚ سَاءَ مَا يَحْكُمُونَ",
+        "en_sahih": "English translation of [29:4] in Sahih International style.",
+        "en_yusufali": "English translation of [29:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:4] en español.",
+        "fr_hamidullah": "Traduction de [29:4] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:5",
+      "surahNumber": 29,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "مَنْ كَانَ يَرْجُو لِقَاءَ اللَّهِ فَإِنَّ أَجَلَ اللَّهِ لَآتٍ ۚ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+        "en_sahih": "English translation of [29:5] in Sahih International style.",
+        "en_yusufali": "English translation of [29:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:5] en español.",
+        "fr_hamidullah": "Traduction de [29:5] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:6",
+      "surahNumber": 29,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "وَمَنْ جَاهَدَ فَإِنَّمَا يُجَاهِدُ لِنَفْسِهِ ۚ إِنَّ اللَّهَ لَغَنِيٌّ عَنِ الْعَالَمِينَ",
+        "en_sahih": "English translation of [29:6] in Sahih International style.",
+        "en_yusufali": "English translation of [29:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:6] en español.",
+        "fr_hamidullah": "Traduction de [29:6] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:7",
+      "surahNumber": 29,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَنُكَفِّرَنَّ عَنْهُمْ سَيِّئَاتِهِمْ وَلَنَجْزِيَنَّهُمْ أَحْسَنَ الَّذِي كَانُوا يَعْمَلُونَ",
+        "en_sahih": "English translation of [29:7] in Sahih International style.",
+        "en_yusufali": "English translation of [29:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:7] en español.",
+        "fr_hamidullah": "Traduction de [29:7] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:8",
+      "surahNumber": 29,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "وَوَصَّيْنَا الْإِنْسَانَ بِوَالِدَيْهِ حُسْنًا ۖ وَإِنْ جَاهَدَاكَ لِتُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلَا تُطِعْهُمَا ۚ إِلَيَّ مَرْجِعُكُمْ فَأُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ",
+        "en_sahih": "English translation of [29:8] in Sahih International style.",
+        "en_yusufali": "English translation of [29:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:8] en español.",
+        "fr_hamidullah": "Traduction de [29:8] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:9",
+      "surahNumber": 29,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَنُدْخِلَنَّهُمْ فِي الصَّالِحِينَ",
+        "en_sahih": "English translation of [29:9] in Sahih International style.",
+        "en_yusufali": "English translation of [29:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:9] en español.",
+        "fr_hamidullah": "Traduction de [29:9] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:10",
+      "surahNumber": 29,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "وَمِنَ النَّاسِ مَنْ يَقُولُ آمَنَّا بِاللَّهِ فَإِذَا أُوذِيَ فِي اللَّهِ جَعَلَ فِتْنَةَ النَّاسِ كَعَذَابِ اللَّهِ وَلَئِنْ جَاءَ نَصْرٌ مِنْ رَبِّكَ لَيَقُولُنَّ إِنَّا كُنَّا مَعَكُمْ ۚ أَوَلَيْسَ اللَّهُ بِأَعْلَمَ بِمَا فِي صُدُورِ الْعَالَمِينَ",
+        "en_sahih": "English translation of [29:10] in Sahih International style.",
+        "en_yusufali": "English translation of [29:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:10] en español.",
+        "fr_hamidullah": "Traduction de [29:10] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:11",
+      "surahNumber": 29,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "وَلَيَعْلَمَنَّ اللَّهُ الَّذِينَ آمَنُوا وَلَيَعْلَمَنَّ الْمُنَافِقِينَ",
+        "en_sahih": "English translation of [29:11] in Sahih International style.",
+        "en_yusufali": "English translation of [29:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:11] en español.",
+        "fr_hamidullah": "Traduction de [29:11] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:12",
+      "surahNumber": 29,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "وَقَالَ الَّذِينَ كَفَرُوا لِلَّذِينَ آمَنُوا اتَّبِعُوا سَبِيلَنَا وَلْنَحْمِلْ خَطَايَاكُمْ وَمَا هُمْ بِحَامِلِينَ مِنْ خَطَايَاهُمْ مِنْ شَيْءٍ ۖ إِنَّهُمْ لَكَاذِبُونَ",
+        "en_sahih": "English translation of [29:12] in Sahih International style.",
+        "en_yusufali": "English translation of [29:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:12] en español.",
+        "fr_hamidullah": "Traduction de [29:12] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:13",
+      "surahNumber": 29,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "وَلَيَحْمِلُنَّ أَثْقَالَهُمْ وَأَثْقَالًا مَعَ أَثْقَالِهِمْ ۖ وَلَيُسْأَلُنَّ يَوْمَ الْقِيَامَةِ عَمَّا كَانُوا يَفْتَرُونَ",
+        "en_sahih": "English translation of [29:13] in Sahih International style.",
+        "en_yusufali": "English translation of [29:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:13] en español.",
+        "fr_hamidullah": "Traduction de [29:13] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:14",
+      "surahNumber": 29,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِ فَلَبِثَ فِيهِمْ أَلْفَ سَنَةٍ إِلَّا خَمْسِينَ عَامًا فَأَخَذَهُمُ الطُّوفَانُ وَهُمْ ظَالِمُونَ",
+        "en_sahih": "English translation of [29:14] in Sahih International style.",
+        "en_yusufali": "English translation of [29:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:14] en español.",
+        "fr_hamidullah": "Traduction de [29:14] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:15",
+      "surahNumber": 29,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "فَأَنْجَيْنَاهُ وَأَصْحَابَ السَّفِينَةِ وَجَعَلْنَاهَا آيَةً لِلْعَالَمِينَ",
+        "en_sahih": "English translation of [29:15] in Sahih International style.",
+        "en_yusufali": "English translation of [29:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:15] en español.",
+        "fr_hamidullah": "Traduction de [29:15] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:16",
+      "surahNumber": 29,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "وَإِبْرَاهِيمَ إِذْ قَالَ لِقَوْمِهِ اعْبُدُوا اللَّهَ وَاتَّقُوهُ ۖ ذَٰلِكُمْ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ",
+        "en_sahih": "English translation of [29:16] in Sahih International style.",
+        "en_yusufali": "English translation of [29:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:16] en español.",
+        "fr_hamidullah": "Traduction de [29:16] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:17",
+      "surahNumber": 29,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "إِنَّمَا تَعْبُدُونَ مِنْ دُونِ اللَّهِ أَوْثَانًا وَتَخْلُقُونَ إِفْكًا ۚ إِنَّ الَّذِينَ تَعْبُدُونَ مِنْ دُونِ اللَّهِ لَا يَمْلِكُونَ لَكُمْ رِزْقًا فَابْتَغُوا عِنْدَ اللَّهِ الرِّزْقَ وَاعْبُدُوهُ وَاشْكُرُوا لَهُ ۖ إِلَيْهِ تُرْجَعُونَ",
+        "en_sahih": "English translation of [29:17] in Sahih International style.",
+        "en_yusufali": "English translation of [29:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:17] en español.",
+        "fr_hamidullah": "Traduction de [29:17] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:18",
+      "surahNumber": 29,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "وَإِنْ تُكَذِّبُوا فَقَدْ كَذَّبَ أُمَمٌ مِنْ قَبْلِكُمْ ۖ وَمَا عَلَى الرَّسُولِ إِلَّا الْبَلَاغُ الْمُبِينُ",
+        "en_sahih": "English translation of [29:18] in Sahih International style.",
+        "en_yusufali": "English translation of [29:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:18] en español.",
+        "fr_hamidullah": "Traduction de [29:18] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:19",
+      "surahNumber": 29,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "أَوَلَمْ يَرَوْا كَيْفَ يُبْدِئُ اللَّهُ الْخَلْقَ ثُمَّ يُعِيدُهُ ۚ إِنَّ ذَٰلِكَ عَلَى اللَّهِ يَسِيرٌ",
+        "en_sahih": "English translation of [29:19] in Sahih International style.",
+        "en_yusufali": "English translation of [29:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:19] en español.",
+        "fr_hamidullah": "Traduction de [29:19] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:20",
+      "surahNumber": 29,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "قُلْ سِيرُوا فِي الْأَرْضِ فَانْظُرُوا كَيْفَ بَدَأَ الْخَلْقَ ۚ ثُمَّ اللَّهُ يُنْشِئُ النَّشْأَةَ الْآخِرَةَ ۚ إِنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+        "en_sahih": "English translation of [29:20] in Sahih International style.",
+        "en_yusufali": "English translation of [29:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:20] en español.",
+        "fr_hamidullah": "Traduction de [29:20] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:21",
+      "surahNumber": 29,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "يُعَذِّبُ مَنْ يَشَاءُ وَيَرْحَمُ مَنْ يَشَاءُ ۖ وَإِلَيْهِ تُقْلَبُونَ",
+        "en_sahih": "English translation of [29:21] in Sahih International style.",
+        "en_yusufali": "English translation of [29:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:21] en español.",
+        "fr_hamidullah": "Traduction de [29:21] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:22",
+      "surahNumber": 29,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "وَمَا أَنْتُمْ بِمُعْجِزِينَ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ ۖ وَمَا لَكُمْ مِنْ دُونِ اللَّهِ مِنْ وَلِيٍّ وَلَا نَصِيرٍ",
+        "en_sahih": "English translation of [29:22] in Sahih International style.",
+        "en_yusufali": "English translation of [29:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:22] en español.",
+        "fr_hamidullah": "Traduction de [29:22] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:23",
+      "surahNumber": 29,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "وَالَّذِينَ كَفَرُوا بِآيَاتِ اللَّهِ وَلِقَائِهِ أُولَٰئِكَ يَئِسُوا مِنْ رَحْمَتِي وَأُولَٰئِكَ لَهُمْ عَذَابٌ أَلِيمٌ",
+        "en_sahih": "English translation of [29:23] in Sahih International style.",
+        "en_yusufali": "English translation of [29:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:23] en español.",
+        "fr_hamidullah": "Traduction de [29:23] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:24",
+      "surahNumber": 29,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "فَمَا كَانَ جَوَابَ قَوْمِهِ إِلَّا أَنْ قَالُوا اقْتُلُوهُ أَوْ حَرِّقُوهُ فَأَنْجَاهُ اللَّهُ مِنَ النَّارِ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يُؤْمِنُونَ",
+        "en_sahih": "English translation of [29:24] in Sahih International style.",
+        "en_yusufali": "English translation of [29:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:24] en español.",
+        "fr_hamidullah": "Traduction de [29:24] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:25",
+      "surahNumber": 29,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "وَقَالَ إِنَّمَا اتَّخَذْتُمْ مِنْ دُونِ اللَّهِ أَوْثَانًا مَوَدَّةَ بَيْنِكُمْ فِي الْحَيَاةِ الدُّنْيَا ۖ ثُمَّ يَوْمَ الْقِيَامَةِ يَكْفُرُ بَعْضُكُمْ بِبَعْضٍ وَيَلْعَنُ بَعْضُكُمْ بَعْضًا وَمَأْوَاكُمُ النَّارُ وَمَا لَكُمْ مِنْ نَاصِرِينَ",
+        "en_sahih": "English translation of [29:25] in Sahih International style.",
+        "en_yusufali": "English translation of [29:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:25] en español.",
+        "fr_hamidullah": "Traduction de [29:25] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:26",
+      "surahNumber": 29,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "۞ فَآمَنَ لَهُ لُوطٌ ۘ وَقَالَ إِنِّي مُهَاجِرٌ إِلَىٰ رَبِّي ۖ إِنَّهُ هُوَ الْعَزِيزُ الْحَكِيمُ",
+        "en_sahih": "English translation of [29:26] in Sahih International style.",
+        "en_yusufali": "English translation of [29:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:26] en español.",
+        "fr_hamidullah": "Traduction de [29:26] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:27",
+      "surahNumber": 29,
+      "ayahNumber": 27,
+      "text": {
+        "simple": "وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ وَجَعَلْنَا فِي ذُرِّيَّتِهِ النُّبُوَّةَ وَالْكِتَابَ وَآتَيْنَاهُ أَجْرَهُ فِي الدُّنْيَا ۖ وَإِنَّهُ فِي الْآخِرَةِ لَمِنَ الصَّالِحِينَ",
+        "en_sahih": "English translation of [29:27] in Sahih International style.",
+        "en_yusufali": "English translation of [29:27] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:27] en español.",
+        "fr_hamidullah": "Traduction de [29:27] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:28",
+      "surahNumber": 29,
+      "ayahNumber": 28,
+      "text": {
+        "simple": "وَلُوطًا إِذْ قَالَ لِقَوْمِهِ إِنَّكُمْ لَتَأْتُونَ الْفَاحِشَةَ مَا سَبَقَكُمْ بِهَا مِنْ أَحَدٍ مِنَ الْعَالَمِينَ",
+        "en_sahih": "English translation of [29:28] in Sahih International style.",
+        "en_yusufali": "English translation of [29:28] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:28] en español.",
+        "fr_hamidullah": "Traduction de [29:28] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:29",
+      "surahNumber": 29,
+      "ayahNumber": 29,
+      "text": {
+        "simple": "أَئِنَّكُمْ لَتَأْتُونَ الرِّجَالَ وَتَقْطَعُونَ السَّبِيلَ وَتَأْتُونَ فِي نَادِيكُمُ الْمُنْكَرَ ۖ فَمَا كَانَ جَوَابَ قَوْمِهِ إِلَّا أَنْ قَالُوا ائْتِنَا بِعَذَابِ اللَّهِ إِنْ كُنْتَ مِنَ الصَّادِقِينَ",
+        "en_sahih": "English translation of [29:29] in Sahih International style.",
+        "en_yusufali": "English translation of [29:29] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:29] en español.",
+        "fr_hamidullah": "Traduction de [29:29] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:30",
+      "surahNumber": 29,
+      "ayahNumber": 30,
+      "text": {
+        "simple": "قَالَ رَبِّ انْصُرْنِي عَلَى الْقَوْمِ الْمُفْسِدِينَ",
+        "en_sahih": "English translation of [29:30] in Sahih International style.",
+        "en_yusufali": "English translation of [29:30] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:30] en español.",
+        "fr_hamidullah": "Traduction de [29:30] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:31",
+      "surahNumber": 29,
+      "ayahNumber": 31,
+      "text": {
+        "simple": "وَلَمَّا جَاءَتْ رُسُلُنَا إِبْرَاهِيمَ بِالْبُشْرَىٰ قَالُوا إِنَّا مُهْلِكُو أَهْلِ هَٰذِهِ الْقَرْيَةِ ۖ إِنَّ أَهْلَهَا كَانُوا ظَالِمِينَ",
+        "en_sahih": "English translation of [29:31] in Sahih International style.",
+        "en_yusufali": "English translation of [29:31] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:31] en español.",
+        "fr_hamidullah": "Traduction de [29:31] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:32",
+      "surahNumber": 29,
+      "ayahNumber": 32,
+      "text": {
+        "simple": "قَالَ إِنَّ فِيهَا لُوطًا ۚ قَالُوا نَحْنُ أَعْلَمُ بِمَنْ فِيهَا ۖ لَنُنَجِّيَنَّهُ وَأَهْلَهُ إِلَّا امْرَأَتَهُ كَانَتْ مِنَ الْغَابِرِينَ",
+        "en_sahih": "English translation of [29:32] in Sahih International style.",
+        "en_yusufali": "English translation of [29:32] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:32] en español.",
+        "fr_hamidullah": "Traduction de [29:32] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:33",
+      "surahNumber": 29,
+      "ayahNumber": 33,
+      "text": {
+        "simple": "وَلَمَّا أَنْ جَاءَتْ رُسُلُنَا لُوطًا سِيءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالُوا لَا تَخَفْ وَلَا تَحْزَنْ ۖ إِنَّا مُنَجُّوكَ وَأَهْلَكَ إِلَّا امْرَأَتَكَ كَانَتْ مِنَ الْغَابِرِينَ",
+        "en_sahih": "English translation of [29:33] in Sahih International style.",
+        "en_yusufali": "English translation of [29:33] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:33] en español.",
+        "fr_hamidullah": "Traduction de [29:33] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:34",
+      "surahNumber": 29,
+      "ayahNumber": 34,
+      "text": {
+        "simple": "إِنَّا مُنْزِلُونَ عَلَىٰ أَهْلِ هَٰذِهِ الْقَرْيَةِ رِجْزًا مِنَ السَّمَاءِ بِمَا كَانُوا يَفْسُقُونَ",
+        "en_sahih": "English translation of [29:34] in Sahih International style.",
+        "en_yusufali": "English translation of [29:34] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:34] en español.",
+        "fr_hamidullah": "Traduction de [29:34] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:35",
+      "surahNumber": 29,
+      "ayahNumber": 35,
+      "text": {
+        "simple": "وَلَقَدْ تَرَكْنَا مِنْهَا آيَةً بَيِّنَةً لِقَوْمٍ يَعْقِلُونَ",
+        "en_sahih": "English translation of [29:35] in Sahih International style.",
+        "en_yusufali": "English translation of [29:35] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:35] en español.",
+        "fr_hamidullah": "Traduction de [29:35] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:36",
+      "surahNumber": 29,
+      "ayahNumber": 36,
+      "text": {
+        "simple": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًا فَقَالَ يَا قَوْمِ اعْبُدُوا اللَّهَ وَارْجُوا الْيَوْمَ الْآخِرَ وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ",
+        "en_sahih": "English translation of [29:36] in Sahih International style.",
+        "en_yusufali": "English translation of [29:36] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:36] en español.",
+        "fr_hamidullah": "Traduction de [29:36] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:37",
+      "surahNumber": 29,
+      "ayahNumber": 37,
+      "text": {
+        "simple": "فَكَذَّبُوهُ فَأَخَذَتْهُمُ الرَّجْفَةُ فَأَصْبَحُوا فِي دَارِهِمْ جَاثِمِينَ",
+        "en_sahih": "English translation of [29:37] in Sahih International style.",
+        "en_yusufali": "English translation of [29:37] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:37] en español.",
+        "fr_hamidullah": "Traduction de [29:37] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:38",
+      "surahNumber": 29,
+      "ayahNumber": 38,
+      "text": {
+        "simple": "وَعَادًا وَثَمُودَ وَقَدْ تَبَيَّنَ لَكُمْ مِنْ مَسَاكِنِهِمْ ۖ وَزَيَّنَ لَهُمُ الشَّيْطَانُ أَعْمَالَهُمْ فَصَدَّهُمْ عَنِ السَّبِيلِ وَكَانُوا مُسْتَبْصِرِينَ",
+        "en_sahih": "English translation of [29:38] in Sahih International style.",
+        "en_yusufali": "English translation of [29:38] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 38 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:38] en español.",
+        "fr_hamidullah": "Traduction de [29:38] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:39",
+      "surahNumber": 29,
+      "ayahNumber": 39,
+      "text": {
+        "simple": "وَقَارُونَ وَفِرْعَوْنَ وَهَامَانَ ۖ وَلَقَدْ جَاءَهُمْ مُوسَىٰ بِالْبَيِّنَاتِ فَاسْتَكْبَرُوا فِي الْأَرْضِ وَمَا كَانُوا سَابِقِينَ",
+        "en_sahih": "English translation of [29:39] in Sahih International style.",
+        "en_yusufali": "English translation of [29:39] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 39 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:39] en español.",
+        "fr_hamidullah": "Traduction de [29:39] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:40",
+      "surahNumber": 29,
+      "ayahNumber": 40,
+      "text": {
+        "simple": "فَكُلًّا أَخَذْنَا بِذَنْبِهِ ۖ فَمِنْهُمْ مَنْ أَرْسَلْنَا عَلَيْهِ حَاصِبًا وَمِنْهُمْ مَنْ أَخَذَتْهُ الصَّيْحَةُ وَمِنْهُمْ مَنْ خَسَفْنَا بِهِ الْأَرْضَ وَمِنْهُمْ مَنْ أَغْرَقْنَا ۚ وَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَٰكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ",
+        "en_sahih": "English translation of [29:40] in Sahih International style.",
+        "en_yusufali": "English translation of [29:40] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 40 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:40] en español.",
+        "fr_hamidullah": "Traduction de [29:40] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:41",
+      "surahNumber": 29,
+      "ayahNumber": 41,
+      "text": {
+        "simple": "مَثَلُ الَّذِينَ اتَّخَذُوا مِنْ دُونِ اللَّهِ أَوْلِيَاءَ كَمَثَلِ الْعَنْكَبُوتِ اتَّخَذَتْ بَيْتًا ۖ وَإِنَّ أَوْهَنَ الْبُيُوتِ لَبَيْتُ الْعَنْكَبُوتِ ۖ لَوْ كَانُوا يَعْلَمُونَ",
+        "en_sahih": "English translation of [29:41] in Sahih International style.",
+        "en_yusufali": "English translation of [29:41] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 41 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:41] en español.",
+        "fr_hamidullah": "Traduction de [29:41] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:42",
+      "surahNumber": 29,
+      "ayahNumber": 42,
+      "text": {
+        "simple": "إِنَّ اللَّهَ يَعْلَمُ مَا يَدْعُونَ مِنْ دُونِهِ مِنْ شَيْءٍ ۚ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+        "en_sahih": "English translation of [29:42] in Sahih International style.",
+        "en_yusufali": "English translation of [29:42] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 42 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:42] en español.",
+        "fr_hamidullah": "Traduction de [29:42] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:43",
+      "surahNumber": 29,
+      "ayahNumber": 43,
+      "text": {
+        "simple": "وَتِلْكَ الْأَمْثَالُ نَضْرِبُهَا لِلنَّاسِ ۖ وَمَا يَعْقِلُهَا إِلَّا الْعَالِمُونَ",
+        "en_sahih": "English translation of [29:43] in Sahih International style.",
+        "en_yusufali": "English translation of [29:43] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 43 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:43] en español.",
+        "fr_hamidullah": "Traduction de [29:43] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:44",
+      "surahNumber": 29,
+      "ayahNumber": 44,
+      "text": {
+        "simple": "خَلَقَ اللَّهُ السَّمَاوَاتِ وَالْأَرْضَ بِالْحَقِّ ۚ إِنَّ فِي ذَٰلِكَ لَآيَةً لِلْمُؤْمِنِينَ",
+        "en_sahih": "English translation of [29:44] in Sahih International style.",
+        "en_yusufali": "English translation of [29:44] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 44 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:44] en español.",
+        "fr_hamidullah": "Traduction de [29:44] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:45",
+      "surahNumber": 29,
+      "ayahNumber": 45,
+      "text": {
+        "simple": "اتْلُ مَا أُوحِيَ إِلَيْكَ مِنَ الْكِتَابِ وَأَقِمِ الصَّلَاةَ ۖ إِنَّ الصَّلَاةَ تَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنْكَرِ ۗ وَلَذِكْرُ اللَّهِ أَكْبَرُ ۗ وَاللَّهُ يَعْلَمُ مَا تَصْنَعُونَ",
+        "en_sahih": "English translation of [29:45] in Sahih International style.",
+        "en_yusufali": "English translation of [29:45] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 45 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:45] en español.",
+        "fr_hamidullah": "Traduction de [29:45] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:46",
+      "surahNumber": 29,
+      "ayahNumber": 46,
+      "text": {
+        "simple": "۞ وَلَا تُجَادِلُوا أَهْلَ الْكِتَابِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ إِلَّا الَّذِينَ ظَلَمُوا مِنْهُمْ ۖ وَقُولُوا آمَنَّا بِالَّذِي أُنْزِلَ إِلَيْنَا وَأُنْزِلَ إِلَيْكُمْ وَإِلَٰهُنَا وَإِلَٰهُكُمْ وَاحِدٌ وَنَحْنُ لَهُ مُسْلِمُونَ",
+        "en_sahih": "English translation of [29:46] in Sahih International style.",
+        "en_yusufali": "English translation of [29:46] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 46 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:46] en español.",
+        "fr_hamidullah": "Traduction de [29:46] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:47",
+      "surahNumber": 29,
+      "ayahNumber": 47,
+      "text": {
+        "simple": "وَكَذَٰلِكَ أَنْزَلْنَا إِلَيْكَ الْكِتَابَ ۚ فَالَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يُؤْمِنُونَ بِهِ ۖ وَمِنْ هَٰؤُلَاءِ مَنْ يُؤْمِنُ بِهِ ۚ وَمَا يَجْحَدُ بِآيَاتِنَا إِلَّا الْكَافِرُونَ",
+        "en_sahih": "English translation of [29:47] in Sahih International style.",
+        "en_yusufali": "English translation of [29:47] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 47 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:47] en español.",
+        "fr_hamidullah": "Traduction de [29:47] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:48",
+      "surahNumber": 29,
+      "ayahNumber": 48,
+      "text": {
+        "simple": "وَمَا كُنْتَ تَتْلُو مِنْ قَبْلِهِ مِنْ كِتَابٍ وَلَا تَخُطُّهُ بِيَمِينِكَ ۖ إِذًا لَارْتَابَ الْمُبْطِلُونَ",
+        "en_sahih": "English translation of [29:48] in Sahih International style.",
+        "en_yusufali": "English translation of [29:48] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 48 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:48] en español.",
+        "fr_hamidullah": "Traduction de [29:48] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:49",
+      "surahNumber": 29,
+      "ayahNumber": 49,
+      "text": {
+        "simple": "بَلْ هُوَ آيَاتٌ بَيِّنَاتٌ فِي صُدُورِ الَّذِينَ أُوتُوا الْعِلْمَ ۚ وَمَا يَجْحَدُ بِآيَاتِنَا إِلَّا الظَّالِمُونَ",
+        "en_sahih": "English translation of [29:49] in Sahih International style.",
+        "en_yusufali": "English translation of [29:49] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 49 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:49] en español.",
+        "fr_hamidullah": "Traduction de [29:49] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:50",
+      "surahNumber": 29,
+      "ayahNumber": 50,
+      "text": {
+        "simple": "وَقَالُوا لَوْلَا أُنْزِلَ عَلَيْهِ آيَاتٌ مِنْ رَبِّهِ ۖ قُلْ إِنَّمَا الْآيَاتُ عِنْدَ اللَّهِ وَإِنَّمَا أَنَا نَذِيرٌ مُبِينٌ",
+        "en_sahih": "English translation of [29:50] in Sahih International style.",
+        "en_yusufali": "English translation of [29:50] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 50 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:50] en español.",
+        "fr_hamidullah": "Traduction de [29:50] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:51",
+      "surahNumber": 29,
+      "ayahNumber": 51,
+      "text": {
+        "simple": "أَوَلَمْ يَكْفِهِمْ أَنَّا أَنْزَلْنَا عَلَيْكَ الْكِتَابَ يُتْلَىٰ عَلَيْهِمْ ۚ إِنَّ فِي ذَٰلِكَ لَرَحْمَةً وَذِكْرَىٰ لِقَوْمٍ يُؤْمِنُونَ",
+        "en_sahih": "English translation of [29:51] in Sahih International style.",
+        "en_yusufali": "English translation of [29:51] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 51 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:51] en español.",
+        "fr_hamidullah": "Traduction de [29:51] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:52",
+      "surahNumber": 29,
+      "ayahNumber": 52,
+      "text": {
+        "simple": "قُلْ كَفَىٰ بِاللَّهِ بَيْنِي وَبَيْنَكُمْ شَهِيدًا ۖ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۗ وَالَّذِينَ آمَنُوا بِالْبَاطِلِ وَكَفَرُوا بِاللَّهِ أُولَٰئِكَ هُمُ الْخَاسِرُونَ",
+        "en_sahih": "English translation of [29:52] in Sahih International style.",
+        "en_yusufali": "English translation of [29:52] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 52 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:52] en español.",
+        "fr_hamidullah": "Traduction de [29:52] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:53",
+      "surahNumber": 29,
+      "ayahNumber": 53,
+      "text": {
+        "simple": "وَيَسْتَعْجِلُونَكَ بِالْعَذَابِ ۚ وَلَوْلَا أَجَلٌ مُسَمًّى لَجَاءَهُمُ الْعَذَابُ وَلَيَأْتِيَنَّهُمْ بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
+        "en_sahih": "English translation of [29:53] in Sahih International style.",
+        "en_yusufali": "English translation of [29:53] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 53 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:53] en español.",
+        "fr_hamidullah": "Traduction de [29:53] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 53 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:54",
+      "surahNumber": 29,
+      "ayahNumber": 54,
+      "text": {
+        "simple": "يَسْتَعْجِلُونَكَ بِالْعَذَابِ وَإِنَّ جَهَنَّمَ لَمُحِيطَةٌ بِالْكَافِرِينَ",
+        "en_sahih": "English translation of [29:54] in Sahih International style.",
+        "en_yusufali": "English translation of [29:54] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 54 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:54] en español.",
+        "fr_hamidullah": "Traduction de [29:54] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 54 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:55",
+      "surahNumber": 29,
+      "ayahNumber": 55,
+      "text": {
+        "simple": "يَوْمَ يَغْشَاهُمُ الْعَذَابُ مِنْ فَوْقِهِمْ وَمِنْ تَحْتِ أَرْجُلِهِمْ وَيَقُولُ ذُوقُوا مَا كُنْتُمْ تَعْمَلُونَ",
+        "en_sahih": "English translation of [29:55] in Sahih International style.",
+        "en_yusufali": "English translation of [29:55] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 55 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:55] en español.",
+        "fr_hamidullah": "Traduction de [29:55] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 55 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:56",
+      "surahNumber": 29,
+      "ayahNumber": 56,
+      "text": {
+        "simple": "يَا عِبَادِيَ الَّذِينَ آمَنُوا إِنَّ أَرْضِي وَاسِعَةٌ فَإِيَّايَ فَاعْبُدُونِ",
+        "en_sahih": "English translation of [29:56] in Sahih International style.",
+        "en_yusufali": "English translation of [29:56] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 56 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:56] en español.",
+        "fr_hamidullah": "Traduction de [29:56] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 56 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:57",
+      "surahNumber": 29,
+      "ayahNumber": 57,
+      "text": {
+        "simple": "كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ ۖ ثُمَّ إِلَيْنَا تُرْجَعُونَ",
+        "en_sahih": "English translation of [29:57] in Sahih International style.",
+        "en_yusufali": "English translation of [29:57] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 57 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:57] en español.",
+        "fr_hamidullah": "Traduction de [29:57] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 57 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:58",
+      "surahNumber": 29,
+      "ayahNumber": 58,
+      "text": {
+        "simple": "وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَنُبَوِّئَنَّهُمْ مِنَ الْجَنَّةِ غُرَفًا تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا ۚ نِعْمَ أَجْرُ الْعَامِلِينَ",
+        "en_sahih": "English translation of [29:58] in Sahih International style.",
+        "en_yusufali": "English translation of [29:58] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 58 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:58] en español.",
+        "fr_hamidullah": "Traduction de [29:58] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 58 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:59",
+      "surahNumber": 29,
+      "ayahNumber": 59,
+      "text": {
+        "simple": "الَّذِينَ صَبَرُوا وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+        "en_sahih": "English translation of [29:59] in Sahih International style.",
+        "en_yusufali": "English translation of [29:59] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 59 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:59] en español.",
+        "fr_hamidullah": "Traduction de [29:59] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 59 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:60",
+      "surahNumber": 29,
+      "ayahNumber": 60,
+      "text": {
+        "simple": "وَكَأَيِّنْ مِنْ دَابَّةٍ لَا تَحْمِلُ رِزْقَهَا اللَّهُ يَرْزُقُهَا وَإِيَّاكُمْ ۚ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+        "en_sahih": "English translation of [29:60] in Sahih International style.",
+        "en_yusufali": "English translation of [29:60] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 60 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:60] en español.",
+        "fr_hamidullah": "Traduction de [29:60] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 60 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:61",
+      "surahNumber": 29,
+      "ayahNumber": 61,
+      "text": {
+        "simple": "وَلَئِنْ سَأَلْتَهُمْ مَنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ لَيَقُولُنَّ اللَّهُ ۖ فَأَنَّىٰ يُؤْفَكُونَ",
+        "en_sahih": "English translation of [29:61] in Sahih International style.",
+        "en_yusufali": "English translation of [29:61] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 61 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:61] en español.",
+        "fr_hamidullah": "Traduction de [29:61] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 61 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:62",
+      "surahNumber": 29,
+      "ayahNumber": 62,
+      "text": {
+        "simple": "اللَّهُ يَبْسُطُ الرِّزْقَ لِمَنْ يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ لَهُ ۚ إِنَّ اللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ",
+        "en_sahih": "English translation of [29:62] in Sahih International style.",
+        "en_yusufali": "English translation of [29:62] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 62 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:62] en español.",
+        "fr_hamidullah": "Traduction de [29:62] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 62 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:63",
+      "surahNumber": 29,
+      "ayahNumber": 63,
+      "text": {
+        "simple": "وَلَئِنْ سَأَلْتَهُمْ مَنْ نَزَّلَ مِنَ السَّمَاءِ مَاءً فَأَحْيَا بِهِ الْأَرْضَ مِنْ بَعْدِ مَوْتِهَا لَيَقُولُنَّ اللَّهُ ۚ قُلِ الْحَمْدُ لِلَّهِ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْقِلُونَ",
+        "en_sahih": "English translation of [29:63] in Sahih International style.",
+        "en_yusufali": "English translation of [29:63] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 63 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:63] en español.",
+        "fr_hamidullah": "Traduction de [29:63] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 63 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:64",
+      "surahNumber": 29,
+      "ayahNumber": 64,
+      "text": {
+        "simple": "وَمَا هَٰذِهِ الْحَيَاةُ الدُّنْيَا إِلَّا لَهْوٌ وَلَعِبٌ ۚ وَإِنَّ الدَّارَ الْآخِرَةَ لَهِيَ الْحَيَوَانُ ۚ لَوْ كَانُوا يَعْلَمُونَ",
+        "en_sahih": "English translation of [29:64] in Sahih International style.",
+        "en_yusufali": "English translation of [29:64] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 64 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:64] en español.",
+        "fr_hamidullah": "Traduction de [29:64] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 64 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:65",
+      "surahNumber": 29,
+      "ayahNumber": 65,
+      "text": {
+        "simple": "فَإِذَا رَكِبُوا فِي الْفُلْكِ دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ إِذَا هُمْ يُشْرِكُونَ",
+        "en_sahih": "English translation of [29:65] in Sahih International style.",
+        "en_yusufali": "English translation of [29:65] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 65 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:65] en español.",
+        "fr_hamidullah": "Traduction de [29:65] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 65 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:66",
+      "surahNumber": 29,
+      "ayahNumber": 66,
+      "text": {
+        "simple": "لِيَكْفُرُوا بِمَا آتَيْنَاهُمْ وَلِيَتَمَتَّعُوا ۖ فَسَوْفَ يَعْلَمُونَ",
+        "en_sahih": "English translation of [29:66] in Sahih International style.",
+        "en_yusufali": "English translation of [29:66] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 66 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:66] en español.",
+        "fr_hamidullah": "Traduction de [29:66] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 66 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:67",
+      "surahNumber": 29,
+      "ayahNumber": 67,
+      "text": {
+        "simple": "أَوَلَمْ يَرَوْا أَنَّا جَعَلْنَا حَرَمًا آمِنًا وَيُتَخَطَّفُ النَّاسُ مِنْ حَوْلِهِمْ ۚ أَفَبِالْبَاطِلِ يُؤْمِنُونَ وَبِنِعْمَةِ اللَّهِ يَكْفُرُونَ",
+        "en_sahih": "English translation of [29:67] in Sahih International style.",
+        "en_yusufali": "English translation of [29:67] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 67 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:67] en español.",
+        "fr_hamidullah": "Traduction de [29:67] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 67 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:68",
+      "surahNumber": 29,
+      "ayahNumber": 68,
+      "text": {
+        "simple": "وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ بِالْحَقِّ لَمَّا جَاءَهُ ۚ أَلَيْسَ فِي جَهَنَّمَ مَثْوًى لِلْكَافِرِينَ",
+        "en_sahih": "English translation of [29:68] in Sahih International style.",
+        "en_yusufali": "English translation of [29:68] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 68 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:68] en español.",
+        "fr_hamidullah": "Traduction de [29:68] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 68 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "29:69",
+      "surahNumber": 29,
+      "ayahNumber": 69,
+      "text": {
+        "simple": "وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ وَإِنَّ اللَّهَ لَمَعَ الْمُحْسِنِينَ",
+        "en_sahih": "English translation of [29:69] in Sahih International style.",
+        "en_yusufali": "English translation of [29:69] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 29 آیت 69 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [29:69] en español.",
+        "fr_hamidullah": "Traduction de [29:69] en français.",
+        "bn_hoque": "সূরা 29 আয়াত 69 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

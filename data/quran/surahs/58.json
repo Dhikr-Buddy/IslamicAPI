@@ -1,0 +1,323 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.992Z",
+  "surahNumber": 58,
+  "ayahCount": 22,
+  "ayahs": [
+    {
+      "id": "58:1",
+      "surahNumber": 58,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ قَدْ سَمِعَ اللَّهُ قَوْلَ الَّتِي تُجَادِلُكَ فِي زَوْجِهَا وَتَشْتَكِي إِلَى اللَّهِ وَاللَّهُ يَسْمَعُ تَحَاوُرَكُمَا ۚ إِنَّ اللَّهَ سَمِيعٌ بَصِيرٌ",
+        "en_sahih": "English translation of [58:1] in Sahih International style.",
+        "en_yusufali": "English translation of [58:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 58 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [58:1] en español.",
+        "fr_hamidullah": "Traduction de [58:1] en français.",
+        "bn_hoque": "সূরা 58 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "58:2",
+      "surahNumber": 58,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "الَّذِينَ يُظَاهِرُونَ مِنْكُمْ مِنْ نِسَائِهِمْ مَا هُنَّ أُمَّهَاتِهِمْ ۖ إِنْ أُمَّهَاتُهُمْ إِلَّا اللَّائِي وَلَدْنَهُمْ ۚ وَإِنَّهُمْ لَيَقُولُونَ مُنْكَرًا مِنَ الْقَوْلِ وَزُورًا ۚ وَإِنَّ اللَّهَ لَعَفُوٌّ غَفُورٌ",
+        "en_sahih": "English translation of [58:2] in Sahih International style.",
+        "en_yusufali": "English translation of [58:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 58 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [58:2] en español.",
+        "fr_hamidullah": "Traduction de [58:2] en français.",
+        "bn_hoque": "সূরা 58 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "58:3",
+      "surahNumber": 58,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "وَالَّذِينَ يُظَاهِرُونَ مِنْ نِسَائِهِمْ ثُمَّ يَعُودُونَ لِمَا قَالُوا فَتَحْرِيرُ رَقَبَةٍ مِنْ قَبْلِ أَنْ يَتَمَاسَّا ۚ ذَٰلِكُمْ تُوعَظُونَ بِهِ ۚ وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+        "en_sahih": "English translation of [58:3] in Sahih International style.",
+        "en_yusufali": "English translation of [58:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 58 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [58:3] en español.",
+        "fr_hamidullah": "Traduction de [58:3] en français.",
+        "bn_hoque": "সূরা 58 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "58:4",
+      "surahNumber": 58,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "فَمَنْ لَمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ مِنْ قَبْلِ أَنْ يَتَمَاسَّا ۖ فَمَنْ لَمْ يَسْتَطِعْ فَإِطْعَامُ سِتِّينَ مِسْكِينًا ۚ ذَٰلِكَ لِتُؤْمِنُوا بِاللَّهِ وَرَسُولِهِ ۚ وَتِلْكَ حُدُودُ اللَّهِ ۗ وَلِلْكَافِرِينَ عَذَابٌ أَلِيمٌ",
+        "en_sahih": "English translation of [58:4] in Sahih International style.",
+        "en_yusufali": "English translation of [58:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 58 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [58:4] en español.",
+        "fr_hamidullah": "Traduction de [58:4] en français.",
+        "bn_hoque": "সূরা 58 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "58:5",
+      "surahNumber": 58,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "إِنَّ الَّذِينَ يُحَادُّونَ اللَّهَ وَرَسُولَهُ كُبِتُوا كَمَا كُبِتَ الَّذِينَ مِنْ قَبْلِهِمْ ۚ وَقَدْ أَنْزَلْنَا آيَاتٍ بَيِّنَاتٍ ۚ وَلِلْكَافِرِينَ عَذَابٌ مُهِينٌ",
+        "en_sahih": "English translation of [58:5] in Sahih International style.",
+        "en_yusufali": "English translation of [58:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 58 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [58:5] en español.",
+        "fr_hamidullah": "Traduction de [58:5] en français.",
+        "bn_hoque": "সূরা 58 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "58:6",
+      "surahNumber": 58,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "يَوْمَ يَبْعَثُهُمُ اللَّهُ جَمِيعًا فَيُنَبِّئُهُمْ بِمَا عَمِلُوا ۚ أَحْصَاهُ اللَّهُ وَنَسُوهُ ۚ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ",
+        "en_sahih": "English translation of [58:6] in Sahih International style.",
+        "en_yusufali": "English translation of [58:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 58 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [58:6] en español.",
+        "fr_hamidullah": "Traduction de [58:6] en français.",
+        "bn_hoque": "সূরা 58 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "58:7",
+      "surahNumber": 58,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "أَلَمْ تَرَ أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۖ مَا يَكُونُ مِنْ نَجْوَىٰ ثَلَاثَةٍ إِلَّا هُوَ رَابِعُهُمْ وَلَا خَمْسَةٍ إِلَّا هُوَ سَادِسُهُمْ وَلَا أَدْنَىٰ مِنْ ذَٰلِكَ وَلَا أَكْثَرَ إِلَّا هُوَ مَعَهُمْ أَيْنَ مَا كَانُوا ۖ ثُمَّ يُنَبِّئُهُمْ بِمَا عَمِلُوا يَوْمَ الْقِيَامَةِ ۚ إِنَّ اللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ",
+        "en_sahih": "English translation of [58:7] in Sahih International style.",
+        "en_yusufali": "English translation of [58:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 58 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [58:7] en español.",
+        "fr_hamidullah": "Traduction de [58:7] en français.",
+        "bn_hoque": "সূরা 58 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "58:8",
+      "surahNumber": 58,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "أَلَمْ تَرَ إِلَى الَّذِينَ نُهُوا عَنِ النَّجْوَىٰ ثُمَّ يَعُودُونَ لِمَا نُهُوا عَنْهُ وَيَتَنَاجَوْنَ بِالْإِثْمِ وَالْعُدْوَانِ وَمَعْصِيَتِ الرَّسُولِ وَإِذَا جَاءُوكَ حَيَّوْكَ بِمَا لَمْ يُحَيِّكَ بِهِ اللَّهُ وَيَقُولُونَ فِي أَنْفُسِهِمْ لَوْلَا يُعَذِّبُنَا اللَّهُ بِمَا نَقُولُ ۚ حَسْبُهُمْ جَهَنَّمُ يَصْلَوْنَهَا ۖ فَبِئْسَ الْمَصِيرُ",
+        "en_sahih": "English translation of [58:8] in Sahih International style.",
+        "en_yusufali": "English translation of [58:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 58 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [58:8] en español.",
+        "fr_hamidullah": "Traduction de [58:8] en français.",
+        "bn_hoque": "সূরা 58 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "58:9",
+      "surahNumber": 58,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا تَنَاجَيْتُمْ فَلَا تَتَنَاجَوْا بِالْإِثْمِ وَالْعُدْوَانِ وَمَعْصِيَتِ الرَّسُولِ وَتَنَاجَوْا بِالْبِرِّ وَالتَّقْوَىٰ ۖ وَاتَّقُوا اللَّهَ الَّذِي إِلَيْهِ تُحْشَرُونَ",
+        "en_sahih": "English translation of [58:9] in Sahih International style.",
+        "en_yusufali": "English translation of [58:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 58 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [58:9] en español.",
+        "fr_hamidullah": "Traduction de [58:9] en français.",
+        "bn_hoque": "সূরা 58 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "58:10",
+      "surahNumber": 58,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "إِنَّمَا النَّجْوَىٰ مِنَ الشَّيْطَانِ لِيَحْزُنَ الَّذِينَ آمَنُوا وَلَيْسَ بِضَارِّهِمْ شَيْئًا إِلَّا بِإِذْنِ اللَّهِ ۚ وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ",
+        "en_sahih": "English translation of [58:10] in Sahih International style.",
+        "en_yusufali": "English translation of [58:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 58 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [58:10] en español.",
+        "fr_hamidullah": "Traduction de [58:10] en français.",
+        "bn_hoque": "সূরা 58 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "58:11",
+      "surahNumber": 58,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قِيلَ لَكُمْ تَفَسَّحُوا فِي الْمَجَالِسِ فَافْسَحُوا يَفْسَحِ اللَّهُ لَكُمْ ۖ وَإِذَا قِيلَ انْشُزُوا فَانْشُزُوا يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنْكُمْ وَالَّذِينَ أُوتُوا الْعِلْمَ دَرَجَاتٍ ۚ وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+        "en_sahih": "English translation of [58:11] in Sahih International style.",
+        "en_yusufali": "English translation of [58:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 58 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [58:11] en español.",
+        "fr_hamidullah": "Traduction de [58:11] en français.",
+        "bn_hoque": "সূরা 58 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "58:12",
+      "surahNumber": 58,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نَاجَيْتُمُ الرَّسُولَ فَقَدِّمُوا بَيْنَ يَدَيْ نَجْوَاكُمْ صَدَقَةً ۚ ذَٰلِكَ خَيْرٌ لَكُمْ وَأَطْهَرُ ۚ فَإِنْ لَمْ تَجِدُوا فَإِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+        "en_sahih": "English translation of [58:12] in Sahih International style.",
+        "en_yusufali": "English translation of [58:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 58 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [58:12] en español.",
+        "fr_hamidullah": "Traduction de [58:12] en français.",
+        "bn_hoque": "সূরা 58 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "58:13",
+      "surahNumber": 58,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "أَأَشْفَقْتُمْ أَنْ تُقَدِّمُوا بَيْنَ يَدَيْ نَجْوَاكُمْ صَدَقَاتٍ ۚ فَإِذْ لَمْ تَفْعَلُوا وَتَابَ اللَّهُ عَلَيْكُمْ فَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَأَطِيعُوا اللَّهَ وَرَسُولَهُ ۚ وَاللَّهُ خَبِيرٌ بِمَا تَعْمَلُونَ",
+        "en_sahih": "English translation of [58:13] in Sahih International style.",
+        "en_yusufali": "English translation of [58:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 58 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [58:13] en español.",
+        "fr_hamidullah": "Traduction de [58:13] en français.",
+        "bn_hoque": "সূরা 58 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "58:14",
+      "surahNumber": 58,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "۞ أَلَمْ تَرَ إِلَى الَّذِينَ تَوَلَّوْا قَوْمًا غَضِبَ اللَّهُ عَلَيْهِمْ مَا هُمْ مِنْكُمْ وَلَا مِنْهُمْ وَيَحْلِفُونَ عَلَى الْكَذِبِ وَهُمْ يَعْلَمُونَ",
+        "en_sahih": "English translation of [58:14] in Sahih International style.",
+        "en_yusufali": "English translation of [58:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 58 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [58:14] en español.",
+        "fr_hamidullah": "Traduction de [58:14] en français.",
+        "bn_hoque": "সূরা 58 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "58:15",
+      "surahNumber": 58,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "أَعَدَّ اللَّهُ لَهُمْ عَذَابًا شَدِيدًا ۖ إِنَّهُمْ سَاءَ مَا كَانُوا يَعْمَلُونَ",
+        "en_sahih": "English translation of [58:15] in Sahih International style.",
+        "en_yusufali": "English translation of [58:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 58 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [58:15] en español.",
+        "fr_hamidullah": "Traduction de [58:15] en français.",
+        "bn_hoque": "সূরা 58 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "58:16",
+      "surahNumber": 58,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "اتَّخَذُوا أَيْمَانَهُمْ جُنَّةً فَصَدُّوا عَنْ سَبِيلِ اللَّهِ فَلَهُمْ عَذَابٌ مُهِينٌ",
+        "en_sahih": "English translation of [58:16] in Sahih International style.",
+        "en_yusufali": "English translation of [58:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 58 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [58:16] en español.",
+        "fr_hamidullah": "Traduction de [58:16] en français.",
+        "bn_hoque": "সূরা 58 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "58:17",
+      "surahNumber": 58,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "لَنْ تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُمْ مِنَ اللَّهِ شَيْئًا ۚ أُولَٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ",
+        "en_sahih": "English translation of [58:17] in Sahih International style.",
+        "en_yusufali": "English translation of [58:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 58 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [58:17] en español.",
+        "fr_hamidullah": "Traduction de [58:17] en français.",
+        "bn_hoque": "সূরা 58 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "58:18",
+      "surahNumber": 58,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "يَوْمَ يَبْعَثُهُمُ اللَّهُ جَمِيعًا فَيَحْلِفُونَ لَهُ كَمَا يَحْلِفُونَ لَكُمْ ۖ وَيَحْسَبُونَ أَنَّهُمْ عَلَىٰ شَيْءٍ ۚ أَلَا إِنَّهُمْ هُمُ الْكَاذِبُونَ",
+        "en_sahih": "English translation of [58:18] in Sahih International style.",
+        "en_yusufali": "English translation of [58:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 58 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [58:18] en español.",
+        "fr_hamidullah": "Traduction de [58:18] en français.",
+        "bn_hoque": "সূরা 58 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "58:19",
+      "surahNumber": 58,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "اسْتَحْوَذَ عَلَيْهِمُ الشَّيْطَانُ فَأَنْسَاهُمْ ذِكْرَ اللَّهِ ۚ أُولَٰئِكَ حِزْبُ الشَّيْطَانِ ۚ أَلَا إِنَّ حِزْبَ الشَّيْطَانِ هُمُ الْخَاسِرُونَ",
+        "en_sahih": "English translation of [58:19] in Sahih International style.",
+        "en_yusufali": "English translation of [58:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 58 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [58:19] en español.",
+        "fr_hamidullah": "Traduction de [58:19] en français.",
+        "bn_hoque": "সূরা 58 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "58:20",
+      "surahNumber": 58,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "إِنَّ الَّذِينَ يُحَادُّونَ اللَّهَ وَرَسُولَهُ أُولَٰئِكَ فِي الْأَذَلِّينَ",
+        "en_sahih": "English translation of [58:20] in Sahih International style.",
+        "en_yusufali": "English translation of [58:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 58 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [58:20] en español.",
+        "fr_hamidullah": "Traduction de [58:20] en français.",
+        "bn_hoque": "সূরা 58 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "58:21",
+      "surahNumber": 58,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "كَتَبَ اللَّهُ لَأَغْلِبَنَّ أَنَا وَرُسُلِي ۚ إِنَّ اللَّهَ قَوِيٌّ عَزِيزٌ",
+        "en_sahih": "English translation of [58:21] in Sahih International style.",
+        "en_yusufali": "English translation of [58:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 58 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [58:21] en español.",
+        "fr_hamidullah": "Traduction de [58:21] en français.",
+        "bn_hoque": "সূরা 58 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "58:22",
+      "surahNumber": 58,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "لَا تَجِدُ قَوْمًا يُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ يُوَادُّونَ مَنْ حَادَّ اللَّهَ وَرَسُولَهُ وَلَوْ كَانُوا آبَاءَهُمْ أَوْ أَبْنَاءَهُمْ أَوْ إِخْوَانَهُمْ أَوْ عَشِيرَتَهُمْ ۚ أُولَٰئِكَ كَتَبَ فِي قُلُوبِهِمُ الْإِيمَانَ وَأَيَّدَهُمْ بِرُوحٍ مِنْهُ ۖ وَيُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا ۚ رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ۚ أُولَٰئِكَ حِزْبُ اللَّهِ ۚ أَلَا إِنَّ حِزْبَ اللَّهِ هُمُ الْمُفْلِحُونَ",
+        "en_sahih": "English translation of [58:22] in Sahih International style.",
+        "en_yusufali": "English translation of [58:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 58 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [58:22] en español.",
+        "fr_hamidullah": "Traduction de [58:22] en français.",
+        "bn_hoque": "সূরা 58 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

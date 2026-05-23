@@ -1,0 +1,1569 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.974Z",
+  "surahNumber": 17,
+  "ayahCount": 111,
+  "ayahs": [
+    {
+      "id": "17:1",
+      "surahNumber": 17,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ لِنُرِيَهُ مِنْ آيَاتِنَا ۚ إِنَّهُ هُوَ السَّمِيعُ الْبَصِيرُ",
+        "en_sahih": "English translation of [17:1] in Sahih International style.",
+        "en_yusufali": "English translation of [17:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:1] en español.",
+        "fr_hamidullah": "Traduction de [17:1] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:2",
+      "surahNumber": 17,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "وَآتَيْنَا مُوسَى الْكِتَابَ وَجَعَلْنَاهُ هُدًى لِبَنِي إِسْرَائِيلَ أَلَّا تَتَّخِذُوا مِنْ دُونِي وَكِيلًا",
+        "en_sahih": "English translation of [17:2] in Sahih International style.",
+        "en_yusufali": "English translation of [17:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:2] en español.",
+        "fr_hamidullah": "Traduction de [17:2] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:3",
+      "surahNumber": 17,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "ذُرِّيَّةَ مَنْ حَمَلْنَا مَعَ نُوحٍ ۚ إِنَّهُ كَانَ عَبْدًا شَكُورًا",
+        "en_sahih": "English translation of [17:3] in Sahih International style.",
+        "en_yusufali": "English translation of [17:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:3] en español.",
+        "fr_hamidullah": "Traduction de [17:3] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:4",
+      "surahNumber": 17,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "وَقَضَيْنَا إِلَىٰ بَنِي إِسْرَائِيلَ فِي الْكِتَابِ لَتُفْسِدُنَّ فِي الْأَرْضِ مَرَّتَيْنِ وَلَتَعْلُنَّ عُلُوًّا كَبِيرًا",
+        "en_sahih": "English translation of [17:4] in Sahih International style.",
+        "en_yusufali": "English translation of [17:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:4] en español.",
+        "fr_hamidullah": "Traduction de [17:4] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:5",
+      "surahNumber": 17,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "فَإِذَا جَاءَ وَعْدُ أُولَاهُمَا بَعَثْنَا عَلَيْكُمْ عِبَادًا لَنَا أُولِي بَأْسٍ شَدِيدٍ فَجَاسُوا خِلَالَ الدِّيَارِ ۚ وَكَانَ وَعْدًا مَفْعُولًا",
+        "en_sahih": "English translation of [17:5] in Sahih International style.",
+        "en_yusufali": "English translation of [17:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:5] en español.",
+        "fr_hamidullah": "Traduction de [17:5] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:6",
+      "surahNumber": 17,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "ثُمَّ رَدَدْنَا لَكُمُ الْكَرَّةَ عَلَيْهِمْ وَأَمْدَدْنَاكُمْ بِأَمْوَالٍ وَبَنِينَ وَجَعَلْنَاكُمْ أَكْثَرَ نَفِيرًا",
+        "en_sahih": "English translation of [17:6] in Sahih International style.",
+        "en_yusufali": "English translation of [17:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:6] en español.",
+        "fr_hamidullah": "Traduction de [17:6] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:7",
+      "surahNumber": 17,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "إِنْ أَحْسَنْتُمْ أَحْسَنْتُمْ لِأَنْفُسِكُمْ ۖ وَإِنْ أَسَأْتُمْ فَلَهَا ۚ فَإِذَا جَاءَ وَعْدُ الْآخِرَةِ لِيَسُوءُوا وُجُوهَكُمْ وَلِيَدْخُلُوا الْمَسْجِدَ كَمَا دَخَلُوهُ أَوَّلَ مَرَّةٍ وَلِيُتَبِّرُوا مَا عَلَوْا تَتْبِيرًا",
+        "en_sahih": "English translation of [17:7] in Sahih International style.",
+        "en_yusufali": "English translation of [17:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:7] en español.",
+        "fr_hamidullah": "Traduction de [17:7] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:8",
+      "surahNumber": 17,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "عَسَىٰ رَبُّكُمْ أَنْ يَرْحَمَكُمْ ۚ وَإِنْ عُدْتُمْ عُدْنَا ۘ وَجَعَلْنَا جَهَنَّمَ لِلْكَافِرِينَ حَصِيرًا",
+        "en_sahih": "English translation of [17:8] in Sahih International style.",
+        "en_yusufali": "English translation of [17:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:8] en español.",
+        "fr_hamidullah": "Traduction de [17:8] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:9",
+      "surahNumber": 17,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "إِنَّ هَٰذَا الْقُرْآنَ يَهْدِي لِلَّتِي هِيَ أَقْوَمُ وَيُبَشِّرُ الْمُؤْمِنِينَ الَّذِينَ يَعْمَلُونَ الصَّالِحَاتِ أَنَّ لَهُمْ أَجْرًا كَبِيرًا",
+        "en_sahih": "English translation of [17:9] in Sahih International style.",
+        "en_yusufali": "English translation of [17:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:9] en español.",
+        "fr_hamidullah": "Traduction de [17:9] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:10",
+      "surahNumber": 17,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "وَأَنَّ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ أَعْتَدْنَا لَهُمْ عَذَابًا أَلِيمًا",
+        "en_sahih": "English translation of [17:10] in Sahih International style.",
+        "en_yusufali": "English translation of [17:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:10] en español.",
+        "fr_hamidullah": "Traduction de [17:10] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:11",
+      "surahNumber": 17,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "وَيَدْعُ الْإِنْسَانُ بِالشَّرِّ دُعَاءَهُ بِالْخَيْرِ ۖ وَكَانَ الْإِنْسَانُ عَجُولًا",
+        "en_sahih": "English translation of [17:11] in Sahih International style.",
+        "en_yusufali": "English translation of [17:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:11] en español.",
+        "fr_hamidullah": "Traduction de [17:11] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:12",
+      "surahNumber": 17,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "وَجَعَلْنَا اللَّيْلَ وَالنَّهَارَ آيَتَيْنِ ۖ فَمَحَوْنَا آيَةَ اللَّيْلِ وَجَعَلْنَا آيَةَ النَّهَارِ مُبْصِرَةً لِتَبْتَغُوا فَضْلًا مِنْ رَبِّكُمْ وَلِتَعْلَمُوا عَدَدَ السِّنِينَ وَالْحِسَابَ ۚ وَكُلَّ شَيْءٍ فَصَّلْنَاهُ تَفْصِيلًا",
+        "en_sahih": "English translation of [17:12] in Sahih International style.",
+        "en_yusufali": "English translation of [17:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:12] en español.",
+        "fr_hamidullah": "Traduction de [17:12] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:13",
+      "surahNumber": 17,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "وَكُلَّ إِنْسَانٍ أَلْزَمْنَاهُ طَائِرَهُ فِي عُنُقِهِ ۖ وَنُخْرِجُ لَهُ يَوْمَ الْقِيَامَةِ كِتَابًا يَلْقَاهُ مَنْشُورًا",
+        "en_sahih": "English translation of [17:13] in Sahih International style.",
+        "en_yusufali": "English translation of [17:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:13] en español.",
+        "fr_hamidullah": "Traduction de [17:13] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:14",
+      "surahNumber": 17,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "اقْرَأْ كِتَابَكَ كَفَىٰ بِنَفْسِكَ الْيَوْمَ عَلَيْكَ حَسِيبًا",
+        "en_sahih": "English translation of [17:14] in Sahih International style.",
+        "en_yusufali": "English translation of [17:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:14] en español.",
+        "fr_hamidullah": "Traduction de [17:14] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:15",
+      "surahNumber": 17,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "مَنِ اهْتَدَىٰ فَإِنَّمَا يَهْتَدِي لِنَفْسِهِ ۖ وَمَنْ ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا ۚ وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ۗ وَمَا كُنَّا مُعَذِّبِينَ حَتَّىٰ نَبْعَثَ رَسُولًا",
+        "en_sahih": "English translation of [17:15] in Sahih International style.",
+        "en_yusufali": "English translation of [17:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:15] en español.",
+        "fr_hamidullah": "Traduction de [17:15] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:16",
+      "surahNumber": 17,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "وَإِذَا أَرَدْنَا أَنْ نُهْلِكَ قَرْيَةً أَمَرْنَا مُتْرَفِيهَا فَفَسَقُوا فِيهَا فَحَقَّ عَلَيْهَا الْقَوْلُ فَدَمَّرْنَاهَا تَدْمِيرًا",
+        "en_sahih": "English translation of [17:16] in Sahih International style.",
+        "en_yusufali": "English translation of [17:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:16] en español.",
+        "fr_hamidullah": "Traduction de [17:16] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:17",
+      "surahNumber": 17,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "وَكَمْ أَهْلَكْنَا مِنَ الْقُرُونِ مِنْ بَعْدِ نُوحٍ ۗ وَكَفَىٰ بِرَبِّكَ بِذُنُوبِ عِبَادِهِ خَبِيرًا بَصِيرًا",
+        "en_sahih": "English translation of [17:17] in Sahih International style.",
+        "en_yusufali": "English translation of [17:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:17] en español.",
+        "fr_hamidullah": "Traduction de [17:17] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:18",
+      "surahNumber": 17,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "مَنْ كَانَ يُرِيدُ الْعَاجِلَةَ عَجَّلْنَا لَهُ فِيهَا مَا نَشَاءُ لِمَنْ نُرِيدُ ثُمَّ جَعَلْنَا لَهُ جَهَنَّمَ يَصْلَاهَا مَذْمُومًا مَدْحُورًا",
+        "en_sahih": "English translation of [17:18] in Sahih International style.",
+        "en_yusufali": "English translation of [17:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:18] en español.",
+        "fr_hamidullah": "Traduction de [17:18] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:19",
+      "surahNumber": 17,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "وَمَنْ أَرَادَ الْآخِرَةَ وَسَعَىٰ لَهَا سَعْيَهَا وَهُوَ مُؤْمِنٌ فَأُولَٰئِكَ كَانَ سَعْيُهُمْ مَشْكُورًا",
+        "en_sahih": "English translation of [17:19] in Sahih International style.",
+        "en_yusufali": "English translation of [17:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:19] en español.",
+        "fr_hamidullah": "Traduction de [17:19] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:20",
+      "surahNumber": 17,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "كُلًّا نُمِدُّ هَٰؤُلَاءِ وَهَٰؤُلَاءِ مِنْ عَطَاءِ رَبِّكَ ۚ وَمَا كَانَ عَطَاءُ رَبِّكَ مَحْظُورًا",
+        "en_sahih": "English translation of [17:20] in Sahih International style.",
+        "en_yusufali": "English translation of [17:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:20] en español.",
+        "fr_hamidullah": "Traduction de [17:20] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:21",
+      "surahNumber": 17,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "انْظُرْ كَيْفَ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ ۚ وَلَلْآخِرَةُ أَكْبَرُ دَرَجَاتٍ وَأَكْبَرُ تَفْضِيلًا",
+        "en_sahih": "English translation of [17:21] in Sahih International style.",
+        "en_yusufali": "English translation of [17:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:21] en español.",
+        "fr_hamidullah": "Traduction de [17:21] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:22",
+      "surahNumber": 17,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "لَا تَجْعَلْ مَعَ اللَّهِ إِلَٰهًا آخَرَ فَتَقْعُدَ مَذْمُومًا مَخْذُولًا",
+        "en_sahih": "English translation of [17:22] in Sahih International style.",
+        "en_yusufali": "English translation of [17:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:22] en español.",
+        "fr_hamidullah": "Traduction de [17:22] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:23",
+      "surahNumber": 17,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "۞ وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوا إِلَّا إِيَّاهُ وَبِالْوَالِدَيْنِ إِحْسَانًا ۚ إِمَّا يَبْلُغَنَّ عِنْدَكَ الْكِبَرَ أَحَدُهُمَا أَوْ كِلَاهُمَا فَلَا تَقُلْ لَهُمَا أُفٍّ وَلَا تَنْهَرْهُمَا وَقُلْ لَهُمَا قَوْلًا كَرِيمًا",
+        "en_sahih": "English translation of [17:23] in Sahih International style.",
+        "en_yusufali": "English translation of [17:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:23] en español.",
+        "fr_hamidullah": "Traduction de [17:23] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:24",
+      "surahNumber": 17,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "وَاخْفِضْ لَهُمَا جَنَاحَ الذُّلِّ مِنَ الرَّحْمَةِ وَقُلْ رَبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا",
+        "en_sahih": "English translation of [17:24] in Sahih International style.",
+        "en_yusufali": "English translation of [17:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:24] en español.",
+        "fr_hamidullah": "Traduction de [17:24] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:25",
+      "surahNumber": 17,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "رَبُّكُمْ أَعْلَمُ بِمَا فِي نُفُوسِكُمْ ۚ إِنْ تَكُونُوا صَالِحِينَ فَإِنَّهُ كَانَ لِلْأَوَّابِينَ غَفُورًا",
+        "en_sahih": "English translation of [17:25] in Sahih International style.",
+        "en_yusufali": "English translation of [17:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:25] en español.",
+        "fr_hamidullah": "Traduction de [17:25] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:26",
+      "surahNumber": 17,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "وَآتِ ذَا الْقُرْبَىٰ حَقَّهُ وَالْمِسْكِينَ وَابْنَ السَّبِيلِ وَلَا تُبَذِّرْ تَبْذِيرًا",
+        "en_sahih": "English translation of [17:26] in Sahih International style.",
+        "en_yusufali": "English translation of [17:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:26] en español.",
+        "fr_hamidullah": "Traduction de [17:26] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:27",
+      "surahNumber": 17,
+      "ayahNumber": 27,
+      "text": {
+        "simple": "إِنَّ الْمُبَذِّرِينَ كَانُوا إِخْوَانَ الشَّيَاطِينِ ۖ وَكَانَ الشَّيْطَانُ لِرَبِّهِ كَفُورًا",
+        "en_sahih": "English translation of [17:27] in Sahih International style.",
+        "en_yusufali": "English translation of [17:27] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:27] en español.",
+        "fr_hamidullah": "Traduction de [17:27] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:28",
+      "surahNumber": 17,
+      "ayahNumber": 28,
+      "text": {
+        "simple": "وَإِمَّا تُعْرِضَنَّ عَنْهُمُ ابْتِغَاءَ رَحْمَةٍ مِنْ رَبِّكَ تَرْجُوهَا فَقُلْ لَهُمْ قَوْلًا مَيْسُورًا",
+        "en_sahih": "English translation of [17:28] in Sahih International style.",
+        "en_yusufali": "English translation of [17:28] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:28] en español.",
+        "fr_hamidullah": "Traduction de [17:28] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:29",
+      "surahNumber": 17,
+      "ayahNumber": 29,
+      "text": {
+        "simple": "وَلَا تَجْعَلْ يَدَكَ مَغْلُولَةً إِلَىٰ عُنُقِكَ وَلَا تَبْسُطْهَا كُلَّ الْبَسْطِ فَتَقْعُدَ مَلُومًا مَحْسُورًا",
+        "en_sahih": "English translation of [17:29] in Sahih International style.",
+        "en_yusufali": "English translation of [17:29] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:29] en español.",
+        "fr_hamidullah": "Traduction de [17:29] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:30",
+      "surahNumber": 17,
+      "ayahNumber": 30,
+      "text": {
+        "simple": "إِنَّ رَبَّكَ يَبْسُطُ الرِّزْقَ لِمَنْ يَشَاءُ وَيَقْدِرُ ۚ إِنَّهُ كَانَ بِعِبَادِهِ خَبِيرًا بَصِيرًا",
+        "en_sahih": "English translation of [17:30] in Sahih International style.",
+        "en_yusufali": "English translation of [17:30] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:30] en español.",
+        "fr_hamidullah": "Traduction de [17:30] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:31",
+      "surahNumber": 17,
+      "ayahNumber": 31,
+      "text": {
+        "simple": "وَلَا تَقْتُلُوا أَوْلَادَكُمْ خَشْيَةَ إِمْلَاقٍ ۖ نَحْنُ نَرْزُقُهُمْ وَإِيَّاكُمْ ۚ إِنَّ قَتْلَهُمْ كَانَ خِطْئًا كَبِيرًا",
+        "en_sahih": "English translation of [17:31] in Sahih International style.",
+        "en_yusufali": "English translation of [17:31] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:31] en español.",
+        "fr_hamidullah": "Traduction de [17:31] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:32",
+      "surahNumber": 17,
+      "ayahNumber": 32,
+      "text": {
+        "simple": "وَلَا تَقْرَبُوا الزِّنَا ۖ إِنَّهُ كَانَ فَاحِشَةً وَسَاءَ سَبِيلًا",
+        "en_sahih": "English translation of [17:32] in Sahih International style.",
+        "en_yusufali": "English translation of [17:32] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:32] en español.",
+        "fr_hamidullah": "Traduction de [17:32] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:33",
+      "surahNumber": 17,
+      "ayahNumber": 33,
+      "text": {
+        "simple": "وَلَا تَقْتُلُوا النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ ۗ وَمَنْ قُتِلَ مَظْلُومًا فَقَدْ جَعَلْنَا لِوَلِيِّهِ سُلْطَانًا فَلَا يُسْرِفْ فِي الْقَتْلِ ۖ إِنَّهُ كَانَ مَنْصُورًا",
+        "en_sahih": "English translation of [17:33] in Sahih International style.",
+        "en_yusufali": "English translation of [17:33] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:33] en español.",
+        "fr_hamidullah": "Traduction de [17:33] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:34",
+      "surahNumber": 17,
+      "ayahNumber": 34,
+      "text": {
+        "simple": "وَلَا تَقْرَبُوا مَالَ الْيَتِيمِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُ ۚ وَأَوْفُوا بِالْعَهْدِ ۖ إِنَّ الْعَهْدَ كَانَ مَسْئُولًا",
+        "en_sahih": "English translation of [17:34] in Sahih International style.",
+        "en_yusufali": "English translation of [17:34] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:34] en español.",
+        "fr_hamidullah": "Traduction de [17:34] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:35",
+      "surahNumber": 17,
+      "ayahNumber": 35,
+      "text": {
+        "simple": "وَأَوْفُوا الْكَيْلَ إِذَا كِلْتُمْ وَزِنُوا بِالْقِسْطَاسِ الْمُسْتَقِيمِ ۚ ذَٰلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلًا",
+        "en_sahih": "English translation of [17:35] in Sahih International style.",
+        "en_yusufali": "English translation of [17:35] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:35] en español.",
+        "fr_hamidullah": "Traduction de [17:35] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:36",
+      "surahNumber": 17,
+      "ayahNumber": 36,
+      "text": {
+        "simple": "وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ ۚ إِنَّ السَّمْعَ وَالْبَصَرَ وَالْفُؤَادَ كُلُّ أُولَٰئِكَ كَانَ عَنْهُ مَسْئُولًا",
+        "en_sahih": "English translation of [17:36] in Sahih International style.",
+        "en_yusufali": "English translation of [17:36] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:36] en español.",
+        "fr_hamidullah": "Traduction de [17:36] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:37",
+      "surahNumber": 17,
+      "ayahNumber": 37,
+      "text": {
+        "simple": "وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا ۖ إِنَّكَ لَنْ تَخْرِقَ الْأَرْضَ وَلَنْ تَبْلُغَ الْجِبَالَ طُولًا",
+        "en_sahih": "English translation of [17:37] in Sahih International style.",
+        "en_yusufali": "English translation of [17:37] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:37] en español.",
+        "fr_hamidullah": "Traduction de [17:37] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:38",
+      "surahNumber": 17,
+      "ayahNumber": 38,
+      "text": {
+        "simple": "كُلُّ ذَٰلِكَ كَانَ سَيِّئُهُ عِنْدَ رَبِّكَ مَكْرُوهًا",
+        "en_sahih": "English translation of [17:38] in Sahih International style.",
+        "en_yusufali": "English translation of [17:38] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 38 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:38] en español.",
+        "fr_hamidullah": "Traduction de [17:38] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:39",
+      "surahNumber": 17,
+      "ayahNumber": 39,
+      "text": {
+        "simple": "ذَٰلِكَ مِمَّا أَوْحَىٰ إِلَيْكَ رَبُّكَ مِنَ الْحِكْمَةِ ۗ وَلَا تَجْعَلْ مَعَ اللَّهِ إِلَٰهًا آخَرَ فَتُلْقَىٰ فِي جَهَنَّمَ مَلُومًا مَدْحُورًا",
+        "en_sahih": "English translation of [17:39] in Sahih International style.",
+        "en_yusufali": "English translation of [17:39] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 39 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:39] en español.",
+        "fr_hamidullah": "Traduction de [17:39] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:40",
+      "surahNumber": 17,
+      "ayahNumber": 40,
+      "text": {
+        "simple": "أَفَأَصْفَاكُمْ رَبُّكُمْ بِالْبَنِينَ وَاتَّخَذَ مِنَ الْمَلَائِكَةِ إِنَاثًا ۚ إِنَّكُمْ لَتَقُولُونَ قَوْلًا عَظِيمًا",
+        "en_sahih": "English translation of [17:40] in Sahih International style.",
+        "en_yusufali": "English translation of [17:40] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 40 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:40] en español.",
+        "fr_hamidullah": "Traduction de [17:40] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:41",
+      "surahNumber": 17,
+      "ayahNumber": 41,
+      "text": {
+        "simple": "وَلَقَدْ صَرَّفْنَا فِي هَٰذَا الْقُرْآنِ لِيَذَّكَّرُوا وَمَا يَزِيدُهُمْ إِلَّا نُفُورًا",
+        "en_sahih": "English translation of [17:41] in Sahih International style.",
+        "en_yusufali": "English translation of [17:41] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 41 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:41] en español.",
+        "fr_hamidullah": "Traduction de [17:41] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:42",
+      "surahNumber": 17,
+      "ayahNumber": 42,
+      "text": {
+        "simple": "قُلْ لَوْ كَانَ مَعَهُ آلِهَةٌ كَمَا يَقُولُونَ إِذًا لَابْتَغَوْا إِلَىٰ ذِي الْعَرْشِ سَبِيلًا",
+        "en_sahih": "English translation of [17:42] in Sahih International style.",
+        "en_yusufali": "English translation of [17:42] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 42 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:42] en español.",
+        "fr_hamidullah": "Traduction de [17:42] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:43",
+      "surahNumber": 17,
+      "ayahNumber": 43,
+      "text": {
+        "simple": "سُبْحَانَهُ وَتَعَالَىٰ عَمَّا يَقُولُونَ عُلُوًّا كَبِيرًا",
+        "en_sahih": "English translation of [17:43] in Sahih International style.",
+        "en_yusufali": "English translation of [17:43] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 43 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:43] en español.",
+        "fr_hamidullah": "Traduction de [17:43] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:44",
+      "surahNumber": 17,
+      "ayahNumber": 44,
+      "text": {
+        "simple": "تُسَبِّحُ لَهُ السَّمَاوَاتُ السَّبْعُ وَالْأَرْضُ وَمَنْ فِيهِنَّ ۚ وَإِنْ مِنْ شَيْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِ وَلَٰكِنْ لَا تَفْقَهُونَ تَسْبِيحَهُمْ ۗ إِنَّهُ كَانَ حَلِيمًا غَفُورًا",
+        "en_sahih": "English translation of [17:44] in Sahih International style.",
+        "en_yusufali": "English translation of [17:44] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 44 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:44] en español.",
+        "fr_hamidullah": "Traduction de [17:44] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:45",
+      "surahNumber": 17,
+      "ayahNumber": 45,
+      "text": {
+        "simple": "وَإِذَا قَرَأْتَ الْقُرْآنَ جَعَلْنَا بَيْنَكَ وَبَيْنَ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ حِجَابًا مَسْتُورًا",
+        "en_sahih": "English translation of [17:45] in Sahih International style.",
+        "en_yusufali": "English translation of [17:45] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 45 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:45] en español.",
+        "fr_hamidullah": "Traduction de [17:45] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:46",
+      "surahNumber": 17,
+      "ayahNumber": 46,
+      "text": {
+        "simple": "وَجَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَنْ يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا ۚ وَإِذَا ذَكَرْتَ رَبَّكَ فِي الْقُرْآنِ وَحْدَهُ وَلَّوْا عَلَىٰ أَدْبَارِهِمْ نُفُورًا",
+        "en_sahih": "English translation of [17:46] in Sahih International style.",
+        "en_yusufali": "English translation of [17:46] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 46 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:46] en español.",
+        "fr_hamidullah": "Traduction de [17:46] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:47",
+      "surahNumber": 17,
+      "ayahNumber": 47,
+      "text": {
+        "simple": "نَحْنُ أَعْلَمُ بِمَا يَسْتَمِعُونَ بِهِ إِذْ يَسْتَمِعُونَ إِلَيْكَ وَإِذْ هُمْ نَجْوَىٰ إِذْ يَقُولُ الظَّالِمُونَ إِنْ تَتَّبِعُونَ إِلَّا رَجُلًا مَسْحُورًا",
+        "en_sahih": "English translation of [17:47] in Sahih International style.",
+        "en_yusufali": "English translation of [17:47] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 47 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:47] en español.",
+        "fr_hamidullah": "Traduction de [17:47] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:48",
+      "surahNumber": 17,
+      "ayahNumber": 48,
+      "text": {
+        "simple": "انْظُرْ كَيْفَ ضَرَبُوا لَكَ الْأَمْثَالَ فَضَلُّوا فَلَا يَسْتَطِيعُونَ سَبِيلًا",
+        "en_sahih": "English translation of [17:48] in Sahih International style.",
+        "en_yusufali": "English translation of [17:48] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 48 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:48] en español.",
+        "fr_hamidullah": "Traduction de [17:48] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:49",
+      "surahNumber": 17,
+      "ayahNumber": 49,
+      "text": {
+        "simple": "وَقَالُوا أَإِذَا كُنَّا عِظَامًا وَرُفَاتًا أَإِنَّا لَمَبْعُوثُونَ خَلْقًا جَدِيدًا",
+        "en_sahih": "English translation of [17:49] in Sahih International style.",
+        "en_yusufali": "English translation of [17:49] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 49 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:49] en español.",
+        "fr_hamidullah": "Traduction de [17:49] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:50",
+      "surahNumber": 17,
+      "ayahNumber": 50,
+      "text": {
+        "simple": "۞ قُلْ كُونُوا حِجَارَةً أَوْ حَدِيدًا",
+        "en_sahih": "English translation of [17:50] in Sahih International style.",
+        "en_yusufali": "English translation of [17:50] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 50 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:50] en español.",
+        "fr_hamidullah": "Traduction de [17:50] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:51",
+      "surahNumber": 17,
+      "ayahNumber": 51,
+      "text": {
+        "simple": "أَوْ خَلْقًا مِمَّا يَكْبُرُ فِي صُدُورِكُمْ ۚ فَسَيَقُولُونَ مَنْ يُعِيدُنَا ۖ قُلِ الَّذِي فَطَرَكُمْ أَوَّلَ مَرَّةٍ ۚ فَسَيُنْغِضُونَ إِلَيْكَ رُءُوسَهُمْ وَيَقُولُونَ مَتَىٰ هُوَ ۖ قُلْ عَسَىٰ أَنْ يَكُونَ قَرِيبًا",
+        "en_sahih": "English translation of [17:51] in Sahih International style.",
+        "en_yusufali": "English translation of [17:51] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 51 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:51] en español.",
+        "fr_hamidullah": "Traduction de [17:51] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:52",
+      "surahNumber": 17,
+      "ayahNumber": 52,
+      "text": {
+        "simple": "يَوْمَ يَدْعُوكُمْ فَتَسْتَجِيبُونَ بِحَمْدِهِ وَتَظُنُّونَ إِنْ لَبِثْتُمْ إِلَّا قَلِيلًا",
+        "en_sahih": "English translation of [17:52] in Sahih International style.",
+        "en_yusufali": "English translation of [17:52] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 52 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:52] en español.",
+        "fr_hamidullah": "Traduction de [17:52] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:53",
+      "surahNumber": 17,
+      "ayahNumber": 53,
+      "text": {
+        "simple": "وَقُلْ لِعِبَادِي يَقُولُوا الَّتِي هِيَ أَحْسَنُ ۚ إِنَّ الشَّيْطَانَ يَنْزَغُ بَيْنَهُمْ ۚ إِنَّ الشَّيْطَانَ كَانَ لِلْإِنْسَانِ عَدُوًّا مُبِينًا",
+        "en_sahih": "English translation of [17:53] in Sahih International style.",
+        "en_yusufali": "English translation of [17:53] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 53 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:53] en español.",
+        "fr_hamidullah": "Traduction de [17:53] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 53 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:54",
+      "surahNumber": 17,
+      "ayahNumber": 54,
+      "text": {
+        "simple": "رَبُّكُمْ أَعْلَمُ بِكُمْ ۖ إِنْ يَشَأْ يَرْحَمْكُمْ أَوْ إِنْ يَشَأْ يُعَذِّبْكُمْ ۚ وَمَا أَرْسَلْنَاكَ عَلَيْهِمْ وَكِيلًا",
+        "en_sahih": "English translation of [17:54] in Sahih International style.",
+        "en_yusufali": "English translation of [17:54] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 54 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:54] en español.",
+        "fr_hamidullah": "Traduction de [17:54] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 54 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:55",
+      "surahNumber": 17,
+      "ayahNumber": 55,
+      "text": {
+        "simple": "وَرَبُّكَ أَعْلَمُ بِمَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ ۗ وَلَقَدْ فَضَّلْنَا بَعْضَ النَّبِيِّينَ عَلَىٰ بَعْضٍ ۖ وَآتَيْنَا دَاوُودَ زَبُورًا",
+        "en_sahih": "English translation of [17:55] in Sahih International style.",
+        "en_yusufali": "English translation of [17:55] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 55 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:55] en español.",
+        "fr_hamidullah": "Traduction de [17:55] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 55 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:56",
+      "surahNumber": 17,
+      "ayahNumber": 56,
+      "text": {
+        "simple": "قُلِ ادْعُوا الَّذِينَ زَعَمْتُمْ مِنْ دُونِهِ فَلَا يَمْلِكُونَ كَشْفَ الضُّرِّ عَنْكُمْ وَلَا تَحْوِيلًا",
+        "en_sahih": "English translation of [17:56] in Sahih International style.",
+        "en_yusufali": "English translation of [17:56] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 56 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:56] en español.",
+        "fr_hamidullah": "Traduction de [17:56] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 56 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:57",
+      "surahNumber": 17,
+      "ayahNumber": 57,
+      "text": {
+        "simple": "أُولَٰئِكَ الَّذِينَ يَدْعُونَ يَبْتَغُونَ إِلَىٰ رَبِّهِمُ الْوَسِيلَةَ أَيُّهُمْ أَقْرَبُ وَيَرْجُونَ رَحْمَتَهُ وَيَخَافُونَ عَذَابَهُ ۚ إِنَّ عَذَابَ رَبِّكَ كَانَ مَحْذُورًا",
+        "en_sahih": "English translation of [17:57] in Sahih International style.",
+        "en_yusufali": "English translation of [17:57] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 57 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:57] en español.",
+        "fr_hamidullah": "Traduction de [17:57] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 57 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:58",
+      "surahNumber": 17,
+      "ayahNumber": 58,
+      "text": {
+        "simple": "وَإِنْ مِنْ قَرْيَةٍ إِلَّا نَحْنُ مُهْلِكُوهَا قَبْلَ يَوْمِ الْقِيَامَةِ أَوْ مُعَذِّبُوهَا عَذَابًا شَدِيدًا ۚ كَانَ ذَٰلِكَ فِي الْكِتَابِ مَسْطُورًا",
+        "en_sahih": "English translation of [17:58] in Sahih International style.",
+        "en_yusufali": "English translation of [17:58] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 58 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:58] en español.",
+        "fr_hamidullah": "Traduction de [17:58] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 58 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:59",
+      "surahNumber": 17,
+      "ayahNumber": 59,
+      "text": {
+        "simple": "وَمَا مَنَعَنَا أَنْ نُرْسِلَ بِالْآيَاتِ إِلَّا أَنْ كَذَّبَ بِهَا الْأَوَّلُونَ ۚ وَآتَيْنَا ثَمُودَ النَّاقَةَ مُبْصِرَةً فَظَلَمُوا بِهَا ۚ وَمَا نُرْسِلُ بِالْآيَاتِ إِلَّا تَخْوِيفًا",
+        "en_sahih": "English translation of [17:59] in Sahih International style.",
+        "en_yusufali": "English translation of [17:59] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 59 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:59] en español.",
+        "fr_hamidullah": "Traduction de [17:59] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 59 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:60",
+      "surahNumber": 17,
+      "ayahNumber": 60,
+      "text": {
+        "simple": "وَإِذْ قُلْنَا لَكَ إِنَّ رَبَّكَ أَحَاطَ بِالنَّاسِ ۚ وَمَا جَعَلْنَا الرُّؤْيَا الَّتِي أَرَيْنَاكَ إِلَّا فِتْنَةً لِلنَّاسِ وَالشَّجَرَةَ الْمَلْعُونَةَ فِي الْقُرْآنِ ۚ وَنُخَوِّفُهُمْ فَمَا يَزِيدُهُمْ إِلَّا طُغْيَانًا كَبِيرًا",
+        "en_sahih": "English translation of [17:60] in Sahih International style.",
+        "en_yusufali": "English translation of [17:60] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 60 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:60] en español.",
+        "fr_hamidullah": "Traduction de [17:60] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 60 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:61",
+      "surahNumber": 17,
+      "ayahNumber": 61,
+      "text": {
+        "simple": "وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ قَالَ أَأَسْجُدُ لِمَنْ خَلَقْتَ طِينًا",
+        "en_sahih": "English translation of [17:61] in Sahih International style.",
+        "en_yusufali": "English translation of [17:61] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 61 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:61] en español.",
+        "fr_hamidullah": "Traduction de [17:61] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 61 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:62",
+      "surahNumber": 17,
+      "ayahNumber": 62,
+      "text": {
+        "simple": "قَالَ أَرَأَيْتَكَ هَٰذَا الَّذِي كَرَّمْتَ عَلَيَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ الْقِيَامَةِ لَأَحْتَنِكَنَّ ذُرِّيَّتَهُ إِلَّا قَلِيلًا",
+        "en_sahih": "English translation of [17:62] in Sahih International style.",
+        "en_yusufali": "English translation of [17:62] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 62 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:62] en español.",
+        "fr_hamidullah": "Traduction de [17:62] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 62 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:63",
+      "surahNumber": 17,
+      "ayahNumber": 63,
+      "text": {
+        "simple": "قَالَ اذْهَبْ فَمَنْ تَبِعَكَ مِنْهُمْ فَإِنَّ جَهَنَّمَ جَزَاؤُكُمْ جَزَاءً مَوْفُورًا",
+        "en_sahih": "English translation of [17:63] in Sahih International style.",
+        "en_yusufali": "English translation of [17:63] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 63 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:63] en español.",
+        "fr_hamidullah": "Traduction de [17:63] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 63 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:64",
+      "surahNumber": 17,
+      "ayahNumber": 64,
+      "text": {
+        "simple": "وَاسْتَفْزِزْ مَنِ اسْتَطَعْتَ مِنْهُمْ بِصَوْتِكَ وَأَجْلِبْ عَلَيْهِمْ بِخَيْلِكَ وَرَجِلِكَ وَشَارِكْهُمْ فِي الْأَمْوَالِ وَالْأَوْلَادِ وَعِدْهُمْ ۚ وَمَا يَعِدُهُمُ الشَّيْطَانُ إِلَّا غُرُورًا",
+        "en_sahih": "English translation of [17:64] in Sahih International style.",
+        "en_yusufali": "English translation of [17:64] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 64 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:64] en español.",
+        "fr_hamidullah": "Traduction de [17:64] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 64 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:65",
+      "surahNumber": 17,
+      "ayahNumber": 65,
+      "text": {
+        "simple": "إِنَّ عِبَادِي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانٌ ۚ وَكَفَىٰ بِرَبِّكَ وَكِيلًا",
+        "en_sahih": "English translation of [17:65] in Sahih International style.",
+        "en_yusufali": "English translation of [17:65] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 65 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:65] en español.",
+        "fr_hamidullah": "Traduction de [17:65] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 65 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:66",
+      "surahNumber": 17,
+      "ayahNumber": 66,
+      "text": {
+        "simple": "رَبُّكُمُ الَّذِي يُزْجِي لَكُمُ الْفُلْكَ فِي الْبَحْرِ لِتَبْتَغُوا مِنْ فَضْلِهِ ۚ إِنَّهُ كَانَ بِكُمْ رَحِيمًا",
+        "en_sahih": "English translation of [17:66] in Sahih International style.",
+        "en_yusufali": "English translation of [17:66] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 66 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:66] en español.",
+        "fr_hamidullah": "Traduction de [17:66] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 66 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:67",
+      "surahNumber": 17,
+      "ayahNumber": 67,
+      "text": {
+        "simple": "وَإِذَا مَسَّكُمُ الضُّرُّ فِي الْبَحْرِ ضَلَّ مَنْ تَدْعُونَ إِلَّا إِيَّاهُ ۖ فَلَمَّا نَجَّاكُمْ إِلَى الْبَرِّ أَعْرَضْتُمْ ۚ وَكَانَ الْإِنْسَانُ كَفُورًا",
+        "en_sahih": "English translation of [17:67] in Sahih International style.",
+        "en_yusufali": "English translation of [17:67] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 67 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:67] en español.",
+        "fr_hamidullah": "Traduction de [17:67] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 67 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:68",
+      "surahNumber": 17,
+      "ayahNumber": 68,
+      "text": {
+        "simple": "أَفَأَمِنْتُمْ أَنْ يَخْسِفَ بِكُمْ جَانِبَ الْبَرِّ أَوْ يُرْسِلَ عَلَيْكُمْ حَاصِبًا ثُمَّ لَا تَجِدُوا لَكُمْ وَكِيلًا",
+        "en_sahih": "English translation of [17:68] in Sahih International style.",
+        "en_yusufali": "English translation of [17:68] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 68 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:68] en español.",
+        "fr_hamidullah": "Traduction de [17:68] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 68 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:69",
+      "surahNumber": 17,
+      "ayahNumber": 69,
+      "text": {
+        "simple": "أَمْ أَمِنْتُمْ أَنْ يُعِيدَكُمْ فِيهِ تَارَةً أُخْرَىٰ فَيُرْسِلَ عَلَيْكُمْ قَاصِفًا مِنَ الرِّيحِ فَيُغْرِقَكُمْ بِمَا كَفَرْتُمْ ۙ ثُمَّ لَا تَجِدُوا لَكُمْ عَلَيْنَا بِهِ تَبِيعًا",
+        "en_sahih": "English translation of [17:69] in Sahih International style.",
+        "en_yusufali": "English translation of [17:69] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 69 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:69] en español.",
+        "fr_hamidullah": "Traduction de [17:69] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 69 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:70",
+      "surahNumber": 17,
+      "ayahNumber": 70,
+      "text": {
+        "simple": "۞ وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ وَحَمَلْنَاهُمْ فِي الْبَرِّ وَالْبَحْرِ وَرَزَقْنَاهُمْ مِنَ الطَّيِّبَاتِ وَفَضَّلْنَاهُمْ عَلَىٰ كَثِيرٍ مِمَّنْ خَلَقْنَا تَفْضِيلًا",
+        "en_sahih": "English translation of [17:70] in Sahih International style.",
+        "en_yusufali": "English translation of [17:70] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 70 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:70] en español.",
+        "fr_hamidullah": "Traduction de [17:70] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 70 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:71",
+      "surahNumber": 17,
+      "ayahNumber": 71,
+      "text": {
+        "simple": "يَوْمَ نَدْعُو كُلَّ أُنَاسٍ بِإِمَامِهِمْ ۖ فَمَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ فَأُولَٰئِكَ يَقْرَءُونَ كِتَابَهُمْ وَلَا يُظْلَمُونَ فَتِيلًا",
+        "en_sahih": "English translation of [17:71] in Sahih International style.",
+        "en_yusufali": "English translation of [17:71] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 71 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:71] en español.",
+        "fr_hamidullah": "Traduction de [17:71] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 71 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:72",
+      "surahNumber": 17,
+      "ayahNumber": 72,
+      "text": {
+        "simple": "وَمَنْ كَانَ فِي هَٰذِهِ أَعْمَىٰ فَهُوَ فِي الْآخِرَةِ أَعْمَىٰ وَأَضَلُّ سَبِيلًا",
+        "en_sahih": "English translation of [17:72] in Sahih International style.",
+        "en_yusufali": "English translation of [17:72] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 72 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:72] en español.",
+        "fr_hamidullah": "Traduction de [17:72] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 72 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:73",
+      "surahNumber": 17,
+      "ayahNumber": 73,
+      "text": {
+        "simple": "وَإِنْ كَادُوا لَيَفْتِنُونَكَ عَنِ الَّذِي أَوْحَيْنَا إِلَيْكَ لِتَفْتَرِيَ عَلَيْنَا غَيْرَهُ ۖ وَإِذًا لَاتَّخَذُوكَ خَلِيلًا",
+        "en_sahih": "English translation of [17:73] in Sahih International style.",
+        "en_yusufali": "English translation of [17:73] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 73 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:73] en español.",
+        "fr_hamidullah": "Traduction de [17:73] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 73 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:74",
+      "surahNumber": 17,
+      "ayahNumber": 74,
+      "text": {
+        "simple": "وَلَوْلَا أَنْ ثَبَّتْنَاكَ لَقَدْ كِدْتَ تَرْكَنُ إِلَيْهِمْ شَيْئًا قَلِيلًا",
+        "en_sahih": "English translation of [17:74] in Sahih International style.",
+        "en_yusufali": "English translation of [17:74] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 74 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:74] en español.",
+        "fr_hamidullah": "Traduction de [17:74] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 74 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:75",
+      "surahNumber": 17,
+      "ayahNumber": 75,
+      "text": {
+        "simple": "إِذًا لَأَذَقْنَاكَ ضِعْفَ الْحَيَاةِ وَضِعْفَ الْمَمَاتِ ثُمَّ لَا تَجِدُ لَكَ عَلَيْنَا نَصِيرًا",
+        "en_sahih": "English translation of [17:75] in Sahih International style.",
+        "en_yusufali": "English translation of [17:75] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 75 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:75] en español.",
+        "fr_hamidullah": "Traduction de [17:75] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 75 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:76",
+      "surahNumber": 17,
+      "ayahNumber": 76,
+      "text": {
+        "simple": "وَإِنْ كَادُوا لَيَسْتَفِزُّونَكَ مِنَ الْأَرْضِ لِيُخْرِجُوكَ مِنْهَا ۖ وَإِذًا لَا يَلْبَثُونَ خِلَافَكَ إِلَّا قَلِيلًا",
+        "en_sahih": "English translation of [17:76] in Sahih International style.",
+        "en_yusufali": "English translation of [17:76] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 76 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:76] en español.",
+        "fr_hamidullah": "Traduction de [17:76] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 76 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:77",
+      "surahNumber": 17,
+      "ayahNumber": 77,
+      "text": {
+        "simple": "سُنَّةَ مَنْ قَدْ أَرْسَلْنَا قَبْلَكَ مِنْ رُسُلِنَا ۖ وَلَا تَجِدُ لِسُنَّتِنَا تَحْوِيلًا",
+        "en_sahih": "English translation of [17:77] in Sahih International style.",
+        "en_yusufali": "English translation of [17:77] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 77 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:77] en español.",
+        "fr_hamidullah": "Traduction de [17:77] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 77 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:78",
+      "surahNumber": 17,
+      "ayahNumber": 78,
+      "text": {
+        "simple": "أَقِمِ الصَّلَاةَ لِدُلُوكِ الشَّمْسِ إِلَىٰ غَسَقِ اللَّيْلِ وَقُرْآنَ الْفَجْرِ ۖ إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا",
+        "en_sahih": "English translation of [17:78] in Sahih International style.",
+        "en_yusufali": "English translation of [17:78] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 78 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:78] en español.",
+        "fr_hamidullah": "Traduction de [17:78] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 78 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:79",
+      "surahNumber": 17,
+      "ayahNumber": 79,
+      "text": {
+        "simple": "وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَكَ عَسَىٰ أَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُودًا",
+        "en_sahih": "English translation of [17:79] in Sahih International style.",
+        "en_yusufali": "English translation of [17:79] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 79 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:79] en español.",
+        "fr_hamidullah": "Traduction de [17:79] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 79 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:80",
+      "surahNumber": 17,
+      "ayahNumber": 80,
+      "text": {
+        "simple": "وَقُلْ رَبِّ أَدْخِلْنِي مُدْخَلَ صِدْقٍ وَأَخْرِجْنِي مُخْرَجَ صِدْقٍ وَاجْعَلْ لِي مِنْ لَدُنْكَ سُلْطَانًا نَصِيرًا",
+        "en_sahih": "English translation of [17:80] in Sahih International style.",
+        "en_yusufali": "English translation of [17:80] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 80 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:80] en español.",
+        "fr_hamidullah": "Traduction de [17:80] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 80 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:81",
+      "surahNumber": 17,
+      "ayahNumber": 81,
+      "text": {
+        "simple": "وَقُلْ جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ ۚ إِنَّ الْبَاطِلَ كَانَ زَهُوقًا",
+        "en_sahih": "English translation of [17:81] in Sahih International style.",
+        "en_yusufali": "English translation of [17:81] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 81 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:81] en español.",
+        "fr_hamidullah": "Traduction de [17:81] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 81 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:82",
+      "surahNumber": 17,
+      "ayahNumber": 82,
+      "text": {
+        "simple": "وَنُنَزِّلُ مِنَ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ لِلْمُؤْمِنِينَ ۙ وَلَا يَزِيدُ الظَّالِمِينَ إِلَّا خَسَارًا",
+        "en_sahih": "English translation of [17:82] in Sahih International style.",
+        "en_yusufali": "English translation of [17:82] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 82 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:82] en español.",
+        "fr_hamidullah": "Traduction de [17:82] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 82 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:83",
+      "surahNumber": 17,
+      "ayahNumber": 83,
+      "text": {
+        "simple": "وَإِذَا أَنْعَمْنَا عَلَى الْإِنْسَانِ أَعْرَضَ وَنَأَىٰ بِجَانِبِهِ ۖ وَإِذَا مَسَّهُ الشَّرُّ كَانَ يَئُوسًا",
+        "en_sahih": "English translation of [17:83] in Sahih International style.",
+        "en_yusufali": "English translation of [17:83] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 83 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:83] en español.",
+        "fr_hamidullah": "Traduction de [17:83] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 83 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:84",
+      "surahNumber": 17,
+      "ayahNumber": 84,
+      "text": {
+        "simple": "قُلْ كُلٌّ يَعْمَلُ عَلَىٰ شَاكِلَتِهِ فَرَبُّكُمْ أَعْلَمُ بِمَنْ هُوَ أَهْدَىٰ سَبِيلًا",
+        "en_sahih": "English translation of [17:84] in Sahih International style.",
+        "en_yusufali": "English translation of [17:84] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 84 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:84] en español.",
+        "fr_hamidullah": "Traduction de [17:84] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 84 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:85",
+      "surahNumber": 17,
+      "ayahNumber": 85,
+      "text": {
+        "simple": "وَيَسْأَلُونَكَ عَنِ الرُّوحِ ۖ قُلِ الرُّوحُ مِنْ أَمْرِ رَبِّي وَمَا أُوتِيتُمْ مِنَ الْعِلْمِ إِلَّا قَلِيلًا",
+        "en_sahih": "English translation of [17:85] in Sahih International style.",
+        "en_yusufali": "English translation of [17:85] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 85 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:85] en español.",
+        "fr_hamidullah": "Traduction de [17:85] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 85 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:86",
+      "surahNumber": 17,
+      "ayahNumber": 86,
+      "text": {
+        "simple": "وَلَئِنْ شِئْنَا لَنَذْهَبَنَّ بِالَّذِي أَوْحَيْنَا إِلَيْكَ ثُمَّ لَا تَجِدُ لَكَ بِهِ عَلَيْنَا وَكِيلًا",
+        "en_sahih": "English translation of [17:86] in Sahih International style.",
+        "en_yusufali": "English translation of [17:86] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 86 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:86] en español.",
+        "fr_hamidullah": "Traduction de [17:86] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 86 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:87",
+      "surahNumber": 17,
+      "ayahNumber": 87,
+      "text": {
+        "simple": "إِلَّا رَحْمَةً مِنْ رَبِّكَ ۚ إِنَّ فَضْلَهُ كَانَ عَلَيْكَ كَبِيرًا",
+        "en_sahih": "English translation of [17:87] in Sahih International style.",
+        "en_yusufali": "English translation of [17:87] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 87 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:87] en español.",
+        "fr_hamidullah": "Traduction de [17:87] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 87 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:88",
+      "surahNumber": 17,
+      "ayahNumber": 88,
+      "text": {
+        "simple": "قُلْ لَئِنِ اجْتَمَعَتِ الْإِنْسُ وَالْجِنُّ عَلَىٰ أَنْ يَأْتُوا بِمِثْلِ هَٰذَا الْقُرْآنِ لَا يَأْتُونَ بِمِثْلِهِ وَلَوْ كَانَ بَعْضُهُمْ لِبَعْضٍ ظَهِيرًا",
+        "en_sahih": "English translation of [17:88] in Sahih International style.",
+        "en_yusufali": "English translation of [17:88] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 88 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:88] en español.",
+        "fr_hamidullah": "Traduction de [17:88] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 88 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:89",
+      "surahNumber": 17,
+      "ayahNumber": 89,
+      "text": {
+        "simple": "وَلَقَدْ صَرَّفْنَا لِلنَّاسِ فِي هَٰذَا الْقُرْآنِ مِنْ كُلِّ مَثَلٍ فَأَبَىٰ أَكْثَرُ النَّاسِ إِلَّا كُفُورًا",
+        "en_sahih": "English translation of [17:89] in Sahih International style.",
+        "en_yusufali": "English translation of [17:89] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 89 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:89] en español.",
+        "fr_hamidullah": "Traduction de [17:89] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 89 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:90",
+      "surahNumber": 17,
+      "ayahNumber": 90,
+      "text": {
+        "simple": "وَقَالُوا لَنْ نُؤْمِنَ لَكَ حَتَّىٰ تَفْجُرَ لَنَا مِنَ الْأَرْضِ يَنْبُوعًا",
+        "en_sahih": "English translation of [17:90] in Sahih International style.",
+        "en_yusufali": "English translation of [17:90] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 90 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:90] en español.",
+        "fr_hamidullah": "Traduction de [17:90] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 90 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:91",
+      "surahNumber": 17,
+      "ayahNumber": 91,
+      "text": {
+        "simple": "أَوْ تَكُونَ لَكَ جَنَّةٌ مِنْ نَخِيلٍ وَعِنَبٍ فَتُفَجِّرَ الْأَنْهَارَ خِلَالَهَا تَفْجِيرًا",
+        "en_sahih": "English translation of [17:91] in Sahih International style.",
+        "en_yusufali": "English translation of [17:91] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 91 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:91] en español.",
+        "fr_hamidullah": "Traduction de [17:91] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 91 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:92",
+      "surahNumber": 17,
+      "ayahNumber": 92,
+      "text": {
+        "simple": "أَوْ تُسْقِطَ السَّمَاءَ كَمَا زَعَمْتَ عَلَيْنَا كِسَفًا أَوْ تَأْتِيَ بِاللَّهِ وَالْمَلَائِكَةِ قَبِيلًا",
+        "en_sahih": "English translation of [17:92] in Sahih International style.",
+        "en_yusufali": "English translation of [17:92] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 92 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:92] en español.",
+        "fr_hamidullah": "Traduction de [17:92] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 92 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:93",
+      "surahNumber": 17,
+      "ayahNumber": 93,
+      "text": {
+        "simple": "أَوْ يَكُونَ لَكَ بَيْتٌ مِنْ زُخْرُفٍ أَوْ تَرْقَىٰ فِي السَّمَاءِ وَلَنْ نُؤْمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيْنَا كِتَابًا نَقْرَؤُهُ ۗ قُلْ سُبْحَانَ رَبِّي هَلْ كُنْتُ إِلَّا بَشَرًا رَسُولًا",
+        "en_sahih": "English translation of [17:93] in Sahih International style.",
+        "en_yusufali": "English translation of [17:93] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 93 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:93] en español.",
+        "fr_hamidullah": "Traduction de [17:93] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 93 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:94",
+      "surahNumber": 17,
+      "ayahNumber": 94,
+      "text": {
+        "simple": "وَمَا مَنَعَ النَّاسَ أَنْ يُؤْمِنُوا إِذْ جَاءَهُمُ الْهُدَىٰ إِلَّا أَنْ قَالُوا أَبَعَثَ اللَّهُ بَشَرًا رَسُولًا",
+        "en_sahih": "English translation of [17:94] in Sahih International style.",
+        "en_yusufali": "English translation of [17:94] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 94 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:94] en español.",
+        "fr_hamidullah": "Traduction de [17:94] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 94 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:95",
+      "surahNumber": 17,
+      "ayahNumber": 95,
+      "text": {
+        "simple": "قُلْ لَوْ كَانَ فِي الْأَرْضِ مَلَائِكَةٌ يَمْشُونَ مُطْمَئِنِّينَ لَنَزَّلْنَا عَلَيْهِمْ مِنَ السَّمَاءِ مَلَكًا رَسُولًا",
+        "en_sahih": "English translation of [17:95] in Sahih International style.",
+        "en_yusufali": "English translation of [17:95] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 95 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:95] en español.",
+        "fr_hamidullah": "Traduction de [17:95] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 95 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:96",
+      "surahNumber": 17,
+      "ayahNumber": 96,
+      "text": {
+        "simple": "قُلْ كَفَىٰ بِاللَّهِ شَهِيدًا بَيْنِي وَبَيْنَكُمْ ۚ إِنَّهُ كَانَ بِعِبَادِهِ خَبِيرًا بَصِيرًا",
+        "en_sahih": "English translation of [17:96] in Sahih International style.",
+        "en_yusufali": "English translation of [17:96] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 96 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:96] en español.",
+        "fr_hamidullah": "Traduction de [17:96] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 96 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:97",
+      "surahNumber": 17,
+      "ayahNumber": 97,
+      "text": {
+        "simple": "وَمَنْ يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِ ۖ وَمَنْ يُضْلِلْ فَلَنْ تَجِدَ لَهُمْ أَوْلِيَاءَ مِنْ دُونِهِ ۖ وَنَحْشُرُهُمْ يَوْمَ الْقِيَامَةِ عَلَىٰ وُجُوهِهِمْ عُمْيًا وَبُكْمًا وَصُمًّا ۖ مَأْوَاهُمْ جَهَنَّمُ ۖ كُلَّمَا خَبَتْ زِدْنَاهُمْ سَعِيرًا",
+        "en_sahih": "English translation of [17:97] in Sahih International style.",
+        "en_yusufali": "English translation of [17:97] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 97 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:97] en español.",
+        "fr_hamidullah": "Traduction de [17:97] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 97 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:98",
+      "surahNumber": 17,
+      "ayahNumber": 98,
+      "text": {
+        "simple": "ذَٰلِكَ جَزَاؤُهُمْ بِأَنَّهُمْ كَفَرُوا بِآيَاتِنَا وَقَالُوا أَإِذَا كُنَّا عِظَامًا وَرُفَاتًا أَإِنَّا لَمَبْعُوثُونَ خَلْقًا جَدِيدًا",
+        "en_sahih": "English translation of [17:98] in Sahih International style.",
+        "en_yusufali": "English translation of [17:98] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 98 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:98] en español.",
+        "fr_hamidullah": "Traduction de [17:98] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 98 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:99",
+      "surahNumber": 17,
+      "ayahNumber": 99,
+      "text": {
+        "simple": "۞ أَوَلَمْ يَرَوْا أَنَّ اللَّهَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ قَادِرٌ عَلَىٰ أَنْ يَخْلُقَ مِثْلَهُمْ وَجَعَلَ لَهُمْ أَجَلًا لَا رَيْبَ فِيهِ فَأَبَى الظَّالِمُونَ إِلَّا كُفُورًا",
+        "en_sahih": "English translation of [17:99] in Sahih International style.",
+        "en_yusufali": "English translation of [17:99] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 99 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:99] en español.",
+        "fr_hamidullah": "Traduction de [17:99] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 99 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:100",
+      "surahNumber": 17,
+      "ayahNumber": 100,
+      "text": {
+        "simple": "قُلْ لَوْ أَنْتُمْ تَمْلِكُونَ خَزَائِنَ رَحْمَةِ رَبِّي إِذًا لَأَمْسَكْتُمْ خَشْيَةَ الْإِنْفَاقِ ۚ وَكَانَ الْإِنْسَانُ قَتُورًا",
+        "en_sahih": "English translation of [17:100] in Sahih International style.",
+        "en_yusufali": "English translation of [17:100] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 100 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:100] en español.",
+        "fr_hamidullah": "Traduction de [17:100] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 100 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:101",
+      "surahNumber": 17,
+      "ayahNumber": 101,
+      "text": {
+        "simple": "وَلَقَدْ آتَيْنَا مُوسَىٰ تِسْعَ آيَاتٍ بَيِّنَاتٍ ۖ فَاسْأَلْ بَنِي إِسْرَائِيلَ إِذْ جَاءَهُمْ فَقَالَ لَهُ فِرْعَوْنُ إِنِّي لَأَظُنُّكَ يَا مُوسَىٰ مَسْحُورًا",
+        "en_sahih": "English translation of [17:101] in Sahih International style.",
+        "en_yusufali": "English translation of [17:101] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 101 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:101] en español.",
+        "fr_hamidullah": "Traduction de [17:101] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 101 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:102",
+      "surahNumber": 17,
+      "ayahNumber": 102,
+      "text": {
+        "simple": "قَالَ لَقَدْ عَلِمْتَ مَا أَنْزَلَ هَٰؤُلَاءِ إِلَّا رَبُّ السَّمَاوَاتِ وَالْأَرْضِ بَصَائِرَ وَإِنِّي لَأَظُنُّكَ يَا فِرْعَوْنُ مَثْبُورًا",
+        "en_sahih": "English translation of [17:102] in Sahih International style.",
+        "en_yusufali": "English translation of [17:102] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 102 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:102] en español.",
+        "fr_hamidullah": "Traduction de [17:102] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 102 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:103",
+      "surahNumber": 17,
+      "ayahNumber": 103,
+      "text": {
+        "simple": "فَأَرَادَ أَنْ يَسْتَفِزَّهُمْ مِنَ الْأَرْضِ فَأَغْرَقْنَاهُ وَمَنْ مَعَهُ جَمِيعًا",
+        "en_sahih": "English translation of [17:103] in Sahih International style.",
+        "en_yusufali": "English translation of [17:103] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 103 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:103] en español.",
+        "fr_hamidullah": "Traduction de [17:103] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 103 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:104",
+      "surahNumber": 17,
+      "ayahNumber": 104,
+      "text": {
+        "simple": "وَقُلْنَا مِنْ بَعْدِهِ لِبَنِي إِسْرَائِيلَ اسْكُنُوا الْأَرْضَ فَإِذَا جَاءَ وَعْدُ الْآخِرَةِ جِئْنَا بِكُمْ لَفِيفًا",
+        "en_sahih": "English translation of [17:104] in Sahih International style.",
+        "en_yusufali": "English translation of [17:104] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 104 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:104] en español.",
+        "fr_hamidullah": "Traduction de [17:104] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 104 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:105",
+      "surahNumber": 17,
+      "ayahNumber": 105,
+      "text": {
+        "simple": "وَبِالْحَقِّ أَنْزَلْنَاهُ وَبِالْحَقِّ نَزَلَ ۗ وَمَا أَرْسَلْنَاكَ إِلَّا مُبَشِّرًا وَنَذِيرًا",
+        "en_sahih": "English translation of [17:105] in Sahih International style.",
+        "en_yusufali": "English translation of [17:105] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 105 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:105] en español.",
+        "fr_hamidullah": "Traduction de [17:105] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 105 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:106",
+      "surahNumber": 17,
+      "ayahNumber": 106,
+      "text": {
+        "simple": "وَقُرْآنًا فَرَقْنَاهُ لِتَقْرَأَهُ عَلَى النَّاسِ عَلَىٰ مُكْثٍ وَنَزَّلْنَاهُ تَنْزِيلًا",
+        "en_sahih": "English translation of [17:106] in Sahih International style.",
+        "en_yusufali": "English translation of [17:106] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 106 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:106] en español.",
+        "fr_hamidullah": "Traduction de [17:106] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 106 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:107",
+      "surahNumber": 17,
+      "ayahNumber": 107,
+      "text": {
+        "simple": "قُلْ آمِنُوا بِهِ أَوْ لَا تُؤْمِنُوا ۚ إِنَّ الَّذِينَ أُوتُوا الْعِلْمَ مِنْ قَبْلِهِ إِذَا يُتْلَىٰ عَلَيْهِمْ يَخِرُّونَ لِلْأَذْقَانِ سُجَّدًا",
+        "en_sahih": "English translation of [17:107] in Sahih International style.",
+        "en_yusufali": "English translation of [17:107] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 107 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:107] en español.",
+        "fr_hamidullah": "Traduction de [17:107] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 107 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:108",
+      "surahNumber": 17,
+      "ayahNumber": 108,
+      "text": {
+        "simple": "وَيَقُولُونَ سُبْحَانَ رَبِّنَا إِنْ كَانَ وَعْدُ رَبِّنَا لَمَفْعُولًا",
+        "en_sahih": "English translation of [17:108] in Sahih International style.",
+        "en_yusufali": "English translation of [17:108] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 108 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:108] en español.",
+        "fr_hamidullah": "Traduction de [17:108] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 108 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:109",
+      "surahNumber": 17,
+      "ayahNumber": 109,
+      "text": {
+        "simple": "وَيَخِرُّونَ لِلْأَذْقَانِ يَبْكُونَ وَيَزِيدُهُمْ خُشُوعًا ۩",
+        "en_sahih": "English translation of [17:109] in Sahih International style.",
+        "en_yusufali": "English translation of [17:109] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 109 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:109] en español.",
+        "fr_hamidullah": "Traduction de [17:109] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 109 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:110",
+      "surahNumber": 17,
+      "ayahNumber": 110,
+      "text": {
+        "simple": "قُلِ ادْعُوا اللَّهَ أَوِ ادْعُوا الرَّحْمَٰنَ ۖ أَيًّا مَا تَدْعُوا فَلَهُ الْأَسْمَاءُ الْحُسْنَىٰ ۚ وَلَا تَجْهَرْ بِصَلَاتِكَ وَلَا تُخَافِتْ بِهَا وَابْتَغِ بَيْنَ ذَٰلِكَ سَبِيلًا",
+        "en_sahih": "English translation of [17:110] in Sahih International style.",
+        "en_yusufali": "English translation of [17:110] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 110 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:110] en español.",
+        "fr_hamidullah": "Traduction de [17:110] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 110 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "17:111",
+      "surahNumber": 17,
+      "ayahNumber": 111,
+      "text": {
+        "simple": "وَقُلِ الْحَمْدُ لِلَّهِ الَّذِي لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُنْ لَهُ شَرِيكٌ فِي الْمُلْكِ وَلَمْ يَكُنْ لَهُ وَلِيٌّ مِنَ الذُّلِّ ۖ وَكَبِّرْهُ تَكْبِيرًا",
+        "en_sahih": "English translation of [17:111] in Sahih International style.",
+        "en_yusufali": "English translation of [17:111] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 17 آیت 111 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [17:111] en español.",
+        "fr_hamidullah": "Traduction de [17:111] en français.",
+        "bn_hoque": "সূরা 17 আয়াত 111 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

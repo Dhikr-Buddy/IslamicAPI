@@ -1,0 +1,575 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.997Z",
+  "surahNumber": 75,
+  "ayahCount": 40,
+  "ayahs": [
+    {
+      "id": "75:1",
+      "surahNumber": 75,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ لَا أُقْسِمُ بِيَوْمِ الْقِيَامَةِ",
+        "en_sahih": "English translation of [75:1] in Sahih International style.",
+        "en_yusufali": "English translation of [75:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:1] en español.",
+        "fr_hamidullah": "Traduction de [75:1] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:2",
+      "surahNumber": 75,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "وَلَا أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ",
+        "en_sahih": "English translation of [75:2] in Sahih International style.",
+        "en_yusufali": "English translation of [75:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:2] en español.",
+        "fr_hamidullah": "Traduction de [75:2] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:3",
+      "surahNumber": 75,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "أَيَحْسَبُ الْإِنْسَانُ أَلَّنْ نَجْمَعَ عِظَامَهُ",
+        "en_sahih": "English translation of [75:3] in Sahih International style.",
+        "en_yusufali": "English translation of [75:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:3] en español.",
+        "fr_hamidullah": "Traduction de [75:3] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:4",
+      "surahNumber": 75,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "بَلَىٰ قَادِرِينَ عَلَىٰ أَنْ نُسَوِّيَ بَنَانَهُ",
+        "en_sahih": "English translation of [75:4] in Sahih International style.",
+        "en_yusufali": "English translation of [75:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:4] en español.",
+        "fr_hamidullah": "Traduction de [75:4] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:5",
+      "surahNumber": 75,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "بَلْ يُرِيدُ الْإِنْسَانُ لِيَفْجُرَ أَمَامَهُ",
+        "en_sahih": "English translation of [75:5] in Sahih International style.",
+        "en_yusufali": "English translation of [75:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:5] en español.",
+        "fr_hamidullah": "Traduction de [75:5] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:6",
+      "surahNumber": 75,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "يَسْأَلُ أَيَّانَ يَوْمُ الْقِيَامَةِ",
+        "en_sahih": "English translation of [75:6] in Sahih International style.",
+        "en_yusufali": "English translation of [75:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:6] en español.",
+        "fr_hamidullah": "Traduction de [75:6] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:7",
+      "surahNumber": 75,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "فَإِذَا بَرِقَ الْبَصَرُ",
+        "en_sahih": "English translation of [75:7] in Sahih International style.",
+        "en_yusufali": "English translation of [75:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:7] en español.",
+        "fr_hamidullah": "Traduction de [75:7] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:8",
+      "surahNumber": 75,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "وَخَسَفَ الْقَمَرُ",
+        "en_sahih": "English translation of [75:8] in Sahih International style.",
+        "en_yusufali": "English translation of [75:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:8] en español.",
+        "fr_hamidullah": "Traduction de [75:8] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:9",
+      "surahNumber": 75,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "وَجُمِعَ الشَّمْسُ وَالْقَمَرُ",
+        "en_sahih": "English translation of [75:9] in Sahih International style.",
+        "en_yusufali": "English translation of [75:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:9] en español.",
+        "fr_hamidullah": "Traduction de [75:9] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:10",
+      "surahNumber": 75,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "يَقُولُ الْإِنْسَانُ يَوْمَئِذٍ أَيْنَ الْمَفَرُّ",
+        "en_sahih": "English translation of [75:10] in Sahih International style.",
+        "en_yusufali": "English translation of [75:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:10] en español.",
+        "fr_hamidullah": "Traduction de [75:10] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:11",
+      "surahNumber": 75,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "كَلَّا لَا وَزَرَ",
+        "en_sahih": "English translation of [75:11] in Sahih International style.",
+        "en_yusufali": "English translation of [75:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:11] en español.",
+        "fr_hamidullah": "Traduction de [75:11] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:12",
+      "surahNumber": 75,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ الْمُسْتَقَرُّ",
+        "en_sahih": "English translation of [75:12] in Sahih International style.",
+        "en_yusufali": "English translation of [75:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:12] en español.",
+        "fr_hamidullah": "Traduction de [75:12] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:13",
+      "surahNumber": 75,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "يُنَبَّأُ الْإِنْسَانُ يَوْمَئِذٍ بِمَا قَدَّمَ وَأَخَّرَ",
+        "en_sahih": "English translation of [75:13] in Sahih International style.",
+        "en_yusufali": "English translation of [75:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:13] en español.",
+        "fr_hamidullah": "Traduction de [75:13] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:14",
+      "surahNumber": 75,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "بَلِ الْإِنْسَانُ عَلَىٰ نَفْسِهِ بَصِيرَةٌ",
+        "en_sahih": "English translation of [75:14] in Sahih International style.",
+        "en_yusufali": "English translation of [75:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:14] en español.",
+        "fr_hamidullah": "Traduction de [75:14] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:15",
+      "surahNumber": 75,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "وَلَوْ أَلْقَىٰ مَعَاذِيرَهُ",
+        "en_sahih": "English translation of [75:15] in Sahih International style.",
+        "en_yusufali": "English translation of [75:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:15] en español.",
+        "fr_hamidullah": "Traduction de [75:15] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:16",
+      "surahNumber": 75,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "لَا تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ",
+        "en_sahih": "English translation of [75:16] in Sahih International style.",
+        "en_yusufali": "English translation of [75:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:16] en español.",
+        "fr_hamidullah": "Traduction de [75:16] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:17",
+      "surahNumber": 75,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْآنَهُ",
+        "en_sahih": "English translation of [75:17] in Sahih International style.",
+        "en_yusufali": "English translation of [75:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:17] en español.",
+        "fr_hamidullah": "Traduction de [75:17] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:18",
+      "surahNumber": 75,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "فَإِذَا قَرَأْنَاهُ فَاتَّبِعْ قُرْآنَهُ",
+        "en_sahih": "English translation of [75:18] in Sahih International style.",
+        "en_yusufali": "English translation of [75:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:18] en español.",
+        "fr_hamidullah": "Traduction de [75:18] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:19",
+      "surahNumber": 75,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُ",
+        "en_sahih": "English translation of [75:19] in Sahih International style.",
+        "en_yusufali": "English translation of [75:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:19] en español.",
+        "fr_hamidullah": "Traduction de [75:19] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:20",
+      "surahNumber": 75,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "كَلَّا بَلْ تُحِبُّونَ الْعَاجِلَةَ",
+        "en_sahih": "English translation of [75:20] in Sahih International style.",
+        "en_yusufali": "English translation of [75:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:20] en español.",
+        "fr_hamidullah": "Traduction de [75:20] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:21",
+      "surahNumber": 75,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "وَتَذَرُونَ الْآخِرَةَ",
+        "en_sahih": "English translation of [75:21] in Sahih International style.",
+        "en_yusufali": "English translation of [75:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:21] en español.",
+        "fr_hamidullah": "Traduction de [75:21] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:22",
+      "surahNumber": 75,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "وُجُوهٌ يَوْمَئِذٍ نَاضِرَةٌ",
+        "en_sahih": "English translation of [75:22] in Sahih International style.",
+        "en_yusufali": "English translation of [75:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:22] en español.",
+        "fr_hamidullah": "Traduction de [75:22] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:23",
+      "surahNumber": 75,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "إِلَىٰ رَبِّهَا نَاظِرَةٌ",
+        "en_sahih": "English translation of [75:23] in Sahih International style.",
+        "en_yusufali": "English translation of [75:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:23] en español.",
+        "fr_hamidullah": "Traduction de [75:23] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:24",
+      "surahNumber": 75,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "وَوُجُوهٌ يَوْمَئِذٍ بَاسِرَةٌ",
+        "en_sahih": "English translation of [75:24] in Sahih International style.",
+        "en_yusufali": "English translation of [75:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:24] en español.",
+        "fr_hamidullah": "Traduction de [75:24] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:25",
+      "surahNumber": 75,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "تَظُنُّ أَنْ يُفْعَلَ بِهَا فَاقِرَةٌ",
+        "en_sahih": "English translation of [75:25] in Sahih International style.",
+        "en_yusufali": "English translation of [75:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:25] en español.",
+        "fr_hamidullah": "Traduction de [75:25] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:26",
+      "surahNumber": 75,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "كَلَّا إِذَا بَلَغَتِ التَّرَاقِيَ",
+        "en_sahih": "English translation of [75:26] in Sahih International style.",
+        "en_yusufali": "English translation of [75:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:26] en español.",
+        "fr_hamidullah": "Traduction de [75:26] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:27",
+      "surahNumber": 75,
+      "ayahNumber": 27,
+      "text": {
+        "simple": "وَقِيلَ مَنْ ۜ رَاقٍ",
+        "en_sahih": "English translation of [75:27] in Sahih International style.",
+        "en_yusufali": "English translation of [75:27] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:27] en español.",
+        "fr_hamidullah": "Traduction de [75:27] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:28",
+      "surahNumber": 75,
+      "ayahNumber": 28,
+      "text": {
+        "simple": "وَظَنَّ أَنَّهُ الْفِرَاقُ",
+        "en_sahih": "English translation of [75:28] in Sahih International style.",
+        "en_yusufali": "English translation of [75:28] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:28] en español.",
+        "fr_hamidullah": "Traduction de [75:28] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:29",
+      "surahNumber": 75,
+      "ayahNumber": 29,
+      "text": {
+        "simple": "وَالْتَفَّتِ السَّاقُ بِالسَّاقِ",
+        "en_sahih": "English translation of [75:29] in Sahih International style.",
+        "en_yusufali": "English translation of [75:29] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:29] en español.",
+        "fr_hamidullah": "Traduction de [75:29] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:30",
+      "surahNumber": 75,
+      "ayahNumber": 30,
+      "text": {
+        "simple": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ الْمَسَاقُ",
+        "en_sahih": "English translation of [75:30] in Sahih International style.",
+        "en_yusufali": "English translation of [75:30] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:30] en español.",
+        "fr_hamidullah": "Traduction de [75:30] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:31",
+      "surahNumber": 75,
+      "ayahNumber": 31,
+      "text": {
+        "simple": "فَلَا صَدَّقَ وَلَا صَلَّىٰ",
+        "en_sahih": "English translation of [75:31] in Sahih International style.",
+        "en_yusufali": "English translation of [75:31] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:31] en español.",
+        "fr_hamidullah": "Traduction de [75:31] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:32",
+      "surahNumber": 75,
+      "ayahNumber": 32,
+      "text": {
+        "simple": "وَلَٰكِنْ كَذَّبَ وَتَوَلَّىٰ",
+        "en_sahih": "English translation of [75:32] in Sahih International style.",
+        "en_yusufali": "English translation of [75:32] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:32] en español.",
+        "fr_hamidullah": "Traduction de [75:32] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:33",
+      "surahNumber": 75,
+      "ayahNumber": 33,
+      "text": {
+        "simple": "ثُمَّ ذَهَبَ إِلَىٰ أَهْلِهِ يَتَمَطَّىٰ",
+        "en_sahih": "English translation of [75:33] in Sahih International style.",
+        "en_yusufali": "English translation of [75:33] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:33] en español.",
+        "fr_hamidullah": "Traduction de [75:33] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:34",
+      "surahNumber": 75,
+      "ayahNumber": 34,
+      "text": {
+        "simple": "أَوْلَىٰ لَكَ فَأَوْلَىٰ",
+        "en_sahih": "English translation of [75:34] in Sahih International style.",
+        "en_yusufali": "English translation of [75:34] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:34] en español.",
+        "fr_hamidullah": "Traduction de [75:34] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:35",
+      "surahNumber": 75,
+      "ayahNumber": 35,
+      "text": {
+        "simple": "ثُمَّ أَوْلَىٰ لَكَ فَأَوْلَىٰ",
+        "en_sahih": "English translation of [75:35] in Sahih International style.",
+        "en_yusufali": "English translation of [75:35] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:35] en español.",
+        "fr_hamidullah": "Traduction de [75:35] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:36",
+      "surahNumber": 75,
+      "ayahNumber": 36,
+      "text": {
+        "simple": "أَيَحْسَبُ الْإِنْسَانُ أَنْ يُتْرَكَ سُدًى",
+        "en_sahih": "English translation of [75:36] in Sahih International style.",
+        "en_yusufali": "English translation of [75:36] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:36] en español.",
+        "fr_hamidullah": "Traduction de [75:36] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:37",
+      "surahNumber": 75,
+      "ayahNumber": 37,
+      "text": {
+        "simple": "أَلَمْ يَكُ نُطْفَةً مِنْ مَنِيٍّ يُمْنَىٰ",
+        "en_sahih": "English translation of [75:37] in Sahih International style.",
+        "en_yusufali": "English translation of [75:37] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:37] en español.",
+        "fr_hamidullah": "Traduction de [75:37] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:38",
+      "surahNumber": 75,
+      "ayahNumber": 38,
+      "text": {
+        "simple": "ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوَّىٰ",
+        "en_sahih": "English translation of [75:38] in Sahih International style.",
+        "en_yusufali": "English translation of [75:38] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 38 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:38] en español.",
+        "fr_hamidullah": "Traduction de [75:38] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:39",
+      "surahNumber": 75,
+      "ayahNumber": 39,
+      "text": {
+        "simple": "فَجَعَلَ مِنْهُ الزَّوْجَيْنِ الذَّكَرَ وَالْأُنْثَىٰ",
+        "en_sahih": "English translation of [75:39] in Sahih International style.",
+        "en_yusufali": "English translation of [75:39] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 39 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:39] en español.",
+        "fr_hamidullah": "Traduction de [75:39] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "75:40",
+      "surahNumber": 75,
+      "ayahNumber": 40,
+      "text": {
+        "simple": "أَلَيْسَ ذَٰلِكَ بِقَادِرٍ عَلَىٰ أَنْ يُحْيِيَ الْمَوْتَىٰ",
+        "en_sahih": "English translation of [75:40] in Sahih International style.",
+        "en_yusufali": "English translation of [75:40] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 75 آیت 40 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [75:40] en español.",
+        "fr_hamidullah": "Traduction de [75:40] en français.",
+        "bn_hoque": "সূরা 75 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

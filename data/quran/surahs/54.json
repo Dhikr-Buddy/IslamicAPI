@@ -1,0 +1,785 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.991Z",
+  "surahNumber": 54,
+  "ayahCount": 55,
+  "ayahs": [
+    {
+      "id": "54:1",
+      "surahNumber": 54,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ اقْتَرَبَتِ السَّاعَةُ وَانْشَقَّ الْقَمَرُ",
+        "en_sahih": "English translation of [54:1] in Sahih International style.",
+        "en_yusufali": "English translation of [54:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:1] en español.",
+        "fr_hamidullah": "Traduction de [54:1] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:2",
+      "surahNumber": 54,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "وَإِنْ يَرَوْا آيَةً يُعْرِضُوا وَيَقُولُوا سِحْرٌ مُسْتَمِرٌّ",
+        "en_sahih": "English translation of [54:2] in Sahih International style.",
+        "en_yusufali": "English translation of [54:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:2] en español.",
+        "fr_hamidullah": "Traduction de [54:2] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:3",
+      "surahNumber": 54,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "وَكَذَّبُوا وَاتَّبَعُوا أَهْوَاءَهُمْ ۚ وَكُلُّ أَمْرٍ مُسْتَقِرٌّ",
+        "en_sahih": "English translation of [54:3] in Sahih International style.",
+        "en_yusufali": "English translation of [54:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:3] en español.",
+        "fr_hamidullah": "Traduction de [54:3] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:4",
+      "surahNumber": 54,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "وَلَقَدْ جَاءَهُمْ مِنَ الْأَنْبَاءِ مَا فِيهِ مُزْدَجَرٌ",
+        "en_sahih": "English translation of [54:4] in Sahih International style.",
+        "en_yusufali": "English translation of [54:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:4] en español.",
+        "fr_hamidullah": "Traduction de [54:4] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:5",
+      "surahNumber": 54,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "حِكْمَةٌ بَالِغَةٌ ۖ فَمَا تُغْنِ النُّذُرُ",
+        "en_sahih": "English translation of [54:5] in Sahih International style.",
+        "en_yusufali": "English translation of [54:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:5] en español.",
+        "fr_hamidullah": "Traduction de [54:5] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:6",
+      "surahNumber": 54,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "فَتَوَلَّ عَنْهُمْ ۘ يَوْمَ يَدْعُ الدَّاعِ إِلَىٰ شَيْءٍ نُكُرٍ",
+        "en_sahih": "English translation of [54:6] in Sahih International style.",
+        "en_yusufali": "English translation of [54:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:6] en español.",
+        "fr_hamidullah": "Traduction de [54:6] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:7",
+      "surahNumber": 54,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "خُشَّعًا أَبْصَارُهُمْ يَخْرُجُونَ مِنَ الْأَجْدَاثِ كَأَنَّهُمْ جَرَادٌ مُنْتَشِرٌ",
+        "en_sahih": "English translation of [54:7] in Sahih International style.",
+        "en_yusufali": "English translation of [54:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:7] en español.",
+        "fr_hamidullah": "Traduction de [54:7] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:8",
+      "surahNumber": 54,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "مُهْطِعِينَ إِلَى الدَّاعِ ۖ يَقُولُ الْكَافِرُونَ هَٰذَا يَوْمٌ عَسِرٌ",
+        "en_sahih": "English translation of [54:8] in Sahih International style.",
+        "en_yusufali": "English translation of [54:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:8] en español.",
+        "fr_hamidullah": "Traduction de [54:8] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:9",
+      "surahNumber": 54,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "۞ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ فَكَذَّبُوا عَبْدَنَا وَقَالُوا مَجْنُونٌ وَازْدُجِرَ",
+        "en_sahih": "English translation of [54:9] in Sahih International style.",
+        "en_yusufali": "English translation of [54:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:9] en español.",
+        "fr_hamidullah": "Traduction de [54:9] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:10",
+      "surahNumber": 54,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "فَدَعَا رَبَّهُ أَنِّي مَغْلُوبٌ فَانْتَصِرْ",
+        "en_sahih": "English translation of [54:10] in Sahih International style.",
+        "en_yusufali": "English translation of [54:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:10] en español.",
+        "fr_hamidullah": "Traduction de [54:10] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:11",
+      "surahNumber": 54,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "فَفَتَحْنَا أَبْوَابَ السَّمَاءِ بِمَاءٍ مُنْهَمِرٍ",
+        "en_sahih": "English translation of [54:11] in Sahih International style.",
+        "en_yusufali": "English translation of [54:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:11] en español.",
+        "fr_hamidullah": "Traduction de [54:11] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:12",
+      "surahNumber": 54,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "وَفَجَّرْنَا الْأَرْضَ عُيُونًا فَالْتَقَى الْمَاءُ عَلَىٰ أَمْرٍ قَدْ قُدِرَ",
+        "en_sahih": "English translation of [54:12] in Sahih International style.",
+        "en_yusufali": "English translation of [54:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:12] en español.",
+        "fr_hamidullah": "Traduction de [54:12] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:13",
+      "surahNumber": 54,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "وَحَمَلْنَاهُ عَلَىٰ ذَاتِ أَلْوَاحٍ وَدُسُرٍ",
+        "en_sahih": "English translation of [54:13] in Sahih International style.",
+        "en_yusufali": "English translation of [54:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:13] en español.",
+        "fr_hamidullah": "Traduction de [54:13] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:14",
+      "surahNumber": 54,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "تَجْرِي بِأَعْيُنِنَا جَزَاءً لِمَنْ كَانَ كُفِرَ",
+        "en_sahih": "English translation of [54:14] in Sahih International style.",
+        "en_yusufali": "English translation of [54:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:14] en español.",
+        "fr_hamidullah": "Traduction de [54:14] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:15",
+      "surahNumber": 54,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "وَلَقَدْ تَرَكْنَاهَا آيَةً فَهَلْ مِنْ مُدَّكِرٍ",
+        "en_sahih": "English translation of [54:15] in Sahih International style.",
+        "en_yusufali": "English translation of [54:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:15] en español.",
+        "fr_hamidullah": "Traduction de [54:15] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:16",
+      "surahNumber": 54,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "فَكَيْفَ كَانَ عَذَابِي وَنُذُرِ",
+        "en_sahih": "English translation of [54:16] in Sahih International style.",
+        "en_yusufali": "English translation of [54:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:16] en español.",
+        "fr_hamidullah": "Traduction de [54:16] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:17",
+      "surahNumber": 54,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِنْ مُدَّكِرٍ",
+        "en_sahih": "English translation of [54:17] in Sahih International style.",
+        "en_yusufali": "English translation of [54:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:17] en español.",
+        "fr_hamidullah": "Traduction de [54:17] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:18",
+      "surahNumber": 54,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "كَذَّبَتْ عَادٌ فَكَيْفَ كَانَ عَذَابِي وَنُذُرِ",
+        "en_sahih": "English translation of [54:18] in Sahih International style.",
+        "en_yusufali": "English translation of [54:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:18] en español.",
+        "fr_hamidullah": "Traduction de [54:18] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:19",
+      "surahNumber": 54,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "إِنَّا أَرْسَلْنَا عَلَيْهِمْ رِيحًا صَرْصَرًا فِي يَوْمِ نَحْسٍ مُسْتَمِرٍّ",
+        "en_sahih": "English translation of [54:19] in Sahih International style.",
+        "en_yusufali": "English translation of [54:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:19] en español.",
+        "fr_hamidullah": "Traduction de [54:19] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:20",
+      "surahNumber": 54,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "تَنْزِعُ النَّاسَ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ مُنْقَعِرٍ",
+        "en_sahih": "English translation of [54:20] in Sahih International style.",
+        "en_yusufali": "English translation of [54:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:20] en español.",
+        "fr_hamidullah": "Traduction de [54:20] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:21",
+      "surahNumber": 54,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "فَكَيْفَ كَانَ عَذَابِي وَنُذُرِ",
+        "en_sahih": "English translation of [54:21] in Sahih International style.",
+        "en_yusufali": "English translation of [54:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:21] en español.",
+        "fr_hamidullah": "Traduction de [54:21] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:22",
+      "surahNumber": 54,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِنْ مُدَّكِرٍ",
+        "en_sahih": "English translation of [54:22] in Sahih International style.",
+        "en_yusufali": "English translation of [54:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:22] en español.",
+        "fr_hamidullah": "Traduction de [54:22] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:23",
+      "surahNumber": 54,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "كَذَّبَتْ ثَمُودُ بِالنُّذُرِ",
+        "en_sahih": "English translation of [54:23] in Sahih International style.",
+        "en_yusufali": "English translation of [54:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:23] en español.",
+        "fr_hamidullah": "Traduction de [54:23] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:24",
+      "surahNumber": 54,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "فَقَالُوا أَبَشَرًا مِنَّا وَاحِدًا نَتَّبِعُهُ إِنَّا إِذًا لَفِي ضَلَالٍ وَسُعُرٍ",
+        "en_sahih": "English translation of [54:24] in Sahih International style.",
+        "en_yusufali": "English translation of [54:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:24] en español.",
+        "fr_hamidullah": "Traduction de [54:24] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:25",
+      "surahNumber": 54,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "أَأُلْقِيَ الذِّكْرُ عَلَيْهِ مِنْ بَيْنِنَا بَلْ هُوَ كَذَّابٌ أَشِرٌ",
+        "en_sahih": "English translation of [54:25] in Sahih International style.",
+        "en_yusufali": "English translation of [54:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:25] en español.",
+        "fr_hamidullah": "Traduction de [54:25] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:26",
+      "surahNumber": 54,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "سَيَعْلَمُونَ غَدًا مَنِ الْكَذَّابُ الْأَشِرُ",
+        "en_sahih": "English translation of [54:26] in Sahih International style.",
+        "en_yusufali": "English translation of [54:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:26] en español.",
+        "fr_hamidullah": "Traduction de [54:26] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:27",
+      "surahNumber": 54,
+      "ayahNumber": 27,
+      "text": {
+        "simple": "إِنَّا مُرْسِلُو النَّاقَةِ فِتْنَةً لَهُمْ فَارْتَقِبْهُمْ وَاصْطَبِرْ",
+        "en_sahih": "English translation of [54:27] in Sahih International style.",
+        "en_yusufali": "English translation of [54:27] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:27] en español.",
+        "fr_hamidullah": "Traduction de [54:27] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:28",
+      "surahNumber": 54,
+      "ayahNumber": 28,
+      "text": {
+        "simple": "وَنَبِّئْهُمْ أَنَّ الْمَاءَ قِسْمَةٌ بَيْنَهُمْ ۖ كُلُّ شِرْبٍ مُحْتَضَرٌ",
+        "en_sahih": "English translation of [54:28] in Sahih International style.",
+        "en_yusufali": "English translation of [54:28] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:28] en español.",
+        "fr_hamidullah": "Traduction de [54:28] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:29",
+      "surahNumber": 54,
+      "ayahNumber": 29,
+      "text": {
+        "simple": "فَنَادَوْا صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+        "en_sahih": "English translation of [54:29] in Sahih International style.",
+        "en_yusufali": "English translation of [54:29] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:29] en español.",
+        "fr_hamidullah": "Traduction de [54:29] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:30",
+      "surahNumber": 54,
+      "ayahNumber": 30,
+      "text": {
+        "simple": "فَكَيْفَ كَانَ عَذَابِي وَنُذُرِ",
+        "en_sahih": "English translation of [54:30] in Sahih International style.",
+        "en_yusufali": "English translation of [54:30] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:30] en español.",
+        "fr_hamidullah": "Traduction de [54:30] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:31",
+      "surahNumber": 54,
+      "ayahNumber": 31,
+      "text": {
+        "simple": "إِنَّا أَرْسَلْنَا عَلَيْهِمْ صَيْحَةً وَاحِدَةً فَكَانُوا كَهَشِيمِ الْمُحْتَظِرِ",
+        "en_sahih": "English translation of [54:31] in Sahih International style.",
+        "en_yusufali": "English translation of [54:31] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:31] en español.",
+        "fr_hamidullah": "Traduction de [54:31] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:32",
+      "surahNumber": 54,
+      "ayahNumber": 32,
+      "text": {
+        "simple": "وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِنْ مُدَّكِرٍ",
+        "en_sahih": "English translation of [54:32] in Sahih International style.",
+        "en_yusufali": "English translation of [54:32] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:32] en español.",
+        "fr_hamidullah": "Traduction de [54:32] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:33",
+      "surahNumber": 54,
+      "ayahNumber": 33,
+      "text": {
+        "simple": "كَذَّبَتْ قَوْمُ لُوطٍ بِالنُّذُرِ",
+        "en_sahih": "English translation of [54:33] in Sahih International style.",
+        "en_yusufali": "English translation of [54:33] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:33] en español.",
+        "fr_hamidullah": "Traduction de [54:33] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:34",
+      "surahNumber": 54,
+      "ayahNumber": 34,
+      "text": {
+        "simple": "إِنَّا أَرْسَلْنَا عَلَيْهِمْ حَاصِبًا إِلَّا آلَ لُوطٍ ۖ نَجَّيْنَاهُمْ بِسَحَرٍ",
+        "en_sahih": "English translation of [54:34] in Sahih International style.",
+        "en_yusufali": "English translation of [54:34] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:34] en español.",
+        "fr_hamidullah": "Traduction de [54:34] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:35",
+      "surahNumber": 54,
+      "ayahNumber": 35,
+      "text": {
+        "simple": "نِعْمَةً مِنْ عِنْدِنَا ۚ كَذَٰلِكَ نَجْزِي مَنْ شَكَرَ",
+        "en_sahih": "English translation of [54:35] in Sahih International style.",
+        "en_yusufali": "English translation of [54:35] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:35] en español.",
+        "fr_hamidullah": "Traduction de [54:35] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:36",
+      "surahNumber": 54,
+      "ayahNumber": 36,
+      "text": {
+        "simple": "وَلَقَدْ أَنْذَرَهُمْ بَطْشَتَنَا فَتَمَارَوْا بِالنُّذُرِ",
+        "en_sahih": "English translation of [54:36] in Sahih International style.",
+        "en_yusufali": "English translation of [54:36] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:36] en español.",
+        "fr_hamidullah": "Traduction de [54:36] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:37",
+      "surahNumber": 54,
+      "ayahNumber": 37,
+      "text": {
+        "simple": "وَلَقَدْ رَاوَدُوهُ عَنْ ضَيْفِهِ فَطَمَسْنَا أَعْيُنَهُمْ فَذُوقُوا عَذَابِي وَنُذُرِ",
+        "en_sahih": "English translation of [54:37] in Sahih International style.",
+        "en_yusufali": "English translation of [54:37] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:37] en español.",
+        "fr_hamidullah": "Traduction de [54:37] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:38",
+      "surahNumber": 54,
+      "ayahNumber": 38,
+      "text": {
+        "simple": "وَلَقَدْ صَبَّحَهُمْ بُكْرَةً عَذَابٌ مُسْتَقِرٌّ",
+        "en_sahih": "English translation of [54:38] in Sahih International style.",
+        "en_yusufali": "English translation of [54:38] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 38 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:38] en español.",
+        "fr_hamidullah": "Traduction de [54:38] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:39",
+      "surahNumber": 54,
+      "ayahNumber": 39,
+      "text": {
+        "simple": "فَذُوقُوا عَذَابِي وَنُذُرِ",
+        "en_sahih": "English translation of [54:39] in Sahih International style.",
+        "en_yusufali": "English translation of [54:39] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 39 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:39] en español.",
+        "fr_hamidullah": "Traduction de [54:39] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:40",
+      "surahNumber": 54,
+      "ayahNumber": 40,
+      "text": {
+        "simple": "وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِنْ مُدَّكِرٍ",
+        "en_sahih": "English translation of [54:40] in Sahih International style.",
+        "en_yusufali": "English translation of [54:40] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 40 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:40] en español.",
+        "fr_hamidullah": "Traduction de [54:40] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:41",
+      "surahNumber": 54,
+      "ayahNumber": 41,
+      "text": {
+        "simple": "وَلَقَدْ جَاءَ آلَ فِرْعَوْنَ النُّذُرُ",
+        "en_sahih": "English translation of [54:41] in Sahih International style.",
+        "en_yusufali": "English translation of [54:41] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 41 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:41] en español.",
+        "fr_hamidullah": "Traduction de [54:41] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:42",
+      "surahNumber": 54,
+      "ayahNumber": 42,
+      "text": {
+        "simple": "كَذَّبُوا بِآيَاتِنَا كُلِّهَا فَأَخَذْنَاهُمْ أَخْذَ عَزِيزٍ مُقْتَدِرٍ",
+        "en_sahih": "English translation of [54:42] in Sahih International style.",
+        "en_yusufali": "English translation of [54:42] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 42 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:42] en español.",
+        "fr_hamidullah": "Traduction de [54:42] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:43",
+      "surahNumber": 54,
+      "ayahNumber": 43,
+      "text": {
+        "simple": "أَكُفَّارُكُمْ خَيْرٌ مِنْ أُولَٰئِكُمْ أَمْ لَكُمْ بَرَاءَةٌ فِي الزُّبُرِ",
+        "en_sahih": "English translation of [54:43] in Sahih International style.",
+        "en_yusufali": "English translation of [54:43] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 43 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:43] en español.",
+        "fr_hamidullah": "Traduction de [54:43] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:44",
+      "surahNumber": 54,
+      "ayahNumber": 44,
+      "text": {
+        "simple": "أَمْ يَقُولُونَ نَحْنُ جَمِيعٌ مُنْتَصِرٌ",
+        "en_sahih": "English translation of [54:44] in Sahih International style.",
+        "en_yusufali": "English translation of [54:44] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 44 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:44] en español.",
+        "fr_hamidullah": "Traduction de [54:44] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:45",
+      "surahNumber": 54,
+      "ayahNumber": 45,
+      "text": {
+        "simple": "سَيُهْزَمُ الْجَمْعُ وَيُوَلُّونَ الدُّبُرَ",
+        "en_sahih": "English translation of [54:45] in Sahih International style.",
+        "en_yusufali": "English translation of [54:45] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 45 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:45] en español.",
+        "fr_hamidullah": "Traduction de [54:45] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:46",
+      "surahNumber": 54,
+      "ayahNumber": 46,
+      "text": {
+        "simple": "بَلِ السَّاعَةُ مَوْعِدُهُمْ وَالسَّاعَةُ أَدْهَىٰ وَأَمَرُّ",
+        "en_sahih": "English translation of [54:46] in Sahih International style.",
+        "en_yusufali": "English translation of [54:46] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 46 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:46] en español.",
+        "fr_hamidullah": "Traduction de [54:46] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:47",
+      "surahNumber": 54,
+      "ayahNumber": 47,
+      "text": {
+        "simple": "إِنَّ الْمُجْرِمِينَ فِي ضَلَالٍ وَسُعُرٍ",
+        "en_sahih": "English translation of [54:47] in Sahih International style.",
+        "en_yusufali": "English translation of [54:47] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 47 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:47] en español.",
+        "fr_hamidullah": "Traduction de [54:47] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:48",
+      "surahNumber": 54,
+      "ayahNumber": 48,
+      "text": {
+        "simple": "يَوْمَ يُسْحَبُونَ فِي النَّارِ عَلَىٰ وُجُوهِهِمْ ذُوقُوا مَسَّ سَقَرَ",
+        "en_sahih": "English translation of [54:48] in Sahih International style.",
+        "en_yusufali": "English translation of [54:48] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 48 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:48] en español.",
+        "fr_hamidullah": "Traduction de [54:48] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:49",
+      "surahNumber": 54,
+      "ayahNumber": 49,
+      "text": {
+        "simple": "إِنَّا كُلَّ شَيْءٍ خَلَقْنَاهُ بِقَدَرٍ",
+        "en_sahih": "English translation of [54:49] in Sahih International style.",
+        "en_yusufali": "English translation of [54:49] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 49 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:49] en español.",
+        "fr_hamidullah": "Traduction de [54:49] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:50",
+      "surahNumber": 54,
+      "ayahNumber": 50,
+      "text": {
+        "simple": "وَمَا أَمْرُنَا إِلَّا وَاحِدَةٌ كَلَمْحٍ بِالْبَصَرِ",
+        "en_sahih": "English translation of [54:50] in Sahih International style.",
+        "en_yusufali": "English translation of [54:50] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 50 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:50] en español.",
+        "fr_hamidullah": "Traduction de [54:50] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:51",
+      "surahNumber": 54,
+      "ayahNumber": 51,
+      "text": {
+        "simple": "وَلَقَدْ أَهْلَكْنَا أَشْيَاعَكُمْ فَهَلْ مِنْ مُدَّكِرٍ",
+        "en_sahih": "English translation of [54:51] in Sahih International style.",
+        "en_yusufali": "English translation of [54:51] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 51 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:51] en español.",
+        "fr_hamidullah": "Traduction de [54:51] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:52",
+      "surahNumber": 54,
+      "ayahNumber": 52,
+      "text": {
+        "simple": "وَكُلُّ شَيْءٍ فَعَلُوهُ فِي الزُّبُرِ",
+        "en_sahih": "English translation of [54:52] in Sahih International style.",
+        "en_yusufali": "English translation of [54:52] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 52 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:52] en español.",
+        "fr_hamidullah": "Traduction de [54:52] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:53",
+      "surahNumber": 54,
+      "ayahNumber": 53,
+      "text": {
+        "simple": "وَكُلُّ صَغِيرٍ وَكَبِيرٍ مُسْتَطَرٌ",
+        "en_sahih": "English translation of [54:53] in Sahih International style.",
+        "en_yusufali": "English translation of [54:53] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 53 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:53] en español.",
+        "fr_hamidullah": "Traduction de [54:53] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 53 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:54",
+      "surahNumber": 54,
+      "ayahNumber": 54,
+      "text": {
+        "simple": "إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَنَهَرٍ",
+        "en_sahih": "English translation of [54:54] in Sahih International style.",
+        "en_yusufali": "English translation of [54:54] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 54 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:54] en español.",
+        "fr_hamidullah": "Traduction de [54:54] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 54 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "54:55",
+      "surahNumber": 54,
+      "ayahNumber": 55,
+      "text": {
+        "simple": "فِي مَقْعَدِ صِدْقٍ عِنْدَ مَلِيكٍ مُقْتَدِرٍ",
+        "en_sahih": "English translation of [54:55] in Sahih International style.",
+        "en_yusufali": "English translation of [54:55] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 54 آیت 55 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [54:55] en español.",
+        "fr_hamidullah": "Traduction de [54:55] en français.",
+        "bn_hoque": "সূরা 54 আয়াত 55 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

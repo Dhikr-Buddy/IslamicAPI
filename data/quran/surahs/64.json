@@ -1,0 +1,267 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.994Z",
+  "surahNumber": 64,
+  "ayahCount": 18,
+  "ayahs": [
+    {
+      "id": "64:1",
+      "surahNumber": 64,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ يُسَبِّحُ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۖ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ ۖ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+        "en_sahih": "English translation of [64:1] in Sahih International style.",
+        "en_yusufali": "English translation of [64:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 64 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [64:1] en español.",
+        "fr_hamidullah": "Traduction de [64:1] en français.",
+        "bn_hoque": "সূরা 64 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "64:2",
+      "surahNumber": 64,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "هُوَ الَّذِي خَلَقَكُمْ فَمِنْكُمْ كَافِرٌ وَمِنْكُمْ مُؤْمِنٌ ۚ وَاللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+        "en_sahih": "English translation of [64:2] in Sahih International style.",
+        "en_yusufali": "English translation of [64:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 64 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [64:2] en español.",
+        "fr_hamidullah": "Traduction de [64:2] en français.",
+        "bn_hoque": "সূরা 64 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "64:3",
+      "surahNumber": 64,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ بِالْحَقِّ وَصَوَّرَكُمْ فَأَحْسَنَ صُوَرَكُمْ ۖ وَإِلَيْهِ الْمَصِيرُ",
+        "en_sahih": "English translation of [64:3] in Sahih International style.",
+        "en_yusufali": "English translation of [64:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 64 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [64:3] en español.",
+        "fr_hamidullah": "Traduction de [64:3] en français.",
+        "bn_hoque": "সূরা 64 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "64:4",
+      "surahNumber": 64,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "يَعْلَمُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ وَيَعْلَمُ مَا تُسِرُّونَ وَمَا تُعْلِنُونَ ۚ وَاللَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ",
+        "en_sahih": "English translation of [64:4] in Sahih International style.",
+        "en_yusufali": "English translation of [64:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 64 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [64:4] en español.",
+        "fr_hamidullah": "Traduction de [64:4] en français.",
+        "bn_hoque": "সূরা 64 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "64:5",
+      "surahNumber": 64,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "أَلَمْ يَأْتِكُمْ نَبَأُ الَّذِينَ كَفَرُوا مِنْ قَبْلُ فَذَاقُوا وَبَالَ أَمْرِهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+        "en_sahih": "English translation of [64:5] in Sahih International style.",
+        "en_yusufali": "English translation of [64:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 64 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [64:5] en español.",
+        "fr_hamidullah": "Traduction de [64:5] en français.",
+        "bn_hoque": "সূরা 64 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "64:6",
+      "surahNumber": 64,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "ذَٰلِكَ بِأَنَّهُ كَانَتْ تَأْتِيهِمْ رُسُلُهُمْ بِالْبَيِّنَاتِ فَقَالُوا أَبَشَرٌ يَهْدُونَنَا فَكَفَرُوا وَتَوَلَّوْا ۚ وَاسْتَغْنَى اللَّهُ ۚ وَاللَّهُ غَنِيٌّ حَمِيدٌ",
+        "en_sahih": "English translation of [64:6] in Sahih International style.",
+        "en_yusufali": "English translation of [64:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 64 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [64:6] en español.",
+        "fr_hamidullah": "Traduction de [64:6] en français.",
+        "bn_hoque": "সূরা 64 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "64:7",
+      "surahNumber": 64,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "زَعَمَ الَّذِينَ كَفَرُوا أَنْ لَنْ يُبْعَثُوا ۚ قُلْ بَلَىٰ وَرَبِّي لَتُبْعَثُنَّ ثُمَّ لَتُنَبَّؤُنَّ بِمَا عَمِلْتُمْ ۚ وَذَٰلِكَ عَلَى اللَّهِ يَسِيرٌ",
+        "en_sahih": "English translation of [64:7] in Sahih International style.",
+        "en_yusufali": "English translation of [64:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 64 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [64:7] en español.",
+        "fr_hamidullah": "Traduction de [64:7] en français.",
+        "bn_hoque": "সূরা 64 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "64:8",
+      "surahNumber": 64,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "فَآمِنُوا بِاللَّهِ وَرَسُولِهِ وَالنُّورِ الَّذِي أَنْزَلْنَا ۚ وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+        "en_sahih": "English translation of [64:8] in Sahih International style.",
+        "en_yusufali": "English translation of [64:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 64 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [64:8] en español.",
+        "fr_hamidullah": "Traduction de [64:8] en français.",
+        "bn_hoque": "সূরা 64 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "64:9",
+      "surahNumber": 64,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "يَوْمَ يَجْمَعُكُمْ لِيَوْمِ الْجَمْعِ ۖ ذَٰلِكَ يَوْمُ التَّغَابُنِ ۗ وَمَنْ يُؤْمِنْ بِاللَّهِ وَيَعْمَلْ صَالِحًا يُكَفِّرْ عَنْهُ سَيِّئَاتِهِ وَيُدْخِلْهُ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۚ ذَٰلِكَ الْفَوْزُ الْعَظِيمُ",
+        "en_sahih": "English translation of [64:9] in Sahih International style.",
+        "en_yusufali": "English translation of [64:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 64 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [64:9] en español.",
+        "fr_hamidullah": "Traduction de [64:9] en français.",
+        "bn_hoque": "সূরা 64 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "64:10",
+      "surahNumber": 64,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا أُولَٰئِكَ أَصْحَابُ النَّارِ خَالِدِينَ فِيهَا ۖ وَبِئْسَ الْمَصِيرُ",
+        "en_sahih": "English translation of [64:10] in Sahih International style.",
+        "en_yusufali": "English translation of [64:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 64 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [64:10] en español.",
+        "fr_hamidullah": "Traduction de [64:10] en français.",
+        "bn_hoque": "সূরা 64 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "64:11",
+      "surahNumber": 64,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "مَا أَصَابَ مِنْ مُصِيبَةٍ إِلَّا بِإِذْنِ اللَّهِ ۗ وَمَنْ يُؤْمِنْ بِاللَّهِ يَهْدِ قَلْبَهُ ۚ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ",
+        "en_sahih": "English translation of [64:11] in Sahih International style.",
+        "en_yusufali": "English translation of [64:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 64 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [64:11] en español.",
+        "fr_hamidullah": "Traduction de [64:11] en français.",
+        "bn_hoque": "সূরা 64 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "64:12",
+      "surahNumber": 64,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "وَأَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ ۚ فَإِنْ تَوَلَّيْتُمْ فَإِنَّمَا عَلَىٰ رَسُولِنَا الْبَلَاغُ الْمُبِينُ",
+        "en_sahih": "English translation of [64:12] in Sahih International style.",
+        "en_yusufali": "English translation of [64:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 64 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [64:12] en español.",
+        "fr_hamidullah": "Traduction de [64:12] en français.",
+        "bn_hoque": "সূরা 64 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "64:13",
+      "surahNumber": 64,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ ۚ وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ",
+        "en_sahih": "English translation of [64:13] in Sahih International style.",
+        "en_yusufali": "English translation of [64:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 64 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [64:13] en español.",
+        "fr_hamidullah": "Traduction de [64:13] en français.",
+        "bn_hoque": "সূরা 64 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "64:14",
+      "surahNumber": 64,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِنَّ مِنْ أَزْوَاجِكُمْ وَأَوْلَادِكُمْ عَدُوًّا لَكُمْ فَاحْذَرُوهُمْ ۚ وَإِنْ تَعْفُوا وَتَصْفَحُوا وَتَغْفِرُوا فَإِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+        "en_sahih": "English translation of [64:14] in Sahih International style.",
+        "en_yusufali": "English translation of [64:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 64 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [64:14] en español.",
+        "fr_hamidullah": "Traduction de [64:14] en français.",
+        "bn_hoque": "সূরা 64 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "64:15",
+      "surahNumber": 64,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "إِنَّمَا أَمْوَالُكُمْ وَأَوْلَادُكُمْ فِتْنَةٌ ۚ وَاللَّهُ عِنْدَهُ أَجْرٌ عَظِيمٌ",
+        "en_sahih": "English translation of [64:15] in Sahih International style.",
+        "en_yusufali": "English translation of [64:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 64 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [64:15] en español.",
+        "fr_hamidullah": "Traduction de [64:15] en français.",
+        "bn_hoque": "সূরা 64 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "64:16",
+      "surahNumber": 64,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "فَاتَّقُوا اللَّهَ مَا اسْتَطَعْتُمْ وَاسْمَعُوا وَأَطِيعُوا وَأَنْفِقُوا خَيْرًا لِأَنْفُسِكُمْ ۗ وَمَنْ يُوقَ شُحَّ نَفْسِهِ فَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+        "en_sahih": "English translation of [64:16] in Sahih International style.",
+        "en_yusufali": "English translation of [64:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 64 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [64:16] en español.",
+        "fr_hamidullah": "Traduction de [64:16] en français.",
+        "bn_hoque": "সূরা 64 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "64:17",
+      "surahNumber": 64,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "إِنْ تُقْرِضُوا اللَّهَ قَرْضًا حَسَنًا يُضَاعِفْهُ لَكُمْ وَيَغْفِرْ لَكُمْ ۚ وَاللَّهُ شَكُورٌ حَلِيمٌ",
+        "en_sahih": "English translation of [64:17] in Sahih International style.",
+        "en_yusufali": "English translation of [64:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 64 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [64:17] en español.",
+        "fr_hamidullah": "Traduction de [64:17] en français.",
+        "bn_hoque": "সূরা 64 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "64:18",
+      "surahNumber": 64,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "عَالِمُ الْغَيْبِ وَالشَّهَادَةِ الْعَزِيزُ الْحَكِيمُ",
+        "en_sahih": "English translation of [64:18] in Sahih International style.",
+        "en_yusufali": "English translation of [64:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 64 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [64:18] en español.",
+        "fr_hamidullah": "Traduction de [64:18] en français.",
+        "bn_hoque": "সূরা 64 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

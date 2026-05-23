@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:58.004Z",
+  "surahNumber": 99,
+  "ayahCount": 8,
+  "ayahs": [
+    {
+      "id": "99:1",
+      "surahNumber": 99,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا",
+        "en_sahih": "English translation of [99:1] in Sahih International style.",
+        "en_yusufali": "English translation of [99:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 99 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [99:1] en español.",
+        "fr_hamidullah": "Traduction de [99:1] en français.",
+        "bn_hoque": "সূরা 99 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "99:2",
+      "surahNumber": 99,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا",
+        "en_sahih": "English translation of [99:2] in Sahih International style.",
+        "en_yusufali": "English translation of [99:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 99 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [99:2] en español.",
+        "fr_hamidullah": "Traduction de [99:2] en français.",
+        "bn_hoque": "সূরা 99 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "99:3",
+      "surahNumber": 99,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "وَقَالَ الْإِنْسَانُ مَا لَهَا",
+        "en_sahih": "English translation of [99:3] in Sahih International style.",
+        "en_yusufali": "English translation of [99:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 99 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [99:3] en español.",
+        "fr_hamidullah": "Traduction de [99:3] en français.",
+        "bn_hoque": "সূরা 99 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "99:4",
+      "surahNumber": 99,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+        "en_sahih": "English translation of [99:4] in Sahih International style.",
+        "en_yusufali": "English translation of [99:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 99 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [99:4] en español.",
+        "fr_hamidullah": "Traduction de [99:4] en français.",
+        "bn_hoque": "সূরা 99 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "99:5",
+      "surahNumber": 99,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+        "en_sahih": "English translation of [99:5] in Sahih International style.",
+        "en_yusufali": "English translation of [99:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 99 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [99:5] en español.",
+        "fr_hamidullah": "Traduction de [99:5] en français.",
+        "bn_hoque": "সূরা 99 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "99:6",
+      "surahNumber": 99,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِيُرَوْا أَعْمَالَهُمْ",
+        "en_sahih": "English translation of [99:6] in Sahih International style.",
+        "en_yusufali": "English translation of [99:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 99 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [99:6] en español.",
+        "fr_hamidullah": "Traduction de [99:6] en français.",
+        "bn_hoque": "সূরা 99 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "99:7",
+      "surahNumber": 99,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ",
+        "en_sahih": "English translation of [99:7] in Sahih International style.",
+        "en_yusufali": "English translation of [99:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 99 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [99:7] en español.",
+        "fr_hamidullah": "Traduction de [99:7] en français.",
+        "bn_hoque": "সূরা 99 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "99:8",
+      "surahNumber": 99,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "وَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ",
+        "en_sahih": "English translation of [99:8] in Sahih International style.",
+        "en_yusufali": "English translation of [99:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 99 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [99:8] en español.",
+        "fr_hamidullah": "Traduction de [99:8] en français.",
+        "bn_hoque": "সূরা 99 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

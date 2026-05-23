@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.993Z",
+  "surahNumber": 61,
+  "ayahCount": 14,
+  "ayahs": [
+    {
+      "id": "61:1",
+      "surahNumber": 61,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+        "en_sahih": "English translation of [61:1] in Sahih International style.",
+        "en_yusufali": "English translation of [61:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 61 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [61:1] en español.",
+        "fr_hamidullah": "Traduction de [61:1] en français.",
+        "bn_hoque": "সূরা 61 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "61:2",
+      "surahNumber": 61,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "يَا أَيُّهَا الَّذِينَ آمَنُوا لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ",
+        "en_sahih": "English translation of [61:2] in Sahih International style.",
+        "en_yusufali": "English translation of [61:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 61 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [61:2] en español.",
+        "fr_hamidullah": "Traduction de [61:2] en français.",
+        "bn_hoque": "সূরা 61 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "61:3",
+      "surahNumber": 61,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "كَبُرَ مَقْتًا عِنْدَ اللَّهِ أَنْ تَقُولُوا مَا لَا تَفْعَلُونَ",
+        "en_sahih": "English translation of [61:3] in Sahih International style.",
+        "en_yusufali": "English translation of [61:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 61 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [61:3] en español.",
+        "fr_hamidullah": "Traduction de [61:3] en français.",
+        "bn_hoque": "সূরা 61 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "61:4",
+      "surahNumber": 61,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "إِنَّ اللَّهَ يُحِبُّ الَّذِينَ يُقَاتِلُونَ فِي سَبِيلِهِ صَفًّا كَأَنَّهُمْ بُنْيَانٌ مَرْصُوصٌ",
+        "en_sahih": "English translation of [61:4] in Sahih International style.",
+        "en_yusufali": "English translation of [61:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 61 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [61:4] en español.",
+        "fr_hamidullah": "Traduction de [61:4] en français.",
+        "bn_hoque": "সূরা 61 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "61:5",
+      "surahNumber": 61,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ يَا قَوْمِ لِمَ تُؤْذُونَنِي وَقَدْ تَعْلَمُونَ أَنِّي رَسُولُ اللَّهِ إِلَيْكُمْ ۖ فَلَمَّا زَاغُوا أَزَاغَ اللَّهُ قُلُوبَهُمْ ۚ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الْفَاسِقِينَ",
+        "en_sahih": "English translation of [61:5] in Sahih International style.",
+        "en_yusufali": "English translation of [61:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 61 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [61:5] en español.",
+        "fr_hamidullah": "Traduction de [61:5] en français.",
+        "bn_hoque": "সূরা 61 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "61:6",
+      "surahNumber": 61,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "وَإِذْ قَالَ عِيسَى ابْنُ مَرْيَمَ يَا بَنِي إِسْرَائِيلَ إِنِّي رَسُولُ اللَّهِ إِلَيْكُمْ مُصَدِّقًا لِمَا بَيْنَ يَدَيَّ مِنَ التَّوْرَاةِ وَمُبَشِّرًا بِرَسُولٍ يَأْتِي مِنْ بَعْدِي اسْمُهُ أَحْمَدُ ۖ فَلَمَّا جَاءَهُمْ بِالْبَيِّنَاتِ قَالُوا هَٰذَا سِحْرٌ مُبِينٌ",
+        "en_sahih": "English translation of [61:6] in Sahih International style.",
+        "en_yusufali": "English translation of [61:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 61 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [61:6] en español.",
+        "fr_hamidullah": "Traduction de [61:6] en français.",
+        "bn_hoque": "সূরা 61 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "61:7",
+      "surahNumber": 61,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ الْكَذِبَ وَهُوَ يُدْعَىٰ إِلَى الْإِسْلَامِ ۚ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ",
+        "en_sahih": "English translation of [61:7] in Sahih International style.",
+        "en_yusufali": "English translation of [61:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 61 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [61:7] en español.",
+        "fr_hamidullah": "Traduction de [61:7] en français.",
+        "bn_hoque": "সূরা 61 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "61:8",
+      "surahNumber": 61,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "يُرِيدُونَ لِيُطْفِئُوا نُورَ اللَّهِ بِأَفْوَاهِهِمْ وَاللَّهُ مُتِمُّ نُورِهِ وَلَوْ كَرِهَ الْكَافِرُونَ",
+        "en_sahih": "English translation of [61:8] in Sahih International style.",
+        "en_yusufali": "English translation of [61:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 61 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [61:8] en español.",
+        "fr_hamidullah": "Traduction de [61:8] en français.",
+        "bn_hoque": "সূরা 61 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "61:9",
+      "surahNumber": 61,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَلَوْ كَرِهَ الْمُشْرِكُونَ",
+        "en_sahih": "English translation of [61:9] in Sahih International style.",
+        "en_yusufali": "English translation of [61:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 61 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [61:9] en español.",
+        "fr_hamidullah": "Traduction de [61:9] en français.",
+        "bn_hoque": "সূরা 61 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "61:10",
+      "surahNumber": 61,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "يَا أَيُّهَا الَّذِينَ آمَنُوا هَلْ أَدُلُّكُمْ عَلَىٰ تِجَارَةٍ تُنْجِيكُمْ مِنْ عَذَابٍ أَلِيمٍ",
+        "en_sahih": "English translation of [61:10] in Sahih International style.",
+        "en_yusufali": "English translation of [61:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 61 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [61:10] en español.",
+        "fr_hamidullah": "Traduction de [61:10] en français.",
+        "bn_hoque": "সূরা 61 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "61:11",
+      "surahNumber": 61,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "تُؤْمِنُونَ بِاللَّهِ وَرَسُولِهِ وَتُجَاهِدُونَ فِي سَبِيلِ اللَّهِ بِأَمْوَالِكُمْ وَأَنْفُسِكُمْ ۚ ذَٰلِكُمْ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ",
+        "en_sahih": "English translation of [61:11] in Sahih International style.",
+        "en_yusufali": "English translation of [61:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 61 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [61:11] en español.",
+        "fr_hamidullah": "Traduction de [61:11] en français.",
+        "bn_hoque": "সূরা 61 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "61:12",
+      "surahNumber": 61,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "يَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَيُدْخِلْكُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ وَمَسَاكِنَ طَيِّبَةً فِي جَنَّاتِ عَدْنٍ ۚ ذَٰلِكَ الْفَوْزُ الْعَظِيمُ",
+        "en_sahih": "English translation of [61:12] in Sahih International style.",
+        "en_yusufali": "English translation of [61:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 61 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [61:12] en español.",
+        "fr_hamidullah": "Traduction de [61:12] en français.",
+        "bn_hoque": "সূরা 61 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "61:13",
+      "surahNumber": 61,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "وَأُخْرَىٰ تُحِبُّونَهَا ۖ نَصْرٌ مِنَ اللَّهِ وَفَتْحٌ قَرِيبٌ ۗ وَبَشِّرِ الْمُؤْمِنِينَ",
+        "en_sahih": "English translation of [61:13] in Sahih International style.",
+        "en_yusufali": "English translation of [61:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 61 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [61:13] en español.",
+        "fr_hamidullah": "Traduction de [61:13] en français.",
+        "bn_hoque": "সূরা 61 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "61:14",
+      "surahNumber": 61,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا أَنْصَارَ اللَّهِ كَمَا قَالَ عِيسَى ابْنُ مَرْيَمَ لِلْحَوَارِيِّينَ مَنْ أَنْصَارِي إِلَى اللَّهِ ۖ قَالَ الْحَوَارِيُّونَ نَحْنُ أَنْصَارُ اللَّهِ ۖ فَآمَنَتْ طَائِفَةٌ مِنْ بَنِي إِسْرَائِيلَ وَكَفَرَتْ طَائِفَةٌ ۖ فَأَيَّدْنَا الَّذِينَ آمَنُوا عَلَىٰ عَدُوِّهِمْ فَأَصْبَحُوا ظَاهِرِينَ",
+        "en_sahih": "English translation of [61:14] in Sahih International style.",
+        "en_yusufali": "English translation of [61:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 61 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [61:14] en español.",
+        "fr_hamidullah": "Traduction de [61:14] en français.",
+        "bn_hoque": "সূরা 61 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

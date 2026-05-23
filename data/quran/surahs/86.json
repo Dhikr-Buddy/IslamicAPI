@@ -1,0 +1,253 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.999Z",
+  "surahNumber": 86,
+  "ayahCount": 17,
+  "ayahs": [
+    {
+      "id": "86:1",
+      "surahNumber": 86,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَالسَّمَاءِ وَالطَّارِقِ",
+        "en_sahih": "English translation of [86:1] in Sahih International style.",
+        "en_yusufali": "English translation of [86:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 86 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [86:1] en español.",
+        "fr_hamidullah": "Traduction de [86:1] en français.",
+        "bn_hoque": "সূরা 86 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "86:2",
+      "surahNumber": 86,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "وَمَا أَدْرَاكَ مَا الطَّارِقُ",
+        "en_sahih": "English translation of [86:2] in Sahih International style.",
+        "en_yusufali": "English translation of [86:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 86 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [86:2] en español.",
+        "fr_hamidullah": "Traduction de [86:2] en français.",
+        "bn_hoque": "সূরা 86 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "86:3",
+      "surahNumber": 86,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "النَّجْمُ الثَّاقِبُ",
+        "en_sahih": "English translation of [86:3] in Sahih International style.",
+        "en_yusufali": "English translation of [86:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 86 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [86:3] en español.",
+        "fr_hamidullah": "Traduction de [86:3] en français.",
+        "bn_hoque": "সূরা 86 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "86:4",
+      "surahNumber": 86,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "إِنْ كُلُّ نَفْسٍ لَمَّا عَلَيْهَا حَافِظٌ",
+        "en_sahih": "English translation of [86:4] in Sahih International style.",
+        "en_yusufali": "English translation of [86:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 86 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [86:4] en español.",
+        "fr_hamidullah": "Traduction de [86:4] en français.",
+        "bn_hoque": "সূরা 86 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "86:5",
+      "surahNumber": 86,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "فَلْيَنْظُرِ الْإِنْسَانُ مِمَّ خُلِقَ",
+        "en_sahih": "English translation of [86:5] in Sahih International style.",
+        "en_yusufali": "English translation of [86:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 86 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [86:5] en español.",
+        "fr_hamidullah": "Traduction de [86:5] en français.",
+        "bn_hoque": "সূরা 86 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "86:6",
+      "surahNumber": 86,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "خُلِقَ مِنْ مَاءٍ دَافِقٍ",
+        "en_sahih": "English translation of [86:6] in Sahih International style.",
+        "en_yusufali": "English translation of [86:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 86 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [86:6] en español.",
+        "fr_hamidullah": "Traduction de [86:6] en français.",
+        "bn_hoque": "সূরা 86 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "86:7",
+      "surahNumber": 86,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "يَخْرُجُ مِنْ بَيْنِ الصُّلْبِ وَالتَّرَائِبِ",
+        "en_sahih": "English translation of [86:7] in Sahih International style.",
+        "en_yusufali": "English translation of [86:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 86 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [86:7] en español.",
+        "fr_hamidullah": "Traduction de [86:7] en français.",
+        "bn_hoque": "সূরা 86 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "86:8",
+      "surahNumber": 86,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "إِنَّهُ عَلَىٰ رَجْعِهِ لَقَادِرٌ",
+        "en_sahih": "English translation of [86:8] in Sahih International style.",
+        "en_yusufali": "English translation of [86:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 86 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [86:8] en español.",
+        "fr_hamidullah": "Traduction de [86:8] en français.",
+        "bn_hoque": "সূরা 86 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "86:9",
+      "surahNumber": 86,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "يَوْمَ تُبْلَى السَّرَائِرُ",
+        "en_sahih": "English translation of [86:9] in Sahih International style.",
+        "en_yusufali": "English translation of [86:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 86 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [86:9] en español.",
+        "fr_hamidullah": "Traduction de [86:9] en français.",
+        "bn_hoque": "সূরা 86 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "86:10",
+      "surahNumber": 86,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "فَمَا لَهُ مِنْ قُوَّةٍ وَلَا نَاصِرٍ",
+        "en_sahih": "English translation of [86:10] in Sahih International style.",
+        "en_yusufali": "English translation of [86:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 86 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [86:10] en español.",
+        "fr_hamidullah": "Traduction de [86:10] en français.",
+        "bn_hoque": "সূরা 86 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "86:11",
+      "surahNumber": 86,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "وَالسَّمَاءِ ذَاتِ الرَّجْعِ",
+        "en_sahih": "English translation of [86:11] in Sahih International style.",
+        "en_yusufali": "English translation of [86:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 86 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [86:11] en español.",
+        "fr_hamidullah": "Traduction de [86:11] en français.",
+        "bn_hoque": "সূরা 86 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "86:12",
+      "surahNumber": 86,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "وَالْأَرْضِ ذَاتِ الصَّدْعِ",
+        "en_sahih": "English translation of [86:12] in Sahih International style.",
+        "en_yusufali": "English translation of [86:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 86 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [86:12] en español.",
+        "fr_hamidullah": "Traduction de [86:12] en français.",
+        "bn_hoque": "সূরা 86 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "86:13",
+      "surahNumber": 86,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "إِنَّهُ لَقَوْلٌ فَصْلٌ",
+        "en_sahih": "English translation of [86:13] in Sahih International style.",
+        "en_yusufali": "English translation of [86:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 86 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [86:13] en español.",
+        "fr_hamidullah": "Traduction de [86:13] en français.",
+        "bn_hoque": "সূরা 86 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "86:14",
+      "surahNumber": 86,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "وَمَا هُوَ بِالْهَزْلِ",
+        "en_sahih": "English translation of [86:14] in Sahih International style.",
+        "en_yusufali": "English translation of [86:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 86 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [86:14] en español.",
+        "fr_hamidullah": "Traduction de [86:14] en français.",
+        "bn_hoque": "সূরা 86 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "86:15",
+      "surahNumber": 86,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "إِنَّهُمْ يَكِيدُونَ كَيْدًا",
+        "en_sahih": "English translation of [86:15] in Sahih International style.",
+        "en_yusufali": "English translation of [86:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 86 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [86:15] en español.",
+        "fr_hamidullah": "Traduction de [86:15] en français.",
+        "bn_hoque": "সূরা 86 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "86:16",
+      "surahNumber": 86,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "وَأَكِيدُ كَيْدًا",
+        "en_sahih": "English translation of [86:16] in Sahih International style.",
+        "en_yusufali": "English translation of [86:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 86 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [86:16] en español.",
+        "fr_hamidullah": "Traduction de [86:16] en français.",
+        "bn_hoque": "সূরা 86 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "86:17",
+      "surahNumber": 86,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "فَمَهِّلِ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا",
+        "en_sahih": "English translation of [86:17] in Sahih International style.",
+        "en_yusufali": "English translation of [86:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 86 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [86:17] en español.",
+        "fr_hamidullah": "Traduction de [86:17] en français.",
+        "bn_hoque": "সূরা 86 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

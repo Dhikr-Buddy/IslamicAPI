@@ -1,0 +1,701 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.990Z",
+  "surahNumber": 52,
+  "ayahCount": 49,
+  "ayahs": [
+    {
+      "id": "52:1",
+      "surahNumber": 52,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَالطُّورِ",
+        "en_sahih": "English translation of [52:1] in Sahih International style.",
+        "en_yusufali": "English translation of [52:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:1] en español.",
+        "fr_hamidullah": "Traduction de [52:1] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:2",
+      "surahNumber": 52,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "وَكِتَابٍ مَسْطُورٍ",
+        "en_sahih": "English translation of [52:2] in Sahih International style.",
+        "en_yusufali": "English translation of [52:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:2] en español.",
+        "fr_hamidullah": "Traduction de [52:2] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:3",
+      "surahNumber": 52,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "فِي رَقٍّ مَنْشُورٍ",
+        "en_sahih": "English translation of [52:3] in Sahih International style.",
+        "en_yusufali": "English translation of [52:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:3] en español.",
+        "fr_hamidullah": "Traduction de [52:3] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:4",
+      "surahNumber": 52,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "وَالْبَيْتِ الْمَعْمُورِ",
+        "en_sahih": "English translation of [52:4] in Sahih International style.",
+        "en_yusufali": "English translation of [52:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:4] en español.",
+        "fr_hamidullah": "Traduction de [52:4] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:5",
+      "surahNumber": 52,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "وَالسَّقْفِ الْمَرْفُوعِ",
+        "en_sahih": "English translation of [52:5] in Sahih International style.",
+        "en_yusufali": "English translation of [52:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:5] en español.",
+        "fr_hamidullah": "Traduction de [52:5] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:6",
+      "surahNumber": 52,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "وَالْبَحْرِ الْمَسْجُورِ",
+        "en_sahih": "English translation of [52:6] in Sahih International style.",
+        "en_yusufali": "English translation of [52:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:6] en español.",
+        "fr_hamidullah": "Traduction de [52:6] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:7",
+      "surahNumber": 52,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "إِنَّ عَذَابَ رَبِّكَ لَوَاقِعٌ",
+        "en_sahih": "English translation of [52:7] in Sahih International style.",
+        "en_yusufali": "English translation of [52:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:7] en español.",
+        "fr_hamidullah": "Traduction de [52:7] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:8",
+      "surahNumber": 52,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "مَا لَهُ مِنْ دَافِعٍ",
+        "en_sahih": "English translation of [52:8] in Sahih International style.",
+        "en_yusufali": "English translation of [52:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:8] en español.",
+        "fr_hamidullah": "Traduction de [52:8] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:9",
+      "surahNumber": 52,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "يَوْمَ تَمُورُ السَّمَاءُ مَوْرًا",
+        "en_sahih": "English translation of [52:9] in Sahih International style.",
+        "en_yusufali": "English translation of [52:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:9] en español.",
+        "fr_hamidullah": "Traduction de [52:9] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:10",
+      "surahNumber": 52,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "وَتَسِيرُ الْجِبَالُ سَيْرًا",
+        "en_sahih": "English translation of [52:10] in Sahih International style.",
+        "en_yusufali": "English translation of [52:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:10] en español.",
+        "fr_hamidullah": "Traduction de [52:10] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:11",
+      "surahNumber": 52,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "فَوَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+        "en_sahih": "English translation of [52:11] in Sahih International style.",
+        "en_yusufali": "English translation of [52:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:11] en español.",
+        "fr_hamidullah": "Traduction de [52:11] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:12",
+      "surahNumber": 52,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "الَّذِينَ هُمْ فِي خَوْضٍ يَلْعَبُونَ",
+        "en_sahih": "English translation of [52:12] in Sahih International style.",
+        "en_yusufali": "English translation of [52:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:12] en español.",
+        "fr_hamidullah": "Traduction de [52:12] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:13",
+      "surahNumber": 52,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "يَوْمَ يُدَعُّونَ إِلَىٰ نَارِ جَهَنَّمَ دَعًّا",
+        "en_sahih": "English translation of [52:13] in Sahih International style.",
+        "en_yusufali": "English translation of [52:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:13] en español.",
+        "fr_hamidullah": "Traduction de [52:13] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:14",
+      "surahNumber": 52,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "هَٰذِهِ النَّارُ الَّتِي كُنْتُمْ بِهَا تُكَذِّبُونَ",
+        "en_sahih": "English translation of [52:14] in Sahih International style.",
+        "en_yusufali": "English translation of [52:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:14] en español.",
+        "fr_hamidullah": "Traduction de [52:14] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:15",
+      "surahNumber": 52,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "أَفَسِحْرٌ هَٰذَا أَمْ أَنْتُمْ لَا تُبْصِرُونَ",
+        "en_sahih": "English translation of [52:15] in Sahih International style.",
+        "en_yusufali": "English translation of [52:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:15] en español.",
+        "fr_hamidullah": "Traduction de [52:15] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:16",
+      "surahNumber": 52,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "اصْلَوْهَا فَاصْبِرُوا أَوْ لَا تَصْبِرُوا سَوَاءٌ عَلَيْكُمْ ۖ إِنَّمَا تُجْزَوْنَ مَا كُنْتُمْ تَعْمَلُونَ",
+        "en_sahih": "English translation of [52:16] in Sahih International style.",
+        "en_yusufali": "English translation of [52:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:16] en español.",
+        "fr_hamidullah": "Traduction de [52:16] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:17",
+      "surahNumber": 52,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَنَعِيمٍ",
+        "en_sahih": "English translation of [52:17] in Sahih International style.",
+        "en_yusufali": "English translation of [52:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:17] en español.",
+        "fr_hamidullah": "Traduction de [52:17] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:18",
+      "surahNumber": 52,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "فَاكِهِينَ بِمَا آتَاهُمْ رَبُّهُمْ وَوَقَاهُمْ رَبُّهُمْ عَذَابَ الْجَحِيمِ",
+        "en_sahih": "English translation of [52:18] in Sahih International style.",
+        "en_yusufali": "English translation of [52:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:18] en español.",
+        "fr_hamidullah": "Traduction de [52:18] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:19",
+      "surahNumber": 52,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا كُنْتُمْ تَعْمَلُونَ",
+        "en_sahih": "English translation of [52:19] in Sahih International style.",
+        "en_yusufali": "English translation of [52:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:19] en español.",
+        "fr_hamidullah": "Traduction de [52:19] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:20",
+      "surahNumber": 52,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "مُتَّكِئِينَ عَلَىٰ سُرُرٍ مَصْفُوفَةٍ ۖ وَزَوَّجْنَاهُمْ بِحُورٍ عِينٍ",
+        "en_sahih": "English translation of [52:20] in Sahih International style.",
+        "en_yusufali": "English translation of [52:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:20] en español.",
+        "fr_hamidullah": "Traduction de [52:20] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:21",
+      "surahNumber": 52,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "وَالَّذِينَ آمَنُوا وَاتَّبَعَتْهُمْ ذُرِّيَّتُهُمْ بِإِيمَانٍ أَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ وَمَا أَلَتْنَاهُمْ مِنْ عَمَلِهِمْ مِنْ شَيْءٍ ۚ كُلُّ امْرِئٍ بِمَا كَسَبَ رَهِينٌ",
+        "en_sahih": "English translation of [52:21] in Sahih International style.",
+        "en_yusufali": "English translation of [52:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:21] en español.",
+        "fr_hamidullah": "Traduction de [52:21] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:22",
+      "surahNumber": 52,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "وَأَمْدَدْنَاهُمْ بِفَاكِهَةٍ وَلَحْمٍ مِمَّا يَشْتَهُونَ",
+        "en_sahih": "English translation of [52:22] in Sahih International style.",
+        "en_yusufali": "English translation of [52:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:22] en español.",
+        "fr_hamidullah": "Traduction de [52:22] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:23",
+      "surahNumber": 52,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "يَتَنَازَعُونَ فِيهَا كَأْسًا لَا لَغْوٌ فِيهَا وَلَا تَأْثِيمٌ",
+        "en_sahih": "English translation of [52:23] in Sahih International style.",
+        "en_yusufali": "English translation of [52:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:23] en español.",
+        "fr_hamidullah": "Traduction de [52:23] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:24",
+      "surahNumber": 52,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "۞ وَيَطُوفُ عَلَيْهِمْ غِلْمَانٌ لَهُمْ كَأَنَّهُمْ لُؤْلُؤٌ مَكْنُونٌ",
+        "en_sahih": "English translation of [52:24] in Sahih International style.",
+        "en_yusufali": "English translation of [52:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:24] en español.",
+        "fr_hamidullah": "Traduction de [52:24] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:25",
+      "surahNumber": 52,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَاءَلُونَ",
+        "en_sahih": "English translation of [52:25] in Sahih International style.",
+        "en_yusufali": "English translation of [52:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:25] en español.",
+        "fr_hamidullah": "Traduction de [52:25] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:26",
+      "surahNumber": 52,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "قَالُوا إِنَّا كُنَّا قَبْلُ فِي أَهْلِنَا مُشْفِقِينَ",
+        "en_sahih": "English translation of [52:26] in Sahih International style.",
+        "en_yusufali": "English translation of [52:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:26] en español.",
+        "fr_hamidullah": "Traduction de [52:26] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:27",
+      "surahNumber": 52,
+      "ayahNumber": 27,
+      "text": {
+        "simple": "فَمَنَّ اللَّهُ عَلَيْنَا وَوَقَانَا عَذَابَ السَّمُومِ",
+        "en_sahih": "English translation of [52:27] in Sahih International style.",
+        "en_yusufali": "English translation of [52:27] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:27] en español.",
+        "fr_hamidullah": "Traduction de [52:27] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:28",
+      "surahNumber": 52,
+      "ayahNumber": 28,
+      "text": {
+        "simple": "إِنَّا كُنَّا مِنْ قَبْلُ نَدْعُوهُ ۖ إِنَّهُ هُوَ الْبَرُّ الرَّحِيمُ",
+        "en_sahih": "English translation of [52:28] in Sahih International style.",
+        "en_yusufali": "English translation of [52:28] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:28] en español.",
+        "fr_hamidullah": "Traduction de [52:28] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:29",
+      "surahNumber": 52,
+      "ayahNumber": 29,
+      "text": {
+        "simple": "فَذَكِّرْ فَمَا أَنْتَ بِنِعْمَتِ رَبِّكَ بِكَاهِنٍ وَلَا مَجْنُونٍ",
+        "en_sahih": "English translation of [52:29] in Sahih International style.",
+        "en_yusufali": "English translation of [52:29] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:29] en español.",
+        "fr_hamidullah": "Traduction de [52:29] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:30",
+      "surahNumber": 52,
+      "ayahNumber": 30,
+      "text": {
+        "simple": "أَمْ يَقُولُونَ شَاعِرٌ نَتَرَبَّصُ بِهِ رَيْبَ الْمَنُونِ",
+        "en_sahih": "English translation of [52:30] in Sahih International style.",
+        "en_yusufali": "English translation of [52:30] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:30] en español.",
+        "fr_hamidullah": "Traduction de [52:30] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:31",
+      "surahNumber": 52,
+      "ayahNumber": 31,
+      "text": {
+        "simple": "قُلْ تَرَبَّصُوا فَإِنِّي مَعَكُمْ مِنَ الْمُتَرَبِّصِينَ",
+        "en_sahih": "English translation of [52:31] in Sahih International style.",
+        "en_yusufali": "English translation of [52:31] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:31] en español.",
+        "fr_hamidullah": "Traduction de [52:31] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:32",
+      "surahNumber": 52,
+      "ayahNumber": 32,
+      "text": {
+        "simple": "أَمْ تَأْمُرُهُمْ أَحْلَامُهُمْ بِهَٰذَا ۚ أَمْ هُمْ قَوْمٌ طَاغُونَ",
+        "en_sahih": "English translation of [52:32] in Sahih International style.",
+        "en_yusufali": "English translation of [52:32] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:32] en español.",
+        "fr_hamidullah": "Traduction de [52:32] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:33",
+      "surahNumber": 52,
+      "ayahNumber": 33,
+      "text": {
+        "simple": "أَمْ يَقُولُونَ تَقَوَّلَهُ ۚ بَلْ لَا يُؤْمِنُونَ",
+        "en_sahih": "English translation of [52:33] in Sahih International style.",
+        "en_yusufali": "English translation of [52:33] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:33] en español.",
+        "fr_hamidullah": "Traduction de [52:33] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:34",
+      "surahNumber": 52,
+      "ayahNumber": 34,
+      "text": {
+        "simple": "فَلْيَأْتُوا بِحَدِيثٍ مِثْلِهِ إِنْ كَانُوا صَادِقِينَ",
+        "en_sahih": "English translation of [52:34] in Sahih International style.",
+        "en_yusufali": "English translation of [52:34] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:34] en español.",
+        "fr_hamidullah": "Traduction de [52:34] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:35",
+      "surahNumber": 52,
+      "ayahNumber": 35,
+      "text": {
+        "simple": "أَمْ خُلِقُوا مِنْ غَيْرِ شَيْءٍ أَمْ هُمُ الْخَالِقُونَ",
+        "en_sahih": "English translation of [52:35] in Sahih International style.",
+        "en_yusufali": "English translation of [52:35] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:35] en español.",
+        "fr_hamidullah": "Traduction de [52:35] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:36",
+      "surahNumber": 52,
+      "ayahNumber": 36,
+      "text": {
+        "simple": "أَمْ خَلَقُوا السَّمَاوَاتِ وَالْأَرْضَ ۚ بَلْ لَا يُوقِنُونَ",
+        "en_sahih": "English translation of [52:36] in Sahih International style.",
+        "en_yusufali": "English translation of [52:36] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:36] en español.",
+        "fr_hamidullah": "Traduction de [52:36] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:37",
+      "surahNumber": 52,
+      "ayahNumber": 37,
+      "text": {
+        "simple": "أَمْ عِنْدَهُمْ خَزَائِنُ رَبِّكَ أَمْ هُمُ الْمُصَيْطِرُونَ",
+        "en_sahih": "English translation of [52:37] in Sahih International style.",
+        "en_yusufali": "English translation of [52:37] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:37] en español.",
+        "fr_hamidullah": "Traduction de [52:37] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:38",
+      "surahNumber": 52,
+      "ayahNumber": 38,
+      "text": {
+        "simple": "أَمْ لَهُمْ سُلَّمٌ يَسْتَمِعُونَ فِيهِ ۖ فَلْيَأْتِ مُسْتَمِعُهُمْ بِسُلْطَانٍ مُبِينٍ",
+        "en_sahih": "English translation of [52:38] in Sahih International style.",
+        "en_yusufali": "English translation of [52:38] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 38 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:38] en español.",
+        "fr_hamidullah": "Traduction de [52:38] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:39",
+      "surahNumber": 52,
+      "ayahNumber": 39,
+      "text": {
+        "simple": "أَمْ لَهُ الْبَنَاتُ وَلَكُمُ الْبَنُونَ",
+        "en_sahih": "English translation of [52:39] in Sahih International style.",
+        "en_yusufali": "English translation of [52:39] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 39 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:39] en español.",
+        "fr_hamidullah": "Traduction de [52:39] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:40",
+      "surahNumber": 52,
+      "ayahNumber": 40,
+      "text": {
+        "simple": "أَمْ تَسْأَلُهُمْ أَجْرًا فَهُمْ مِنْ مَغْرَمٍ مُثْقَلُونَ",
+        "en_sahih": "English translation of [52:40] in Sahih International style.",
+        "en_yusufali": "English translation of [52:40] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 40 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:40] en español.",
+        "fr_hamidullah": "Traduction de [52:40] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:41",
+      "surahNumber": 52,
+      "ayahNumber": 41,
+      "text": {
+        "simple": "أَمْ عِنْدَهُمُ الْغَيْبُ فَهُمْ يَكْتُبُونَ",
+        "en_sahih": "English translation of [52:41] in Sahih International style.",
+        "en_yusufali": "English translation of [52:41] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 41 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:41] en español.",
+        "fr_hamidullah": "Traduction de [52:41] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:42",
+      "surahNumber": 52,
+      "ayahNumber": 42,
+      "text": {
+        "simple": "أَمْ يُرِيدُونَ كَيْدًا ۖ فَالَّذِينَ كَفَرُوا هُمُ الْمَكِيدُونَ",
+        "en_sahih": "English translation of [52:42] in Sahih International style.",
+        "en_yusufali": "English translation of [52:42] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 42 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:42] en español.",
+        "fr_hamidullah": "Traduction de [52:42] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:43",
+      "surahNumber": 52,
+      "ayahNumber": 43,
+      "text": {
+        "simple": "أَمْ لَهُمْ إِلَٰهٌ غَيْرُ اللَّهِ ۚ سُبْحَانَ اللَّهِ عَمَّا يُشْرِكُونَ",
+        "en_sahih": "English translation of [52:43] in Sahih International style.",
+        "en_yusufali": "English translation of [52:43] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 43 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:43] en español.",
+        "fr_hamidullah": "Traduction de [52:43] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:44",
+      "surahNumber": 52,
+      "ayahNumber": 44,
+      "text": {
+        "simple": "وَإِنْ يَرَوْا كِسْفًا مِنَ السَّمَاءِ سَاقِطًا يَقُولُوا سَحَابٌ مَرْكُومٌ",
+        "en_sahih": "English translation of [52:44] in Sahih International style.",
+        "en_yusufali": "English translation of [52:44] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 44 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:44] en español.",
+        "fr_hamidullah": "Traduction de [52:44] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:45",
+      "surahNumber": 52,
+      "ayahNumber": 45,
+      "text": {
+        "simple": "فَذَرْهُمْ حَتَّىٰ يُلَاقُوا يَوْمَهُمُ الَّذِي فِيهِ يُصْعَقُونَ",
+        "en_sahih": "English translation of [52:45] in Sahih International style.",
+        "en_yusufali": "English translation of [52:45] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 45 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:45] en español.",
+        "fr_hamidullah": "Traduction de [52:45] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:46",
+      "surahNumber": 52,
+      "ayahNumber": 46,
+      "text": {
+        "simple": "يَوْمَ لَا يُغْنِي عَنْهُمْ كَيْدُهُمْ شَيْئًا وَلَا هُمْ يُنْصَرُونَ",
+        "en_sahih": "English translation of [52:46] in Sahih International style.",
+        "en_yusufali": "English translation of [52:46] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 46 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:46] en español.",
+        "fr_hamidullah": "Traduction de [52:46] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:47",
+      "surahNumber": 52,
+      "ayahNumber": 47,
+      "text": {
+        "simple": "وَإِنَّ لِلَّذِينَ ظَلَمُوا عَذَابًا دُونَ ذَٰلِكَ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+        "en_sahih": "English translation of [52:47] in Sahih International style.",
+        "en_yusufali": "English translation of [52:47] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 47 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:47] en español.",
+        "fr_hamidullah": "Traduction de [52:47] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:48",
+      "surahNumber": 52,
+      "ayahNumber": 48,
+      "text": {
+        "simple": "وَاصْبِرْ لِحُكْمِ رَبِّكَ فَإِنَّكَ بِأَعْيُنِنَا ۖ وَسَبِّحْ بِحَمْدِ رَبِّكَ حِينَ تَقُومُ",
+        "en_sahih": "English translation of [52:48] in Sahih International style.",
+        "en_yusufali": "English translation of [52:48] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 48 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:48] en español.",
+        "fr_hamidullah": "Traduction de [52:48] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "52:49",
+      "surahNumber": 52,
+      "ayahNumber": 49,
+      "text": {
+        "simple": "وَمِنَ اللَّيْلِ فَسَبِّحْهُ وَإِدْبَارَ النُّجُومِ",
+        "en_sahih": "English translation of [52:49] in Sahih International style.",
+        "en_yusufali": "English translation of [52:49] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 52 آیت 49 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [52:49] en español.",
+        "fr_hamidullah": "Traduction de [52:49] en français.",
+        "bn_hoque": "সূরা 52 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:58.005Z",
+  "surahNumber": 107,
+  "ayahCount": 7,
+  "ayahs": [
+    {
+      "id": "107:1",
+      "surahNumber": 107,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ",
+        "en_sahih": "English translation of [107:1] in Sahih International style.",
+        "en_yusufali": "English translation of [107:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 107 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [107:1] en español.",
+        "fr_hamidullah": "Traduction de [107:1] en français.",
+        "bn_hoque": "সূরা 107 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "107:2",
+      "surahNumber": 107,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "فَذَٰلِكَ الَّذِي يَدُعُّ الْيَتِيمَ",
+        "en_sahih": "English translation of [107:2] in Sahih International style.",
+        "en_yusufali": "English translation of [107:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 107 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [107:2] en español.",
+        "fr_hamidullah": "Traduction de [107:2] en français.",
+        "bn_hoque": "সূরা 107 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "107:3",
+      "surahNumber": 107,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ",
+        "en_sahih": "English translation of [107:3] in Sahih International style.",
+        "en_yusufali": "English translation of [107:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 107 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [107:3] en español.",
+        "fr_hamidullah": "Traduction de [107:3] en français.",
+        "bn_hoque": "সূরা 107 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "107:4",
+      "surahNumber": 107,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "فَوَيْلٌ لِلْمُصَلِّينَ",
+        "en_sahih": "English translation of [107:4] in Sahih International style.",
+        "en_yusufali": "English translation of [107:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 107 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [107:4] en español.",
+        "fr_hamidullah": "Traduction de [107:4] en français.",
+        "bn_hoque": "সূরা 107 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "107:5",
+      "surahNumber": 107,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "الَّذِينَ هُمْ عَنْ صَلَاتِهِمْ سَاهُونَ",
+        "en_sahih": "English translation of [107:5] in Sahih International style.",
+        "en_yusufali": "English translation of [107:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 107 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [107:5] en español.",
+        "fr_hamidullah": "Traduction de [107:5] en français.",
+        "bn_hoque": "সূরা 107 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "107:6",
+      "surahNumber": 107,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "الَّذِينَ هُمْ يُرَاءُونَ",
+        "en_sahih": "English translation of [107:6] in Sahih International style.",
+        "en_yusufali": "English translation of [107:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 107 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [107:6] en español.",
+        "fr_hamidullah": "Traduction de [107:6] en français.",
+        "bn_hoque": "সূরা 107 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "107:7",
+      "surahNumber": 107,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "وَيَمْنَعُونَ الْمَاعُونَ",
+        "en_sahih": "English translation of [107:7] in Sahih International style.",
+        "en_yusufali": "English translation of [107:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 107 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [107:7] en español.",
+        "fr_hamidullah": "Traduction de [107:7] en français.",
+        "bn_hoque": "সূরা 107 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

@@ -1,0 +1,743 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.973Z",
+  "surahNumber": 14,
+  "ayahCount": 52,
+  "ayahs": [
+    {
+      "id": "14:1",
+      "surahNumber": 14,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ الر ۚ كِتَابٌ أَنْزَلْنَاهُ إِلَيْكَ لِتُخْرِجَ النَّاسَ مِنَ الظُّلُمَاتِ إِلَى النُّورِ بِإِذْنِ رَبِّهِمْ إِلَىٰ صِرَاطِ الْعَزِيزِ الْحَمِيدِ",
+        "en_sahih": "English translation of [14:1] in Sahih International style.",
+        "en_yusufali": "English translation of [14:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:1] en español.",
+        "fr_hamidullah": "Traduction de [14:1] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:2",
+      "surahNumber": 14,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "اللَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ وَوَيْلٌ لِلْكَافِرِينَ مِنْ عَذَابٍ شَدِيدٍ",
+        "en_sahih": "English translation of [14:2] in Sahih International style.",
+        "en_yusufali": "English translation of [14:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:2] en español.",
+        "fr_hamidullah": "Traduction de [14:2] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:3",
+      "surahNumber": 14,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "الَّذِينَ يَسْتَحِبُّونَ الْحَيَاةَ الدُّنْيَا عَلَى الْآخِرَةِ وَيَصُدُّونَ عَنْ سَبِيلِ اللَّهِ وَيَبْغُونَهَا عِوَجًا ۚ أُولَٰئِكَ فِي ضَلَالٍ بَعِيدٍ",
+        "en_sahih": "English translation of [14:3] in Sahih International style.",
+        "en_yusufali": "English translation of [14:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:3] en español.",
+        "fr_hamidullah": "Traduction de [14:3] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:4",
+      "surahNumber": 14,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "وَمَا أَرْسَلْنَا مِنْ رَسُولٍ إِلَّا بِلِسَانِ قَوْمِهِ لِيُبَيِّنَ لَهُمْ ۖ فَيُضِلُّ اللَّهُ مَنْ يَشَاءُ وَيَهْدِي مَنْ يَشَاءُ ۚ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+        "en_sahih": "English translation of [14:4] in Sahih International style.",
+        "en_yusufali": "English translation of [14:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:4] en español.",
+        "fr_hamidullah": "Traduction de [14:4] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:5",
+      "surahNumber": 14,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِآيَاتِنَا أَنْ أَخْرِجْ قَوْمَكَ مِنَ الظُّلُمَاتِ إِلَى النُّورِ وَذَكِّرْهُمْ بِأَيَّامِ اللَّهِ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِكُلِّ صَبَّارٍ شَكُورٍ",
+        "en_sahih": "English translation of [14:5] in Sahih International style.",
+        "en_yusufali": "English translation of [14:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:5] en español.",
+        "fr_hamidullah": "Traduction de [14:5] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:6",
+      "surahNumber": 14,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ اذْكُرُوا نِعْمَةَ اللَّهِ عَلَيْكُمْ إِذْ أَنْجَاكُمْ مِنْ آلِ فِرْعَوْنَ يَسُومُونَكُمْ سُوءَ الْعَذَابِ وَيُذَبِّحُونَ أَبْنَاءَكُمْ وَيَسْتَحْيُونَ نِسَاءَكُمْ ۚ وَفِي ذَٰلِكُمْ بَلَاءٌ مِنْ رَبِّكُمْ عَظِيمٌ",
+        "en_sahih": "English translation of [14:6] in Sahih International style.",
+        "en_yusufali": "English translation of [14:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:6] en español.",
+        "fr_hamidullah": "Traduction de [14:6] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:7",
+      "surahNumber": 14,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِنْ شَكَرْتُمْ لَأَزِيدَنَّكُمْ ۖ وَلَئِنْ كَفَرْتُمْ إِنَّ عَذَابِي لَشَدِيدٌ",
+        "en_sahih": "English translation of [14:7] in Sahih International style.",
+        "en_yusufali": "English translation of [14:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:7] en español.",
+        "fr_hamidullah": "Traduction de [14:7] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:8",
+      "surahNumber": 14,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "وَقَالَ مُوسَىٰ إِنْ تَكْفُرُوا أَنْتُمْ وَمَنْ فِي الْأَرْضِ جَمِيعًا فَإِنَّ اللَّهَ لَغَنِيٌّ حَمِيدٌ",
+        "en_sahih": "English translation of [14:8] in Sahih International style.",
+        "en_yusufali": "English translation of [14:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:8] en español.",
+        "fr_hamidullah": "Traduction de [14:8] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:9",
+      "surahNumber": 14,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "أَلَمْ يَأْتِكُمْ نَبَأُ الَّذِينَ مِنْ قَبْلِكُمْ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ ۛ وَالَّذِينَ مِنْ بَعْدِهِمْ ۛ لَا يَعْلَمُهُمْ إِلَّا اللَّهُ ۚ جَاءَتْهُمْ رُسُلُهُمْ بِالْبَيِّنَاتِ فَرَدُّوا أَيْدِيَهُمْ فِي أَفْوَاهِهِمْ وَقَالُوا إِنَّا كَفَرْنَا بِمَا أُرْسِلْتُمْ بِهِ وَإِنَّا لَفِي شَكٍّ مِمَّا تَدْعُونَنَا إِلَيْهِ مُرِيبٍ",
+        "en_sahih": "English translation of [14:9] in Sahih International style.",
+        "en_yusufali": "English translation of [14:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:9] en español.",
+        "fr_hamidullah": "Traduction de [14:9] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:10",
+      "surahNumber": 14,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "۞ قَالَتْ رُسُلُهُمْ أَفِي اللَّهِ شَكٌّ فَاطِرِ السَّمَاوَاتِ وَالْأَرْضِ ۖ يَدْعُوكُمْ لِيَغْفِرَ لَكُمْ مِنْ ذُنُوبِكُمْ وَيُؤَخِّرَكُمْ إِلَىٰ أَجَلٍ مُسَمًّى ۚ قَالُوا إِنْ أَنْتُمْ إِلَّا بَشَرٌ مِثْلُنَا تُرِيدُونَ أَنْ تَصُدُّونَا عَمَّا كَانَ يَعْبُدُ آبَاؤُنَا فَأْتُونَا بِسُلْطَانٍ مُبِينٍ",
+        "en_sahih": "English translation of [14:10] in Sahih International style.",
+        "en_yusufali": "English translation of [14:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:10] en español.",
+        "fr_hamidullah": "Traduction de [14:10] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:11",
+      "surahNumber": 14,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "قَالَتْ لَهُمْ رُسُلُهُمْ إِنْ نَحْنُ إِلَّا بَشَرٌ مِثْلُكُمْ وَلَٰكِنَّ اللَّهَ يَمُنُّ عَلَىٰ مَنْ يَشَاءُ مِنْ عِبَادِهِ ۖ وَمَا كَانَ لَنَا أَنْ نَأْتِيَكُمْ بِسُلْطَانٍ إِلَّا بِإِذْنِ اللَّهِ ۚ وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ",
+        "en_sahih": "English translation of [14:11] in Sahih International style.",
+        "en_yusufali": "English translation of [14:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:11] en español.",
+        "fr_hamidullah": "Traduction de [14:11] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:12",
+      "surahNumber": 14,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "وَمَا لَنَا أَلَّا نَتَوَكَّلَ عَلَى اللَّهِ وَقَدْ هَدَانَا سُبُلَنَا ۚ وَلَنَصْبِرَنَّ عَلَىٰ مَا آذَيْتُمُونَا ۚ وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ الْمُتَوَكِّلُونَ",
+        "en_sahih": "English translation of [14:12] in Sahih International style.",
+        "en_yusufali": "English translation of [14:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:12] en español.",
+        "fr_hamidullah": "Traduction de [14:12] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:13",
+      "surahNumber": 14,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "وَقَالَ الَّذِينَ كَفَرُوا لِرُسُلِهِمْ لَنُخْرِجَنَّكُمْ مِنْ أَرْضِنَا أَوْ لَتَعُودُنَّ فِي مِلَّتِنَا ۖ فَأَوْحَىٰ إِلَيْهِمْ رَبُّهُمْ لَنُهْلِكَنَّ الظَّالِمِينَ",
+        "en_sahih": "English translation of [14:13] in Sahih International style.",
+        "en_yusufali": "English translation of [14:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:13] en español.",
+        "fr_hamidullah": "Traduction de [14:13] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:14",
+      "surahNumber": 14,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "وَلَنُسْكِنَنَّكُمُ الْأَرْضَ مِنْ بَعْدِهِمْ ۚ ذَٰلِكَ لِمَنْ خَافَ مَقَامِي وَخَافَ وَعِيدِ",
+        "en_sahih": "English translation of [14:14] in Sahih International style.",
+        "en_yusufali": "English translation of [14:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:14] en español.",
+        "fr_hamidullah": "Traduction de [14:14] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:15",
+      "surahNumber": 14,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "وَاسْتَفْتَحُوا وَخَابَ كُلُّ جَبَّارٍ عَنِيدٍ",
+        "en_sahih": "English translation of [14:15] in Sahih International style.",
+        "en_yusufali": "English translation of [14:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:15] en español.",
+        "fr_hamidullah": "Traduction de [14:15] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:16",
+      "surahNumber": 14,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "مِنْ وَرَائِهِ جَهَنَّمُ وَيُسْقَىٰ مِنْ مَاءٍ صَدِيدٍ",
+        "en_sahih": "English translation of [14:16] in Sahih International style.",
+        "en_yusufali": "English translation of [14:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:16] en español.",
+        "fr_hamidullah": "Traduction de [14:16] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:17",
+      "surahNumber": 14,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "يَتَجَرَّعُهُ وَلَا يَكَادُ يُسِيغُهُ وَيَأْتِيهِ الْمَوْتُ مِنْ كُلِّ مَكَانٍ وَمَا هُوَ بِمَيِّتٍ ۖ وَمِنْ وَرَائِهِ عَذَابٌ غَلِيظٌ",
+        "en_sahih": "English translation of [14:17] in Sahih International style.",
+        "en_yusufali": "English translation of [14:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:17] en español.",
+        "fr_hamidullah": "Traduction de [14:17] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:18",
+      "surahNumber": 14,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "مَثَلُ الَّذِينَ كَفَرُوا بِرَبِّهِمْ ۖ أَعْمَالُهُمْ كَرَمَادٍ اشْتَدَّتْ بِهِ الرِّيحُ فِي يَوْمٍ عَاصِفٍ ۖ لَا يَقْدِرُونَ مِمَّا كَسَبُوا عَلَىٰ شَيْءٍ ۚ ذَٰلِكَ هُوَ الضَّلَالُ الْبَعِيدُ",
+        "en_sahih": "English translation of [14:18] in Sahih International style.",
+        "en_yusufali": "English translation of [14:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:18] en español.",
+        "fr_hamidullah": "Traduction de [14:18] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:19",
+      "surahNumber": 14,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "أَلَمْ تَرَ أَنَّ اللَّهَ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ بِالْحَقِّ ۚ إِنْ يَشَأْ يُذْهِبْكُمْ وَيَأْتِ بِخَلْقٍ جَدِيدٍ",
+        "en_sahih": "English translation of [14:19] in Sahih International style.",
+        "en_yusufali": "English translation of [14:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:19] en español.",
+        "fr_hamidullah": "Traduction de [14:19] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:20",
+      "surahNumber": 14,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "وَمَا ذَٰلِكَ عَلَى اللَّهِ بِعَزِيزٍ",
+        "en_sahih": "English translation of [14:20] in Sahih International style.",
+        "en_yusufali": "English translation of [14:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:20] en español.",
+        "fr_hamidullah": "Traduction de [14:20] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:21",
+      "surahNumber": 14,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "وَبَرَزُوا لِلَّهِ جَمِيعًا فَقَالَ الضُّعَفَاءُ لِلَّذِينَ اسْتَكْبَرُوا إِنَّا كُنَّا لَكُمْ تَبَعًا فَهَلْ أَنْتُمْ مُغْنُونَ عَنَّا مِنْ عَذَابِ اللَّهِ مِنْ شَيْءٍ ۚ قَالُوا لَوْ هَدَانَا اللَّهُ لَهَدَيْنَاكُمْ ۖ سَوَاءٌ عَلَيْنَا أَجَزِعْنَا أَمْ صَبَرْنَا مَا لَنَا مِنْ مَحِيصٍ",
+        "en_sahih": "English translation of [14:21] in Sahih International style.",
+        "en_yusufali": "English translation of [14:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:21] en español.",
+        "fr_hamidullah": "Traduction de [14:21] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:22",
+      "surahNumber": 14,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "وَقَالَ الشَّيْطَانُ لَمَّا قُضِيَ الْأَمْرُ إِنَّ اللَّهَ وَعَدَكُمْ وَعْدَ الْحَقِّ وَوَعَدْتُكُمْ فَأَخْلَفْتُكُمْ ۖ وَمَا كَانَ لِيَ عَلَيْكُمْ مِنْ سُلْطَانٍ إِلَّا أَنْ دَعَوْتُكُمْ فَاسْتَجَبْتُمْ لِي ۖ فَلَا تَلُومُونِي وَلُومُوا أَنْفُسَكُمْ ۖ مَا أَنَا بِمُصْرِخِكُمْ وَمَا أَنْتُمْ بِمُصْرِخِيَّ ۖ إِنِّي كَفَرْتُ بِمَا أَشْرَكْتُمُونِ مِنْ قَبْلُ ۗ إِنَّ الظَّالِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ",
+        "en_sahih": "English translation of [14:22] in Sahih International style.",
+        "en_yusufali": "English translation of [14:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:22] en español.",
+        "fr_hamidullah": "Traduction de [14:22] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:23",
+      "surahNumber": 14,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "وَأُدْخِلَ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا بِإِذْنِ رَبِّهِمْ ۖ تَحِيَّتُهُمْ فِيهَا سَلَامٌ",
+        "en_sahih": "English translation of [14:23] in Sahih International style.",
+        "en_yusufali": "English translation of [14:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:23] en español.",
+        "fr_hamidullah": "Traduction de [14:23] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:24",
+      "surahNumber": 14,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "أَلَمْ تَرَ كَيْفَ ضَرَبَ اللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي السَّمَاءِ",
+        "en_sahih": "English translation of [14:24] in Sahih International style.",
+        "en_yusufali": "English translation of [14:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:24] en español.",
+        "fr_hamidullah": "Traduction de [14:24] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:25",
+      "surahNumber": 14,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "تُؤْتِي أُكُلَهَا كُلَّ حِينٍ بِإِذْنِ رَبِّهَا ۗ وَيَضْرِبُ اللَّهُ الْأَمْثَالَ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ",
+        "en_sahih": "English translation of [14:25] in Sahih International style.",
+        "en_yusufali": "English translation of [14:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:25] en español.",
+        "fr_hamidullah": "Traduction de [14:25] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:26",
+      "surahNumber": 14,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "وَمَثَلُ كَلِمَةٍ خَبِيثَةٍ كَشَجَرَةٍ خَبِيثَةٍ اجْتُثَّتْ مِنْ فَوْقِ الْأَرْضِ مَا لَهَا مِنْ قَرَارٍ",
+        "en_sahih": "English translation of [14:26] in Sahih International style.",
+        "en_yusufali": "English translation of [14:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:26] en español.",
+        "fr_hamidullah": "Traduction de [14:26] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:27",
+      "surahNumber": 14,
+      "ayahNumber": 27,
+      "text": {
+        "simple": "يُثَبِّتُ اللَّهُ الَّذِينَ آمَنُوا بِالْقَوْلِ الثَّابِتِ فِي الْحَيَاةِ الدُّنْيَا وَفِي الْآخِرَةِ ۖ وَيُضِلُّ اللَّهُ الظَّالِمِينَ ۚ وَيَفْعَلُ اللَّهُ مَا يَشَاءُ",
+        "en_sahih": "English translation of [14:27] in Sahih International style.",
+        "en_yusufali": "English translation of [14:27] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:27] en español.",
+        "fr_hamidullah": "Traduction de [14:27] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:28",
+      "surahNumber": 14,
+      "ayahNumber": 28,
+      "text": {
+        "simple": "۞ أَلَمْ تَرَ إِلَى الَّذِينَ بَدَّلُوا نِعْمَتَ اللَّهِ كُفْرًا وَأَحَلُّوا قَوْمَهُمْ دَارَ الْبَوَارِ",
+        "en_sahih": "English translation of [14:28] in Sahih International style.",
+        "en_yusufali": "English translation of [14:28] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:28] en español.",
+        "fr_hamidullah": "Traduction de [14:28] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:29",
+      "surahNumber": 14,
+      "ayahNumber": 29,
+      "text": {
+        "simple": "جَهَنَّمَ يَصْلَوْنَهَا ۖ وَبِئْسَ الْقَرَارُ",
+        "en_sahih": "English translation of [14:29] in Sahih International style.",
+        "en_yusufali": "English translation of [14:29] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:29] en español.",
+        "fr_hamidullah": "Traduction de [14:29] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:30",
+      "surahNumber": 14,
+      "ayahNumber": 30,
+      "text": {
+        "simple": "وَجَعَلُوا لِلَّهِ أَنْدَادًا لِيُضِلُّوا عَنْ سَبِيلِهِ ۗ قُلْ تَمَتَّعُوا فَإِنَّ مَصِيرَكُمْ إِلَى النَّارِ",
+        "en_sahih": "English translation of [14:30] in Sahih International style.",
+        "en_yusufali": "English translation of [14:30] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:30] en español.",
+        "fr_hamidullah": "Traduction de [14:30] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:31",
+      "surahNumber": 14,
+      "ayahNumber": 31,
+      "text": {
+        "simple": "قُلْ لِعِبَادِيَ الَّذِينَ آمَنُوا يُقِيمُوا الصَّلَاةَ وَيُنْفِقُوا مِمَّا رَزَقْنَاهُمْ سِرًّا وَعَلَانِيَةً مِنْ قَبْلِ أَنْ يَأْتِيَ يَوْمٌ لَا بَيْعٌ فِيهِ وَلَا خِلَالٌ",
+        "en_sahih": "English translation of [14:31] in Sahih International style.",
+        "en_yusufali": "English translation of [14:31] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:31] en español.",
+        "fr_hamidullah": "Traduction de [14:31] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:32",
+      "surahNumber": 14,
+      "ayahNumber": 32,
+      "text": {
+        "simple": "اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَأَنْزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَكُمْ ۖ وَسَخَّرَ لَكُمُ الْفُلْكَ لِتَجْرِيَ فِي الْبَحْرِ بِأَمْرِهِ ۖ وَسَخَّرَ لَكُمُ الْأَنْهَارَ",
+        "en_sahih": "English translation of [14:32] in Sahih International style.",
+        "en_yusufali": "English translation of [14:32] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:32] en español.",
+        "fr_hamidullah": "Traduction de [14:32] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:33",
+      "surahNumber": 14,
+      "ayahNumber": 33,
+      "text": {
+        "simple": "وَسَخَّرَ لَكُمُ الشَّمْسَ وَالْقَمَرَ دَائِبَيْنِ ۖ وَسَخَّرَ لَكُمُ اللَّيْلَ وَالنَّهَارَ",
+        "en_sahih": "English translation of [14:33] in Sahih International style.",
+        "en_yusufali": "English translation of [14:33] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:33] en español.",
+        "fr_hamidullah": "Traduction de [14:33] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:34",
+      "surahNumber": 14,
+      "ayahNumber": 34,
+      "text": {
+        "simple": "وَآتَاكُمْ مِنْ كُلِّ مَا سَأَلْتُمُوهُ ۚ وَإِنْ تَعُدُّوا نِعْمَتَ اللَّهِ لَا تُحْصُوهَا ۗ إِنَّ الْإِنْسَانَ لَظَلُومٌ كَفَّارٌ",
+        "en_sahih": "English translation of [14:34] in Sahih International style.",
+        "en_yusufali": "English translation of [14:34] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:34] en español.",
+        "fr_hamidullah": "Traduction de [14:34] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:35",
+      "surahNumber": 14,
+      "ayahNumber": 35,
+      "text": {
+        "simple": "وَإِذْ قَالَ إِبْرَاهِيمُ رَبِّ اجْعَلْ هَٰذَا الْبَلَدَ آمِنًا وَاجْنُبْنِي وَبَنِيَّ أَنْ نَعْبُدَ الْأَصْنَامَ",
+        "en_sahih": "English translation of [14:35] in Sahih International style.",
+        "en_yusufali": "English translation of [14:35] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:35] en español.",
+        "fr_hamidullah": "Traduction de [14:35] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:36",
+      "surahNumber": 14,
+      "ayahNumber": 36,
+      "text": {
+        "simple": "رَبِّ إِنَّهُنَّ أَضْلَلْنَ كَثِيرًا مِنَ النَّاسِ ۖ فَمَنْ تَبِعَنِي فَإِنَّهُ مِنِّي ۖ وَمَنْ عَصَانِي فَإِنَّكَ غَفُورٌ رَحِيمٌ",
+        "en_sahih": "English translation of [14:36] in Sahih International style.",
+        "en_yusufali": "English translation of [14:36] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:36] en español.",
+        "fr_hamidullah": "Traduction de [14:36] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:37",
+      "surahNumber": 14,
+      "ayahNumber": 37,
+      "text": {
+        "simple": "رَبَّنَا إِنِّي أَسْكَنْتُ مِنْ ذُرِّيَّتِي بِوَادٍ غَيْرِ ذِي زَرْعٍ عِنْدَ بَيْتِكَ الْمُحَرَّمِ رَبَّنَا لِيُقِيمُوا الصَّلَاةَ فَاجْعَلْ أَفْئِدَةً مِنَ النَّاسِ تَهْوِي إِلَيْهِمْ وَارْزُقْهُمْ مِنَ الثَّمَرَاتِ لَعَلَّهُمْ يَشْكُرُونَ",
+        "en_sahih": "English translation of [14:37] in Sahih International style.",
+        "en_yusufali": "English translation of [14:37] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:37] en español.",
+        "fr_hamidullah": "Traduction de [14:37] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:38",
+      "surahNumber": 14,
+      "ayahNumber": 38,
+      "text": {
+        "simple": "رَبَّنَا إِنَّكَ تَعْلَمُ مَا نُخْفِي وَمَا نُعْلِنُ ۗ وَمَا يَخْفَىٰ عَلَى اللَّهِ مِنْ شَيْءٍ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ",
+        "en_sahih": "English translation of [14:38] in Sahih International style.",
+        "en_yusufali": "English translation of [14:38] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 38 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:38] en español.",
+        "fr_hamidullah": "Traduction de [14:38] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:39",
+      "surahNumber": 14,
+      "ayahNumber": 39,
+      "text": {
+        "simple": "الْحَمْدُ لِلَّهِ الَّذِي وَهَبَ لِي عَلَى الْكِبَرِ إِسْمَاعِيلَ وَإِسْحَاقَ ۚ إِنَّ رَبِّي لَسَمِيعُ الدُّعَاءِ",
+        "en_sahih": "English translation of [14:39] in Sahih International style.",
+        "en_yusufali": "English translation of [14:39] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 39 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:39] en español.",
+        "fr_hamidullah": "Traduction de [14:39] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:40",
+      "surahNumber": 14,
+      "ayahNumber": 40,
+      "text": {
+        "simple": "رَبِّ اجْعَلْنِي مُقِيمَ الصَّلَاةِ وَمِنْ ذُرِّيَّتِي ۚ رَبَّنَا وَتَقَبَّلْ دُعَاءِ",
+        "en_sahih": "English translation of [14:40] in Sahih International style.",
+        "en_yusufali": "English translation of [14:40] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 40 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:40] en español.",
+        "fr_hamidullah": "Traduction de [14:40] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:41",
+      "surahNumber": 14,
+      "ayahNumber": 41,
+      "text": {
+        "simple": "رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ الْحِسَابُ",
+        "en_sahih": "English translation of [14:41] in Sahih International style.",
+        "en_yusufali": "English translation of [14:41] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 41 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:41] en español.",
+        "fr_hamidullah": "Traduction de [14:41] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:42",
+      "surahNumber": 14,
+      "ayahNumber": 42,
+      "text": {
+        "simple": "وَلَا تَحْسَبَنَّ اللَّهَ غَافِلًا عَمَّا يَعْمَلُ الظَّالِمُونَ ۚ إِنَّمَا يُؤَخِّرُهُمْ لِيَوْمٍ تَشْخَصُ فِيهِ الْأَبْصَارُ",
+        "en_sahih": "English translation of [14:42] in Sahih International style.",
+        "en_yusufali": "English translation of [14:42] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 42 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:42] en español.",
+        "fr_hamidullah": "Traduction de [14:42] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:43",
+      "surahNumber": 14,
+      "ayahNumber": 43,
+      "text": {
+        "simple": "مُهْطِعِينَ مُقْنِعِي رُءُوسِهِمْ لَا يَرْتَدُّ إِلَيْهِمْ طَرْفُهُمْ ۖ وَأَفْئِدَتُهُمْ هَوَاءٌ",
+        "en_sahih": "English translation of [14:43] in Sahih International style.",
+        "en_yusufali": "English translation of [14:43] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 43 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:43] en español.",
+        "fr_hamidullah": "Traduction de [14:43] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:44",
+      "surahNumber": 14,
+      "ayahNumber": 44,
+      "text": {
+        "simple": "وَأَنْذِرِ النَّاسَ يَوْمَ يَأْتِيهِمُ الْعَذَابُ فَيَقُولُ الَّذِينَ ظَلَمُوا رَبَّنَا أَخِّرْنَا إِلَىٰ أَجَلٍ قَرِيبٍ نُجِبْ دَعْوَتَكَ وَنَتَّبِعِ الرُّسُلَ ۗ أَوَلَمْ تَكُونُوا أَقْسَمْتُمْ مِنْ قَبْلُ مَا لَكُمْ مِنْ زَوَالٍ",
+        "en_sahih": "English translation of [14:44] in Sahih International style.",
+        "en_yusufali": "English translation of [14:44] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 44 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:44] en español.",
+        "fr_hamidullah": "Traduction de [14:44] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:45",
+      "surahNumber": 14,
+      "ayahNumber": 45,
+      "text": {
+        "simple": "وَسَكَنْتُمْ فِي مَسَاكِنِ الَّذِينَ ظَلَمُوا أَنْفُسَهُمْ وَتَبَيَّنَ لَكُمْ كَيْفَ فَعَلْنَا بِهِمْ وَضَرَبْنَا لَكُمُ الْأَمْثَالَ",
+        "en_sahih": "English translation of [14:45] in Sahih International style.",
+        "en_yusufali": "English translation of [14:45] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 45 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:45] en español.",
+        "fr_hamidullah": "Traduction de [14:45] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:46",
+      "surahNumber": 14,
+      "ayahNumber": 46,
+      "text": {
+        "simple": "وَقَدْ مَكَرُوا مَكْرَهُمْ وَعِنْدَ اللَّهِ مَكْرُهُمْ وَإِنْ كَانَ مَكْرُهُمْ لِتَزُولَ مِنْهُ الْجِبَالُ",
+        "en_sahih": "English translation of [14:46] in Sahih International style.",
+        "en_yusufali": "English translation of [14:46] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 46 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:46] en español.",
+        "fr_hamidullah": "Traduction de [14:46] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:47",
+      "surahNumber": 14,
+      "ayahNumber": 47,
+      "text": {
+        "simple": "فَلَا تَحْسَبَنَّ اللَّهَ مُخْلِفَ وَعْدِهِ رُسُلَهُ ۗ إِنَّ اللَّهَ عَزِيزٌ ذُو انْتِقَامٍ",
+        "en_sahih": "English translation of [14:47] in Sahih International style.",
+        "en_yusufali": "English translation of [14:47] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 47 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:47] en español.",
+        "fr_hamidullah": "Traduction de [14:47] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:48",
+      "surahNumber": 14,
+      "ayahNumber": 48,
+      "text": {
+        "simple": "يَوْمَ تُبَدَّلُ الْأَرْضُ غَيْرَ الْأَرْضِ وَالسَّمَاوَاتُ ۖ وَبَرَزُوا لِلَّهِ الْوَاحِدِ الْقَهَّارِ",
+        "en_sahih": "English translation of [14:48] in Sahih International style.",
+        "en_yusufali": "English translation of [14:48] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 48 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:48] en español.",
+        "fr_hamidullah": "Traduction de [14:48] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:49",
+      "surahNumber": 14,
+      "ayahNumber": 49,
+      "text": {
+        "simple": "وَتَرَى الْمُجْرِمِينَ يَوْمَئِذٍ مُقَرَّنِينَ فِي الْأَصْفَادِ",
+        "en_sahih": "English translation of [14:49] in Sahih International style.",
+        "en_yusufali": "English translation of [14:49] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 49 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:49] en español.",
+        "fr_hamidullah": "Traduction de [14:49] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:50",
+      "surahNumber": 14,
+      "ayahNumber": 50,
+      "text": {
+        "simple": "سَرَابِيلُهُمْ مِنْ قَطِرَانٍ وَتَغْشَىٰ وُجُوهَهُمُ النَّارُ",
+        "en_sahih": "English translation of [14:50] in Sahih International style.",
+        "en_yusufali": "English translation of [14:50] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 50 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:50] en español.",
+        "fr_hamidullah": "Traduction de [14:50] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:51",
+      "surahNumber": 14,
+      "ayahNumber": 51,
+      "text": {
+        "simple": "لِيَجْزِيَ اللَّهُ كُلَّ نَفْسٍ مَا كَسَبَتْ ۚ إِنَّ اللَّهَ سَرِيعُ الْحِسَابِ",
+        "en_sahih": "English translation of [14:51] in Sahih International style.",
+        "en_yusufali": "English translation of [14:51] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 51 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:51] en español.",
+        "fr_hamidullah": "Traduction de [14:51] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "14:52",
+      "surahNumber": 14,
+      "ayahNumber": 52,
+      "text": {
+        "simple": "هَٰذَا بَلَاغٌ لِلنَّاسِ وَلِيُنْذَرُوا بِهِ وَلِيَعْلَمُوا أَنَّمَا هُوَ إِلَٰهٌ وَاحِدٌ وَلِيَذَّكَّرَ أُولُو الْأَلْبَابِ",
+        "en_sahih": "English translation of [14:52] in Sahih International style.",
+        "en_yusufali": "English translation of [14:52] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 14 آیت 52 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [14:52] en español.",
+        "fr_hamidullah": "Traduction de [14:52] en français.",
+        "bn_hoque": "সূরা 14 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

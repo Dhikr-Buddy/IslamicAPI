@@ -1,0 +1,1261 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.987Z",
+  "surahNumber": 43,
+  "ayahCount": 89,
+  "ayahs": [
+    {
+      "id": "43:1",
+      "surahNumber": 43,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ حم",
+        "en_sahih": "English translation of [43:1] in Sahih International style.",
+        "en_yusufali": "English translation of [43:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:1] en español.",
+        "fr_hamidullah": "Traduction de [43:1] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:2",
+      "surahNumber": 43,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "وَالْكِتَابِ الْمُبِينِ",
+        "en_sahih": "English translation of [43:2] in Sahih International style.",
+        "en_yusufali": "English translation of [43:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:2] en español.",
+        "fr_hamidullah": "Traduction de [43:2] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:3",
+      "surahNumber": 43,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "إِنَّا جَعَلْنَاهُ قُرْآنًا عَرَبِيًّا لَعَلَّكُمْ تَعْقِلُونَ",
+        "en_sahih": "English translation of [43:3] in Sahih International style.",
+        "en_yusufali": "English translation of [43:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:3] en español.",
+        "fr_hamidullah": "Traduction de [43:3] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:4",
+      "surahNumber": 43,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "وَإِنَّهُ فِي أُمِّ الْكِتَابِ لَدَيْنَا لَعَلِيٌّ حَكِيمٌ",
+        "en_sahih": "English translation of [43:4] in Sahih International style.",
+        "en_yusufali": "English translation of [43:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:4] en español.",
+        "fr_hamidullah": "Traduction de [43:4] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:5",
+      "surahNumber": 43,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "أَفَنَضْرِبُ عَنْكُمُ الذِّكْرَ صَفْحًا أَنْ كُنْتُمْ قَوْمًا مُسْرِفِينَ",
+        "en_sahih": "English translation of [43:5] in Sahih International style.",
+        "en_yusufali": "English translation of [43:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:5] en español.",
+        "fr_hamidullah": "Traduction de [43:5] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:6",
+      "surahNumber": 43,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "وَكَمْ أَرْسَلْنَا مِنْ نَبِيٍّ فِي الْأَوَّلِينَ",
+        "en_sahih": "English translation of [43:6] in Sahih International style.",
+        "en_yusufali": "English translation of [43:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:6] en español.",
+        "fr_hamidullah": "Traduction de [43:6] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:7",
+      "surahNumber": 43,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "وَمَا يَأْتِيهِمْ مِنْ نَبِيٍّ إِلَّا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+        "en_sahih": "English translation of [43:7] in Sahih International style.",
+        "en_yusufali": "English translation of [43:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:7] en español.",
+        "fr_hamidullah": "Traduction de [43:7] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:8",
+      "surahNumber": 43,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "فَأَهْلَكْنَا أَشَدَّ مِنْهُمْ بَطْشًا وَمَضَىٰ مَثَلُ الْأَوَّلِينَ",
+        "en_sahih": "English translation of [43:8] in Sahih International style.",
+        "en_yusufali": "English translation of [43:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:8] en español.",
+        "fr_hamidullah": "Traduction de [43:8] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:9",
+      "surahNumber": 43,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "وَلَئِنْ سَأَلْتَهُمْ مَنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ لَيَقُولُنَّ خَلَقَهُنَّ الْعَزِيزُ الْعَلِيمُ",
+        "en_sahih": "English translation of [43:9] in Sahih International style.",
+        "en_yusufali": "English translation of [43:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:9] en español.",
+        "fr_hamidullah": "Traduction de [43:9] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:10",
+      "surahNumber": 43,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "الَّذِي جَعَلَ لَكُمُ الْأَرْضَ مَهْدًا وَجَعَلَ لَكُمْ فِيهَا سُبُلًا لَعَلَّكُمْ تَهْتَدُونَ",
+        "en_sahih": "English translation of [43:10] in Sahih International style.",
+        "en_yusufali": "English translation of [43:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:10] en español.",
+        "fr_hamidullah": "Traduction de [43:10] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:11",
+      "surahNumber": 43,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "وَالَّذِي نَزَّلَ مِنَ السَّمَاءِ مَاءً بِقَدَرٍ فَأَنْشَرْنَا بِهِ بَلْدَةً مَيْتًا ۚ كَذَٰلِكَ تُخْرَجُونَ",
+        "en_sahih": "English translation of [43:11] in Sahih International style.",
+        "en_yusufali": "English translation of [43:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:11] en español.",
+        "fr_hamidullah": "Traduction de [43:11] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:12",
+      "surahNumber": 43,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "وَالَّذِي خَلَقَ الْأَزْوَاجَ كُلَّهَا وَجَعَلَ لَكُمْ مِنَ الْفُلْكِ وَالْأَنْعَامِ مَا تَرْكَبُونَ",
+        "en_sahih": "English translation of [43:12] in Sahih International style.",
+        "en_yusufali": "English translation of [43:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:12] en español.",
+        "fr_hamidullah": "Traduction de [43:12] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:13",
+      "surahNumber": 43,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "لِتَسْتَوُوا عَلَىٰ ظُهُورِهِ ثُمَّ تَذْكُرُوا نِعْمَةَ رَبِّكُمْ إِذَا اسْتَوَيْتُمْ عَلَيْهِ وَتَقُولُوا سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَٰذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ",
+        "en_sahih": "English translation of [43:13] in Sahih International style.",
+        "en_yusufali": "English translation of [43:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:13] en español.",
+        "fr_hamidullah": "Traduction de [43:13] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:14",
+      "surahNumber": 43,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "وَإِنَّا إِلَىٰ رَبِّنَا لَمُنْقَلِبُونَ",
+        "en_sahih": "English translation of [43:14] in Sahih International style.",
+        "en_yusufali": "English translation of [43:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:14] en español.",
+        "fr_hamidullah": "Traduction de [43:14] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:15",
+      "surahNumber": 43,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "وَجَعَلُوا لَهُ مِنْ عِبَادِهِ جُزْءًا ۚ إِنَّ الْإِنْسَانَ لَكَفُورٌ مُبِينٌ",
+        "en_sahih": "English translation of [43:15] in Sahih International style.",
+        "en_yusufali": "English translation of [43:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:15] en español.",
+        "fr_hamidullah": "Traduction de [43:15] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:16",
+      "surahNumber": 43,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "أَمِ اتَّخَذَ مِمَّا يَخْلُقُ بَنَاتٍ وَأَصْفَاكُمْ بِالْبَنِينَ",
+        "en_sahih": "English translation of [43:16] in Sahih International style.",
+        "en_yusufali": "English translation of [43:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:16] en español.",
+        "fr_hamidullah": "Traduction de [43:16] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:17",
+      "surahNumber": 43,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "وَإِذَا بُشِّرَ أَحَدُهُمْ بِمَا ضَرَبَ لِلرَّحْمَٰنِ مَثَلًا ظَلَّ وَجْهُهُ مُسْوَدًّا وَهُوَ كَظِيمٌ",
+        "en_sahih": "English translation of [43:17] in Sahih International style.",
+        "en_yusufali": "English translation of [43:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:17] en español.",
+        "fr_hamidullah": "Traduction de [43:17] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:18",
+      "surahNumber": 43,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "أَوَمَنْ يُنَشَّأُ فِي الْحِلْيَةِ وَهُوَ فِي الْخِصَامِ غَيْرُ مُبِينٍ",
+        "en_sahih": "English translation of [43:18] in Sahih International style.",
+        "en_yusufali": "English translation of [43:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:18] en español.",
+        "fr_hamidullah": "Traduction de [43:18] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:19",
+      "surahNumber": 43,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "وَجَعَلُوا الْمَلَائِكَةَ الَّذِينَ هُمْ عِبَادُ الرَّحْمَٰنِ إِنَاثًا ۚ أَشَهِدُوا خَلْقَهُمْ ۚ سَتُكْتَبُ شَهَادَتُهُمْ وَيُسْأَلُونَ",
+        "en_sahih": "English translation of [43:19] in Sahih International style.",
+        "en_yusufali": "English translation of [43:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:19] en español.",
+        "fr_hamidullah": "Traduction de [43:19] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:20",
+      "surahNumber": 43,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "وَقَالُوا لَوْ شَاءَ الرَّحْمَٰنُ مَا عَبَدْنَاهُمْ ۗ مَا لَهُمْ بِذَٰلِكَ مِنْ عِلْمٍ ۖ إِنْ هُمْ إِلَّا يَخْرُصُونَ",
+        "en_sahih": "English translation of [43:20] in Sahih International style.",
+        "en_yusufali": "English translation of [43:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:20] en español.",
+        "fr_hamidullah": "Traduction de [43:20] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:21",
+      "surahNumber": 43,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "أَمْ آتَيْنَاهُمْ كِتَابًا مِنْ قَبْلِهِ فَهُمْ بِهِ مُسْتَمْسِكُونَ",
+        "en_sahih": "English translation of [43:21] in Sahih International style.",
+        "en_yusufali": "English translation of [43:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:21] en español.",
+        "fr_hamidullah": "Traduction de [43:21] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:22",
+      "surahNumber": 43,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "بَلْ قَالُوا إِنَّا وَجَدْنَا آبَاءَنَا عَلَىٰ أُمَّةٍ وَإِنَّا عَلَىٰ آثَارِهِمْ مُهْتَدُونَ",
+        "en_sahih": "English translation of [43:22] in Sahih International style.",
+        "en_yusufali": "English translation of [43:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:22] en español.",
+        "fr_hamidullah": "Traduction de [43:22] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:23",
+      "surahNumber": 43,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "وَكَذَٰلِكَ مَا أَرْسَلْنَا مِنْ قَبْلِكَ فِي قَرْيَةٍ مِنْ نَذِيرٍ إِلَّا قَالَ مُتْرَفُوهَا إِنَّا وَجَدْنَا آبَاءَنَا عَلَىٰ أُمَّةٍ وَإِنَّا عَلَىٰ آثَارِهِمْ مُقْتَدُونَ",
+        "en_sahih": "English translation of [43:23] in Sahih International style.",
+        "en_yusufali": "English translation of [43:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:23] en español.",
+        "fr_hamidullah": "Traduction de [43:23] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:24",
+      "surahNumber": 43,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "۞ قَالَ أَوَلَوْ جِئْتُكُمْ بِأَهْدَىٰ مِمَّا وَجَدْتُمْ عَلَيْهِ آبَاءَكُمْ ۖ قَالُوا إِنَّا بِمَا أُرْسِلْتُمْ بِهِ كَافِرُونَ",
+        "en_sahih": "English translation of [43:24] in Sahih International style.",
+        "en_yusufali": "English translation of [43:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:24] en español.",
+        "fr_hamidullah": "Traduction de [43:24] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:25",
+      "surahNumber": 43,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "فَانْتَقَمْنَا مِنْهُمْ ۖ فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ",
+        "en_sahih": "English translation of [43:25] in Sahih International style.",
+        "en_yusufali": "English translation of [43:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:25] en español.",
+        "fr_hamidullah": "Traduction de [43:25] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:26",
+      "surahNumber": 43,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "وَإِذْ قَالَ إِبْرَاهِيمُ لِأَبِيهِ وَقَوْمِهِ إِنَّنِي بَرَاءٌ مِمَّا تَعْبُدُونَ",
+        "en_sahih": "English translation of [43:26] in Sahih International style.",
+        "en_yusufali": "English translation of [43:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:26] en español.",
+        "fr_hamidullah": "Traduction de [43:26] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:27",
+      "surahNumber": 43,
+      "ayahNumber": 27,
+      "text": {
+        "simple": "إِلَّا الَّذِي فَطَرَنِي فَإِنَّهُ سَيَهْدِينِ",
+        "en_sahih": "English translation of [43:27] in Sahih International style.",
+        "en_yusufali": "English translation of [43:27] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:27] en español.",
+        "fr_hamidullah": "Traduction de [43:27] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:28",
+      "surahNumber": 43,
+      "ayahNumber": 28,
+      "text": {
+        "simple": "وَجَعَلَهَا كَلِمَةً بَاقِيَةً فِي عَقِبِهِ لَعَلَّهُمْ يَرْجِعُونَ",
+        "en_sahih": "English translation of [43:28] in Sahih International style.",
+        "en_yusufali": "English translation of [43:28] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:28] en español.",
+        "fr_hamidullah": "Traduction de [43:28] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:29",
+      "surahNumber": 43,
+      "ayahNumber": 29,
+      "text": {
+        "simple": "بَلْ مَتَّعْتُ هَٰؤُلَاءِ وَآبَاءَهُمْ حَتَّىٰ جَاءَهُمُ الْحَقُّ وَرَسُولٌ مُبِينٌ",
+        "en_sahih": "English translation of [43:29] in Sahih International style.",
+        "en_yusufali": "English translation of [43:29] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:29] en español.",
+        "fr_hamidullah": "Traduction de [43:29] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:30",
+      "surahNumber": 43,
+      "ayahNumber": 30,
+      "text": {
+        "simple": "وَلَمَّا جَاءَهُمُ الْحَقُّ قَالُوا هَٰذَا سِحْرٌ وَإِنَّا بِهِ كَافِرُونَ",
+        "en_sahih": "English translation of [43:30] in Sahih International style.",
+        "en_yusufali": "English translation of [43:30] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:30] en español.",
+        "fr_hamidullah": "Traduction de [43:30] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:31",
+      "surahNumber": 43,
+      "ayahNumber": 31,
+      "text": {
+        "simple": "وَقَالُوا لَوْلَا نُزِّلَ هَٰذَا الْقُرْآنُ عَلَىٰ رَجُلٍ مِنَ الْقَرْيَتَيْنِ عَظِيمٍ",
+        "en_sahih": "English translation of [43:31] in Sahih International style.",
+        "en_yusufali": "English translation of [43:31] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:31] en español.",
+        "fr_hamidullah": "Traduction de [43:31] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:32",
+      "surahNumber": 43,
+      "ayahNumber": 32,
+      "text": {
+        "simple": "أَهُمْ يَقْسِمُونَ رَحْمَتَ رَبِّكَ ۚ نَحْنُ قَسَمْنَا بَيْنَهُمْ مَعِيشَتَهُمْ فِي الْحَيَاةِ الدُّنْيَا ۚ وَرَفَعْنَا بَعْضَهُمْ فَوْقَ بَعْضٍ دَرَجَاتٍ لِيَتَّخِذَ بَعْضُهُمْ بَعْضًا سُخْرِيًّا ۗ وَرَحْمَتُ رَبِّكَ خَيْرٌ مِمَّا يَجْمَعُونَ",
+        "en_sahih": "English translation of [43:32] in Sahih International style.",
+        "en_yusufali": "English translation of [43:32] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:32] en español.",
+        "fr_hamidullah": "Traduction de [43:32] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:33",
+      "surahNumber": 43,
+      "ayahNumber": 33,
+      "text": {
+        "simple": "وَلَوْلَا أَنْ يَكُونَ النَّاسُ أُمَّةً وَاحِدَةً لَجَعَلْنَا لِمَنْ يَكْفُرُ بِالرَّحْمَٰنِ لِبُيُوتِهِمْ سُقُفًا مِنْ فِضَّةٍ وَمَعَارِجَ عَلَيْهَا يَظْهَرُونَ",
+        "en_sahih": "English translation of [43:33] in Sahih International style.",
+        "en_yusufali": "English translation of [43:33] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:33] en español.",
+        "fr_hamidullah": "Traduction de [43:33] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:34",
+      "surahNumber": 43,
+      "ayahNumber": 34,
+      "text": {
+        "simple": "وَلِبُيُوتِهِمْ أَبْوَابًا وَسُرُرًا عَلَيْهَا يَتَّكِئُونَ",
+        "en_sahih": "English translation of [43:34] in Sahih International style.",
+        "en_yusufali": "English translation of [43:34] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:34] en español.",
+        "fr_hamidullah": "Traduction de [43:34] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:35",
+      "surahNumber": 43,
+      "ayahNumber": 35,
+      "text": {
+        "simple": "وَزُخْرُفًا ۚ وَإِنْ كُلُّ ذَٰلِكَ لَمَّا مَتَاعُ الْحَيَاةِ الدُّنْيَا ۚ وَالْآخِرَةُ عِنْدَ رَبِّكَ لِلْمُتَّقِينَ",
+        "en_sahih": "English translation of [43:35] in Sahih International style.",
+        "en_yusufali": "English translation of [43:35] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:35] en español.",
+        "fr_hamidullah": "Traduction de [43:35] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:36",
+      "surahNumber": 43,
+      "ayahNumber": 36,
+      "text": {
+        "simple": "وَمَنْ يَعْشُ عَنْ ذِكْرِ الرَّحْمَٰنِ نُقَيِّضْ لَهُ شَيْطَانًا فَهُوَ لَهُ قَرِينٌ",
+        "en_sahih": "English translation of [43:36] in Sahih International style.",
+        "en_yusufali": "English translation of [43:36] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:36] en español.",
+        "fr_hamidullah": "Traduction de [43:36] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:37",
+      "surahNumber": 43,
+      "ayahNumber": 37,
+      "text": {
+        "simple": "وَإِنَّهُمْ لَيَصُدُّونَهُمْ عَنِ السَّبِيلِ وَيَحْسَبُونَ أَنَّهُمْ مُهْتَدُونَ",
+        "en_sahih": "English translation of [43:37] in Sahih International style.",
+        "en_yusufali": "English translation of [43:37] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:37] en español.",
+        "fr_hamidullah": "Traduction de [43:37] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:38",
+      "surahNumber": 43,
+      "ayahNumber": 38,
+      "text": {
+        "simple": "حَتَّىٰ إِذَا جَاءَنَا قَالَ يَا لَيْتَ بَيْنِي وَبَيْنَكَ بُعْدَ الْمَشْرِقَيْنِ فَبِئْسَ الْقَرِينُ",
+        "en_sahih": "English translation of [43:38] in Sahih International style.",
+        "en_yusufali": "English translation of [43:38] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 38 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:38] en español.",
+        "fr_hamidullah": "Traduction de [43:38] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:39",
+      "surahNumber": 43,
+      "ayahNumber": 39,
+      "text": {
+        "simple": "وَلَنْ يَنْفَعَكُمُ الْيَوْمَ إِذْ ظَلَمْتُمْ أَنَّكُمْ فِي الْعَذَابِ مُشْتَرِكُونَ",
+        "en_sahih": "English translation of [43:39] in Sahih International style.",
+        "en_yusufali": "English translation of [43:39] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 39 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:39] en español.",
+        "fr_hamidullah": "Traduction de [43:39] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:40",
+      "surahNumber": 43,
+      "ayahNumber": 40,
+      "text": {
+        "simple": "أَفَأَنْتَ تُسْمِعُ الصُّمَّ أَوْ تَهْدِي الْعُمْيَ وَمَنْ كَانَ فِي ضَلَالٍ مُبِينٍ",
+        "en_sahih": "English translation of [43:40] in Sahih International style.",
+        "en_yusufali": "English translation of [43:40] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 40 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:40] en español.",
+        "fr_hamidullah": "Traduction de [43:40] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:41",
+      "surahNumber": 43,
+      "ayahNumber": 41,
+      "text": {
+        "simple": "فَإِمَّا نَذْهَبَنَّ بِكَ فَإِنَّا مِنْهُمْ مُنْتَقِمُونَ",
+        "en_sahih": "English translation of [43:41] in Sahih International style.",
+        "en_yusufali": "English translation of [43:41] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 41 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:41] en español.",
+        "fr_hamidullah": "Traduction de [43:41] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:42",
+      "surahNumber": 43,
+      "ayahNumber": 42,
+      "text": {
+        "simple": "أَوْ نُرِيَنَّكَ الَّذِي وَعَدْنَاهُمْ فَإِنَّا عَلَيْهِمْ مُقْتَدِرُونَ",
+        "en_sahih": "English translation of [43:42] in Sahih International style.",
+        "en_yusufali": "English translation of [43:42] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 42 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:42] en español.",
+        "fr_hamidullah": "Traduction de [43:42] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:43",
+      "surahNumber": 43,
+      "ayahNumber": 43,
+      "text": {
+        "simple": "فَاسْتَمْسِكْ بِالَّذِي أُوحِيَ إِلَيْكَ ۖ إِنَّكَ عَلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+        "en_sahih": "English translation of [43:43] in Sahih International style.",
+        "en_yusufali": "English translation of [43:43] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 43 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:43] en español.",
+        "fr_hamidullah": "Traduction de [43:43] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:44",
+      "surahNumber": 43,
+      "ayahNumber": 44,
+      "text": {
+        "simple": "وَإِنَّهُ لَذِكْرٌ لَكَ وَلِقَوْمِكَ ۖ وَسَوْفَ تُسْأَلُونَ",
+        "en_sahih": "English translation of [43:44] in Sahih International style.",
+        "en_yusufali": "English translation of [43:44] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 44 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:44] en español.",
+        "fr_hamidullah": "Traduction de [43:44] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:45",
+      "surahNumber": 43,
+      "ayahNumber": 45,
+      "text": {
+        "simple": "وَاسْأَلْ مَنْ أَرْسَلْنَا مِنْ قَبْلِكَ مِنْ رُسُلِنَا أَجَعَلْنَا مِنْ دُونِ الرَّحْمَٰنِ آلِهَةً يُعْبَدُونَ",
+        "en_sahih": "English translation of [43:45] in Sahih International style.",
+        "en_yusufali": "English translation of [43:45] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 45 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:45] en español.",
+        "fr_hamidullah": "Traduction de [43:45] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:46",
+      "surahNumber": 43,
+      "ayahNumber": 46,
+      "text": {
+        "simple": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِآيَاتِنَا إِلَىٰ فِرْعَوْنَ وَمَلَئِهِ فَقَالَ إِنِّي رَسُولُ رَبِّ الْعَالَمِينَ",
+        "en_sahih": "English translation of [43:46] in Sahih International style.",
+        "en_yusufali": "English translation of [43:46] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 46 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:46] en español.",
+        "fr_hamidullah": "Traduction de [43:46] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:47",
+      "surahNumber": 43,
+      "ayahNumber": 47,
+      "text": {
+        "simple": "فَلَمَّا جَاءَهُمْ بِآيَاتِنَا إِذَا هُمْ مِنْهَا يَضْحَكُونَ",
+        "en_sahih": "English translation of [43:47] in Sahih International style.",
+        "en_yusufali": "English translation of [43:47] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 47 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:47] en español.",
+        "fr_hamidullah": "Traduction de [43:47] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:48",
+      "surahNumber": 43,
+      "ayahNumber": 48,
+      "text": {
+        "simple": "وَمَا نُرِيهِمْ مِنْ آيَةٍ إِلَّا هِيَ أَكْبَرُ مِنْ أُخْتِهَا ۖ وَأَخَذْنَاهُمْ بِالْعَذَابِ لَعَلَّهُمْ يَرْجِعُونَ",
+        "en_sahih": "English translation of [43:48] in Sahih International style.",
+        "en_yusufali": "English translation of [43:48] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 48 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:48] en español.",
+        "fr_hamidullah": "Traduction de [43:48] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:49",
+      "surahNumber": 43,
+      "ayahNumber": 49,
+      "text": {
+        "simple": "وَقَالُوا يَا أَيُّهَ السَّاحِرُ ادْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِنْدَكَ إِنَّنَا لَمُهْتَدُونَ",
+        "en_sahih": "English translation of [43:49] in Sahih International style.",
+        "en_yusufali": "English translation of [43:49] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 49 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:49] en español.",
+        "fr_hamidullah": "Traduction de [43:49] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:50",
+      "surahNumber": 43,
+      "ayahNumber": 50,
+      "text": {
+        "simple": "فَلَمَّا كَشَفْنَا عَنْهُمُ الْعَذَابَ إِذَا هُمْ يَنْكُثُونَ",
+        "en_sahih": "English translation of [43:50] in Sahih International style.",
+        "en_yusufali": "English translation of [43:50] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 50 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:50] en español.",
+        "fr_hamidullah": "Traduction de [43:50] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:51",
+      "surahNumber": 43,
+      "ayahNumber": 51,
+      "text": {
+        "simple": "وَنَادَىٰ فِرْعَوْنُ فِي قَوْمِهِ قَالَ يَا قَوْمِ أَلَيْسَ لِي مُلْكُ مِصْرَ وَهَٰذِهِ الْأَنْهَارُ تَجْرِي مِنْ تَحْتِي ۖ أَفَلَا تُبْصِرُونَ",
+        "en_sahih": "English translation of [43:51] in Sahih International style.",
+        "en_yusufali": "English translation of [43:51] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 51 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:51] en español.",
+        "fr_hamidullah": "Traduction de [43:51] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:52",
+      "surahNumber": 43,
+      "ayahNumber": 52,
+      "text": {
+        "simple": "أَمْ أَنَا خَيْرٌ مِنْ هَٰذَا الَّذِي هُوَ مَهِينٌ وَلَا يَكَادُ يُبِينُ",
+        "en_sahih": "English translation of [43:52] in Sahih International style.",
+        "en_yusufali": "English translation of [43:52] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 52 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:52] en español.",
+        "fr_hamidullah": "Traduction de [43:52] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:53",
+      "surahNumber": 43,
+      "ayahNumber": 53,
+      "text": {
+        "simple": "فَلَوْلَا أُلْقِيَ عَلَيْهِ أَسْوِرَةٌ مِنْ ذَهَبٍ أَوْ جَاءَ مَعَهُ الْمَلَائِكَةُ مُقْتَرِنِينَ",
+        "en_sahih": "English translation of [43:53] in Sahih International style.",
+        "en_yusufali": "English translation of [43:53] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 53 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:53] en español.",
+        "fr_hamidullah": "Traduction de [43:53] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 53 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:54",
+      "surahNumber": 43,
+      "ayahNumber": 54,
+      "text": {
+        "simple": "فَاسْتَخَفَّ قَوْمَهُ فَأَطَاعُوهُ ۚ إِنَّهُمْ كَانُوا قَوْمًا فَاسِقِينَ",
+        "en_sahih": "English translation of [43:54] in Sahih International style.",
+        "en_yusufali": "English translation of [43:54] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 54 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:54] en español.",
+        "fr_hamidullah": "Traduction de [43:54] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 54 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:55",
+      "surahNumber": 43,
+      "ayahNumber": 55,
+      "text": {
+        "simple": "فَلَمَّا آسَفُونَا انْتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَاهُمْ أَجْمَعِينَ",
+        "en_sahih": "English translation of [43:55] in Sahih International style.",
+        "en_yusufali": "English translation of [43:55] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 55 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:55] en español.",
+        "fr_hamidullah": "Traduction de [43:55] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 55 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:56",
+      "surahNumber": 43,
+      "ayahNumber": 56,
+      "text": {
+        "simple": "فَجَعَلْنَاهُمْ سَلَفًا وَمَثَلًا لِلْآخِرِينَ",
+        "en_sahih": "English translation of [43:56] in Sahih International style.",
+        "en_yusufali": "English translation of [43:56] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 56 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:56] en español.",
+        "fr_hamidullah": "Traduction de [43:56] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 56 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:57",
+      "surahNumber": 43,
+      "ayahNumber": 57,
+      "text": {
+        "simple": "۞ وَلَمَّا ضُرِبَ ابْنُ مَرْيَمَ مَثَلًا إِذَا قَوْمُكَ مِنْهُ يَصِدُّونَ",
+        "en_sahih": "English translation of [43:57] in Sahih International style.",
+        "en_yusufali": "English translation of [43:57] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 57 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:57] en español.",
+        "fr_hamidullah": "Traduction de [43:57] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 57 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:58",
+      "surahNumber": 43,
+      "ayahNumber": 58,
+      "text": {
+        "simple": "وَقَالُوا أَآلِهَتُنَا خَيْرٌ أَمْ هُوَ ۚ مَا ضَرَبُوهُ لَكَ إِلَّا جَدَلًا ۚ بَلْ هُمْ قَوْمٌ خَصِمُونَ",
+        "en_sahih": "English translation of [43:58] in Sahih International style.",
+        "en_yusufali": "English translation of [43:58] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 58 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:58] en español.",
+        "fr_hamidullah": "Traduction de [43:58] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 58 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:59",
+      "surahNumber": 43,
+      "ayahNumber": 59,
+      "text": {
+        "simple": "إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَاهُ مَثَلًا لِبَنِي إِسْرَائِيلَ",
+        "en_sahih": "English translation of [43:59] in Sahih International style.",
+        "en_yusufali": "English translation of [43:59] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 59 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:59] en español.",
+        "fr_hamidullah": "Traduction de [43:59] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 59 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:60",
+      "surahNumber": 43,
+      "ayahNumber": 60,
+      "text": {
+        "simple": "وَلَوْ نَشَاءُ لَجَعَلْنَا مِنْكُمْ مَلَائِكَةً فِي الْأَرْضِ يَخْلُفُونَ",
+        "en_sahih": "English translation of [43:60] in Sahih International style.",
+        "en_yusufali": "English translation of [43:60] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 60 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:60] en español.",
+        "fr_hamidullah": "Traduction de [43:60] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 60 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:61",
+      "surahNumber": 43,
+      "ayahNumber": 61,
+      "text": {
+        "simple": "وَإِنَّهُ لَعِلْمٌ لِلسَّاعَةِ فَلَا تَمْتَرُنَّ بِهَا وَاتَّبِعُونِ ۚ هَٰذَا صِرَاطٌ مُسْتَقِيمٌ",
+        "en_sahih": "English translation of [43:61] in Sahih International style.",
+        "en_yusufali": "English translation of [43:61] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 61 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:61] en español.",
+        "fr_hamidullah": "Traduction de [43:61] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 61 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:62",
+      "surahNumber": 43,
+      "ayahNumber": 62,
+      "text": {
+        "simple": "وَلَا يَصُدَّنَّكُمُ الشَّيْطَانُ ۖ إِنَّهُ لَكُمْ عَدُوٌّ مُبِينٌ",
+        "en_sahih": "English translation of [43:62] in Sahih International style.",
+        "en_yusufali": "English translation of [43:62] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 62 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:62] en español.",
+        "fr_hamidullah": "Traduction de [43:62] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 62 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:63",
+      "surahNumber": 43,
+      "ayahNumber": 63,
+      "text": {
+        "simple": "وَلَمَّا جَاءَ عِيسَىٰ بِالْبَيِّنَاتِ قَالَ قَدْ جِئْتُكُمْ بِالْحِكْمَةِ وَلِأُبَيِّنَ لَكُمْ بَعْضَ الَّذِي تَخْتَلِفُونَ فِيهِ ۖ فَاتَّقُوا اللَّهَ وَأَطِيعُونِ",
+        "en_sahih": "English translation of [43:63] in Sahih International style.",
+        "en_yusufali": "English translation of [43:63] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 63 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:63] en español.",
+        "fr_hamidullah": "Traduction de [43:63] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 63 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:64",
+      "surahNumber": 43,
+      "ayahNumber": 64,
+      "text": {
+        "simple": "إِنَّ اللَّهَ هُوَ رَبِّي وَرَبُّكُمْ فَاعْبُدُوهُ ۚ هَٰذَا صِرَاطٌ مُسْتَقِيمٌ",
+        "en_sahih": "English translation of [43:64] in Sahih International style.",
+        "en_yusufali": "English translation of [43:64] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 64 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:64] en español.",
+        "fr_hamidullah": "Traduction de [43:64] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 64 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:65",
+      "surahNumber": 43,
+      "ayahNumber": 65,
+      "text": {
+        "simple": "فَاخْتَلَفَ الْأَحْزَابُ مِنْ بَيْنِهِمْ ۖ فَوَيْلٌ لِلَّذِينَ ظَلَمُوا مِنْ عَذَابِ يَوْمٍ أَلِيمٍ",
+        "en_sahih": "English translation of [43:65] in Sahih International style.",
+        "en_yusufali": "English translation of [43:65] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 65 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:65] en español.",
+        "fr_hamidullah": "Traduction de [43:65] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 65 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:66",
+      "surahNumber": 43,
+      "ayahNumber": 66,
+      "text": {
+        "simple": "هَلْ يَنْظُرُونَ إِلَّا السَّاعَةَ أَنْ تَأْتِيَهُمْ بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
+        "en_sahih": "English translation of [43:66] in Sahih International style.",
+        "en_yusufali": "English translation of [43:66] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 66 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:66] en español.",
+        "fr_hamidullah": "Traduction de [43:66] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 66 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:67",
+      "surahNumber": 43,
+      "ayahNumber": 67,
+      "text": {
+        "simple": "الْأَخِلَّاءُ يَوْمَئِذٍ بَعْضُهُمْ لِبَعْضٍ عَدُوٌّ إِلَّا الْمُتَّقِينَ",
+        "en_sahih": "English translation of [43:67] in Sahih International style.",
+        "en_yusufali": "English translation of [43:67] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 67 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:67] en español.",
+        "fr_hamidullah": "Traduction de [43:67] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 67 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:68",
+      "surahNumber": 43,
+      "ayahNumber": 68,
+      "text": {
+        "simple": "يَا عِبَادِ لَا خَوْفٌ عَلَيْكُمُ الْيَوْمَ وَلَا أَنْتُمْ تَحْزَنُونَ",
+        "en_sahih": "English translation of [43:68] in Sahih International style.",
+        "en_yusufali": "English translation of [43:68] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 68 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:68] en español.",
+        "fr_hamidullah": "Traduction de [43:68] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 68 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:69",
+      "surahNumber": 43,
+      "ayahNumber": 69,
+      "text": {
+        "simple": "الَّذِينَ آمَنُوا بِآيَاتِنَا وَكَانُوا مُسْلِمِينَ",
+        "en_sahih": "English translation of [43:69] in Sahih International style.",
+        "en_yusufali": "English translation of [43:69] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 69 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:69] en español.",
+        "fr_hamidullah": "Traduction de [43:69] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 69 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:70",
+      "surahNumber": 43,
+      "ayahNumber": 70,
+      "text": {
+        "simple": "ادْخُلُوا الْجَنَّةَ أَنْتُمْ وَأَزْوَاجُكُمْ تُحْبَرُونَ",
+        "en_sahih": "English translation of [43:70] in Sahih International style.",
+        "en_yusufali": "English translation of [43:70] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 70 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:70] en español.",
+        "fr_hamidullah": "Traduction de [43:70] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 70 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:71",
+      "surahNumber": 43,
+      "ayahNumber": 71,
+      "text": {
+        "simple": "يُطَافُ عَلَيْهِمْ بِصِحَافٍ مِنْ ذَهَبٍ وَأَكْوَابٍ ۖ وَفِيهَا مَا تَشْتَهِيهِ الْأَنْفُسُ وَتَلَذُّ الْأَعْيُنُ ۖ وَأَنْتُمْ فِيهَا خَالِدُونَ",
+        "en_sahih": "English translation of [43:71] in Sahih International style.",
+        "en_yusufali": "English translation of [43:71] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 71 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:71] en español.",
+        "fr_hamidullah": "Traduction de [43:71] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 71 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:72",
+      "surahNumber": 43,
+      "ayahNumber": 72,
+      "text": {
+        "simple": "وَتِلْكَ الْجَنَّةُ الَّتِي أُورِثْتُمُوهَا بِمَا كُنْتُمْ تَعْمَلُونَ",
+        "en_sahih": "English translation of [43:72] in Sahih International style.",
+        "en_yusufali": "English translation of [43:72] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 72 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:72] en español.",
+        "fr_hamidullah": "Traduction de [43:72] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 72 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:73",
+      "surahNumber": 43,
+      "ayahNumber": 73,
+      "text": {
+        "simple": "لَكُمْ فِيهَا فَاكِهَةٌ كَثِيرَةٌ مِنْهَا تَأْكُلُونَ",
+        "en_sahih": "English translation of [43:73] in Sahih International style.",
+        "en_yusufali": "English translation of [43:73] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 73 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:73] en español.",
+        "fr_hamidullah": "Traduction de [43:73] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 73 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:74",
+      "surahNumber": 43,
+      "ayahNumber": 74,
+      "text": {
+        "simple": "إِنَّ الْمُجْرِمِينَ فِي عَذَابِ جَهَنَّمَ خَالِدُونَ",
+        "en_sahih": "English translation of [43:74] in Sahih International style.",
+        "en_yusufali": "English translation of [43:74] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 74 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:74] en español.",
+        "fr_hamidullah": "Traduction de [43:74] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 74 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:75",
+      "surahNumber": 43,
+      "ayahNumber": 75,
+      "text": {
+        "simple": "لَا يُفَتَّرُ عَنْهُمْ وَهُمْ فِيهِ مُبْلِسُونَ",
+        "en_sahih": "English translation of [43:75] in Sahih International style.",
+        "en_yusufali": "English translation of [43:75] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 75 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:75] en español.",
+        "fr_hamidullah": "Traduction de [43:75] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 75 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:76",
+      "surahNumber": 43,
+      "ayahNumber": 76,
+      "text": {
+        "simple": "وَمَا ظَلَمْنَاهُمْ وَلَٰكِنْ كَانُوا هُمُ الظَّالِمِينَ",
+        "en_sahih": "English translation of [43:76] in Sahih International style.",
+        "en_yusufali": "English translation of [43:76] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 76 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:76] en español.",
+        "fr_hamidullah": "Traduction de [43:76] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 76 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:77",
+      "surahNumber": 43,
+      "ayahNumber": 77,
+      "text": {
+        "simple": "وَنَادَوْا يَا مَالِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُمْ مَاكِثُونَ",
+        "en_sahih": "English translation of [43:77] in Sahih International style.",
+        "en_yusufali": "English translation of [43:77] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 77 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:77] en español.",
+        "fr_hamidullah": "Traduction de [43:77] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 77 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:78",
+      "surahNumber": 43,
+      "ayahNumber": 78,
+      "text": {
+        "simple": "لَقَدْ جِئْنَاكُمْ بِالْحَقِّ وَلَٰكِنَّ أَكْثَرَكُمْ لِلْحَقِّ كَارِهُونَ",
+        "en_sahih": "English translation of [43:78] in Sahih International style.",
+        "en_yusufali": "English translation of [43:78] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 78 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:78] en español.",
+        "fr_hamidullah": "Traduction de [43:78] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 78 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:79",
+      "surahNumber": 43,
+      "ayahNumber": 79,
+      "text": {
+        "simple": "أَمْ أَبْرَمُوا أَمْرًا فَإِنَّا مُبْرِمُونَ",
+        "en_sahih": "English translation of [43:79] in Sahih International style.",
+        "en_yusufali": "English translation of [43:79] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 79 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:79] en español.",
+        "fr_hamidullah": "Traduction de [43:79] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 79 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:80",
+      "surahNumber": 43,
+      "ayahNumber": 80,
+      "text": {
+        "simple": "أَمْ يَحْسَبُونَ أَنَّا لَا نَسْمَعُ سِرَّهُمْ وَنَجْوَاهُمْ ۚ بَلَىٰ وَرُسُلُنَا لَدَيْهِمْ يَكْتُبُونَ",
+        "en_sahih": "English translation of [43:80] in Sahih International style.",
+        "en_yusufali": "English translation of [43:80] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 80 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:80] en español.",
+        "fr_hamidullah": "Traduction de [43:80] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 80 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:81",
+      "surahNumber": 43,
+      "ayahNumber": 81,
+      "text": {
+        "simple": "قُلْ إِنْ كَانَ لِلرَّحْمَٰنِ وَلَدٌ فَأَنَا أَوَّلُ الْعَابِدِينَ",
+        "en_sahih": "English translation of [43:81] in Sahih International style.",
+        "en_yusufali": "English translation of [43:81] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 81 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:81] en español.",
+        "fr_hamidullah": "Traduction de [43:81] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 81 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:82",
+      "surahNumber": 43,
+      "ayahNumber": 82,
+      "text": {
+        "simple": "سُبْحَانَ رَبِّ السَّمَاوَاتِ وَالْأَرْضِ رَبِّ الْعَرْشِ عَمَّا يَصِفُونَ",
+        "en_sahih": "English translation of [43:82] in Sahih International style.",
+        "en_yusufali": "English translation of [43:82] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 82 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:82] en español.",
+        "fr_hamidullah": "Traduction de [43:82] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 82 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:83",
+      "surahNumber": 43,
+      "ayahNumber": 83,
+      "text": {
+        "simple": "فَذَرْهُمْ يَخُوضُوا وَيَلْعَبُوا حَتَّىٰ يُلَاقُوا يَوْمَهُمُ الَّذِي يُوعَدُونَ",
+        "en_sahih": "English translation of [43:83] in Sahih International style.",
+        "en_yusufali": "English translation of [43:83] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 83 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:83] en español.",
+        "fr_hamidullah": "Traduction de [43:83] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 83 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:84",
+      "surahNumber": 43,
+      "ayahNumber": 84,
+      "text": {
+        "simple": "وَهُوَ الَّذِي فِي السَّمَاءِ إِلَٰهٌ وَفِي الْأَرْضِ إِلَٰهٌ ۚ وَهُوَ الْحَكِيمُ الْعَلِيمُ",
+        "en_sahih": "English translation of [43:84] in Sahih International style.",
+        "en_yusufali": "English translation of [43:84] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 84 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:84] en español.",
+        "fr_hamidullah": "Traduction de [43:84] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 84 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:85",
+      "surahNumber": 43,
+      "ayahNumber": 85,
+      "text": {
+        "simple": "وَتَبَارَكَ الَّذِي لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا وَعِنْدَهُ عِلْمُ السَّاعَةِ وَإِلَيْهِ تُرْجَعُونَ",
+        "en_sahih": "English translation of [43:85] in Sahih International style.",
+        "en_yusufali": "English translation of [43:85] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 85 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:85] en español.",
+        "fr_hamidullah": "Traduction de [43:85] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 85 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:86",
+      "surahNumber": 43,
+      "ayahNumber": 86,
+      "text": {
+        "simple": "وَلَا يَمْلِكُ الَّذِينَ يَدْعُونَ مِنْ دُونِهِ الشَّفَاعَةَ إِلَّا مَنْ شَهِدَ بِالْحَقِّ وَهُمْ يَعْلَمُونَ",
+        "en_sahih": "English translation of [43:86] in Sahih International style.",
+        "en_yusufali": "English translation of [43:86] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 86 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:86] en español.",
+        "fr_hamidullah": "Traduction de [43:86] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 86 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:87",
+      "surahNumber": 43,
+      "ayahNumber": 87,
+      "text": {
+        "simple": "وَلَئِنْ سَأَلْتَهُمْ مَنْ خَلَقَهُمْ لَيَقُولُنَّ اللَّهُ ۖ فَأَنَّىٰ يُؤْفَكُونَ",
+        "en_sahih": "English translation of [43:87] in Sahih International style.",
+        "en_yusufali": "English translation of [43:87] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 87 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:87] en español.",
+        "fr_hamidullah": "Traduction de [43:87] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 87 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:88",
+      "surahNumber": 43,
+      "ayahNumber": 88,
+      "text": {
+        "simple": "وَقِيلِهِ يَا رَبِّ إِنَّ هَٰؤُلَاءِ قَوْمٌ لَا يُؤْمِنُونَ",
+        "en_sahih": "English translation of [43:88] in Sahih International style.",
+        "en_yusufali": "English translation of [43:88] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 88 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:88] en español.",
+        "fr_hamidullah": "Traduction de [43:88] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 88 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "43:89",
+      "surahNumber": 43,
+      "ayahNumber": 89,
+      "text": {
+        "simple": "فَاصْفَحْ عَنْهُمْ وَقُلْ سَلَامٌ ۚ فَسَوْفَ يَعْلَمُونَ",
+        "en_sahih": "English translation of [43:89] in Sahih International style.",
+        "en_yusufali": "English translation of [43:89] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 43 آیت 89 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [43:89] en español.",
+        "fr_hamidullah": "Traduction de [43:89] en français.",
+        "bn_hoque": "সূরা 43 আয়াত 89 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

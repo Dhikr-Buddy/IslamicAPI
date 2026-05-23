@@ -1,0 +1,757 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.986Z",
+  "surahNumber": 42,
+  "ayahCount": 53,
+  "ayahs": [
+    {
+      "id": "42:1",
+      "surahNumber": 42,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ حم",
+        "en_sahih": "English translation of [42:1] in Sahih International style.",
+        "en_yusufali": "English translation of [42:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:1] en español.",
+        "fr_hamidullah": "Traduction de [42:1] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:2",
+      "surahNumber": 42,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "عسق",
+        "en_sahih": "English translation of [42:2] in Sahih International style.",
+        "en_yusufali": "English translation of [42:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:2] en español.",
+        "fr_hamidullah": "Traduction de [42:2] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:3",
+      "surahNumber": 42,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "كَذَٰلِكَ يُوحِي إِلَيْكَ وَإِلَى الَّذِينَ مِنْ قَبْلِكَ اللَّهُ الْعَزِيزُ الْحَكِيمُ",
+        "en_sahih": "English translation of [42:3] in Sahih International style.",
+        "en_yusufali": "English translation of [42:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:3] en español.",
+        "fr_hamidullah": "Traduction de [42:3] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:4",
+      "surahNumber": 42,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۖ وَهُوَ الْعَلِيُّ الْعَظِيمُ",
+        "en_sahih": "English translation of [42:4] in Sahih International style.",
+        "en_yusufali": "English translation of [42:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:4] en español.",
+        "fr_hamidullah": "Traduction de [42:4] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:5",
+      "surahNumber": 42,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "تَكَادُ السَّمَاوَاتُ يَتَفَطَّرْنَ مِنْ فَوْقِهِنَّ ۚ وَالْمَلَائِكَةُ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيَسْتَغْفِرُونَ لِمَنْ فِي الْأَرْضِ ۗ أَلَا إِنَّ اللَّهَ هُوَ الْغَفُورُ الرَّحِيمُ",
+        "en_sahih": "English translation of [42:5] in Sahih International style.",
+        "en_yusufali": "English translation of [42:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:5] en español.",
+        "fr_hamidullah": "Traduction de [42:5] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:6",
+      "surahNumber": 42,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "وَالَّذِينَ اتَّخَذُوا مِنْ دُونِهِ أَوْلِيَاءَ اللَّهُ حَفِيظٌ عَلَيْهِمْ وَمَا أَنْتَ عَلَيْهِمْ بِوَكِيلٍ",
+        "en_sahih": "English translation of [42:6] in Sahih International style.",
+        "en_yusufali": "English translation of [42:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:6] en español.",
+        "fr_hamidullah": "Traduction de [42:6] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:7",
+      "surahNumber": 42,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "وَكَذَٰلِكَ أَوْحَيْنَا إِلَيْكَ قُرْآنًا عَرَبِيًّا لِتُنْذِرَ أُمَّ الْقُرَىٰ وَمَنْ حَوْلَهَا وَتُنْذِرَ يَوْمَ الْجَمْعِ لَا رَيْبَ فِيهِ ۚ فَرِيقٌ فِي الْجَنَّةِ وَفَرِيقٌ فِي السَّعِيرِ",
+        "en_sahih": "English translation of [42:7] in Sahih International style.",
+        "en_yusufali": "English translation of [42:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:7] en español.",
+        "fr_hamidullah": "Traduction de [42:7] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:8",
+      "surahNumber": 42,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "وَلَوْ شَاءَ اللَّهُ لَجَعَلَهُمْ أُمَّةً وَاحِدَةً وَلَٰكِنْ يُدْخِلُ مَنْ يَشَاءُ فِي رَحْمَتِهِ ۚ وَالظَّالِمُونَ مَا لَهُمْ مِنْ وَلِيٍّ وَلَا نَصِيرٍ",
+        "en_sahih": "English translation of [42:8] in Sahih International style.",
+        "en_yusufali": "English translation of [42:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:8] en español.",
+        "fr_hamidullah": "Traduction de [42:8] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:9",
+      "surahNumber": 42,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "أَمِ اتَّخَذُوا مِنْ دُونِهِ أَوْلِيَاءَ ۖ فَاللَّهُ هُوَ الْوَلِيُّ وَهُوَ يُحْيِي الْمَوْتَىٰ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+        "en_sahih": "English translation of [42:9] in Sahih International style.",
+        "en_yusufali": "English translation of [42:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:9] en español.",
+        "fr_hamidullah": "Traduction de [42:9] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:10",
+      "surahNumber": 42,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "وَمَا اخْتَلَفْتُمْ فِيهِ مِنْ شَيْءٍ فَحُكْمُهُ إِلَى اللَّهِ ۚ ذَٰلِكُمُ اللَّهُ رَبِّي عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ",
+        "en_sahih": "English translation of [42:10] in Sahih International style.",
+        "en_yusufali": "English translation of [42:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:10] en español.",
+        "fr_hamidullah": "Traduction de [42:10] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:11",
+      "surahNumber": 42,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "فَاطِرُ السَّمَاوَاتِ وَالْأَرْضِ ۚ جَعَلَ لَكُمْ مِنْ أَنْفُسِكُمْ أَزْوَاجًا وَمِنَ الْأَنْعَامِ أَزْوَاجًا ۖ يَذْرَؤُكُمْ فِيهِ ۚ لَيْسَ كَمِثْلِهِ شَيْءٌ ۖ وَهُوَ السَّمِيعُ الْبَصِيرُ",
+        "en_sahih": "English translation of [42:11] in Sahih International style.",
+        "en_yusufali": "English translation of [42:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:11] en español.",
+        "fr_hamidullah": "Traduction de [42:11] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:12",
+      "surahNumber": 42,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "لَهُ مَقَالِيدُ السَّمَاوَاتِ وَالْأَرْضِ ۖ يَبْسُطُ الرِّزْقَ لِمَنْ يَشَاءُ وَيَقْدِرُ ۚ إِنَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ",
+        "en_sahih": "English translation of [42:12] in Sahih International style.",
+        "en_yusufali": "English translation of [42:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:12] en español.",
+        "fr_hamidullah": "Traduction de [42:12] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:13",
+      "surahNumber": 42,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "۞ شَرَعَ لَكُمْ مِنَ الدِّينِ مَا وَصَّىٰ بِهِ نُوحًا وَالَّذِي أَوْحَيْنَا إِلَيْكَ وَمَا وَصَّيْنَا بِهِ إِبْرَاهِيمَ وَمُوسَىٰ وَعِيسَىٰ ۖ أَنْ أَقِيمُوا الدِّينَ وَلَا تَتَفَرَّقُوا فِيهِ ۚ كَبُرَ عَلَى الْمُشْرِكِينَ مَا تَدْعُوهُمْ إِلَيْهِ ۚ اللَّهُ يَجْتَبِي إِلَيْهِ مَنْ يَشَاءُ وَيَهْدِي إِلَيْهِ مَنْ يُنِيبُ",
+        "en_sahih": "English translation of [42:13] in Sahih International style.",
+        "en_yusufali": "English translation of [42:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:13] en español.",
+        "fr_hamidullah": "Traduction de [42:13] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:14",
+      "surahNumber": 42,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "وَمَا تَفَرَّقُوا إِلَّا مِنْ بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ ۚ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِنْ رَبِّكَ إِلَىٰ أَجَلٍ مُسَمًّى لَقُضِيَ بَيْنَهُمْ ۚ وَإِنَّ الَّذِينَ أُورِثُوا الْكِتَابَ مِنْ بَعْدِهِمْ لَفِي شَكٍّ مِنْهُ مُرِيبٍ",
+        "en_sahih": "English translation of [42:14] in Sahih International style.",
+        "en_yusufali": "English translation of [42:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:14] en español.",
+        "fr_hamidullah": "Traduction de [42:14] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:15",
+      "surahNumber": 42,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "فَلِذَٰلِكَ فَادْعُ ۖ وَاسْتَقِمْ كَمَا أُمِرْتَ ۖ وَلَا تَتَّبِعْ أَهْوَاءَهُمْ ۖ وَقُلْ آمَنْتُ بِمَا أَنْزَلَ اللَّهُ مِنْ كِتَابٍ ۖ وَأُمِرْتُ لِأَعْدِلَ بَيْنَكُمُ ۖ اللَّهُ رَبُّنَا وَرَبُّكُمْ ۖ لَنَا أَعْمَالُنَا وَلَكُمْ أَعْمَالُكُمْ ۖ لَا حُجَّةَ بَيْنَنَا وَبَيْنَكُمُ ۖ اللَّهُ يَجْمَعُ بَيْنَنَا ۖ وَإِلَيْهِ الْمَصِيرُ",
+        "en_sahih": "English translation of [42:15] in Sahih International style.",
+        "en_yusufali": "English translation of [42:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:15] en español.",
+        "fr_hamidullah": "Traduction de [42:15] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:16",
+      "surahNumber": 42,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "وَالَّذِينَ يُحَاجُّونَ فِي اللَّهِ مِنْ بَعْدِ مَا اسْتُجِيبَ لَهُ حُجَّتُهُمْ دَاحِضَةٌ عِنْدَ رَبِّهِمْ وَعَلَيْهِمْ غَضَبٌ وَلَهُمْ عَذَابٌ شَدِيدٌ",
+        "en_sahih": "English translation of [42:16] in Sahih International style.",
+        "en_yusufali": "English translation of [42:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:16] en español.",
+        "fr_hamidullah": "Traduction de [42:16] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:17",
+      "surahNumber": 42,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "اللَّهُ الَّذِي أَنْزَلَ الْكِتَابَ بِالْحَقِّ وَالْمِيزَانَ ۗ وَمَا يُدْرِيكَ لَعَلَّ السَّاعَةَ قَرِيبٌ",
+        "en_sahih": "English translation of [42:17] in Sahih International style.",
+        "en_yusufali": "English translation of [42:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:17] en español.",
+        "fr_hamidullah": "Traduction de [42:17] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:18",
+      "surahNumber": 42,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "يَسْتَعْجِلُ بِهَا الَّذِينَ لَا يُؤْمِنُونَ بِهَا ۖ وَالَّذِينَ آمَنُوا مُشْفِقُونَ مِنْهَا وَيَعْلَمُونَ أَنَّهَا الْحَقُّ ۗ أَلَا إِنَّ الَّذِينَ يُمَارُونَ فِي السَّاعَةِ لَفِي ضَلَالٍ بَعِيدٍ",
+        "en_sahih": "English translation of [42:18] in Sahih International style.",
+        "en_yusufali": "English translation of [42:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:18] en español.",
+        "fr_hamidullah": "Traduction de [42:18] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:19",
+      "surahNumber": 42,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "اللَّهُ لَطِيفٌ بِعِبَادِهِ يَرْزُقُ مَنْ يَشَاءُ ۖ وَهُوَ الْقَوِيُّ الْعَزِيزُ",
+        "en_sahih": "English translation of [42:19] in Sahih International style.",
+        "en_yusufali": "English translation of [42:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:19] en español.",
+        "fr_hamidullah": "Traduction de [42:19] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:20",
+      "surahNumber": 42,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "مَنْ كَانَ يُرِيدُ حَرْثَ الْآخِرَةِ نَزِدْ لَهُ فِي حَرْثِهِ ۖ وَمَنْ كَانَ يُرِيدُ حَرْثَ الدُّنْيَا نُؤْتِهِ مِنْهَا وَمَا لَهُ فِي الْآخِرَةِ مِنْ نَصِيبٍ",
+        "en_sahih": "English translation of [42:20] in Sahih International style.",
+        "en_yusufali": "English translation of [42:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:20] en español.",
+        "fr_hamidullah": "Traduction de [42:20] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:21",
+      "surahNumber": 42,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "أَمْ لَهُمْ شُرَكَاءُ شَرَعُوا لَهُمْ مِنَ الدِّينِ مَا لَمْ يَأْذَنْ بِهِ اللَّهُ ۚ وَلَوْلَا كَلِمَةُ الْفَصْلِ لَقُضِيَ بَيْنَهُمْ ۗ وَإِنَّ الظَّالِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ",
+        "en_sahih": "English translation of [42:21] in Sahih International style.",
+        "en_yusufali": "English translation of [42:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:21] en español.",
+        "fr_hamidullah": "Traduction de [42:21] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:22",
+      "surahNumber": 42,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "تَرَى الظَّالِمِينَ مُشْفِقِينَ مِمَّا كَسَبُوا وَهُوَ وَاقِعٌ بِهِمْ ۗ وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فِي رَوْضَاتِ الْجَنَّاتِ ۖ لَهُمْ مَا يَشَاءُونَ عِنْدَ رَبِّهِمْ ۚ ذَٰلِكَ هُوَ الْفَضْلُ الْكَبِيرُ",
+        "en_sahih": "English translation of [42:22] in Sahih International style.",
+        "en_yusufali": "English translation of [42:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:22] en español.",
+        "fr_hamidullah": "Traduction de [42:22] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:23",
+      "surahNumber": 42,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "ذَٰلِكَ الَّذِي يُبَشِّرُ اللَّهُ عِبَادَهُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ ۗ قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي الْقُرْبَىٰ ۗ وَمَنْ يَقْتَرِفْ حَسَنَةً نَزِدْ لَهُ فِيهَا حُسْنًا ۚ إِنَّ اللَّهَ غَفُورٌ شَكُورٌ",
+        "en_sahih": "English translation of [42:23] in Sahih International style.",
+        "en_yusufali": "English translation of [42:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:23] en español.",
+        "fr_hamidullah": "Traduction de [42:23] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:24",
+      "surahNumber": 42,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "أَمْ يَقُولُونَ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا ۖ فَإِنْ يَشَإِ اللَّهُ يَخْتِمْ عَلَىٰ قَلْبِكَ ۗ وَيَمْحُ اللَّهُ الْبَاطِلَ وَيُحِقُّ الْحَقَّ بِكَلِمَاتِهِ ۚ إِنَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ",
+        "en_sahih": "English translation of [42:24] in Sahih International style.",
+        "en_yusufali": "English translation of [42:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:24] en español.",
+        "fr_hamidullah": "Traduction de [42:24] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:25",
+      "surahNumber": 42,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "وَهُوَ الَّذِي يَقْبَلُ التَّوْبَةَ عَنْ عِبَادِهِ وَيَعْفُو عَنِ السَّيِّئَاتِ وَيَعْلَمُ مَا تَفْعَلُونَ",
+        "en_sahih": "English translation of [42:25] in Sahih International style.",
+        "en_yusufali": "English translation of [42:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:25] en español.",
+        "fr_hamidullah": "Traduction de [42:25] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:26",
+      "surahNumber": 42,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "وَيَسْتَجِيبُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَيَزِيدُهُمْ مِنْ فَضْلِهِ ۚ وَالْكَافِرُونَ لَهُمْ عَذَابٌ شَدِيدٌ",
+        "en_sahih": "English translation of [42:26] in Sahih International style.",
+        "en_yusufali": "English translation of [42:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:26] en español.",
+        "fr_hamidullah": "Traduction de [42:26] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:27",
+      "surahNumber": 42,
+      "ayahNumber": 27,
+      "text": {
+        "simple": "۞ وَلَوْ بَسَطَ اللَّهُ الرِّزْقَ لِعِبَادِهِ لَبَغَوْا فِي الْأَرْضِ وَلَٰكِنْ يُنَزِّلُ بِقَدَرٍ مَا يَشَاءُ ۚ إِنَّهُ بِعِبَادِهِ خَبِيرٌ بَصِيرٌ",
+        "en_sahih": "English translation of [42:27] in Sahih International style.",
+        "en_yusufali": "English translation of [42:27] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:27] en español.",
+        "fr_hamidullah": "Traduction de [42:27] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:28",
+      "surahNumber": 42,
+      "ayahNumber": 28,
+      "text": {
+        "simple": "وَهُوَ الَّذِي يُنَزِّلُ الْغَيْثَ مِنْ بَعْدِ مَا قَنَطُوا وَيَنْشُرُ رَحْمَتَهُ ۚ وَهُوَ الْوَلِيُّ الْحَمِيدُ",
+        "en_sahih": "English translation of [42:28] in Sahih International style.",
+        "en_yusufali": "English translation of [42:28] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:28] en español.",
+        "fr_hamidullah": "Traduction de [42:28] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:29",
+      "surahNumber": 42,
+      "ayahNumber": 29,
+      "text": {
+        "simple": "وَمِنْ آيَاتِهِ خَلْقُ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَثَّ فِيهِمَا مِنْ دَابَّةٍ ۚ وَهُوَ عَلَىٰ جَمْعِهِمْ إِذَا يَشَاءُ قَدِيرٌ",
+        "en_sahih": "English translation of [42:29] in Sahih International style.",
+        "en_yusufali": "English translation of [42:29] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:29] en español.",
+        "fr_hamidullah": "Traduction de [42:29] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:30",
+      "surahNumber": 42,
+      "ayahNumber": 30,
+      "text": {
+        "simple": "وَمَا أَصَابَكُمْ مِنْ مُصِيبَةٍ فَبِمَا كَسَبَتْ أَيْدِيكُمْ وَيَعْفُو عَنْ كَثِيرٍ",
+        "en_sahih": "English translation of [42:30] in Sahih International style.",
+        "en_yusufali": "English translation of [42:30] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:30] en español.",
+        "fr_hamidullah": "Traduction de [42:30] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:31",
+      "surahNumber": 42,
+      "ayahNumber": 31,
+      "text": {
+        "simple": "وَمَا أَنْتُمْ بِمُعْجِزِينَ فِي الْأَرْضِ ۖ وَمَا لَكُمْ مِنْ دُونِ اللَّهِ مِنْ وَلِيٍّ وَلَا نَصِيرٍ",
+        "en_sahih": "English translation of [42:31] in Sahih International style.",
+        "en_yusufali": "English translation of [42:31] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:31] en español.",
+        "fr_hamidullah": "Traduction de [42:31] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:32",
+      "surahNumber": 42,
+      "ayahNumber": 32,
+      "text": {
+        "simple": "وَمِنْ آيَاتِهِ الْجَوَارِ فِي الْبَحْرِ كَالْأَعْلَامِ",
+        "en_sahih": "English translation of [42:32] in Sahih International style.",
+        "en_yusufali": "English translation of [42:32] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:32] en español.",
+        "fr_hamidullah": "Traduction de [42:32] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:33",
+      "surahNumber": 42,
+      "ayahNumber": 33,
+      "text": {
+        "simple": "إِنْ يَشَأْ يُسْكِنِ الرِّيحَ فَيَظْلَلْنَ رَوَاكِدَ عَلَىٰ ظَهْرِهِ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِكُلِّ صَبَّارٍ شَكُورٍ",
+        "en_sahih": "English translation of [42:33] in Sahih International style.",
+        "en_yusufali": "English translation of [42:33] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:33] en español.",
+        "fr_hamidullah": "Traduction de [42:33] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:34",
+      "surahNumber": 42,
+      "ayahNumber": 34,
+      "text": {
+        "simple": "أَوْ يُوبِقْهُنَّ بِمَا كَسَبُوا وَيَعْفُ عَنْ كَثِيرٍ",
+        "en_sahih": "English translation of [42:34] in Sahih International style.",
+        "en_yusufali": "English translation of [42:34] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:34] en español.",
+        "fr_hamidullah": "Traduction de [42:34] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:35",
+      "surahNumber": 42,
+      "ayahNumber": 35,
+      "text": {
+        "simple": "وَيَعْلَمَ الَّذِينَ يُجَادِلُونَ فِي آيَاتِنَا مَا لَهُمْ مِنْ مَحِيصٍ",
+        "en_sahih": "English translation of [42:35] in Sahih International style.",
+        "en_yusufali": "English translation of [42:35] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:35] en español.",
+        "fr_hamidullah": "Traduction de [42:35] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:36",
+      "surahNumber": 42,
+      "ayahNumber": 36,
+      "text": {
+        "simple": "فَمَا أُوتِيتُمْ مِنْ شَيْءٍ فَمَتَاعُ الْحَيَاةِ الدُّنْيَا ۖ وَمَا عِنْدَ اللَّهِ خَيْرٌ وَأَبْقَىٰ لِلَّذِينَ آمَنُوا وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+        "en_sahih": "English translation of [42:36] in Sahih International style.",
+        "en_yusufali": "English translation of [42:36] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:36] en español.",
+        "fr_hamidullah": "Traduction de [42:36] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:37",
+      "surahNumber": 42,
+      "ayahNumber": 37,
+      "text": {
+        "simple": "وَالَّذِينَ يَجْتَنِبُونَ كَبَائِرَ الْإِثْمِ وَالْفَوَاحِشَ وَإِذَا مَا غَضِبُوا هُمْ يَغْفِرُونَ",
+        "en_sahih": "English translation of [42:37] in Sahih International style.",
+        "en_yusufali": "English translation of [42:37] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:37] en español.",
+        "fr_hamidullah": "Traduction de [42:37] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:38",
+      "surahNumber": 42,
+      "ayahNumber": 38,
+      "text": {
+        "simple": "وَالَّذِينَ اسْتَجَابُوا لِرَبِّهِمْ وَأَقَامُوا الصَّلَاةَ وَأَمْرُهُمْ شُورَىٰ بَيْنَهُمْ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ",
+        "en_sahih": "English translation of [42:38] in Sahih International style.",
+        "en_yusufali": "English translation of [42:38] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 38 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:38] en español.",
+        "fr_hamidullah": "Traduction de [42:38] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:39",
+      "surahNumber": 42,
+      "ayahNumber": 39,
+      "text": {
+        "simple": "وَالَّذِينَ إِذَا أَصَابَهُمُ الْبَغْيُ هُمْ يَنْتَصِرُونَ",
+        "en_sahih": "English translation of [42:39] in Sahih International style.",
+        "en_yusufali": "English translation of [42:39] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 39 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:39] en español.",
+        "fr_hamidullah": "Traduction de [42:39] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:40",
+      "surahNumber": 42,
+      "ayahNumber": 40,
+      "text": {
+        "simple": "وَجَزَاءُ سَيِّئَةٍ سَيِّئَةٌ مِثْلُهَا ۖ فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُ عَلَى اللَّهِ ۚ إِنَّهُ لَا يُحِبُّ الظَّالِمِينَ",
+        "en_sahih": "English translation of [42:40] in Sahih International style.",
+        "en_yusufali": "English translation of [42:40] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 40 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:40] en español.",
+        "fr_hamidullah": "Traduction de [42:40] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:41",
+      "surahNumber": 42,
+      "ayahNumber": 41,
+      "text": {
+        "simple": "وَلَمَنِ انْتَصَرَ بَعْدَ ظُلْمِهِ فَأُولَٰئِكَ مَا عَلَيْهِمْ مِنْ سَبِيلٍ",
+        "en_sahih": "English translation of [42:41] in Sahih International style.",
+        "en_yusufali": "English translation of [42:41] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 41 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:41] en español.",
+        "fr_hamidullah": "Traduction de [42:41] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:42",
+      "surahNumber": 42,
+      "ayahNumber": 42,
+      "text": {
+        "simple": "إِنَّمَا السَّبِيلُ عَلَى الَّذِينَ يَظْلِمُونَ النَّاسَ وَيَبْغُونَ فِي الْأَرْضِ بِغَيْرِ الْحَقِّ ۚ أُولَٰئِكَ لَهُمْ عَذَابٌ أَلِيمٌ",
+        "en_sahih": "English translation of [42:42] in Sahih International style.",
+        "en_yusufali": "English translation of [42:42] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 42 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:42] en español.",
+        "fr_hamidullah": "Traduction de [42:42] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:43",
+      "surahNumber": 42,
+      "ayahNumber": 43,
+      "text": {
+        "simple": "وَلَمَنْ صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ لَمِنْ عَزْمِ الْأُمُورِ",
+        "en_sahih": "English translation of [42:43] in Sahih International style.",
+        "en_yusufali": "English translation of [42:43] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 43 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:43] en español.",
+        "fr_hamidullah": "Traduction de [42:43] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:44",
+      "surahNumber": 42,
+      "ayahNumber": 44,
+      "text": {
+        "simple": "وَمَنْ يُضْلِلِ اللَّهُ فَمَا لَهُ مِنْ وَلِيٍّ مِنْ بَعْدِهِ ۗ وَتَرَى الظَّالِمِينَ لَمَّا رَأَوُا الْعَذَابَ يَقُولُونَ هَلْ إِلَىٰ مَرَدٍّ مِنْ سَبِيلٍ",
+        "en_sahih": "English translation of [42:44] in Sahih International style.",
+        "en_yusufali": "English translation of [42:44] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 44 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:44] en español.",
+        "fr_hamidullah": "Traduction de [42:44] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:45",
+      "surahNumber": 42,
+      "ayahNumber": 45,
+      "text": {
+        "simple": "وَتَرَاهُمْ يُعْرَضُونَ عَلَيْهَا خَاشِعِينَ مِنَ الذُّلِّ يَنْظُرُونَ مِنْ طَرْفٍ خَفِيٍّ ۗ وَقَالَ الَّذِينَ آمَنُوا إِنَّ الْخَاسِرِينَ الَّذِينَ خَسِرُوا أَنْفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ الْقِيَامَةِ ۗ أَلَا إِنَّ الظَّالِمِينَ فِي عَذَابٍ مُقِيمٍ",
+        "en_sahih": "English translation of [42:45] in Sahih International style.",
+        "en_yusufali": "English translation of [42:45] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 45 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:45] en español.",
+        "fr_hamidullah": "Traduction de [42:45] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:46",
+      "surahNumber": 42,
+      "ayahNumber": 46,
+      "text": {
+        "simple": "وَمَا كَانَ لَهُمْ مِنْ أَوْلِيَاءَ يَنْصُرُونَهُمْ مِنْ دُونِ اللَّهِ ۗ وَمَنْ يُضْلِلِ اللَّهُ فَمَا لَهُ مِنْ سَبِيلٍ",
+        "en_sahih": "English translation of [42:46] in Sahih International style.",
+        "en_yusufali": "English translation of [42:46] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 46 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:46] en español.",
+        "fr_hamidullah": "Traduction de [42:46] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:47",
+      "surahNumber": 42,
+      "ayahNumber": 47,
+      "text": {
+        "simple": "اسْتَجِيبُوا لِرَبِّكُمْ مِنْ قَبْلِ أَنْ يَأْتِيَ يَوْمٌ لَا مَرَدَّ لَهُ مِنَ اللَّهِ ۚ مَا لَكُمْ مِنْ مَلْجَإٍ يَوْمَئِذٍ وَمَا لَكُمْ مِنْ نَكِيرٍ",
+        "en_sahih": "English translation of [42:47] in Sahih International style.",
+        "en_yusufali": "English translation of [42:47] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 47 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:47] en español.",
+        "fr_hamidullah": "Traduction de [42:47] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:48",
+      "surahNumber": 42,
+      "ayahNumber": 48,
+      "text": {
+        "simple": "فَإِنْ أَعْرَضُوا فَمَا أَرْسَلْنَاكَ عَلَيْهِمْ حَفِيظًا ۖ إِنْ عَلَيْكَ إِلَّا الْبَلَاغُ ۗ وَإِنَّا إِذَا أَذَقْنَا الْإِنْسَانَ مِنَّا رَحْمَةً فَرِحَ بِهَا ۖ وَإِنْ تُصِبْهُمْ سَيِّئَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ فَإِنَّ الْإِنْسَانَ كَفُورٌ",
+        "en_sahih": "English translation of [42:48] in Sahih International style.",
+        "en_yusufali": "English translation of [42:48] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 48 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:48] en español.",
+        "fr_hamidullah": "Traduction de [42:48] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:49",
+      "surahNumber": 42,
+      "ayahNumber": 49,
+      "text": {
+        "simple": "لِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۚ يَخْلُقُ مَا يَشَاءُ ۚ يَهَبُ لِمَنْ يَشَاءُ إِنَاثًا وَيَهَبُ لِمَنْ يَشَاءُ الذُّكُورَ",
+        "en_sahih": "English translation of [42:49] in Sahih International style.",
+        "en_yusufali": "English translation of [42:49] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 49 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:49] en español.",
+        "fr_hamidullah": "Traduction de [42:49] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:50",
+      "surahNumber": 42,
+      "ayahNumber": 50,
+      "text": {
+        "simple": "أَوْ يُزَوِّجُهُمْ ذُكْرَانًا وَإِنَاثًا ۖ وَيَجْعَلُ مَنْ يَشَاءُ عَقِيمًا ۚ إِنَّهُ عَلِيمٌ قَدِيرٌ",
+        "en_sahih": "English translation of [42:50] in Sahih International style.",
+        "en_yusufali": "English translation of [42:50] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 50 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:50] en español.",
+        "fr_hamidullah": "Traduction de [42:50] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:51",
+      "surahNumber": 42,
+      "ayahNumber": 51,
+      "text": {
+        "simple": "۞ وَمَا كَانَ لِبَشَرٍ أَنْ يُكَلِّمَهُ اللَّهُ إِلَّا وَحْيًا أَوْ مِنْ وَرَاءِ حِجَابٍ أَوْ يُرْسِلَ رَسُولًا فَيُوحِيَ بِإِذْنِهِ مَا يَشَاءُ ۚ إِنَّهُ عَلِيٌّ حَكِيمٌ",
+        "en_sahih": "English translation of [42:51] in Sahih International style.",
+        "en_yusufali": "English translation of [42:51] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 51 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:51] en español.",
+        "fr_hamidullah": "Traduction de [42:51] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:52",
+      "surahNumber": 42,
+      "ayahNumber": 52,
+      "text": {
+        "simple": "وَكَذَٰلِكَ أَوْحَيْنَا إِلَيْكَ رُوحًا مِنْ أَمْرِنَا ۚ مَا كُنْتَ تَدْرِي مَا الْكِتَابُ وَلَا الْإِيمَانُ وَلَٰكِنْ جَعَلْنَاهُ نُورًا نَهْدِي بِهِ مَنْ نَشَاءُ مِنْ عِبَادِنَا ۚ وَإِنَّكَ لَتَهْدِي إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+        "en_sahih": "English translation of [42:52] in Sahih International style.",
+        "en_yusufali": "English translation of [42:52] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 52 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:52] en español.",
+        "fr_hamidullah": "Traduction de [42:52] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "42:53",
+      "surahNumber": 42,
+      "ayahNumber": 53,
+      "text": {
+        "simple": "صِرَاطِ اللَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ أَلَا إِلَى اللَّهِ تَصِيرُ الْأُمُورُ",
+        "en_sahih": "English translation of [42:53] in Sahih International style.",
+        "en_yusufali": "English translation of [42:53] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 42 آیت 53 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [42:53] en español.",
+        "fr_hamidullah": "Traduction de [42:53] en français.",
+        "bn_hoque": "সূরা 42 আয়াত 53 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

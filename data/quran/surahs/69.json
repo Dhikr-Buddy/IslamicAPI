@@ -1,0 +1,743 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.995Z",
+  "surahNumber": 69,
+  "ayahCount": 52,
+  "ayahs": [
+    {
+      "id": "69:1",
+      "surahNumber": 69,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ الْحَاقَّةُ",
+        "en_sahih": "English translation of [69:1] in Sahih International style.",
+        "en_yusufali": "English translation of [69:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:1] en español.",
+        "fr_hamidullah": "Traduction de [69:1] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:2",
+      "surahNumber": 69,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "مَا الْحَاقَّةُ",
+        "en_sahih": "English translation of [69:2] in Sahih International style.",
+        "en_yusufali": "English translation of [69:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:2] en español.",
+        "fr_hamidullah": "Traduction de [69:2] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:3",
+      "surahNumber": 69,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "وَمَا أَدْرَاكَ مَا الْحَاقَّةُ",
+        "en_sahih": "English translation of [69:3] in Sahih International style.",
+        "en_yusufali": "English translation of [69:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:3] en español.",
+        "fr_hamidullah": "Traduction de [69:3] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:4",
+      "surahNumber": 69,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "كَذَّبَتْ ثَمُودُ وَعَادٌ بِالْقَارِعَةِ",
+        "en_sahih": "English translation of [69:4] in Sahih International style.",
+        "en_yusufali": "English translation of [69:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:4] en español.",
+        "fr_hamidullah": "Traduction de [69:4] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:5",
+      "surahNumber": 69,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا بِالطَّاغِيَةِ",
+        "en_sahih": "English translation of [69:5] in Sahih International style.",
+        "en_yusufali": "English translation of [69:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:5] en español.",
+        "fr_hamidullah": "Traduction de [69:5] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:6",
+      "surahNumber": 69,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "وَأَمَّا عَادٌ فَأُهْلِكُوا بِرِيحٍ صَرْصَرٍ عَاتِيَةٍ",
+        "en_sahih": "English translation of [69:6] in Sahih International style.",
+        "en_yusufali": "English translation of [69:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:6] en español.",
+        "fr_hamidullah": "Traduction de [69:6] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:7",
+      "surahNumber": 69,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍ وَثَمَانِيَةَ أَيَّامٍ حُسُومًا فَتَرَى الْقَوْمَ فِيهَا صَرْعَىٰ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ خَاوِيَةٍ",
+        "en_sahih": "English translation of [69:7] in Sahih International style.",
+        "en_yusufali": "English translation of [69:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:7] en español.",
+        "fr_hamidullah": "Traduction de [69:7] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:8",
+      "surahNumber": 69,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "فَهَلْ تَرَىٰ لَهُمْ مِنْ بَاقِيَةٍ",
+        "en_sahih": "English translation of [69:8] in Sahih International style.",
+        "en_yusufali": "English translation of [69:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:8] en español.",
+        "fr_hamidullah": "Traduction de [69:8] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:9",
+      "surahNumber": 69,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "وَجَاءَ فِرْعَوْنُ وَمَنْ قَبْلَهُ وَالْمُؤْتَفِكَاتُ بِالْخَاطِئَةِ",
+        "en_sahih": "English translation of [69:9] in Sahih International style.",
+        "en_yusufali": "English translation of [69:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:9] en español.",
+        "fr_hamidullah": "Traduction de [69:9] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:10",
+      "surahNumber": 69,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "فَعَصَوْا رَسُولَ رَبِّهِمْ فَأَخَذَهُمْ أَخْذَةً رَابِيَةً",
+        "en_sahih": "English translation of [69:10] in Sahih International style.",
+        "en_yusufali": "English translation of [69:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:10] en español.",
+        "fr_hamidullah": "Traduction de [69:10] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:11",
+      "surahNumber": 69,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "إِنَّا لَمَّا طَغَى الْمَاءُ حَمَلْنَاكُمْ فِي الْجَارِيَةِ",
+        "en_sahih": "English translation of [69:11] in Sahih International style.",
+        "en_yusufali": "English translation of [69:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:11] en español.",
+        "fr_hamidullah": "Traduction de [69:11] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:12",
+      "surahNumber": 69,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "لِنَجْعَلَهَا لَكُمْ تَذْكِرَةً وَتَعِيَهَا أُذُنٌ وَاعِيَةٌ",
+        "en_sahih": "English translation of [69:12] in Sahih International style.",
+        "en_yusufali": "English translation of [69:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:12] en español.",
+        "fr_hamidullah": "Traduction de [69:12] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:13",
+      "surahNumber": 69,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "فَإِذَا نُفِخَ فِي الصُّورِ نَفْخَةٌ وَاحِدَةٌ",
+        "en_sahih": "English translation of [69:13] in Sahih International style.",
+        "en_yusufali": "English translation of [69:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:13] en español.",
+        "fr_hamidullah": "Traduction de [69:13] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:14",
+      "surahNumber": 69,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "وَحُمِلَتِ الْأَرْضُ وَالْجِبَالُ فَدُكَّتَا دَكَّةً وَاحِدَةً",
+        "en_sahih": "English translation of [69:14] in Sahih International style.",
+        "en_yusufali": "English translation of [69:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:14] en español.",
+        "fr_hamidullah": "Traduction de [69:14] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:15",
+      "surahNumber": 69,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "فَيَوْمَئِذٍ وَقَعَتِ الْوَاقِعَةُ",
+        "en_sahih": "English translation of [69:15] in Sahih International style.",
+        "en_yusufali": "English translation of [69:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:15] en español.",
+        "fr_hamidullah": "Traduction de [69:15] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:16",
+      "surahNumber": 69,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "وَانْشَقَّتِ السَّمَاءُ فَهِيَ يَوْمَئِذٍ وَاهِيَةٌ",
+        "en_sahih": "English translation of [69:16] in Sahih International style.",
+        "en_yusufali": "English translation of [69:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:16] en español.",
+        "fr_hamidullah": "Traduction de [69:16] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:17",
+      "surahNumber": 69,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "وَالْمَلَكُ عَلَىٰ أَرْجَائِهَا ۚ وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ يَوْمَئِذٍ ثَمَانِيَةٌ",
+        "en_sahih": "English translation of [69:17] in Sahih International style.",
+        "en_yusufali": "English translation of [69:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:17] en español.",
+        "fr_hamidullah": "Traduction de [69:17] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:18",
+      "surahNumber": 69,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "يَوْمَئِذٍ تُعْرَضُونَ لَا تَخْفَىٰ مِنْكُمْ خَافِيَةٌ",
+        "en_sahih": "English translation of [69:18] in Sahih International style.",
+        "en_yusufali": "English translation of [69:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:18] en español.",
+        "fr_hamidullah": "Traduction de [69:18] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:19",
+      "surahNumber": 69,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ فَيَقُولُ هَاؤُمُ اقْرَءُوا كِتَابِيَهْ",
+        "en_sahih": "English translation of [69:19] in Sahih International style.",
+        "en_yusufali": "English translation of [69:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:19] en español.",
+        "fr_hamidullah": "Traduction de [69:19] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:20",
+      "surahNumber": 69,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "إِنِّي ظَنَنْتُ أَنِّي مُلَاقٍ حِسَابِيَهْ",
+        "en_sahih": "English translation of [69:20] in Sahih International style.",
+        "en_yusufali": "English translation of [69:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:20] en español.",
+        "fr_hamidullah": "Traduction de [69:20] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:21",
+      "surahNumber": 69,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "فَهُوَ فِي عِيشَةٍ رَاضِيَةٍ",
+        "en_sahih": "English translation of [69:21] in Sahih International style.",
+        "en_yusufali": "English translation of [69:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:21] en español.",
+        "fr_hamidullah": "Traduction de [69:21] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:22",
+      "surahNumber": 69,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "فِي جَنَّةٍ عَالِيَةٍ",
+        "en_sahih": "English translation of [69:22] in Sahih International style.",
+        "en_yusufali": "English translation of [69:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:22] en español.",
+        "fr_hamidullah": "Traduction de [69:22] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:23",
+      "surahNumber": 69,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "قُطُوفُهَا دَانِيَةٌ",
+        "en_sahih": "English translation of [69:23] in Sahih International style.",
+        "en_yusufali": "English translation of [69:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:23] en español.",
+        "fr_hamidullah": "Traduction de [69:23] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:24",
+      "surahNumber": 69,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا أَسْلَفْتُمْ فِي الْأَيَّامِ الْخَالِيَةِ",
+        "en_sahih": "English translation of [69:24] in Sahih International style.",
+        "en_yusufali": "English translation of [69:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:24] en español.",
+        "fr_hamidullah": "Traduction de [69:24] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:25",
+      "surahNumber": 69,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِشِمَالِهِ فَيَقُولُ يَا لَيْتَنِي لَمْ أُوتَ كِتَابِيَهْ",
+        "en_sahih": "English translation of [69:25] in Sahih International style.",
+        "en_yusufali": "English translation of [69:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:25] en español.",
+        "fr_hamidullah": "Traduction de [69:25] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:26",
+      "surahNumber": 69,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "وَلَمْ أَدْرِ مَا حِسَابِيَهْ",
+        "en_sahih": "English translation of [69:26] in Sahih International style.",
+        "en_yusufali": "English translation of [69:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:26] en español.",
+        "fr_hamidullah": "Traduction de [69:26] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:27",
+      "surahNumber": 69,
+      "ayahNumber": 27,
+      "text": {
+        "simple": "يَا لَيْتَهَا كَانَتِ الْقَاضِيَةَ",
+        "en_sahih": "English translation of [69:27] in Sahih International style.",
+        "en_yusufali": "English translation of [69:27] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:27] en español.",
+        "fr_hamidullah": "Traduction de [69:27] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:28",
+      "surahNumber": 69,
+      "ayahNumber": 28,
+      "text": {
+        "simple": "مَا أَغْنَىٰ عَنِّي مَالِيَهْ ۜ",
+        "en_sahih": "English translation of [69:28] in Sahih International style.",
+        "en_yusufali": "English translation of [69:28] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:28] en español.",
+        "fr_hamidullah": "Traduction de [69:28] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:29",
+      "surahNumber": 69,
+      "ayahNumber": 29,
+      "text": {
+        "simple": "هَلَكَ عَنِّي سُلْطَانِيَهْ",
+        "en_sahih": "English translation of [69:29] in Sahih International style.",
+        "en_yusufali": "English translation of [69:29] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:29] en español.",
+        "fr_hamidullah": "Traduction de [69:29] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:30",
+      "surahNumber": 69,
+      "ayahNumber": 30,
+      "text": {
+        "simple": "خُذُوهُ فَغُلُّوهُ",
+        "en_sahih": "English translation of [69:30] in Sahih International style.",
+        "en_yusufali": "English translation of [69:30] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:30] en español.",
+        "fr_hamidullah": "Traduction de [69:30] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:31",
+      "surahNumber": 69,
+      "ayahNumber": 31,
+      "text": {
+        "simple": "ثُمَّ الْجَحِيمَ صَلُّوهُ",
+        "en_sahih": "English translation of [69:31] in Sahih International style.",
+        "en_yusufali": "English translation of [69:31] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:31] en español.",
+        "fr_hamidullah": "Traduction de [69:31] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:32",
+      "surahNumber": 69,
+      "ayahNumber": 32,
+      "text": {
+        "simple": "ثُمَّ فِي سِلْسِلَةٍ ذَرْعُهَا سَبْعُونَ ذِرَاعًا فَاسْلُكُوهُ",
+        "en_sahih": "English translation of [69:32] in Sahih International style.",
+        "en_yusufali": "English translation of [69:32] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:32] en español.",
+        "fr_hamidullah": "Traduction de [69:32] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:33",
+      "surahNumber": 69,
+      "ayahNumber": 33,
+      "text": {
+        "simple": "إِنَّهُ كَانَ لَا يُؤْمِنُ بِاللَّهِ الْعَظِيمِ",
+        "en_sahih": "English translation of [69:33] in Sahih International style.",
+        "en_yusufali": "English translation of [69:33] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:33] en español.",
+        "fr_hamidullah": "Traduction de [69:33] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:34",
+      "surahNumber": 69,
+      "ayahNumber": 34,
+      "text": {
+        "simple": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ",
+        "en_sahih": "English translation of [69:34] in Sahih International style.",
+        "en_yusufali": "English translation of [69:34] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:34] en español.",
+        "fr_hamidullah": "Traduction de [69:34] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:35",
+      "surahNumber": 69,
+      "ayahNumber": 35,
+      "text": {
+        "simple": "فَلَيْسَ لَهُ الْيَوْمَ هَاهُنَا حَمِيمٌ",
+        "en_sahih": "English translation of [69:35] in Sahih International style.",
+        "en_yusufali": "English translation of [69:35] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:35] en español.",
+        "fr_hamidullah": "Traduction de [69:35] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:36",
+      "surahNumber": 69,
+      "ayahNumber": 36,
+      "text": {
+        "simple": "وَلَا طَعَامٌ إِلَّا مِنْ غِسْلِينٍ",
+        "en_sahih": "English translation of [69:36] in Sahih International style.",
+        "en_yusufali": "English translation of [69:36] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:36] en español.",
+        "fr_hamidullah": "Traduction de [69:36] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:37",
+      "surahNumber": 69,
+      "ayahNumber": 37,
+      "text": {
+        "simple": "لَا يَأْكُلُهُ إِلَّا الْخَاطِئُونَ",
+        "en_sahih": "English translation of [69:37] in Sahih International style.",
+        "en_yusufali": "English translation of [69:37] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:37] en español.",
+        "fr_hamidullah": "Traduction de [69:37] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:38",
+      "surahNumber": 69,
+      "ayahNumber": 38,
+      "text": {
+        "simple": "فَلَا أُقْسِمُ بِمَا تُبْصِرُونَ",
+        "en_sahih": "English translation of [69:38] in Sahih International style.",
+        "en_yusufali": "English translation of [69:38] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 38 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:38] en español.",
+        "fr_hamidullah": "Traduction de [69:38] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:39",
+      "surahNumber": 69,
+      "ayahNumber": 39,
+      "text": {
+        "simple": "وَمَا لَا تُبْصِرُونَ",
+        "en_sahih": "English translation of [69:39] in Sahih International style.",
+        "en_yusufali": "English translation of [69:39] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 39 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:39] en español.",
+        "fr_hamidullah": "Traduction de [69:39] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:40",
+      "surahNumber": 69,
+      "ayahNumber": 40,
+      "text": {
+        "simple": "إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ",
+        "en_sahih": "English translation of [69:40] in Sahih International style.",
+        "en_yusufali": "English translation of [69:40] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 40 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:40] en español.",
+        "fr_hamidullah": "Traduction de [69:40] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:41",
+      "surahNumber": 69,
+      "ayahNumber": 41,
+      "text": {
+        "simple": "وَمَا هُوَ بِقَوْلِ شَاعِرٍ ۚ قَلِيلًا مَا تُؤْمِنُونَ",
+        "en_sahih": "English translation of [69:41] in Sahih International style.",
+        "en_yusufali": "English translation of [69:41] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 41 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:41] en español.",
+        "fr_hamidullah": "Traduction de [69:41] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:42",
+      "surahNumber": 69,
+      "ayahNumber": 42,
+      "text": {
+        "simple": "وَلَا بِقَوْلِ كَاهِنٍ ۚ قَلِيلًا مَا تَذَكَّرُونَ",
+        "en_sahih": "English translation of [69:42] in Sahih International style.",
+        "en_yusufali": "English translation of [69:42] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 42 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:42] en español.",
+        "fr_hamidullah": "Traduction de [69:42] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:43",
+      "surahNumber": 69,
+      "ayahNumber": 43,
+      "text": {
+        "simple": "تَنْزِيلٌ مِنْ رَبِّ الْعَالَمِينَ",
+        "en_sahih": "English translation of [69:43] in Sahih International style.",
+        "en_yusufali": "English translation of [69:43] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 43 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:43] en español.",
+        "fr_hamidullah": "Traduction de [69:43] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:44",
+      "surahNumber": 69,
+      "ayahNumber": 44,
+      "text": {
+        "simple": "وَلَوْ تَقَوَّلَ عَلَيْنَا بَعْضَ الْأَقَاوِيلِ",
+        "en_sahih": "English translation of [69:44] in Sahih International style.",
+        "en_yusufali": "English translation of [69:44] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 44 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:44] en español.",
+        "fr_hamidullah": "Traduction de [69:44] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:45",
+      "surahNumber": 69,
+      "ayahNumber": 45,
+      "text": {
+        "simple": "لَأَخَذْنَا مِنْهُ بِالْيَمِينِ",
+        "en_sahih": "English translation of [69:45] in Sahih International style.",
+        "en_yusufali": "English translation of [69:45] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 45 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:45] en español.",
+        "fr_hamidullah": "Traduction de [69:45] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:46",
+      "surahNumber": 69,
+      "ayahNumber": 46,
+      "text": {
+        "simple": "ثُمَّ لَقَطَعْنَا مِنْهُ الْوَتِينَ",
+        "en_sahih": "English translation of [69:46] in Sahih International style.",
+        "en_yusufali": "English translation of [69:46] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 46 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:46] en español.",
+        "fr_hamidullah": "Traduction de [69:46] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:47",
+      "surahNumber": 69,
+      "ayahNumber": 47,
+      "text": {
+        "simple": "فَمَا مِنْكُمْ مِنْ أَحَدٍ عَنْهُ حَاجِزِينَ",
+        "en_sahih": "English translation of [69:47] in Sahih International style.",
+        "en_yusufali": "English translation of [69:47] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 47 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:47] en español.",
+        "fr_hamidullah": "Traduction de [69:47] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:48",
+      "surahNumber": 69,
+      "ayahNumber": 48,
+      "text": {
+        "simple": "وَإِنَّهُ لَتَذْكِرَةٌ لِلْمُتَّقِينَ",
+        "en_sahih": "English translation of [69:48] in Sahih International style.",
+        "en_yusufali": "English translation of [69:48] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 48 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:48] en español.",
+        "fr_hamidullah": "Traduction de [69:48] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:49",
+      "surahNumber": 69,
+      "ayahNumber": 49,
+      "text": {
+        "simple": "وَإِنَّا لَنَعْلَمُ أَنَّ مِنْكُمْ مُكَذِّبِينَ",
+        "en_sahih": "English translation of [69:49] in Sahih International style.",
+        "en_yusufali": "English translation of [69:49] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 49 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:49] en español.",
+        "fr_hamidullah": "Traduction de [69:49] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:50",
+      "surahNumber": 69,
+      "ayahNumber": 50,
+      "text": {
+        "simple": "وَإِنَّهُ لَحَسْرَةٌ عَلَى الْكَافِرِينَ",
+        "en_sahih": "English translation of [69:50] in Sahih International style.",
+        "en_yusufali": "English translation of [69:50] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 50 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:50] en español.",
+        "fr_hamidullah": "Traduction de [69:50] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:51",
+      "surahNumber": 69,
+      "ayahNumber": 51,
+      "text": {
+        "simple": "وَإِنَّهُ لَحَقُّ الْيَقِينِ",
+        "en_sahih": "English translation of [69:51] in Sahih International style.",
+        "en_yusufali": "English translation of [69:51] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 51 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:51] en español.",
+        "fr_hamidullah": "Traduction de [69:51] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "69:52",
+      "surahNumber": 69,
+      "ayahNumber": 52,
+      "text": {
+        "simple": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ",
+        "en_sahih": "English translation of [69:52] in Sahih International style.",
+        "en_yusufali": "English translation of [69:52] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 69 آیت 52 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [69:52] en español.",
+        "fr_hamidullah": "Traduction de [69:52] en français.",
+        "bn_hoque": "সূরা 69 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

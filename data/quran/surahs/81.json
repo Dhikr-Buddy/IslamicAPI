@@ -1,0 +1,421 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.998Z",
+  "surahNumber": 81,
+  "ayahCount": 29,
+  "ayahs": [
+    {
+      "id": "81:1",
+      "surahNumber": 81,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ إِذَا الشَّمْسُ كُوِّرَتْ",
+        "en_sahih": "English translation of [81:1] in Sahih International style.",
+        "en_yusufali": "English translation of [81:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 81 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [81:1] en español.",
+        "fr_hamidullah": "Traduction de [81:1] en français.",
+        "bn_hoque": "সূরা 81 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "81:2",
+      "surahNumber": 81,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "وَإِذَا النُّجُومُ انْكَدَرَتْ",
+        "en_sahih": "English translation of [81:2] in Sahih International style.",
+        "en_yusufali": "English translation of [81:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 81 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [81:2] en español.",
+        "fr_hamidullah": "Traduction de [81:2] en français.",
+        "bn_hoque": "সূরা 81 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "81:3",
+      "surahNumber": 81,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "وَإِذَا الْجِبَالُ سُيِّرَتْ",
+        "en_sahih": "English translation of [81:3] in Sahih International style.",
+        "en_yusufali": "English translation of [81:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 81 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [81:3] en español.",
+        "fr_hamidullah": "Traduction de [81:3] en français.",
+        "bn_hoque": "সূরা 81 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "81:4",
+      "surahNumber": 81,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "وَإِذَا الْعِشَارُ عُطِّلَتْ",
+        "en_sahih": "English translation of [81:4] in Sahih International style.",
+        "en_yusufali": "English translation of [81:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 81 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [81:4] en español.",
+        "fr_hamidullah": "Traduction de [81:4] en français.",
+        "bn_hoque": "সূরা 81 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "81:5",
+      "surahNumber": 81,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "وَإِذَا الْوُحُوشُ حُشِرَتْ",
+        "en_sahih": "English translation of [81:5] in Sahih International style.",
+        "en_yusufali": "English translation of [81:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 81 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [81:5] en español.",
+        "fr_hamidullah": "Traduction de [81:5] en français.",
+        "bn_hoque": "সূরা 81 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "81:6",
+      "surahNumber": 81,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "وَإِذَا الْبِحَارُ سُجِّرَتْ",
+        "en_sahih": "English translation of [81:6] in Sahih International style.",
+        "en_yusufali": "English translation of [81:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 81 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [81:6] en español.",
+        "fr_hamidullah": "Traduction de [81:6] en français.",
+        "bn_hoque": "সূরা 81 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "81:7",
+      "surahNumber": 81,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "وَإِذَا النُّفُوسُ زُوِّجَتْ",
+        "en_sahih": "English translation of [81:7] in Sahih International style.",
+        "en_yusufali": "English translation of [81:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 81 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [81:7] en español.",
+        "fr_hamidullah": "Traduction de [81:7] en français.",
+        "bn_hoque": "সূরা 81 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "81:8",
+      "surahNumber": 81,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "وَإِذَا الْمَوْءُودَةُ سُئِلَتْ",
+        "en_sahih": "English translation of [81:8] in Sahih International style.",
+        "en_yusufali": "English translation of [81:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 81 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [81:8] en español.",
+        "fr_hamidullah": "Traduction de [81:8] en français.",
+        "bn_hoque": "সূরা 81 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "81:9",
+      "surahNumber": 81,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "بِأَيِّ ذَنْبٍ قُتِلَتْ",
+        "en_sahih": "English translation of [81:9] in Sahih International style.",
+        "en_yusufali": "English translation of [81:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 81 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [81:9] en español.",
+        "fr_hamidullah": "Traduction de [81:9] en français.",
+        "bn_hoque": "সূরা 81 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "81:10",
+      "surahNumber": 81,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "وَإِذَا الصُّحُفُ نُشِرَتْ",
+        "en_sahih": "English translation of [81:10] in Sahih International style.",
+        "en_yusufali": "English translation of [81:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 81 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [81:10] en español.",
+        "fr_hamidullah": "Traduction de [81:10] en français.",
+        "bn_hoque": "সূরা 81 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "81:11",
+      "surahNumber": 81,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "وَإِذَا السَّمَاءُ كُشِطَتْ",
+        "en_sahih": "English translation of [81:11] in Sahih International style.",
+        "en_yusufali": "English translation of [81:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 81 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [81:11] en español.",
+        "fr_hamidullah": "Traduction de [81:11] en français.",
+        "bn_hoque": "সূরা 81 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "81:12",
+      "surahNumber": 81,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "وَإِذَا الْجَحِيمُ سُعِّرَتْ",
+        "en_sahih": "English translation of [81:12] in Sahih International style.",
+        "en_yusufali": "English translation of [81:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 81 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [81:12] en español.",
+        "fr_hamidullah": "Traduction de [81:12] en français.",
+        "bn_hoque": "সূরা 81 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "81:13",
+      "surahNumber": 81,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "وَإِذَا الْجَنَّةُ أُزْلِفَتْ",
+        "en_sahih": "English translation of [81:13] in Sahih International style.",
+        "en_yusufali": "English translation of [81:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 81 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [81:13] en español.",
+        "fr_hamidullah": "Traduction de [81:13] en français.",
+        "bn_hoque": "সূরা 81 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "81:14",
+      "surahNumber": 81,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "عَلِمَتْ نَفْسٌ مَا أَحْضَرَتْ",
+        "en_sahih": "English translation of [81:14] in Sahih International style.",
+        "en_yusufali": "English translation of [81:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 81 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [81:14] en español.",
+        "fr_hamidullah": "Traduction de [81:14] en français.",
+        "bn_hoque": "সূরা 81 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "81:15",
+      "surahNumber": 81,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "فَلَا أُقْسِمُ بِالْخُنَّسِ",
+        "en_sahih": "English translation of [81:15] in Sahih International style.",
+        "en_yusufali": "English translation of [81:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 81 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [81:15] en español.",
+        "fr_hamidullah": "Traduction de [81:15] en français.",
+        "bn_hoque": "সূরা 81 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "81:16",
+      "surahNumber": 81,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "الْجَوَارِ الْكُنَّسِ",
+        "en_sahih": "English translation of [81:16] in Sahih International style.",
+        "en_yusufali": "English translation of [81:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 81 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [81:16] en español.",
+        "fr_hamidullah": "Traduction de [81:16] en français.",
+        "bn_hoque": "সূরা 81 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "81:17",
+      "surahNumber": 81,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "وَاللَّيْلِ إِذَا عَسْعَسَ",
+        "en_sahih": "English translation of [81:17] in Sahih International style.",
+        "en_yusufali": "English translation of [81:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 81 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [81:17] en español.",
+        "fr_hamidullah": "Traduction de [81:17] en français.",
+        "bn_hoque": "সূরা 81 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "81:18",
+      "surahNumber": 81,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "وَالصُّبْحِ إِذَا تَنَفَّسَ",
+        "en_sahih": "English translation of [81:18] in Sahih International style.",
+        "en_yusufali": "English translation of [81:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 81 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [81:18] en español.",
+        "fr_hamidullah": "Traduction de [81:18] en français.",
+        "bn_hoque": "সূরা 81 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "81:19",
+      "surahNumber": 81,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ",
+        "en_sahih": "English translation of [81:19] in Sahih International style.",
+        "en_yusufali": "English translation of [81:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 81 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [81:19] en español.",
+        "fr_hamidullah": "Traduction de [81:19] en français.",
+        "bn_hoque": "সূরা 81 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "81:20",
+      "surahNumber": 81,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "ذِي قُوَّةٍ عِنْدَ ذِي الْعَرْشِ مَكِينٍ",
+        "en_sahih": "English translation of [81:20] in Sahih International style.",
+        "en_yusufali": "English translation of [81:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 81 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [81:20] en español.",
+        "fr_hamidullah": "Traduction de [81:20] en français.",
+        "bn_hoque": "সূরা 81 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "81:21",
+      "surahNumber": 81,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "مُطَاعٍ ثَمَّ أَمِينٍ",
+        "en_sahih": "English translation of [81:21] in Sahih International style.",
+        "en_yusufali": "English translation of [81:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 81 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [81:21] en español.",
+        "fr_hamidullah": "Traduction de [81:21] en français.",
+        "bn_hoque": "সূরা 81 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "81:22",
+      "surahNumber": 81,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "وَمَا صَاحِبُكُمْ بِمَجْنُونٍ",
+        "en_sahih": "English translation of [81:22] in Sahih International style.",
+        "en_yusufali": "English translation of [81:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 81 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [81:22] en español.",
+        "fr_hamidullah": "Traduction de [81:22] en français.",
+        "bn_hoque": "সূরা 81 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "81:23",
+      "surahNumber": 81,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "وَلَقَدْ رَآهُ بِالْأُفُقِ الْمُبِينِ",
+        "en_sahih": "English translation of [81:23] in Sahih International style.",
+        "en_yusufali": "English translation of [81:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 81 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [81:23] en español.",
+        "fr_hamidullah": "Traduction de [81:23] en français.",
+        "bn_hoque": "সূরা 81 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "81:24",
+      "surahNumber": 81,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِينٍ",
+        "en_sahih": "English translation of [81:24] in Sahih International style.",
+        "en_yusufali": "English translation of [81:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 81 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [81:24] en español.",
+        "fr_hamidullah": "Traduction de [81:24] en français.",
+        "bn_hoque": "সূরা 81 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "81:25",
+      "surahNumber": 81,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "وَمَا هُوَ بِقَوْلِ شَيْطَانٍ رَجِيمٍ",
+        "en_sahih": "English translation of [81:25] in Sahih International style.",
+        "en_yusufali": "English translation of [81:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 81 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [81:25] en español.",
+        "fr_hamidullah": "Traduction de [81:25] en français.",
+        "bn_hoque": "সূরা 81 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "81:26",
+      "surahNumber": 81,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "فَأَيْنَ تَذْهَبُونَ",
+        "en_sahih": "English translation of [81:26] in Sahih International style.",
+        "en_yusufali": "English translation of [81:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 81 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [81:26] en español.",
+        "fr_hamidullah": "Traduction de [81:26] en français.",
+        "bn_hoque": "সূরা 81 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "81:27",
+      "surahNumber": 81,
+      "ayahNumber": 27,
+      "text": {
+        "simple": "إِنْ هُوَ إِلَّا ذِكْرٌ لِلْعَالَمِينَ",
+        "en_sahih": "English translation of [81:27] in Sahih International style.",
+        "en_yusufali": "English translation of [81:27] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 81 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [81:27] en español.",
+        "fr_hamidullah": "Traduction de [81:27] en français.",
+        "bn_hoque": "সূরা 81 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "81:28",
+      "surahNumber": 81,
+      "ayahNumber": 28,
+      "text": {
+        "simple": "لِمَنْ شَاءَ مِنْكُمْ أَنْ يَسْتَقِيمَ",
+        "en_sahih": "English translation of [81:28] in Sahih International style.",
+        "en_yusufali": "English translation of [81:28] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 81 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [81:28] en español.",
+        "fr_hamidullah": "Traduction de [81:28] en français.",
+        "bn_hoque": "সূরা 81 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "81:29",
+      "surahNumber": 81,
+      "ayahNumber": 29,
+      "text": {
+        "simple": "وَمَا تَشَاءُونَ إِلَّا أَنْ يَشَاءَ اللَّهُ رَبُّ الْعَالَمِينَ",
+        "en_sahih": "English translation of [81:29] in Sahih International style.",
+        "en_yusufali": "English translation of [81:29] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 81 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [81:29] en español.",
+        "fr_hamidullah": "Traduction de [81:29] en français.",
+        "bn_hoque": "সূরা 81 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

@@ -1,0 +1,771 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.984Z",
+  "surahNumber": 34,
+  "ayahCount": 54,
+  "ayahs": [
+    {
+      "id": "34:1",
+      "surahNumber": 34,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ الْحَمْدُ لِلَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَلَهُ الْحَمْدُ فِي الْآخِرَةِ ۚ وَهُوَ الْحَكِيمُ الْخَبِيرُ",
+        "en_sahih": "English translation of [34:1] in Sahih International style.",
+        "en_yusufali": "English translation of [34:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:1] en español.",
+        "fr_hamidullah": "Traduction de [34:1] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:2",
+      "surahNumber": 34,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "يَعْلَمُ مَا يَلِجُ فِي الْأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنْزِلُ مِنَ السَّمَاءِ وَمَا يَعْرُجُ فِيهَا ۚ وَهُوَ الرَّحِيمُ الْغَفُورُ",
+        "en_sahih": "English translation of [34:2] in Sahih International style.",
+        "en_yusufali": "English translation of [34:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:2] en español.",
+        "fr_hamidullah": "Traduction de [34:2] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:3",
+      "surahNumber": 34,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "وَقَالَ الَّذِينَ كَفَرُوا لَا تَأْتِينَا السَّاعَةُ ۖ قُلْ بَلَىٰ وَرَبِّي لَتَأْتِيَنَّكُمْ عَالِمِ الْغَيْبِ ۖ لَا يَعْزُبُ عَنْهُ مِثْقَالُ ذَرَّةٍ فِي السَّمَاوَاتِ وَلَا فِي الْأَرْضِ وَلَا أَصْغَرُ مِنْ ذَٰلِكَ وَلَا أَكْبَرُ إِلَّا فِي كِتَابٍ مُبِينٍ",
+        "en_sahih": "English translation of [34:3] in Sahih International style.",
+        "en_yusufali": "English translation of [34:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:3] en español.",
+        "fr_hamidullah": "Traduction de [34:3] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:4",
+      "surahNumber": 34,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "لِيَجْزِيَ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ ۚ أُولَٰئِكَ لَهُمْ مَغْفِرَةٌ وَرِزْقٌ كَرِيمٌ",
+        "en_sahih": "English translation of [34:4] in Sahih International style.",
+        "en_yusufali": "English translation of [34:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:4] en español.",
+        "fr_hamidullah": "Traduction de [34:4] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:5",
+      "surahNumber": 34,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "وَالَّذِينَ سَعَوْا فِي آيَاتِنَا مُعَاجِزِينَ أُولَٰئِكَ لَهُمْ عَذَابٌ مِنْ رِجْزٍ أَلِيمٌ",
+        "en_sahih": "English translation of [34:5] in Sahih International style.",
+        "en_yusufali": "English translation of [34:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:5] en español.",
+        "fr_hamidullah": "Traduction de [34:5] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:6",
+      "surahNumber": 34,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "وَيَرَى الَّذِينَ أُوتُوا الْعِلْمَ الَّذِي أُنْزِلَ إِلَيْكَ مِنْ رَبِّكَ هُوَ الْحَقَّ وَيَهْدِي إِلَىٰ صِرَاطِ الْعَزِيزِ الْحَمِيدِ",
+        "en_sahih": "English translation of [34:6] in Sahih International style.",
+        "en_yusufali": "English translation of [34:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:6] en español.",
+        "fr_hamidullah": "Traduction de [34:6] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:7",
+      "surahNumber": 34,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "وَقَالَ الَّذِينَ كَفَرُوا هَلْ نَدُلُّكُمْ عَلَىٰ رَجُلٍ يُنَبِّئُكُمْ إِذَا مُزِّقْتُمْ كُلَّ مُمَزَّقٍ إِنَّكُمْ لَفِي خَلْقٍ جَدِيدٍ",
+        "en_sahih": "English translation of [34:7] in Sahih International style.",
+        "en_yusufali": "English translation of [34:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:7] en español.",
+        "fr_hamidullah": "Traduction de [34:7] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:8",
+      "surahNumber": 34,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "أَفْتَرَىٰ عَلَى اللَّهِ كَذِبًا أَمْ بِهِ جِنَّةٌ ۗ بَلِ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ فِي الْعَذَابِ وَالضَّلَالِ الْبَعِيدِ",
+        "en_sahih": "English translation of [34:8] in Sahih International style.",
+        "en_yusufali": "English translation of [34:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:8] en español.",
+        "fr_hamidullah": "Traduction de [34:8] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:9",
+      "surahNumber": 34,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "أَفَلَمْ يَرَوْا إِلَىٰ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ مِنَ السَّمَاءِ وَالْأَرْضِ ۚ إِنْ نَشَأْ نَخْسِفْ بِهِمُ الْأَرْضَ أَوْ نُسْقِطْ عَلَيْهِمْ كِسَفًا مِنَ السَّمَاءِ ۚ إِنَّ فِي ذَٰلِكَ لَآيَةً لِكُلِّ عَبْدٍ مُنِيبٍ",
+        "en_sahih": "English translation of [34:9] in Sahih International style.",
+        "en_yusufali": "English translation of [34:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:9] en español.",
+        "fr_hamidullah": "Traduction de [34:9] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:10",
+      "surahNumber": 34,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "۞ وَلَقَدْ آتَيْنَا دَاوُودَ مِنَّا فَضْلًا ۖ يَا جِبَالُ أَوِّبِي مَعَهُ وَالطَّيْرَ ۖ وَأَلَنَّا لَهُ الْحَدِيدَ",
+        "en_sahih": "English translation of [34:10] in Sahih International style.",
+        "en_yusufali": "English translation of [34:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:10] en español.",
+        "fr_hamidullah": "Traduction de [34:10] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:11",
+      "surahNumber": 34,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "أَنِ اعْمَلْ سَابِغَاتٍ وَقَدِّرْ فِي السَّرْدِ ۖ وَاعْمَلُوا صَالِحًا ۖ إِنِّي بِمَا تَعْمَلُونَ بَصِيرٌ",
+        "en_sahih": "English translation of [34:11] in Sahih International style.",
+        "en_yusufali": "English translation of [34:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:11] en español.",
+        "fr_hamidullah": "Traduction de [34:11] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:12",
+      "surahNumber": 34,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "وَلِسُلَيْمَانَ الرِّيحَ غُدُوُّهَا شَهْرٌ وَرَوَاحُهَا شَهْرٌ ۖ وَأَسَلْنَا لَهُ عَيْنَ الْقِطْرِ ۖ وَمِنَ الْجِنِّ مَنْ يَعْمَلُ بَيْنَ يَدَيْهِ بِإِذْنِ رَبِّهِ ۖ وَمَنْ يَزِغْ مِنْهُمْ عَنْ أَمْرِنَا نُذِقْهُ مِنْ عَذَابِ السَّعِيرِ",
+        "en_sahih": "English translation of [34:12] in Sahih International style.",
+        "en_yusufali": "English translation of [34:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:12] en español.",
+        "fr_hamidullah": "Traduction de [34:12] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:13",
+      "surahNumber": 34,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "يَعْمَلُونَ لَهُ مَا يَشَاءُ مِنْ مَحَارِيبَ وَتَمَاثِيلَ وَجِفَانٍ كَالْجَوَابِ وَقُدُورٍ رَاسِيَاتٍ ۚ اعْمَلُوا آلَ دَاوُودَ شُكْرًا ۚ وَقَلِيلٌ مِنْ عِبَادِيَ الشَّكُورُ",
+        "en_sahih": "English translation of [34:13] in Sahih International style.",
+        "en_yusufali": "English translation of [34:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:13] en español.",
+        "fr_hamidullah": "Traduction de [34:13] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:14",
+      "surahNumber": 34,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "فَلَمَّا قَضَيْنَا عَلَيْهِ الْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِ إِلَّا دَابَّةُ الْأَرْضِ تَأْكُلُ مِنْسَأَتَهُ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ الْجِنُّ أَنْ لَوْ كَانُوا يَعْلَمُونَ الْغَيْبَ مَا لَبِثُوا فِي الْعَذَابِ الْمُهِينِ",
+        "en_sahih": "English translation of [34:14] in Sahih International style.",
+        "en_yusufali": "English translation of [34:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:14] en español.",
+        "fr_hamidullah": "Traduction de [34:14] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:15",
+      "surahNumber": 34,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "لَقَدْ كَانَ لِسَبَإٍ فِي مَسْكَنِهِمْ آيَةٌ ۖ جَنَّتَانِ عَنْ يَمِينٍ وَشِمَالٍ ۖ كُلُوا مِنْ رِزْقِ رَبِّكُمْ وَاشْكُرُوا لَهُ ۚ بَلْدَةٌ طَيِّبَةٌ وَرَبٌّ غَفُورٌ",
+        "en_sahih": "English translation of [34:15] in Sahih International style.",
+        "en_yusufali": "English translation of [34:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:15] en español.",
+        "fr_hamidullah": "Traduction de [34:15] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:16",
+      "surahNumber": 34,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "فَأَعْرَضُوا فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ الْعَرِمِ وَبَدَّلْنَاهُمْ بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَيْ أُكُلٍ خَمْطٍ وَأَثْلٍ وَشَيْءٍ مِنْ سِدْرٍ قَلِيلٍ",
+        "en_sahih": "English translation of [34:16] in Sahih International style.",
+        "en_yusufali": "English translation of [34:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:16] en español.",
+        "fr_hamidullah": "Traduction de [34:16] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:17",
+      "surahNumber": 34,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "ذَٰلِكَ جَزَيْنَاهُمْ بِمَا كَفَرُوا ۖ وَهَلْ نُجَازِي إِلَّا الْكَفُورَ",
+        "en_sahih": "English translation of [34:17] in Sahih International style.",
+        "en_yusufali": "English translation of [34:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:17] en español.",
+        "fr_hamidullah": "Traduction de [34:17] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:18",
+      "surahNumber": 34,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "وَجَعَلْنَا بَيْنَهُمْ وَبَيْنَ الْقُرَى الَّتِي بَارَكْنَا فِيهَا قُرًى ظَاهِرَةً وَقَدَّرْنَا فِيهَا السَّيْرَ ۖ سِيرُوا فِيهَا لَيَالِيَ وَأَيَّامًا آمِنِينَ",
+        "en_sahih": "English translation of [34:18] in Sahih International style.",
+        "en_yusufali": "English translation of [34:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:18] en español.",
+        "fr_hamidullah": "Traduction de [34:18] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:19",
+      "surahNumber": 34,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "فَقَالُوا رَبَّنَا بَاعِدْ بَيْنَ أَسْفَارِنَا وَظَلَمُوا أَنْفُسَهُمْ فَجَعَلْنَاهُمْ أَحَادِيثَ وَمَزَّقْنَاهُمْ كُلَّ مُمَزَّقٍ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِكُلِّ صَبَّارٍ شَكُورٍ",
+        "en_sahih": "English translation of [34:19] in Sahih International style.",
+        "en_yusufali": "English translation of [34:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:19] en español.",
+        "fr_hamidullah": "Traduction de [34:19] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:20",
+      "surahNumber": 34,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "وَلَقَدْ صَدَّقَ عَلَيْهِمْ إِبْلِيسُ ظَنَّهُ فَاتَّبَعُوهُ إِلَّا فَرِيقًا مِنَ الْمُؤْمِنِينَ",
+        "en_sahih": "English translation of [34:20] in Sahih International style.",
+        "en_yusufali": "English translation of [34:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:20] en español.",
+        "fr_hamidullah": "Traduction de [34:20] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:21",
+      "surahNumber": 34,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "وَمَا كَانَ لَهُ عَلَيْهِمْ مِنْ سُلْطَانٍ إِلَّا لِنَعْلَمَ مَنْ يُؤْمِنُ بِالْآخِرَةِ مِمَّنْ هُوَ مِنْهَا فِي شَكٍّ ۗ وَرَبُّكَ عَلَىٰ كُلِّ شَيْءٍ حَفِيظٌ",
+        "en_sahih": "English translation of [34:21] in Sahih International style.",
+        "en_yusufali": "English translation of [34:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:21] en español.",
+        "fr_hamidullah": "Traduction de [34:21] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:22",
+      "surahNumber": 34,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "قُلِ ادْعُوا الَّذِينَ زَعَمْتُمْ مِنْ دُونِ اللَّهِ ۖ لَا يَمْلِكُونَ مِثْقَالَ ذَرَّةٍ فِي السَّمَاوَاتِ وَلَا فِي الْأَرْضِ وَمَا لَهُمْ فِيهِمَا مِنْ شِرْكٍ وَمَا لَهُ مِنْهُمْ مِنْ ظَهِيرٍ",
+        "en_sahih": "English translation of [34:22] in Sahih International style.",
+        "en_yusufali": "English translation of [34:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:22] en español.",
+        "fr_hamidullah": "Traduction de [34:22] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:23",
+      "surahNumber": 34,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "وَلَا تَنْفَعُ الشَّفَاعَةُ عِنْدَهُ إِلَّا لِمَنْ أَذِنَ لَهُ ۚ حَتَّىٰ إِذَا فُزِّعَ عَنْ قُلُوبِهِمْ قَالُوا مَاذَا قَالَ رَبُّكُمْ ۖ قَالُوا الْحَقَّ ۖ وَهُوَ الْعَلِيُّ الْكَبِيرُ",
+        "en_sahih": "English translation of [34:23] in Sahih International style.",
+        "en_yusufali": "English translation of [34:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:23] en español.",
+        "fr_hamidullah": "Traduction de [34:23] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:24",
+      "surahNumber": 34,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "۞ قُلْ مَنْ يَرْزُقُكُمْ مِنَ السَّمَاوَاتِ وَالْأَرْضِ ۖ قُلِ اللَّهُ ۖ وَإِنَّا أَوْ إِيَّاكُمْ لَعَلَىٰ هُدًى أَوْ فِي ضَلَالٍ مُبِينٍ",
+        "en_sahih": "English translation of [34:24] in Sahih International style.",
+        "en_yusufali": "English translation of [34:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:24] en español.",
+        "fr_hamidullah": "Traduction de [34:24] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:25",
+      "surahNumber": 34,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "قُلْ لَا تُسْأَلُونَ عَمَّا أَجْرَمْنَا وَلَا نُسْأَلُ عَمَّا تَعْمَلُونَ",
+        "en_sahih": "English translation of [34:25] in Sahih International style.",
+        "en_yusufali": "English translation of [34:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:25] en español.",
+        "fr_hamidullah": "Traduction de [34:25] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:26",
+      "surahNumber": 34,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "قُلْ يَجْمَعُ بَيْنَنَا رَبُّنَا ثُمَّ يَفْتَحُ بَيْنَنَا بِالْحَقِّ وَهُوَ الْفَتَّاحُ الْعَلِيمُ",
+        "en_sahih": "English translation of [34:26] in Sahih International style.",
+        "en_yusufali": "English translation of [34:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:26] en español.",
+        "fr_hamidullah": "Traduction de [34:26] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:27",
+      "surahNumber": 34,
+      "ayahNumber": 27,
+      "text": {
+        "simple": "قُلْ أَرُونِيَ الَّذِينَ أَلْحَقْتُمْ بِهِ شُرَكَاءَ ۖ كَلَّا ۚ بَلْ هُوَ اللَّهُ الْعَزِيزُ الْحَكِيمُ",
+        "en_sahih": "English translation of [34:27] in Sahih International style.",
+        "en_yusufali": "English translation of [34:27] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:27] en español.",
+        "fr_hamidullah": "Traduction de [34:27] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:28",
+      "surahNumber": 34,
+      "ayahNumber": 28,
+      "text": {
+        "simple": "وَمَا أَرْسَلْنَاكَ إِلَّا كَافَّةً لِلنَّاسِ بَشِيرًا وَنَذِيرًا وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+        "en_sahih": "English translation of [34:28] in Sahih International style.",
+        "en_yusufali": "English translation of [34:28] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:28] en español.",
+        "fr_hamidullah": "Traduction de [34:28] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:29",
+      "surahNumber": 34,
+      "ayahNumber": 29,
+      "text": {
+        "simple": "وَيَقُولُونَ مَتَىٰ هَٰذَا الْوَعْدُ إِنْ كُنْتُمْ صَادِقِينَ",
+        "en_sahih": "English translation of [34:29] in Sahih International style.",
+        "en_yusufali": "English translation of [34:29] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:29] en español.",
+        "fr_hamidullah": "Traduction de [34:29] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:30",
+      "surahNumber": 34,
+      "ayahNumber": 30,
+      "text": {
+        "simple": "قُلْ لَكُمْ مِيعَادُ يَوْمٍ لَا تَسْتَأْخِرُونَ عَنْهُ سَاعَةً وَلَا تَسْتَقْدِمُونَ",
+        "en_sahih": "English translation of [34:30] in Sahih International style.",
+        "en_yusufali": "English translation of [34:30] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:30] en español.",
+        "fr_hamidullah": "Traduction de [34:30] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:31",
+      "surahNumber": 34,
+      "ayahNumber": 31,
+      "text": {
+        "simple": "وَقَالَ الَّذِينَ كَفَرُوا لَنْ نُؤْمِنَ بِهَٰذَا الْقُرْآنِ وَلَا بِالَّذِي بَيْنَ يَدَيْهِ ۗ وَلَوْ تَرَىٰ إِذِ الظَّالِمُونَ مَوْقُوفُونَ عِنْدَ رَبِّهِمْ يَرْجِعُ بَعْضُهُمْ إِلَىٰ بَعْضٍ الْقَوْلَ يَقُولُ الَّذِينَ اسْتُضْعِفُوا لِلَّذِينَ اسْتَكْبَرُوا لَوْلَا أَنْتُمْ لَكُنَّا مُؤْمِنِينَ",
+        "en_sahih": "English translation of [34:31] in Sahih International style.",
+        "en_yusufali": "English translation of [34:31] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:31] en español.",
+        "fr_hamidullah": "Traduction de [34:31] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:32",
+      "surahNumber": 34,
+      "ayahNumber": 32,
+      "text": {
+        "simple": "قَالَ الَّذِينَ اسْتَكْبَرُوا لِلَّذِينَ اسْتُضْعِفُوا أَنَحْنُ صَدَدْنَاكُمْ عَنِ الْهُدَىٰ بَعْدَ إِذْ جَاءَكُمْ ۖ بَلْ كُنْتُمْ مُجْرِمِينَ",
+        "en_sahih": "English translation of [34:32] in Sahih International style.",
+        "en_yusufali": "English translation of [34:32] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:32] en español.",
+        "fr_hamidullah": "Traduction de [34:32] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:33",
+      "surahNumber": 34,
+      "ayahNumber": 33,
+      "text": {
+        "simple": "وَقَالَ الَّذِينَ اسْتُضْعِفُوا لِلَّذِينَ اسْتَكْبَرُوا بَلْ مَكْرُ اللَّيْلِ وَالنَّهَارِ إِذْ تَأْمُرُونَنَا أَنْ نَكْفُرَ بِاللَّهِ وَنَجْعَلَ لَهُ أَنْدَادًا ۚ وَأَسَرُّوا النَّدَامَةَ لَمَّا رَأَوُا الْعَذَابَ وَجَعَلْنَا الْأَغْلَالَ فِي أَعْنَاقِ الَّذِينَ كَفَرُوا ۚ هَلْ يُجْزَوْنَ إِلَّا مَا كَانُوا يَعْمَلُونَ",
+        "en_sahih": "English translation of [34:33] in Sahih International style.",
+        "en_yusufali": "English translation of [34:33] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:33] en español.",
+        "fr_hamidullah": "Traduction de [34:33] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:34",
+      "surahNumber": 34,
+      "ayahNumber": 34,
+      "text": {
+        "simple": "وَمَا أَرْسَلْنَا فِي قَرْيَةٍ مِنْ نَذِيرٍ إِلَّا قَالَ مُتْرَفُوهَا إِنَّا بِمَا أُرْسِلْتُمْ بِهِ كَافِرُونَ",
+        "en_sahih": "English translation of [34:34] in Sahih International style.",
+        "en_yusufali": "English translation of [34:34] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:34] en español.",
+        "fr_hamidullah": "Traduction de [34:34] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:35",
+      "surahNumber": 34,
+      "ayahNumber": 35,
+      "text": {
+        "simple": "وَقَالُوا نَحْنُ أَكْثَرُ أَمْوَالًا وَأَوْلَادًا وَمَا نَحْنُ بِمُعَذَّبِينَ",
+        "en_sahih": "English translation of [34:35] in Sahih International style.",
+        "en_yusufali": "English translation of [34:35] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:35] en español.",
+        "fr_hamidullah": "Traduction de [34:35] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:36",
+      "surahNumber": 34,
+      "ayahNumber": 36,
+      "text": {
+        "simple": "قُلْ إِنَّ رَبِّي يَبْسُطُ الرِّزْقَ لِمَنْ يَشَاءُ وَيَقْدِرُ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+        "en_sahih": "English translation of [34:36] in Sahih International style.",
+        "en_yusufali": "English translation of [34:36] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:36] en español.",
+        "fr_hamidullah": "Traduction de [34:36] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:37",
+      "surahNumber": 34,
+      "ayahNumber": 37,
+      "text": {
+        "simple": "وَمَا أَمْوَالُكُمْ وَلَا أَوْلَادُكُمْ بِالَّتِي تُقَرِّبُكُمْ عِنْدَنَا زُلْفَىٰ إِلَّا مَنْ آمَنَ وَعَمِلَ صَالِحًا فَأُولَٰئِكَ لَهُمْ جَزَاءُ الضِّعْفِ بِمَا عَمِلُوا وَهُمْ فِي الْغُرُفَاتِ آمِنُونَ",
+        "en_sahih": "English translation of [34:37] in Sahih International style.",
+        "en_yusufali": "English translation of [34:37] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:37] en español.",
+        "fr_hamidullah": "Traduction de [34:37] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:38",
+      "surahNumber": 34,
+      "ayahNumber": 38,
+      "text": {
+        "simple": "وَالَّذِينَ يَسْعَوْنَ فِي آيَاتِنَا مُعَاجِزِينَ أُولَٰئِكَ فِي الْعَذَابِ مُحْضَرُونَ",
+        "en_sahih": "English translation of [34:38] in Sahih International style.",
+        "en_yusufali": "English translation of [34:38] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 38 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:38] en español.",
+        "fr_hamidullah": "Traduction de [34:38] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:39",
+      "surahNumber": 34,
+      "ayahNumber": 39,
+      "text": {
+        "simple": "قُلْ إِنَّ رَبِّي يَبْسُطُ الرِّزْقَ لِمَنْ يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ لَهُ ۚ وَمَا أَنْفَقْتُمْ مِنْ شَيْءٍ فَهُوَ يُخْلِفُهُ ۖ وَهُوَ خَيْرُ الرَّازِقِينَ",
+        "en_sahih": "English translation of [34:39] in Sahih International style.",
+        "en_yusufali": "English translation of [34:39] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 39 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:39] en español.",
+        "fr_hamidullah": "Traduction de [34:39] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:40",
+      "surahNumber": 34,
+      "ayahNumber": 40,
+      "text": {
+        "simple": "وَيَوْمَ يَحْشُرُهُمْ جَمِيعًا ثُمَّ يَقُولُ لِلْمَلَائِكَةِ أَهَٰؤُلَاءِ إِيَّاكُمْ كَانُوا يَعْبُدُونَ",
+        "en_sahih": "English translation of [34:40] in Sahih International style.",
+        "en_yusufali": "English translation of [34:40] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 40 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:40] en español.",
+        "fr_hamidullah": "Traduction de [34:40] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:41",
+      "surahNumber": 34,
+      "ayahNumber": 41,
+      "text": {
+        "simple": "قَالُوا سُبْحَانَكَ أَنْتَ وَلِيُّنَا مِنْ دُونِهِمْ ۖ بَلْ كَانُوا يَعْبُدُونَ الْجِنَّ ۖ أَكْثَرُهُمْ بِهِمْ مُؤْمِنُونَ",
+        "en_sahih": "English translation of [34:41] in Sahih International style.",
+        "en_yusufali": "English translation of [34:41] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 41 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:41] en español.",
+        "fr_hamidullah": "Traduction de [34:41] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:42",
+      "surahNumber": 34,
+      "ayahNumber": 42,
+      "text": {
+        "simple": "فَالْيَوْمَ لَا يَمْلِكُ بَعْضُكُمْ لِبَعْضٍ نَفْعًا وَلَا ضَرًّا وَنَقُولُ لِلَّذِينَ ظَلَمُوا ذُوقُوا عَذَابَ النَّارِ الَّتِي كُنْتُمْ بِهَا تُكَذِّبُونَ",
+        "en_sahih": "English translation of [34:42] in Sahih International style.",
+        "en_yusufali": "English translation of [34:42] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 42 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:42] en español.",
+        "fr_hamidullah": "Traduction de [34:42] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:43",
+      "surahNumber": 34,
+      "ayahNumber": 43,
+      "text": {
+        "simple": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ قَالُوا مَا هَٰذَا إِلَّا رَجُلٌ يُرِيدُ أَنْ يَصُدَّكُمْ عَمَّا كَانَ يَعْبُدُ آبَاؤُكُمْ وَقَالُوا مَا هَٰذَا إِلَّا إِفْكٌ مُفْتَرًى ۚ وَقَالَ الَّذِينَ كَفَرُوا لِلْحَقِّ لَمَّا جَاءَهُمْ إِنْ هَٰذَا إِلَّا سِحْرٌ مُبِينٌ",
+        "en_sahih": "English translation of [34:43] in Sahih International style.",
+        "en_yusufali": "English translation of [34:43] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 43 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:43] en español.",
+        "fr_hamidullah": "Traduction de [34:43] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:44",
+      "surahNumber": 34,
+      "ayahNumber": 44,
+      "text": {
+        "simple": "وَمَا آتَيْنَاهُمْ مِنْ كُتُبٍ يَدْرُسُونَهَا ۖ وَمَا أَرْسَلْنَا إِلَيْهِمْ قَبْلَكَ مِنْ نَذِيرٍ",
+        "en_sahih": "English translation of [34:44] in Sahih International style.",
+        "en_yusufali": "English translation of [34:44] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 44 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:44] en español.",
+        "fr_hamidullah": "Traduction de [34:44] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:45",
+      "surahNumber": 34,
+      "ayahNumber": 45,
+      "text": {
+        "simple": "وَكَذَّبَ الَّذِينَ مِنْ قَبْلِهِمْ وَمَا بَلَغُوا مِعْشَارَ مَا آتَيْنَاهُمْ فَكَذَّبُوا رُسُلِي ۖ فَكَيْفَ كَانَ نَكِيرِ",
+        "en_sahih": "English translation of [34:45] in Sahih International style.",
+        "en_yusufali": "English translation of [34:45] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 45 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:45] en español.",
+        "fr_hamidullah": "Traduction de [34:45] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:46",
+      "surahNumber": 34,
+      "ayahNumber": 46,
+      "text": {
+        "simple": "۞ قُلْ إِنَّمَا أَعِظُكُمْ بِوَاحِدَةٍ ۖ أَنْ تَقُومُوا لِلَّهِ مَثْنَىٰ وَفُرَادَىٰ ثُمَّ تَتَفَكَّرُوا ۚ مَا بِصَاحِبِكُمْ مِنْ جِنَّةٍ ۚ إِنْ هُوَ إِلَّا نَذِيرٌ لَكُمْ بَيْنَ يَدَيْ عَذَابٍ شَدِيدٍ",
+        "en_sahih": "English translation of [34:46] in Sahih International style.",
+        "en_yusufali": "English translation of [34:46] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 46 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:46] en español.",
+        "fr_hamidullah": "Traduction de [34:46] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:47",
+      "surahNumber": 34,
+      "ayahNumber": 47,
+      "text": {
+        "simple": "قُلْ مَا سَأَلْتُكُمْ مِنْ أَجْرٍ فَهُوَ لَكُمْ ۖ إِنْ أَجْرِيَ إِلَّا عَلَى اللَّهِ ۖ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ",
+        "en_sahih": "English translation of [34:47] in Sahih International style.",
+        "en_yusufali": "English translation of [34:47] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 47 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:47] en español.",
+        "fr_hamidullah": "Traduction de [34:47] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:48",
+      "surahNumber": 34,
+      "ayahNumber": 48,
+      "text": {
+        "simple": "قُلْ إِنَّ رَبِّي يَقْذِفُ بِالْحَقِّ عَلَّامُ الْغُيُوبِ",
+        "en_sahih": "English translation of [34:48] in Sahih International style.",
+        "en_yusufali": "English translation of [34:48] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 48 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:48] en español.",
+        "fr_hamidullah": "Traduction de [34:48] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:49",
+      "surahNumber": 34,
+      "ayahNumber": 49,
+      "text": {
+        "simple": "قُلْ جَاءَ الْحَقُّ وَمَا يُبْدِئُ الْبَاطِلُ وَمَا يُعِيدُ",
+        "en_sahih": "English translation of [34:49] in Sahih International style.",
+        "en_yusufali": "English translation of [34:49] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 49 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:49] en español.",
+        "fr_hamidullah": "Traduction de [34:49] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:50",
+      "surahNumber": 34,
+      "ayahNumber": 50,
+      "text": {
+        "simple": "قُلْ إِنْ ضَلَلْتُ فَإِنَّمَا أَضِلُّ عَلَىٰ نَفْسِي ۖ وَإِنِ اهْتَدَيْتُ فَبِمَا يُوحِي إِلَيَّ رَبِّي ۚ إِنَّهُ سَمِيعٌ قَرِيبٌ",
+        "en_sahih": "English translation of [34:50] in Sahih International style.",
+        "en_yusufali": "English translation of [34:50] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 50 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:50] en español.",
+        "fr_hamidullah": "Traduction de [34:50] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:51",
+      "surahNumber": 34,
+      "ayahNumber": 51,
+      "text": {
+        "simple": "وَلَوْ تَرَىٰ إِذْ فَزِعُوا فَلَا فَوْتَ وَأُخِذُوا مِنْ مَكَانٍ قَرِيبٍ",
+        "en_sahih": "English translation of [34:51] in Sahih International style.",
+        "en_yusufali": "English translation of [34:51] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 51 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:51] en español.",
+        "fr_hamidullah": "Traduction de [34:51] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:52",
+      "surahNumber": 34,
+      "ayahNumber": 52,
+      "text": {
+        "simple": "وَقَالُوا آمَنَّا بِهِ وَأَنَّىٰ لَهُمُ التَّنَاوُشُ مِنْ مَكَانٍ بَعِيدٍ",
+        "en_sahih": "English translation of [34:52] in Sahih International style.",
+        "en_yusufali": "English translation of [34:52] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 52 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:52] en español.",
+        "fr_hamidullah": "Traduction de [34:52] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:53",
+      "surahNumber": 34,
+      "ayahNumber": 53,
+      "text": {
+        "simple": "وَقَدْ كَفَرُوا بِهِ مِنْ قَبْلُ ۖ وَيَقْذِفُونَ بِالْغَيْبِ مِنْ مَكَانٍ بَعِيدٍ",
+        "en_sahih": "English translation of [34:53] in Sahih International style.",
+        "en_yusufali": "English translation of [34:53] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 53 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:53] en español.",
+        "fr_hamidullah": "Traduction de [34:53] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 53 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "34:54",
+      "surahNumber": 34,
+      "ayahNumber": 54,
+      "text": {
+        "simple": "وَحِيلَ بَيْنَهُمْ وَبَيْنَ مَا يَشْتَهُونَ كَمَا فُعِلَ بِأَشْيَاعِهِمْ مِنْ قَبْلُ ۚ إِنَّهُمْ كَانُوا فِي شَكٍّ مُرِيبٍ",
+        "en_sahih": "English translation of [34:54] in Sahih International style.",
+        "en_yusufali": "English translation of [34:54] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 34 آیت 54 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [34:54] en español.",
+        "fr_hamidullah": "Traduction de [34:54] en français.",
+        "bn_hoque": "সূরা 34 আয়াত 54 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

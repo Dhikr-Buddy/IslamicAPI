@@ -1,0 +1,1065 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.970Z",
+  "surahNumber": 8,
+  "ayahCount": 75,
+  "ayahs": [
+    {
+      "id": "8:1",
+      "surahNumber": 8,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ يَسْأَلُونَكَ عَنِ الْأَنْفَالِ ۖ قُلِ الْأَنْفَالُ لِلَّهِ وَالرَّسُولِ ۖ فَاتَّقُوا اللَّهَ وَأَصْلِحُوا ذَاتَ بَيْنِكُمْ ۖ وَأَطِيعُوا اللَّهَ وَرَسُولَهُ إِنْ كُنْتُمْ مُؤْمِنِينَ",
+        "en_sahih": "English translation of [8:1] in Sahih International style.",
+        "en_yusufali": "English translation of [8:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:1] en español.",
+        "fr_hamidullah": "Traduction de [8:1] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:2",
+      "surahNumber": 8,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ إِذَا ذُكِرَ اللَّهُ وَجِلَتْ قُلُوبُهُمْ وَإِذَا تُلِيَتْ عَلَيْهِمْ آيَاتُهُ زَادَتْهُمْ إِيمَانًا وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+        "en_sahih": "English translation of [8:2] in Sahih International style.",
+        "en_yusufali": "English translation of [8:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:2] en español.",
+        "fr_hamidullah": "Traduction de [8:2] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:3",
+      "surahNumber": 8,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ",
+        "en_sahih": "English translation of [8:3] in Sahih International style.",
+        "en_yusufali": "English translation of [8:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:3] en español.",
+        "fr_hamidullah": "Traduction de [8:3] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:4",
+      "surahNumber": 8,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "أُولَٰئِكَ هُمُ الْمُؤْمِنُونَ حَقًّا ۚ لَهُمْ دَرَجَاتٌ عِنْدَ رَبِّهِمْ وَمَغْفِرَةٌ وَرِزْقٌ كَرِيمٌ",
+        "en_sahih": "English translation of [8:4] in Sahih International style.",
+        "en_yusufali": "English translation of [8:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:4] en español.",
+        "fr_hamidullah": "Traduction de [8:4] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:5",
+      "surahNumber": 8,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "كَمَا أَخْرَجَكَ رَبُّكَ مِنْ بَيْتِكَ بِالْحَقِّ وَإِنَّ فَرِيقًا مِنَ الْمُؤْمِنِينَ لَكَارِهُونَ",
+        "en_sahih": "English translation of [8:5] in Sahih International style.",
+        "en_yusufali": "English translation of [8:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:5] en español.",
+        "fr_hamidullah": "Traduction de [8:5] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:6",
+      "surahNumber": 8,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "يُجَادِلُونَكَ فِي الْحَقِّ بَعْدَمَا تَبَيَّنَ كَأَنَّمَا يُسَاقُونَ إِلَى الْمَوْتِ وَهُمْ يَنْظُرُونَ",
+        "en_sahih": "English translation of [8:6] in Sahih International style.",
+        "en_yusufali": "English translation of [8:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:6] en español.",
+        "fr_hamidullah": "Traduction de [8:6] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:7",
+      "surahNumber": 8,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "وَإِذْ يَعِدُكُمُ اللَّهُ إِحْدَى الطَّائِفَتَيْنِ أَنَّهَا لَكُمْ وَتَوَدُّونَ أَنَّ غَيْرَ ذَاتِ الشَّوْكَةِ تَكُونُ لَكُمْ وَيُرِيدُ اللَّهُ أَنْ يُحِقَّ الْحَقَّ بِكَلِمَاتِهِ وَيَقْطَعَ دَابِرَ الْكَافِرِينَ",
+        "en_sahih": "English translation of [8:7] in Sahih International style.",
+        "en_yusufali": "English translation of [8:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:7] en español.",
+        "fr_hamidullah": "Traduction de [8:7] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:8",
+      "surahNumber": 8,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "لِيُحِقَّ الْحَقَّ وَيُبْطِلَ الْبَاطِلَ وَلَوْ كَرِهَ الْمُجْرِمُونَ",
+        "en_sahih": "English translation of [8:8] in Sahih International style.",
+        "en_yusufali": "English translation of [8:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:8] en español.",
+        "fr_hamidullah": "Traduction de [8:8] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:9",
+      "surahNumber": 8,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَاسْتَجَابَ لَكُمْ أَنِّي مُمِدُّكُمْ بِأَلْفٍ مِنَ الْمَلَائِكَةِ مُرْدِفِينَ",
+        "en_sahih": "English translation of [8:9] in Sahih International style.",
+        "en_yusufali": "English translation of [8:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:9] en español.",
+        "fr_hamidullah": "Traduction de [8:9] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:10",
+      "surahNumber": 8,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "وَمَا جَعَلَهُ اللَّهُ إِلَّا بُشْرَىٰ وَلِتَطْمَئِنَّ بِهِ قُلُوبُكُمْ ۚ وَمَا النَّصْرُ إِلَّا مِنْ عِنْدِ اللَّهِ ۚ إِنَّ اللَّهَ عَزِيزٌ حَكِيمٌ",
+        "en_sahih": "English translation of [8:10] in Sahih International style.",
+        "en_yusufali": "English translation of [8:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:10] en español.",
+        "fr_hamidullah": "Traduction de [8:10] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:11",
+      "surahNumber": 8,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "إِذْ يُغَشِّيكُمُ النُّعَاسَ أَمَنَةً مِنْهُ وَيُنَزِّلُ عَلَيْكُمْ مِنَ السَّمَاءِ مَاءً لِيُطَهِّرَكُمْ بِهِ وَيُذْهِبَ عَنْكُمْ رِجْزَ الشَّيْطَانِ وَلِيَرْبِطَ عَلَىٰ قُلُوبِكُمْ وَيُثَبِّتَ بِهِ الْأَقْدَامَ",
+        "en_sahih": "English translation of [8:11] in Sahih International style.",
+        "en_yusufali": "English translation of [8:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:11] en español.",
+        "fr_hamidullah": "Traduction de [8:11] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:12",
+      "surahNumber": 8,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "إِذْ يُوحِي رَبُّكَ إِلَى الْمَلَائِكَةِ أَنِّي مَعَكُمْ فَثَبِّتُوا الَّذِينَ آمَنُوا ۚ سَأُلْقِي فِي قُلُوبِ الَّذِينَ كَفَرُوا الرُّعْبَ فَاضْرِبُوا فَوْقَ الْأَعْنَاقِ وَاضْرِبُوا مِنْهُمْ كُلَّ بَنَانٍ",
+        "en_sahih": "English translation of [8:12] in Sahih International style.",
+        "en_yusufali": "English translation of [8:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:12] en español.",
+        "fr_hamidullah": "Traduction de [8:12] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:13",
+      "surahNumber": 8,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "ذَٰلِكَ بِأَنَّهُمْ شَاقُّوا اللَّهَ وَرَسُولَهُ ۚ وَمَنْ يُشَاقِقِ اللَّهَ وَرَسُولَهُ فَإِنَّ اللَّهَ شَدِيدُ الْعِقَابِ",
+        "en_sahih": "English translation of [8:13] in Sahih International style.",
+        "en_yusufali": "English translation of [8:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:13] en español.",
+        "fr_hamidullah": "Traduction de [8:13] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:14",
+      "surahNumber": 8,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "ذَٰلِكُمْ فَذُوقُوهُ وَأَنَّ لِلْكَافِرِينَ عَذَابَ النَّارِ",
+        "en_sahih": "English translation of [8:14] in Sahih International style.",
+        "en_yusufali": "English translation of [8:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:14] en español.",
+        "fr_hamidullah": "Traduction de [8:14] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:15",
+      "surahNumber": 8,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا لَقِيتُمُ الَّذِينَ كَفَرُوا زَحْفًا فَلَا تُوَلُّوهُمُ الْأَدْبَارَ",
+        "en_sahih": "English translation of [8:15] in Sahih International style.",
+        "en_yusufali": "English translation of [8:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:15] en español.",
+        "fr_hamidullah": "Traduction de [8:15] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:16",
+      "surahNumber": 8,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "وَمَنْ يُوَلِّهِمْ يَوْمَئِذٍ دُبُرَهُ إِلَّا مُتَحَرِّفًا لِقِتَالٍ أَوْ مُتَحَيِّزًا إِلَىٰ فِئَةٍ فَقَدْ بَاءَ بِغَضَبٍ مِنَ اللَّهِ وَمَأْوَاهُ جَهَنَّمُ ۖ وَبِئْسَ الْمَصِيرُ",
+        "en_sahih": "English translation of [8:16] in Sahih International style.",
+        "en_yusufali": "English translation of [8:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:16] en español.",
+        "fr_hamidullah": "Traduction de [8:16] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:17",
+      "surahNumber": 8,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "فَلَمْ تَقْتُلُوهُمْ وَلَٰكِنَّ اللَّهَ قَتَلَهُمْ ۚ وَمَا رَمَيْتَ إِذْ رَمَيْتَ وَلَٰكِنَّ اللَّهَ رَمَىٰ ۚ وَلِيُبْلِيَ الْمُؤْمِنِينَ مِنْهُ بَلَاءً حَسَنًا ۚ إِنَّ اللَّهَ سَمِيعٌ عَلِيمٌ",
+        "en_sahih": "English translation of [8:17] in Sahih International style.",
+        "en_yusufali": "English translation of [8:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:17] en español.",
+        "fr_hamidullah": "Traduction de [8:17] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:18",
+      "surahNumber": 8,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "ذَٰلِكُمْ وَأَنَّ اللَّهَ مُوهِنُ كَيْدِ الْكَافِرِينَ",
+        "en_sahih": "English translation of [8:18] in Sahih International style.",
+        "en_yusufali": "English translation of [8:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:18] en español.",
+        "fr_hamidullah": "Traduction de [8:18] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:19",
+      "surahNumber": 8,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "إِنْ تَسْتَفْتِحُوا فَقَدْ جَاءَكُمُ الْفَتْحُ ۖ وَإِنْ تَنْتَهُوا فَهُوَ خَيْرٌ لَكُمْ ۖ وَإِنْ تَعُودُوا نَعُدْ وَلَنْ تُغْنِيَ عَنْكُمْ فِئَتُكُمْ شَيْئًا وَلَوْ كَثُرَتْ وَأَنَّ اللَّهَ مَعَ الْمُؤْمِنِينَ",
+        "en_sahih": "English translation of [8:19] in Sahih International style.",
+        "en_yusufali": "English translation of [8:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:19] en español.",
+        "fr_hamidullah": "Traduction de [8:19] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:20",
+      "surahNumber": 8,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَرَسُولَهُ وَلَا تَوَلَّوْا عَنْهُ وَأَنْتُمْ تَسْمَعُونَ",
+        "en_sahih": "English translation of [8:20] in Sahih International style.",
+        "en_yusufali": "English translation of [8:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:20] en español.",
+        "fr_hamidullah": "Traduction de [8:20] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:21",
+      "surahNumber": 8,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "وَلَا تَكُونُوا كَالَّذِينَ قَالُوا سَمِعْنَا وَهُمْ لَا يَسْمَعُونَ",
+        "en_sahih": "English translation of [8:21] in Sahih International style.",
+        "en_yusufali": "English translation of [8:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:21] en español.",
+        "fr_hamidullah": "Traduction de [8:21] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:22",
+      "surahNumber": 8,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "۞ إِنَّ شَرَّ الدَّوَابِّ عِنْدَ اللَّهِ الصُّمُّ الْبُكْمُ الَّذِينَ لَا يَعْقِلُونَ",
+        "en_sahih": "English translation of [8:22] in Sahih International style.",
+        "en_yusufali": "English translation of [8:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:22] en español.",
+        "fr_hamidullah": "Traduction de [8:22] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:23",
+      "surahNumber": 8,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "وَلَوْ عَلِمَ اللَّهُ فِيهِمْ خَيْرًا لَأَسْمَعَهُمْ ۖ وَلَوْ أَسْمَعَهُمْ لَتَوَلَّوْا وَهُمْ مُعْرِضُونَ",
+        "en_sahih": "English translation of [8:23] in Sahih International style.",
+        "en_yusufali": "English translation of [8:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:23] en español.",
+        "fr_hamidullah": "Traduction de [8:23] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:24",
+      "surahNumber": 8,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَجِيبُوا لِلَّهِ وَلِلرَّسُولِ إِذَا دَعَاكُمْ لِمَا يُحْيِيكُمْ ۖ وَاعْلَمُوا أَنَّ اللَّهَ يَحُولُ بَيْنَ الْمَرْءِ وَقَلْبِهِ وَأَنَّهُ إِلَيْهِ تُحْشَرُونَ",
+        "en_sahih": "English translation of [8:24] in Sahih International style.",
+        "en_yusufali": "English translation of [8:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:24] en español.",
+        "fr_hamidullah": "Traduction de [8:24] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:25",
+      "surahNumber": 8,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "وَاتَّقُوا فِتْنَةً لَا تُصِيبَنَّ الَّذِينَ ظَلَمُوا مِنْكُمْ خَاصَّةً ۖ وَاعْلَمُوا أَنَّ اللَّهَ شَدِيدُ الْعِقَابِ",
+        "en_sahih": "English translation of [8:25] in Sahih International style.",
+        "en_yusufali": "English translation of [8:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:25] en español.",
+        "fr_hamidullah": "Traduction de [8:25] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:26",
+      "surahNumber": 8,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "وَاذْكُرُوا إِذْ أَنْتُمْ قَلِيلٌ مُسْتَضْعَفُونَ فِي الْأَرْضِ تَخَافُونَ أَنْ يَتَخَطَّفَكُمُ النَّاسُ فَآوَاكُمْ وَأَيَّدَكُمْ بِنَصْرِهِ وَرَزَقَكُمْ مِنَ الطَّيِّبَاتِ لَعَلَّكُمْ تَشْكُرُونَ",
+        "en_sahih": "English translation of [8:26] in Sahih International style.",
+        "en_yusufali": "English translation of [8:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:26] en español.",
+        "fr_hamidullah": "Traduction de [8:26] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:27",
+      "surahNumber": 8,
+      "ayahNumber": 27,
+      "text": {
+        "simple": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَخُونُوا اللَّهَ وَالرَّسُولَ وَتَخُونُوا أَمَانَاتِكُمْ وَأَنْتُمْ تَعْلَمُونَ",
+        "en_sahih": "English translation of [8:27] in Sahih International style.",
+        "en_yusufali": "English translation of [8:27] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:27] en español.",
+        "fr_hamidullah": "Traduction de [8:27] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:28",
+      "surahNumber": 8,
+      "ayahNumber": 28,
+      "text": {
+        "simple": "وَاعْلَمُوا أَنَّمَا أَمْوَالُكُمْ وَأَوْلَادُكُمْ فِتْنَةٌ وَأَنَّ اللَّهَ عِنْدَهُ أَجْرٌ عَظِيمٌ",
+        "en_sahih": "English translation of [8:28] in Sahih International style.",
+        "en_yusufali": "English translation of [8:28] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:28] en español.",
+        "fr_hamidullah": "Traduction de [8:28] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:29",
+      "surahNumber": 8,
+      "ayahNumber": 29,
+      "text": {
+        "simple": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ تَتَّقُوا اللَّهَ يَجْعَلْ لَكُمْ فُرْقَانًا وَيُكَفِّرْ عَنْكُمْ سَيِّئَاتِكُمْ وَيَغْفِرْ لَكُمْ ۗ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ",
+        "en_sahih": "English translation of [8:29] in Sahih International style.",
+        "en_yusufali": "English translation of [8:29] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:29] en español.",
+        "fr_hamidullah": "Traduction de [8:29] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:30",
+      "surahNumber": 8,
+      "ayahNumber": 30,
+      "text": {
+        "simple": "وَإِذْ يَمْكُرُ بِكَ الَّذِينَ كَفَرُوا لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ أَوْ يُخْرِجُوكَ ۚ وَيَمْكُرُونَ وَيَمْكُرُ اللَّهُ ۖ وَاللَّهُ خَيْرُ الْمَاكِرِينَ",
+        "en_sahih": "English translation of [8:30] in Sahih International style.",
+        "en_yusufali": "English translation of [8:30] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:30] en español.",
+        "fr_hamidullah": "Traduction de [8:30] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:31",
+      "surahNumber": 8,
+      "ayahNumber": 31,
+      "text": {
+        "simple": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ آيَاتُنَا قَالُوا قَدْ سَمِعْنَا لَوْ نَشَاءُ لَقُلْنَا مِثْلَ هَٰذَا ۙ إِنْ هَٰذَا إِلَّا أَسَاطِيرُ الْأَوَّلِينَ",
+        "en_sahih": "English translation of [8:31] in Sahih International style.",
+        "en_yusufali": "English translation of [8:31] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:31] en español.",
+        "fr_hamidullah": "Traduction de [8:31] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:32",
+      "surahNumber": 8,
+      "ayahNumber": 32,
+      "text": {
+        "simple": "وَإِذْ قَالُوا اللَّهُمَّ إِنْ كَانَ هَٰذَا هُوَ الْحَقَّ مِنْ عِنْدِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِنَ السَّمَاءِ أَوِ ائْتِنَا بِعَذَابٍ أَلِيمٍ",
+        "en_sahih": "English translation of [8:32] in Sahih International style.",
+        "en_yusufali": "English translation of [8:32] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:32] en español.",
+        "fr_hamidullah": "Traduction de [8:32] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:33",
+      "surahNumber": 8,
+      "ayahNumber": 33,
+      "text": {
+        "simple": "وَمَا كَانَ اللَّهُ لِيُعَذِّبَهُمْ وَأَنْتَ فِيهِمْ ۚ وَمَا كَانَ اللَّهُ مُعَذِّبَهُمْ وَهُمْ يَسْتَغْفِرُونَ",
+        "en_sahih": "English translation of [8:33] in Sahih International style.",
+        "en_yusufali": "English translation of [8:33] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:33] en español.",
+        "fr_hamidullah": "Traduction de [8:33] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:34",
+      "surahNumber": 8,
+      "ayahNumber": 34,
+      "text": {
+        "simple": "وَمَا لَهُمْ أَلَّا يُعَذِّبَهُمُ اللَّهُ وَهُمْ يَصُدُّونَ عَنِ الْمَسْجِدِ الْحَرَامِ وَمَا كَانُوا أَوْلِيَاءَهُ ۚ إِنْ أَوْلِيَاؤُهُ إِلَّا الْمُتَّقُونَ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+        "en_sahih": "English translation of [8:34] in Sahih International style.",
+        "en_yusufali": "English translation of [8:34] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:34] en español.",
+        "fr_hamidullah": "Traduction de [8:34] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:35",
+      "surahNumber": 8,
+      "ayahNumber": 35,
+      "text": {
+        "simple": "وَمَا كَانَ صَلَاتُهُمْ عِنْدَ الْبَيْتِ إِلَّا مُكَاءً وَتَصْدِيَةً ۚ فَذُوقُوا الْعَذَابَ بِمَا كُنْتُمْ تَكْفُرُونَ",
+        "en_sahih": "English translation of [8:35] in Sahih International style.",
+        "en_yusufali": "English translation of [8:35] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:35] en español.",
+        "fr_hamidullah": "Traduction de [8:35] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:36",
+      "surahNumber": 8,
+      "ayahNumber": 36,
+      "text": {
+        "simple": "إِنَّ الَّذِينَ كَفَرُوا يُنْفِقُونَ أَمْوَالَهُمْ لِيَصُدُّوا عَنْ سَبِيلِ اللَّهِ ۚ فَسَيُنْفِقُونَهَا ثُمَّ تَكُونُ عَلَيْهِمْ حَسْرَةً ثُمَّ يُغْلَبُونَ ۗ وَالَّذِينَ كَفَرُوا إِلَىٰ جَهَنَّمَ يُحْشَرُونَ",
+        "en_sahih": "English translation of [8:36] in Sahih International style.",
+        "en_yusufali": "English translation of [8:36] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:36] en español.",
+        "fr_hamidullah": "Traduction de [8:36] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:37",
+      "surahNumber": 8,
+      "ayahNumber": 37,
+      "text": {
+        "simple": "لِيَمِيزَ اللَّهُ الْخَبِيثَ مِنَ الطَّيِّبِ وَيَجْعَلَ الْخَبِيثَ بَعْضَهُ عَلَىٰ بَعْضٍ فَيَرْكُمَهُ جَمِيعًا فَيَجْعَلَهُ فِي جَهَنَّمَ ۚ أُولَٰئِكَ هُمُ الْخَاسِرُونَ",
+        "en_sahih": "English translation of [8:37] in Sahih International style.",
+        "en_yusufali": "English translation of [8:37] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:37] en español.",
+        "fr_hamidullah": "Traduction de [8:37] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:38",
+      "surahNumber": 8,
+      "ayahNumber": 38,
+      "text": {
+        "simple": "قُلْ لِلَّذِينَ كَفَرُوا إِنْ يَنْتَهُوا يُغْفَرْ لَهُمْ مَا قَدْ سَلَفَ وَإِنْ يَعُودُوا فَقَدْ مَضَتْ سُنَّتُ الْأَوَّلِينَ",
+        "en_sahih": "English translation of [8:38] in Sahih International style.",
+        "en_yusufali": "English translation of [8:38] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 38 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:38] en español.",
+        "fr_hamidullah": "Traduction de [8:38] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:39",
+      "surahNumber": 8,
+      "ayahNumber": 39,
+      "text": {
+        "simple": "وَقَاتِلُوهُمْ حَتَّىٰ لَا تَكُونَ فِتْنَةٌ وَيَكُونَ الدِّينُ كُلُّهُ لِلَّهِ ۚ فَإِنِ انْتَهَوْا فَإِنَّ اللَّهَ بِمَا يَعْمَلُونَ بَصِيرٌ",
+        "en_sahih": "English translation of [8:39] in Sahih International style.",
+        "en_yusufali": "English translation of [8:39] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 39 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:39] en español.",
+        "fr_hamidullah": "Traduction de [8:39] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:40",
+      "surahNumber": 8,
+      "ayahNumber": 40,
+      "text": {
+        "simple": "وَإِنْ تَوَلَّوْا فَاعْلَمُوا أَنَّ اللَّهَ مَوْلَاكُمْ ۚ نِعْمَ الْمَوْلَىٰ وَنِعْمَ النَّصِيرُ",
+        "en_sahih": "English translation of [8:40] in Sahih International style.",
+        "en_yusufali": "English translation of [8:40] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 40 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:40] en español.",
+        "fr_hamidullah": "Traduction de [8:40] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:41",
+      "surahNumber": 8,
+      "ayahNumber": 41,
+      "text": {
+        "simple": "۞ وَاعْلَمُوا أَنَّمَا غَنِمْتُمْ مِنْ شَيْءٍ فَأَنَّ لِلَّهِ خُمُسَهُ وَلِلرَّسُولِ وَلِذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ وَابْنِ السَّبِيلِ إِنْ كُنْتُمْ آمَنْتُمْ بِاللَّهِ وَمَا أَنْزَلْنَا عَلَىٰ عَبْدِنَا يَوْمَ الْفُرْقَانِ يَوْمَ الْتَقَى الْجَمْعَانِ ۗ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+        "en_sahih": "English translation of [8:41] in Sahih International style.",
+        "en_yusufali": "English translation of [8:41] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 41 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:41] en español.",
+        "fr_hamidullah": "Traduction de [8:41] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:42",
+      "surahNumber": 8,
+      "ayahNumber": 42,
+      "text": {
+        "simple": "إِذْ أَنْتُمْ بِالْعُدْوَةِ الدُّنْيَا وَهُمْ بِالْعُدْوَةِ الْقُصْوَىٰ وَالرَّكْبُ أَسْفَلَ مِنْكُمْ ۚ وَلَوْ تَوَاعَدْتُمْ لَاخْتَلَفْتُمْ فِي الْمِيعَادِ ۙ وَلَٰكِنْ لِيَقْضِيَ اللَّهُ أَمْرًا كَانَ مَفْعُولًا لِيَهْلِكَ مَنْ هَلَكَ عَنْ بَيِّنَةٍ وَيَحْيَىٰ مَنْ حَيَّ عَنْ بَيِّنَةٍ ۗ وَإِنَّ اللَّهَ لَسَمِيعٌ عَلِيمٌ",
+        "en_sahih": "English translation of [8:42] in Sahih International style.",
+        "en_yusufali": "English translation of [8:42] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 42 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:42] en español.",
+        "fr_hamidullah": "Traduction de [8:42] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:43",
+      "surahNumber": 8,
+      "ayahNumber": 43,
+      "text": {
+        "simple": "إِذْ يُرِيكَهُمُ اللَّهُ فِي مَنَامِكَ قَلِيلًا ۖ وَلَوْ أَرَاكَهُمْ كَثِيرًا لَفَشِلْتُمْ وَلَتَنَازَعْتُمْ فِي الْأَمْرِ وَلَٰكِنَّ اللَّهَ سَلَّمَ ۗ إِنَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ",
+        "en_sahih": "English translation of [8:43] in Sahih International style.",
+        "en_yusufali": "English translation of [8:43] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 43 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:43] en español.",
+        "fr_hamidullah": "Traduction de [8:43] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:44",
+      "surahNumber": 8,
+      "ayahNumber": 44,
+      "text": {
+        "simple": "وَإِذْ يُرِيكُمُوهُمْ إِذِ الْتَقَيْتُمْ فِي أَعْيُنِكُمْ قَلِيلًا وَيُقَلِّلُكُمْ فِي أَعْيُنِهِمْ لِيَقْضِيَ اللَّهُ أَمْرًا كَانَ مَفْعُولًا ۗ وَإِلَى اللَّهِ تُرْجَعُ الْأُمُورُ",
+        "en_sahih": "English translation of [8:44] in Sahih International style.",
+        "en_yusufali": "English translation of [8:44] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 44 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:44] en español.",
+        "fr_hamidullah": "Traduction de [8:44] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:45",
+      "surahNumber": 8,
+      "ayahNumber": 45,
+      "text": {
+        "simple": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا لَقِيتُمْ فِئَةً فَاثْبُتُوا وَاذْكُرُوا اللَّهَ كَثِيرًا لَعَلَّكُمْ تُفْلِحُونَ",
+        "en_sahih": "English translation of [8:45] in Sahih International style.",
+        "en_yusufali": "English translation of [8:45] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 45 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:45] en español.",
+        "fr_hamidullah": "Traduction de [8:45] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:46",
+      "surahNumber": 8,
+      "ayahNumber": 46,
+      "text": {
+        "simple": "وَأَطِيعُوا اللَّهَ وَرَسُولَهُ وَلَا تَنَازَعُوا فَتَفْشَلُوا وَتَذْهَبَ رِيحُكُمْ ۖ وَاصْبِرُوا ۚ إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+        "en_sahih": "English translation of [8:46] in Sahih International style.",
+        "en_yusufali": "English translation of [8:46] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 46 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:46] en español.",
+        "fr_hamidullah": "Traduction de [8:46] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:47",
+      "surahNumber": 8,
+      "ayahNumber": 47,
+      "text": {
+        "simple": "وَلَا تَكُونُوا كَالَّذِينَ خَرَجُوا مِنْ دِيَارِهِمْ بَطَرًا وَرِئَاءَ النَّاسِ وَيَصُدُّونَ عَنْ سَبِيلِ اللَّهِ ۚ وَاللَّهُ بِمَا يَعْمَلُونَ مُحِيطٌ",
+        "en_sahih": "English translation of [8:47] in Sahih International style.",
+        "en_yusufali": "English translation of [8:47] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 47 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:47] en español.",
+        "fr_hamidullah": "Traduction de [8:47] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:48",
+      "surahNumber": 8,
+      "ayahNumber": 48,
+      "text": {
+        "simple": "وَإِذْ زَيَّنَ لَهُمُ الشَّيْطَانُ أَعْمَالَهُمْ وَقَالَ لَا غَالِبَ لَكُمُ الْيَوْمَ مِنَ النَّاسِ وَإِنِّي جَارٌ لَكُمْ ۖ فَلَمَّا تَرَاءَتِ الْفِئَتَانِ نَكَصَ عَلَىٰ عَقِبَيْهِ وَقَالَ إِنِّي بَرِيءٌ مِنْكُمْ إِنِّي أَرَىٰ مَا لَا تَرَوْنَ إِنِّي أَخَافُ اللَّهَ ۚ وَاللَّهُ شَدِيدُ الْعِقَابِ",
+        "en_sahih": "English translation of [8:48] in Sahih International style.",
+        "en_yusufali": "English translation of [8:48] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 48 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:48] en español.",
+        "fr_hamidullah": "Traduction de [8:48] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:49",
+      "surahNumber": 8,
+      "ayahNumber": 49,
+      "text": {
+        "simple": "إِذْ يَقُولُ الْمُنَافِقُونَ وَالَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ غَرَّ هَٰؤُلَاءِ دِينُهُمْ ۗ وَمَنْ يَتَوَكَّلْ عَلَى اللَّهِ فَإِنَّ اللَّهَ عَزِيزٌ حَكِيمٌ",
+        "en_sahih": "English translation of [8:49] in Sahih International style.",
+        "en_yusufali": "English translation of [8:49] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 49 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:49] en español.",
+        "fr_hamidullah": "Traduction de [8:49] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:50",
+      "surahNumber": 8,
+      "ayahNumber": 50,
+      "text": {
+        "simple": "وَلَوْ تَرَىٰ إِذْ يَتَوَفَّى الَّذِينَ كَفَرُوا ۙ الْمَلَائِكَةُ يَضْرِبُونَ وُجُوهَهُمْ وَأَدْبَارَهُمْ وَذُوقُوا عَذَابَ الْحَرِيقِ",
+        "en_sahih": "English translation of [8:50] in Sahih International style.",
+        "en_yusufali": "English translation of [8:50] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 50 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:50] en español.",
+        "fr_hamidullah": "Traduction de [8:50] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:51",
+      "surahNumber": 8,
+      "ayahNumber": 51,
+      "text": {
+        "simple": "ذَٰلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ اللَّهَ لَيْسَ بِظَلَّامٍ لِلْعَبِيدِ",
+        "en_sahih": "English translation of [8:51] in Sahih International style.",
+        "en_yusufali": "English translation of [8:51] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 51 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:51] en español.",
+        "fr_hamidullah": "Traduction de [8:51] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:52",
+      "surahNumber": 8,
+      "ayahNumber": 52,
+      "text": {
+        "simple": "كَدَأْبِ آلِ فِرْعَوْنَ ۙ وَالَّذِينَ مِنْ قَبْلِهِمْ ۚ كَفَرُوا بِآيَاتِ اللَّهِ فَأَخَذَهُمُ اللَّهُ بِذُنُوبِهِمْ ۗ إِنَّ اللَّهَ قَوِيٌّ شَدِيدُ الْعِقَابِ",
+        "en_sahih": "English translation of [8:52] in Sahih International style.",
+        "en_yusufali": "English translation of [8:52] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 52 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:52] en español.",
+        "fr_hamidullah": "Traduction de [8:52] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:53",
+      "surahNumber": 8,
+      "ayahNumber": 53,
+      "text": {
+        "simple": "ذَٰلِكَ بِأَنَّ اللَّهَ لَمْ يَكُ مُغَيِّرًا نِعْمَةً أَنْعَمَهَا عَلَىٰ قَوْمٍ حَتَّىٰ يُغَيِّرُوا مَا بِأَنْفُسِهِمْ ۙ وَأَنَّ اللَّهَ سَمِيعٌ عَلِيمٌ",
+        "en_sahih": "English translation of [8:53] in Sahih International style.",
+        "en_yusufali": "English translation of [8:53] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 53 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:53] en español.",
+        "fr_hamidullah": "Traduction de [8:53] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 53 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:54",
+      "surahNumber": 8,
+      "ayahNumber": 54,
+      "text": {
+        "simple": "كَدَأْبِ آلِ فِرْعَوْنَ ۙ وَالَّذِينَ مِنْ قَبْلِهِمْ ۚ كَذَّبُوا بِآيَاتِ رَبِّهِمْ فَأَهْلَكْنَاهُمْ بِذُنُوبِهِمْ وَأَغْرَقْنَا آلَ فِرْعَوْنَ ۚ وَكُلٌّ كَانُوا ظَالِمِينَ",
+        "en_sahih": "English translation of [8:54] in Sahih International style.",
+        "en_yusufali": "English translation of [8:54] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 54 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:54] en español.",
+        "fr_hamidullah": "Traduction de [8:54] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 54 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:55",
+      "surahNumber": 8,
+      "ayahNumber": 55,
+      "text": {
+        "simple": "إِنَّ شَرَّ الدَّوَابِّ عِنْدَ اللَّهِ الَّذِينَ كَفَرُوا فَهُمْ لَا يُؤْمِنُونَ",
+        "en_sahih": "English translation of [8:55] in Sahih International style.",
+        "en_yusufali": "English translation of [8:55] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 55 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:55] en español.",
+        "fr_hamidullah": "Traduction de [8:55] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 55 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:56",
+      "surahNumber": 8,
+      "ayahNumber": 56,
+      "text": {
+        "simple": "الَّذِينَ عَاهَدْتَ مِنْهُمْ ثُمَّ يَنْقُضُونَ عَهْدَهُمْ فِي كُلِّ مَرَّةٍ وَهُمْ لَا يَتَّقُونَ",
+        "en_sahih": "English translation of [8:56] in Sahih International style.",
+        "en_yusufali": "English translation of [8:56] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 56 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:56] en español.",
+        "fr_hamidullah": "Traduction de [8:56] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 56 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:57",
+      "surahNumber": 8,
+      "ayahNumber": 57,
+      "text": {
+        "simple": "فَإِمَّا تَثْقَفَنَّهُمْ فِي الْحَرْبِ فَشَرِّدْ بِهِمْ مَنْ خَلْفَهُمْ لَعَلَّهُمْ يَذَّكَّرُونَ",
+        "en_sahih": "English translation of [8:57] in Sahih International style.",
+        "en_yusufali": "English translation of [8:57] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 57 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:57] en español.",
+        "fr_hamidullah": "Traduction de [8:57] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 57 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:58",
+      "surahNumber": 8,
+      "ayahNumber": 58,
+      "text": {
+        "simple": "وَإِمَّا تَخَافَنَّ مِنْ قَوْمٍ خِيَانَةً فَانْبِذْ إِلَيْهِمْ عَلَىٰ سَوَاءٍ ۚ إِنَّ اللَّهَ لَا يُحِبُّ الْخَائِنِينَ",
+        "en_sahih": "English translation of [8:58] in Sahih International style.",
+        "en_yusufali": "English translation of [8:58] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 58 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:58] en español.",
+        "fr_hamidullah": "Traduction de [8:58] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 58 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:59",
+      "surahNumber": 8,
+      "ayahNumber": 59,
+      "text": {
+        "simple": "وَلَا يَحْسَبَنَّ الَّذِينَ كَفَرُوا سَبَقُوا ۚ إِنَّهُمْ لَا يُعْجِزُونَ",
+        "en_sahih": "English translation of [8:59] in Sahih International style.",
+        "en_yusufali": "English translation of [8:59] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 59 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:59] en español.",
+        "fr_hamidullah": "Traduction de [8:59] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 59 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:60",
+      "surahNumber": 8,
+      "ayahNumber": 60,
+      "text": {
+        "simple": "وَأَعِدُّوا لَهُمْ مَا اسْتَطَعْتُمْ مِنْ قُوَّةٍ وَمِنْ رِبَاطِ الْخَيْلِ تُرْهِبُونَ بِهِ عَدُوَّ اللَّهِ وَعَدُوَّكُمْ وَآخَرِينَ مِنْ دُونِهِمْ لَا تَعْلَمُونَهُمُ اللَّهُ يَعْلَمُهُمْ ۚ وَمَا تُنْفِقُوا مِنْ شَيْءٍ فِي سَبِيلِ اللَّهِ يُوَفَّ إِلَيْكُمْ وَأَنْتُمْ لَا تُظْلَمُونَ",
+        "en_sahih": "English translation of [8:60] in Sahih International style.",
+        "en_yusufali": "English translation of [8:60] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 60 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:60] en español.",
+        "fr_hamidullah": "Traduction de [8:60] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 60 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:61",
+      "surahNumber": 8,
+      "ayahNumber": 61,
+      "text": {
+        "simple": "۞ وَإِنْ جَنَحُوا لِلسَّلْمِ فَاجْنَحْ لَهَا وَتَوَكَّلْ عَلَى اللَّهِ ۚ إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ",
+        "en_sahih": "English translation of [8:61] in Sahih International style.",
+        "en_yusufali": "English translation of [8:61] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 61 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:61] en español.",
+        "fr_hamidullah": "Traduction de [8:61] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 61 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:62",
+      "surahNumber": 8,
+      "ayahNumber": 62,
+      "text": {
+        "simple": "وَإِنْ يُرِيدُوا أَنْ يَخْدَعُوكَ فَإِنَّ حَسْبَكَ اللَّهُ ۚ هُوَ الَّذِي أَيَّدَكَ بِنَصْرِهِ وَبِالْمُؤْمِنِينَ",
+        "en_sahih": "English translation of [8:62] in Sahih International style.",
+        "en_yusufali": "English translation of [8:62] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 62 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:62] en español.",
+        "fr_hamidullah": "Traduction de [8:62] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 62 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:63",
+      "surahNumber": 8,
+      "ayahNumber": 63,
+      "text": {
+        "simple": "وَأَلَّفَ بَيْنَ قُلُوبِهِمْ ۚ لَوْ أَنْفَقْتَ مَا فِي الْأَرْضِ جَمِيعًا مَا أَلَّفْتَ بَيْنَ قُلُوبِهِمْ وَلَٰكِنَّ اللَّهَ أَلَّفَ بَيْنَهُمْ ۚ إِنَّهُ عَزِيزٌ حَكِيمٌ",
+        "en_sahih": "English translation of [8:63] in Sahih International style.",
+        "en_yusufali": "English translation of [8:63] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 63 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:63] en español.",
+        "fr_hamidullah": "Traduction de [8:63] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 63 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:64",
+      "surahNumber": 8,
+      "ayahNumber": 64,
+      "text": {
+        "simple": "يَا أَيُّهَا النَّبِيُّ حَسْبُكَ اللَّهُ وَمَنِ اتَّبَعَكَ مِنَ الْمُؤْمِنِينَ",
+        "en_sahih": "English translation of [8:64] in Sahih International style.",
+        "en_yusufali": "English translation of [8:64] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 64 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:64] en español.",
+        "fr_hamidullah": "Traduction de [8:64] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 64 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:65",
+      "surahNumber": 8,
+      "ayahNumber": 65,
+      "text": {
+        "simple": "يَا أَيُّهَا النَّبِيُّ حَرِّضِ الْمُؤْمِنِينَ عَلَى الْقِتَالِ ۚ إِنْ يَكُنْ مِنْكُمْ عِشْرُونَ صَابِرُونَ يَغْلِبُوا مِائَتَيْنِ ۚ وَإِنْ يَكُنْ مِنْكُمْ مِائَةٌ يَغْلِبُوا أَلْفًا مِنَ الَّذِينَ كَفَرُوا بِأَنَّهُمْ قَوْمٌ لَا يَفْقَهُونَ",
+        "en_sahih": "English translation of [8:65] in Sahih International style.",
+        "en_yusufali": "English translation of [8:65] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 65 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:65] en español.",
+        "fr_hamidullah": "Traduction de [8:65] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 65 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:66",
+      "surahNumber": 8,
+      "ayahNumber": 66,
+      "text": {
+        "simple": "الْآنَ خَفَّفَ اللَّهُ عَنْكُمْ وَعَلِمَ أَنَّ فِيكُمْ ضَعْفًا ۚ فَإِنْ يَكُنْ مِنْكُمْ مِائَةٌ صَابِرَةٌ يَغْلِبُوا مِائَتَيْنِ ۚ وَإِنْ يَكُنْ مِنْكُمْ أَلْفٌ يَغْلِبُوا أَلْفَيْنِ بِإِذْنِ اللَّهِ ۗ وَاللَّهُ مَعَ الصَّابِرِينَ",
+        "en_sahih": "English translation of [8:66] in Sahih International style.",
+        "en_yusufali": "English translation of [8:66] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 66 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:66] en español.",
+        "fr_hamidullah": "Traduction de [8:66] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 66 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:67",
+      "surahNumber": 8,
+      "ayahNumber": 67,
+      "text": {
+        "simple": "مَا كَانَ لِنَبِيٍّ أَنْ يَكُونَ لَهُ أَسْرَىٰ حَتَّىٰ يُثْخِنَ فِي الْأَرْضِ ۚ تُرِيدُونَ عَرَضَ الدُّنْيَا وَاللَّهُ يُرِيدُ الْآخِرَةَ ۗ وَاللَّهُ عَزِيزٌ حَكِيمٌ",
+        "en_sahih": "English translation of [8:67] in Sahih International style.",
+        "en_yusufali": "English translation of [8:67] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 67 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:67] en español.",
+        "fr_hamidullah": "Traduction de [8:67] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 67 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:68",
+      "surahNumber": 8,
+      "ayahNumber": 68,
+      "text": {
+        "simple": "لَوْلَا كِتَابٌ مِنَ اللَّهِ سَبَقَ لَمَسَّكُمْ فِيمَا أَخَذْتُمْ عَذَابٌ عَظِيمٌ",
+        "en_sahih": "English translation of [8:68] in Sahih International style.",
+        "en_yusufali": "English translation of [8:68] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 68 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:68] en español.",
+        "fr_hamidullah": "Traduction de [8:68] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 68 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:69",
+      "surahNumber": 8,
+      "ayahNumber": 69,
+      "text": {
+        "simple": "فَكُلُوا مِمَّا غَنِمْتُمْ حَلَالًا طَيِّبًا ۚ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+        "en_sahih": "English translation of [8:69] in Sahih International style.",
+        "en_yusufali": "English translation of [8:69] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 69 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:69] en español.",
+        "fr_hamidullah": "Traduction de [8:69] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 69 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:70",
+      "surahNumber": 8,
+      "ayahNumber": 70,
+      "text": {
+        "simple": "يَا أَيُّهَا النَّبِيُّ قُلْ لِمَنْ فِي أَيْدِيكُمْ مِنَ الْأَسْرَىٰ إِنْ يَعْلَمِ اللَّهُ فِي قُلُوبِكُمْ خَيْرًا يُؤْتِكُمْ خَيْرًا مِمَّا أُخِذَ مِنْكُمْ وَيَغْفِرْ لَكُمْ ۗ وَاللَّهُ غَفُورٌ رَحِيمٌ",
+        "en_sahih": "English translation of [8:70] in Sahih International style.",
+        "en_yusufali": "English translation of [8:70] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 70 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:70] en español.",
+        "fr_hamidullah": "Traduction de [8:70] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 70 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:71",
+      "surahNumber": 8,
+      "ayahNumber": 71,
+      "text": {
+        "simple": "وَإِنْ يُرِيدُوا خِيَانَتَكَ فَقَدْ خَانُوا اللَّهَ مِنْ قَبْلُ فَأَمْكَنَ مِنْهُمْ ۗ وَاللَّهُ عَلِيمٌ حَكِيمٌ",
+        "en_sahih": "English translation of [8:71] in Sahih International style.",
+        "en_yusufali": "English translation of [8:71] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 71 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:71] en español.",
+        "fr_hamidullah": "Traduction de [8:71] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 71 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:72",
+      "surahNumber": 8,
+      "ayahNumber": 72,
+      "text": {
+        "simple": "إِنَّ الَّذِينَ آمَنُوا وَهَاجَرُوا وَجَاهَدُوا بِأَمْوَالِهِمْ وَأَنْفُسِهِمْ فِي سَبِيلِ اللَّهِ وَالَّذِينَ آوَوْا وَنَصَرُوا أُولَٰئِكَ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ ۚ وَالَّذِينَ آمَنُوا وَلَمْ يُهَاجِرُوا مَا لَكُمْ مِنْ وَلَايَتِهِمْ مِنْ شَيْءٍ حَتَّىٰ يُهَاجِرُوا ۚ وَإِنِ اسْتَنْصَرُوكُمْ فِي الدِّينِ فَعَلَيْكُمُ النَّصْرُ إِلَّا عَلَىٰ قَوْمٍ بَيْنَكُمْ وَبَيْنَهُمْ مِيثَاقٌ ۗ وَاللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+        "en_sahih": "English translation of [8:72] in Sahih International style.",
+        "en_yusufali": "English translation of [8:72] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 72 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:72] en español.",
+        "fr_hamidullah": "Traduction de [8:72] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 72 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:73",
+      "surahNumber": 8,
+      "ayahNumber": 73,
+      "text": {
+        "simple": "وَالَّذِينَ كَفَرُوا بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ ۚ إِلَّا تَفْعَلُوهُ تَكُنْ فِتْنَةٌ فِي الْأَرْضِ وَفَسَادٌ كَبِيرٌ",
+        "en_sahih": "English translation of [8:73] in Sahih International style.",
+        "en_yusufali": "English translation of [8:73] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 73 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:73] en español.",
+        "fr_hamidullah": "Traduction de [8:73] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 73 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:74",
+      "surahNumber": 8,
+      "ayahNumber": 74,
+      "text": {
+        "simple": "وَالَّذِينَ آمَنُوا وَهَاجَرُوا وَجَاهَدُوا فِي سَبِيلِ اللَّهِ وَالَّذِينَ آوَوْا وَنَصَرُوا أُولَٰئِكَ هُمُ الْمُؤْمِنُونَ حَقًّا ۚ لَهُمْ مَغْفِرَةٌ وَرِزْقٌ كَرِيمٌ",
+        "en_sahih": "English translation of [8:74] in Sahih International style.",
+        "en_yusufali": "English translation of [8:74] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 74 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:74] en español.",
+        "fr_hamidullah": "Traduction de [8:74] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 74 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "8:75",
+      "surahNumber": 8,
+      "ayahNumber": 75,
+      "text": {
+        "simple": "وَالَّذِينَ آمَنُوا مِنْ بَعْدُ وَهَاجَرُوا وَجَاهَدُوا مَعَكُمْ فَأُولَٰئِكَ مِنْكُمْ ۚ وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَىٰ بِبَعْضٍ فِي كِتَابِ اللَّهِ ۗ إِنَّ اللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ",
+        "en_sahih": "English translation of [8:75] in Sahih International style.",
+        "en_yusufali": "English translation of [8:75] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 8 آیت 75 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [8:75] en español.",
+        "fr_hamidullah": "Traduction de [8:75] en français.",
+        "bn_hoque": "সূরা 8 আয়াত 75 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

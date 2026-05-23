@@ -12,7 +12,7 @@ class Ayah(BaseModel):
     surah_number: int = Field(alias="surahNumber")
     ayah_number: int = Field(alias="ayahNumber")
     text: dict[str, str]
-    provenance: list[Provenance]
+    provenance: list[Provenance] = Field(default_factory=list)
 
 
 class Surah(BaseModel):
@@ -29,4 +29,4 @@ class Hadith(BaseModel):
     number: str | None = None
     text: dict[str, str]
     grade: str | None = None
-    provenance: list[Provenance]
+    provenance: list[Provenance] = Field(default_factory=list)

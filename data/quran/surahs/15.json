@@ -1,0 +1,1401 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.973Z",
+  "surahNumber": 15,
+  "ayahCount": 99,
+  "ayahs": [
+    {
+      "id": "15:1",
+      "surahNumber": 15,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ الر ۚ تِلْكَ آيَاتُ الْكِتَابِ وَقُرْآنٍ مُبِينٍ",
+        "en_sahih": "English translation of [15:1] in Sahih International style.",
+        "en_yusufali": "English translation of [15:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:1] en español.",
+        "fr_hamidullah": "Traduction de [15:1] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:2",
+      "surahNumber": 15,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "رُبَمَا يَوَدُّ الَّذِينَ كَفَرُوا لَوْ كَانُوا مُسْلِمِينَ",
+        "en_sahih": "English translation of [15:2] in Sahih International style.",
+        "en_yusufali": "English translation of [15:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:2] en español.",
+        "fr_hamidullah": "Traduction de [15:2] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:3",
+      "surahNumber": 15,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "ذَرْهُمْ يَأْكُلُوا وَيَتَمَتَّعُوا وَيُلْهِهِمُ الْأَمَلُ ۖ فَسَوْفَ يَعْلَمُونَ",
+        "en_sahih": "English translation of [15:3] in Sahih International style.",
+        "en_yusufali": "English translation of [15:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:3] en español.",
+        "fr_hamidullah": "Traduction de [15:3] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:4",
+      "surahNumber": 15,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "وَمَا أَهْلَكْنَا مِنْ قَرْيَةٍ إِلَّا وَلَهَا كِتَابٌ مَعْلُومٌ",
+        "en_sahih": "English translation of [15:4] in Sahih International style.",
+        "en_yusufali": "English translation of [15:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:4] en español.",
+        "fr_hamidullah": "Traduction de [15:4] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:5",
+      "surahNumber": 15,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "مَا تَسْبِقُ مِنْ أُمَّةٍ أَجَلَهَا وَمَا يَسْتَأْخِرُونَ",
+        "en_sahih": "English translation of [15:5] in Sahih International style.",
+        "en_yusufali": "English translation of [15:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:5] en español.",
+        "fr_hamidullah": "Traduction de [15:5] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:6",
+      "surahNumber": 15,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "وَقَالُوا يَا أَيُّهَا الَّذِي نُزِّلَ عَلَيْهِ الذِّكْرُ إِنَّكَ لَمَجْنُونٌ",
+        "en_sahih": "English translation of [15:6] in Sahih International style.",
+        "en_yusufali": "English translation of [15:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:6] en español.",
+        "fr_hamidullah": "Traduction de [15:6] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:7",
+      "surahNumber": 15,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "لَوْ مَا تَأْتِينَا بِالْمَلَائِكَةِ إِنْ كُنْتَ مِنَ الصَّادِقِينَ",
+        "en_sahih": "English translation of [15:7] in Sahih International style.",
+        "en_yusufali": "English translation of [15:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:7] en español.",
+        "fr_hamidullah": "Traduction de [15:7] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:8",
+      "surahNumber": 15,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "مَا نُنَزِّلُ الْمَلَائِكَةَ إِلَّا بِالْحَقِّ وَمَا كَانُوا إِذًا مُنْظَرِينَ",
+        "en_sahih": "English translation of [15:8] in Sahih International style.",
+        "en_yusufali": "English translation of [15:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:8] en español.",
+        "fr_hamidullah": "Traduction de [15:8] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:9",
+      "surahNumber": 15,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ",
+        "en_sahih": "English translation of [15:9] in Sahih International style.",
+        "en_yusufali": "English translation of [15:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:9] en español.",
+        "fr_hamidullah": "Traduction de [15:9] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:10",
+      "surahNumber": 15,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "وَلَقَدْ أَرْسَلْنَا مِنْ قَبْلِكَ فِي شِيَعِ الْأَوَّلِينَ",
+        "en_sahih": "English translation of [15:10] in Sahih International style.",
+        "en_yusufali": "English translation of [15:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:10] en español.",
+        "fr_hamidullah": "Traduction de [15:10] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:11",
+      "surahNumber": 15,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "وَمَا يَأْتِيهِمْ مِنْ رَسُولٍ إِلَّا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+        "en_sahih": "English translation of [15:11] in Sahih International style.",
+        "en_yusufali": "English translation of [15:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:11] en español.",
+        "fr_hamidullah": "Traduction de [15:11] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:12",
+      "surahNumber": 15,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "كَذَٰلِكَ نَسْلُكُهُ فِي قُلُوبِ الْمُجْرِمِينَ",
+        "en_sahih": "English translation of [15:12] in Sahih International style.",
+        "en_yusufali": "English translation of [15:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:12] en español.",
+        "fr_hamidullah": "Traduction de [15:12] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:13",
+      "surahNumber": 15,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "لَا يُؤْمِنُونَ بِهِ ۖ وَقَدْ خَلَتْ سُنَّةُ الْأَوَّلِينَ",
+        "en_sahih": "English translation of [15:13] in Sahih International style.",
+        "en_yusufali": "English translation of [15:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:13] en español.",
+        "fr_hamidullah": "Traduction de [15:13] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:14",
+      "surahNumber": 15,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "وَلَوْ فَتَحْنَا عَلَيْهِمْ بَابًا مِنَ السَّمَاءِ فَظَلُّوا فِيهِ يَعْرُجُونَ",
+        "en_sahih": "English translation of [15:14] in Sahih International style.",
+        "en_yusufali": "English translation of [15:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:14] en español.",
+        "fr_hamidullah": "Traduction de [15:14] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:15",
+      "surahNumber": 15,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "لَقَالُوا إِنَّمَا سُكِّرَتْ أَبْصَارُنَا بَلْ نَحْنُ قَوْمٌ مَسْحُورُونَ",
+        "en_sahih": "English translation of [15:15] in Sahih International style.",
+        "en_yusufali": "English translation of [15:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:15] en español.",
+        "fr_hamidullah": "Traduction de [15:15] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:16",
+      "surahNumber": 15,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "وَلَقَدْ جَعَلْنَا فِي السَّمَاءِ بُرُوجًا وَزَيَّنَّاهَا لِلنَّاظِرِينَ",
+        "en_sahih": "English translation of [15:16] in Sahih International style.",
+        "en_yusufali": "English translation of [15:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:16] en español.",
+        "fr_hamidullah": "Traduction de [15:16] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:17",
+      "surahNumber": 15,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "وَحَفِظْنَاهَا مِنْ كُلِّ شَيْطَانٍ رَجِيمٍ",
+        "en_sahih": "English translation of [15:17] in Sahih International style.",
+        "en_yusufali": "English translation of [15:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:17] en español.",
+        "fr_hamidullah": "Traduction de [15:17] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:18",
+      "surahNumber": 15,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "إِلَّا مَنِ اسْتَرَقَ السَّمْعَ فَأَتْبَعَهُ شِهَابٌ مُبِينٌ",
+        "en_sahih": "English translation of [15:18] in Sahih International style.",
+        "en_yusufali": "English translation of [15:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:18] en español.",
+        "fr_hamidullah": "Traduction de [15:18] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:19",
+      "surahNumber": 15,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "وَالْأَرْضَ مَدَدْنَاهَا وَأَلْقَيْنَا فِيهَا رَوَاسِيَ وَأَنْبَتْنَا فِيهَا مِنْ كُلِّ شَيْءٍ مَوْزُونٍ",
+        "en_sahih": "English translation of [15:19] in Sahih International style.",
+        "en_yusufali": "English translation of [15:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:19] en español.",
+        "fr_hamidullah": "Traduction de [15:19] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:20",
+      "surahNumber": 15,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "وَجَعَلْنَا لَكُمْ فِيهَا مَعَايِشَ وَمَنْ لَسْتُمْ لَهُ بِرَازِقِينَ",
+        "en_sahih": "English translation of [15:20] in Sahih International style.",
+        "en_yusufali": "English translation of [15:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:20] en español.",
+        "fr_hamidullah": "Traduction de [15:20] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:21",
+      "surahNumber": 15,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "وَإِنْ مِنْ شَيْءٍ إِلَّا عِنْدَنَا خَزَائِنُهُ وَمَا نُنَزِّلُهُ إِلَّا بِقَدَرٍ مَعْلُومٍ",
+        "en_sahih": "English translation of [15:21] in Sahih International style.",
+        "en_yusufali": "English translation of [15:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:21] en español.",
+        "fr_hamidullah": "Traduction de [15:21] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:22",
+      "surahNumber": 15,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "وَأَرْسَلْنَا الرِّيَاحَ لَوَاقِحَ فَأَنْزَلْنَا مِنَ السَّمَاءِ مَاءً فَأَسْقَيْنَاكُمُوهُ وَمَا أَنْتُمْ لَهُ بِخَازِنِينَ",
+        "en_sahih": "English translation of [15:22] in Sahih International style.",
+        "en_yusufali": "English translation of [15:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:22] en español.",
+        "fr_hamidullah": "Traduction de [15:22] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:23",
+      "surahNumber": 15,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "وَإِنَّا لَنَحْنُ نُحْيِي وَنُمِيتُ وَنَحْنُ الْوَارِثُونَ",
+        "en_sahih": "English translation of [15:23] in Sahih International style.",
+        "en_yusufali": "English translation of [15:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:23] en español.",
+        "fr_hamidullah": "Traduction de [15:23] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:24",
+      "surahNumber": 15,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "وَلَقَدْ عَلِمْنَا الْمُسْتَقْدِمِينَ مِنْكُمْ وَلَقَدْ عَلِمْنَا الْمُسْتَأْخِرِينَ",
+        "en_sahih": "English translation of [15:24] in Sahih International style.",
+        "en_yusufali": "English translation of [15:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:24] en español.",
+        "fr_hamidullah": "Traduction de [15:24] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:25",
+      "surahNumber": 15,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "وَإِنَّ رَبَّكَ هُوَ يَحْشُرُهُمْ ۚ إِنَّهُ حَكِيمٌ عَلِيمٌ",
+        "en_sahih": "English translation of [15:25] in Sahih International style.",
+        "en_yusufali": "English translation of [15:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:25] en español.",
+        "fr_hamidullah": "Traduction de [15:25] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:26",
+      "surahNumber": 15,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "وَلَقَدْ خَلَقْنَا الْإِنْسَانَ مِنْ صَلْصَالٍ مِنْ حَمَإٍ مَسْنُونٍ",
+        "en_sahih": "English translation of [15:26] in Sahih International style.",
+        "en_yusufali": "English translation of [15:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:26] en español.",
+        "fr_hamidullah": "Traduction de [15:26] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:27",
+      "surahNumber": 15,
+      "ayahNumber": 27,
+      "text": {
+        "simple": "وَالْجَانَّ خَلَقْنَاهُ مِنْ قَبْلُ مِنْ نَارِ السَّمُومِ",
+        "en_sahih": "English translation of [15:27] in Sahih International style.",
+        "en_yusufali": "English translation of [15:27] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:27] en español.",
+        "fr_hamidullah": "Traduction de [15:27] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:28",
+      "surahNumber": 15,
+      "ayahNumber": 28,
+      "text": {
+        "simple": "وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي خَالِقٌ بَشَرًا مِنْ صَلْصَالٍ مِنْ حَمَإٍ مَسْنُونٍ",
+        "en_sahih": "English translation of [15:28] in Sahih International style.",
+        "en_yusufali": "English translation of [15:28] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:28] en español.",
+        "fr_hamidullah": "Traduction de [15:28] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:29",
+      "surahNumber": 15,
+      "ayahNumber": 29,
+      "text": {
+        "simple": "فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِنْ رُوحِي فَقَعُوا لَهُ سَاجِدِينَ",
+        "en_sahih": "English translation of [15:29] in Sahih International style.",
+        "en_yusufali": "English translation of [15:29] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:29] en español.",
+        "fr_hamidullah": "Traduction de [15:29] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:30",
+      "surahNumber": 15,
+      "ayahNumber": 30,
+      "text": {
+        "simple": "فَسَجَدَ الْمَلَائِكَةُ كُلُّهُمْ أَجْمَعُونَ",
+        "en_sahih": "English translation of [15:30] in Sahih International style.",
+        "en_yusufali": "English translation of [15:30] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:30] en español.",
+        "fr_hamidullah": "Traduction de [15:30] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:31",
+      "surahNumber": 15,
+      "ayahNumber": 31,
+      "text": {
+        "simple": "إِلَّا إِبْلِيسَ أَبَىٰ أَنْ يَكُونَ مَعَ السَّاجِدِينَ",
+        "en_sahih": "English translation of [15:31] in Sahih International style.",
+        "en_yusufali": "English translation of [15:31] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:31] en español.",
+        "fr_hamidullah": "Traduction de [15:31] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:32",
+      "surahNumber": 15,
+      "ayahNumber": 32,
+      "text": {
+        "simple": "قَالَ يَا إِبْلِيسُ مَا لَكَ أَلَّا تَكُونَ مَعَ السَّاجِدِينَ",
+        "en_sahih": "English translation of [15:32] in Sahih International style.",
+        "en_yusufali": "English translation of [15:32] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:32] en español.",
+        "fr_hamidullah": "Traduction de [15:32] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:33",
+      "surahNumber": 15,
+      "ayahNumber": 33,
+      "text": {
+        "simple": "قَالَ لَمْ أَكُنْ لِأَسْجُدَ لِبَشَرٍ خَلَقْتَهُ مِنْ صَلْصَالٍ مِنْ حَمَإٍ مَسْنُونٍ",
+        "en_sahih": "English translation of [15:33] in Sahih International style.",
+        "en_yusufali": "English translation of [15:33] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:33] en español.",
+        "fr_hamidullah": "Traduction de [15:33] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:34",
+      "surahNumber": 15,
+      "ayahNumber": 34,
+      "text": {
+        "simple": "قَالَ فَاخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌ",
+        "en_sahih": "English translation of [15:34] in Sahih International style.",
+        "en_yusufali": "English translation of [15:34] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:34] en español.",
+        "fr_hamidullah": "Traduction de [15:34] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:35",
+      "surahNumber": 15,
+      "ayahNumber": 35,
+      "text": {
+        "simple": "وَإِنَّ عَلَيْكَ اللَّعْنَةَ إِلَىٰ يَوْمِ الدِّينِ",
+        "en_sahih": "English translation of [15:35] in Sahih International style.",
+        "en_yusufali": "English translation of [15:35] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:35] en español.",
+        "fr_hamidullah": "Traduction de [15:35] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:36",
+      "surahNumber": 15,
+      "ayahNumber": 36,
+      "text": {
+        "simple": "قَالَ رَبِّ فَأَنْظِرْنِي إِلَىٰ يَوْمِ يُبْعَثُونَ",
+        "en_sahih": "English translation of [15:36] in Sahih International style.",
+        "en_yusufali": "English translation of [15:36] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:36] en español.",
+        "fr_hamidullah": "Traduction de [15:36] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:37",
+      "surahNumber": 15,
+      "ayahNumber": 37,
+      "text": {
+        "simple": "قَالَ فَإِنَّكَ مِنَ الْمُنْظَرِينَ",
+        "en_sahih": "English translation of [15:37] in Sahih International style.",
+        "en_yusufali": "English translation of [15:37] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:37] en español.",
+        "fr_hamidullah": "Traduction de [15:37] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:38",
+      "surahNumber": 15,
+      "ayahNumber": 38,
+      "text": {
+        "simple": "إِلَىٰ يَوْمِ الْوَقْتِ الْمَعْلُومِ",
+        "en_sahih": "English translation of [15:38] in Sahih International style.",
+        "en_yusufali": "English translation of [15:38] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 38 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:38] en español.",
+        "fr_hamidullah": "Traduction de [15:38] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:39",
+      "surahNumber": 15,
+      "ayahNumber": 39,
+      "text": {
+        "simple": "قَالَ رَبِّ بِمَا أَغْوَيْتَنِي لَأُزَيِّنَنَّ لَهُمْ فِي الْأَرْضِ وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ",
+        "en_sahih": "English translation of [15:39] in Sahih International style.",
+        "en_yusufali": "English translation of [15:39] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 39 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:39] en español.",
+        "fr_hamidullah": "Traduction de [15:39] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:40",
+      "surahNumber": 15,
+      "ayahNumber": 40,
+      "text": {
+        "simple": "إِلَّا عِبَادَكَ مِنْهُمُ الْمُخْلَصِينَ",
+        "en_sahih": "English translation of [15:40] in Sahih International style.",
+        "en_yusufali": "English translation of [15:40] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 40 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:40] en español.",
+        "fr_hamidullah": "Traduction de [15:40] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:41",
+      "surahNumber": 15,
+      "ayahNumber": 41,
+      "text": {
+        "simple": "قَالَ هَٰذَا صِرَاطٌ عَلَيَّ مُسْتَقِيمٌ",
+        "en_sahih": "English translation of [15:41] in Sahih International style.",
+        "en_yusufali": "English translation of [15:41] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 41 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:41] en español.",
+        "fr_hamidullah": "Traduction de [15:41] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:42",
+      "surahNumber": 15,
+      "ayahNumber": 42,
+      "text": {
+        "simple": "إِنَّ عِبَادِي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانٌ إِلَّا مَنِ اتَّبَعَكَ مِنَ الْغَاوِينَ",
+        "en_sahih": "English translation of [15:42] in Sahih International style.",
+        "en_yusufali": "English translation of [15:42] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 42 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:42] en español.",
+        "fr_hamidullah": "Traduction de [15:42] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:43",
+      "surahNumber": 15,
+      "ayahNumber": 43,
+      "text": {
+        "simple": "وَإِنَّ جَهَنَّمَ لَمَوْعِدُهُمْ أَجْمَعِينَ",
+        "en_sahih": "English translation of [15:43] in Sahih International style.",
+        "en_yusufali": "English translation of [15:43] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 43 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:43] en español.",
+        "fr_hamidullah": "Traduction de [15:43] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:44",
+      "surahNumber": 15,
+      "ayahNumber": 44,
+      "text": {
+        "simple": "لَهَا سَبْعَةُ أَبْوَابٍ لِكُلِّ بَابٍ مِنْهُمْ جُزْءٌ مَقْسُومٌ",
+        "en_sahih": "English translation of [15:44] in Sahih International style.",
+        "en_yusufali": "English translation of [15:44] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 44 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:44] en español.",
+        "fr_hamidullah": "Traduction de [15:44] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:45",
+      "surahNumber": 15,
+      "ayahNumber": 45,
+      "text": {
+        "simple": "إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَعُيُونٍ",
+        "en_sahih": "English translation of [15:45] in Sahih International style.",
+        "en_yusufali": "English translation of [15:45] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 45 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:45] en español.",
+        "fr_hamidullah": "Traduction de [15:45] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:46",
+      "surahNumber": 15,
+      "ayahNumber": 46,
+      "text": {
+        "simple": "ادْخُلُوهَا بِسَلَامٍ آمِنِينَ",
+        "en_sahih": "English translation of [15:46] in Sahih International style.",
+        "en_yusufali": "English translation of [15:46] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 46 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:46] en español.",
+        "fr_hamidullah": "Traduction de [15:46] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:47",
+      "surahNumber": 15,
+      "ayahNumber": 47,
+      "text": {
+        "simple": "وَنَزَعْنَا مَا فِي صُدُورِهِمْ مِنْ غِلٍّ إِخْوَانًا عَلَىٰ سُرُرٍ مُتَقَابِلِينَ",
+        "en_sahih": "English translation of [15:47] in Sahih International style.",
+        "en_yusufali": "English translation of [15:47] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 47 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:47] en español.",
+        "fr_hamidullah": "Traduction de [15:47] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:48",
+      "surahNumber": 15,
+      "ayahNumber": 48,
+      "text": {
+        "simple": "لَا يَمَسُّهُمْ فِيهَا نَصَبٌ وَمَا هُمْ مِنْهَا بِمُخْرَجِينَ",
+        "en_sahih": "English translation of [15:48] in Sahih International style.",
+        "en_yusufali": "English translation of [15:48] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 48 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:48] en español.",
+        "fr_hamidullah": "Traduction de [15:48] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:49",
+      "surahNumber": 15,
+      "ayahNumber": 49,
+      "text": {
+        "simple": "۞ نَبِّئْ عِبَادِي أَنِّي أَنَا الْغَفُورُ الرَّحِيمُ",
+        "en_sahih": "English translation of [15:49] in Sahih International style.",
+        "en_yusufali": "English translation of [15:49] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 49 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:49] en español.",
+        "fr_hamidullah": "Traduction de [15:49] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:50",
+      "surahNumber": 15,
+      "ayahNumber": 50,
+      "text": {
+        "simple": "وَأَنَّ عَذَابِي هُوَ الْعَذَابُ الْأَلِيمُ",
+        "en_sahih": "English translation of [15:50] in Sahih International style.",
+        "en_yusufali": "English translation of [15:50] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 50 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:50] en español.",
+        "fr_hamidullah": "Traduction de [15:50] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:51",
+      "surahNumber": 15,
+      "ayahNumber": 51,
+      "text": {
+        "simple": "وَنَبِّئْهُمْ عَنْ ضَيْفِ إِبْرَاهِيمَ",
+        "en_sahih": "English translation of [15:51] in Sahih International style.",
+        "en_yusufali": "English translation of [15:51] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 51 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:51] en español.",
+        "fr_hamidullah": "Traduction de [15:51] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:52",
+      "surahNumber": 15,
+      "ayahNumber": 52,
+      "text": {
+        "simple": "إِذْ دَخَلُوا عَلَيْهِ فَقَالُوا سَلَامًا قَالَ إِنَّا مِنْكُمْ وَجِلُونَ",
+        "en_sahih": "English translation of [15:52] in Sahih International style.",
+        "en_yusufali": "English translation of [15:52] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 52 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:52] en español.",
+        "fr_hamidullah": "Traduction de [15:52] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:53",
+      "surahNumber": 15,
+      "ayahNumber": 53,
+      "text": {
+        "simple": "قَالُوا لَا تَوْجَلْ إِنَّا نُبَشِّرُكَ بِغُلَامٍ عَلِيمٍ",
+        "en_sahih": "English translation of [15:53] in Sahih International style.",
+        "en_yusufali": "English translation of [15:53] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 53 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:53] en español.",
+        "fr_hamidullah": "Traduction de [15:53] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 53 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:54",
+      "surahNumber": 15,
+      "ayahNumber": 54,
+      "text": {
+        "simple": "قَالَ أَبَشَّرْتُمُونِي عَلَىٰ أَنْ مَسَّنِيَ الْكِبَرُ فَبِمَ تُبَشِّرُونَ",
+        "en_sahih": "English translation of [15:54] in Sahih International style.",
+        "en_yusufali": "English translation of [15:54] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 54 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:54] en español.",
+        "fr_hamidullah": "Traduction de [15:54] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 54 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:55",
+      "surahNumber": 15,
+      "ayahNumber": 55,
+      "text": {
+        "simple": "قَالُوا بَشَّرْنَاكَ بِالْحَقِّ فَلَا تَكُنْ مِنَ الْقَانِطِينَ",
+        "en_sahih": "English translation of [15:55] in Sahih International style.",
+        "en_yusufali": "English translation of [15:55] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 55 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:55] en español.",
+        "fr_hamidullah": "Traduction de [15:55] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 55 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:56",
+      "surahNumber": 15,
+      "ayahNumber": 56,
+      "text": {
+        "simple": "قَالَ وَمَنْ يَقْنَطُ مِنْ رَحْمَةِ رَبِّهِ إِلَّا الضَّالُّونَ",
+        "en_sahih": "English translation of [15:56] in Sahih International style.",
+        "en_yusufali": "English translation of [15:56] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 56 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:56] en español.",
+        "fr_hamidullah": "Traduction de [15:56] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 56 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:57",
+      "surahNumber": 15,
+      "ayahNumber": 57,
+      "text": {
+        "simple": "قَالَ فَمَا خَطْبُكُمْ أَيُّهَا الْمُرْسَلُونَ",
+        "en_sahih": "English translation of [15:57] in Sahih International style.",
+        "en_yusufali": "English translation of [15:57] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 57 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:57] en español.",
+        "fr_hamidullah": "Traduction de [15:57] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 57 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:58",
+      "surahNumber": 15,
+      "ayahNumber": 58,
+      "text": {
+        "simple": "قَالُوا إِنَّا أُرْسِلْنَا إِلَىٰ قَوْمٍ مُجْرِمِينَ",
+        "en_sahih": "English translation of [15:58] in Sahih International style.",
+        "en_yusufali": "English translation of [15:58] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 58 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:58] en español.",
+        "fr_hamidullah": "Traduction de [15:58] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 58 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:59",
+      "surahNumber": 15,
+      "ayahNumber": 59,
+      "text": {
+        "simple": "إِلَّا آلَ لُوطٍ إِنَّا لَمُنَجُّوهُمْ أَجْمَعِينَ",
+        "en_sahih": "English translation of [15:59] in Sahih International style.",
+        "en_yusufali": "English translation of [15:59] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 59 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:59] en español.",
+        "fr_hamidullah": "Traduction de [15:59] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 59 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:60",
+      "surahNumber": 15,
+      "ayahNumber": 60,
+      "text": {
+        "simple": "إِلَّا امْرَأَتَهُ قَدَّرْنَا ۙ إِنَّهَا لَمِنَ الْغَابِرِينَ",
+        "en_sahih": "English translation of [15:60] in Sahih International style.",
+        "en_yusufali": "English translation of [15:60] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 60 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:60] en español.",
+        "fr_hamidullah": "Traduction de [15:60] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 60 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:61",
+      "surahNumber": 15,
+      "ayahNumber": 61,
+      "text": {
+        "simple": "فَلَمَّا جَاءَ آلَ لُوطٍ الْمُرْسَلُونَ",
+        "en_sahih": "English translation of [15:61] in Sahih International style.",
+        "en_yusufali": "English translation of [15:61] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 61 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:61] en español.",
+        "fr_hamidullah": "Traduction de [15:61] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 61 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:62",
+      "surahNumber": 15,
+      "ayahNumber": 62,
+      "text": {
+        "simple": "قَالَ إِنَّكُمْ قَوْمٌ مُنْكَرُونَ",
+        "en_sahih": "English translation of [15:62] in Sahih International style.",
+        "en_yusufali": "English translation of [15:62] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 62 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:62] en español.",
+        "fr_hamidullah": "Traduction de [15:62] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 62 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:63",
+      "surahNumber": 15,
+      "ayahNumber": 63,
+      "text": {
+        "simple": "قَالُوا بَلْ جِئْنَاكَ بِمَا كَانُوا فِيهِ يَمْتَرُونَ",
+        "en_sahih": "English translation of [15:63] in Sahih International style.",
+        "en_yusufali": "English translation of [15:63] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 63 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:63] en español.",
+        "fr_hamidullah": "Traduction de [15:63] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 63 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:64",
+      "surahNumber": 15,
+      "ayahNumber": 64,
+      "text": {
+        "simple": "وَأَتَيْنَاكَ بِالْحَقِّ وَإِنَّا لَصَادِقُونَ",
+        "en_sahih": "English translation of [15:64] in Sahih International style.",
+        "en_yusufali": "English translation of [15:64] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 64 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:64] en español.",
+        "fr_hamidullah": "Traduction de [15:64] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 64 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:65",
+      "surahNumber": 15,
+      "ayahNumber": 65,
+      "text": {
+        "simple": "فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ مِنَ اللَّيْلِ وَاتَّبِعْ أَدْبَارَهُمْ وَلَا يَلْتَفِتْ مِنْكُمْ أَحَدٌ وَامْضُوا حَيْثُ تُؤْمَرُونَ",
+        "en_sahih": "English translation of [15:65] in Sahih International style.",
+        "en_yusufali": "English translation of [15:65] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 65 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:65] en español.",
+        "fr_hamidullah": "Traduction de [15:65] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 65 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:66",
+      "surahNumber": 15,
+      "ayahNumber": 66,
+      "text": {
+        "simple": "وَقَضَيْنَا إِلَيْهِ ذَٰلِكَ الْأَمْرَ أَنَّ دَابِرَ هَٰؤُلَاءِ مَقْطُوعٌ مُصْبِحِينَ",
+        "en_sahih": "English translation of [15:66] in Sahih International style.",
+        "en_yusufali": "English translation of [15:66] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 66 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:66] en español.",
+        "fr_hamidullah": "Traduction de [15:66] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 66 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:67",
+      "surahNumber": 15,
+      "ayahNumber": 67,
+      "text": {
+        "simple": "وَجَاءَ أَهْلُ الْمَدِينَةِ يَسْتَبْشِرُونَ",
+        "en_sahih": "English translation of [15:67] in Sahih International style.",
+        "en_yusufali": "English translation of [15:67] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 67 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:67] en español.",
+        "fr_hamidullah": "Traduction de [15:67] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 67 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:68",
+      "surahNumber": 15,
+      "ayahNumber": 68,
+      "text": {
+        "simple": "قَالَ إِنَّ هَٰؤُلَاءِ ضَيْفِي فَلَا تَفْضَحُونِ",
+        "en_sahih": "English translation of [15:68] in Sahih International style.",
+        "en_yusufali": "English translation of [15:68] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 68 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:68] en español.",
+        "fr_hamidullah": "Traduction de [15:68] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 68 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:69",
+      "surahNumber": 15,
+      "ayahNumber": 69,
+      "text": {
+        "simple": "وَاتَّقُوا اللَّهَ وَلَا تُخْزُونِ",
+        "en_sahih": "English translation of [15:69] in Sahih International style.",
+        "en_yusufali": "English translation of [15:69] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 69 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:69] en español.",
+        "fr_hamidullah": "Traduction de [15:69] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 69 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:70",
+      "surahNumber": 15,
+      "ayahNumber": 70,
+      "text": {
+        "simple": "قَالُوا أَوَلَمْ نَنْهَكَ عَنِ الْعَالَمِينَ",
+        "en_sahih": "English translation of [15:70] in Sahih International style.",
+        "en_yusufali": "English translation of [15:70] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 70 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:70] en español.",
+        "fr_hamidullah": "Traduction de [15:70] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 70 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:71",
+      "surahNumber": 15,
+      "ayahNumber": 71,
+      "text": {
+        "simple": "قَالَ هَٰؤُلَاءِ بَنَاتِي إِنْ كُنْتُمْ فَاعِلِينَ",
+        "en_sahih": "English translation of [15:71] in Sahih International style.",
+        "en_yusufali": "English translation of [15:71] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 71 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:71] en español.",
+        "fr_hamidullah": "Traduction de [15:71] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 71 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:72",
+      "surahNumber": 15,
+      "ayahNumber": 72,
+      "text": {
+        "simple": "لَعَمْرُكَ إِنَّهُمْ لَفِي سَكْرَتِهِمْ يَعْمَهُونَ",
+        "en_sahih": "English translation of [15:72] in Sahih International style.",
+        "en_yusufali": "English translation of [15:72] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 72 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:72] en español.",
+        "fr_hamidullah": "Traduction de [15:72] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 72 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:73",
+      "surahNumber": 15,
+      "ayahNumber": 73,
+      "text": {
+        "simple": "فَأَخَذَتْهُمُ الصَّيْحَةُ مُشْرِقِينَ",
+        "en_sahih": "English translation of [15:73] in Sahih International style.",
+        "en_yusufali": "English translation of [15:73] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 73 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:73] en español.",
+        "fr_hamidullah": "Traduction de [15:73] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 73 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:74",
+      "surahNumber": 15,
+      "ayahNumber": 74,
+      "text": {
+        "simple": "فَجَعَلْنَا عَالِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهِمْ حِجَارَةً مِنْ سِجِّيلٍ",
+        "en_sahih": "English translation of [15:74] in Sahih International style.",
+        "en_yusufali": "English translation of [15:74] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 74 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:74] en español.",
+        "fr_hamidullah": "Traduction de [15:74] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 74 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:75",
+      "surahNumber": 15,
+      "ayahNumber": 75,
+      "text": {
+        "simple": "إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِلْمُتَوَسِّمِينَ",
+        "en_sahih": "English translation of [15:75] in Sahih International style.",
+        "en_yusufali": "English translation of [15:75] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 75 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:75] en español.",
+        "fr_hamidullah": "Traduction de [15:75] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 75 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:76",
+      "surahNumber": 15,
+      "ayahNumber": 76,
+      "text": {
+        "simple": "وَإِنَّهَا لَبِسَبِيلٍ مُقِيمٍ",
+        "en_sahih": "English translation of [15:76] in Sahih International style.",
+        "en_yusufali": "English translation of [15:76] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 76 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:76] en español.",
+        "fr_hamidullah": "Traduction de [15:76] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 76 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:77",
+      "surahNumber": 15,
+      "ayahNumber": 77,
+      "text": {
+        "simple": "إِنَّ فِي ذَٰلِكَ لَآيَةً لِلْمُؤْمِنِينَ",
+        "en_sahih": "English translation of [15:77] in Sahih International style.",
+        "en_yusufali": "English translation of [15:77] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 77 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:77] en español.",
+        "fr_hamidullah": "Traduction de [15:77] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 77 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:78",
+      "surahNumber": 15,
+      "ayahNumber": 78,
+      "text": {
+        "simple": "وَإِنْ كَانَ أَصْحَابُ الْأَيْكَةِ لَظَالِمِينَ",
+        "en_sahih": "English translation of [15:78] in Sahih International style.",
+        "en_yusufali": "English translation of [15:78] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 78 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:78] en español.",
+        "fr_hamidullah": "Traduction de [15:78] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 78 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:79",
+      "surahNumber": 15,
+      "ayahNumber": 79,
+      "text": {
+        "simple": "فَانْتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍ مُبِينٍ",
+        "en_sahih": "English translation of [15:79] in Sahih International style.",
+        "en_yusufali": "English translation of [15:79] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 79 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:79] en español.",
+        "fr_hamidullah": "Traduction de [15:79] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 79 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:80",
+      "surahNumber": 15,
+      "ayahNumber": 80,
+      "text": {
+        "simple": "وَلَقَدْ كَذَّبَ أَصْحَابُ الْحِجْرِ الْمُرْسَلِينَ",
+        "en_sahih": "English translation of [15:80] in Sahih International style.",
+        "en_yusufali": "English translation of [15:80] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 80 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:80] en español.",
+        "fr_hamidullah": "Traduction de [15:80] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 80 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:81",
+      "surahNumber": 15,
+      "ayahNumber": 81,
+      "text": {
+        "simple": "وَآتَيْنَاهُمْ آيَاتِنَا فَكَانُوا عَنْهَا مُعْرِضِينَ",
+        "en_sahih": "English translation of [15:81] in Sahih International style.",
+        "en_yusufali": "English translation of [15:81] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 81 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:81] en español.",
+        "fr_hamidullah": "Traduction de [15:81] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 81 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:82",
+      "surahNumber": 15,
+      "ayahNumber": 82,
+      "text": {
+        "simple": "وَكَانُوا يَنْحِتُونَ مِنَ الْجِبَالِ بُيُوتًا آمِنِينَ",
+        "en_sahih": "English translation of [15:82] in Sahih International style.",
+        "en_yusufali": "English translation of [15:82] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 82 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:82] en español.",
+        "fr_hamidullah": "Traduction de [15:82] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 82 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:83",
+      "surahNumber": 15,
+      "ayahNumber": 83,
+      "text": {
+        "simple": "فَأَخَذَتْهُمُ الصَّيْحَةُ مُصْبِحِينَ",
+        "en_sahih": "English translation of [15:83] in Sahih International style.",
+        "en_yusufali": "English translation of [15:83] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 83 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:83] en español.",
+        "fr_hamidullah": "Traduction de [15:83] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 83 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:84",
+      "surahNumber": 15,
+      "ayahNumber": 84,
+      "text": {
+        "simple": "فَمَا أَغْنَىٰ عَنْهُمْ مَا كَانُوا يَكْسِبُونَ",
+        "en_sahih": "English translation of [15:84] in Sahih International style.",
+        "en_yusufali": "English translation of [15:84] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 84 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:84] en español.",
+        "fr_hamidullah": "Traduction de [15:84] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 84 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:85",
+      "surahNumber": 15,
+      "ayahNumber": 85,
+      "text": {
+        "simple": "وَمَا خَلَقْنَا السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ ۗ وَإِنَّ السَّاعَةَ لَآتِيَةٌ ۖ فَاصْفَحِ الصَّفْحَ الْجَمِيلَ",
+        "en_sahih": "English translation of [15:85] in Sahih International style.",
+        "en_yusufali": "English translation of [15:85] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 85 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:85] en español.",
+        "fr_hamidullah": "Traduction de [15:85] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 85 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:86",
+      "surahNumber": 15,
+      "ayahNumber": 86,
+      "text": {
+        "simple": "إِنَّ رَبَّكَ هُوَ الْخَلَّاقُ الْعَلِيمُ",
+        "en_sahih": "English translation of [15:86] in Sahih International style.",
+        "en_yusufali": "English translation of [15:86] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 86 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:86] en español.",
+        "fr_hamidullah": "Traduction de [15:86] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 86 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:87",
+      "surahNumber": 15,
+      "ayahNumber": 87,
+      "text": {
+        "simple": "وَلَقَدْ آتَيْنَاكَ سَبْعًا مِنَ الْمَثَانِي وَالْقُرْآنَ الْعَظِيمَ",
+        "en_sahih": "English translation of [15:87] in Sahih International style.",
+        "en_yusufali": "English translation of [15:87] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 87 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:87] en español.",
+        "fr_hamidullah": "Traduction de [15:87] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 87 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:88",
+      "surahNumber": 15,
+      "ayahNumber": 88,
+      "text": {
+        "simple": "لَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِنْهُمْ وَلَا تَحْزَنْ عَلَيْهِمْ وَاخْفِضْ جَنَاحَكَ لِلْمُؤْمِنِينَ",
+        "en_sahih": "English translation of [15:88] in Sahih International style.",
+        "en_yusufali": "English translation of [15:88] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 88 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:88] en español.",
+        "fr_hamidullah": "Traduction de [15:88] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 88 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:89",
+      "surahNumber": 15,
+      "ayahNumber": 89,
+      "text": {
+        "simple": "وَقُلْ إِنِّي أَنَا النَّذِيرُ الْمُبِينُ",
+        "en_sahih": "English translation of [15:89] in Sahih International style.",
+        "en_yusufali": "English translation of [15:89] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 89 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:89] en español.",
+        "fr_hamidullah": "Traduction de [15:89] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 89 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:90",
+      "surahNumber": 15,
+      "ayahNumber": 90,
+      "text": {
+        "simple": "كَمَا أَنْزَلْنَا عَلَى الْمُقْتَسِمِينَ",
+        "en_sahih": "English translation of [15:90] in Sahih International style.",
+        "en_yusufali": "English translation of [15:90] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 90 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:90] en español.",
+        "fr_hamidullah": "Traduction de [15:90] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 90 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:91",
+      "surahNumber": 15,
+      "ayahNumber": 91,
+      "text": {
+        "simple": "الَّذِينَ جَعَلُوا الْقُرْآنَ عِضِينَ",
+        "en_sahih": "English translation of [15:91] in Sahih International style.",
+        "en_yusufali": "English translation of [15:91] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 91 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:91] en español.",
+        "fr_hamidullah": "Traduction de [15:91] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 91 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:92",
+      "surahNumber": 15,
+      "ayahNumber": 92,
+      "text": {
+        "simple": "فَوَرَبِّكَ لَنَسْأَلَنَّهُمْ أَجْمَعِينَ",
+        "en_sahih": "English translation of [15:92] in Sahih International style.",
+        "en_yusufali": "English translation of [15:92] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 92 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:92] en español.",
+        "fr_hamidullah": "Traduction de [15:92] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 92 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:93",
+      "surahNumber": 15,
+      "ayahNumber": 93,
+      "text": {
+        "simple": "عَمَّا كَانُوا يَعْمَلُونَ",
+        "en_sahih": "English translation of [15:93] in Sahih International style.",
+        "en_yusufali": "English translation of [15:93] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 93 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:93] en español.",
+        "fr_hamidullah": "Traduction de [15:93] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 93 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:94",
+      "surahNumber": 15,
+      "ayahNumber": 94,
+      "text": {
+        "simple": "فَاصْدَعْ بِمَا تُؤْمَرُ وَأَعْرِضْ عَنِ الْمُشْرِكِينَ",
+        "en_sahih": "English translation of [15:94] in Sahih International style.",
+        "en_yusufali": "English translation of [15:94] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 94 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:94] en español.",
+        "fr_hamidullah": "Traduction de [15:94] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 94 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:95",
+      "surahNumber": 15,
+      "ayahNumber": 95,
+      "text": {
+        "simple": "إِنَّا كَفَيْنَاكَ الْمُسْتَهْزِئِينَ",
+        "en_sahih": "English translation of [15:95] in Sahih International style.",
+        "en_yusufali": "English translation of [15:95] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 95 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:95] en español.",
+        "fr_hamidullah": "Traduction de [15:95] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 95 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:96",
+      "surahNumber": 15,
+      "ayahNumber": 96,
+      "text": {
+        "simple": "الَّذِينَ يَجْعَلُونَ مَعَ اللَّهِ إِلَٰهًا آخَرَ ۚ فَسَوْفَ يَعْلَمُونَ",
+        "en_sahih": "English translation of [15:96] in Sahih International style.",
+        "en_yusufali": "English translation of [15:96] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 96 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:96] en español.",
+        "fr_hamidullah": "Traduction de [15:96] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 96 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:97",
+      "surahNumber": 15,
+      "ayahNumber": 97,
+      "text": {
+        "simple": "وَلَقَدْ نَعْلَمُ أَنَّكَ يَضِيقُ صَدْرُكَ بِمَا يَقُولُونَ",
+        "en_sahih": "English translation of [15:97] in Sahih International style.",
+        "en_yusufali": "English translation of [15:97] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 97 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:97] en español.",
+        "fr_hamidullah": "Traduction de [15:97] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 97 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:98",
+      "surahNumber": 15,
+      "ayahNumber": 98,
+      "text": {
+        "simple": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَكُنْ مِنَ السَّاجِدِينَ",
+        "en_sahih": "English translation of [15:98] in Sahih International style.",
+        "en_yusufali": "English translation of [15:98] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 98 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:98] en español.",
+        "fr_hamidullah": "Traduction de [15:98] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 98 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "15:99",
+      "surahNumber": 15,
+      "ayahNumber": 99,
+      "text": {
+        "simple": "وَاعْبُدْ رَبَّكَ حَتَّىٰ يَأْتِيَكَ الْيَقِينُ",
+        "en_sahih": "English translation of [15:99] in Sahih International style.",
+        "en_yusufali": "English translation of [15:99] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 15 آیت 99 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [15:99] en español.",
+        "fr_hamidullah": "Traduction de [15:99] en français.",
+        "bn_hoque": "সূরা 15 আয়াত 99 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

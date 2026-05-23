@@ -1,0 +1,799 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.997Z",
+  "surahNumber": 74,
+  "ayahCount": 56,
+  "ayahs": [
+    {
+      "id": "74:1",
+      "surahNumber": 74,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ يَا أَيُّهَا الْمُدَّثِّرُ",
+        "en_sahih": "English translation of [74:1] in Sahih International style.",
+        "en_yusufali": "English translation of [74:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:1] en español.",
+        "fr_hamidullah": "Traduction de [74:1] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:2",
+      "surahNumber": 74,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "قُمْ فَأَنْذِرْ",
+        "en_sahih": "English translation of [74:2] in Sahih International style.",
+        "en_yusufali": "English translation of [74:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:2] en español.",
+        "fr_hamidullah": "Traduction de [74:2] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:3",
+      "surahNumber": 74,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "وَرَبَّكَ فَكَبِّرْ",
+        "en_sahih": "English translation of [74:3] in Sahih International style.",
+        "en_yusufali": "English translation of [74:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:3] en español.",
+        "fr_hamidullah": "Traduction de [74:3] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:4",
+      "surahNumber": 74,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "وَثِيَابَكَ فَطَهِّرْ",
+        "en_sahih": "English translation of [74:4] in Sahih International style.",
+        "en_yusufali": "English translation of [74:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:4] en español.",
+        "fr_hamidullah": "Traduction de [74:4] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:5",
+      "surahNumber": 74,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "وَالرُّجْزَ فَاهْجُرْ",
+        "en_sahih": "English translation of [74:5] in Sahih International style.",
+        "en_yusufali": "English translation of [74:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:5] en español.",
+        "fr_hamidullah": "Traduction de [74:5] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:6",
+      "surahNumber": 74,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "وَلَا تَمْنُنْ تَسْتَكْثِرُ",
+        "en_sahih": "English translation of [74:6] in Sahih International style.",
+        "en_yusufali": "English translation of [74:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:6] en español.",
+        "fr_hamidullah": "Traduction de [74:6] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:7",
+      "surahNumber": 74,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "وَلِرَبِّكَ فَاصْبِرْ",
+        "en_sahih": "English translation of [74:7] in Sahih International style.",
+        "en_yusufali": "English translation of [74:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:7] en español.",
+        "fr_hamidullah": "Traduction de [74:7] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:8",
+      "surahNumber": 74,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "فَإِذَا نُقِرَ فِي النَّاقُورِ",
+        "en_sahih": "English translation of [74:8] in Sahih International style.",
+        "en_yusufali": "English translation of [74:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:8] en español.",
+        "fr_hamidullah": "Traduction de [74:8] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:9",
+      "surahNumber": 74,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "فَذَٰلِكَ يَوْمَئِذٍ يَوْمٌ عَسِيرٌ",
+        "en_sahih": "English translation of [74:9] in Sahih International style.",
+        "en_yusufali": "English translation of [74:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:9] en español.",
+        "fr_hamidullah": "Traduction de [74:9] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:10",
+      "surahNumber": 74,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "عَلَى الْكَافِرِينَ غَيْرُ يَسِيرٍ",
+        "en_sahih": "English translation of [74:10] in Sahih International style.",
+        "en_yusufali": "English translation of [74:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:10] en español.",
+        "fr_hamidullah": "Traduction de [74:10] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:11",
+      "surahNumber": 74,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "ذَرْنِي وَمَنْ خَلَقْتُ وَحِيدًا",
+        "en_sahih": "English translation of [74:11] in Sahih International style.",
+        "en_yusufali": "English translation of [74:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:11] en español.",
+        "fr_hamidullah": "Traduction de [74:11] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:12",
+      "surahNumber": 74,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "وَجَعَلْتُ لَهُ مَالًا مَمْدُودًا",
+        "en_sahih": "English translation of [74:12] in Sahih International style.",
+        "en_yusufali": "English translation of [74:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:12] en español.",
+        "fr_hamidullah": "Traduction de [74:12] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:13",
+      "surahNumber": 74,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "وَبَنِينَ شُهُودًا",
+        "en_sahih": "English translation of [74:13] in Sahih International style.",
+        "en_yusufali": "English translation of [74:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:13] en español.",
+        "fr_hamidullah": "Traduction de [74:13] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:14",
+      "surahNumber": 74,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "وَمَهَّدْتُ لَهُ تَمْهِيدًا",
+        "en_sahih": "English translation of [74:14] in Sahih International style.",
+        "en_yusufali": "English translation of [74:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:14] en español.",
+        "fr_hamidullah": "Traduction de [74:14] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:15",
+      "surahNumber": 74,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "ثُمَّ يَطْمَعُ أَنْ أَزِيدَ",
+        "en_sahih": "English translation of [74:15] in Sahih International style.",
+        "en_yusufali": "English translation of [74:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:15] en español.",
+        "fr_hamidullah": "Traduction de [74:15] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:16",
+      "surahNumber": 74,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "كَلَّا ۖ إِنَّهُ كَانَ لِآيَاتِنَا عَنِيدًا",
+        "en_sahih": "English translation of [74:16] in Sahih International style.",
+        "en_yusufali": "English translation of [74:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:16] en español.",
+        "fr_hamidullah": "Traduction de [74:16] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:17",
+      "surahNumber": 74,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "سَأُرْهِقُهُ صَعُودًا",
+        "en_sahih": "English translation of [74:17] in Sahih International style.",
+        "en_yusufali": "English translation of [74:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:17] en español.",
+        "fr_hamidullah": "Traduction de [74:17] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:18",
+      "surahNumber": 74,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "إِنَّهُ فَكَّرَ وَقَدَّرَ",
+        "en_sahih": "English translation of [74:18] in Sahih International style.",
+        "en_yusufali": "English translation of [74:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:18] en español.",
+        "fr_hamidullah": "Traduction de [74:18] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:19",
+      "surahNumber": 74,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "فَقُتِلَ كَيْفَ قَدَّرَ",
+        "en_sahih": "English translation of [74:19] in Sahih International style.",
+        "en_yusufali": "English translation of [74:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:19] en español.",
+        "fr_hamidullah": "Traduction de [74:19] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:20",
+      "surahNumber": 74,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "ثُمَّ قُتِلَ كَيْفَ قَدَّرَ",
+        "en_sahih": "English translation of [74:20] in Sahih International style.",
+        "en_yusufali": "English translation of [74:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:20] en español.",
+        "fr_hamidullah": "Traduction de [74:20] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:21",
+      "surahNumber": 74,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "ثُمَّ نَظَرَ",
+        "en_sahih": "English translation of [74:21] in Sahih International style.",
+        "en_yusufali": "English translation of [74:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:21] en español.",
+        "fr_hamidullah": "Traduction de [74:21] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:22",
+      "surahNumber": 74,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "ثُمَّ عَبَسَ وَبَسَرَ",
+        "en_sahih": "English translation of [74:22] in Sahih International style.",
+        "en_yusufali": "English translation of [74:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:22] en español.",
+        "fr_hamidullah": "Traduction de [74:22] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:23",
+      "surahNumber": 74,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "ثُمَّ أَدْبَرَ وَاسْتَكْبَرَ",
+        "en_sahih": "English translation of [74:23] in Sahih International style.",
+        "en_yusufali": "English translation of [74:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:23] en español.",
+        "fr_hamidullah": "Traduction de [74:23] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:24",
+      "surahNumber": 74,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "فَقَالَ إِنْ هَٰذَا إِلَّا سِحْرٌ يُؤْثَرُ",
+        "en_sahih": "English translation of [74:24] in Sahih International style.",
+        "en_yusufali": "English translation of [74:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:24] en español.",
+        "fr_hamidullah": "Traduction de [74:24] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:25",
+      "surahNumber": 74,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "إِنْ هَٰذَا إِلَّا قَوْلُ الْبَشَرِ",
+        "en_sahih": "English translation of [74:25] in Sahih International style.",
+        "en_yusufali": "English translation of [74:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:25] en español.",
+        "fr_hamidullah": "Traduction de [74:25] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:26",
+      "surahNumber": 74,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "سَأُصْلِيهِ سَقَرَ",
+        "en_sahih": "English translation of [74:26] in Sahih International style.",
+        "en_yusufali": "English translation of [74:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:26] en español.",
+        "fr_hamidullah": "Traduction de [74:26] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:27",
+      "surahNumber": 74,
+      "ayahNumber": 27,
+      "text": {
+        "simple": "وَمَا أَدْرَاكَ مَا سَقَرُ",
+        "en_sahih": "English translation of [74:27] in Sahih International style.",
+        "en_yusufali": "English translation of [74:27] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:27] en español.",
+        "fr_hamidullah": "Traduction de [74:27] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:28",
+      "surahNumber": 74,
+      "ayahNumber": 28,
+      "text": {
+        "simple": "لَا تُبْقِي وَلَا تَذَرُ",
+        "en_sahih": "English translation of [74:28] in Sahih International style.",
+        "en_yusufali": "English translation of [74:28] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:28] en español.",
+        "fr_hamidullah": "Traduction de [74:28] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:29",
+      "surahNumber": 74,
+      "ayahNumber": 29,
+      "text": {
+        "simple": "لَوَّاحَةٌ لِلْبَشَرِ",
+        "en_sahih": "English translation of [74:29] in Sahih International style.",
+        "en_yusufali": "English translation of [74:29] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:29] en español.",
+        "fr_hamidullah": "Traduction de [74:29] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:30",
+      "surahNumber": 74,
+      "ayahNumber": 30,
+      "text": {
+        "simple": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+        "en_sahih": "English translation of [74:30] in Sahih International style.",
+        "en_yusufali": "English translation of [74:30] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:30] en español.",
+        "fr_hamidullah": "Traduction de [74:30] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:31",
+      "surahNumber": 74,
+      "ayahNumber": 31,
+      "text": {
+        "simple": "وَمَا جَعَلْنَا أَصْحَابَ النَّارِ إِلَّا مَلَائِكَةً ۙ وَمَا جَعَلْنَا عِدَّتَهُمْ إِلَّا فِتْنَةً لِلَّذِينَ كَفَرُوا لِيَسْتَيْقِنَ الَّذِينَ أُوتُوا الْكِتَابَ وَيَزْدَادَ الَّذِينَ آمَنُوا إِيمَانًا ۙ وَلَا يَرْتَابَ الَّذِينَ أُوتُوا الْكِتَابَ وَالْمُؤْمِنُونَ ۙ وَلِيَقُولَ الَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ وَالْكَافِرُونَ مَاذَا أَرَادَ اللَّهُ بِهَٰذَا مَثَلًا ۚ كَذَٰلِكَ يُضِلُّ اللَّهُ مَنْ يَشَاءُ وَيَهْدِي مَنْ يَشَاءُ ۚ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ ۚ وَمَا هِيَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ",
+        "en_sahih": "English translation of [74:31] in Sahih International style.",
+        "en_yusufali": "English translation of [74:31] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:31] en español.",
+        "fr_hamidullah": "Traduction de [74:31] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:32",
+      "surahNumber": 74,
+      "ayahNumber": 32,
+      "text": {
+        "simple": "كَلَّا وَالْقَمَرِ",
+        "en_sahih": "English translation of [74:32] in Sahih International style.",
+        "en_yusufali": "English translation of [74:32] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:32] en español.",
+        "fr_hamidullah": "Traduction de [74:32] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:33",
+      "surahNumber": 74,
+      "ayahNumber": 33,
+      "text": {
+        "simple": "وَاللَّيْلِ إِذْ أَدْبَرَ",
+        "en_sahih": "English translation of [74:33] in Sahih International style.",
+        "en_yusufali": "English translation of [74:33] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:33] en español.",
+        "fr_hamidullah": "Traduction de [74:33] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:34",
+      "surahNumber": 74,
+      "ayahNumber": 34,
+      "text": {
+        "simple": "وَالصُّبْحِ إِذَا أَسْفَرَ",
+        "en_sahih": "English translation of [74:34] in Sahih International style.",
+        "en_yusufali": "English translation of [74:34] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:34] en español.",
+        "fr_hamidullah": "Traduction de [74:34] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:35",
+      "surahNumber": 74,
+      "ayahNumber": 35,
+      "text": {
+        "simple": "إِنَّهَا لَإِحْدَى الْكُبَرِ",
+        "en_sahih": "English translation of [74:35] in Sahih International style.",
+        "en_yusufali": "English translation of [74:35] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:35] en español.",
+        "fr_hamidullah": "Traduction de [74:35] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:36",
+      "surahNumber": 74,
+      "ayahNumber": 36,
+      "text": {
+        "simple": "نَذِيرًا لِلْبَشَرِ",
+        "en_sahih": "English translation of [74:36] in Sahih International style.",
+        "en_yusufali": "English translation of [74:36] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:36] en español.",
+        "fr_hamidullah": "Traduction de [74:36] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:37",
+      "surahNumber": 74,
+      "ayahNumber": 37,
+      "text": {
+        "simple": "لِمَنْ شَاءَ مِنْكُمْ أَنْ يَتَقَدَّمَ أَوْ يَتَأَخَّرَ",
+        "en_sahih": "English translation of [74:37] in Sahih International style.",
+        "en_yusufali": "English translation of [74:37] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:37] en español.",
+        "fr_hamidullah": "Traduction de [74:37] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:38",
+      "surahNumber": 74,
+      "ayahNumber": 38,
+      "text": {
+        "simple": "كُلُّ نَفْسٍ بِمَا كَسَبَتْ رَهِينَةٌ",
+        "en_sahih": "English translation of [74:38] in Sahih International style.",
+        "en_yusufali": "English translation of [74:38] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 38 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:38] en español.",
+        "fr_hamidullah": "Traduction de [74:38] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:39",
+      "surahNumber": 74,
+      "ayahNumber": 39,
+      "text": {
+        "simple": "إِلَّا أَصْحَابَ الْيَمِينِ",
+        "en_sahih": "English translation of [74:39] in Sahih International style.",
+        "en_yusufali": "English translation of [74:39] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 39 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:39] en español.",
+        "fr_hamidullah": "Traduction de [74:39] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:40",
+      "surahNumber": 74,
+      "ayahNumber": 40,
+      "text": {
+        "simple": "فِي جَنَّاتٍ يَتَسَاءَلُونَ",
+        "en_sahih": "English translation of [74:40] in Sahih International style.",
+        "en_yusufali": "English translation of [74:40] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 40 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:40] en español.",
+        "fr_hamidullah": "Traduction de [74:40] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:41",
+      "surahNumber": 74,
+      "ayahNumber": 41,
+      "text": {
+        "simple": "عَنِ الْمُجْرِمِينَ",
+        "en_sahih": "English translation of [74:41] in Sahih International style.",
+        "en_yusufali": "English translation of [74:41] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 41 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:41] en español.",
+        "fr_hamidullah": "Traduction de [74:41] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:42",
+      "surahNumber": 74,
+      "ayahNumber": 42,
+      "text": {
+        "simple": "مَا سَلَكَكُمْ فِي سَقَرَ",
+        "en_sahih": "English translation of [74:42] in Sahih International style.",
+        "en_yusufali": "English translation of [74:42] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 42 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:42] en español.",
+        "fr_hamidullah": "Traduction de [74:42] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:43",
+      "surahNumber": 74,
+      "ayahNumber": 43,
+      "text": {
+        "simple": "قَالُوا لَمْ نَكُ مِنَ الْمُصَلِّينَ",
+        "en_sahih": "English translation of [74:43] in Sahih International style.",
+        "en_yusufali": "English translation of [74:43] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 43 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:43] en español.",
+        "fr_hamidullah": "Traduction de [74:43] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:44",
+      "surahNumber": 74,
+      "ayahNumber": 44,
+      "text": {
+        "simple": "وَلَمْ نَكُ نُطْعِمُ الْمِسْكِينَ",
+        "en_sahih": "English translation of [74:44] in Sahih International style.",
+        "en_yusufali": "English translation of [74:44] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 44 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:44] en español.",
+        "fr_hamidullah": "Traduction de [74:44] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:45",
+      "surahNumber": 74,
+      "ayahNumber": 45,
+      "text": {
+        "simple": "وَكُنَّا نَخُوضُ مَعَ الْخَائِضِينَ",
+        "en_sahih": "English translation of [74:45] in Sahih International style.",
+        "en_yusufali": "English translation of [74:45] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 45 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:45] en español.",
+        "fr_hamidullah": "Traduction de [74:45] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:46",
+      "surahNumber": 74,
+      "ayahNumber": 46,
+      "text": {
+        "simple": "وَكُنَّا نُكَذِّبُ بِيَوْمِ الدِّينِ",
+        "en_sahih": "English translation of [74:46] in Sahih International style.",
+        "en_yusufali": "English translation of [74:46] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 46 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:46] en español.",
+        "fr_hamidullah": "Traduction de [74:46] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:47",
+      "surahNumber": 74,
+      "ayahNumber": 47,
+      "text": {
+        "simple": "حَتَّىٰ أَتَانَا الْيَقِينُ",
+        "en_sahih": "English translation of [74:47] in Sahih International style.",
+        "en_yusufali": "English translation of [74:47] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 47 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:47] en español.",
+        "fr_hamidullah": "Traduction de [74:47] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:48",
+      "surahNumber": 74,
+      "ayahNumber": 48,
+      "text": {
+        "simple": "فَمَا تَنْفَعُهُمْ شَفَاعَةُ الشَّافِعِينَ",
+        "en_sahih": "English translation of [74:48] in Sahih International style.",
+        "en_yusufali": "English translation of [74:48] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 48 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:48] en español.",
+        "fr_hamidullah": "Traduction de [74:48] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:49",
+      "surahNumber": 74,
+      "ayahNumber": 49,
+      "text": {
+        "simple": "فَمَا لَهُمْ عَنِ التَّذْكِرَةِ مُعْرِضِينَ",
+        "en_sahih": "English translation of [74:49] in Sahih International style.",
+        "en_yusufali": "English translation of [74:49] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 49 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:49] en español.",
+        "fr_hamidullah": "Traduction de [74:49] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:50",
+      "surahNumber": 74,
+      "ayahNumber": 50,
+      "text": {
+        "simple": "كَأَنَّهُمْ حُمُرٌ مُسْتَنْفِرَةٌ",
+        "en_sahih": "English translation of [74:50] in Sahih International style.",
+        "en_yusufali": "English translation of [74:50] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 50 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:50] en español.",
+        "fr_hamidullah": "Traduction de [74:50] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:51",
+      "surahNumber": 74,
+      "ayahNumber": 51,
+      "text": {
+        "simple": "فَرَّتْ مِنْ قَسْوَرَةٍ",
+        "en_sahih": "English translation of [74:51] in Sahih International style.",
+        "en_yusufali": "English translation of [74:51] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 51 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:51] en español.",
+        "fr_hamidullah": "Traduction de [74:51] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:52",
+      "surahNumber": 74,
+      "ayahNumber": 52,
+      "text": {
+        "simple": "بَلْ يُرِيدُ كُلُّ امْرِئٍ مِنْهُمْ أَنْ يُؤْتَىٰ صُحُفًا مُنَشَّرَةً",
+        "en_sahih": "English translation of [74:52] in Sahih International style.",
+        "en_yusufali": "English translation of [74:52] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 52 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:52] en español.",
+        "fr_hamidullah": "Traduction de [74:52] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:53",
+      "surahNumber": 74,
+      "ayahNumber": 53,
+      "text": {
+        "simple": "كَلَّا ۖ بَلْ لَا يَخَافُونَ الْآخِرَةَ",
+        "en_sahih": "English translation of [74:53] in Sahih International style.",
+        "en_yusufali": "English translation of [74:53] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 53 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:53] en español.",
+        "fr_hamidullah": "Traduction de [74:53] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 53 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:54",
+      "surahNumber": 74,
+      "ayahNumber": 54,
+      "text": {
+        "simple": "كَلَّا إِنَّهُ تَذْكِرَةٌ",
+        "en_sahih": "English translation of [74:54] in Sahih International style.",
+        "en_yusufali": "English translation of [74:54] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 54 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:54] en español.",
+        "fr_hamidullah": "Traduction de [74:54] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 54 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:55",
+      "surahNumber": 74,
+      "ayahNumber": 55,
+      "text": {
+        "simple": "فَمَنْ شَاءَ ذَكَرَهُ",
+        "en_sahih": "English translation of [74:55] in Sahih International style.",
+        "en_yusufali": "English translation of [74:55] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 55 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:55] en español.",
+        "fr_hamidullah": "Traduction de [74:55] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 55 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "74:56",
+      "surahNumber": 74,
+      "ayahNumber": 56,
+      "text": {
+        "simple": "وَمَا يَذْكُرُونَ إِلَّا أَنْ يَشَاءَ اللَّهُ ۚ هُوَ أَهْلُ التَّقْوَىٰ وَأَهْلُ الْمَغْفِرَةِ",
+        "en_sahih": "English translation of [74:56] in Sahih International style.",
+        "en_yusufali": "English translation of [74:56] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 74 آیت 56 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [74:56] en español.",
+        "fr_hamidullah": "Traduction de [74:56] en français.",
+        "bn_hoque": "সূরা 74 আয়াত 56 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

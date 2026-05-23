@@ -1,0 +1,2563 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.985Z",
+  "surahNumber": 37,
+  "ayahCount": 182,
+  "ayahs": [
+    {
+      "id": "37:1",
+      "surahNumber": 37,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَالصَّافَّاتِ صَفًّا",
+        "en_sahih": "English translation of [37:1] in Sahih International style.",
+        "en_yusufali": "English translation of [37:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:1] en español.",
+        "fr_hamidullah": "Traduction de [37:1] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:2",
+      "surahNumber": 37,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "فَالزَّاجِرَاتِ زَجْرًا",
+        "en_sahih": "English translation of [37:2] in Sahih International style.",
+        "en_yusufali": "English translation of [37:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:2] en español.",
+        "fr_hamidullah": "Traduction de [37:2] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:3",
+      "surahNumber": 37,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "فَالتَّالِيَاتِ ذِكْرًا",
+        "en_sahih": "English translation of [37:3] in Sahih International style.",
+        "en_yusufali": "English translation of [37:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:3] en español.",
+        "fr_hamidullah": "Traduction de [37:3] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:4",
+      "surahNumber": 37,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "إِنَّ إِلَٰهَكُمْ لَوَاحِدٌ",
+        "en_sahih": "English translation of [37:4] in Sahih International style.",
+        "en_yusufali": "English translation of [37:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:4] en español.",
+        "fr_hamidullah": "Traduction de [37:4] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:5",
+      "surahNumber": 37,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا وَرَبُّ الْمَشَارِقِ",
+        "en_sahih": "English translation of [37:5] in Sahih International style.",
+        "en_yusufali": "English translation of [37:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:5] en español.",
+        "fr_hamidullah": "Traduction de [37:5] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:6",
+      "surahNumber": 37,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "إِنَّا زَيَّنَّا السَّمَاءَ الدُّنْيَا بِزِينَةٍ الْكَوَاكِبِ",
+        "en_sahih": "English translation of [37:6] in Sahih International style.",
+        "en_yusufali": "English translation of [37:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:6] en español.",
+        "fr_hamidullah": "Traduction de [37:6] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:7",
+      "surahNumber": 37,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "وَحِفْظًا مِنْ كُلِّ شَيْطَانٍ مَارِدٍ",
+        "en_sahih": "English translation of [37:7] in Sahih International style.",
+        "en_yusufali": "English translation of [37:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:7] en español.",
+        "fr_hamidullah": "Traduction de [37:7] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:8",
+      "surahNumber": 37,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "لَا يَسَّمَّعُونَ إِلَى الْمَلَإِ الْأَعْلَىٰ وَيُقْذَفُونَ مِنْ كُلِّ جَانِبٍ",
+        "en_sahih": "English translation of [37:8] in Sahih International style.",
+        "en_yusufali": "English translation of [37:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:8] en español.",
+        "fr_hamidullah": "Traduction de [37:8] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:9",
+      "surahNumber": 37,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "دُحُورًا ۖ وَلَهُمْ عَذَابٌ وَاصِبٌ",
+        "en_sahih": "English translation of [37:9] in Sahih International style.",
+        "en_yusufali": "English translation of [37:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:9] en español.",
+        "fr_hamidullah": "Traduction de [37:9] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:10",
+      "surahNumber": 37,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "إِلَّا مَنْ خَطِفَ الْخَطْفَةَ فَأَتْبَعَهُ شِهَابٌ ثَاقِبٌ",
+        "en_sahih": "English translation of [37:10] in Sahih International style.",
+        "en_yusufali": "English translation of [37:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:10] en español.",
+        "fr_hamidullah": "Traduction de [37:10] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:11",
+      "surahNumber": 37,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "فَاسْتَفْتِهِمْ أَهُمْ أَشَدُّ خَلْقًا أَمْ مَنْ خَلَقْنَا ۚ إِنَّا خَلَقْنَاهُمْ مِنْ طِينٍ لَازِبٍ",
+        "en_sahih": "English translation of [37:11] in Sahih International style.",
+        "en_yusufali": "English translation of [37:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:11] en español.",
+        "fr_hamidullah": "Traduction de [37:11] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:12",
+      "surahNumber": 37,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "بَلْ عَجِبْتَ وَيَسْخَرُونَ",
+        "en_sahih": "English translation of [37:12] in Sahih International style.",
+        "en_yusufali": "English translation of [37:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:12] en español.",
+        "fr_hamidullah": "Traduction de [37:12] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:13",
+      "surahNumber": 37,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "وَإِذَا ذُكِّرُوا لَا يَذْكُرُونَ",
+        "en_sahih": "English translation of [37:13] in Sahih International style.",
+        "en_yusufali": "English translation of [37:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:13] en español.",
+        "fr_hamidullah": "Traduction de [37:13] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:14",
+      "surahNumber": 37,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "وَإِذَا رَأَوْا آيَةً يَسْتَسْخِرُونَ",
+        "en_sahih": "English translation of [37:14] in Sahih International style.",
+        "en_yusufali": "English translation of [37:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:14] en español.",
+        "fr_hamidullah": "Traduction de [37:14] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:15",
+      "surahNumber": 37,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "وَقَالُوا إِنْ هَٰذَا إِلَّا سِحْرٌ مُبِينٌ",
+        "en_sahih": "English translation of [37:15] in Sahih International style.",
+        "en_yusufali": "English translation of [37:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:15] en español.",
+        "fr_hamidullah": "Traduction de [37:15] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:16",
+      "surahNumber": 37,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَبْعُوثُونَ",
+        "en_sahih": "English translation of [37:16] in Sahih International style.",
+        "en_yusufali": "English translation of [37:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:16] en español.",
+        "fr_hamidullah": "Traduction de [37:16] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:17",
+      "surahNumber": 37,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "أَوَآبَاؤُنَا الْأَوَّلُونَ",
+        "en_sahih": "English translation of [37:17] in Sahih International style.",
+        "en_yusufali": "English translation of [37:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:17] en español.",
+        "fr_hamidullah": "Traduction de [37:17] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:18",
+      "surahNumber": 37,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "قُلْ نَعَمْ وَأَنْتُمْ دَاخِرُونَ",
+        "en_sahih": "English translation of [37:18] in Sahih International style.",
+        "en_yusufali": "English translation of [37:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:18] en español.",
+        "fr_hamidullah": "Traduction de [37:18] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:19",
+      "surahNumber": 37,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "فَإِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ فَإِذَا هُمْ يَنْظُرُونَ",
+        "en_sahih": "English translation of [37:19] in Sahih International style.",
+        "en_yusufali": "English translation of [37:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:19] en español.",
+        "fr_hamidullah": "Traduction de [37:19] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:20",
+      "surahNumber": 37,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "وَقَالُوا يَا وَيْلَنَا هَٰذَا يَوْمُ الدِّينِ",
+        "en_sahih": "English translation of [37:20] in Sahih International style.",
+        "en_yusufali": "English translation of [37:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:20] en español.",
+        "fr_hamidullah": "Traduction de [37:20] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:21",
+      "surahNumber": 37,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "هَٰذَا يَوْمُ الْفَصْلِ الَّذِي كُنْتُمْ بِهِ تُكَذِّبُونَ",
+        "en_sahih": "English translation of [37:21] in Sahih International style.",
+        "en_yusufali": "English translation of [37:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:21] en español.",
+        "fr_hamidullah": "Traduction de [37:21] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:22",
+      "surahNumber": 37,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "۞ احْشُرُوا الَّذِينَ ظَلَمُوا وَأَزْوَاجَهُمْ وَمَا كَانُوا يَعْبُدُونَ",
+        "en_sahih": "English translation of [37:22] in Sahih International style.",
+        "en_yusufali": "English translation of [37:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:22] en español.",
+        "fr_hamidullah": "Traduction de [37:22] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:23",
+      "surahNumber": 37,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "مِنْ دُونِ اللَّهِ فَاهْدُوهُمْ إِلَىٰ صِرَاطِ الْجَحِيمِ",
+        "en_sahih": "English translation of [37:23] in Sahih International style.",
+        "en_yusufali": "English translation of [37:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:23] en español.",
+        "fr_hamidullah": "Traduction de [37:23] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:24",
+      "surahNumber": 37,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "وَقِفُوهُمْ ۖ إِنَّهُمْ مَسْئُولُونَ",
+        "en_sahih": "English translation of [37:24] in Sahih International style.",
+        "en_yusufali": "English translation of [37:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:24] en español.",
+        "fr_hamidullah": "Traduction de [37:24] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:25",
+      "surahNumber": 37,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "مَا لَكُمْ لَا تَنَاصَرُونَ",
+        "en_sahih": "English translation of [37:25] in Sahih International style.",
+        "en_yusufali": "English translation of [37:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:25] en español.",
+        "fr_hamidullah": "Traduction de [37:25] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:26",
+      "surahNumber": 37,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "بَلْ هُمُ الْيَوْمَ مُسْتَسْلِمُونَ",
+        "en_sahih": "English translation of [37:26] in Sahih International style.",
+        "en_yusufali": "English translation of [37:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:26] en español.",
+        "fr_hamidullah": "Traduction de [37:26] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:27",
+      "surahNumber": 37,
+      "ayahNumber": 27,
+      "text": {
+        "simple": "وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَاءَلُونَ",
+        "en_sahih": "English translation of [37:27] in Sahih International style.",
+        "en_yusufali": "English translation of [37:27] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:27] en español.",
+        "fr_hamidullah": "Traduction de [37:27] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:28",
+      "surahNumber": 37,
+      "ayahNumber": 28,
+      "text": {
+        "simple": "قَالُوا إِنَّكُمْ كُنْتُمْ تَأْتُونَنَا عَنِ الْيَمِينِ",
+        "en_sahih": "English translation of [37:28] in Sahih International style.",
+        "en_yusufali": "English translation of [37:28] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:28] en español.",
+        "fr_hamidullah": "Traduction de [37:28] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:29",
+      "surahNumber": 37,
+      "ayahNumber": 29,
+      "text": {
+        "simple": "قَالُوا بَلْ لَمْ تَكُونُوا مُؤْمِنِينَ",
+        "en_sahih": "English translation of [37:29] in Sahih International style.",
+        "en_yusufali": "English translation of [37:29] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:29] en español.",
+        "fr_hamidullah": "Traduction de [37:29] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:30",
+      "surahNumber": 37,
+      "ayahNumber": 30,
+      "text": {
+        "simple": "وَمَا كَانَ لَنَا عَلَيْكُمْ مِنْ سُلْطَانٍ ۖ بَلْ كُنْتُمْ قَوْمًا طَاغِينَ",
+        "en_sahih": "English translation of [37:30] in Sahih International style.",
+        "en_yusufali": "English translation of [37:30] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:30] en español.",
+        "fr_hamidullah": "Traduction de [37:30] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:31",
+      "surahNumber": 37,
+      "ayahNumber": 31,
+      "text": {
+        "simple": "فَحَقَّ عَلَيْنَا قَوْلُ رَبِّنَا ۖ إِنَّا لَذَائِقُونَ",
+        "en_sahih": "English translation of [37:31] in Sahih International style.",
+        "en_yusufali": "English translation of [37:31] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:31] en español.",
+        "fr_hamidullah": "Traduction de [37:31] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:32",
+      "surahNumber": 37,
+      "ayahNumber": 32,
+      "text": {
+        "simple": "فَأَغْوَيْنَاكُمْ إِنَّا كُنَّا غَاوِينَ",
+        "en_sahih": "English translation of [37:32] in Sahih International style.",
+        "en_yusufali": "English translation of [37:32] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:32] en español.",
+        "fr_hamidullah": "Traduction de [37:32] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:33",
+      "surahNumber": 37,
+      "ayahNumber": 33,
+      "text": {
+        "simple": "فَإِنَّهُمْ يَوْمَئِذٍ فِي الْعَذَابِ مُشْتَرِكُونَ",
+        "en_sahih": "English translation of [37:33] in Sahih International style.",
+        "en_yusufali": "English translation of [37:33] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:33] en español.",
+        "fr_hamidullah": "Traduction de [37:33] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:34",
+      "surahNumber": 37,
+      "ayahNumber": 34,
+      "text": {
+        "simple": "إِنَّا كَذَٰلِكَ نَفْعَلُ بِالْمُجْرِمِينَ",
+        "en_sahih": "English translation of [37:34] in Sahih International style.",
+        "en_yusufali": "English translation of [37:34] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:34] en español.",
+        "fr_hamidullah": "Traduction de [37:34] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:35",
+      "surahNumber": 37,
+      "ayahNumber": 35,
+      "text": {
+        "simple": "إِنَّهُمْ كَانُوا إِذَا قِيلَ لَهُمْ لَا إِلَٰهَ إِلَّا اللَّهُ يَسْتَكْبِرُونَ",
+        "en_sahih": "English translation of [37:35] in Sahih International style.",
+        "en_yusufali": "English translation of [37:35] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:35] en español.",
+        "fr_hamidullah": "Traduction de [37:35] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:36",
+      "surahNumber": 37,
+      "ayahNumber": 36,
+      "text": {
+        "simple": "وَيَقُولُونَ أَئِنَّا لَتَارِكُو آلِهَتِنَا لِشَاعِرٍ مَجْنُونٍ",
+        "en_sahih": "English translation of [37:36] in Sahih International style.",
+        "en_yusufali": "English translation of [37:36] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:36] en español.",
+        "fr_hamidullah": "Traduction de [37:36] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:37",
+      "surahNumber": 37,
+      "ayahNumber": 37,
+      "text": {
+        "simple": "بَلْ جَاءَ بِالْحَقِّ وَصَدَّقَ الْمُرْسَلِينَ",
+        "en_sahih": "English translation of [37:37] in Sahih International style.",
+        "en_yusufali": "English translation of [37:37] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:37] en español.",
+        "fr_hamidullah": "Traduction de [37:37] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:38",
+      "surahNumber": 37,
+      "ayahNumber": 38,
+      "text": {
+        "simple": "إِنَّكُمْ لَذَائِقُو الْعَذَابِ الْأَلِيمِ",
+        "en_sahih": "English translation of [37:38] in Sahih International style.",
+        "en_yusufali": "English translation of [37:38] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 38 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:38] en español.",
+        "fr_hamidullah": "Traduction de [37:38] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:39",
+      "surahNumber": 37,
+      "ayahNumber": 39,
+      "text": {
+        "simple": "وَمَا تُجْزَوْنَ إِلَّا مَا كُنْتُمْ تَعْمَلُونَ",
+        "en_sahih": "English translation of [37:39] in Sahih International style.",
+        "en_yusufali": "English translation of [37:39] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 39 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:39] en español.",
+        "fr_hamidullah": "Traduction de [37:39] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:40",
+      "surahNumber": 37,
+      "ayahNumber": 40,
+      "text": {
+        "simple": "إِلَّا عِبَادَ اللَّهِ الْمُخْلَصِينَ",
+        "en_sahih": "English translation of [37:40] in Sahih International style.",
+        "en_yusufali": "English translation of [37:40] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 40 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:40] en español.",
+        "fr_hamidullah": "Traduction de [37:40] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:41",
+      "surahNumber": 37,
+      "ayahNumber": 41,
+      "text": {
+        "simple": "أُولَٰئِكَ لَهُمْ رِزْقٌ مَعْلُومٌ",
+        "en_sahih": "English translation of [37:41] in Sahih International style.",
+        "en_yusufali": "English translation of [37:41] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 41 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:41] en español.",
+        "fr_hamidullah": "Traduction de [37:41] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:42",
+      "surahNumber": 37,
+      "ayahNumber": 42,
+      "text": {
+        "simple": "فَوَاكِهُ ۖ وَهُمْ مُكْرَمُونَ",
+        "en_sahih": "English translation of [37:42] in Sahih International style.",
+        "en_yusufali": "English translation of [37:42] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 42 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:42] en español.",
+        "fr_hamidullah": "Traduction de [37:42] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:43",
+      "surahNumber": 37,
+      "ayahNumber": 43,
+      "text": {
+        "simple": "فِي جَنَّاتِ النَّعِيمِ",
+        "en_sahih": "English translation of [37:43] in Sahih International style.",
+        "en_yusufali": "English translation of [37:43] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 43 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:43] en español.",
+        "fr_hamidullah": "Traduction de [37:43] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:44",
+      "surahNumber": 37,
+      "ayahNumber": 44,
+      "text": {
+        "simple": "عَلَىٰ سُرُرٍ مُتَقَابِلِينَ",
+        "en_sahih": "English translation of [37:44] in Sahih International style.",
+        "en_yusufali": "English translation of [37:44] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 44 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:44] en español.",
+        "fr_hamidullah": "Traduction de [37:44] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:45",
+      "surahNumber": 37,
+      "ayahNumber": 45,
+      "text": {
+        "simple": "يُطَافُ عَلَيْهِمْ بِكَأْسٍ مِنْ مَعِينٍ",
+        "en_sahih": "English translation of [37:45] in Sahih International style.",
+        "en_yusufali": "English translation of [37:45] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 45 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:45] en español.",
+        "fr_hamidullah": "Traduction de [37:45] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:46",
+      "surahNumber": 37,
+      "ayahNumber": 46,
+      "text": {
+        "simple": "بَيْضَاءَ لَذَّةٍ لِلشَّارِبِينَ",
+        "en_sahih": "English translation of [37:46] in Sahih International style.",
+        "en_yusufali": "English translation of [37:46] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 46 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:46] en español.",
+        "fr_hamidullah": "Traduction de [37:46] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:47",
+      "surahNumber": 37,
+      "ayahNumber": 47,
+      "text": {
+        "simple": "لَا فِيهَا غَوْلٌ وَلَا هُمْ عَنْهَا يُنْزَفُونَ",
+        "en_sahih": "English translation of [37:47] in Sahih International style.",
+        "en_yusufali": "English translation of [37:47] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 47 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:47] en español.",
+        "fr_hamidullah": "Traduction de [37:47] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:48",
+      "surahNumber": 37,
+      "ayahNumber": 48,
+      "text": {
+        "simple": "وَعِنْدَهُمْ قَاصِرَاتُ الطَّرْفِ عِينٌ",
+        "en_sahih": "English translation of [37:48] in Sahih International style.",
+        "en_yusufali": "English translation of [37:48] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 48 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:48] en español.",
+        "fr_hamidullah": "Traduction de [37:48] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:49",
+      "surahNumber": 37,
+      "ayahNumber": 49,
+      "text": {
+        "simple": "كَأَنَّهُنَّ بَيْضٌ مَكْنُونٌ",
+        "en_sahih": "English translation of [37:49] in Sahih International style.",
+        "en_yusufali": "English translation of [37:49] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 49 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:49] en español.",
+        "fr_hamidullah": "Traduction de [37:49] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:50",
+      "surahNumber": 37,
+      "ayahNumber": 50,
+      "text": {
+        "simple": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَاءَلُونَ",
+        "en_sahih": "English translation of [37:50] in Sahih International style.",
+        "en_yusufali": "English translation of [37:50] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 50 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:50] en español.",
+        "fr_hamidullah": "Traduction de [37:50] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:51",
+      "surahNumber": 37,
+      "ayahNumber": 51,
+      "text": {
+        "simple": "قَالَ قَائِلٌ مِنْهُمْ إِنِّي كَانَ لِي قَرِينٌ",
+        "en_sahih": "English translation of [37:51] in Sahih International style.",
+        "en_yusufali": "English translation of [37:51] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 51 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:51] en español.",
+        "fr_hamidullah": "Traduction de [37:51] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:52",
+      "surahNumber": 37,
+      "ayahNumber": 52,
+      "text": {
+        "simple": "يَقُولُ أَإِنَّكَ لَمِنَ الْمُصَدِّقِينَ",
+        "en_sahih": "English translation of [37:52] in Sahih International style.",
+        "en_yusufali": "English translation of [37:52] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 52 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:52] en español.",
+        "fr_hamidullah": "Traduction de [37:52] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:53",
+      "surahNumber": 37,
+      "ayahNumber": 53,
+      "text": {
+        "simple": "أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَدِينُونَ",
+        "en_sahih": "English translation of [37:53] in Sahih International style.",
+        "en_yusufali": "English translation of [37:53] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 53 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:53] en español.",
+        "fr_hamidullah": "Traduction de [37:53] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 53 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:54",
+      "surahNumber": 37,
+      "ayahNumber": 54,
+      "text": {
+        "simple": "قَالَ هَلْ أَنْتُمْ مُطَّلِعُونَ",
+        "en_sahih": "English translation of [37:54] in Sahih International style.",
+        "en_yusufali": "English translation of [37:54] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 54 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:54] en español.",
+        "fr_hamidullah": "Traduction de [37:54] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 54 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:55",
+      "surahNumber": 37,
+      "ayahNumber": 55,
+      "text": {
+        "simple": "فَاطَّلَعَ فَرَآهُ فِي سَوَاءِ الْجَحِيمِ",
+        "en_sahih": "English translation of [37:55] in Sahih International style.",
+        "en_yusufali": "English translation of [37:55] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 55 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:55] en español.",
+        "fr_hamidullah": "Traduction de [37:55] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 55 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:56",
+      "surahNumber": 37,
+      "ayahNumber": 56,
+      "text": {
+        "simple": "قَالَ تَاللَّهِ إِنْ كِدْتَ لَتُرْدِينِ",
+        "en_sahih": "English translation of [37:56] in Sahih International style.",
+        "en_yusufali": "English translation of [37:56] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 56 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:56] en español.",
+        "fr_hamidullah": "Traduction de [37:56] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 56 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:57",
+      "surahNumber": 37,
+      "ayahNumber": 57,
+      "text": {
+        "simple": "وَلَوْلَا نِعْمَةُ رَبِّي لَكُنْتُ مِنَ الْمُحْضَرِينَ",
+        "en_sahih": "English translation of [37:57] in Sahih International style.",
+        "en_yusufali": "English translation of [37:57] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 57 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:57] en español.",
+        "fr_hamidullah": "Traduction de [37:57] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 57 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:58",
+      "surahNumber": 37,
+      "ayahNumber": 58,
+      "text": {
+        "simple": "أَفَمَا نَحْنُ بِمَيِّتِينَ",
+        "en_sahih": "English translation of [37:58] in Sahih International style.",
+        "en_yusufali": "English translation of [37:58] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 58 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:58] en español.",
+        "fr_hamidullah": "Traduction de [37:58] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 58 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:59",
+      "surahNumber": 37,
+      "ayahNumber": 59,
+      "text": {
+        "simple": "إِلَّا مَوْتَتَنَا الْأُولَىٰ وَمَا نَحْنُ بِمُعَذَّبِينَ",
+        "en_sahih": "English translation of [37:59] in Sahih International style.",
+        "en_yusufali": "English translation of [37:59] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 59 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:59] en español.",
+        "fr_hamidullah": "Traduction de [37:59] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 59 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:60",
+      "surahNumber": 37,
+      "ayahNumber": 60,
+      "text": {
+        "simple": "إِنَّ هَٰذَا لَهُوَ الْفَوْزُ الْعَظِيمُ",
+        "en_sahih": "English translation of [37:60] in Sahih International style.",
+        "en_yusufali": "English translation of [37:60] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 60 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:60] en español.",
+        "fr_hamidullah": "Traduction de [37:60] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 60 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:61",
+      "surahNumber": 37,
+      "ayahNumber": 61,
+      "text": {
+        "simple": "لِمِثْلِ هَٰذَا فَلْيَعْمَلِ الْعَامِلُونَ",
+        "en_sahih": "English translation of [37:61] in Sahih International style.",
+        "en_yusufali": "English translation of [37:61] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 61 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:61] en español.",
+        "fr_hamidullah": "Traduction de [37:61] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 61 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:62",
+      "surahNumber": 37,
+      "ayahNumber": 62,
+      "text": {
+        "simple": "أَذَٰلِكَ خَيْرٌ نُزُلًا أَمْ شَجَرَةُ الزَّقُّومِ",
+        "en_sahih": "English translation of [37:62] in Sahih International style.",
+        "en_yusufali": "English translation of [37:62] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 62 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:62] en español.",
+        "fr_hamidullah": "Traduction de [37:62] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 62 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:63",
+      "surahNumber": 37,
+      "ayahNumber": 63,
+      "text": {
+        "simple": "إِنَّا جَعَلْنَاهَا فِتْنَةً لِلظَّالِمِينَ",
+        "en_sahih": "English translation of [37:63] in Sahih International style.",
+        "en_yusufali": "English translation of [37:63] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 63 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:63] en español.",
+        "fr_hamidullah": "Traduction de [37:63] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 63 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:64",
+      "surahNumber": 37,
+      "ayahNumber": 64,
+      "text": {
+        "simple": "إِنَّهَا شَجَرَةٌ تَخْرُجُ فِي أَصْلِ الْجَحِيمِ",
+        "en_sahih": "English translation of [37:64] in Sahih International style.",
+        "en_yusufali": "English translation of [37:64] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 64 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:64] en español.",
+        "fr_hamidullah": "Traduction de [37:64] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 64 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:65",
+      "surahNumber": 37,
+      "ayahNumber": 65,
+      "text": {
+        "simple": "طَلْعُهَا كَأَنَّهُ رُءُوسُ الشَّيَاطِينِ",
+        "en_sahih": "English translation of [37:65] in Sahih International style.",
+        "en_yusufali": "English translation of [37:65] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 65 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:65] en español.",
+        "fr_hamidullah": "Traduction de [37:65] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 65 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:66",
+      "surahNumber": 37,
+      "ayahNumber": 66,
+      "text": {
+        "simple": "فَإِنَّهُمْ لَآكِلُونَ مِنْهَا فَمَالِئُونَ مِنْهَا الْبُطُونَ",
+        "en_sahih": "English translation of [37:66] in Sahih International style.",
+        "en_yusufali": "English translation of [37:66] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 66 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:66] en español.",
+        "fr_hamidullah": "Traduction de [37:66] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 66 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:67",
+      "surahNumber": 37,
+      "ayahNumber": 67,
+      "text": {
+        "simple": "ثُمَّ إِنَّ لَهُمْ عَلَيْهَا لَشَوْبًا مِنْ حَمِيمٍ",
+        "en_sahih": "English translation of [37:67] in Sahih International style.",
+        "en_yusufali": "English translation of [37:67] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 67 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:67] en español.",
+        "fr_hamidullah": "Traduction de [37:67] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 67 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:68",
+      "surahNumber": 37,
+      "ayahNumber": 68,
+      "text": {
+        "simple": "ثُمَّ إِنَّ مَرْجِعَهُمْ لَإِلَى الْجَحِيمِ",
+        "en_sahih": "English translation of [37:68] in Sahih International style.",
+        "en_yusufali": "English translation of [37:68] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 68 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:68] en español.",
+        "fr_hamidullah": "Traduction de [37:68] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 68 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:69",
+      "surahNumber": 37,
+      "ayahNumber": 69,
+      "text": {
+        "simple": "إِنَّهُمْ أَلْفَوْا آبَاءَهُمْ ضَالِّينَ",
+        "en_sahih": "English translation of [37:69] in Sahih International style.",
+        "en_yusufali": "English translation of [37:69] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 69 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:69] en español.",
+        "fr_hamidullah": "Traduction de [37:69] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 69 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:70",
+      "surahNumber": 37,
+      "ayahNumber": 70,
+      "text": {
+        "simple": "فَهُمْ عَلَىٰ آثَارِهِمْ يُهْرَعُونَ",
+        "en_sahih": "English translation of [37:70] in Sahih International style.",
+        "en_yusufali": "English translation of [37:70] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 70 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:70] en español.",
+        "fr_hamidullah": "Traduction de [37:70] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 70 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:71",
+      "surahNumber": 37,
+      "ayahNumber": 71,
+      "text": {
+        "simple": "وَلَقَدْ ضَلَّ قَبْلَهُمْ أَكْثَرُ الْأَوَّلِينَ",
+        "en_sahih": "English translation of [37:71] in Sahih International style.",
+        "en_yusufali": "English translation of [37:71] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 71 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:71] en español.",
+        "fr_hamidullah": "Traduction de [37:71] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 71 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:72",
+      "surahNumber": 37,
+      "ayahNumber": 72,
+      "text": {
+        "simple": "وَلَقَدْ أَرْسَلْنَا فِيهِمْ مُنْذِرِينَ",
+        "en_sahih": "English translation of [37:72] in Sahih International style.",
+        "en_yusufali": "English translation of [37:72] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 72 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:72] en español.",
+        "fr_hamidullah": "Traduction de [37:72] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 72 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:73",
+      "surahNumber": 37,
+      "ayahNumber": 73,
+      "text": {
+        "simple": "فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ الْمُنْذَرِينَ",
+        "en_sahih": "English translation of [37:73] in Sahih International style.",
+        "en_yusufali": "English translation of [37:73] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 73 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:73] en español.",
+        "fr_hamidullah": "Traduction de [37:73] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 73 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:74",
+      "surahNumber": 37,
+      "ayahNumber": 74,
+      "text": {
+        "simple": "إِلَّا عِبَادَ اللَّهِ الْمُخْلَصِينَ",
+        "en_sahih": "English translation of [37:74] in Sahih International style.",
+        "en_yusufali": "English translation of [37:74] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 74 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:74] en español.",
+        "fr_hamidullah": "Traduction de [37:74] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 74 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:75",
+      "surahNumber": 37,
+      "ayahNumber": 75,
+      "text": {
+        "simple": "وَلَقَدْ نَادَانَا نُوحٌ فَلَنِعْمَ الْمُجِيبُونَ",
+        "en_sahih": "English translation of [37:75] in Sahih International style.",
+        "en_yusufali": "English translation of [37:75] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 75 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:75] en español.",
+        "fr_hamidullah": "Traduction de [37:75] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 75 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:76",
+      "surahNumber": 37,
+      "ayahNumber": 76,
+      "text": {
+        "simple": "وَنَجَّيْنَاهُ وَأَهْلَهُ مِنَ الْكَرْبِ الْعَظِيمِ",
+        "en_sahih": "English translation of [37:76] in Sahih International style.",
+        "en_yusufali": "English translation of [37:76] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 76 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:76] en español.",
+        "fr_hamidullah": "Traduction de [37:76] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 76 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:77",
+      "surahNumber": 37,
+      "ayahNumber": 77,
+      "text": {
+        "simple": "وَجَعَلْنَا ذُرِّيَّتَهُ هُمُ الْبَاقِينَ",
+        "en_sahih": "English translation of [37:77] in Sahih International style.",
+        "en_yusufali": "English translation of [37:77] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 77 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:77] en español.",
+        "fr_hamidullah": "Traduction de [37:77] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 77 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:78",
+      "surahNumber": 37,
+      "ayahNumber": 78,
+      "text": {
+        "simple": "وَتَرَكْنَا عَلَيْهِ فِي الْآخِرِينَ",
+        "en_sahih": "English translation of [37:78] in Sahih International style.",
+        "en_yusufali": "English translation of [37:78] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 78 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:78] en español.",
+        "fr_hamidullah": "Traduction de [37:78] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 78 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:79",
+      "surahNumber": 37,
+      "ayahNumber": 79,
+      "text": {
+        "simple": "سَلَامٌ عَلَىٰ نُوحٍ فِي الْعَالَمِينَ",
+        "en_sahih": "English translation of [37:79] in Sahih International style.",
+        "en_yusufali": "English translation of [37:79] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 79 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:79] en español.",
+        "fr_hamidullah": "Traduction de [37:79] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 79 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:80",
+      "surahNumber": 37,
+      "ayahNumber": 80,
+      "text": {
+        "simple": "إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ",
+        "en_sahih": "English translation of [37:80] in Sahih International style.",
+        "en_yusufali": "English translation of [37:80] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 80 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:80] en español.",
+        "fr_hamidullah": "Traduction de [37:80] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 80 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:81",
+      "surahNumber": 37,
+      "ayahNumber": 81,
+      "text": {
+        "simple": "إِنَّهُ مِنْ عِبَادِنَا الْمُؤْمِنِينَ",
+        "en_sahih": "English translation of [37:81] in Sahih International style.",
+        "en_yusufali": "English translation of [37:81] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 81 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:81] en español.",
+        "fr_hamidullah": "Traduction de [37:81] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 81 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:82",
+      "surahNumber": 37,
+      "ayahNumber": 82,
+      "text": {
+        "simple": "ثُمَّ أَغْرَقْنَا الْآخَرِينَ",
+        "en_sahih": "English translation of [37:82] in Sahih International style.",
+        "en_yusufali": "English translation of [37:82] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 82 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:82] en español.",
+        "fr_hamidullah": "Traduction de [37:82] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 82 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:83",
+      "surahNumber": 37,
+      "ayahNumber": 83,
+      "text": {
+        "simple": "۞ وَإِنَّ مِنْ شِيعَتِهِ لَإِبْرَاهِيمَ",
+        "en_sahih": "English translation of [37:83] in Sahih International style.",
+        "en_yusufali": "English translation of [37:83] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 83 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:83] en español.",
+        "fr_hamidullah": "Traduction de [37:83] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 83 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:84",
+      "surahNumber": 37,
+      "ayahNumber": 84,
+      "text": {
+        "simple": "إِذْ جَاءَ رَبَّهُ بِقَلْبٍ سَلِيمٍ",
+        "en_sahih": "English translation of [37:84] in Sahih International style.",
+        "en_yusufali": "English translation of [37:84] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 84 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:84] en español.",
+        "fr_hamidullah": "Traduction de [37:84] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 84 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:85",
+      "surahNumber": 37,
+      "ayahNumber": 85,
+      "text": {
+        "simple": "إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِ مَاذَا تَعْبُدُونَ",
+        "en_sahih": "English translation of [37:85] in Sahih International style.",
+        "en_yusufali": "English translation of [37:85] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 85 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:85] en español.",
+        "fr_hamidullah": "Traduction de [37:85] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 85 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:86",
+      "surahNumber": 37,
+      "ayahNumber": 86,
+      "text": {
+        "simple": "أَئِفْكًا آلِهَةً دُونَ اللَّهِ تُرِيدُونَ",
+        "en_sahih": "English translation of [37:86] in Sahih International style.",
+        "en_yusufali": "English translation of [37:86] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 86 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:86] en español.",
+        "fr_hamidullah": "Traduction de [37:86] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 86 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:87",
+      "surahNumber": 37,
+      "ayahNumber": 87,
+      "text": {
+        "simple": "فَمَا ظَنُّكُمْ بِرَبِّ الْعَالَمِينَ",
+        "en_sahih": "English translation of [37:87] in Sahih International style.",
+        "en_yusufali": "English translation of [37:87] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 87 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:87] en español.",
+        "fr_hamidullah": "Traduction de [37:87] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 87 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:88",
+      "surahNumber": 37,
+      "ayahNumber": 88,
+      "text": {
+        "simple": "فَنَظَرَ نَظْرَةً فِي النُّجُومِ",
+        "en_sahih": "English translation of [37:88] in Sahih International style.",
+        "en_yusufali": "English translation of [37:88] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 88 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:88] en español.",
+        "fr_hamidullah": "Traduction de [37:88] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 88 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:89",
+      "surahNumber": 37,
+      "ayahNumber": 89,
+      "text": {
+        "simple": "فَقَالَ إِنِّي سَقِيمٌ",
+        "en_sahih": "English translation of [37:89] in Sahih International style.",
+        "en_yusufali": "English translation of [37:89] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 89 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:89] en español.",
+        "fr_hamidullah": "Traduction de [37:89] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 89 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:90",
+      "surahNumber": 37,
+      "ayahNumber": 90,
+      "text": {
+        "simple": "فَتَوَلَّوْا عَنْهُ مُدْبِرِينَ",
+        "en_sahih": "English translation of [37:90] in Sahih International style.",
+        "en_yusufali": "English translation of [37:90] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 90 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:90] en español.",
+        "fr_hamidullah": "Traduction de [37:90] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 90 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:91",
+      "surahNumber": 37,
+      "ayahNumber": 91,
+      "text": {
+        "simple": "فَرَاغَ إِلَىٰ آلِهَتِهِمْ فَقَالَ أَلَا تَأْكُلُونَ",
+        "en_sahih": "English translation of [37:91] in Sahih International style.",
+        "en_yusufali": "English translation of [37:91] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 91 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:91] en español.",
+        "fr_hamidullah": "Traduction de [37:91] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 91 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:92",
+      "surahNumber": 37,
+      "ayahNumber": 92,
+      "text": {
+        "simple": "مَا لَكُمْ لَا تَنْطِقُونَ",
+        "en_sahih": "English translation of [37:92] in Sahih International style.",
+        "en_yusufali": "English translation of [37:92] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 92 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:92] en español.",
+        "fr_hamidullah": "Traduction de [37:92] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 92 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:93",
+      "surahNumber": 37,
+      "ayahNumber": 93,
+      "text": {
+        "simple": "فَرَاغَ عَلَيْهِمْ ضَرْبًا بِالْيَمِينِ",
+        "en_sahih": "English translation of [37:93] in Sahih International style.",
+        "en_yusufali": "English translation of [37:93] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 93 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:93] en español.",
+        "fr_hamidullah": "Traduction de [37:93] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 93 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:94",
+      "surahNumber": 37,
+      "ayahNumber": 94,
+      "text": {
+        "simple": "فَأَقْبَلُوا إِلَيْهِ يَزِفُّونَ",
+        "en_sahih": "English translation of [37:94] in Sahih International style.",
+        "en_yusufali": "English translation of [37:94] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 94 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:94] en español.",
+        "fr_hamidullah": "Traduction de [37:94] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 94 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:95",
+      "surahNumber": 37,
+      "ayahNumber": 95,
+      "text": {
+        "simple": "قَالَ أَتَعْبُدُونَ مَا تَنْحِتُونَ",
+        "en_sahih": "English translation of [37:95] in Sahih International style.",
+        "en_yusufali": "English translation of [37:95] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 95 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:95] en español.",
+        "fr_hamidullah": "Traduction de [37:95] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 95 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:96",
+      "surahNumber": 37,
+      "ayahNumber": 96,
+      "text": {
+        "simple": "وَاللَّهُ خَلَقَكُمْ وَمَا تَعْمَلُونَ",
+        "en_sahih": "English translation of [37:96] in Sahih International style.",
+        "en_yusufali": "English translation of [37:96] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 96 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:96] en español.",
+        "fr_hamidullah": "Traduction de [37:96] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 96 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:97",
+      "surahNumber": 37,
+      "ayahNumber": 97,
+      "text": {
+        "simple": "قَالُوا ابْنُوا لَهُ بُنْيَانًا فَأَلْقُوهُ فِي الْجَحِيمِ",
+        "en_sahih": "English translation of [37:97] in Sahih International style.",
+        "en_yusufali": "English translation of [37:97] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 97 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:97] en español.",
+        "fr_hamidullah": "Traduction de [37:97] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 97 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:98",
+      "surahNumber": 37,
+      "ayahNumber": 98,
+      "text": {
+        "simple": "فَأَرَادُوا بِهِ كَيْدًا فَجَعَلْنَاهُمُ الْأَسْفَلِينَ",
+        "en_sahih": "English translation of [37:98] in Sahih International style.",
+        "en_yusufali": "English translation of [37:98] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 98 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:98] en español.",
+        "fr_hamidullah": "Traduction de [37:98] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 98 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:99",
+      "surahNumber": 37,
+      "ayahNumber": 99,
+      "text": {
+        "simple": "وَقَالَ إِنِّي ذَاهِبٌ إِلَىٰ رَبِّي سَيَهْدِينِ",
+        "en_sahih": "English translation of [37:99] in Sahih International style.",
+        "en_yusufali": "English translation of [37:99] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 99 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:99] en español.",
+        "fr_hamidullah": "Traduction de [37:99] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 99 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:100",
+      "surahNumber": 37,
+      "ayahNumber": 100,
+      "text": {
+        "simple": "رَبِّ هَبْ لِي مِنَ الصَّالِحِينَ",
+        "en_sahih": "English translation of [37:100] in Sahih International style.",
+        "en_yusufali": "English translation of [37:100] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 100 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:100] en español.",
+        "fr_hamidullah": "Traduction de [37:100] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 100 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:101",
+      "surahNumber": 37,
+      "ayahNumber": 101,
+      "text": {
+        "simple": "فَبَشَّرْنَاهُ بِغُلَامٍ حَلِيمٍ",
+        "en_sahih": "English translation of [37:101] in Sahih International style.",
+        "en_yusufali": "English translation of [37:101] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 101 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:101] en español.",
+        "fr_hamidullah": "Traduction de [37:101] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 101 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:102",
+      "surahNumber": 37,
+      "ayahNumber": 102,
+      "text": {
+        "simple": "فَلَمَّا بَلَغَ مَعَهُ السَّعْيَ قَالَ يَا بُنَيَّ إِنِّي أَرَىٰ فِي الْمَنَامِ أَنِّي أَذْبَحُكَ فَانْظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَا أَبَتِ افْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِي إِنْ شَاءَ اللَّهُ مِنَ الصَّابِرِينَ",
+        "en_sahih": "English translation of [37:102] in Sahih International style.",
+        "en_yusufali": "English translation of [37:102] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 102 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:102] en español.",
+        "fr_hamidullah": "Traduction de [37:102] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 102 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:103",
+      "surahNumber": 37,
+      "ayahNumber": 103,
+      "text": {
+        "simple": "فَلَمَّا أَسْلَمَا وَتَلَّهُ لِلْجَبِينِ",
+        "en_sahih": "English translation of [37:103] in Sahih International style.",
+        "en_yusufali": "English translation of [37:103] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 103 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:103] en español.",
+        "fr_hamidullah": "Traduction de [37:103] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 103 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:104",
+      "surahNumber": 37,
+      "ayahNumber": 104,
+      "text": {
+        "simple": "وَنَادَيْنَاهُ أَنْ يَا إِبْرَاهِيمُ",
+        "en_sahih": "English translation of [37:104] in Sahih International style.",
+        "en_yusufali": "English translation of [37:104] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 104 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:104] en español.",
+        "fr_hamidullah": "Traduction de [37:104] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 104 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:105",
+      "surahNumber": 37,
+      "ayahNumber": 105,
+      "text": {
+        "simple": "قَدْ صَدَّقْتَ الرُّؤْيَا ۚ إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ",
+        "en_sahih": "English translation of [37:105] in Sahih International style.",
+        "en_yusufali": "English translation of [37:105] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 105 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:105] en español.",
+        "fr_hamidullah": "Traduction de [37:105] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 105 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:106",
+      "surahNumber": 37,
+      "ayahNumber": 106,
+      "text": {
+        "simple": "إِنَّ هَٰذَا لَهُوَ الْبَلَاءُ الْمُبِينُ",
+        "en_sahih": "English translation of [37:106] in Sahih International style.",
+        "en_yusufali": "English translation of [37:106] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 106 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:106] en español.",
+        "fr_hamidullah": "Traduction de [37:106] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 106 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:107",
+      "surahNumber": 37,
+      "ayahNumber": 107,
+      "text": {
+        "simple": "وَفَدَيْنَاهُ بِذِبْحٍ عَظِيمٍ",
+        "en_sahih": "English translation of [37:107] in Sahih International style.",
+        "en_yusufali": "English translation of [37:107] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 107 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:107] en español.",
+        "fr_hamidullah": "Traduction de [37:107] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 107 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:108",
+      "surahNumber": 37,
+      "ayahNumber": 108,
+      "text": {
+        "simple": "وَتَرَكْنَا عَلَيْهِ فِي الْآخِرِينَ",
+        "en_sahih": "English translation of [37:108] in Sahih International style.",
+        "en_yusufali": "English translation of [37:108] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 108 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:108] en español.",
+        "fr_hamidullah": "Traduction de [37:108] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 108 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:109",
+      "surahNumber": 37,
+      "ayahNumber": 109,
+      "text": {
+        "simple": "سَلَامٌ عَلَىٰ إِبْرَاهِيمَ",
+        "en_sahih": "English translation of [37:109] in Sahih International style.",
+        "en_yusufali": "English translation of [37:109] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 109 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:109] en español.",
+        "fr_hamidullah": "Traduction de [37:109] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 109 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:110",
+      "surahNumber": 37,
+      "ayahNumber": 110,
+      "text": {
+        "simple": "كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ",
+        "en_sahih": "English translation of [37:110] in Sahih International style.",
+        "en_yusufali": "English translation of [37:110] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 110 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:110] en español.",
+        "fr_hamidullah": "Traduction de [37:110] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 110 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:111",
+      "surahNumber": 37,
+      "ayahNumber": 111,
+      "text": {
+        "simple": "إِنَّهُ مِنْ عِبَادِنَا الْمُؤْمِنِينَ",
+        "en_sahih": "English translation of [37:111] in Sahih International style.",
+        "en_yusufali": "English translation of [37:111] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 111 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:111] en español.",
+        "fr_hamidullah": "Traduction de [37:111] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 111 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:112",
+      "surahNumber": 37,
+      "ayahNumber": 112,
+      "text": {
+        "simple": "وَبَشَّرْنَاهُ بِإِسْحَاقَ نَبِيًّا مِنَ الصَّالِحِينَ",
+        "en_sahih": "English translation of [37:112] in Sahih International style.",
+        "en_yusufali": "English translation of [37:112] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 112 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:112] en español.",
+        "fr_hamidullah": "Traduction de [37:112] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 112 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:113",
+      "surahNumber": 37,
+      "ayahNumber": 113,
+      "text": {
+        "simple": "وَبَارَكْنَا عَلَيْهِ وَعَلَىٰ إِسْحَاقَ ۚ وَمِنْ ذُرِّيَّتِهِمَا مُحْسِنٌ وَظَالِمٌ لِنَفْسِهِ مُبِينٌ",
+        "en_sahih": "English translation of [37:113] in Sahih International style.",
+        "en_yusufali": "English translation of [37:113] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 113 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:113] en español.",
+        "fr_hamidullah": "Traduction de [37:113] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 113 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:114",
+      "surahNumber": 37,
+      "ayahNumber": 114,
+      "text": {
+        "simple": "وَلَقَدْ مَنَنَّا عَلَىٰ مُوسَىٰ وَهَارُونَ",
+        "en_sahih": "English translation of [37:114] in Sahih International style.",
+        "en_yusufali": "English translation of [37:114] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 114 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:114] en español.",
+        "fr_hamidullah": "Traduction de [37:114] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 114 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:115",
+      "surahNumber": 37,
+      "ayahNumber": 115,
+      "text": {
+        "simple": "وَنَجَّيْنَاهُمَا وَقَوْمَهُمَا مِنَ الْكَرْبِ الْعَظِيمِ",
+        "en_sahih": "English translation of [37:115] in Sahih International style.",
+        "en_yusufali": "English translation of [37:115] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 115 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:115] en español.",
+        "fr_hamidullah": "Traduction de [37:115] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 115 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:116",
+      "surahNumber": 37,
+      "ayahNumber": 116,
+      "text": {
+        "simple": "وَنَصَرْنَاهُمْ فَكَانُوا هُمُ الْغَالِبِينَ",
+        "en_sahih": "English translation of [37:116] in Sahih International style.",
+        "en_yusufali": "English translation of [37:116] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 116 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:116] en español.",
+        "fr_hamidullah": "Traduction de [37:116] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 116 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:117",
+      "surahNumber": 37,
+      "ayahNumber": 117,
+      "text": {
+        "simple": "وَآتَيْنَاهُمَا الْكِتَابَ الْمُسْتَبِينَ",
+        "en_sahih": "English translation of [37:117] in Sahih International style.",
+        "en_yusufali": "English translation of [37:117] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 117 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:117] en español.",
+        "fr_hamidullah": "Traduction de [37:117] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 117 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:118",
+      "surahNumber": 37,
+      "ayahNumber": 118,
+      "text": {
+        "simple": "وَهَدَيْنَاهُمَا الصِّرَاطَ الْمُسْتَقِيمَ",
+        "en_sahih": "English translation of [37:118] in Sahih International style.",
+        "en_yusufali": "English translation of [37:118] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 118 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:118] en español.",
+        "fr_hamidullah": "Traduction de [37:118] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 118 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:119",
+      "surahNumber": 37,
+      "ayahNumber": 119,
+      "text": {
+        "simple": "وَتَرَكْنَا عَلَيْهِمَا فِي الْآخِرِينَ",
+        "en_sahih": "English translation of [37:119] in Sahih International style.",
+        "en_yusufali": "English translation of [37:119] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 119 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:119] en español.",
+        "fr_hamidullah": "Traduction de [37:119] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 119 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:120",
+      "surahNumber": 37,
+      "ayahNumber": 120,
+      "text": {
+        "simple": "سَلَامٌ عَلَىٰ مُوسَىٰ وَهَارُونَ",
+        "en_sahih": "English translation of [37:120] in Sahih International style.",
+        "en_yusufali": "English translation of [37:120] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 120 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:120] en español.",
+        "fr_hamidullah": "Traduction de [37:120] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 120 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:121",
+      "surahNumber": 37,
+      "ayahNumber": 121,
+      "text": {
+        "simple": "إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ",
+        "en_sahih": "English translation of [37:121] in Sahih International style.",
+        "en_yusufali": "English translation of [37:121] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 121 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:121] en español.",
+        "fr_hamidullah": "Traduction de [37:121] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 121 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:122",
+      "surahNumber": 37,
+      "ayahNumber": 122,
+      "text": {
+        "simple": "إِنَّهُمَا مِنْ عِبَادِنَا الْمُؤْمِنِينَ",
+        "en_sahih": "English translation of [37:122] in Sahih International style.",
+        "en_yusufali": "English translation of [37:122] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 122 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:122] en español.",
+        "fr_hamidullah": "Traduction de [37:122] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 122 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:123",
+      "surahNumber": 37,
+      "ayahNumber": 123,
+      "text": {
+        "simple": "وَإِنَّ إِلْيَاسَ لَمِنَ الْمُرْسَلِينَ",
+        "en_sahih": "English translation of [37:123] in Sahih International style.",
+        "en_yusufali": "English translation of [37:123] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 123 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:123] en español.",
+        "fr_hamidullah": "Traduction de [37:123] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 123 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:124",
+      "surahNumber": 37,
+      "ayahNumber": 124,
+      "text": {
+        "simple": "إِذْ قَالَ لِقَوْمِهِ أَلَا تَتَّقُونَ",
+        "en_sahih": "English translation of [37:124] in Sahih International style.",
+        "en_yusufali": "English translation of [37:124] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 124 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:124] en español.",
+        "fr_hamidullah": "Traduction de [37:124] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 124 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:125",
+      "surahNumber": 37,
+      "ayahNumber": 125,
+      "text": {
+        "simple": "أَتَدْعُونَ بَعْلًا وَتَذَرُونَ أَحْسَنَ الْخَالِقِينَ",
+        "en_sahih": "English translation of [37:125] in Sahih International style.",
+        "en_yusufali": "English translation of [37:125] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 125 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:125] en español.",
+        "fr_hamidullah": "Traduction de [37:125] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 125 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:126",
+      "surahNumber": 37,
+      "ayahNumber": 126,
+      "text": {
+        "simple": "اللَّهَ رَبَّكُمْ وَرَبَّ آبَائِكُمُ الْأَوَّلِينَ",
+        "en_sahih": "English translation of [37:126] in Sahih International style.",
+        "en_yusufali": "English translation of [37:126] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 126 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:126] en español.",
+        "fr_hamidullah": "Traduction de [37:126] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 126 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:127",
+      "surahNumber": 37,
+      "ayahNumber": 127,
+      "text": {
+        "simple": "فَكَذَّبُوهُ فَإِنَّهُمْ لَمُحْضَرُونَ",
+        "en_sahih": "English translation of [37:127] in Sahih International style.",
+        "en_yusufali": "English translation of [37:127] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 127 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:127] en español.",
+        "fr_hamidullah": "Traduction de [37:127] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 127 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:128",
+      "surahNumber": 37,
+      "ayahNumber": 128,
+      "text": {
+        "simple": "إِلَّا عِبَادَ اللَّهِ الْمُخْلَصِينَ",
+        "en_sahih": "English translation of [37:128] in Sahih International style.",
+        "en_yusufali": "English translation of [37:128] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 128 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:128] en español.",
+        "fr_hamidullah": "Traduction de [37:128] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 128 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:129",
+      "surahNumber": 37,
+      "ayahNumber": 129,
+      "text": {
+        "simple": "وَتَرَكْنَا عَلَيْهِ فِي الْآخِرِينَ",
+        "en_sahih": "English translation of [37:129] in Sahih International style.",
+        "en_yusufali": "English translation of [37:129] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 129 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:129] en español.",
+        "fr_hamidullah": "Traduction de [37:129] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 129 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:130",
+      "surahNumber": 37,
+      "ayahNumber": 130,
+      "text": {
+        "simple": "سَلَامٌ عَلَىٰ إِلْ يَاسِينَ",
+        "en_sahih": "English translation of [37:130] in Sahih International style.",
+        "en_yusufali": "English translation of [37:130] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 130 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:130] en español.",
+        "fr_hamidullah": "Traduction de [37:130] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 130 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:131",
+      "surahNumber": 37,
+      "ayahNumber": 131,
+      "text": {
+        "simple": "إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ",
+        "en_sahih": "English translation of [37:131] in Sahih International style.",
+        "en_yusufali": "English translation of [37:131] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 131 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:131] en español.",
+        "fr_hamidullah": "Traduction de [37:131] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 131 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:132",
+      "surahNumber": 37,
+      "ayahNumber": 132,
+      "text": {
+        "simple": "إِنَّهُ مِنْ عِبَادِنَا الْمُؤْمِنِينَ",
+        "en_sahih": "English translation of [37:132] in Sahih International style.",
+        "en_yusufali": "English translation of [37:132] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 132 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:132] en español.",
+        "fr_hamidullah": "Traduction de [37:132] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 132 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:133",
+      "surahNumber": 37,
+      "ayahNumber": 133,
+      "text": {
+        "simple": "وَإِنَّ لُوطًا لَمِنَ الْمُرْسَلِينَ",
+        "en_sahih": "English translation of [37:133] in Sahih International style.",
+        "en_yusufali": "English translation of [37:133] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 133 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:133] en español.",
+        "fr_hamidullah": "Traduction de [37:133] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 133 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:134",
+      "surahNumber": 37,
+      "ayahNumber": 134,
+      "text": {
+        "simple": "إِذْ نَجَّيْنَاهُ وَأَهْلَهُ أَجْمَعِينَ",
+        "en_sahih": "English translation of [37:134] in Sahih International style.",
+        "en_yusufali": "English translation of [37:134] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 134 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:134] en español.",
+        "fr_hamidullah": "Traduction de [37:134] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 134 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:135",
+      "surahNumber": 37,
+      "ayahNumber": 135,
+      "text": {
+        "simple": "إِلَّا عَجُوزًا فِي الْغَابِرِينَ",
+        "en_sahih": "English translation of [37:135] in Sahih International style.",
+        "en_yusufali": "English translation of [37:135] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 135 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:135] en español.",
+        "fr_hamidullah": "Traduction de [37:135] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 135 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:136",
+      "surahNumber": 37,
+      "ayahNumber": 136,
+      "text": {
+        "simple": "ثُمَّ دَمَّرْنَا الْآخَرِينَ",
+        "en_sahih": "English translation of [37:136] in Sahih International style.",
+        "en_yusufali": "English translation of [37:136] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 136 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:136] en español.",
+        "fr_hamidullah": "Traduction de [37:136] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 136 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:137",
+      "surahNumber": 37,
+      "ayahNumber": 137,
+      "text": {
+        "simple": "وَإِنَّكُمْ لَتَمُرُّونَ عَلَيْهِمْ مُصْبِحِينَ",
+        "en_sahih": "English translation of [37:137] in Sahih International style.",
+        "en_yusufali": "English translation of [37:137] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 137 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:137] en español.",
+        "fr_hamidullah": "Traduction de [37:137] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 137 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:138",
+      "surahNumber": 37,
+      "ayahNumber": 138,
+      "text": {
+        "simple": "وَبِاللَّيْلِ ۗ أَفَلَا تَعْقِلُونَ",
+        "en_sahih": "English translation of [37:138] in Sahih International style.",
+        "en_yusufali": "English translation of [37:138] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 138 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:138] en español.",
+        "fr_hamidullah": "Traduction de [37:138] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 138 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:139",
+      "surahNumber": 37,
+      "ayahNumber": 139,
+      "text": {
+        "simple": "وَإِنَّ يُونُسَ لَمِنَ الْمُرْسَلِينَ",
+        "en_sahih": "English translation of [37:139] in Sahih International style.",
+        "en_yusufali": "English translation of [37:139] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 139 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:139] en español.",
+        "fr_hamidullah": "Traduction de [37:139] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 139 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:140",
+      "surahNumber": 37,
+      "ayahNumber": 140,
+      "text": {
+        "simple": "إِذْ أَبَقَ إِلَى الْفُلْكِ الْمَشْحُونِ",
+        "en_sahih": "English translation of [37:140] in Sahih International style.",
+        "en_yusufali": "English translation of [37:140] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 140 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:140] en español.",
+        "fr_hamidullah": "Traduction de [37:140] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 140 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:141",
+      "surahNumber": 37,
+      "ayahNumber": 141,
+      "text": {
+        "simple": "فَسَاهَمَ فَكَانَ مِنَ الْمُدْحَضِينَ",
+        "en_sahih": "English translation of [37:141] in Sahih International style.",
+        "en_yusufali": "English translation of [37:141] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 141 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:141] en español.",
+        "fr_hamidullah": "Traduction de [37:141] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 141 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:142",
+      "surahNumber": 37,
+      "ayahNumber": 142,
+      "text": {
+        "simple": "فَالْتَقَمَهُ الْحُوتُ وَهُوَ مُلِيمٌ",
+        "en_sahih": "English translation of [37:142] in Sahih International style.",
+        "en_yusufali": "English translation of [37:142] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 142 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:142] en español.",
+        "fr_hamidullah": "Traduction de [37:142] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 142 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:143",
+      "surahNumber": 37,
+      "ayahNumber": 143,
+      "text": {
+        "simple": "فَلَوْلَا أَنَّهُ كَانَ مِنَ الْمُسَبِّحِينَ",
+        "en_sahih": "English translation of [37:143] in Sahih International style.",
+        "en_yusufali": "English translation of [37:143] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 143 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:143] en español.",
+        "fr_hamidullah": "Traduction de [37:143] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 143 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:144",
+      "surahNumber": 37,
+      "ayahNumber": 144,
+      "text": {
+        "simple": "لَلَبِثَ فِي بَطْنِهِ إِلَىٰ يَوْمِ يُبْعَثُونَ",
+        "en_sahih": "English translation of [37:144] in Sahih International style.",
+        "en_yusufali": "English translation of [37:144] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 144 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:144] en español.",
+        "fr_hamidullah": "Traduction de [37:144] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 144 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:145",
+      "surahNumber": 37,
+      "ayahNumber": 145,
+      "text": {
+        "simple": "۞ فَنَبَذْنَاهُ بِالْعَرَاءِ وَهُوَ سَقِيمٌ",
+        "en_sahih": "English translation of [37:145] in Sahih International style.",
+        "en_yusufali": "English translation of [37:145] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 145 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:145] en español.",
+        "fr_hamidullah": "Traduction de [37:145] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 145 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:146",
+      "surahNumber": 37,
+      "ayahNumber": 146,
+      "text": {
+        "simple": "وَأَنْبَتْنَا عَلَيْهِ شَجَرَةً مِنْ يَقْطِينٍ",
+        "en_sahih": "English translation of [37:146] in Sahih International style.",
+        "en_yusufali": "English translation of [37:146] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 146 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:146] en español.",
+        "fr_hamidullah": "Traduction de [37:146] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 146 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:147",
+      "surahNumber": 37,
+      "ayahNumber": 147,
+      "text": {
+        "simple": "وَأَرْسَلْنَاهُ إِلَىٰ مِائَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+        "en_sahih": "English translation of [37:147] in Sahih International style.",
+        "en_yusufali": "English translation of [37:147] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 147 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:147] en español.",
+        "fr_hamidullah": "Traduction de [37:147] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 147 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:148",
+      "surahNumber": 37,
+      "ayahNumber": 148,
+      "text": {
+        "simple": "فَآمَنُوا فَمَتَّعْنَاهُمْ إِلَىٰ حِينٍ",
+        "en_sahih": "English translation of [37:148] in Sahih International style.",
+        "en_yusufali": "English translation of [37:148] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 148 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:148] en español.",
+        "fr_hamidullah": "Traduction de [37:148] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 148 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:149",
+      "surahNumber": 37,
+      "ayahNumber": 149,
+      "text": {
+        "simple": "فَاسْتَفْتِهِمْ أَلِرَبِّكَ الْبَنَاتُ وَلَهُمُ الْبَنُونَ",
+        "en_sahih": "English translation of [37:149] in Sahih International style.",
+        "en_yusufali": "English translation of [37:149] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 149 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:149] en español.",
+        "fr_hamidullah": "Traduction de [37:149] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 149 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:150",
+      "surahNumber": 37,
+      "ayahNumber": 150,
+      "text": {
+        "simple": "أَمْ خَلَقْنَا الْمَلَائِكَةَ إِنَاثًا وَهُمْ شَاهِدُونَ",
+        "en_sahih": "English translation of [37:150] in Sahih International style.",
+        "en_yusufali": "English translation of [37:150] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 150 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:150] en español.",
+        "fr_hamidullah": "Traduction de [37:150] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 150 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:151",
+      "surahNumber": 37,
+      "ayahNumber": 151,
+      "text": {
+        "simple": "أَلَا إِنَّهُمْ مِنْ إِفْكِهِمْ لَيَقُولُونَ",
+        "en_sahih": "English translation of [37:151] in Sahih International style.",
+        "en_yusufali": "English translation of [37:151] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 151 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:151] en español.",
+        "fr_hamidullah": "Traduction de [37:151] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 151 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:152",
+      "surahNumber": 37,
+      "ayahNumber": 152,
+      "text": {
+        "simple": "وَلَدَ اللَّهُ وَإِنَّهُمْ لَكَاذِبُونَ",
+        "en_sahih": "English translation of [37:152] in Sahih International style.",
+        "en_yusufali": "English translation of [37:152] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 152 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:152] en español.",
+        "fr_hamidullah": "Traduction de [37:152] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 152 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:153",
+      "surahNumber": 37,
+      "ayahNumber": 153,
+      "text": {
+        "simple": "أَصْطَفَى الْبَنَاتِ عَلَى الْبَنِينَ",
+        "en_sahih": "English translation of [37:153] in Sahih International style.",
+        "en_yusufali": "English translation of [37:153] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 153 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:153] en español.",
+        "fr_hamidullah": "Traduction de [37:153] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 153 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:154",
+      "surahNumber": 37,
+      "ayahNumber": 154,
+      "text": {
+        "simple": "مَا لَكُمْ كَيْفَ تَحْكُمُونَ",
+        "en_sahih": "English translation of [37:154] in Sahih International style.",
+        "en_yusufali": "English translation of [37:154] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 154 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:154] en español.",
+        "fr_hamidullah": "Traduction de [37:154] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 154 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:155",
+      "surahNumber": 37,
+      "ayahNumber": 155,
+      "text": {
+        "simple": "أَفَلَا تَذَكَّرُونَ",
+        "en_sahih": "English translation of [37:155] in Sahih International style.",
+        "en_yusufali": "English translation of [37:155] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 155 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:155] en español.",
+        "fr_hamidullah": "Traduction de [37:155] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 155 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:156",
+      "surahNumber": 37,
+      "ayahNumber": 156,
+      "text": {
+        "simple": "أَمْ لَكُمْ سُلْطَانٌ مُبِينٌ",
+        "en_sahih": "English translation of [37:156] in Sahih International style.",
+        "en_yusufali": "English translation of [37:156] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 156 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:156] en español.",
+        "fr_hamidullah": "Traduction de [37:156] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 156 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:157",
+      "surahNumber": 37,
+      "ayahNumber": 157,
+      "text": {
+        "simple": "فَأْتُوا بِكِتَابِكُمْ إِنْ كُنْتُمْ صَادِقِينَ",
+        "en_sahih": "English translation of [37:157] in Sahih International style.",
+        "en_yusufali": "English translation of [37:157] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 157 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:157] en español.",
+        "fr_hamidullah": "Traduction de [37:157] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 157 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:158",
+      "surahNumber": 37,
+      "ayahNumber": 158,
+      "text": {
+        "simple": "وَجَعَلُوا بَيْنَهُ وَبَيْنَ الْجِنَّةِ نَسَبًا ۚ وَلَقَدْ عَلِمَتِ الْجِنَّةُ إِنَّهُمْ لَمُحْضَرُونَ",
+        "en_sahih": "English translation of [37:158] in Sahih International style.",
+        "en_yusufali": "English translation of [37:158] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 158 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:158] en español.",
+        "fr_hamidullah": "Traduction de [37:158] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 158 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:159",
+      "surahNumber": 37,
+      "ayahNumber": 159,
+      "text": {
+        "simple": "سُبْحَانَ اللَّهِ عَمَّا يَصِفُونَ",
+        "en_sahih": "English translation of [37:159] in Sahih International style.",
+        "en_yusufali": "English translation of [37:159] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 159 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:159] en español.",
+        "fr_hamidullah": "Traduction de [37:159] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 159 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:160",
+      "surahNumber": 37,
+      "ayahNumber": 160,
+      "text": {
+        "simple": "إِلَّا عِبَادَ اللَّهِ الْمُخْلَصِينَ",
+        "en_sahih": "English translation of [37:160] in Sahih International style.",
+        "en_yusufali": "English translation of [37:160] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 160 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:160] en español.",
+        "fr_hamidullah": "Traduction de [37:160] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 160 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:161",
+      "surahNumber": 37,
+      "ayahNumber": 161,
+      "text": {
+        "simple": "فَإِنَّكُمْ وَمَا تَعْبُدُونَ",
+        "en_sahih": "English translation of [37:161] in Sahih International style.",
+        "en_yusufali": "English translation of [37:161] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 161 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:161] en español.",
+        "fr_hamidullah": "Traduction de [37:161] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 161 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:162",
+      "surahNumber": 37,
+      "ayahNumber": 162,
+      "text": {
+        "simple": "مَا أَنْتُمْ عَلَيْهِ بِفَاتِنِينَ",
+        "en_sahih": "English translation of [37:162] in Sahih International style.",
+        "en_yusufali": "English translation of [37:162] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 162 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:162] en español.",
+        "fr_hamidullah": "Traduction de [37:162] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 162 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:163",
+      "surahNumber": 37,
+      "ayahNumber": 163,
+      "text": {
+        "simple": "إِلَّا مَنْ هُوَ صَالِ الْجَحِيمِ",
+        "en_sahih": "English translation of [37:163] in Sahih International style.",
+        "en_yusufali": "English translation of [37:163] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 163 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:163] en español.",
+        "fr_hamidullah": "Traduction de [37:163] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 163 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:164",
+      "surahNumber": 37,
+      "ayahNumber": 164,
+      "text": {
+        "simple": "وَمَا مِنَّا إِلَّا لَهُ مَقَامٌ مَعْلُومٌ",
+        "en_sahih": "English translation of [37:164] in Sahih International style.",
+        "en_yusufali": "English translation of [37:164] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 164 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:164] en español.",
+        "fr_hamidullah": "Traduction de [37:164] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 164 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:165",
+      "surahNumber": 37,
+      "ayahNumber": 165,
+      "text": {
+        "simple": "وَإِنَّا لَنَحْنُ الصَّافُّونَ",
+        "en_sahih": "English translation of [37:165] in Sahih International style.",
+        "en_yusufali": "English translation of [37:165] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 165 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:165] en español.",
+        "fr_hamidullah": "Traduction de [37:165] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 165 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:166",
+      "surahNumber": 37,
+      "ayahNumber": 166,
+      "text": {
+        "simple": "وَإِنَّا لَنَحْنُ الْمُسَبِّحُونَ",
+        "en_sahih": "English translation of [37:166] in Sahih International style.",
+        "en_yusufali": "English translation of [37:166] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 166 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:166] en español.",
+        "fr_hamidullah": "Traduction de [37:166] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 166 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:167",
+      "surahNumber": 37,
+      "ayahNumber": 167,
+      "text": {
+        "simple": "وَإِنْ كَانُوا لَيَقُولُونَ",
+        "en_sahih": "English translation of [37:167] in Sahih International style.",
+        "en_yusufali": "English translation of [37:167] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 167 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:167] en español.",
+        "fr_hamidullah": "Traduction de [37:167] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 167 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:168",
+      "surahNumber": 37,
+      "ayahNumber": 168,
+      "text": {
+        "simple": "لَوْ أَنَّ عِنْدَنَا ذِكْرًا مِنَ الْأَوَّلِينَ",
+        "en_sahih": "English translation of [37:168] in Sahih International style.",
+        "en_yusufali": "English translation of [37:168] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 168 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:168] en español.",
+        "fr_hamidullah": "Traduction de [37:168] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 168 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:169",
+      "surahNumber": 37,
+      "ayahNumber": 169,
+      "text": {
+        "simple": "لَكُنَّا عِبَادَ اللَّهِ الْمُخْلَصِينَ",
+        "en_sahih": "English translation of [37:169] in Sahih International style.",
+        "en_yusufali": "English translation of [37:169] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 169 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:169] en español.",
+        "fr_hamidullah": "Traduction de [37:169] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 169 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:170",
+      "surahNumber": 37,
+      "ayahNumber": 170,
+      "text": {
+        "simple": "فَكَفَرُوا بِهِ ۖ فَسَوْفَ يَعْلَمُونَ",
+        "en_sahih": "English translation of [37:170] in Sahih International style.",
+        "en_yusufali": "English translation of [37:170] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 170 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:170] en español.",
+        "fr_hamidullah": "Traduction de [37:170] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 170 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:171",
+      "surahNumber": 37,
+      "ayahNumber": 171,
+      "text": {
+        "simple": "وَلَقَدْ سَبَقَتْ كَلِمَتُنَا لِعِبَادِنَا الْمُرْسَلِينَ",
+        "en_sahih": "English translation of [37:171] in Sahih International style.",
+        "en_yusufali": "English translation of [37:171] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 171 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:171] en español.",
+        "fr_hamidullah": "Traduction de [37:171] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 171 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:172",
+      "surahNumber": 37,
+      "ayahNumber": 172,
+      "text": {
+        "simple": "إِنَّهُمْ لَهُمُ الْمَنْصُورُونَ",
+        "en_sahih": "English translation of [37:172] in Sahih International style.",
+        "en_yusufali": "English translation of [37:172] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 172 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:172] en español.",
+        "fr_hamidullah": "Traduction de [37:172] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 172 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:173",
+      "surahNumber": 37,
+      "ayahNumber": 173,
+      "text": {
+        "simple": "وَإِنَّ جُنْدَنَا لَهُمُ الْغَالِبُونَ",
+        "en_sahih": "English translation of [37:173] in Sahih International style.",
+        "en_yusufali": "English translation of [37:173] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 173 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:173] en español.",
+        "fr_hamidullah": "Traduction de [37:173] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 173 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:174",
+      "surahNumber": 37,
+      "ayahNumber": 174,
+      "text": {
+        "simple": "فَتَوَلَّ عَنْهُمْ حَتَّىٰ حِينٍ",
+        "en_sahih": "English translation of [37:174] in Sahih International style.",
+        "en_yusufali": "English translation of [37:174] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 174 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:174] en español.",
+        "fr_hamidullah": "Traduction de [37:174] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 174 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:175",
+      "surahNumber": 37,
+      "ayahNumber": 175,
+      "text": {
+        "simple": "وَأَبْصِرْهُمْ فَسَوْفَ يُبْصِرُونَ",
+        "en_sahih": "English translation of [37:175] in Sahih International style.",
+        "en_yusufali": "English translation of [37:175] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 175 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:175] en español.",
+        "fr_hamidullah": "Traduction de [37:175] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 175 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:176",
+      "surahNumber": 37,
+      "ayahNumber": 176,
+      "text": {
+        "simple": "أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ",
+        "en_sahih": "English translation of [37:176] in Sahih International style.",
+        "en_yusufali": "English translation of [37:176] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 176 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:176] en español.",
+        "fr_hamidullah": "Traduction de [37:176] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 176 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:177",
+      "surahNumber": 37,
+      "ayahNumber": 177,
+      "text": {
+        "simple": "فَإِذَا نَزَلَ بِسَاحَتِهِمْ فَسَاءَ صَبَاحُ الْمُنْذَرِينَ",
+        "en_sahih": "English translation of [37:177] in Sahih International style.",
+        "en_yusufali": "English translation of [37:177] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 177 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:177] en español.",
+        "fr_hamidullah": "Traduction de [37:177] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 177 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:178",
+      "surahNumber": 37,
+      "ayahNumber": 178,
+      "text": {
+        "simple": "وَتَوَلَّ عَنْهُمْ حَتَّىٰ حِينٍ",
+        "en_sahih": "English translation of [37:178] in Sahih International style.",
+        "en_yusufali": "English translation of [37:178] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 178 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:178] en español.",
+        "fr_hamidullah": "Traduction de [37:178] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 178 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:179",
+      "surahNumber": 37,
+      "ayahNumber": 179,
+      "text": {
+        "simple": "وَأَبْصِرْ فَسَوْفَ يُبْصِرُونَ",
+        "en_sahih": "English translation of [37:179] in Sahih International style.",
+        "en_yusufali": "English translation of [37:179] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 179 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:179] en español.",
+        "fr_hamidullah": "Traduction de [37:179] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 179 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:180",
+      "surahNumber": 37,
+      "ayahNumber": 180,
+      "text": {
+        "simple": "سُبْحَانَ رَبِّكَ رَبِّ الْعِزَّةِ عَمَّا يَصِفُونَ",
+        "en_sahih": "English translation of [37:180] in Sahih International style.",
+        "en_yusufali": "English translation of [37:180] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 180 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:180] en español.",
+        "fr_hamidullah": "Traduction de [37:180] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 180 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:181",
+      "surahNumber": 37,
+      "ayahNumber": 181,
+      "text": {
+        "simple": "وَسَلَامٌ عَلَى الْمُرْسَلِينَ",
+        "en_sahih": "English translation of [37:181] in Sahih International style.",
+        "en_yusufali": "English translation of [37:181] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 181 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:181] en español.",
+        "fr_hamidullah": "Traduction de [37:181] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 181 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "37:182",
+      "surahNumber": 37,
+      "ayahNumber": 182,
+      "text": {
+        "simple": "وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+        "en_sahih": "English translation of [37:182] in Sahih International style.",
+        "en_yusufali": "English translation of [37:182] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 37 آیت 182 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [37:182] en español.",
+        "fr_hamidullah": "Traduction de [37:182] en français.",
+        "bn_hoque": "সূরা 37 আয়াত 182 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

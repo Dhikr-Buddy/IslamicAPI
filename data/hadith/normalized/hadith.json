@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T01:52:21.070Z",
+  "generatedAt": "2026-05-23T01:58:03.640Z",
   "collections": [
     {
       "id": "ara-abudawud",
@@ -743,5 +743,12 @@
       "retrievedAt": "2026-05-22T22:23:35.557Z"
     }
   ],
-  "hadiths": []
+  "hadiths": [],
+  "provenance": [
+    {
+      "source": "Fawaz Ahmed Hadith API",
+      "url": "https://github.com/fawazahmed0/hadith-api",
+      "license": "Unlicense"
+    }
+  ]
 }

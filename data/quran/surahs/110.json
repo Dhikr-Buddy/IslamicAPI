@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:58.006Z",
+  "surahNumber": 110,
+  "ayahCount": 3,
+  "ayahs": [
+    {
+      "id": "110:1",
+      "surahNumber": 110,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ",
+        "en_sahih": "English translation of [110:1] in Sahih International style.",
+        "en_yusufali": "English translation of [110:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 110 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [110:1] en español.",
+        "fr_hamidullah": "Traduction de [110:1] en français.",
+        "bn_hoque": "সূরা 110 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "110:2",
+      "surahNumber": 110,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا",
+        "en_sahih": "English translation of [110:2] in Sahih International style.",
+        "en_yusufali": "English translation of [110:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 110 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [110:2] en español.",
+        "fr_hamidullah": "Traduction de [110:2] en français.",
+        "bn_hoque": "সূরা 110 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "110:3",
+      "surahNumber": 110,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا",
+        "en_sahih": "English translation of [110:3] in Sahih International style.",
+        "en_yusufali": "English translation of [110:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 110 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [110:3] en español.",
+        "fr_hamidullah": "Traduction de [110:3] en français.",
+        "bn_hoque": "সূরা 110 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

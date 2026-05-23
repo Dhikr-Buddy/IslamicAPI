@@ -310,6 +310,7 @@ export function createRawDataClient(options = {}) {
     loadHadith: () => load("hadith"),
     loadAudio: () => load("audio"),
     loadFonts: () => load("fonts"),
+    loadSurah: (number) => fetchJsonUrl(githubRawUrl(`data/quran/surahs/${number}.json`, options), fetchImpl),
     rawUrl: (filePath) => githubRawUrl(filePath, options)
   };
 }

@@ -1,0 +1,1359 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.992Z",
+  "surahNumber": 56,
+  "ayahCount": 96,
+  "ayahs": [
+    {
+      "id": "56:1",
+      "surahNumber": 56,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ إِذَا وَقَعَتِ الْوَاقِعَةُ",
+        "en_sahih": "English translation of [56:1] in Sahih International style.",
+        "en_yusufali": "English translation of [56:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:1] en español.",
+        "fr_hamidullah": "Traduction de [56:1] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:2",
+      "surahNumber": 56,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ",
+        "en_sahih": "English translation of [56:2] in Sahih International style.",
+        "en_yusufali": "English translation of [56:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:2] en español.",
+        "fr_hamidullah": "Traduction de [56:2] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:3",
+      "surahNumber": 56,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "خَافِضَةٌ رَافِعَةٌ",
+        "en_sahih": "English translation of [56:3] in Sahih International style.",
+        "en_yusufali": "English translation of [56:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:3] en español.",
+        "fr_hamidullah": "Traduction de [56:3] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:4",
+      "surahNumber": 56,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "إِذَا رُجَّتِ الْأَرْضُ رَجًّا",
+        "en_sahih": "English translation of [56:4] in Sahih International style.",
+        "en_yusufali": "English translation of [56:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:4] en español.",
+        "fr_hamidullah": "Traduction de [56:4] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:5",
+      "surahNumber": 56,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "وَبُسَّتِ الْجِبَالُ بَسًّا",
+        "en_sahih": "English translation of [56:5] in Sahih International style.",
+        "en_yusufali": "English translation of [56:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:5] en español.",
+        "fr_hamidullah": "Traduction de [56:5] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:6",
+      "surahNumber": 56,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "فَكَانَتْ هَبَاءً مُنْبَثًّا",
+        "en_sahih": "English translation of [56:6] in Sahih International style.",
+        "en_yusufali": "English translation of [56:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:6] en español.",
+        "fr_hamidullah": "Traduction de [56:6] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:7",
+      "surahNumber": 56,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "وَكُنْتُمْ أَزْوَاجًا ثَلَاثَةً",
+        "en_sahih": "English translation of [56:7] in Sahih International style.",
+        "en_yusufali": "English translation of [56:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:7] en español.",
+        "fr_hamidullah": "Traduction de [56:7] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:8",
+      "surahNumber": 56,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "فَأَصْحَابُ الْمَيْمَنَةِ مَا أَصْحَابُ الْمَيْمَنَةِ",
+        "en_sahih": "English translation of [56:8] in Sahih International style.",
+        "en_yusufali": "English translation of [56:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:8] en español.",
+        "fr_hamidullah": "Traduction de [56:8] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:9",
+      "surahNumber": 56,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "وَأَصْحَابُ الْمَشْأَمَةِ مَا أَصْحَابُ الْمَشْأَمَةِ",
+        "en_sahih": "English translation of [56:9] in Sahih International style.",
+        "en_yusufali": "English translation of [56:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:9] en español.",
+        "fr_hamidullah": "Traduction de [56:9] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:10",
+      "surahNumber": 56,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "وَالسَّابِقُونَ السَّابِقُونَ",
+        "en_sahih": "English translation of [56:10] in Sahih International style.",
+        "en_yusufali": "English translation of [56:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:10] en español.",
+        "fr_hamidullah": "Traduction de [56:10] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:11",
+      "surahNumber": 56,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "أُولَٰئِكَ الْمُقَرَّبُونَ",
+        "en_sahih": "English translation of [56:11] in Sahih International style.",
+        "en_yusufali": "English translation of [56:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:11] en español.",
+        "fr_hamidullah": "Traduction de [56:11] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:12",
+      "surahNumber": 56,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "فِي جَنَّاتِ النَّعِيمِ",
+        "en_sahih": "English translation of [56:12] in Sahih International style.",
+        "en_yusufali": "English translation of [56:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:12] en español.",
+        "fr_hamidullah": "Traduction de [56:12] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:13",
+      "surahNumber": 56,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "ثُلَّةٌ مِنَ الْأَوَّلِينَ",
+        "en_sahih": "English translation of [56:13] in Sahih International style.",
+        "en_yusufali": "English translation of [56:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:13] en español.",
+        "fr_hamidullah": "Traduction de [56:13] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:14",
+      "surahNumber": 56,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "وَقَلِيلٌ مِنَ الْآخِرِينَ",
+        "en_sahih": "English translation of [56:14] in Sahih International style.",
+        "en_yusufali": "English translation of [56:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:14] en español.",
+        "fr_hamidullah": "Traduction de [56:14] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:15",
+      "surahNumber": 56,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "عَلَىٰ سُرُرٍ مَوْضُونَةٍ",
+        "en_sahih": "English translation of [56:15] in Sahih International style.",
+        "en_yusufali": "English translation of [56:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:15] en español.",
+        "fr_hamidullah": "Traduction de [56:15] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:16",
+      "surahNumber": 56,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "مُتَّكِئِينَ عَلَيْهَا مُتَقَابِلِينَ",
+        "en_sahih": "English translation of [56:16] in Sahih International style.",
+        "en_yusufali": "English translation of [56:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:16] en español.",
+        "fr_hamidullah": "Traduction de [56:16] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:17",
+      "surahNumber": 56,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "يَطُوفُ عَلَيْهِمْ وِلْدَانٌ مُخَلَّدُونَ",
+        "en_sahih": "English translation of [56:17] in Sahih International style.",
+        "en_yusufali": "English translation of [56:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:17] en español.",
+        "fr_hamidullah": "Traduction de [56:17] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:18",
+      "surahNumber": 56,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "بِأَكْوَابٍ وَأَبَارِيقَ وَكَأْسٍ مِنْ مَعِينٍ",
+        "en_sahih": "English translation of [56:18] in Sahih International style.",
+        "en_yusufali": "English translation of [56:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:18] en español.",
+        "fr_hamidullah": "Traduction de [56:18] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:19",
+      "surahNumber": 56,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "لَا يُصَدَّعُونَ عَنْهَا وَلَا يُنْزِفُونَ",
+        "en_sahih": "English translation of [56:19] in Sahih International style.",
+        "en_yusufali": "English translation of [56:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:19] en español.",
+        "fr_hamidullah": "Traduction de [56:19] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:20",
+      "surahNumber": 56,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "وَفَاكِهَةٍ مِمَّا يَتَخَيَّرُونَ",
+        "en_sahih": "English translation of [56:20] in Sahih International style.",
+        "en_yusufali": "English translation of [56:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:20] en español.",
+        "fr_hamidullah": "Traduction de [56:20] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:21",
+      "surahNumber": 56,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "وَلَحْمِ طَيْرٍ مِمَّا يَشْتَهُونَ",
+        "en_sahih": "English translation of [56:21] in Sahih International style.",
+        "en_yusufali": "English translation of [56:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:21] en español.",
+        "fr_hamidullah": "Traduction de [56:21] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:22",
+      "surahNumber": 56,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "وَحُورٌ عِينٌ",
+        "en_sahih": "English translation of [56:22] in Sahih International style.",
+        "en_yusufali": "English translation of [56:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:22] en español.",
+        "fr_hamidullah": "Traduction de [56:22] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:23",
+      "surahNumber": 56,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "كَأَمْثَالِ اللُّؤْلُؤِ الْمَكْنُونِ",
+        "en_sahih": "English translation of [56:23] in Sahih International style.",
+        "en_yusufali": "English translation of [56:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:23] en español.",
+        "fr_hamidullah": "Traduction de [56:23] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:24",
+      "surahNumber": 56,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "جَزَاءً بِمَا كَانُوا يَعْمَلُونَ",
+        "en_sahih": "English translation of [56:24] in Sahih International style.",
+        "en_yusufali": "English translation of [56:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:24] en español.",
+        "fr_hamidullah": "Traduction de [56:24] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:25",
+      "surahNumber": 56,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا تَأْثِيمًا",
+        "en_sahih": "English translation of [56:25] in Sahih International style.",
+        "en_yusufali": "English translation of [56:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:25] en español.",
+        "fr_hamidullah": "Traduction de [56:25] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:26",
+      "surahNumber": 56,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "إِلَّا قِيلًا سَلَامًا سَلَامًا",
+        "en_sahih": "English translation of [56:26] in Sahih International style.",
+        "en_yusufali": "English translation of [56:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:26] en español.",
+        "fr_hamidullah": "Traduction de [56:26] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:27",
+      "surahNumber": 56,
+      "ayahNumber": 27,
+      "text": {
+        "simple": "وَأَصْحَابُ الْيَمِينِ مَا أَصْحَابُ الْيَمِينِ",
+        "en_sahih": "English translation of [56:27] in Sahih International style.",
+        "en_yusufali": "English translation of [56:27] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:27] en español.",
+        "fr_hamidullah": "Traduction de [56:27] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:28",
+      "surahNumber": 56,
+      "ayahNumber": 28,
+      "text": {
+        "simple": "فِي سِدْرٍ مَخْضُودٍ",
+        "en_sahih": "English translation of [56:28] in Sahih International style.",
+        "en_yusufali": "English translation of [56:28] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:28] en español.",
+        "fr_hamidullah": "Traduction de [56:28] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:29",
+      "surahNumber": 56,
+      "ayahNumber": 29,
+      "text": {
+        "simple": "وَطَلْحٍ مَنْضُودٍ",
+        "en_sahih": "English translation of [56:29] in Sahih International style.",
+        "en_yusufali": "English translation of [56:29] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:29] en español.",
+        "fr_hamidullah": "Traduction de [56:29] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:30",
+      "surahNumber": 56,
+      "ayahNumber": 30,
+      "text": {
+        "simple": "وَظِلٍّ مَمْدُودٍ",
+        "en_sahih": "English translation of [56:30] in Sahih International style.",
+        "en_yusufali": "English translation of [56:30] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:30] en español.",
+        "fr_hamidullah": "Traduction de [56:30] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:31",
+      "surahNumber": 56,
+      "ayahNumber": 31,
+      "text": {
+        "simple": "وَمَاءٍ مَسْكُوبٍ",
+        "en_sahih": "English translation of [56:31] in Sahih International style.",
+        "en_yusufali": "English translation of [56:31] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:31] en español.",
+        "fr_hamidullah": "Traduction de [56:31] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:32",
+      "surahNumber": 56,
+      "ayahNumber": 32,
+      "text": {
+        "simple": "وَفَاكِهَةٍ كَثِيرَةٍ",
+        "en_sahih": "English translation of [56:32] in Sahih International style.",
+        "en_yusufali": "English translation of [56:32] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:32] en español.",
+        "fr_hamidullah": "Traduction de [56:32] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:33",
+      "surahNumber": 56,
+      "ayahNumber": 33,
+      "text": {
+        "simple": "لَا مَقْطُوعَةٍ وَلَا مَمْنُوعَةٍ",
+        "en_sahih": "English translation of [56:33] in Sahih International style.",
+        "en_yusufali": "English translation of [56:33] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:33] en español.",
+        "fr_hamidullah": "Traduction de [56:33] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:34",
+      "surahNumber": 56,
+      "ayahNumber": 34,
+      "text": {
+        "simple": "وَفُرُشٍ مَرْفُوعَةٍ",
+        "en_sahih": "English translation of [56:34] in Sahih International style.",
+        "en_yusufali": "English translation of [56:34] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:34] en español.",
+        "fr_hamidullah": "Traduction de [56:34] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:35",
+      "surahNumber": 56,
+      "ayahNumber": 35,
+      "text": {
+        "simple": "إِنَّا أَنْشَأْنَاهُنَّ إِنْشَاءً",
+        "en_sahih": "English translation of [56:35] in Sahih International style.",
+        "en_yusufali": "English translation of [56:35] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:35] en español.",
+        "fr_hamidullah": "Traduction de [56:35] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:36",
+      "surahNumber": 56,
+      "ayahNumber": 36,
+      "text": {
+        "simple": "فَجَعَلْنَاهُنَّ أَبْكَارًا",
+        "en_sahih": "English translation of [56:36] in Sahih International style.",
+        "en_yusufali": "English translation of [56:36] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:36] en español.",
+        "fr_hamidullah": "Traduction de [56:36] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:37",
+      "surahNumber": 56,
+      "ayahNumber": 37,
+      "text": {
+        "simple": "عُرُبًا أَتْرَابًا",
+        "en_sahih": "English translation of [56:37] in Sahih International style.",
+        "en_yusufali": "English translation of [56:37] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:37] en español.",
+        "fr_hamidullah": "Traduction de [56:37] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:38",
+      "surahNumber": 56,
+      "ayahNumber": 38,
+      "text": {
+        "simple": "لِأَصْحَابِ الْيَمِينِ",
+        "en_sahih": "English translation of [56:38] in Sahih International style.",
+        "en_yusufali": "English translation of [56:38] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 38 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:38] en español.",
+        "fr_hamidullah": "Traduction de [56:38] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:39",
+      "surahNumber": 56,
+      "ayahNumber": 39,
+      "text": {
+        "simple": "ثُلَّةٌ مِنَ الْأَوَّلِينَ",
+        "en_sahih": "English translation of [56:39] in Sahih International style.",
+        "en_yusufali": "English translation of [56:39] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 39 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:39] en español.",
+        "fr_hamidullah": "Traduction de [56:39] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:40",
+      "surahNumber": 56,
+      "ayahNumber": 40,
+      "text": {
+        "simple": "وَثُلَّةٌ مِنَ الْآخِرِينَ",
+        "en_sahih": "English translation of [56:40] in Sahih International style.",
+        "en_yusufali": "English translation of [56:40] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 40 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:40] en español.",
+        "fr_hamidullah": "Traduction de [56:40] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:41",
+      "surahNumber": 56,
+      "ayahNumber": 41,
+      "text": {
+        "simple": "وَأَصْحَابُ الشِّمَالِ مَا أَصْحَابُ الشِّمَالِ",
+        "en_sahih": "English translation of [56:41] in Sahih International style.",
+        "en_yusufali": "English translation of [56:41] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 41 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:41] en español.",
+        "fr_hamidullah": "Traduction de [56:41] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:42",
+      "surahNumber": 56,
+      "ayahNumber": 42,
+      "text": {
+        "simple": "فِي سَمُومٍ وَحَمِيمٍ",
+        "en_sahih": "English translation of [56:42] in Sahih International style.",
+        "en_yusufali": "English translation of [56:42] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 42 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:42] en español.",
+        "fr_hamidullah": "Traduction de [56:42] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:43",
+      "surahNumber": 56,
+      "ayahNumber": 43,
+      "text": {
+        "simple": "وَظِلٍّ مِنْ يَحْمُومٍ",
+        "en_sahih": "English translation of [56:43] in Sahih International style.",
+        "en_yusufali": "English translation of [56:43] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 43 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:43] en español.",
+        "fr_hamidullah": "Traduction de [56:43] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:44",
+      "surahNumber": 56,
+      "ayahNumber": 44,
+      "text": {
+        "simple": "لَا بَارِدٍ وَلَا كَرِيمٍ",
+        "en_sahih": "English translation of [56:44] in Sahih International style.",
+        "en_yusufali": "English translation of [56:44] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 44 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:44] en español.",
+        "fr_hamidullah": "Traduction de [56:44] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:45",
+      "surahNumber": 56,
+      "ayahNumber": 45,
+      "text": {
+        "simple": "إِنَّهُمْ كَانُوا قَبْلَ ذَٰلِكَ مُتْرَفِينَ",
+        "en_sahih": "English translation of [56:45] in Sahih International style.",
+        "en_yusufali": "English translation of [56:45] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 45 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:45] en español.",
+        "fr_hamidullah": "Traduction de [56:45] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:46",
+      "surahNumber": 56,
+      "ayahNumber": 46,
+      "text": {
+        "simple": "وَكَانُوا يُصِرُّونَ عَلَى الْحِنْثِ الْعَظِيمِ",
+        "en_sahih": "English translation of [56:46] in Sahih International style.",
+        "en_yusufali": "English translation of [56:46] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 46 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:46] en español.",
+        "fr_hamidullah": "Traduction de [56:46] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:47",
+      "surahNumber": 56,
+      "ayahNumber": 47,
+      "text": {
+        "simple": "وَكَانُوا يَقُولُونَ أَئِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَبْعُوثُونَ",
+        "en_sahih": "English translation of [56:47] in Sahih International style.",
+        "en_yusufali": "English translation of [56:47] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 47 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:47] en español.",
+        "fr_hamidullah": "Traduction de [56:47] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:48",
+      "surahNumber": 56,
+      "ayahNumber": 48,
+      "text": {
+        "simple": "أَوَآبَاؤُنَا الْأَوَّلُونَ",
+        "en_sahih": "English translation of [56:48] in Sahih International style.",
+        "en_yusufali": "English translation of [56:48] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 48 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:48] en español.",
+        "fr_hamidullah": "Traduction de [56:48] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:49",
+      "surahNumber": 56,
+      "ayahNumber": 49,
+      "text": {
+        "simple": "قُلْ إِنَّ الْأَوَّلِينَ وَالْآخِرِينَ",
+        "en_sahih": "English translation of [56:49] in Sahih International style.",
+        "en_yusufali": "English translation of [56:49] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 49 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:49] en español.",
+        "fr_hamidullah": "Traduction de [56:49] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:50",
+      "surahNumber": 56,
+      "ayahNumber": 50,
+      "text": {
+        "simple": "لَمَجْمُوعُونَ إِلَىٰ مِيقَاتِ يَوْمٍ مَعْلُومٍ",
+        "en_sahih": "English translation of [56:50] in Sahih International style.",
+        "en_yusufali": "English translation of [56:50] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 50 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:50] en español.",
+        "fr_hamidullah": "Traduction de [56:50] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:51",
+      "surahNumber": 56,
+      "ayahNumber": 51,
+      "text": {
+        "simple": "ثُمَّ إِنَّكُمْ أَيُّهَا الضَّالُّونَ الْمُكَذِّبُونَ",
+        "en_sahih": "English translation of [56:51] in Sahih International style.",
+        "en_yusufali": "English translation of [56:51] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 51 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:51] en español.",
+        "fr_hamidullah": "Traduction de [56:51] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:52",
+      "surahNumber": 56,
+      "ayahNumber": 52,
+      "text": {
+        "simple": "لَآكِلُونَ مِنْ شَجَرٍ مِنْ زَقُّومٍ",
+        "en_sahih": "English translation of [56:52] in Sahih International style.",
+        "en_yusufali": "English translation of [56:52] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 52 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:52] en español.",
+        "fr_hamidullah": "Traduction de [56:52] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:53",
+      "surahNumber": 56,
+      "ayahNumber": 53,
+      "text": {
+        "simple": "فَمَالِئُونَ مِنْهَا الْبُطُونَ",
+        "en_sahih": "English translation of [56:53] in Sahih International style.",
+        "en_yusufali": "English translation of [56:53] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 53 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:53] en español.",
+        "fr_hamidullah": "Traduction de [56:53] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 53 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:54",
+      "surahNumber": 56,
+      "ayahNumber": 54,
+      "text": {
+        "simple": "فَشَارِبُونَ عَلَيْهِ مِنَ الْحَمِيمِ",
+        "en_sahih": "English translation of [56:54] in Sahih International style.",
+        "en_yusufali": "English translation of [56:54] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 54 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:54] en español.",
+        "fr_hamidullah": "Traduction de [56:54] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 54 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:55",
+      "surahNumber": 56,
+      "ayahNumber": 55,
+      "text": {
+        "simple": "فَشَارِبُونَ شُرْبَ الْهِيمِ",
+        "en_sahih": "English translation of [56:55] in Sahih International style.",
+        "en_yusufali": "English translation of [56:55] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 55 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:55] en español.",
+        "fr_hamidullah": "Traduction de [56:55] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 55 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:56",
+      "surahNumber": 56,
+      "ayahNumber": 56,
+      "text": {
+        "simple": "هَٰذَا نُزُلُهُمْ يَوْمَ الدِّينِ",
+        "en_sahih": "English translation of [56:56] in Sahih International style.",
+        "en_yusufali": "English translation of [56:56] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 56 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:56] en español.",
+        "fr_hamidullah": "Traduction de [56:56] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 56 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:57",
+      "surahNumber": 56,
+      "ayahNumber": 57,
+      "text": {
+        "simple": "نَحْنُ خَلَقْنَاكُمْ فَلَوْلَا تُصَدِّقُونَ",
+        "en_sahih": "English translation of [56:57] in Sahih International style.",
+        "en_yusufali": "English translation of [56:57] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 57 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:57] en español.",
+        "fr_hamidullah": "Traduction de [56:57] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 57 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:58",
+      "surahNumber": 56,
+      "ayahNumber": 58,
+      "text": {
+        "simple": "أَفَرَأَيْتُمْ مَا تُمْنُونَ",
+        "en_sahih": "English translation of [56:58] in Sahih International style.",
+        "en_yusufali": "English translation of [56:58] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 58 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:58] en español.",
+        "fr_hamidullah": "Traduction de [56:58] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 58 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:59",
+      "surahNumber": 56,
+      "ayahNumber": 59,
+      "text": {
+        "simple": "أَأَنْتُمْ تَخْلُقُونَهُ أَمْ نَحْنُ الْخَالِقُونَ",
+        "en_sahih": "English translation of [56:59] in Sahih International style.",
+        "en_yusufali": "English translation of [56:59] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 59 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:59] en español.",
+        "fr_hamidullah": "Traduction de [56:59] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 59 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:60",
+      "surahNumber": 56,
+      "ayahNumber": 60,
+      "text": {
+        "simple": "نَحْنُ قَدَّرْنَا بَيْنَكُمُ الْمَوْتَ وَمَا نَحْنُ بِمَسْبُوقِينَ",
+        "en_sahih": "English translation of [56:60] in Sahih International style.",
+        "en_yusufali": "English translation of [56:60] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 60 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:60] en español.",
+        "fr_hamidullah": "Traduction de [56:60] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 60 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:61",
+      "surahNumber": 56,
+      "ayahNumber": 61,
+      "text": {
+        "simple": "عَلَىٰ أَنْ نُبَدِّلَ أَمْثَالَكُمْ وَنُنْشِئَكُمْ فِي مَا لَا تَعْلَمُونَ",
+        "en_sahih": "English translation of [56:61] in Sahih International style.",
+        "en_yusufali": "English translation of [56:61] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 61 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:61] en español.",
+        "fr_hamidullah": "Traduction de [56:61] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 61 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:62",
+      "surahNumber": 56,
+      "ayahNumber": 62,
+      "text": {
+        "simple": "وَلَقَدْ عَلِمْتُمُ النَّشْأَةَ الْأُولَىٰ فَلَوْلَا تَذَكَّرُونَ",
+        "en_sahih": "English translation of [56:62] in Sahih International style.",
+        "en_yusufali": "English translation of [56:62] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 62 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:62] en español.",
+        "fr_hamidullah": "Traduction de [56:62] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 62 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:63",
+      "surahNumber": 56,
+      "ayahNumber": 63,
+      "text": {
+        "simple": "أَفَرَأَيْتُمْ مَا تَحْرُثُونَ",
+        "en_sahih": "English translation of [56:63] in Sahih International style.",
+        "en_yusufali": "English translation of [56:63] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 63 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:63] en español.",
+        "fr_hamidullah": "Traduction de [56:63] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 63 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:64",
+      "surahNumber": 56,
+      "ayahNumber": 64,
+      "text": {
+        "simple": "أَأَنْتُمْ تَزْرَعُونَهُ أَمْ نَحْنُ الزَّارِعُونَ",
+        "en_sahih": "English translation of [56:64] in Sahih International style.",
+        "en_yusufali": "English translation of [56:64] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 64 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:64] en español.",
+        "fr_hamidullah": "Traduction de [56:64] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 64 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:65",
+      "surahNumber": 56,
+      "ayahNumber": 65,
+      "text": {
+        "simple": "لَوْ نَشَاءُ لَجَعَلْنَاهُ حُطَامًا فَظَلْتُمْ تَفَكَّهُونَ",
+        "en_sahih": "English translation of [56:65] in Sahih International style.",
+        "en_yusufali": "English translation of [56:65] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 65 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:65] en español.",
+        "fr_hamidullah": "Traduction de [56:65] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 65 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:66",
+      "surahNumber": 56,
+      "ayahNumber": 66,
+      "text": {
+        "simple": "إِنَّا لَمُغْرَمُونَ",
+        "en_sahih": "English translation of [56:66] in Sahih International style.",
+        "en_yusufali": "English translation of [56:66] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 66 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:66] en español.",
+        "fr_hamidullah": "Traduction de [56:66] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 66 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:67",
+      "surahNumber": 56,
+      "ayahNumber": 67,
+      "text": {
+        "simple": "بَلْ نَحْنُ مَحْرُومُونَ",
+        "en_sahih": "English translation of [56:67] in Sahih International style.",
+        "en_yusufali": "English translation of [56:67] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 67 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:67] en español.",
+        "fr_hamidullah": "Traduction de [56:67] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 67 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:68",
+      "surahNumber": 56,
+      "ayahNumber": 68,
+      "text": {
+        "simple": "أَفَرَأَيْتُمُ الْمَاءَ الَّذِي تَشْرَبُونَ",
+        "en_sahih": "English translation of [56:68] in Sahih International style.",
+        "en_yusufali": "English translation of [56:68] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 68 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:68] en español.",
+        "fr_hamidullah": "Traduction de [56:68] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 68 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:69",
+      "surahNumber": 56,
+      "ayahNumber": 69,
+      "text": {
+        "simple": "أَأَنْتُمْ أَنْزَلْتُمُوهُ مِنَ الْمُزْنِ أَمْ نَحْنُ الْمُنْزِلُونَ",
+        "en_sahih": "English translation of [56:69] in Sahih International style.",
+        "en_yusufali": "English translation of [56:69] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 69 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:69] en español.",
+        "fr_hamidullah": "Traduction de [56:69] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 69 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:70",
+      "surahNumber": 56,
+      "ayahNumber": 70,
+      "text": {
+        "simple": "لَوْ نَشَاءُ جَعَلْنَاهُ أُجَاجًا فَلَوْلَا تَشْكُرُونَ",
+        "en_sahih": "English translation of [56:70] in Sahih International style.",
+        "en_yusufali": "English translation of [56:70] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 70 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:70] en español.",
+        "fr_hamidullah": "Traduction de [56:70] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 70 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:71",
+      "surahNumber": 56,
+      "ayahNumber": 71,
+      "text": {
+        "simple": "أَفَرَأَيْتُمُ النَّارَ الَّتِي تُورُونَ",
+        "en_sahih": "English translation of [56:71] in Sahih International style.",
+        "en_yusufali": "English translation of [56:71] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 71 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:71] en español.",
+        "fr_hamidullah": "Traduction de [56:71] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 71 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:72",
+      "surahNumber": 56,
+      "ayahNumber": 72,
+      "text": {
+        "simple": "أَأَنْتُمْ أَنْشَأْتُمْ شَجَرَتَهَا أَمْ نَحْنُ الْمُنْشِئُونَ",
+        "en_sahih": "English translation of [56:72] in Sahih International style.",
+        "en_yusufali": "English translation of [56:72] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 72 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:72] en español.",
+        "fr_hamidullah": "Traduction de [56:72] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 72 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:73",
+      "surahNumber": 56,
+      "ayahNumber": 73,
+      "text": {
+        "simple": "نَحْنُ جَعَلْنَاهَا تَذْكِرَةً وَمَتَاعًا لِلْمُقْوِينَ",
+        "en_sahih": "English translation of [56:73] in Sahih International style.",
+        "en_yusufali": "English translation of [56:73] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 73 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:73] en español.",
+        "fr_hamidullah": "Traduction de [56:73] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 73 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:74",
+      "surahNumber": 56,
+      "ayahNumber": 74,
+      "text": {
+        "simple": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ",
+        "en_sahih": "English translation of [56:74] in Sahih International style.",
+        "en_yusufali": "English translation of [56:74] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 74 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:74] en español.",
+        "fr_hamidullah": "Traduction de [56:74] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 74 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:75",
+      "surahNumber": 56,
+      "ayahNumber": 75,
+      "text": {
+        "simple": "۞ فَلَا أُقْسِمُ بِمَوَاقِعِ النُّجُومِ",
+        "en_sahih": "English translation of [56:75] in Sahih International style.",
+        "en_yusufali": "English translation of [56:75] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 75 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:75] en español.",
+        "fr_hamidullah": "Traduction de [56:75] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 75 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:76",
+      "surahNumber": 56,
+      "ayahNumber": 76,
+      "text": {
+        "simple": "وَإِنَّهُ لَقَسَمٌ لَوْ تَعْلَمُونَ عَظِيمٌ",
+        "en_sahih": "English translation of [56:76] in Sahih International style.",
+        "en_yusufali": "English translation of [56:76] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 76 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:76] en español.",
+        "fr_hamidullah": "Traduction de [56:76] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 76 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:77",
+      "surahNumber": 56,
+      "ayahNumber": 77,
+      "text": {
+        "simple": "إِنَّهُ لَقُرْآنٌ كَرِيمٌ",
+        "en_sahih": "English translation of [56:77] in Sahih International style.",
+        "en_yusufali": "English translation of [56:77] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 77 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:77] en español.",
+        "fr_hamidullah": "Traduction de [56:77] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 77 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:78",
+      "surahNumber": 56,
+      "ayahNumber": 78,
+      "text": {
+        "simple": "فِي كِتَابٍ مَكْنُونٍ",
+        "en_sahih": "English translation of [56:78] in Sahih International style.",
+        "en_yusufali": "English translation of [56:78] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 78 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:78] en español.",
+        "fr_hamidullah": "Traduction de [56:78] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 78 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:79",
+      "surahNumber": 56,
+      "ayahNumber": 79,
+      "text": {
+        "simple": "لَا يَمَسُّهُ إِلَّا الْمُطَهَّرُونَ",
+        "en_sahih": "English translation of [56:79] in Sahih International style.",
+        "en_yusufali": "English translation of [56:79] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 79 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:79] en español.",
+        "fr_hamidullah": "Traduction de [56:79] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 79 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:80",
+      "surahNumber": 56,
+      "ayahNumber": 80,
+      "text": {
+        "simple": "تَنْزِيلٌ مِنْ رَبِّ الْعَالَمِينَ",
+        "en_sahih": "English translation of [56:80] in Sahih International style.",
+        "en_yusufali": "English translation of [56:80] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 80 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:80] en español.",
+        "fr_hamidullah": "Traduction de [56:80] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 80 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:81",
+      "surahNumber": 56,
+      "ayahNumber": 81,
+      "text": {
+        "simple": "أَفَبِهَٰذَا الْحَدِيثِ أَنْتُمْ مُدْهِنُونَ",
+        "en_sahih": "English translation of [56:81] in Sahih International style.",
+        "en_yusufali": "English translation of [56:81] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 81 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:81] en español.",
+        "fr_hamidullah": "Traduction de [56:81] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 81 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:82",
+      "surahNumber": 56,
+      "ayahNumber": 82,
+      "text": {
+        "simple": "وَتَجْعَلُونَ رِزْقَكُمْ أَنَّكُمْ تُكَذِّبُونَ",
+        "en_sahih": "English translation of [56:82] in Sahih International style.",
+        "en_yusufali": "English translation of [56:82] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 82 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:82] en español.",
+        "fr_hamidullah": "Traduction de [56:82] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 82 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:83",
+      "surahNumber": 56,
+      "ayahNumber": 83,
+      "text": {
+        "simple": "فَلَوْلَا إِذَا بَلَغَتِ الْحُلْقُومَ",
+        "en_sahih": "English translation of [56:83] in Sahih International style.",
+        "en_yusufali": "English translation of [56:83] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 83 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:83] en español.",
+        "fr_hamidullah": "Traduction de [56:83] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 83 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:84",
+      "surahNumber": 56,
+      "ayahNumber": 84,
+      "text": {
+        "simple": "وَأَنْتُمْ حِينَئِذٍ تَنْظُرُونَ",
+        "en_sahih": "English translation of [56:84] in Sahih International style.",
+        "en_yusufali": "English translation of [56:84] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 84 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:84] en español.",
+        "fr_hamidullah": "Traduction de [56:84] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 84 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:85",
+      "surahNumber": 56,
+      "ayahNumber": 85,
+      "text": {
+        "simple": "وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْكُمْ وَلَٰكِنْ لَا تُبْصِرُونَ",
+        "en_sahih": "English translation of [56:85] in Sahih International style.",
+        "en_yusufali": "English translation of [56:85] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 85 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:85] en español.",
+        "fr_hamidullah": "Traduction de [56:85] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 85 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:86",
+      "surahNumber": 56,
+      "ayahNumber": 86,
+      "text": {
+        "simple": "فَلَوْلَا إِنْ كُنْتُمْ غَيْرَ مَدِينِينَ",
+        "en_sahih": "English translation of [56:86] in Sahih International style.",
+        "en_yusufali": "English translation of [56:86] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 86 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:86] en español.",
+        "fr_hamidullah": "Traduction de [56:86] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 86 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:87",
+      "surahNumber": 56,
+      "ayahNumber": 87,
+      "text": {
+        "simple": "تَرْجِعُونَهَا إِنْ كُنْتُمْ صَادِقِينَ",
+        "en_sahih": "English translation of [56:87] in Sahih International style.",
+        "en_yusufali": "English translation of [56:87] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 87 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:87] en español.",
+        "fr_hamidullah": "Traduction de [56:87] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 87 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:88",
+      "surahNumber": 56,
+      "ayahNumber": 88,
+      "text": {
+        "simple": "فَأَمَّا إِنْ كَانَ مِنَ الْمُقَرَّبِينَ",
+        "en_sahih": "English translation of [56:88] in Sahih International style.",
+        "en_yusufali": "English translation of [56:88] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 88 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:88] en español.",
+        "fr_hamidullah": "Traduction de [56:88] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 88 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:89",
+      "surahNumber": 56,
+      "ayahNumber": 89,
+      "text": {
+        "simple": "فَرَوْحٌ وَرَيْحَانٌ وَجَنَّتُ نَعِيمٍ",
+        "en_sahih": "English translation of [56:89] in Sahih International style.",
+        "en_yusufali": "English translation of [56:89] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 89 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:89] en español.",
+        "fr_hamidullah": "Traduction de [56:89] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 89 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:90",
+      "surahNumber": 56,
+      "ayahNumber": 90,
+      "text": {
+        "simple": "وَأَمَّا إِنْ كَانَ مِنْ أَصْحَابِ الْيَمِينِ",
+        "en_sahih": "English translation of [56:90] in Sahih International style.",
+        "en_yusufali": "English translation of [56:90] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 90 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:90] en español.",
+        "fr_hamidullah": "Traduction de [56:90] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 90 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:91",
+      "surahNumber": 56,
+      "ayahNumber": 91,
+      "text": {
+        "simple": "فَسَلَامٌ لَكَ مِنْ أَصْحَابِ الْيَمِينِ",
+        "en_sahih": "English translation of [56:91] in Sahih International style.",
+        "en_yusufali": "English translation of [56:91] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 91 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:91] en español.",
+        "fr_hamidullah": "Traduction de [56:91] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 91 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:92",
+      "surahNumber": 56,
+      "ayahNumber": 92,
+      "text": {
+        "simple": "وَأَمَّا إِنْ كَانَ مِنَ الْمُكَذِّبِينَ الضَّالِّينَ",
+        "en_sahih": "English translation of [56:92] in Sahih International style.",
+        "en_yusufali": "English translation of [56:92] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 92 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:92] en español.",
+        "fr_hamidullah": "Traduction de [56:92] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 92 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:93",
+      "surahNumber": 56,
+      "ayahNumber": 93,
+      "text": {
+        "simple": "فَنُزُلٌ مِنْ حَمِيمٍ",
+        "en_sahih": "English translation of [56:93] in Sahih International style.",
+        "en_yusufali": "English translation of [56:93] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 93 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:93] en español.",
+        "fr_hamidullah": "Traduction de [56:93] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 93 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:94",
+      "surahNumber": 56,
+      "ayahNumber": 94,
+      "text": {
+        "simple": "وَتَصْلِيَةُ جَحِيمٍ",
+        "en_sahih": "English translation of [56:94] in Sahih International style.",
+        "en_yusufali": "English translation of [56:94] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 94 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:94] en español.",
+        "fr_hamidullah": "Traduction de [56:94] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 94 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:95",
+      "surahNumber": 56,
+      "ayahNumber": 95,
+      "text": {
+        "simple": "إِنَّ هَٰذَا لَهُوَ حَقُّ الْيَقِينِ",
+        "en_sahih": "English translation of [56:95] in Sahih International style.",
+        "en_yusufali": "English translation of [56:95] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 95 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:95] en español.",
+        "fr_hamidullah": "Traduction de [56:95] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 95 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "56:96",
+      "surahNumber": 56,
+      "ayahNumber": 96,
+      "text": {
+        "simple": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ",
+        "en_sahih": "English translation of [56:96] in Sahih International style.",
+        "en_yusufali": "English translation of [56:96] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 56 آیت 96 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [56:96] en español.",
+        "fr_hamidullah": "Traduction de [56:96] en français.",
+        "bn_hoque": "সূরা 56 আয়াত 96 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

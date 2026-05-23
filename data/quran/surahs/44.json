@@ -1,0 +1,841 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.987Z",
+  "surahNumber": 44,
+  "ayahCount": 59,
+  "ayahs": [
+    {
+      "id": "44:1",
+      "surahNumber": 44,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ حم",
+        "en_sahih": "English translation of [44:1] in Sahih International style.",
+        "en_yusufali": "English translation of [44:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:1] en español.",
+        "fr_hamidullah": "Traduction de [44:1] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:2",
+      "surahNumber": 44,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "وَالْكِتَابِ الْمُبِينِ",
+        "en_sahih": "English translation of [44:2] in Sahih International style.",
+        "en_yusufali": "English translation of [44:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:2] en español.",
+        "fr_hamidullah": "Traduction de [44:2] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:3",
+      "surahNumber": 44,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةٍ مُبَارَكَةٍ ۚ إِنَّا كُنَّا مُنْذِرِينَ",
+        "en_sahih": "English translation of [44:3] in Sahih International style.",
+        "en_yusufali": "English translation of [44:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:3] en español.",
+        "fr_hamidullah": "Traduction de [44:3] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:4",
+      "surahNumber": 44,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "فِيهَا يُفْرَقُ كُلُّ أَمْرٍ حَكِيمٍ",
+        "en_sahih": "English translation of [44:4] in Sahih International style.",
+        "en_yusufali": "English translation of [44:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:4] en español.",
+        "fr_hamidullah": "Traduction de [44:4] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:5",
+      "surahNumber": 44,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "أَمْرًا مِنْ عِنْدِنَا ۚ إِنَّا كُنَّا مُرْسِلِينَ",
+        "en_sahih": "English translation of [44:5] in Sahih International style.",
+        "en_yusufali": "English translation of [44:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:5] en español.",
+        "fr_hamidullah": "Traduction de [44:5] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:6",
+      "surahNumber": 44,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "رَحْمَةً مِنْ رَبِّكَ ۚ إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ",
+        "en_sahih": "English translation of [44:6] in Sahih International style.",
+        "en_yusufali": "English translation of [44:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:6] en español.",
+        "fr_hamidullah": "Traduction de [44:6] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:7",
+      "surahNumber": 44,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "رَبِّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا ۖ إِنْ كُنْتُمْ مُوقِنِينَ",
+        "en_sahih": "English translation of [44:7] in Sahih International style.",
+        "en_yusufali": "English translation of [44:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:7] en español.",
+        "fr_hamidullah": "Traduction de [44:7] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:8",
+      "surahNumber": 44,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "لَا إِلَٰهَ إِلَّا هُوَ يُحْيِي وَيُمِيتُ ۖ رَبُّكُمْ وَرَبُّ آبَائِكُمُ الْأَوَّلِينَ",
+        "en_sahih": "English translation of [44:8] in Sahih International style.",
+        "en_yusufali": "English translation of [44:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:8] en español.",
+        "fr_hamidullah": "Traduction de [44:8] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:9",
+      "surahNumber": 44,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "بَلْ هُمْ فِي شَكٍّ يَلْعَبُونَ",
+        "en_sahih": "English translation of [44:9] in Sahih International style.",
+        "en_yusufali": "English translation of [44:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:9] en español.",
+        "fr_hamidullah": "Traduction de [44:9] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:10",
+      "surahNumber": 44,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "فَارْتَقِبْ يَوْمَ تَأْتِي السَّمَاءُ بِدُخَانٍ مُبِينٍ",
+        "en_sahih": "English translation of [44:10] in Sahih International style.",
+        "en_yusufali": "English translation of [44:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:10] en español.",
+        "fr_hamidullah": "Traduction de [44:10] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:11",
+      "surahNumber": 44,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "يَغْشَى النَّاسَ ۖ هَٰذَا عَذَابٌ أَلِيمٌ",
+        "en_sahih": "English translation of [44:11] in Sahih International style.",
+        "en_yusufali": "English translation of [44:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:11] en español.",
+        "fr_hamidullah": "Traduction de [44:11] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:12",
+      "surahNumber": 44,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "رَبَّنَا اكْشِفْ عَنَّا الْعَذَابَ إِنَّا مُؤْمِنُونَ",
+        "en_sahih": "English translation of [44:12] in Sahih International style.",
+        "en_yusufali": "English translation of [44:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:12] en español.",
+        "fr_hamidullah": "Traduction de [44:12] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:13",
+      "surahNumber": 44,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "أَنَّىٰ لَهُمُ الذِّكْرَىٰ وَقَدْ جَاءَهُمْ رَسُولٌ مُبِينٌ",
+        "en_sahih": "English translation of [44:13] in Sahih International style.",
+        "en_yusufali": "English translation of [44:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:13] en español.",
+        "fr_hamidullah": "Traduction de [44:13] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:14",
+      "surahNumber": 44,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "ثُمَّ تَوَلَّوْا عَنْهُ وَقَالُوا مُعَلَّمٌ مَجْنُونٌ",
+        "en_sahih": "English translation of [44:14] in Sahih International style.",
+        "en_yusufali": "English translation of [44:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:14] en español.",
+        "fr_hamidullah": "Traduction de [44:14] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:15",
+      "surahNumber": 44,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "إِنَّا كَاشِفُو الْعَذَابِ قَلِيلًا ۚ إِنَّكُمْ عَائِدُونَ",
+        "en_sahih": "English translation of [44:15] in Sahih International style.",
+        "en_yusufali": "English translation of [44:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:15] en español.",
+        "fr_hamidullah": "Traduction de [44:15] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:16",
+      "surahNumber": 44,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "يَوْمَ نَبْطِشُ الْبَطْشَةَ الْكُبْرَىٰ إِنَّا مُنْتَقِمُونَ",
+        "en_sahih": "English translation of [44:16] in Sahih International style.",
+        "en_yusufali": "English translation of [44:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:16] en español.",
+        "fr_hamidullah": "Traduction de [44:16] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:17",
+      "surahNumber": 44,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "۞ وَلَقَدْ فَتَنَّا قَبْلَهُمْ قَوْمَ فِرْعَوْنَ وَجَاءَهُمْ رَسُولٌ كَرِيمٌ",
+        "en_sahih": "English translation of [44:17] in Sahih International style.",
+        "en_yusufali": "English translation of [44:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:17] en español.",
+        "fr_hamidullah": "Traduction de [44:17] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:18",
+      "surahNumber": 44,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "أَنْ أَدُّوا إِلَيَّ عِبَادَ اللَّهِ ۖ إِنِّي لَكُمْ رَسُولٌ أَمِينٌ",
+        "en_sahih": "English translation of [44:18] in Sahih International style.",
+        "en_yusufali": "English translation of [44:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:18] en español.",
+        "fr_hamidullah": "Traduction de [44:18] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:19",
+      "surahNumber": 44,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "وَأَنْ لَا تَعْلُوا عَلَى اللَّهِ ۖ إِنِّي آتِيكُمْ بِسُلْطَانٍ مُبِينٍ",
+        "en_sahih": "English translation of [44:19] in Sahih International style.",
+        "en_yusufali": "English translation of [44:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:19] en español.",
+        "fr_hamidullah": "Traduction de [44:19] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:20",
+      "surahNumber": 44,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "وَإِنِّي عُذْتُ بِرَبِّي وَرَبِّكُمْ أَنْ تَرْجُمُونِ",
+        "en_sahih": "English translation of [44:20] in Sahih International style.",
+        "en_yusufali": "English translation of [44:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:20] en español.",
+        "fr_hamidullah": "Traduction de [44:20] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:21",
+      "surahNumber": 44,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "وَإِنْ لَمْ تُؤْمِنُوا لِي فَاعْتَزِلُونِ",
+        "en_sahih": "English translation of [44:21] in Sahih International style.",
+        "en_yusufali": "English translation of [44:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:21] en español.",
+        "fr_hamidullah": "Traduction de [44:21] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:22",
+      "surahNumber": 44,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "فَدَعَا رَبَّهُ أَنَّ هَٰؤُلَاءِ قَوْمٌ مُجْرِمُونَ",
+        "en_sahih": "English translation of [44:22] in Sahih International style.",
+        "en_yusufali": "English translation of [44:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:22] en español.",
+        "fr_hamidullah": "Traduction de [44:22] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:23",
+      "surahNumber": 44,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "فَأَسْرِ بِعِبَادِي لَيْلًا إِنَّكُمْ مُتَّبَعُونَ",
+        "en_sahih": "English translation of [44:23] in Sahih International style.",
+        "en_yusufali": "English translation of [44:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:23] en español.",
+        "fr_hamidullah": "Traduction de [44:23] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:24",
+      "surahNumber": 44,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "وَاتْرُكِ الْبَحْرَ رَهْوًا ۖ إِنَّهُمْ جُنْدٌ مُغْرَقُونَ",
+        "en_sahih": "English translation of [44:24] in Sahih International style.",
+        "en_yusufali": "English translation of [44:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:24] en español.",
+        "fr_hamidullah": "Traduction de [44:24] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:25",
+      "surahNumber": 44,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "كَمْ تَرَكُوا مِنْ جَنَّاتٍ وَعُيُونٍ",
+        "en_sahih": "English translation of [44:25] in Sahih International style.",
+        "en_yusufali": "English translation of [44:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:25] en español.",
+        "fr_hamidullah": "Traduction de [44:25] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:26",
+      "surahNumber": 44,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "وَزُرُوعٍ وَمَقَامٍ كَرِيمٍ",
+        "en_sahih": "English translation of [44:26] in Sahih International style.",
+        "en_yusufali": "English translation of [44:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:26] en español.",
+        "fr_hamidullah": "Traduction de [44:26] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:27",
+      "surahNumber": 44,
+      "ayahNumber": 27,
+      "text": {
+        "simple": "وَنَعْمَةٍ كَانُوا فِيهَا فَاكِهِينَ",
+        "en_sahih": "English translation of [44:27] in Sahih International style.",
+        "en_yusufali": "English translation of [44:27] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:27] en español.",
+        "fr_hamidullah": "Traduction de [44:27] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:28",
+      "surahNumber": 44,
+      "ayahNumber": 28,
+      "text": {
+        "simple": "كَذَٰلِكَ ۖ وَأَوْرَثْنَاهَا قَوْمًا آخَرِينَ",
+        "en_sahih": "English translation of [44:28] in Sahih International style.",
+        "en_yusufali": "English translation of [44:28] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:28] en español.",
+        "fr_hamidullah": "Traduction de [44:28] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:29",
+      "surahNumber": 44,
+      "ayahNumber": 29,
+      "text": {
+        "simple": "فَمَا بَكَتْ عَلَيْهِمُ السَّمَاءُ وَالْأَرْضُ وَمَا كَانُوا مُنْظَرِينَ",
+        "en_sahih": "English translation of [44:29] in Sahih International style.",
+        "en_yusufali": "English translation of [44:29] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:29] en español.",
+        "fr_hamidullah": "Traduction de [44:29] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:30",
+      "surahNumber": 44,
+      "ayahNumber": 30,
+      "text": {
+        "simple": "وَلَقَدْ نَجَّيْنَا بَنِي إِسْرَائِيلَ مِنَ الْعَذَابِ الْمُهِينِ",
+        "en_sahih": "English translation of [44:30] in Sahih International style.",
+        "en_yusufali": "English translation of [44:30] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:30] en español.",
+        "fr_hamidullah": "Traduction de [44:30] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:31",
+      "surahNumber": 44,
+      "ayahNumber": 31,
+      "text": {
+        "simple": "مِنْ فِرْعَوْنَ ۚ إِنَّهُ كَانَ عَالِيًا مِنَ الْمُسْرِفِينَ",
+        "en_sahih": "English translation of [44:31] in Sahih International style.",
+        "en_yusufali": "English translation of [44:31] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:31] en español.",
+        "fr_hamidullah": "Traduction de [44:31] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:32",
+      "surahNumber": 44,
+      "ayahNumber": 32,
+      "text": {
+        "simple": "وَلَقَدِ اخْتَرْنَاهُمْ عَلَىٰ عِلْمٍ عَلَى الْعَالَمِينَ",
+        "en_sahih": "English translation of [44:32] in Sahih International style.",
+        "en_yusufali": "English translation of [44:32] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:32] en español.",
+        "fr_hamidullah": "Traduction de [44:32] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:33",
+      "surahNumber": 44,
+      "ayahNumber": 33,
+      "text": {
+        "simple": "وَآتَيْنَاهُمْ مِنَ الْآيَاتِ مَا فِيهِ بَلَاءٌ مُبِينٌ",
+        "en_sahih": "English translation of [44:33] in Sahih International style.",
+        "en_yusufali": "English translation of [44:33] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:33] en español.",
+        "fr_hamidullah": "Traduction de [44:33] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:34",
+      "surahNumber": 44,
+      "ayahNumber": 34,
+      "text": {
+        "simple": "إِنَّ هَٰؤُلَاءِ لَيَقُولُونَ",
+        "en_sahih": "English translation of [44:34] in Sahih International style.",
+        "en_yusufali": "English translation of [44:34] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:34] en español.",
+        "fr_hamidullah": "Traduction de [44:34] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:35",
+      "surahNumber": 44,
+      "ayahNumber": 35,
+      "text": {
+        "simple": "إِنْ هِيَ إِلَّا مَوْتَتُنَا الْأُولَىٰ وَمَا نَحْنُ بِمُنْشَرِينَ",
+        "en_sahih": "English translation of [44:35] in Sahih International style.",
+        "en_yusufali": "English translation of [44:35] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:35] en español.",
+        "fr_hamidullah": "Traduction de [44:35] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:36",
+      "surahNumber": 44,
+      "ayahNumber": 36,
+      "text": {
+        "simple": "فَأْتُوا بِآبَائِنَا إِنْ كُنْتُمْ صَادِقِينَ",
+        "en_sahih": "English translation of [44:36] in Sahih International style.",
+        "en_yusufali": "English translation of [44:36] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:36] en español.",
+        "fr_hamidullah": "Traduction de [44:36] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:37",
+      "surahNumber": 44,
+      "ayahNumber": 37,
+      "text": {
+        "simple": "أَهُمْ خَيْرٌ أَمْ قَوْمُ تُبَّعٍ وَالَّذِينَ مِنْ قَبْلِهِمْ ۚ أَهْلَكْنَاهُمْ ۖ إِنَّهُمْ كَانُوا مُجْرِمِينَ",
+        "en_sahih": "English translation of [44:37] in Sahih International style.",
+        "en_yusufali": "English translation of [44:37] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:37] en español.",
+        "fr_hamidullah": "Traduction de [44:37] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:38",
+      "surahNumber": 44,
+      "ayahNumber": 38,
+      "text": {
+        "simple": "وَمَا خَلَقْنَا السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا لَاعِبِينَ",
+        "en_sahih": "English translation of [44:38] in Sahih International style.",
+        "en_yusufali": "English translation of [44:38] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 38 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:38] en español.",
+        "fr_hamidullah": "Traduction de [44:38] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:39",
+      "surahNumber": 44,
+      "ayahNumber": 39,
+      "text": {
+        "simple": "مَا خَلَقْنَاهُمَا إِلَّا بِالْحَقِّ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+        "en_sahih": "English translation of [44:39] in Sahih International style.",
+        "en_yusufali": "English translation of [44:39] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 39 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:39] en español.",
+        "fr_hamidullah": "Traduction de [44:39] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:40",
+      "surahNumber": 44,
+      "ayahNumber": 40,
+      "text": {
+        "simple": "إِنَّ يَوْمَ الْفَصْلِ مِيقَاتُهُمْ أَجْمَعِينَ",
+        "en_sahih": "English translation of [44:40] in Sahih International style.",
+        "en_yusufali": "English translation of [44:40] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 40 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:40] en español.",
+        "fr_hamidullah": "Traduction de [44:40] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:41",
+      "surahNumber": 44,
+      "ayahNumber": 41,
+      "text": {
+        "simple": "يَوْمَ لَا يُغْنِي مَوْلًى عَنْ مَوْلًى شَيْئًا وَلَا هُمْ يُنْصَرُونَ",
+        "en_sahih": "English translation of [44:41] in Sahih International style.",
+        "en_yusufali": "English translation of [44:41] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 41 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:41] en español.",
+        "fr_hamidullah": "Traduction de [44:41] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:42",
+      "surahNumber": 44,
+      "ayahNumber": 42,
+      "text": {
+        "simple": "إِلَّا مَنْ رَحِمَ اللَّهُ ۚ إِنَّهُ هُوَ الْعَزِيزُ الرَّحِيمُ",
+        "en_sahih": "English translation of [44:42] in Sahih International style.",
+        "en_yusufali": "English translation of [44:42] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 42 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:42] en español.",
+        "fr_hamidullah": "Traduction de [44:42] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:43",
+      "surahNumber": 44,
+      "ayahNumber": 43,
+      "text": {
+        "simple": "إِنَّ شَجَرَتَ الزَّقُّومِ",
+        "en_sahih": "English translation of [44:43] in Sahih International style.",
+        "en_yusufali": "English translation of [44:43] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 43 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:43] en español.",
+        "fr_hamidullah": "Traduction de [44:43] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:44",
+      "surahNumber": 44,
+      "ayahNumber": 44,
+      "text": {
+        "simple": "طَعَامُ الْأَثِيمِ",
+        "en_sahih": "English translation of [44:44] in Sahih International style.",
+        "en_yusufali": "English translation of [44:44] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 44 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:44] en español.",
+        "fr_hamidullah": "Traduction de [44:44] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:45",
+      "surahNumber": 44,
+      "ayahNumber": 45,
+      "text": {
+        "simple": "كَالْمُهْلِ يَغْلِي فِي الْبُطُونِ",
+        "en_sahih": "English translation of [44:45] in Sahih International style.",
+        "en_yusufali": "English translation of [44:45] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 45 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:45] en español.",
+        "fr_hamidullah": "Traduction de [44:45] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:46",
+      "surahNumber": 44,
+      "ayahNumber": 46,
+      "text": {
+        "simple": "كَغَلْيِ الْحَمِيمِ",
+        "en_sahih": "English translation of [44:46] in Sahih International style.",
+        "en_yusufali": "English translation of [44:46] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 46 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:46] en español.",
+        "fr_hamidullah": "Traduction de [44:46] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:47",
+      "surahNumber": 44,
+      "ayahNumber": 47,
+      "text": {
+        "simple": "خُذُوهُ فَاعْتِلُوهُ إِلَىٰ سَوَاءِ الْجَحِيمِ",
+        "en_sahih": "English translation of [44:47] in Sahih International style.",
+        "en_yusufali": "English translation of [44:47] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 47 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:47] en español.",
+        "fr_hamidullah": "Traduction de [44:47] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:48",
+      "surahNumber": 44,
+      "ayahNumber": 48,
+      "text": {
+        "simple": "ثُمَّ صُبُّوا فَوْقَ رَأْسِهِ مِنْ عَذَابِ الْحَمِيمِ",
+        "en_sahih": "English translation of [44:48] in Sahih International style.",
+        "en_yusufali": "English translation of [44:48] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 48 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:48] en español.",
+        "fr_hamidullah": "Traduction de [44:48] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:49",
+      "surahNumber": 44,
+      "ayahNumber": 49,
+      "text": {
+        "simple": "ذُقْ إِنَّكَ أَنْتَ الْعَزِيزُ الْكَرِيمُ",
+        "en_sahih": "English translation of [44:49] in Sahih International style.",
+        "en_yusufali": "English translation of [44:49] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 49 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:49] en español.",
+        "fr_hamidullah": "Traduction de [44:49] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:50",
+      "surahNumber": 44,
+      "ayahNumber": 50,
+      "text": {
+        "simple": "إِنَّ هَٰذَا مَا كُنْتُمْ بِهِ تَمْتَرُونَ",
+        "en_sahih": "English translation of [44:50] in Sahih International style.",
+        "en_yusufali": "English translation of [44:50] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 50 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:50] en español.",
+        "fr_hamidullah": "Traduction de [44:50] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:51",
+      "surahNumber": 44,
+      "ayahNumber": 51,
+      "text": {
+        "simple": "إِنَّ الْمُتَّقِينَ فِي مَقَامٍ أَمِينٍ",
+        "en_sahih": "English translation of [44:51] in Sahih International style.",
+        "en_yusufali": "English translation of [44:51] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 51 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:51] en español.",
+        "fr_hamidullah": "Traduction de [44:51] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:52",
+      "surahNumber": 44,
+      "ayahNumber": 52,
+      "text": {
+        "simple": "فِي جَنَّاتٍ وَعُيُونٍ",
+        "en_sahih": "English translation of [44:52] in Sahih International style.",
+        "en_yusufali": "English translation of [44:52] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 52 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:52] en español.",
+        "fr_hamidullah": "Traduction de [44:52] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:53",
+      "surahNumber": 44,
+      "ayahNumber": 53,
+      "text": {
+        "simple": "يَلْبَسُونَ مِنْ سُنْدُسٍ وَإِسْتَبْرَقٍ مُتَقَابِلِينَ",
+        "en_sahih": "English translation of [44:53] in Sahih International style.",
+        "en_yusufali": "English translation of [44:53] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 53 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:53] en español.",
+        "fr_hamidullah": "Traduction de [44:53] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 53 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:54",
+      "surahNumber": 44,
+      "ayahNumber": 54,
+      "text": {
+        "simple": "كَذَٰلِكَ وَزَوَّجْنَاهُمْ بِحُورٍ عِينٍ",
+        "en_sahih": "English translation of [44:54] in Sahih International style.",
+        "en_yusufali": "English translation of [44:54] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 54 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:54] en español.",
+        "fr_hamidullah": "Traduction de [44:54] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 54 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:55",
+      "surahNumber": 44,
+      "ayahNumber": 55,
+      "text": {
+        "simple": "يَدْعُونَ فِيهَا بِكُلِّ فَاكِهَةٍ آمِنِينَ",
+        "en_sahih": "English translation of [44:55] in Sahih International style.",
+        "en_yusufali": "English translation of [44:55] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 55 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:55] en español.",
+        "fr_hamidullah": "Traduction de [44:55] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 55 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:56",
+      "surahNumber": 44,
+      "ayahNumber": 56,
+      "text": {
+        "simple": "لَا يَذُوقُونَ فِيهَا الْمَوْتَ إِلَّا الْمَوْتَةَ الْأُولَىٰ ۖ وَوَقَاهُمْ عَذَابَ الْجَحِيمِ",
+        "en_sahih": "English translation of [44:56] in Sahih International style.",
+        "en_yusufali": "English translation of [44:56] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 56 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:56] en español.",
+        "fr_hamidullah": "Traduction de [44:56] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 56 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:57",
+      "surahNumber": 44,
+      "ayahNumber": 57,
+      "text": {
+        "simple": "فَضْلًا مِنْ رَبِّكَ ۚ ذَٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ",
+        "en_sahih": "English translation of [44:57] in Sahih International style.",
+        "en_yusufali": "English translation of [44:57] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 57 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:57] en español.",
+        "fr_hamidullah": "Traduction de [44:57] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 57 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:58",
+      "surahNumber": 44,
+      "ayahNumber": 58,
+      "text": {
+        "simple": "فَإِنَّمَا يَسَّرْنَاهُ بِلِسَانِكَ لَعَلَّهُمْ يَتَذَكَّرُونَ",
+        "en_sahih": "English translation of [44:58] in Sahih International style.",
+        "en_yusufali": "English translation of [44:58] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 58 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:58] en español.",
+        "fr_hamidullah": "Traduction de [44:58] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 58 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "44:59",
+      "surahNumber": 44,
+      "ayahNumber": 59,
+      "text": {
+        "simple": "فَارْتَقِبْ إِنَّهُمْ مُرْتَقِبُونَ",
+        "en_sahih": "English translation of [44:59] in Sahih International style.",
+        "en_yusufali": "English translation of [44:59] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 44 آیت 59 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [44:59] en español.",
+        "fr_hamidullah": "Traduction de [44:59] en français.",
+        "bn_hoque": "সূরা 44 আয়াত 59 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

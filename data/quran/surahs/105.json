@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:58.005Z",
+  "surahNumber": 105,
+  "ayahCount": 5,
+  "ayahs": [
+    {
+      "id": "105:1",
+      "surahNumber": 105,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ",
+        "en_sahih": "English translation of [105:1] in Sahih International style.",
+        "en_yusufali": "English translation of [105:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 105 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [105:1] en español.",
+        "fr_hamidullah": "Traduction de [105:1] en français.",
+        "bn_hoque": "সূরা 105 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "105:2",
+      "surahNumber": 105,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ",
+        "en_sahih": "English translation of [105:2] in Sahih International style.",
+        "en_yusufali": "English translation of [105:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 105 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [105:2] en español.",
+        "fr_hamidullah": "Traduction de [105:2] en français.",
+        "bn_hoque": "সূরা 105 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "105:3",
+      "surahNumber": 105,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+        "en_sahih": "English translation of [105:3] in Sahih International style.",
+        "en_yusufali": "English translation of [105:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 105 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [105:3] en español.",
+        "fr_hamidullah": "Traduction de [105:3] en français.",
+        "bn_hoque": "সূরা 105 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "105:4",
+      "surahNumber": 105,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "تَرْمِيهِمْ بِحِجَارَةٍ مِنْ سِجِّيلٍ",
+        "en_sahih": "English translation of [105:4] in Sahih International style.",
+        "en_yusufali": "English translation of [105:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 105 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [105:4] en español.",
+        "fr_hamidullah": "Traduction de [105:4] en français.",
+        "bn_hoque": "সূরা 105 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "105:5",
+      "surahNumber": 105,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "فَجَعَلَهُمْ كَعَصْفٍ مَأْكُولٍ",
+        "en_sahih": "English translation of [105:5] in Sahih International style.",
+        "en_yusufali": "English translation of [105:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 105 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [105:5] en español.",
+        "fr_hamidullah": "Traduction de [105:5] en français.",
+        "bn_hoque": "সূরা 105 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}
