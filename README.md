@@ -29,6 +29,19 @@ Supports multiple standard methods with automatic case-insensitive and whitespac
 - **Dubai**
 - **MoonsightingCommittee**
 
+### 3. 🌍 Quran Translations in Multiple Languages
+Includes full built-in translation support for popular global editions directly in the Ayah payload:
+- **English**: Sahih International (`en_sahih`) & Yusuf Ali (`en_yusufali`)
+- **Urdu**: Abul Ala Maududi (`ur_maududi`)
+- **Indonesian**: Kementerian Agama (`id_kemenag`)
+- **Russian**: Abu Adel (`ru_abuadel`)
+- **Turkish**: Diyanet Vakfı (`tr_diyanet`)
+- **Spanish**: Julio Cortes (`es_cortes`)
+- **French**: Muhammad Hamidullah (`fr_hamidullah`)
+- **German**: Abu Rida (`de_aburida`)
+- **Bengali**: Zohurul Hoque (`bn_hoque`)
+- **Chinese**: Ma Jian (`zh_jian`)
+
 ### ⏱️ Timestamp Systems (Page, Ayah, & Word Levels)
 Synchronize audio with Quran displays down to the individual word:
 - **By Page System:** Easily retrieve start/end markers for all Surahs and Ayahs appearing on any Quran page (1–604).

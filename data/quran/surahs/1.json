@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T01:55:57.959Z",
+  "generatedAt": "2026-05-23T02:06:49.434Z",
   "surahNumber": 1,
   "ayahCount": 7,
   "ayahs": [
@@ -15,7 +15,12 @@
         "ur_maududi": "اللہ کے نام سے جو رحمان اور رحیم ہے۔",
         "es_cortes": "En el nombre de Alá, el Compasivo, el Misericordioso.",
         "fr_hamidullah": "Au nom d'Allah, le Tout Miséricordieux, le Très Miséricordieux.",
-        "bn_hoque": "পরম করুণাময় ও অসীম দয়ালু আল্লাহর নামে।"
+        "bn_hoque": "পরম করুণাময় ও অসীম দয়ালু আল্লাহর নামে।",
+        "id_kemenag": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang.",
+        "ru_abuadel": "Во имя Аллаха, Милостивого, Милосердного!",
+        "tr_diyanet": "Rahman ve Rahim olan Allah'ın adıyla.",
+        "de_aburida": "Im Namen Allahs, des Allerbarmers, des Barmherzigen.",
+        "zh_jian": "奉至仁至慈的真主之名"
       }
     },
     {
@@ -29,7 +34,12 @@
         "ur_maududi": "تعریف اللہ ہی کے لیے ہے جو تمام کائنات کا رب ہے۔",
         "es_cortes": "Alabado sea Alá, Señor del universo,",
         "fr_hamidullah": "Louange à Allah, Seigneur de l'univers.",
-        "bn_hoque": "সব প্রশংসা আল্লাহরই প্রাপ্য, যিনি সমগ্র সৃষ্টিজগতের প্রতিপালক।"
+        "bn_hoque": "সব প্রশংসা আল্লাহরই প্রাপ্য, যিনি সমগ্র সৃষ্টিজগতের প্রতিপালক।",
+        "id_kemenag": "Segala puji bagi Allah, Tuhan seluruh alam,",
+        "ru_abuadel": "Вся хвала Аллаху, Господу миров,",
+        "tr_diyanet": "Hamd, alemlerin Rabbi olan Allah'adır.",
+        "de_aburida": "Alles Lob gehört Allah, dem Herrn der Welten,",
+        "zh_jian": "一切赞颂全归真主，众世界的主"
       }
     },
     {
@@ -43,7 +53,12 @@
         "ur_maududi": "رحمان اور رحیم ہے۔",
         "es_cortes": "el Compasivo, el Misericordioso,",
         "fr_hamidullah": "Le Tout Miséricordieux, le Très Miséricordieux,",
-        "bn_hoque": "পরম করুণাময়, অসীম দয়ালু।"
+        "bn_hoque": "পরম করুণাময়, অসীম দয়ালু।",
+        "id_kemenag": "Yang Maha Pengasih, Maha Penyayang,",
+        "ru_abuadel": "Милостивому, Милосердному,",
+        "tr_diyanet": "O, Rahman'dır, Rahim'dir.",
+        "de_aburida": "dem Allerbarmer, dem Barmherzigen,",
+        "zh_jian": "至仁至慈的主"
       }
     },
     {
@@ -57,7 +72,12 @@
         "ur_maududi": "روزِ جزا کا مالک ہے۔",
         "es_cortes": "Dueño del día del Juicio.",
         "fr_hamidullah": "Maître du Jour de la rétribution.",
-        "bn_hoque": "প্রতিফল দিবসের মালিক।"
+        "bn_hoque": "প্রতিফল দিবসের মালিক।",
+        "id_kemenag": "Pemilik hari pembalasan.",
+        "ru_abuadel": "Властелину Дня воздаяния.",
+        "tr_diyanet": "Din gününün sahibidir.",
+        "de_aburida": "dem Herrscher am Tage des Gerichts.",
+        "zh_jian": "报应日的主"
       }
     },
     {
@@ -71,7 +91,12 @@
         "ur_maududi": "ہم ٹیری ہی عبادت کرتے ہیں اور تجھی سے مدد مانگتے ہیں۔",
         "es_cortes": "A Ti solo servimos y a Ti solo pedimos ayuda.",
         "fr_hamidullah": "C'est Toi [Seul] que nous adorons, et c'est Toi [Seul] dont nous implorons l'secours.",
-        "bn_hoque": "আমরা কেবল তোমারই এবাদত করি এবং কেবল তোমারই সাহায্য প্রার্থনা করি।"
+        "bn_hoque": "আমরা কেবল তোমারই এবাদত করি এবং কেবল তোমারই সাহায্য প্রার্থনা করি।",
+        "id_kemenag": "Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan.",
+        "ru_abuadel": "Тебе мы поклоняемся и у Тебя просим помощи.",
+        "tr_diyanet": "Yalnız Sana kulluk eder, yalnız Senden yardım dileriz.",
+        "de_aburida": "Dir allein dienen wir, und Dich allein bitten wir um Hilfe.",
+        "zh_jian": "我们只崇拜你，求你助佑"
       }
     },
     {
@@ -85,7 +110,12 @@
         "ur_maududi": "ہمیں سیدھا راستہ دکھا",
         "es_cortes": "Dirígenos por la vía recta,",
         "fr_hamidullah": "Guide-nous dans le droit chemin,",
-        "bn_hoque": "আমাদের সরল পথ প্রদর্শন কর।"
+        "bn_hoque": "আমাদের সরল পথ প্রদর্শন কর।",
+        "id_kemenag": "Tunjukkanlah kami jalan yang lurus,",
+        "ru_abuadel": "Введи нас во прямой путь,",
+        "tr_diyanet": "Bizi doğru yola ilet.",
+        "de_aburida": "Führe uns den geraden Weg,",
+        "zh_jian": "求你引导我们上正路"
       }
     },
     {
@@ -99,7 +129,12 @@
         "ur_maududi": "ان لوگوں کا راستہ جن پر تو نے فضل کیا، نہ کہ ان کا جن پر غضب ہوا اور نہ بہکے ہوئے لوگوں کا۔",
         "es_cortes": "la vía de los que Tú has agraciado, no de los que han incurrido en Tu ira, ni de los extraviados.",
         "fr_hamidullah": "le chemin de ceux que Tu as comblés de faveurs, non pas de ceux qui ont encouru Ta colère, ni des égarés.",
-        "bn_hoque": "তাদের পথে, যাদের তুমি অনুগ্রহ দান করেছ; তাদের পথে নয় যারা ক্রোধগ্রস্ত এবং যারা পথভ্রষ্ট হয়েছে।"
+        "bn_hoque": "তাদের পথে, যাদের তুমি অনুগ্রহ দান করেছ; তাদের পথে নয় যারা ক্রোধগ্রস্ত এবং যারা পথভ্রষ্ট হয়েছে।",
+        "id_kemenag": "(yaitu) jalan orang-orang yang telah Engkau beri nikmat kepadanya; bukan (jalan) mereka yang dimurkai, dan bukan (pula jalan) mereka yang sesat.",
+        "ru_abuadel": "путем тех, кого Ты облагодетельствовал, не тех, на кого пал Твой гнев, и не заблудших.",
+        "tr_diyanet": "Kendilerine nimet verdiklerinin yoluna ilet; gazaba uğrayanlarınkine ve sapıklarınkine değil.",
+        "de_aburida": "den Weg derer, denen Du Gnade erwiesen hast, nicht derer, die Deinen Zorn erregt haben, und nicht der Irregehenden.",
+        "zh_jian": "你所施恩的人的路，不是受谴怒的人的路，也不是迷误的人的路"
       }
     }
   ],

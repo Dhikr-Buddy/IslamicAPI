@@ -220,12 +220,68 @@ function addQuranTranslations() {
     }
   ];
 
+  const extraFatihahTranslations = [
+    {
+      id_kemenag: "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang.",
+      ru_abuadel: "Во имя Аллаха, Милостивого, Милосердного!",
+      tr_diyanet: "Rahman ve Rahim olan Allah'ın adıyla.",
+      de_aburida: "Im Namen Allahs, des Allerbarmers, des Barmherzigen.",
+      zh_jian: "奉至仁至慈的真主之名"
+    },
+    {
+      id_kemenag: "Segala puji bagi Allah, Tuhan seluruh alam,",
+      ru_abuadel: "Вся хвала Аллаху, Господу миров,",
+      tr_diyanet: "Hamd, alemlerin Rabbi olan Allah'adır.",
+      de_aburida: "Alles Lob gehört Allah, dem Herrn der Welten,",
+      zh_jian: "一切赞颂全归真主，众世界的主"
+    },
+    {
+      id_kemenag: "Yang Maha Pengasih, Maha Penyayang,",
+      ru_abuadel: "Милостивому, Милосердному,",
+      tr_diyanet: "O, Rahman'dır, Rahim'dir.",
+      de_aburida: "dem Allerbarmer, dem Barmherzigen,",
+      zh_jian: "至仁至慈的主"
+    },
+    {
+      id_kemenag: "Pemilik hari pembalasan.",
+      ru_abuadel: "Властелину Дня воздаяния.",
+      tr_diyanet: "Din gününün sahibidir.",
+      de_aburida: "dem Herrscher am Tage des Gerichts.",
+      zh_jian: "报应日的主"
+    },
+    {
+      id_kemenag: "Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan.",
+      ru_abuadel: "Тебе мы поклоняемся и у Тебя просим помощи.",
+      tr_diyanet: "Yalnız Sana kulluk eder, yalnız Senden yardım dileriz.",
+      de_aburida: "Dir allein dienen wir, und Dich allein bitten wir um Hilfe.",
+      zh_jian: "我们只崇拜你，求你助佑"
+    },
+    {
+      id_kemenag: "Tunjukkanlah kami jalan yang lurus,",
+      ru_abuadel: "Введи нас во прямой путь,",
+      tr_diyanet: "Bizi doğru yola ilet.",
+      de_aburida: "Führe uns den geraden Weg,",
+      zh_jian: "求你引导我们上正路"
+    },
+    {
+      id_kemenag: "(yaitu) jalan orang-orang yang telah Engkau beri nikmat kepadanya; bukan (jalan) mereka yang dimurkai, dan bukan (pula jalan) mereka yang sesat.",
+      ru_abuadel: "путем тех, кого Ты облагодетельствовал, не тех, на кого пал Твой гнев, и не заблудших.",
+      tr_diyanet: "Kendilerine nimet verdiklerinin yoluna ilet; gazaba uğrayanlarınkine ve sapıklarınkine değil.",
+      de_aburida: "den Weg derer, denen Du Gnade erwiesen hast, nicht derer, die Deinen Zorn erregt haben, und nicht der Irregehenden.",
+      zh_jian: "你所施恩的人的路，不是受谴怒的人的路，也不是迷误的人的路"
+    }
+  ];
+
   for (const ayah of out.ayahs) {
     if (ayah.surahNumber === 1) {
       const idx = ayah.ayahNumber - 1;
       const trans = fatihahTranslations[idx];
+      const extraTrans = extraFatihahTranslations[idx];
       if (trans) {
         Object.assign(ayah.text, trans);
+      }
+      if (extraTrans) {
+        Object.assign(ayah.text, extraTrans);
       }
     } else {
       ayah.text.en_sahih = `English translation of [${ayah.surahNumber}:${ayah.ayahNumber}] in Sahih International style.`;
@@ -234,6 +290,11 @@ function addQuranTranslations() {
       ayah.text.es_cortes = `Traducción de [${ayah.surahNumber}:${ayah.ayahNumber}] en español.`;
       ayah.text.fr_hamidullah = `Traduction de [${ayah.surahNumber}:${ayah.ayahNumber}] en français.`;
       ayah.text.bn_hoque = `সূরা ${ayah.surahNumber} আয়াত ${ayah.ayahNumber} এর বাংলা অনুবাদ (জহুরুল হক)`;
+      ayah.text.id_kemenag = `Terjemahan [${ayah.surahNumber}:${ayah.ayahNumber}] dalam bahasa Indonesia (Kemenag).`;
+      ayah.text.ru_abuadel = `Перевод айята [${ayah.surahNumber}:${ayah.ayahNumber}] на русский язык (Абу Адель).`;
+      ayah.text.tr_diyanet = `[${ayah.surahNumber}:${ayah.ayahNumber}] ayetinin Türkçe meali (Diyanet Vakfı).`;
+      ayah.text.de_aburida = `Übersetzung von [${ayah.surahNumber}:${ayah.ayahNumber}] in deutscher Sprache (Abu Rida).`;
+      ayah.text.zh_jian = `真主启示 ［${ayah.surahNumber}:${ayah.ayahNumber}］ 马坚 译文`;
     }
   }
 }

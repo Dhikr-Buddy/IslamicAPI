@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T01:55:58.006Z",
+  "generatedAt": "2026-05-23T02:06:49.479Z",
   "surahNumber": 108,
   "ayahCount": 3,
   "ayahs": [
@@ -15,7 +15,12 @@
         "ur_maududi": "سورہ 108 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [108:1] en español.",
         "fr_hamidullah": "Traduction de [108:1] en français.",
-        "bn_hoque": "সূরা 108 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 108 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [108:1] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [108:1] на русский язык (Абу Адель).",
+        "tr_diyanet": "[108:1] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [108:1] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［108:1］ 马坚 译文"
       }
     },
     {
@@ -29,7 +34,12 @@
         "ur_maududi": "سورہ 108 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [108:2] en español.",
         "fr_hamidullah": "Traduction de [108:2] en français.",
-        "bn_hoque": "সূরা 108 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 108 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [108:2] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [108:2] на русский язык (Абу Адель).",
+        "tr_diyanet": "[108:2] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [108:2] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［108:2］ 马坚 译文"
       }
     },
     {
@@ -43,7 +53,12 @@
         "ur_maududi": "سورہ 108 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
         "es_cortes": "Traducción de [108:3] en español.",
         "fr_hamidullah": "Traduction de [108:3] en français.",
-        "bn_hoque": "সূরা 108 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+        "bn_hoque": "সূরা 108 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)",
+        "id_kemenag": "Terjemahan [108:3] dalam bahasa Indonesia (Kemenag).",
+        "ru_abuadel": "Перевод айята [108:3] на русский язык (Абу Адель).",
+        "tr_diyanet": "[108:3] ayetinin Türkçe meali (Diyanet Vakfı).",
+        "de_aburida": "Übersetzung von [108:3] in deutscher Sprache (Abu Rida).",
+        "zh_jian": "真主启示 ［108:3］ 马坚 译文"
       }
     }
   ],
