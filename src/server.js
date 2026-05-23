@@ -12,7 +12,12 @@ import {
   getReciterList,
   getSurah,
   randomHadith,
-  search
+  search,
+  getHaramainCompilations,
+  getHaramainCompilation,
+  getAyahTimestamps,
+  getWordTimestamps,
+  getPageTimestamps
 } from "../packages/deen-sdk/src/index.js";
 
 const port = Number(process.env.PORT || 3000);
@@ -46,6 +51,68 @@ const server = http.createServer((req, res) => {
         res,
         { url: getAudioUrl(url.searchParams.get("reciterId"), url.searchParams.get("surah"), url.searchParams.get("ayah")) }
       );
+    }
+    if (url.pathname === "/audio/download") {
+      const reciterId = url.searchParams.get("reciterId");
+      const surah = url.searchParams.get("surah");
+      const ayah = url.searchParams.get("ayah");
+      let audioUrl = url.searchParams.get("url");
+      
+      if (!audioUrl && reciterId && surah) {
+        audioUrl = getAudioUrl(reciterId, surah, ayah);
+      }
+      if (!audioUrl) {
+        return json(res, { error: "Missing url or reciterId + surah" }, 400);
+      }
+      
+      const downloadsDir = path.join(dataRoot, "audio/downloads");
+      if (!fs.existsSync(downloadsDir)) {
+        fs.mkdirSync(downloadsDir, { recursive: true });
+      }
+      
+      let fileName = url.searchParams.get("fileName");
+      if (!fileName) {
+        if (reciterId && surah) {
+          fileName = `${reciterId}_${surah}${ayah ? "_" + ayah : ""}.mp3`;
+        } else {
+          try {
+            fileName = path.basename(new URL(audioUrl).pathname) || "download.mp3";
+          } catch {
+            fileName = "download.mp3";
+          }
+        }
+      }
+      
+      const filePath = path.join(downloadsDir, fileName);
+      
+      fetch(audioUrl).then(async (response) => {
+        if (!response.ok) {
+          throw new Error(`Failed to fetch file from source: ${response.statusText}`);
+        }
+        const arrayBuffer = await response.arrayBuffer();
+        fs.writeFileSync(filePath, Buffer.from(arrayBuffer));
+        return json(res, {
+          success: true,
+          url: audioUrl,
+          fileName,
+          filePath: path.resolve(filePath)
+        });
+      }).catch((err) => {
+        return json(res, { error: err.message }, 500);
+      });
+      return;
+    }
+    if (url.pathname === "/haramain/compilations") {
+      return json(res, getHaramainCompilations());
+    }
+    if (url.pathname === "/quran/timestamps/ayah") {
+      return json(res, getAyahTimestamps(url.searchParams.get("surah"), url.searchParams.get("reciterId")));
+    }
+    if (url.pathname === "/quran/timestamps/word") {
+      return json(res, getWordTimestamps(url.searchParams.get("surah"), url.searchParams.get("ayah"), url.searchParams.get("reciterId")));
+    }
+    if (url.pathname === "/quran/timestamps/page") {
+      return json(res, getPageTimestamps(url.searchParams.get("page"), url.searchParams.get("reciterId")));
     }
     if (url.pathname === "/fonts") return json(res, getFontList());
     if (url.pathname === "/fonts.css") return text(res, getFontCss(), "text/css; charset=utf-8");

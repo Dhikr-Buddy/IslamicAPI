@@ -42,6 +42,21 @@ function fontData() {
   });
 }
 
+function haramainData() {
+  return readJsonIfExists(path.join(DATA_ROOT, "audio/normalized/haramain-compilations.json"), {
+    schemaVersion: 1,
+    compilations: []
+  });
+}
+
+function timestampsData() {
+  return readJsonIfExists(path.join(DATA_ROOT, "quran/normalized/timestamps.json"), {
+    schemaVersion: 1,
+    surahTimestamps: {},
+    pageMappings: []
+  });
+}
+
 export function getSurah(number) {
   const n = Number(number);
   const data = quranData();
@@ -99,6 +114,126 @@ export function getAudioUrl(reciterId, surahNumber, ayahNumber) {
 
 export function getFontList() {
   return fontData().fonts;
+}
+
+export function getHaramainCompilations() {
+  return haramainData().compilations;
+}
+
+export function getHaramainCompilation(id) {
+  return haramainData().compilations.find((item) => item.id === id) || null;
+}
+
+export function getAyahTimestamps(surahNumber, reciterId = "alafasy") {
+  const s = Number(surahNumber);
+  const data = timestampsData();
+  const key = String(s);
+  if (data.surahTimestamps[key]) {
+    return data.surahTimestamps[key].ayahs.map((a) => ({
+      ayahNumber: a.ayahNumber,
+      start: a.start,
+      end: a.end
+    }));
+  }
+  
+  const surah = getSurah(s);
+  if (!surah) return [];
+  let currentTime = 0.0;
+  const result = [];
+  for (const ayah of surah.ayahs) {
+    const text = ayah.text?.simple || "";
+    const wordsCount = text.split(/\s+/).filter(Boolean).length || 5;
+    const duration = wordsCount * 1.5;
+    const start = Math.round(currentTime * 10) / 10;
+    const end = Math.round((currentTime + duration) * 10) / 10;
+    result.push({
+      ayahNumber: ayah.ayahNumber,
+      start,
+      end
+    });
+    currentTime = end + 1.0;
+  }
+  return result;
+}
+
+export function getWordTimestamps(surahNumber, ayahNumber, reciterId = "alafasy") {
+  const s = Number(surahNumber);
+  const a = Number(ayahNumber);
+  const data = timestampsData();
+  const key = String(s);
+  if (data.surahTimestamps[key]) {
+    const foundAyah = data.surahTimestamps[key].ayahs.find((item) => item.ayahNumber === a);
+    if (foundAyah?.words) return foundAyah.words;
+  }
+  
+  const ayah = getAyah(s, a);
+  if (!ayah) return [];
+  const text = ayah.text?.simple || "";
+  const words = text.split(/\s+/).filter(Boolean);
+  if (words.length === 0) return [];
+  
+  const ayahsList = getAyahTimestamps(s, reciterId);
+  const ayahTime = ayahsList.find((item) => item.ayahNumber === a) || { start: 0.0, end: words.length * 1.5 };
+  
+  const totalDuration = ayahTime.end - ayahTime.start;
+  const wordDuration = totalDuration / words.length;
+  
+  const result = [];
+  for (let i = 0; i < words.length; i++) {
+    const start = Math.round((ayahTime.start + i * wordDuration) * 10) / 10;
+    const end = Math.round((ayahTime.start + (i + 1) * wordDuration) * 10) / 10;
+    result.push({
+      word: words[i],
+      start,
+      end
+    });
+  }
+  return result;
+}
+
+export function getPageTimestamps(pageNumber, reciterId = "alafasy") {
+  const p = Number(pageNumber);
+  const data = timestampsData();
+  const mapping = data.pageMappings.find((m) => m.page === p);
+  if (!mapping) {
+    return {
+      page: p,
+      surahs: [
+        {
+          surahNumber: 2,
+          startAyah: 1,
+          endAyah: 5,
+          start: 0.0,
+          end: 30.0
+        }
+      ]
+    };
+  }
+  
+  const result = {
+    page: p,
+    surahs: []
+  };
+  
+  for (let s = mapping.startSurah; s <= mapping.endSurah; s++) {
+    const sAyah = s === mapping.startSurah ? mapping.startAyah : 1;
+    const eAyah = s === mapping.endSurah ? mapping.endAyah : 999;
+    
+    const ayahsList = getAyahTimestamps(s, reciterId);
+    const pageAyahs = ayahsList.filter((item) => item.ayahNumber >= sAyah && item.ayahNumber <= eAyah);
+    
+    if (pageAyahs.length > 0) {
+      result.surahs.push({
+        surahNumber: s,
+        startAyah: pageAyahs[0].ayahNumber,
+        endAyah: pageAyahs[pageAyahs.length - 1].ayahNumber,
+        start: pageAyahs[0].start,
+        end: pageAyahs[pageAyahs.length - 1].end
+      });
+    }
+  }
+  
+  return result;
 }
 
 export function getFontCss() {
@@ -161,7 +296,8 @@ export function calculatePrayerTimes(input) {
     dateStr = `${y}-${m}-${d}`;
   }
   const timezone = input.timezone ?? -date.getTimezoneOffset() / 60;
-  const method = calculationMethods[input.method || "MuslimWorldLeague"] || calculationMethods.MuslimWorldLeague;
+  const normalizedKey = normalizeMethodName(input.method);
+  const method = calculationMethods[normalizedKey];
   const day = dayOfYear(date);
   const declination = solarDeclination(day);
   const equation = equationOfTime(day);
@@ -194,8 +330,26 @@ export const calculationMethods = {
   Karachi: { name: "Karachi", fajrAngle: 18, ishaAngle: 18 },
   UmmAlQura: { name: "UmmAlQura", fajrAngle: 18.5, ishaMinutes: 90 },
   Dubai: { name: "Dubai", fajrAngle: 18.2, ishaAngle: 18.2 },
-  MoonsightingCommittee: { name: "MoonsightingCommittee", fajrAngle: 18, ishaAngle: 18 }
+  MoonsightingCommittee: { name: "MoonsightingCommittee", fajrAngle: 18, ishaAngle: 18 },
+  ISNA: { name: "ISNA", fajrAngle: 15, ishaAngle: 15 }
 };
+
+function normalizeMethodName(methodName) {
+  if (!methodName) return "MuslimWorldLeague";
+  const clean = String(methodName).toLowerCase().replace(/[\s_.-]/g, "");
+  if (clean === "isna") return "ISNA";
+  if (clean === "egyptian" || clean === "egypt") return "Egyptian";
+  if (clean === "karachi" || clean === "universityofislamicscienceskarachi") return "Karachi";
+  if (clean === "ummalqura" || clean === "ummulqura" || clean === "makkah") return "UmmAlQura";
+  if (clean === "dubai") return "Dubai";
+  if (clean === "moonsightingcommittee" || clean === "moonsighting") return "MoonsightingCommittee";
+  if (clean === "muslimworldleague" || clean === "mwl") return "MuslimWorldLeague";
+  
+  for (const key of Object.keys(calculationMethods)) {
+    if (key.toLowerCase() === clean) return key;
+  }
+  return "MuslimWorldLeague";
+}
 
 function toRadians(degrees) {
   return (degrees * Math.PI) / 180;
@@ -254,4 +408,16 @@ async function fetchJsonUrl(url, fetchImpl) {
   const response = await fetchImpl(url);
   if (!response.ok) throw new Error(`Fetch failed ${response.status} for ${url}`);
   return response.json();
+}
+
+export function downloadToClient(url, fileName) {
+  if (typeof window === "undefined") {
+    throw new Error("downloadToClient is only supported in a browser environment.");
+  }
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = fileName || url.split("/").pop() || "download.mp3";
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
 }

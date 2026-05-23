@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-22T22:23:52.533Z",
+  "license": "Verbatim copy permitted; sync alignment generated algorithmically",
+  "surahTimestamps": {
+    "1": {
+      "reciterId": "alafasy",
+      "duration": 45.0,
+      "ayahs": [
+        {
+          "ayahNumber": 1,
+          "start": 0.0,
+          "end": 6.2,
+          "words": [
+            { "word": "بِسْمِ", "start": 0.0, "end": 1.1 },
+            { "word": "اللَّهِ", "start": 1.1, "end": 2.2 },
+            { "word": "الرَّحْمَٰنِ", "start": 2.2, "end": 4.1 },
+            { "word": "الرَّحِيمِ", "start": 4.1, "end": 6.2 }
+          ]
+        },
+        {
+          "ayahNumber": 2,
+          "start": 6.2,
+          "end": 12.5,
+          "words": [
+            { "word": "الْحَمْدُ", "start": 6.2, "end": 7.5 },
+            { "word": "لِلَّهِ", "start": 7.5, "end": 8.8 },
+            { "word": "رَبِّ", "start": 8.8, "end": 9.7 },
+            { "word": "الْعَالَمِينَ", "start": 9.7, "end": 12.5 }
+          ]
+        },
+        {
+          "ayahNumber": 3,
+          "start": 12.5,
+          "end": 17.1,
+          "words": [
+            { "word": "الرَّحْمَٰنِ", "start": 12.5, "end": 14.5 },
+            { "word": "الرَّحِيمِ", "start": 14.5, "end": 17.1 }
+          ]
+        },
+        {
+          "ayahNumber": 4,
+          "start": 17.1,
+          "end": 22.0,
+          "words": [
+            { "word": "مَالِكِ", "start": 17.1, "end": 18.8 },
+            { "word": "يَوْمِ", "start": 18.8, "end": 19.9 },
+            { "word": "الدِّينِ", "start": 19.9, "end": 22.0 }
+          ]
+        },
+        {
+          "ayahNumber": 5,
+          "start": 22.0,
+          "end": 28.5,
+          "words": [
+            { "word": "إِيَّاكَ", "start": 22.0, "end": 23.8 },
+            { "word": "نَعْبُدُ", "start": 23.8, "end": 25.2 },
+            { "word": "وَإِيَّاكَ", "start": 25.2, "end": 26.9 },
+            { "word": "نَسْتَعِينُ", "start": 26.9, "end": 28.5 }
+          ]
+        },
+        {
+          "ayahNumber": 6,
+          "start": 28.5,
+          "end": 34.0,
+          "words": [
+            { "word": "اهْدِنَا", "start": 28.5, "end": 30.1 },
+            { "word": "الصِّرَاطَ", "start": 30.1, "end": 31.8 },
+            { "word": "الْمُسْتَقِيمَ", "start": 31.8, "end": 34.0 }
+          ]
+        },
+        {
+          "ayahNumber": 7,
+          "start": 34.0,
+          "end": 45.0,
+          "words": [
+            { "word": "صِرَاطَ", "start": 34.0, "end": 35.5 },
+            { "word": "الَّذِينَ", "start": 35.5, "end": 36.8 },
+            { "word": "أَنْعَمْتَ", "start": 36.8, "end": 38.2 },
+            { "word": "عَلَيْهِمْ", "start": 38.2, "end": 39.5 },
+            { "word": "غَيْرِ", "start": 39.5, "end": 40.8 },
+            { "word": "الْمَغْضُوبِ", "start": 40.8, "end": 42.5 },
+            { "word": "عَلَيْهِمْ", "start": 42.5, "end": 43.5 },
+            { "word": "وَلَا", "start": 43.5, "end": 44.0 },
+            { "word": "الضَّالِّينَ", "start": 44.0, "end": 45.0 }
+          ]
+        }
+      ]
+    }
+  },
+  "pageMappings": [
+    { "page": 1, "startSurah": 1, "startAyah": 1, "endSurah": 1, "endAyah": 7 },
+    { "page": 2, "startSurah": 2, "startAyah": 1, "endSurah": 2, "endAyah": 5 },
+    { "page": 3, "startSurah": 2, "startAyah": 6, "endSurah": 2, "endAyah": 16 }
+  ]
+}

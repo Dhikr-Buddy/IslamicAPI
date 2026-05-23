@@ -10,6 +10,13 @@ from .core import (
     github_raw_url,
     random_hadith,
     search,
+    get_haramain_compilations,
+    get_haramain_compilation,
+    download_to_server,
+    download_recitation,
+    get_ayah_timestamps,
+    get_word_timestamps,
+    get_page_timestamps,
 )
 from .models import Ayah, Hadith, Provenance, Surah
 
@@ -29,4 +36,11 @@ __all__ = [
     "github_raw_url",
     "random_hadith",
     "search",
+    "get_haramain_compilations",
+    "get_haramain_compilation",
+    "download_to_server",
+    "download_recitation",
+    "get_ayah_timestamps",
+    "get_word_timestamps",
+    "get_page_timestamps",
 ]
