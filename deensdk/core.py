@@ -220,10 +220,10 @@ def get_ayah_timestamps(
         return []
     current_time = 0.0
     result = []
-    for ayah in surah.get("ayahs", []):
-        text = (
-            ayah.text.get("simple", "") if hasattr(ayah, "text") and ayah.text else ""
-        )
+
+    for ayah_dict in surah.get("ayahs", []):
+        ayah = Ayah.model_validate(ayah_dict)
+        text = ayah.text.get("simple", "") or ayah.text.get("uthmani", "") or ""
         words_count = len(text.split()) if text else 5
         duration = words_count * 1.5
         start = round(current_time, 1)
