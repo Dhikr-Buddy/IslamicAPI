@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:58.003Z",
+  "surahNumber": 93,
+  "ayahCount": 11,
+  "ayahs": [
+    {
+      "id": "93:1",
+      "surahNumber": 93,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَالضُّحَىٰ",
+        "en_sahih": "English translation of [93:1] in Sahih International style.",
+        "en_yusufali": "English translation of [93:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 93 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [93:1] en español.",
+        "fr_hamidullah": "Traduction de [93:1] en français.",
+        "bn_hoque": "সূরা 93 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "93:2",
+      "surahNumber": 93,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "وَاللَّيْلِ إِذَا سَجَىٰ",
+        "en_sahih": "English translation of [93:2] in Sahih International style.",
+        "en_yusufali": "English translation of [93:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 93 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [93:2] en español.",
+        "fr_hamidullah": "Traduction de [93:2] en français.",
+        "bn_hoque": "সূরা 93 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "93:3",
+      "surahNumber": 93,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+        "en_sahih": "English translation of [93:3] in Sahih International style.",
+        "en_yusufali": "English translation of [93:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 93 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [93:3] en español.",
+        "fr_hamidullah": "Traduction de [93:3] en français.",
+        "bn_hoque": "সূরা 93 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "93:4",
+      "surahNumber": 93,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "وَلَلْآخِرَةُ خَيْرٌ لَكَ مِنَ الْأُولَىٰ",
+        "en_sahih": "English translation of [93:4] in Sahih International style.",
+        "en_yusufali": "English translation of [93:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 93 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [93:4] en español.",
+        "fr_hamidullah": "Traduction de [93:4] en français.",
+        "bn_hoque": "সূরা 93 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "93:5",
+      "surahNumber": 93,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ",
+        "en_sahih": "English translation of [93:5] in Sahih International style.",
+        "en_yusufali": "English translation of [93:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 93 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [93:5] en español.",
+        "fr_hamidullah": "Traduction de [93:5] en français.",
+        "bn_hoque": "সূরা 93 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "93:6",
+      "surahNumber": 93,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "أَلَمْ يَجِدْكَ يَتِيمًا فَآوَىٰ",
+        "en_sahih": "English translation of [93:6] in Sahih International style.",
+        "en_yusufali": "English translation of [93:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 93 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [93:6] en español.",
+        "fr_hamidullah": "Traduction de [93:6] en français.",
+        "bn_hoque": "সূরা 93 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "93:7",
+      "surahNumber": 93,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "وَوَجَدَكَ ضَالًّا فَهَدَىٰ",
+        "en_sahih": "English translation of [93:7] in Sahih International style.",
+        "en_yusufali": "English translation of [93:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 93 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [93:7] en español.",
+        "fr_hamidullah": "Traduction de [93:7] en français.",
+        "bn_hoque": "সূরা 93 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "93:8",
+      "surahNumber": 93,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "وَوَجَدَكَ عَائِلًا فَأَغْنَىٰ",
+        "en_sahih": "English translation of [93:8] in Sahih International style.",
+        "en_yusufali": "English translation of [93:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 93 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [93:8] en español.",
+        "fr_hamidullah": "Traduction de [93:8] en français.",
+        "bn_hoque": "সূরা 93 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "93:9",
+      "surahNumber": 93,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ",
+        "en_sahih": "English translation of [93:9] in Sahih International style.",
+        "en_yusufali": "English translation of [93:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 93 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [93:9] en español.",
+        "fr_hamidullah": "Traduction de [93:9] en français.",
+        "bn_hoque": "সূরা 93 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "93:10",
+      "surahNumber": 93,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "وَأَمَّا السَّائِلَ فَلَا تَنْهَرْ",
+        "en_sahih": "English translation of [93:10] in Sahih International style.",
+        "en_yusufali": "English translation of [93:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 93 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [93:10] en español.",
+        "fr_hamidullah": "Traduction de [93:10] en français.",
+        "bn_hoque": "সূরা 93 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "93:11",
+      "surahNumber": 93,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+        "en_sahih": "English translation of [93:11] in Sahih International style.",
+        "en_yusufali": "English translation of [93:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 93 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [93:11] en español.",
+        "fr_hamidullah": "Traduction de [93:11] en français.",
+        "bn_hoque": "সূরা 93 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

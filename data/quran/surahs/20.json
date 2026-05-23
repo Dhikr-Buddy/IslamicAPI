@@ -1,0 +1,1905 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.975Z",
+  "surahNumber": 20,
+  "ayahCount": 135,
+  "ayahs": [
+    {
+      "id": "20:1",
+      "surahNumber": 20,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ طه",
+        "en_sahih": "English translation of [20:1] in Sahih International style.",
+        "en_yusufali": "English translation of [20:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:1] en español.",
+        "fr_hamidullah": "Traduction de [20:1] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:2",
+      "surahNumber": 20,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "مَا أَنْزَلْنَا عَلَيْكَ الْقُرْآنَ لِتَشْقَىٰ",
+        "en_sahih": "English translation of [20:2] in Sahih International style.",
+        "en_yusufali": "English translation of [20:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:2] en español.",
+        "fr_hamidullah": "Traduction de [20:2] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:3",
+      "surahNumber": 20,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "إِلَّا تَذْكِرَةً لِمَنْ يَخْشَىٰ",
+        "en_sahih": "English translation of [20:3] in Sahih International style.",
+        "en_yusufali": "English translation of [20:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:3] en español.",
+        "fr_hamidullah": "Traduction de [20:3] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:4",
+      "surahNumber": 20,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "تَنْزِيلًا مِمَّنْ خَلَقَ الْأَرْضَ وَالسَّمَاوَاتِ الْعُلَى",
+        "en_sahih": "English translation of [20:4] in Sahih International style.",
+        "en_yusufali": "English translation of [20:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:4] en español.",
+        "fr_hamidullah": "Traduction de [20:4] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:5",
+      "surahNumber": 20,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "الرَّحْمَٰنُ عَلَى الْعَرْشِ اسْتَوَىٰ",
+        "en_sahih": "English translation of [20:5] in Sahih International style.",
+        "en_yusufali": "English translation of [20:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:5] en español.",
+        "fr_hamidullah": "Traduction de [20:5] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:6",
+      "surahNumber": 20,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَمَا بَيْنَهُمَا وَمَا تَحْتَ الثَّرَىٰ",
+        "en_sahih": "English translation of [20:6] in Sahih International style.",
+        "en_yusufali": "English translation of [20:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:6] en español.",
+        "fr_hamidullah": "Traduction de [20:6] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:7",
+      "surahNumber": 20,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "وَإِنْ تَجْهَرْ بِالْقَوْلِ فَإِنَّهُ يَعْلَمُ السِّرَّ وَأَخْفَى",
+        "en_sahih": "English translation of [20:7] in Sahih International style.",
+        "en_yusufali": "English translation of [20:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:7] en español.",
+        "fr_hamidullah": "Traduction de [20:7] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:8",
+      "surahNumber": 20,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ ۖ لَهُ الْأَسْمَاءُ الْحُسْنَىٰ",
+        "en_sahih": "English translation of [20:8] in Sahih International style.",
+        "en_yusufali": "English translation of [20:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:8] en español.",
+        "fr_hamidullah": "Traduction de [20:8] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:9",
+      "surahNumber": 20,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "وَهَلْ أَتَاكَ حَدِيثُ مُوسَىٰ",
+        "en_sahih": "English translation of [20:9] in Sahih International style.",
+        "en_yusufali": "English translation of [20:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:9] en español.",
+        "fr_hamidullah": "Traduction de [20:9] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:10",
+      "surahNumber": 20,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "إِذْ رَأَىٰ نَارًا فَقَالَ لِأَهْلِهِ امْكُثُوا إِنِّي آنَسْتُ نَارًا لَعَلِّي آتِيكُمْ مِنْهَا بِقَبَسٍ أَوْ أَجِدُ عَلَى النَّارِ هُدًى",
+        "en_sahih": "English translation of [20:10] in Sahih International style.",
+        "en_yusufali": "English translation of [20:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:10] en español.",
+        "fr_hamidullah": "Traduction de [20:10] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:11",
+      "surahNumber": 20,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "فَلَمَّا أَتَاهَا نُودِيَ يَا مُوسَىٰ",
+        "en_sahih": "English translation of [20:11] in Sahih International style.",
+        "en_yusufali": "English translation of [20:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:11] en español.",
+        "fr_hamidullah": "Traduction de [20:11] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:12",
+      "surahNumber": 20,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "إِنِّي أَنَا رَبُّكَ فَاخْلَعْ نَعْلَيْكَ ۖ إِنَّكَ بِالْوَادِ الْمُقَدَّسِ طُوًى",
+        "en_sahih": "English translation of [20:12] in Sahih International style.",
+        "en_yusufali": "English translation of [20:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:12] en español.",
+        "fr_hamidullah": "Traduction de [20:12] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:13",
+      "surahNumber": 20,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "وَأَنَا اخْتَرْتُكَ فَاسْتَمِعْ لِمَا يُوحَىٰ",
+        "en_sahih": "English translation of [20:13] in Sahih International style.",
+        "en_yusufali": "English translation of [20:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:13] en español.",
+        "fr_hamidullah": "Traduction de [20:13] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:14",
+      "surahNumber": 20,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "إِنَّنِي أَنَا اللَّهُ لَا إِلَٰهَ إِلَّا أَنَا فَاعْبُدْنِي وَأَقِمِ الصَّلَاةَ لِذِكْرِي",
+        "en_sahih": "English translation of [20:14] in Sahih International style.",
+        "en_yusufali": "English translation of [20:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:14] en español.",
+        "fr_hamidullah": "Traduction de [20:14] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:15",
+      "surahNumber": 20,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "إِنَّ السَّاعَةَ آتِيَةٌ أَكَادُ أُخْفِيهَا لِتُجْزَىٰ كُلُّ نَفْسٍ بِمَا تَسْعَىٰ",
+        "en_sahih": "English translation of [20:15] in Sahih International style.",
+        "en_yusufali": "English translation of [20:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:15] en español.",
+        "fr_hamidullah": "Traduction de [20:15] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:16",
+      "surahNumber": 20,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "فَلَا يَصُدَّنَّكَ عَنْهَا مَنْ لَا يُؤْمِنُ بِهَا وَاتَّبَعَ هَوَاهُ فَتَرْدَىٰ",
+        "en_sahih": "English translation of [20:16] in Sahih International style.",
+        "en_yusufali": "English translation of [20:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:16] en español.",
+        "fr_hamidullah": "Traduction de [20:16] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:17",
+      "surahNumber": 20,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "وَمَا تِلْكَ بِيَمِينِكَ يَا مُوسَىٰ",
+        "en_sahih": "English translation of [20:17] in Sahih International style.",
+        "en_yusufali": "English translation of [20:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:17] en español.",
+        "fr_hamidullah": "Traduction de [20:17] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:18",
+      "surahNumber": 20,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "قَالَ هِيَ عَصَايَ أَتَوَكَّأُ عَلَيْهَا وَأَهُشُّ بِهَا عَلَىٰ غَنَمِي وَلِيَ فِيهَا مَآرِبُ أُخْرَىٰ",
+        "en_sahih": "English translation of [20:18] in Sahih International style.",
+        "en_yusufali": "English translation of [20:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:18] en español.",
+        "fr_hamidullah": "Traduction de [20:18] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:19",
+      "surahNumber": 20,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "قَالَ أَلْقِهَا يَا مُوسَىٰ",
+        "en_sahih": "English translation of [20:19] in Sahih International style.",
+        "en_yusufali": "English translation of [20:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:19] en español.",
+        "fr_hamidullah": "Traduction de [20:19] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:20",
+      "surahNumber": 20,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "فَأَلْقَاهَا فَإِذَا هِيَ حَيَّةٌ تَسْعَىٰ",
+        "en_sahih": "English translation of [20:20] in Sahih International style.",
+        "en_yusufali": "English translation of [20:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:20] en español.",
+        "fr_hamidullah": "Traduction de [20:20] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:21",
+      "surahNumber": 20,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "قَالَ خُذْهَا وَلَا تَخَفْ ۖ سَنُعِيدُهَا سِيرَتَهَا الْأُولَىٰ",
+        "en_sahih": "English translation of [20:21] in Sahih International style.",
+        "en_yusufali": "English translation of [20:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:21] en español.",
+        "fr_hamidullah": "Traduction de [20:21] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:22",
+      "surahNumber": 20,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "وَاضْمُمْ يَدَكَ إِلَىٰ جَنَاحِكَ تَخْرُجْ بَيْضَاءَ مِنْ غَيْرِ سُوءٍ آيَةً أُخْرَىٰ",
+        "en_sahih": "English translation of [20:22] in Sahih International style.",
+        "en_yusufali": "English translation of [20:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:22] en español.",
+        "fr_hamidullah": "Traduction de [20:22] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:23",
+      "surahNumber": 20,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "لِنُرِيَكَ مِنْ آيَاتِنَا الْكُبْرَى",
+        "en_sahih": "English translation of [20:23] in Sahih International style.",
+        "en_yusufali": "English translation of [20:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:23] en español.",
+        "fr_hamidullah": "Traduction de [20:23] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:24",
+      "surahNumber": 20,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "اذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُ طَغَىٰ",
+        "en_sahih": "English translation of [20:24] in Sahih International style.",
+        "en_yusufali": "English translation of [20:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:24] en español.",
+        "fr_hamidullah": "Traduction de [20:24] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:25",
+      "surahNumber": 20,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "قَالَ رَبِّ اشْرَحْ لِي صَدْرِي",
+        "en_sahih": "English translation of [20:25] in Sahih International style.",
+        "en_yusufali": "English translation of [20:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:25] en español.",
+        "fr_hamidullah": "Traduction de [20:25] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:26",
+      "surahNumber": 20,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "وَيَسِّرْ لِي أَمْرِي",
+        "en_sahih": "English translation of [20:26] in Sahih International style.",
+        "en_yusufali": "English translation of [20:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:26] en español.",
+        "fr_hamidullah": "Traduction de [20:26] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:27",
+      "surahNumber": 20,
+      "ayahNumber": 27,
+      "text": {
+        "simple": "وَاحْلُلْ عُقْدَةً مِنْ لِسَانِي",
+        "en_sahih": "English translation of [20:27] in Sahih International style.",
+        "en_yusufali": "English translation of [20:27] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:27] en español.",
+        "fr_hamidullah": "Traduction de [20:27] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:28",
+      "surahNumber": 20,
+      "ayahNumber": 28,
+      "text": {
+        "simple": "يَفْقَهُوا قَوْلِي",
+        "en_sahih": "English translation of [20:28] in Sahih International style.",
+        "en_yusufali": "English translation of [20:28] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:28] en español.",
+        "fr_hamidullah": "Traduction de [20:28] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:29",
+      "surahNumber": 20,
+      "ayahNumber": 29,
+      "text": {
+        "simple": "وَاجْعَلْ لِي وَزِيرًا مِنْ أَهْلِي",
+        "en_sahih": "English translation of [20:29] in Sahih International style.",
+        "en_yusufali": "English translation of [20:29] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:29] en español.",
+        "fr_hamidullah": "Traduction de [20:29] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:30",
+      "surahNumber": 20,
+      "ayahNumber": 30,
+      "text": {
+        "simple": "هَارُونَ أَخِي",
+        "en_sahih": "English translation of [20:30] in Sahih International style.",
+        "en_yusufali": "English translation of [20:30] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:30] en español.",
+        "fr_hamidullah": "Traduction de [20:30] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:31",
+      "surahNumber": 20,
+      "ayahNumber": 31,
+      "text": {
+        "simple": "اشْدُدْ بِهِ أَزْرِي",
+        "en_sahih": "English translation of [20:31] in Sahih International style.",
+        "en_yusufali": "English translation of [20:31] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:31] en español.",
+        "fr_hamidullah": "Traduction de [20:31] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:32",
+      "surahNumber": 20,
+      "ayahNumber": 32,
+      "text": {
+        "simple": "وَأَشْرِكْهُ فِي أَمْرِي",
+        "en_sahih": "English translation of [20:32] in Sahih International style.",
+        "en_yusufali": "English translation of [20:32] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:32] en español.",
+        "fr_hamidullah": "Traduction de [20:32] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:33",
+      "surahNumber": 20,
+      "ayahNumber": 33,
+      "text": {
+        "simple": "كَيْ نُسَبِّحَكَ كَثِيرًا",
+        "en_sahih": "English translation of [20:33] in Sahih International style.",
+        "en_yusufali": "English translation of [20:33] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:33] en español.",
+        "fr_hamidullah": "Traduction de [20:33] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:34",
+      "surahNumber": 20,
+      "ayahNumber": 34,
+      "text": {
+        "simple": "وَنَذْكُرَكَ كَثِيرًا",
+        "en_sahih": "English translation of [20:34] in Sahih International style.",
+        "en_yusufali": "English translation of [20:34] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:34] en español.",
+        "fr_hamidullah": "Traduction de [20:34] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:35",
+      "surahNumber": 20,
+      "ayahNumber": 35,
+      "text": {
+        "simple": "إِنَّكَ كُنْتَ بِنَا بَصِيرًا",
+        "en_sahih": "English translation of [20:35] in Sahih International style.",
+        "en_yusufali": "English translation of [20:35] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:35] en español.",
+        "fr_hamidullah": "Traduction de [20:35] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:36",
+      "surahNumber": 20,
+      "ayahNumber": 36,
+      "text": {
+        "simple": "قَالَ قَدْ أُوتِيتَ سُؤْلَكَ يَا مُوسَىٰ",
+        "en_sahih": "English translation of [20:36] in Sahih International style.",
+        "en_yusufali": "English translation of [20:36] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:36] en español.",
+        "fr_hamidullah": "Traduction de [20:36] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:37",
+      "surahNumber": 20,
+      "ayahNumber": 37,
+      "text": {
+        "simple": "وَلَقَدْ مَنَنَّا عَلَيْكَ مَرَّةً أُخْرَىٰ",
+        "en_sahih": "English translation of [20:37] in Sahih International style.",
+        "en_yusufali": "English translation of [20:37] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:37] en español.",
+        "fr_hamidullah": "Traduction de [20:37] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:38",
+      "surahNumber": 20,
+      "ayahNumber": 38,
+      "text": {
+        "simple": "إِذْ أَوْحَيْنَا إِلَىٰ أُمِّكَ مَا يُوحَىٰ",
+        "en_sahih": "English translation of [20:38] in Sahih International style.",
+        "en_yusufali": "English translation of [20:38] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 38 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:38] en español.",
+        "fr_hamidullah": "Traduction de [20:38] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:39",
+      "surahNumber": 20,
+      "ayahNumber": 39,
+      "text": {
+        "simple": "أَنِ اقْذِفِيهِ فِي التَّابُوتِ فَاقْذِفِيهِ فِي الْيَمِّ فَلْيُلْقِهِ الْيَمُّ بِالسَّاحِلِ يَأْخُذْهُ عَدُوٌّ لِي وَعَدُوٌّ لَهُ ۚ وَأَلْقَيْتُ عَلَيْكَ مَحَبَّةً مِنِّي وَلِتُصْنَعَ عَلَىٰ عَيْنِي",
+        "en_sahih": "English translation of [20:39] in Sahih International style.",
+        "en_yusufali": "English translation of [20:39] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 39 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:39] en español.",
+        "fr_hamidullah": "Traduction de [20:39] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:40",
+      "surahNumber": 20,
+      "ayahNumber": 40,
+      "text": {
+        "simple": "إِذْ تَمْشِي أُخْتُكَ فَتَقُولُ هَلْ أَدُلُّكُمْ عَلَىٰ مَنْ يَكْفُلُهُ ۖ فَرَجَعْنَاكَ إِلَىٰ أُمِّكَ كَيْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ ۚ وَقَتَلْتَ نَفْسًا فَنَجَّيْنَاكَ مِنَ الْغَمِّ وَفَتَنَّاكَ فُتُونًا ۚ فَلَبِثْتَ سِنِينَ فِي أَهْلِ مَدْيَنَ ثُمَّ جِئْتَ عَلَىٰ قَدَرٍ يَا مُوسَىٰ",
+        "en_sahih": "English translation of [20:40] in Sahih International style.",
+        "en_yusufali": "English translation of [20:40] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 40 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:40] en español.",
+        "fr_hamidullah": "Traduction de [20:40] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:41",
+      "surahNumber": 20,
+      "ayahNumber": 41,
+      "text": {
+        "simple": "وَاصْطَنَعْتُكَ لِنَفْسِي",
+        "en_sahih": "English translation of [20:41] in Sahih International style.",
+        "en_yusufali": "English translation of [20:41] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 41 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:41] en español.",
+        "fr_hamidullah": "Traduction de [20:41] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:42",
+      "surahNumber": 20,
+      "ayahNumber": 42,
+      "text": {
+        "simple": "اذْهَبْ أَنْتَ وَأَخُوكَ بِآيَاتِي وَلَا تَنِيَا فِي ذِكْرِي",
+        "en_sahih": "English translation of [20:42] in Sahih International style.",
+        "en_yusufali": "English translation of [20:42] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 42 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:42] en español.",
+        "fr_hamidullah": "Traduction de [20:42] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:43",
+      "surahNumber": 20,
+      "ayahNumber": 43,
+      "text": {
+        "simple": "اذْهَبَا إِلَىٰ فِرْعَوْنَ إِنَّهُ طَغَىٰ",
+        "en_sahih": "English translation of [20:43] in Sahih International style.",
+        "en_yusufali": "English translation of [20:43] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 43 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:43] en español.",
+        "fr_hamidullah": "Traduction de [20:43] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:44",
+      "surahNumber": 20,
+      "ayahNumber": 44,
+      "text": {
+        "simple": "فَقُولَا لَهُ قَوْلًا لَيِّنًا لَعَلَّهُ يَتَذَكَّرُ أَوْ يَخْشَىٰ",
+        "en_sahih": "English translation of [20:44] in Sahih International style.",
+        "en_yusufali": "English translation of [20:44] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 44 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:44] en español.",
+        "fr_hamidullah": "Traduction de [20:44] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:45",
+      "surahNumber": 20,
+      "ayahNumber": 45,
+      "text": {
+        "simple": "قَالَا رَبَّنَا إِنَّنَا نَخَافُ أَنْ يَفْرُطَ عَلَيْنَا أَوْ أَنْ يَطْغَىٰ",
+        "en_sahih": "English translation of [20:45] in Sahih International style.",
+        "en_yusufali": "English translation of [20:45] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 45 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:45] en español.",
+        "fr_hamidullah": "Traduction de [20:45] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:46",
+      "surahNumber": 20,
+      "ayahNumber": 46,
+      "text": {
+        "simple": "قَالَ لَا تَخَافَا ۖ إِنَّنِي مَعَكُمَا أَسْمَعُ وَأَرَىٰ",
+        "en_sahih": "English translation of [20:46] in Sahih International style.",
+        "en_yusufali": "English translation of [20:46] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 46 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:46] en español.",
+        "fr_hamidullah": "Traduction de [20:46] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:47",
+      "surahNumber": 20,
+      "ayahNumber": 47,
+      "text": {
+        "simple": "فَأْتِيَاهُ فَقُولَا إِنَّا رَسُولَا رَبِّكَ فَأَرْسِلْ مَعَنَا بَنِي إِسْرَائِيلَ وَلَا تُعَذِّبْهُمْ ۖ قَدْ جِئْنَاكَ بِآيَةٍ مِنْ رَبِّكَ ۖ وَالسَّلَامُ عَلَىٰ مَنِ اتَّبَعَ الْهُدَىٰ",
+        "en_sahih": "English translation of [20:47] in Sahih International style.",
+        "en_yusufali": "English translation of [20:47] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 47 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:47] en español.",
+        "fr_hamidullah": "Traduction de [20:47] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:48",
+      "surahNumber": 20,
+      "ayahNumber": 48,
+      "text": {
+        "simple": "إِنَّا قَدْ أُوحِيَ إِلَيْنَا أَنَّ الْعَذَابَ عَلَىٰ مَنْ كَذَّبَ وَتَوَلَّىٰ",
+        "en_sahih": "English translation of [20:48] in Sahih International style.",
+        "en_yusufali": "English translation of [20:48] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 48 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:48] en español.",
+        "fr_hamidullah": "Traduction de [20:48] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:49",
+      "surahNumber": 20,
+      "ayahNumber": 49,
+      "text": {
+        "simple": "قَالَ فَمَنْ رَبُّكُمَا يَا مُوسَىٰ",
+        "en_sahih": "English translation of [20:49] in Sahih International style.",
+        "en_yusufali": "English translation of [20:49] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 49 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:49] en español.",
+        "fr_hamidullah": "Traduction de [20:49] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:50",
+      "surahNumber": 20,
+      "ayahNumber": 50,
+      "text": {
+        "simple": "قَالَ رَبُّنَا الَّذِي أَعْطَىٰ كُلَّ شَيْءٍ خَلْقَهُ ثُمَّ هَدَىٰ",
+        "en_sahih": "English translation of [20:50] in Sahih International style.",
+        "en_yusufali": "English translation of [20:50] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 50 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:50] en español.",
+        "fr_hamidullah": "Traduction de [20:50] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:51",
+      "surahNumber": 20,
+      "ayahNumber": 51,
+      "text": {
+        "simple": "قَالَ فَمَا بَالُ الْقُرُونِ الْأُولَىٰ",
+        "en_sahih": "English translation of [20:51] in Sahih International style.",
+        "en_yusufali": "English translation of [20:51] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 51 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:51] en español.",
+        "fr_hamidullah": "Traduction de [20:51] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:52",
+      "surahNumber": 20,
+      "ayahNumber": 52,
+      "text": {
+        "simple": "قَالَ عِلْمُهَا عِنْدَ رَبِّي فِي كِتَابٍ ۖ لَا يَضِلُّ رَبِّي وَلَا يَنْسَى",
+        "en_sahih": "English translation of [20:52] in Sahih International style.",
+        "en_yusufali": "English translation of [20:52] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 52 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:52] en español.",
+        "fr_hamidullah": "Traduction de [20:52] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:53",
+      "surahNumber": 20,
+      "ayahNumber": 53,
+      "text": {
+        "simple": "الَّذِي جَعَلَ لَكُمُ الْأَرْضَ مَهْدًا وَسَلَكَ لَكُمْ فِيهَا سُبُلًا وَأَنْزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجْنَا بِهِ أَزْوَاجًا مِنْ نَبَاتٍ شَتَّىٰ",
+        "en_sahih": "English translation of [20:53] in Sahih International style.",
+        "en_yusufali": "English translation of [20:53] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 53 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:53] en español.",
+        "fr_hamidullah": "Traduction de [20:53] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 53 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:54",
+      "surahNumber": 20,
+      "ayahNumber": 54,
+      "text": {
+        "simple": "كُلُوا وَارْعَوْا أَنْعَامَكُمْ ۗ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِأُولِي النُّهَىٰ",
+        "en_sahih": "English translation of [20:54] in Sahih International style.",
+        "en_yusufali": "English translation of [20:54] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 54 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:54] en español.",
+        "fr_hamidullah": "Traduction de [20:54] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 54 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:55",
+      "surahNumber": 20,
+      "ayahNumber": 55,
+      "text": {
+        "simple": "۞ مِنْهَا خَلَقْنَاكُمْ وَفِيهَا نُعِيدُكُمْ وَمِنْهَا نُخْرِجُكُمْ تَارَةً أُخْرَىٰ",
+        "en_sahih": "English translation of [20:55] in Sahih International style.",
+        "en_yusufali": "English translation of [20:55] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 55 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:55] en español.",
+        "fr_hamidullah": "Traduction de [20:55] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 55 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:56",
+      "surahNumber": 20,
+      "ayahNumber": 56,
+      "text": {
+        "simple": "وَلَقَدْ أَرَيْنَاهُ آيَاتِنَا كُلَّهَا فَكَذَّبَ وَأَبَىٰ",
+        "en_sahih": "English translation of [20:56] in Sahih International style.",
+        "en_yusufali": "English translation of [20:56] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 56 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:56] en español.",
+        "fr_hamidullah": "Traduction de [20:56] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 56 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:57",
+      "surahNumber": 20,
+      "ayahNumber": 57,
+      "text": {
+        "simple": "قَالَ أَجِئْتَنَا لِتُخْرِجَنَا مِنْ أَرْضِنَا بِسِحْرِكَ يَا مُوسَىٰ",
+        "en_sahih": "English translation of [20:57] in Sahih International style.",
+        "en_yusufali": "English translation of [20:57] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 57 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:57] en español.",
+        "fr_hamidullah": "Traduction de [20:57] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 57 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:58",
+      "surahNumber": 20,
+      "ayahNumber": 58,
+      "text": {
+        "simple": "فَلَنَأْتِيَنَّكَ بِسِحْرٍ مِثْلِهِ فَاجْعَلْ بَيْنَنَا وَبَيْنَكَ مَوْعِدًا لَا نُخْلِفُهُ نَحْنُ وَلَا أَنْتَ مَكَانًا سُوًى",
+        "en_sahih": "English translation of [20:58] in Sahih International style.",
+        "en_yusufali": "English translation of [20:58] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 58 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:58] en español.",
+        "fr_hamidullah": "Traduction de [20:58] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 58 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:59",
+      "surahNumber": 20,
+      "ayahNumber": 59,
+      "text": {
+        "simple": "قَالَ مَوْعِدُكُمْ يَوْمُ الزِّينَةِ وَأَنْ يُحْشَرَ النَّاسُ ضُحًى",
+        "en_sahih": "English translation of [20:59] in Sahih International style.",
+        "en_yusufali": "English translation of [20:59] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 59 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:59] en español.",
+        "fr_hamidullah": "Traduction de [20:59] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 59 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:60",
+      "surahNumber": 20,
+      "ayahNumber": 60,
+      "text": {
+        "simple": "فَتَوَلَّىٰ فِرْعَوْنُ فَجَمَعَ كَيْدَهُ ثُمَّ أَتَىٰ",
+        "en_sahih": "English translation of [20:60] in Sahih International style.",
+        "en_yusufali": "English translation of [20:60] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 60 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:60] en español.",
+        "fr_hamidullah": "Traduction de [20:60] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 60 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:61",
+      "surahNumber": 20,
+      "ayahNumber": 61,
+      "text": {
+        "simple": "قَالَ لَهُمْ مُوسَىٰ وَيْلَكُمْ لَا تَفْتَرُوا عَلَى اللَّهِ كَذِبًا فَيُسْحِتَكُمْ بِعَذَابٍ ۖ وَقَدْ خَابَ مَنِ افْتَرَىٰ",
+        "en_sahih": "English translation of [20:61] in Sahih International style.",
+        "en_yusufali": "English translation of [20:61] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 61 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:61] en español.",
+        "fr_hamidullah": "Traduction de [20:61] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 61 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:62",
+      "surahNumber": 20,
+      "ayahNumber": 62,
+      "text": {
+        "simple": "فَتَنَازَعُوا أَمْرَهُمْ بَيْنَهُمْ وَأَسَرُّوا النَّجْوَىٰ",
+        "en_sahih": "English translation of [20:62] in Sahih International style.",
+        "en_yusufali": "English translation of [20:62] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 62 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:62] en español.",
+        "fr_hamidullah": "Traduction de [20:62] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 62 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:63",
+      "surahNumber": 20,
+      "ayahNumber": 63,
+      "text": {
+        "simple": "قَالُوا إِنْ هَٰذَانِ لَسَاحِرَانِ يُرِيدَانِ أَنْ يُخْرِجَاكُمْ مِنْ أَرْضِكُمْ بِسِحْرِهِمَا وَيَذْهَبَا بِطَرِيقَتِكُمُ الْمُثْلَىٰ",
+        "en_sahih": "English translation of [20:63] in Sahih International style.",
+        "en_yusufali": "English translation of [20:63] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 63 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:63] en español.",
+        "fr_hamidullah": "Traduction de [20:63] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 63 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:64",
+      "surahNumber": 20,
+      "ayahNumber": 64,
+      "text": {
+        "simple": "فَأَجْمِعُوا كَيْدَكُمْ ثُمَّ ائْتُوا صَفًّا ۚ وَقَدْ أَفْلَحَ الْيَوْمَ مَنِ اسْتَعْلَىٰ",
+        "en_sahih": "English translation of [20:64] in Sahih International style.",
+        "en_yusufali": "English translation of [20:64] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 64 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:64] en español.",
+        "fr_hamidullah": "Traduction de [20:64] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 64 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:65",
+      "surahNumber": 20,
+      "ayahNumber": 65,
+      "text": {
+        "simple": "قَالُوا يَا مُوسَىٰ إِمَّا أَنْ تُلْقِيَ وَإِمَّا أَنْ نَكُونَ أَوَّلَ مَنْ أَلْقَىٰ",
+        "en_sahih": "English translation of [20:65] in Sahih International style.",
+        "en_yusufali": "English translation of [20:65] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 65 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:65] en español.",
+        "fr_hamidullah": "Traduction de [20:65] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 65 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:66",
+      "surahNumber": 20,
+      "ayahNumber": 66,
+      "text": {
+        "simple": "قَالَ بَلْ أَلْقُوا ۖ فَإِذَا حِبَالُهُمْ وَعِصِيُّهُمْ يُخَيَّلُ إِلَيْهِ مِنْ سِحْرِهِمْ أَنَّهَا تَسْعَىٰ",
+        "en_sahih": "English translation of [20:66] in Sahih International style.",
+        "en_yusufali": "English translation of [20:66] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 66 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:66] en español.",
+        "fr_hamidullah": "Traduction de [20:66] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 66 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:67",
+      "surahNumber": 20,
+      "ayahNumber": 67,
+      "text": {
+        "simple": "فَأَوْجَسَ فِي نَفْسِهِ خِيفَةً مُوسَىٰ",
+        "en_sahih": "English translation of [20:67] in Sahih International style.",
+        "en_yusufali": "English translation of [20:67] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 67 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:67] en español.",
+        "fr_hamidullah": "Traduction de [20:67] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 67 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:68",
+      "surahNumber": 20,
+      "ayahNumber": 68,
+      "text": {
+        "simple": "قُلْنَا لَا تَخَفْ إِنَّكَ أَنْتَ الْأَعْلَىٰ",
+        "en_sahih": "English translation of [20:68] in Sahih International style.",
+        "en_yusufali": "English translation of [20:68] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 68 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:68] en español.",
+        "fr_hamidullah": "Traduction de [20:68] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 68 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:69",
+      "surahNumber": 20,
+      "ayahNumber": 69,
+      "text": {
+        "simple": "وَأَلْقِ مَا فِي يَمِينِكَ تَلْقَفْ مَا صَنَعُوا ۖ إِنَّمَا صَنَعُوا كَيْدُ سَاحِرٍ ۖ وَلَا يُفْلِحُ السَّاحِرُ حَيْثُ أَتَىٰ",
+        "en_sahih": "English translation of [20:69] in Sahih International style.",
+        "en_yusufali": "English translation of [20:69] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 69 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:69] en español.",
+        "fr_hamidullah": "Traduction de [20:69] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 69 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:70",
+      "surahNumber": 20,
+      "ayahNumber": 70,
+      "text": {
+        "simple": "فَأُلْقِيَ السَّحَرَةُ سُجَّدًا قَالُوا آمَنَّا بِرَبِّ هَارُونَ وَمُوسَىٰ",
+        "en_sahih": "English translation of [20:70] in Sahih International style.",
+        "en_yusufali": "English translation of [20:70] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 70 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:70] en español.",
+        "fr_hamidullah": "Traduction de [20:70] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 70 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:71",
+      "surahNumber": 20,
+      "ayahNumber": 71,
+      "text": {
+        "simple": "قَالَ آمَنْتُمْ لَهُ قَبْلَ أَنْ آذَنَ لَكُمْ ۖ إِنَّهُ لَكَبِيرُكُمُ الَّذِي عَلَّمَكُمُ السِّحْرَ ۖ فَلَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُمْ مِنْ خِلَافٍ وَلَأُصَلِّبَنَّكُمْ فِي جُذُوعِ النَّخْلِ وَلَتَعْلَمُنَّ أَيُّنَا أَشَدُّ عَذَابًا وَأَبْقَىٰ",
+        "en_sahih": "English translation of [20:71] in Sahih International style.",
+        "en_yusufali": "English translation of [20:71] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 71 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:71] en español.",
+        "fr_hamidullah": "Traduction de [20:71] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 71 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:72",
+      "surahNumber": 20,
+      "ayahNumber": 72,
+      "text": {
+        "simple": "قَالُوا لَنْ نُؤْثِرَكَ عَلَىٰ مَا جَاءَنَا مِنَ الْبَيِّنَاتِ وَالَّذِي فَطَرَنَا ۖ فَاقْضِ مَا أَنْتَ قَاضٍ ۖ إِنَّمَا تَقْضِي هَٰذِهِ الْحَيَاةَ الدُّنْيَا",
+        "en_sahih": "English translation of [20:72] in Sahih International style.",
+        "en_yusufali": "English translation of [20:72] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 72 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:72] en español.",
+        "fr_hamidullah": "Traduction de [20:72] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 72 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:73",
+      "surahNumber": 20,
+      "ayahNumber": 73,
+      "text": {
+        "simple": "إِنَّا آمَنَّا بِرَبِّنَا لِيَغْفِرَ لَنَا خَطَايَانَا وَمَا أَكْرَهْتَنَا عَلَيْهِ مِنَ السِّحْرِ ۗ وَاللَّهُ خَيْرٌ وَأَبْقَىٰ",
+        "en_sahih": "English translation of [20:73] in Sahih International style.",
+        "en_yusufali": "English translation of [20:73] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 73 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:73] en español.",
+        "fr_hamidullah": "Traduction de [20:73] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 73 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:74",
+      "surahNumber": 20,
+      "ayahNumber": 74,
+      "text": {
+        "simple": "إِنَّهُ مَنْ يَأْتِ رَبَّهُ مُجْرِمًا فَإِنَّ لَهُ جَهَنَّمَ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ",
+        "en_sahih": "English translation of [20:74] in Sahih International style.",
+        "en_yusufali": "English translation of [20:74] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 74 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:74] en español.",
+        "fr_hamidullah": "Traduction de [20:74] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 74 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:75",
+      "surahNumber": 20,
+      "ayahNumber": 75,
+      "text": {
+        "simple": "وَمَنْ يَأْتِهِ مُؤْمِنًا قَدْ عَمِلَ الصَّالِحَاتِ فَأُولَٰئِكَ لَهُمُ الدَّرَجَاتُ الْعُلَىٰ",
+        "en_sahih": "English translation of [20:75] in Sahih International style.",
+        "en_yusufali": "English translation of [20:75] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 75 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:75] en español.",
+        "fr_hamidullah": "Traduction de [20:75] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 75 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:76",
+      "surahNumber": 20,
+      "ayahNumber": 76,
+      "text": {
+        "simple": "جَنَّاتُ عَدْنٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا ۚ وَذَٰلِكَ جَزَاءُ مَنْ تَزَكَّىٰ",
+        "en_sahih": "English translation of [20:76] in Sahih International style.",
+        "en_yusufali": "English translation of [20:76] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 76 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:76] en español.",
+        "fr_hamidullah": "Traduction de [20:76] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 76 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:77",
+      "surahNumber": 20,
+      "ayahNumber": 77,
+      "text": {
+        "simple": "وَلَقَدْ أَوْحَيْنَا إِلَىٰ مُوسَىٰ أَنْ أَسْرِ بِعِبَادِي فَاضْرِبْ لَهُمْ طَرِيقًا فِي الْبَحْرِ يَبَسًا لَا تَخَافُ دَرَكًا وَلَا تَخْشَىٰ",
+        "en_sahih": "English translation of [20:77] in Sahih International style.",
+        "en_yusufali": "English translation of [20:77] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 77 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:77] en español.",
+        "fr_hamidullah": "Traduction de [20:77] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 77 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:78",
+      "surahNumber": 20,
+      "ayahNumber": 78,
+      "text": {
+        "simple": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِ فَغَشِيَهُمْ مِنَ الْيَمِّ مَا غَشِيَهُمْ",
+        "en_sahih": "English translation of [20:78] in Sahih International style.",
+        "en_yusufali": "English translation of [20:78] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 78 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:78] en español.",
+        "fr_hamidullah": "Traduction de [20:78] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 78 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:79",
+      "surahNumber": 20,
+      "ayahNumber": 79,
+      "text": {
+        "simple": "وَأَضَلَّ فِرْعَوْنُ قَوْمَهُ وَمَا هَدَىٰ",
+        "en_sahih": "English translation of [20:79] in Sahih International style.",
+        "en_yusufali": "English translation of [20:79] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 79 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:79] en español.",
+        "fr_hamidullah": "Traduction de [20:79] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 79 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:80",
+      "surahNumber": 20,
+      "ayahNumber": 80,
+      "text": {
+        "simple": "يَا بَنِي إِسْرَائِيلَ قَدْ أَنْجَيْنَاكُمْ مِنْ عَدُوِّكُمْ وَوَاعَدْنَاكُمْ جَانِبَ الطُّورِ الْأَيْمَنَ وَنَزَّلْنَا عَلَيْكُمُ الْمَنَّ وَالسَّلْوَىٰ",
+        "en_sahih": "English translation of [20:80] in Sahih International style.",
+        "en_yusufali": "English translation of [20:80] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 80 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:80] en español.",
+        "fr_hamidullah": "Traduction de [20:80] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 80 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:81",
+      "surahNumber": 20,
+      "ayahNumber": 81,
+      "text": {
+        "simple": "كُلُوا مِنْ طَيِّبَاتِ مَا رَزَقْنَاكُمْ وَلَا تَطْغَوْا فِيهِ فَيَحِلَّ عَلَيْكُمْ غَضَبِي ۖ وَمَنْ يَحْلِلْ عَلَيْهِ غَضَبِي فَقَدْ هَوَىٰ",
+        "en_sahih": "English translation of [20:81] in Sahih International style.",
+        "en_yusufali": "English translation of [20:81] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 81 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:81] en español.",
+        "fr_hamidullah": "Traduction de [20:81] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 81 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:82",
+      "surahNumber": 20,
+      "ayahNumber": 82,
+      "text": {
+        "simple": "وَإِنِّي لَغَفَّارٌ لِمَنْ تَابَ وَآمَنَ وَعَمِلَ صَالِحًا ثُمَّ اهْتَدَىٰ",
+        "en_sahih": "English translation of [20:82] in Sahih International style.",
+        "en_yusufali": "English translation of [20:82] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 82 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:82] en español.",
+        "fr_hamidullah": "Traduction de [20:82] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 82 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:83",
+      "surahNumber": 20,
+      "ayahNumber": 83,
+      "text": {
+        "simple": "۞ وَمَا أَعْجَلَكَ عَنْ قَوْمِكَ يَا مُوسَىٰ",
+        "en_sahih": "English translation of [20:83] in Sahih International style.",
+        "en_yusufali": "English translation of [20:83] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 83 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:83] en español.",
+        "fr_hamidullah": "Traduction de [20:83] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 83 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:84",
+      "surahNumber": 20,
+      "ayahNumber": 84,
+      "text": {
+        "simple": "قَالَ هُمْ أُولَاءِ عَلَىٰ أَثَرِي وَعَجِلْتُ إِلَيْكَ رَبِّ لِتَرْضَىٰ",
+        "en_sahih": "English translation of [20:84] in Sahih International style.",
+        "en_yusufali": "English translation of [20:84] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 84 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:84] en español.",
+        "fr_hamidullah": "Traduction de [20:84] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 84 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:85",
+      "surahNumber": 20,
+      "ayahNumber": 85,
+      "text": {
+        "simple": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنْ بَعْدِكَ وَأَضَلَّهُمُ السَّامِرِيُّ",
+        "en_sahih": "English translation of [20:85] in Sahih International style.",
+        "en_yusufali": "English translation of [20:85] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 85 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:85] en español.",
+        "fr_hamidullah": "Traduction de [20:85] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 85 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:86",
+      "surahNumber": 20,
+      "ayahNumber": 86,
+      "text": {
+        "simple": "فَرَجَعَ مُوسَىٰ إِلَىٰ قَوْمِهِ غَضْبَانَ أَسِفًا ۚ قَالَ يَا قَوْمِ أَلَمْ يَعِدْكُمْ رَبُّكُمْ وَعْدًا حَسَنًا ۚ أَفَطَالَ عَلَيْكُمُ الْعَهْدُ أَمْ أَرَدْتُمْ أَنْ يَحِلَّ عَلَيْكُمْ غَضَبٌ مِنْ رَبِّكُمْ فَأَخْلَفْتُمْ مَوْعِدِي",
+        "en_sahih": "English translation of [20:86] in Sahih International style.",
+        "en_yusufali": "English translation of [20:86] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 86 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:86] en español.",
+        "fr_hamidullah": "Traduction de [20:86] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 86 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:87",
+      "surahNumber": 20,
+      "ayahNumber": 87,
+      "text": {
+        "simple": "قَالُوا مَا أَخْلَفْنَا مَوْعِدَكَ بِمَلْكِنَا وَلَٰكِنَّا حُمِّلْنَا أَوْزَارًا مِنْ زِينَةِ الْقَوْمِ فَقَذَفْنَاهَا فَكَذَٰلِكَ أَلْقَى السَّامِرِيُّ",
+        "en_sahih": "English translation of [20:87] in Sahih International style.",
+        "en_yusufali": "English translation of [20:87] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 87 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:87] en español.",
+        "fr_hamidullah": "Traduction de [20:87] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 87 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:88",
+      "surahNumber": 20,
+      "ayahNumber": 88,
+      "text": {
+        "simple": "فَأَخْرَجَ لَهُمْ عِجْلًا جَسَدًا لَهُ خُوَارٌ فَقَالُوا هَٰذَا إِلَٰهُكُمْ وَإِلَٰهُ مُوسَىٰ فَنَسِيَ",
+        "en_sahih": "English translation of [20:88] in Sahih International style.",
+        "en_yusufali": "English translation of [20:88] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 88 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:88] en español.",
+        "fr_hamidullah": "Traduction de [20:88] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 88 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:89",
+      "surahNumber": 20,
+      "ayahNumber": 89,
+      "text": {
+        "simple": "أَفَلَا يَرَوْنَ أَلَّا يَرْجِعُ إِلَيْهِمْ قَوْلًا وَلَا يَمْلِكُ لَهُمْ ضَرًّا وَلَا نَفْعًا",
+        "en_sahih": "English translation of [20:89] in Sahih International style.",
+        "en_yusufali": "English translation of [20:89] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 89 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:89] en español.",
+        "fr_hamidullah": "Traduction de [20:89] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 89 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:90",
+      "surahNumber": 20,
+      "ayahNumber": 90,
+      "text": {
+        "simple": "وَلَقَدْ قَالَ لَهُمْ هَارُونُ مِنْ قَبْلُ يَا قَوْمِ إِنَّمَا فُتِنْتُمْ بِهِ ۖ وَإِنَّ رَبَّكُمُ الرَّحْمَٰنُ فَاتَّبِعُونِي وَأَطِيعُوا أَمْرِي",
+        "en_sahih": "English translation of [20:90] in Sahih International style.",
+        "en_yusufali": "English translation of [20:90] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 90 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:90] en español.",
+        "fr_hamidullah": "Traduction de [20:90] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 90 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:91",
+      "surahNumber": 20,
+      "ayahNumber": 91,
+      "text": {
+        "simple": "قَالُوا لَنْ نَبْرَحَ عَلَيْهِ عَاكِفِينَ حَتَّىٰ يَرْجِعَ إِلَيْنَا مُوسَىٰ",
+        "en_sahih": "English translation of [20:91] in Sahih International style.",
+        "en_yusufali": "English translation of [20:91] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 91 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:91] en español.",
+        "fr_hamidullah": "Traduction de [20:91] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 91 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:92",
+      "surahNumber": 20,
+      "ayahNumber": 92,
+      "text": {
+        "simple": "قَالَ يَا هَارُونُ مَا مَنَعَكَ إِذْ رَأَيْتَهُمْ ضَلُّوا",
+        "en_sahih": "English translation of [20:92] in Sahih International style.",
+        "en_yusufali": "English translation of [20:92] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 92 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:92] en español.",
+        "fr_hamidullah": "Traduction de [20:92] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 92 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:93",
+      "surahNumber": 20,
+      "ayahNumber": 93,
+      "text": {
+        "simple": "أَلَّا تَتَّبِعَنِ ۖ أَفَعَصَيْتَ أَمْرِي",
+        "en_sahih": "English translation of [20:93] in Sahih International style.",
+        "en_yusufali": "English translation of [20:93] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 93 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:93] en español.",
+        "fr_hamidullah": "Traduction de [20:93] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 93 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:94",
+      "surahNumber": 20,
+      "ayahNumber": 94,
+      "text": {
+        "simple": "قَالَ يَا ابْنَ أُمَّ لَا تَأْخُذْ بِلِحْيَتِي وَلَا بِرَأْسِي ۖ إِنِّي خَشِيتُ أَنْ تَقُولَ فَرَّقْتَ بَيْنَ بَنِي إِسْرَائِيلَ وَلَمْ تَرْقُبْ قَوْلِي",
+        "en_sahih": "English translation of [20:94] in Sahih International style.",
+        "en_yusufali": "English translation of [20:94] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 94 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:94] en español.",
+        "fr_hamidullah": "Traduction de [20:94] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 94 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:95",
+      "surahNumber": 20,
+      "ayahNumber": 95,
+      "text": {
+        "simple": "قَالَ فَمَا خَطْبُكَ يَا سَامِرِيُّ",
+        "en_sahih": "English translation of [20:95] in Sahih International style.",
+        "en_yusufali": "English translation of [20:95] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 95 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:95] en español.",
+        "fr_hamidullah": "Traduction de [20:95] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 95 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:96",
+      "surahNumber": 20,
+      "ayahNumber": 96,
+      "text": {
+        "simple": "قَالَ بَصُرْتُ بِمَا لَمْ يَبْصُرُوا بِهِ فَقَبَضْتُ قَبْضَةً مِنْ أَثَرِ الرَّسُولِ فَنَبَذْتُهَا وَكَذَٰلِكَ سَوَّلَتْ لِي نَفْسِي",
+        "en_sahih": "English translation of [20:96] in Sahih International style.",
+        "en_yusufali": "English translation of [20:96] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 96 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:96] en español.",
+        "fr_hamidullah": "Traduction de [20:96] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 96 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:97",
+      "surahNumber": 20,
+      "ayahNumber": 97,
+      "text": {
+        "simple": "قَالَ فَاذْهَبْ فَإِنَّ لَكَ فِي الْحَيَاةِ أَنْ تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًا لَنْ تُخْلَفَهُ ۖ وَانْظُرْ إِلَىٰ إِلَٰهِكَ الَّذِي ظَلْتَ عَلَيْهِ عَاكِفًا ۖ لَنُحَرِّقَنَّهُ ثُمَّ لَنَنْسِفَنَّهُ فِي الْيَمِّ نَسْفًا",
+        "en_sahih": "English translation of [20:97] in Sahih International style.",
+        "en_yusufali": "English translation of [20:97] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 97 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:97] en español.",
+        "fr_hamidullah": "Traduction de [20:97] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 97 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:98",
+      "surahNumber": 20,
+      "ayahNumber": 98,
+      "text": {
+        "simple": "إِنَّمَا إِلَٰهُكُمُ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ ۚ وَسِعَ كُلَّ شَيْءٍ عِلْمًا",
+        "en_sahih": "English translation of [20:98] in Sahih International style.",
+        "en_yusufali": "English translation of [20:98] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 98 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:98] en español.",
+        "fr_hamidullah": "Traduction de [20:98] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 98 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:99",
+      "surahNumber": 20,
+      "ayahNumber": 99,
+      "text": {
+        "simple": "كَذَٰلِكَ نَقُصُّ عَلَيْكَ مِنْ أَنْبَاءِ مَا قَدْ سَبَقَ ۚ وَقَدْ آتَيْنَاكَ مِنْ لَدُنَّا ذِكْرًا",
+        "en_sahih": "English translation of [20:99] in Sahih International style.",
+        "en_yusufali": "English translation of [20:99] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 99 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:99] en español.",
+        "fr_hamidullah": "Traduction de [20:99] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 99 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:100",
+      "surahNumber": 20,
+      "ayahNumber": 100,
+      "text": {
+        "simple": "مَنْ أَعْرَضَ عَنْهُ فَإِنَّهُ يَحْمِلُ يَوْمَ الْقِيَامَةِ وِزْرًا",
+        "en_sahih": "English translation of [20:100] in Sahih International style.",
+        "en_yusufali": "English translation of [20:100] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 100 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:100] en español.",
+        "fr_hamidullah": "Traduction de [20:100] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 100 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:101",
+      "surahNumber": 20,
+      "ayahNumber": 101,
+      "text": {
+        "simple": "خَالِدِينَ فِيهِ ۖ وَسَاءَ لَهُمْ يَوْمَ الْقِيَامَةِ حِمْلًا",
+        "en_sahih": "English translation of [20:101] in Sahih International style.",
+        "en_yusufali": "English translation of [20:101] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 101 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:101] en español.",
+        "fr_hamidullah": "Traduction de [20:101] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 101 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:102",
+      "surahNumber": 20,
+      "ayahNumber": 102,
+      "text": {
+        "simple": "يَوْمَ يُنْفَخُ فِي الصُّورِ ۚ وَنَحْشُرُ الْمُجْرِمِينَ يَوْمَئِذٍ زُرْقًا",
+        "en_sahih": "English translation of [20:102] in Sahih International style.",
+        "en_yusufali": "English translation of [20:102] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 102 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:102] en español.",
+        "fr_hamidullah": "Traduction de [20:102] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 102 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:103",
+      "surahNumber": 20,
+      "ayahNumber": 103,
+      "text": {
+        "simple": "يَتَخَافَتُونَ بَيْنَهُمْ إِنْ لَبِثْتُمْ إِلَّا عَشْرًا",
+        "en_sahih": "English translation of [20:103] in Sahih International style.",
+        "en_yusufali": "English translation of [20:103] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 103 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:103] en español.",
+        "fr_hamidullah": "Traduction de [20:103] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 103 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:104",
+      "surahNumber": 20,
+      "ayahNumber": 104,
+      "text": {
+        "simple": "نَحْنُ أَعْلَمُ بِمَا يَقُولُونَ إِذْ يَقُولُ أَمْثَلُهُمْ طَرِيقَةً إِنْ لَبِثْتُمْ إِلَّا يَوْمًا",
+        "en_sahih": "English translation of [20:104] in Sahih International style.",
+        "en_yusufali": "English translation of [20:104] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 104 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:104] en español.",
+        "fr_hamidullah": "Traduction de [20:104] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 104 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:105",
+      "surahNumber": 20,
+      "ayahNumber": 105,
+      "text": {
+        "simple": "وَيَسْأَلُونَكَ عَنِ الْجِبَالِ فَقُلْ يَنْسِفُهَا رَبِّي نَسْفًا",
+        "en_sahih": "English translation of [20:105] in Sahih International style.",
+        "en_yusufali": "English translation of [20:105] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 105 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:105] en español.",
+        "fr_hamidullah": "Traduction de [20:105] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 105 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:106",
+      "surahNumber": 20,
+      "ayahNumber": 106,
+      "text": {
+        "simple": "فَيَذَرُهَا قَاعًا صَفْصَفًا",
+        "en_sahih": "English translation of [20:106] in Sahih International style.",
+        "en_yusufali": "English translation of [20:106] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 106 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:106] en español.",
+        "fr_hamidullah": "Traduction de [20:106] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 106 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:107",
+      "surahNumber": 20,
+      "ayahNumber": 107,
+      "text": {
+        "simple": "لَا تَرَىٰ فِيهَا عِوَجًا وَلَا أَمْتًا",
+        "en_sahih": "English translation of [20:107] in Sahih International style.",
+        "en_yusufali": "English translation of [20:107] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 107 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:107] en español.",
+        "fr_hamidullah": "Traduction de [20:107] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 107 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:108",
+      "surahNumber": 20,
+      "ayahNumber": 108,
+      "text": {
+        "simple": "يَوْمَئِذٍ يَتَّبِعُونَ الدَّاعِيَ لَا عِوَجَ لَهُ ۖ وَخَشَعَتِ الْأَصْوَاتُ لِلرَّحْمَٰنِ فَلَا تَسْمَعُ إِلَّا هَمْسًا",
+        "en_sahih": "English translation of [20:108] in Sahih International style.",
+        "en_yusufali": "English translation of [20:108] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 108 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:108] en español.",
+        "fr_hamidullah": "Traduction de [20:108] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 108 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:109",
+      "surahNumber": 20,
+      "ayahNumber": 109,
+      "text": {
+        "simple": "يَوْمَئِذٍ لَا تَنْفَعُ الشَّفَاعَةُ إِلَّا مَنْ أَذِنَ لَهُ الرَّحْمَٰنُ وَرَضِيَ لَهُ قَوْلًا",
+        "en_sahih": "English translation of [20:109] in Sahih International style.",
+        "en_yusufali": "English translation of [20:109] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 109 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:109] en español.",
+        "fr_hamidullah": "Traduction de [20:109] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 109 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:110",
+      "surahNumber": 20,
+      "ayahNumber": 110,
+      "text": {
+        "simple": "يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِهِ عِلْمًا",
+        "en_sahih": "English translation of [20:110] in Sahih International style.",
+        "en_yusufali": "English translation of [20:110] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 110 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:110] en español.",
+        "fr_hamidullah": "Traduction de [20:110] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 110 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:111",
+      "surahNumber": 20,
+      "ayahNumber": 111,
+      "text": {
+        "simple": "۞ وَعَنَتِ الْوُجُوهُ لِلْحَيِّ الْقَيُّومِ ۖ وَقَدْ خَابَ مَنْ حَمَلَ ظُلْمًا",
+        "en_sahih": "English translation of [20:111] in Sahih International style.",
+        "en_yusufali": "English translation of [20:111] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 111 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:111] en español.",
+        "fr_hamidullah": "Traduction de [20:111] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 111 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:112",
+      "surahNumber": 20,
+      "ayahNumber": 112,
+      "text": {
+        "simple": "وَمَنْ يَعْمَلْ مِنَ الصَّالِحَاتِ وَهُوَ مُؤْمِنٌ فَلَا يَخَافُ ظُلْمًا وَلَا هَضْمًا",
+        "en_sahih": "English translation of [20:112] in Sahih International style.",
+        "en_yusufali": "English translation of [20:112] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 112 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:112] en español.",
+        "fr_hamidullah": "Traduction de [20:112] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 112 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:113",
+      "surahNumber": 20,
+      "ayahNumber": 113,
+      "text": {
+        "simple": "وَكَذَٰلِكَ أَنْزَلْنَاهُ قُرْآنًا عَرَبِيًّا وَصَرَّفْنَا فِيهِ مِنَ الْوَعِيدِ لَعَلَّهُمْ يَتَّقُونَ أَوْ يُحْدِثُ لَهُمْ ذِكْرًا",
+        "en_sahih": "English translation of [20:113] in Sahih International style.",
+        "en_yusufali": "English translation of [20:113] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 113 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:113] en español.",
+        "fr_hamidullah": "Traduction de [20:113] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 113 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:114",
+      "surahNumber": 20,
+      "ayahNumber": 114,
+      "text": {
+        "simple": "فَتَعَالَى اللَّهُ الْمَلِكُ الْحَقُّ ۗ وَلَا تَعْجَلْ بِالْقُرْآنِ مِنْ قَبْلِ أَنْ يُقْضَىٰ إِلَيْكَ وَحْيُهُ ۖ وَقُلْ رَبِّ زِدْنِي عِلْمًا",
+        "en_sahih": "English translation of [20:114] in Sahih International style.",
+        "en_yusufali": "English translation of [20:114] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 114 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:114] en español.",
+        "fr_hamidullah": "Traduction de [20:114] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 114 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:115",
+      "surahNumber": 20,
+      "ayahNumber": 115,
+      "text": {
+        "simple": "وَلَقَدْ عَهِدْنَا إِلَىٰ آدَمَ مِنْ قَبْلُ فَنَسِيَ وَلَمْ نَجِدْ لَهُ عَزْمًا",
+        "en_sahih": "English translation of [20:115] in Sahih International style.",
+        "en_yusufali": "English translation of [20:115] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 115 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:115] en español.",
+        "fr_hamidullah": "Traduction de [20:115] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 115 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:116",
+      "surahNumber": 20,
+      "ayahNumber": 116,
+      "text": {
+        "simple": "وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ أَبَىٰ",
+        "en_sahih": "English translation of [20:116] in Sahih International style.",
+        "en_yusufali": "English translation of [20:116] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 116 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:116] en español.",
+        "fr_hamidullah": "Traduction de [20:116] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 116 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:117",
+      "surahNumber": 20,
+      "ayahNumber": 117,
+      "text": {
+        "simple": "فَقُلْنَا يَا آدَمُ إِنَّ هَٰذَا عَدُوٌّ لَكَ وَلِزَوْجِكَ فَلَا يُخْرِجَنَّكُمَا مِنَ الْجَنَّةِ فَتَشْقَىٰ",
+        "en_sahih": "English translation of [20:117] in Sahih International style.",
+        "en_yusufali": "English translation of [20:117] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 117 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:117] en español.",
+        "fr_hamidullah": "Traduction de [20:117] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 117 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:118",
+      "surahNumber": 20,
+      "ayahNumber": 118,
+      "text": {
+        "simple": "إِنَّ لَكَ أَلَّا تَجُوعَ فِيهَا وَلَا تَعْرَىٰ",
+        "en_sahih": "English translation of [20:118] in Sahih International style.",
+        "en_yusufali": "English translation of [20:118] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 118 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:118] en español.",
+        "fr_hamidullah": "Traduction de [20:118] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 118 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:119",
+      "surahNumber": 20,
+      "ayahNumber": 119,
+      "text": {
+        "simple": "وَأَنَّكَ لَا تَظْمَأُ فِيهَا وَلَا تَضْحَىٰ",
+        "en_sahih": "English translation of [20:119] in Sahih International style.",
+        "en_yusufali": "English translation of [20:119] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 119 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:119] en español.",
+        "fr_hamidullah": "Traduction de [20:119] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 119 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:120",
+      "surahNumber": 20,
+      "ayahNumber": 120,
+      "text": {
+        "simple": "فَوَسْوَسَ إِلَيْهِ الشَّيْطَانُ قَالَ يَا آدَمُ هَلْ أَدُلُّكَ عَلَىٰ شَجَرَةِ الْخُلْدِ وَمُلْكٍ لَا يَبْلَىٰ",
+        "en_sahih": "English translation of [20:120] in Sahih International style.",
+        "en_yusufali": "English translation of [20:120] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 120 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:120] en español.",
+        "fr_hamidullah": "Traduction de [20:120] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 120 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:121",
+      "surahNumber": 20,
+      "ayahNumber": 121,
+      "text": {
+        "simple": "فَأَكَلَا مِنْهَا فَبَدَتْ لَهُمَا سَوْآتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِنْ وَرَقِ الْجَنَّةِ ۚ وَعَصَىٰ آدَمُ رَبَّهُ فَغَوَىٰ",
+        "en_sahih": "English translation of [20:121] in Sahih International style.",
+        "en_yusufali": "English translation of [20:121] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 121 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:121] en español.",
+        "fr_hamidullah": "Traduction de [20:121] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 121 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:122",
+      "surahNumber": 20,
+      "ayahNumber": 122,
+      "text": {
+        "simple": "ثُمَّ اجْتَبَاهُ رَبُّهُ فَتَابَ عَلَيْهِ وَهَدَىٰ",
+        "en_sahih": "English translation of [20:122] in Sahih International style.",
+        "en_yusufali": "English translation of [20:122] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 122 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:122] en español.",
+        "fr_hamidullah": "Traduction de [20:122] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 122 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:123",
+      "surahNumber": 20,
+      "ayahNumber": 123,
+      "text": {
+        "simple": "قَالَ اهْبِطَا مِنْهَا جَمِيعًا ۖ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ ۖ فَإِمَّا يَأْتِيَنَّكُمْ مِنِّي هُدًى فَمَنِ اتَّبَعَ هُدَايَ فَلَا يَضِلُّ وَلَا يَشْقَىٰ",
+        "en_sahih": "English translation of [20:123] in Sahih International style.",
+        "en_yusufali": "English translation of [20:123] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 123 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:123] en español.",
+        "fr_hamidullah": "Traduction de [20:123] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 123 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:124",
+      "surahNumber": 20,
+      "ayahNumber": 124,
+      "text": {
+        "simple": "وَمَنْ أَعْرَضَ عَنْ ذِكْرِي فَإِنَّ لَهُ مَعِيشَةً ضَنْكًا وَنَحْشُرُهُ يَوْمَ الْقِيَامَةِ أَعْمَىٰ",
+        "en_sahih": "English translation of [20:124] in Sahih International style.",
+        "en_yusufali": "English translation of [20:124] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 124 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:124] en español.",
+        "fr_hamidullah": "Traduction de [20:124] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 124 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:125",
+      "surahNumber": 20,
+      "ayahNumber": 125,
+      "text": {
+        "simple": "قَالَ رَبِّ لِمَ حَشَرْتَنِي أَعْمَىٰ وَقَدْ كُنْتُ بَصِيرًا",
+        "en_sahih": "English translation of [20:125] in Sahih International style.",
+        "en_yusufali": "English translation of [20:125] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 125 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:125] en español.",
+        "fr_hamidullah": "Traduction de [20:125] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 125 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:126",
+      "surahNumber": 20,
+      "ayahNumber": 126,
+      "text": {
+        "simple": "قَالَ كَذَٰلِكَ أَتَتْكَ آيَاتُنَا فَنَسِيتَهَا ۖ وَكَذَٰلِكَ الْيَوْمَ تُنْسَىٰ",
+        "en_sahih": "English translation of [20:126] in Sahih International style.",
+        "en_yusufali": "English translation of [20:126] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 126 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:126] en español.",
+        "fr_hamidullah": "Traduction de [20:126] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 126 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:127",
+      "surahNumber": 20,
+      "ayahNumber": 127,
+      "text": {
+        "simple": "وَكَذَٰلِكَ نَجْزِي مَنْ أَسْرَفَ وَلَمْ يُؤْمِنْ بِآيَاتِ رَبِّهِ ۚ وَلَعَذَابُ الْآخِرَةِ أَشَدُّ وَأَبْقَىٰ",
+        "en_sahih": "English translation of [20:127] in Sahih International style.",
+        "en_yusufali": "English translation of [20:127] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 127 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:127] en español.",
+        "fr_hamidullah": "Traduction de [20:127] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 127 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:128",
+      "surahNumber": 20,
+      "ayahNumber": 128,
+      "text": {
+        "simple": "أَفَلَمْ يَهْدِ لَهُمْ كَمْ أَهْلَكْنَا قَبْلَهُمْ مِنَ الْقُرُونِ يَمْشُونَ فِي مَسَاكِنِهِمْ ۗ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِأُولِي النُّهَىٰ",
+        "en_sahih": "English translation of [20:128] in Sahih International style.",
+        "en_yusufali": "English translation of [20:128] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 128 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:128] en español.",
+        "fr_hamidullah": "Traduction de [20:128] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 128 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:129",
+      "surahNumber": 20,
+      "ayahNumber": 129,
+      "text": {
+        "simple": "وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِنْ رَبِّكَ لَكَانَ لِزَامًا وَأَجَلٌ مُسَمًّى",
+        "en_sahih": "English translation of [20:129] in Sahih International style.",
+        "en_yusufali": "English translation of [20:129] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 129 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:129] en español.",
+        "fr_hamidullah": "Traduction de [20:129] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 129 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:130",
+      "surahNumber": 20,
+      "ayahNumber": 130,
+      "text": {
+        "simple": "فَاصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا ۖ وَمِنْ آنَاءِ اللَّيْلِ فَسَبِّحْ وَأَطْرَافَ النَّهَارِ لَعَلَّكَ تَرْضَىٰ",
+        "en_sahih": "English translation of [20:130] in Sahih International style.",
+        "en_yusufali": "English translation of [20:130] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 130 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:130] en español.",
+        "fr_hamidullah": "Traduction de [20:130] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 130 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:131",
+      "surahNumber": 20,
+      "ayahNumber": 131,
+      "text": {
+        "simple": "وَلَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِنْهُمْ زَهْرَةَ الْحَيَاةِ الدُّنْيَا لِنَفْتِنَهُمْ فِيهِ ۚ وَرِزْقُ رَبِّكَ خَيْرٌ وَأَبْقَىٰ",
+        "en_sahih": "English translation of [20:131] in Sahih International style.",
+        "en_yusufali": "English translation of [20:131] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 131 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:131] en español.",
+        "fr_hamidullah": "Traduction de [20:131] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 131 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:132",
+      "surahNumber": 20,
+      "ayahNumber": 132,
+      "text": {
+        "simple": "وَأْمُرْ أَهْلَكَ بِالصَّلَاةِ وَاصْطَبِرْ عَلَيْهَا ۖ لَا نَسْأَلُكَ رِزْقًا ۖ نَحْنُ نَرْزُقُكَ ۗ وَالْعَاقِبَةُ لِلتَّقْوَىٰ",
+        "en_sahih": "English translation of [20:132] in Sahih International style.",
+        "en_yusufali": "English translation of [20:132] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 132 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:132] en español.",
+        "fr_hamidullah": "Traduction de [20:132] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 132 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:133",
+      "surahNumber": 20,
+      "ayahNumber": 133,
+      "text": {
+        "simple": "وَقَالُوا لَوْلَا يَأْتِينَا بِآيَةٍ مِنْ رَبِّهِ ۚ أَوَلَمْ تَأْتِهِمْ بَيِّنَةُ مَا فِي الصُّحُفِ الْأُولَىٰ",
+        "en_sahih": "English translation of [20:133] in Sahih International style.",
+        "en_yusufali": "English translation of [20:133] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 133 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:133] en español.",
+        "fr_hamidullah": "Traduction de [20:133] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 133 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:134",
+      "surahNumber": 20,
+      "ayahNumber": 134,
+      "text": {
+        "simple": "وَلَوْ أَنَّا أَهْلَكْنَاهُمْ بِعَذَابٍ مِنْ قَبْلِهِ لَقَالُوا رَبَّنَا لَوْلَا أَرْسَلْتَ إِلَيْنَا رَسُولًا فَنَتَّبِعَ آيَاتِكَ مِنْ قَبْلِ أَنْ نَذِلَّ وَنَخْزَىٰ",
+        "en_sahih": "English translation of [20:134] in Sahih International style.",
+        "en_yusufali": "English translation of [20:134] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 134 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:134] en español.",
+        "fr_hamidullah": "Traduction de [20:134] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 134 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "20:135",
+      "surahNumber": 20,
+      "ayahNumber": 135,
+      "text": {
+        "simple": "قُلْ كُلٌّ مُتَرَبِّصٌ فَتَرَبَّصُوا ۖ فَسَتَعْلَمُونَ مَنْ أَصْحَابُ الصِّرَاطِ السَّوِيِّ وَمَنِ اهْتَدَىٰ",
+        "en_sahih": "English translation of [20:135] in Sahih International style.",
+        "en_yusufali": "English translation of [20:135] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 20 آیت 135 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [20:135] en español.",
+        "fr_hamidullah": "Traduction de [20:135] en français.",
+        "bn_hoque": "সূরা 20 আয়াত 135 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

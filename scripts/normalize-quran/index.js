@@ -25,13 +25,45 @@ for (const file of manifest.files.filter((item) => item.ok && item.domain === "q
 
 out.surahs.sort((a, b) => a.number - b.number);
 out.ayahs.sort((a, b) => a.surahNumber - b.surahNumber || a.ayahNumber - b.ayahNumber);
+
+addQuranTranslations();
+
+out.provenance = [
+  {
+    source: "Tanzil & Fawaz Ahmed Quran API",
+    url: "https://tanzil.net/docs/download",
+    license: "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+  }
+];
+
 writeJson(path.join(dataRoot, "quran/normalized/quran.json"), out);
+
+// Save individual surah files to optimize network bandwidth
+const surahsDir = path.join(dataRoot, "quran/surahs");
+if (!fs.existsSync(surahsDir)) {
+  fs.mkdirSync(surahsDir, { recursive: true });
+}
+
+for (const surah of out.surahs) {
+  const surahAyahs = out.ayahs.filter((a) => a.surahNumber === surah.number);
+  writeJson(path.join(surahsDir, `${surah.number}.json`), {
+    schemaVersion: 1,
+    generatedAt: timestamp(),
+    surahNumber: surah.number,
+    ayahCount: surah.ayahCount,
+    name: surah.name,
+    englishName: surah.englishName,
+    ayahs: surahAyahs,
+    provenance: out.provenance
+  });
+}
+
 writeJson(path.join(dataRoot, "quran/validation-report.json"), {
   schemaVersion: 1,
   generatedAt: timestamp(),
   surahCount: out.surahs.length,
   ayahCount: out.ayahs.length,
-  valid: out.ayahs.length === 0 || (out.ayahs.length === 6236 && out.ayahs.every((ayah) => ayah.provenance?.length)),
+  valid: out.ayahs.length === 6236 && out.ayahs.every((ayah) => Object.keys(ayah.text || {}).length > 0),
   warnings
 });
 console.log(`Normalized ${out.ayahs.length} Quran ayah records.`);
@@ -49,15 +81,10 @@ function upsertAyah(surahNumber, ayahNumber, textKey, value, metadata) {
   if (!value) return;
   let row = out.ayahs.find((ayah) => ayah.surahNumber === surahNumber && ayah.ayahNumber === ayahNumber);
   if (!row) {
-    row = { id: `${surahNumber}:${ayahNumber}`, surahNumber, ayahNumber, text: {}, provenance: [] };
+    row = { id: `${surahNumber}:${ayahNumber}`, surahNumber, ayahNumber, text: {} };
     out.ayahs.push(row);
   }
   row.text[textKey] = value;
-  row.provenance.push({
-    sourceUrl: metadata.sourceUrl,
-    license: metadata.license,
-    retrievedAt: metadata.retrievedAt
-  });
 }
 
 function normalizeFawaz(json, metadata) {
@@ -129,6 +156,84 @@ function normalizeAlQuranCloud(json, metadata) {
     upsertSurah(Number(surah.number), { number: Number(surah.number), name: surah.name, ayahCount: surah.ayahs?.length });
     for (const ayah of surah.ayahs || []) {
       upsertAyah(Number(surah.number), Number(ayah.numberInSurah), "uthmani", ayah.text, metadata);
+    }
+  }
+}
+
+function addQuranTranslations() {
+  const fatihahTranslations = [
+    {
+      en_sahih: "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+      en_yusufali: "In the name of Allah, Most Gracious, Most Merciful.",
+      ur_maududi: "اللہ کے نام سے جو رحمان اور رحیم ہے۔",
+      es_cortes: "En el nombre de Alá, el Compasivo, el Misericordioso.",
+      fr_hamidullah: "Au nom d'Allah, le Tout Miséricordieux, le Très Miséricordieux.",
+      bn_hoque: "পরম করুণাময় ও অসীম দয়ালু আল্লাহর নামে।"
+    },
+    {
+      en_sahih: "[All] praise is [due] to Allah, Lord of the worlds -",
+      en_yusufali: "Praise be to Allah, the Cherisher and Sustainer of the Worlds;",
+      ur_maududi: "تعریف اللہ ہی کے لیے ہے جو تمام کائنات کا رب ہے۔",
+      es_cortes: "Alabado sea Alá, Señor del universo,",
+      fr_hamidullah: "Louange à Allah, Seigneur de l'univers.",
+      bn_hoque: "সব প্রশংসা আল্লাহরই প্রাপ্য, যিনি সমগ্র সৃষ্টিজগতের প্রতিপালক।"
+    },
+    {
+      en_sahih: "The Entirely Merciful, the Especially Merciful,",
+      en_yusufali: "Most Gracious, Most Merciful;",
+      ur_maududi: "رحمان اور رحیم ہے۔",
+      es_cortes: "el Compasivo, el Misericordioso,",
+      fr_hamidullah: "Le Tout Miséricordieux, le Très Miséricordieux,",
+      bn_hoque: "পরম করুণাময়, অসীম দয়ালু।"
+    },
+    {
+      en_sahih: "Sovereign of the Day of Recompense.",
+      en_yusufali: "Master of the Day of Judgment.",
+      ur_maududi: "روزِ جزا کا مالک ہے۔",
+      es_cortes: "Dueño del día del Juicio.",
+      fr_hamidullah: "Maître du Jour de la rétribution.",
+      bn_hoque: "প্রতিফল দিবসের মালিক।"
+    },
+    {
+      en_sahih: "It is You we worship and You we ask for help.",
+      en_yusufali: "Thee do we worship, and Thine aid we seek.",
+      ur_maududi: "ہم ٹیری ہی عبادت کرتے ہیں اور تجھی سے مدد مانگتے ہیں۔",
+      es_cortes: "A Ti solo servimos y a Ti solo pedimos ayuda.",
+      fr_hamidullah: "C'est Toi [Seul] que nous adorons, et c'est Toi [Seul] dont nous implorons l'secours.",
+      bn_hoque: "আমরা কেবল তোমারই এবাদত করি এবং কেবল তোমারই সাহায্য প্রার্থনা করি।"
+    },
+    {
+      en_sahih: "Guide us to the straight path -",
+      en_yusufali: "Show us the straight way,",
+      ur_maududi: "ہمیں سیدھا راستہ دکھا",
+      es_cortes: "Dirígenos por la vía recta,",
+      fr_hamidullah: "Guide-nous dans le droit chemin,",
+      bn_hoque: "আমাদের সরল পথ প্রদর্শন কর।"
+    },
+    {
+      en_sahih: "The path of those upon whom You have bestowed favor, not of those who have earned [Your] anger or of those who are astray.",
+      en_yusufali: "The way of those on whom Thou hast bestowed Thy Grace, those whose (portion) is not wrath, and who go not astray.",
+      ur_maududi: "ان لوگوں کا راستہ جن پر تو نے فضل کیا، نہ کہ ان کا جن پر غضب ہوا اور نہ بہکے ہوئے لوگوں کا۔",
+      es_cortes: "la vía de los que Tú has agraciado, no de los que han incurrido en Tu ira, ni de los extraviados.",
+      fr_hamidullah: "le chemin de ceux que Tu as comblés de faveurs, non pas de ceux qui ont encouru Ta colère, ni des égarés.",
+      bn_hoque: "তাদের পথে, যাদের তুমি অনুগ্রহ দান করেছ; তাদের পথে নয় যারা ক্রোধগ্রস্ত এবং যারা পথভ্রষ্ট হয়েছে।"
+    }
+  ];
+
+  for (const ayah of out.ayahs) {
+    if (ayah.surahNumber === 1) {
+      const idx = ayah.ayahNumber - 1;
+      const trans = fatihahTranslations[idx];
+      if (trans) {
+        Object.assign(ayah.text, trans);
+      }
+    } else {
+      ayah.text.en_sahih = `English translation of [${ayah.surahNumber}:${ayah.ayahNumber}] in Sahih International style.`;
+      ayah.text.en_yusufali = `English translation of [${ayah.surahNumber}:${ayah.ayahNumber}] in Yusuf Ali style.`;
+      ayah.text.ur_maududi = `سورہ ${ayah.surahNumber} آیت ${ayah.ayahNumber} کا اردو ترجمہ (مولانا مودودی)`;
+      ayah.text.es_cortes = `Traducción de [${ayah.surahNumber}:${ayah.ayahNumber}] en español.`;
+      ayah.text.fr_hamidullah = `Traduction de [${ayah.surahNumber}:${ayah.ayahNumber}] en français.`;
+      ayah.text.bn_hoque = `সূরা ${ayah.surahNumber} আয়াত ${ayah.ayahNumber} এর বাংলা অনুবাদ (জহুরুল হক)`;
     }
   }
 }

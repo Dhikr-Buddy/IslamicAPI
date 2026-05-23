@@ -1,0 +1,547 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.988Z",
+  "surahNumber": 47,
+  "ayahCount": 38,
+  "ayahs": [
+    {
+      "id": "47:1",
+      "surahNumber": 47,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ الَّذِينَ كَفَرُوا وَصَدُّوا عَنْ سَبِيلِ اللَّهِ أَضَلَّ أَعْمَالَهُمْ",
+        "en_sahih": "English translation of [47:1] in Sahih International style.",
+        "en_yusufali": "English translation of [47:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:1] en español.",
+        "fr_hamidullah": "Traduction de [47:1] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:2",
+      "surahNumber": 47,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَآمَنُوا بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍ وَهُوَ الْحَقُّ مِنْ رَبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّئَاتِهِمْ وَأَصْلَحَ بَالَهُمْ",
+        "en_sahih": "English translation of [47:2] in Sahih International style.",
+        "en_yusufali": "English translation of [47:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:2] en español.",
+        "fr_hamidullah": "Traduction de [47:2] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:3",
+      "surahNumber": 47,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "ذَٰلِكَ بِأَنَّ الَّذِينَ كَفَرُوا اتَّبَعُوا الْبَاطِلَ وَأَنَّ الَّذِينَ آمَنُوا اتَّبَعُوا الْحَقَّ مِنْ رَبِّهِمْ ۚ كَذَٰلِكَ يَضْرِبُ اللَّهُ لِلنَّاسِ أَمْثَالَهُمْ",
+        "en_sahih": "English translation of [47:3] in Sahih International style.",
+        "en_yusufali": "English translation of [47:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:3] en español.",
+        "fr_hamidullah": "Traduction de [47:3] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:4",
+      "surahNumber": 47,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "فَإِذَا لَقِيتُمُ الَّذِينَ كَفَرُوا فَضَرْبَ الرِّقَابِ حَتَّىٰ إِذَا أَثْخَنْتُمُوهُمْ فَشُدُّوا الْوَثَاقَ فَإِمَّا مَنًّا بَعْدُ وَإِمَّا فِدَاءً حَتَّىٰ تَضَعَ الْحَرْبُ أَوْزَارَهَا ۚ ذَٰلِكَ وَلَوْ يَشَاءُ اللَّهُ لَانْتَصَرَ مِنْهُمْ وَلَٰكِنْ لِيَبْلُوَ بَعْضَكُمْ بِبَعْضٍ ۗ وَالَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ فَلَنْ يُضِلَّ أَعْمَالَهُمْ",
+        "en_sahih": "English translation of [47:4] in Sahih International style.",
+        "en_yusufali": "English translation of [47:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:4] en español.",
+        "fr_hamidullah": "Traduction de [47:4] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:5",
+      "surahNumber": 47,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "سَيَهْدِيهِمْ وَيُصْلِحُ بَالَهُمْ",
+        "en_sahih": "English translation of [47:5] in Sahih International style.",
+        "en_yusufali": "English translation of [47:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:5] en español.",
+        "fr_hamidullah": "Traduction de [47:5] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:6",
+      "surahNumber": 47,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "وَيُدْخِلُهُمُ الْجَنَّةَ عَرَّفَهَا لَهُمْ",
+        "en_sahih": "English translation of [47:6] in Sahih International style.",
+        "en_yusufali": "English translation of [47:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:6] en español.",
+        "fr_hamidullah": "Traduction de [47:6] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:7",
+      "surahNumber": 47,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ تَنْصُرُوا اللَّهَ يَنْصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ",
+        "en_sahih": "English translation of [47:7] in Sahih International style.",
+        "en_yusufali": "English translation of [47:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:7] en español.",
+        "fr_hamidullah": "Traduction de [47:7] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:8",
+      "surahNumber": 47,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "وَالَّذِينَ كَفَرُوا فَتَعْسًا لَهُمْ وَأَضَلَّ أَعْمَالَهُمْ",
+        "en_sahih": "English translation of [47:8] in Sahih International style.",
+        "en_yusufali": "English translation of [47:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:8] en español.",
+        "fr_hamidullah": "Traduction de [47:8] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:9",
+      "surahNumber": 47,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "ذَٰلِكَ بِأَنَّهُمْ كَرِهُوا مَا أَنْزَلَ اللَّهُ فَأَحْبَطَ أَعْمَالَهُمْ",
+        "en_sahih": "English translation of [47:9] in Sahih International style.",
+        "en_yusufali": "English translation of [47:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:9] en español.",
+        "fr_hamidullah": "Traduction de [47:9] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:10",
+      "surahNumber": 47,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "۞ أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِنْ قَبْلِهِمْ ۚ دَمَّرَ اللَّهُ عَلَيْهِمْ ۖ وَلِلْكَافِرِينَ أَمْثَالُهَا",
+        "en_sahih": "English translation of [47:10] in Sahih International style.",
+        "en_yusufali": "English translation of [47:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:10] en español.",
+        "fr_hamidullah": "Traduction de [47:10] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:11",
+      "surahNumber": 47,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "ذَٰلِكَ بِأَنَّ اللَّهَ مَوْلَى الَّذِينَ آمَنُوا وَأَنَّ الْكَافِرِينَ لَا مَوْلَىٰ لَهُمْ",
+        "en_sahih": "English translation of [47:11] in Sahih International style.",
+        "en_yusufali": "English translation of [47:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:11] en español.",
+        "fr_hamidullah": "Traduction de [47:11] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:12",
+      "surahNumber": 47,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ ۖ وَالَّذِينَ كَفَرُوا يَتَمَتَّعُونَ وَيَأْكُلُونَ كَمَا تَأْكُلُ الْأَنْعَامُ وَالنَّارُ مَثْوًى لَهُمْ",
+        "en_sahih": "English translation of [47:12] in Sahih International style.",
+        "en_yusufali": "English translation of [47:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:12] en español.",
+        "fr_hamidullah": "Traduction de [47:12] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:13",
+      "surahNumber": 47,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "وَكَأَيِّنْ مِنْ قَرْيَةٍ هِيَ أَشَدُّ قُوَّةً مِنْ قَرْيَتِكَ الَّتِي أَخْرَجَتْكَ أَهْلَكْنَاهُمْ فَلَا نَاصِرَ لَهُمْ",
+        "en_sahih": "English translation of [47:13] in Sahih International style.",
+        "en_yusufali": "English translation of [47:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:13] en español.",
+        "fr_hamidullah": "Traduction de [47:13] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:14",
+      "surahNumber": 47,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "أَفَمَنْ كَانَ عَلَىٰ بَيِّنَةٍ مِنْ رَبِّهِ كَمَنْ زُيِّنَ لَهُ سُوءُ عَمَلِهِ وَاتَّبَعُوا أَهْوَاءَهُمْ",
+        "en_sahih": "English translation of [47:14] in Sahih International style.",
+        "en_yusufali": "English translation of [47:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:14] en español.",
+        "fr_hamidullah": "Traduction de [47:14] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:15",
+      "surahNumber": 47,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "مَثَلُ الْجَنَّةِ الَّتِي وُعِدَ الْمُتَّقُونَ ۖ فِيهَا أَنْهَارٌ مِنْ مَاءٍ غَيْرِ آسِنٍ وَأَنْهَارٌ مِنْ لَبَنٍ لَمْ يَتَغَيَّرْ طَعْمُهُ وَأَنْهَارٌ مِنْ خَمْرٍ لَذَّةٍ لِلشَّارِبِينَ وَأَنْهَارٌ مِنْ عَسَلٍ مُصَفًّى ۖ وَلَهُمْ فِيهَا مِنْ كُلِّ الثَّمَرَاتِ وَمَغْفِرَةٌ مِنْ رَبِّهِمْ ۖ كَمَنْ هُوَ خَالِدٌ فِي النَّارِ وَسُقُوا مَاءً حَمِيمًا فَقَطَّعَ أَمْعَاءَهُمْ",
+        "en_sahih": "English translation of [47:15] in Sahih International style.",
+        "en_yusufali": "English translation of [47:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:15] en español.",
+        "fr_hamidullah": "Traduction de [47:15] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:16",
+      "surahNumber": 47,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "وَمِنْهُمْ مَنْ يَسْتَمِعُ إِلَيْكَ حَتَّىٰ إِذَا خَرَجُوا مِنْ عِنْدِكَ قَالُوا لِلَّذِينَ أُوتُوا الْعِلْمَ مَاذَا قَالَ آنِفًا ۚ أُولَٰئِكَ الَّذِينَ طَبَعَ اللَّهُ عَلَىٰ قُلُوبِهِمْ وَاتَّبَعُوا أَهْوَاءَهُمْ",
+        "en_sahih": "English translation of [47:16] in Sahih International style.",
+        "en_yusufali": "English translation of [47:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:16] en español.",
+        "fr_hamidullah": "Traduction de [47:16] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:17",
+      "surahNumber": 47,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "وَالَّذِينَ اهْتَدَوْا زَادَهُمْ هُدًى وَآتَاهُمْ تَقْوَاهُمْ",
+        "en_sahih": "English translation of [47:17] in Sahih International style.",
+        "en_yusufali": "English translation of [47:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:17] en español.",
+        "fr_hamidullah": "Traduction de [47:17] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:18",
+      "surahNumber": 47,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "فَهَلْ يَنْظُرُونَ إِلَّا السَّاعَةَ أَنْ تَأْتِيَهُمْ بَغْتَةً ۖ فَقَدْ جَاءَ أَشْرَاطُهَا ۚ فَأَنَّىٰ لَهُمْ إِذَا جَاءَتْهُمْ ذِكْرَاهُمْ",
+        "en_sahih": "English translation of [47:18] in Sahih International style.",
+        "en_yusufali": "English translation of [47:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:18] en español.",
+        "fr_hamidullah": "Traduction de [47:18] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:19",
+      "surahNumber": 47,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "فَاعْلَمْ أَنَّهُ لَا إِلَٰهَ إِلَّا اللَّهُ وَاسْتَغْفِرْ لِذَنْبِكَ وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ ۗ وَاللَّهُ يَعْلَمُ مُتَقَلَّبَكُمْ وَمَثْوَاكُمْ",
+        "en_sahih": "English translation of [47:19] in Sahih International style.",
+        "en_yusufali": "English translation of [47:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:19] en español.",
+        "fr_hamidullah": "Traduction de [47:19] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:20",
+      "surahNumber": 47,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "وَيَقُولُ الَّذِينَ آمَنُوا لَوْلَا نُزِّلَتْ سُورَةٌ ۖ فَإِذَا أُنْزِلَتْ سُورَةٌ مُحْكَمَةٌ وَذُكِرَ فِيهَا الْقِتَالُ ۙ رَأَيْتَ الَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ يَنْظُرُونَ إِلَيْكَ نَظَرَ الْمَغْشِيِّ عَلَيْهِ مِنَ الْمَوْتِ ۖ فَأَوْلَىٰ لَهُمْ",
+        "en_sahih": "English translation of [47:20] in Sahih International style.",
+        "en_yusufali": "English translation of [47:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:20] en español.",
+        "fr_hamidullah": "Traduction de [47:20] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:21",
+      "surahNumber": 47,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "طَاعَةٌ وَقَوْلٌ مَعْرُوفٌ ۚ فَإِذَا عَزَمَ الْأَمْرُ فَلَوْ صَدَقُوا اللَّهَ لَكَانَ خَيْرًا لَهُمْ",
+        "en_sahih": "English translation of [47:21] in Sahih International style.",
+        "en_yusufali": "English translation of [47:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:21] en español.",
+        "fr_hamidullah": "Traduction de [47:21] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:22",
+      "surahNumber": 47,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "فَهَلْ عَسَيْتُمْ إِنْ تَوَلَّيْتُمْ أَنْ تُفْسِدُوا فِي الْأَرْضِ وَتُقَطِّعُوا أَرْحَامَكُمْ",
+        "en_sahih": "English translation of [47:22] in Sahih International style.",
+        "en_yusufali": "English translation of [47:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:22] en español.",
+        "fr_hamidullah": "Traduction de [47:22] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:23",
+      "surahNumber": 47,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "أُولَٰئِكَ الَّذِينَ لَعَنَهُمُ اللَّهُ فَأَصَمَّهُمْ وَأَعْمَىٰ أَبْصَارَهُمْ",
+        "en_sahih": "English translation of [47:23] in Sahih International style.",
+        "en_yusufali": "English translation of [47:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:23] en español.",
+        "fr_hamidullah": "Traduction de [47:23] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:24",
+      "surahNumber": 47,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "أَفَلَا يَتَدَبَّرُونَ الْقُرْآنَ أَمْ عَلَىٰ قُلُوبٍ أَقْفَالُهَا",
+        "en_sahih": "English translation of [47:24] in Sahih International style.",
+        "en_yusufali": "English translation of [47:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:24] en español.",
+        "fr_hamidullah": "Traduction de [47:24] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:25",
+      "surahNumber": 47,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "إِنَّ الَّذِينَ ارْتَدُّوا عَلَىٰ أَدْبَارِهِمْ مِنْ بَعْدِ مَا تَبَيَّنَ لَهُمُ الْهُدَى ۙ الشَّيْطَانُ سَوَّلَ لَهُمْ وَأَمْلَىٰ لَهُمْ",
+        "en_sahih": "English translation of [47:25] in Sahih International style.",
+        "en_yusufali": "English translation of [47:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:25] en español.",
+        "fr_hamidullah": "Traduction de [47:25] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:26",
+      "surahNumber": 47,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "ذَٰلِكَ بِأَنَّهُمْ قَالُوا لِلَّذِينَ كَرِهُوا مَا نَزَّلَ اللَّهُ سَنُطِيعُكُمْ فِي بَعْضِ الْأَمْرِ ۖ وَاللَّهُ يَعْلَمُ إِسْرَارَهُمْ",
+        "en_sahih": "English translation of [47:26] in Sahih International style.",
+        "en_yusufali": "English translation of [47:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:26] en español.",
+        "fr_hamidullah": "Traduction de [47:26] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:27",
+      "surahNumber": 47,
+      "ayahNumber": 27,
+      "text": {
+        "simple": "فَكَيْفَ إِذَا تَوَفَّتْهُمُ الْمَلَائِكَةُ يَضْرِبُونَ وُجُوهَهُمْ وَأَدْبَارَهُمْ",
+        "en_sahih": "English translation of [47:27] in Sahih International style.",
+        "en_yusufali": "English translation of [47:27] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:27] en español.",
+        "fr_hamidullah": "Traduction de [47:27] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:28",
+      "surahNumber": 47,
+      "ayahNumber": 28,
+      "text": {
+        "simple": "ذَٰلِكَ بِأَنَّهُمُ اتَّبَعُوا مَا أَسْخَطَ اللَّهَ وَكَرِهُوا رِضْوَانَهُ فَأَحْبَطَ أَعْمَالَهُمْ",
+        "en_sahih": "English translation of [47:28] in Sahih International style.",
+        "en_yusufali": "English translation of [47:28] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:28] en español.",
+        "fr_hamidullah": "Traduction de [47:28] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:29",
+      "surahNumber": 47,
+      "ayahNumber": 29,
+      "text": {
+        "simple": "أَمْ حَسِبَ الَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ أَنْ لَنْ يُخْرِجَ اللَّهُ أَضْغَانَهُمْ",
+        "en_sahih": "English translation of [47:29] in Sahih International style.",
+        "en_yusufali": "English translation of [47:29] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:29] en español.",
+        "fr_hamidullah": "Traduction de [47:29] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:30",
+      "surahNumber": 47,
+      "ayahNumber": 30,
+      "text": {
+        "simple": "وَلَوْ نَشَاءُ لَأَرَيْنَاكَهُمْ فَلَعَرَفْتَهُمْ بِسِيمَاهُمْ ۚ وَلَتَعْرِفَنَّهُمْ فِي لَحْنِ الْقَوْلِ ۚ وَاللَّهُ يَعْلَمُ أَعْمَالَكُمْ",
+        "en_sahih": "English translation of [47:30] in Sahih International style.",
+        "en_yusufali": "English translation of [47:30] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:30] en español.",
+        "fr_hamidullah": "Traduction de [47:30] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:31",
+      "surahNumber": 47,
+      "ayahNumber": 31,
+      "text": {
+        "simple": "وَلَنَبْلُوَنَّكُمْ حَتَّىٰ نَعْلَمَ الْمُجَاهِدِينَ مِنْكُمْ وَالصَّابِرِينَ وَنَبْلُوَ أَخْبَارَكُمْ",
+        "en_sahih": "English translation of [47:31] in Sahih International style.",
+        "en_yusufali": "English translation of [47:31] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:31] en español.",
+        "fr_hamidullah": "Traduction de [47:31] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:32",
+      "surahNumber": 47,
+      "ayahNumber": 32,
+      "text": {
+        "simple": "إِنَّ الَّذِينَ كَفَرُوا وَصَدُّوا عَنْ سَبِيلِ اللَّهِ وَشَاقُّوا الرَّسُولَ مِنْ بَعْدِ مَا تَبَيَّنَ لَهُمُ الْهُدَىٰ لَنْ يَضُرُّوا اللَّهَ شَيْئًا وَسَيُحْبِطُ أَعْمَالَهُمْ",
+        "en_sahih": "English translation of [47:32] in Sahih International style.",
+        "en_yusufali": "English translation of [47:32] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:32] en español.",
+        "fr_hamidullah": "Traduction de [47:32] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:33",
+      "surahNumber": 47,
+      "ayahNumber": 33,
+      "text": {
+        "simple": "۞ يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَلَا تُبْطِلُوا أَعْمَالَكُمْ",
+        "en_sahih": "English translation of [47:33] in Sahih International style.",
+        "en_yusufali": "English translation of [47:33] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:33] en español.",
+        "fr_hamidullah": "Traduction de [47:33] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:34",
+      "surahNumber": 47,
+      "ayahNumber": 34,
+      "text": {
+        "simple": "إِنَّ الَّذِينَ كَفَرُوا وَصَدُّوا عَنْ سَبِيلِ اللَّهِ ثُمَّ مَاتُوا وَهُمْ كُفَّارٌ فَلَنْ يَغْفِرَ اللَّهُ لَهُمْ",
+        "en_sahih": "English translation of [47:34] in Sahih International style.",
+        "en_yusufali": "English translation of [47:34] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:34] en español.",
+        "fr_hamidullah": "Traduction de [47:34] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:35",
+      "surahNumber": 47,
+      "ayahNumber": 35,
+      "text": {
+        "simple": "فَلَا تَهِنُوا وَتَدْعُوا إِلَى السَّلْمِ وَأَنْتُمُ الْأَعْلَوْنَ وَاللَّهُ مَعَكُمْ وَلَنْ يَتِرَكُمْ أَعْمَالَكُمْ",
+        "en_sahih": "English translation of [47:35] in Sahih International style.",
+        "en_yusufali": "English translation of [47:35] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:35] en español.",
+        "fr_hamidullah": "Traduction de [47:35] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:36",
+      "surahNumber": 47,
+      "ayahNumber": 36,
+      "text": {
+        "simple": "إِنَّمَا الْحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ ۚ وَإِنْ تُؤْمِنُوا وَتَتَّقُوا يُؤْتِكُمْ أُجُورَكُمْ وَلَا يَسْأَلْكُمْ أَمْوَالَكُمْ",
+        "en_sahih": "English translation of [47:36] in Sahih International style.",
+        "en_yusufali": "English translation of [47:36] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:36] en español.",
+        "fr_hamidullah": "Traduction de [47:36] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:37",
+      "surahNumber": 47,
+      "ayahNumber": 37,
+      "text": {
+        "simple": "إِنْ يَسْأَلْكُمُوهَا فَيُحْفِكُمْ تَبْخَلُوا وَيُخْرِجْ أَضْغَانَكُمْ",
+        "en_sahih": "English translation of [47:37] in Sahih International style.",
+        "en_yusufali": "English translation of [47:37] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:37] en español.",
+        "fr_hamidullah": "Traduction de [47:37] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "47:38",
+      "surahNumber": 47,
+      "ayahNumber": 38,
+      "text": {
+        "simple": "هَا أَنْتُمْ هَٰؤُلَاءِ تُدْعَوْنَ لِتُنْفِقُوا فِي سَبِيلِ اللَّهِ فَمِنْكُمْ مَنْ يَبْخَلُ ۖ وَمَنْ يَبْخَلْ فَإِنَّمَا يَبْخَلُ عَنْ نَفْسِهِ ۚ وَاللَّهُ الْغَنِيُّ وَأَنْتُمُ الْفُقَرَاءُ ۚ وَإِنْ تَتَوَلَّوْا يَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ ثُمَّ لَا يَكُونُوا أَمْثَالَكُمْ",
+        "en_sahih": "English translation of [47:38] in Sahih International style.",
+        "en_yusufali": "English translation of [47:38] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 47 آیت 38 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [47:38] en español.",
+        "fr_hamidullah": "Traduction de [47:38] en français.",
+        "bn_hoque": "সূরা 47 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

@@ -1,0 +1,3193 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.981Z",
+  "surahNumber": 26,
+  "ayahCount": 227,
+  "ayahs": [
+    {
+      "id": "26:1",
+      "surahNumber": 26,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ طسم",
+        "en_sahih": "English translation of [26:1] in Sahih International style.",
+        "en_yusufali": "English translation of [26:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:1] en español.",
+        "fr_hamidullah": "Traduction de [26:1] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:2",
+      "surahNumber": 26,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "تِلْكَ آيَاتُ الْكِتَابِ الْمُبِينِ",
+        "en_sahih": "English translation of [26:2] in Sahih International style.",
+        "en_yusufali": "English translation of [26:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:2] en español.",
+        "fr_hamidullah": "Traduction de [26:2] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:3",
+      "surahNumber": 26,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "لَعَلَّكَ بَاخِعٌ نَفْسَكَ أَلَّا يَكُونُوا مُؤْمِنِينَ",
+        "en_sahih": "English translation of [26:3] in Sahih International style.",
+        "en_yusufali": "English translation of [26:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:3] en español.",
+        "fr_hamidullah": "Traduction de [26:3] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:4",
+      "surahNumber": 26,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "إِنْ نَشَأْ نُنَزِّلْ عَلَيْهِمْ مِنَ السَّمَاءِ آيَةً فَظَلَّتْ أَعْنَاقُهُمْ لَهَا خَاضِعِينَ",
+        "en_sahih": "English translation of [26:4] in Sahih International style.",
+        "en_yusufali": "English translation of [26:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:4] en español.",
+        "fr_hamidullah": "Traduction de [26:4] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:5",
+      "surahNumber": 26,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "وَمَا يَأْتِيهِمْ مِنْ ذِكْرٍ مِنَ الرَّحْمَٰنِ مُحْدَثٍ إِلَّا كَانُوا عَنْهُ مُعْرِضِينَ",
+        "en_sahih": "English translation of [26:5] in Sahih International style.",
+        "en_yusufali": "English translation of [26:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:5] en español.",
+        "fr_hamidullah": "Traduction de [26:5] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:6",
+      "surahNumber": 26,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "فَقَدْ كَذَّبُوا فَسَيَأْتِيهِمْ أَنْبَاءُ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+        "en_sahih": "English translation of [26:6] in Sahih International style.",
+        "en_yusufali": "English translation of [26:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:6] en español.",
+        "fr_hamidullah": "Traduction de [26:6] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:7",
+      "surahNumber": 26,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "أَوَلَمْ يَرَوْا إِلَى الْأَرْضِ كَمْ أَنْبَتْنَا فِيهَا مِنْ كُلِّ زَوْجٍ كَرِيمٍ",
+        "en_sahih": "English translation of [26:7] in Sahih International style.",
+        "en_yusufali": "English translation of [26:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:7] en español.",
+        "fr_hamidullah": "Traduction de [26:7] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:8",
+      "surahNumber": 26,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "إِنَّ فِي ذَٰلِكَ لَآيَةً ۖ وَمَا كَانَ أَكْثَرُهُمْ مُؤْمِنِينَ",
+        "en_sahih": "English translation of [26:8] in Sahih International style.",
+        "en_yusufali": "English translation of [26:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:8] en español.",
+        "fr_hamidullah": "Traduction de [26:8] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:9",
+      "surahNumber": 26,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ",
+        "en_sahih": "English translation of [26:9] in Sahih International style.",
+        "en_yusufali": "English translation of [26:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:9] en español.",
+        "fr_hamidullah": "Traduction de [26:9] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:10",
+      "surahNumber": 26,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰ أَنِ ائْتِ الْقَوْمَ الظَّالِمِينَ",
+        "en_sahih": "English translation of [26:10] in Sahih International style.",
+        "en_yusufali": "English translation of [26:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:10] en español.",
+        "fr_hamidullah": "Traduction de [26:10] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:11",
+      "surahNumber": 26,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "قَوْمَ فِرْعَوْنَ ۚ أَلَا يَتَّقُونَ",
+        "en_sahih": "English translation of [26:11] in Sahih International style.",
+        "en_yusufali": "English translation of [26:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:11] en español.",
+        "fr_hamidullah": "Traduction de [26:11] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:12",
+      "surahNumber": 26,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "قَالَ رَبِّ إِنِّي أَخَافُ أَنْ يُكَذِّبُونِ",
+        "en_sahih": "English translation of [26:12] in Sahih International style.",
+        "en_yusufali": "English translation of [26:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:12] en español.",
+        "fr_hamidullah": "Traduction de [26:12] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:13",
+      "surahNumber": 26,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "وَيَضِيقُ صَدْرِي وَلَا يَنْطَلِقُ لِسَانِي فَأَرْسِلْ إِلَىٰ هَارُونَ",
+        "en_sahih": "English translation of [26:13] in Sahih International style.",
+        "en_yusufali": "English translation of [26:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:13] en español.",
+        "fr_hamidullah": "Traduction de [26:13] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:14",
+      "surahNumber": 26,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "وَلَهُمْ عَلَيَّ ذَنْبٌ فَأَخَافُ أَنْ يَقْتُلُونِ",
+        "en_sahih": "English translation of [26:14] in Sahih International style.",
+        "en_yusufali": "English translation of [26:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:14] en español.",
+        "fr_hamidullah": "Traduction de [26:14] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:15",
+      "surahNumber": 26,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "قَالَ كَلَّا ۖ فَاذْهَبَا بِآيَاتِنَا ۖ إِنَّا مَعَكُمْ مُسْتَمِعُونَ",
+        "en_sahih": "English translation of [26:15] in Sahih International style.",
+        "en_yusufali": "English translation of [26:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:15] en español.",
+        "fr_hamidullah": "Traduction de [26:15] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:16",
+      "surahNumber": 26,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "فَأْتِيَا فِرْعَوْنَ فَقُولَا إِنَّا رَسُولُ رَبِّ الْعَالَمِينَ",
+        "en_sahih": "English translation of [26:16] in Sahih International style.",
+        "en_yusufali": "English translation of [26:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:16] en español.",
+        "fr_hamidullah": "Traduction de [26:16] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:17",
+      "surahNumber": 26,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "أَنْ أَرْسِلْ مَعَنَا بَنِي إِسْرَائِيلَ",
+        "en_sahih": "English translation of [26:17] in Sahih International style.",
+        "en_yusufali": "English translation of [26:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:17] en español.",
+        "fr_hamidullah": "Traduction de [26:17] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:18",
+      "surahNumber": 26,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "قَالَ أَلَمْ نُرَبِّكَ فِينَا وَلِيدًا وَلَبِثْتَ فِينَا مِنْ عُمُرِكَ سِنِينَ",
+        "en_sahih": "English translation of [26:18] in Sahih International style.",
+        "en_yusufali": "English translation of [26:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:18] en español.",
+        "fr_hamidullah": "Traduction de [26:18] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:19",
+      "surahNumber": 26,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "وَفَعَلْتَ فَعْلَتَكَ الَّتِي فَعَلْتَ وَأَنْتَ مِنَ الْكَافِرِينَ",
+        "en_sahih": "English translation of [26:19] in Sahih International style.",
+        "en_yusufali": "English translation of [26:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:19] en español.",
+        "fr_hamidullah": "Traduction de [26:19] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:20",
+      "surahNumber": 26,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "قَالَ فَعَلْتُهَا إِذًا وَأَنَا مِنَ الضَّالِّينَ",
+        "en_sahih": "English translation of [26:20] in Sahih International style.",
+        "en_yusufali": "English translation of [26:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:20] en español.",
+        "fr_hamidullah": "Traduction de [26:20] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:21",
+      "surahNumber": 26,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "فَفَرَرْتُ مِنْكُمْ لَمَّا خِفْتُكُمْ فَوَهَبَ لِي رَبِّي حُكْمًا وَجَعَلَنِي مِنَ الْمُرْسَلِينَ",
+        "en_sahih": "English translation of [26:21] in Sahih International style.",
+        "en_yusufali": "English translation of [26:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:21] en español.",
+        "fr_hamidullah": "Traduction de [26:21] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:22",
+      "surahNumber": 26,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "وَتِلْكَ نِعْمَةٌ تَمُنُّهَا عَلَيَّ أَنْ عَبَّدْتَ بَنِي إِسْرَائِيلَ",
+        "en_sahih": "English translation of [26:22] in Sahih International style.",
+        "en_yusufali": "English translation of [26:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:22] en español.",
+        "fr_hamidullah": "Traduction de [26:22] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:23",
+      "surahNumber": 26,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "قَالَ فِرْعَوْنُ وَمَا رَبُّ الْعَالَمِينَ",
+        "en_sahih": "English translation of [26:23] in Sahih International style.",
+        "en_yusufali": "English translation of [26:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:23] en español.",
+        "fr_hamidullah": "Traduction de [26:23] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:24",
+      "surahNumber": 26,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "قَالَ رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا ۖ إِنْ كُنْتُمْ مُوقِنِينَ",
+        "en_sahih": "English translation of [26:24] in Sahih International style.",
+        "en_yusufali": "English translation of [26:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:24] en español.",
+        "fr_hamidullah": "Traduction de [26:24] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:25",
+      "surahNumber": 26,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "قَالَ لِمَنْ حَوْلَهُ أَلَا تَسْتَمِعُونَ",
+        "en_sahih": "English translation of [26:25] in Sahih International style.",
+        "en_yusufali": "English translation of [26:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:25] en español.",
+        "fr_hamidullah": "Traduction de [26:25] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:26",
+      "surahNumber": 26,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "قَالَ رَبُّكُمْ وَرَبُّ آبَائِكُمُ الْأَوَّلِينَ",
+        "en_sahih": "English translation of [26:26] in Sahih International style.",
+        "en_yusufali": "English translation of [26:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:26] en español.",
+        "fr_hamidullah": "Traduction de [26:26] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:27",
+      "surahNumber": 26,
+      "ayahNumber": 27,
+      "text": {
+        "simple": "قَالَ إِنَّ رَسُولَكُمُ الَّذِي أُرْسِلَ إِلَيْكُمْ لَمَجْنُونٌ",
+        "en_sahih": "English translation of [26:27] in Sahih International style.",
+        "en_yusufali": "English translation of [26:27] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:27] en español.",
+        "fr_hamidullah": "Traduction de [26:27] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:28",
+      "surahNumber": 26,
+      "ayahNumber": 28,
+      "text": {
+        "simple": "قَالَ رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ وَمَا بَيْنَهُمَا ۖ إِنْ كُنْتُمْ تَعْقِلُونَ",
+        "en_sahih": "English translation of [26:28] in Sahih International style.",
+        "en_yusufali": "English translation of [26:28] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:28] en español.",
+        "fr_hamidullah": "Traduction de [26:28] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:29",
+      "surahNumber": 26,
+      "ayahNumber": 29,
+      "text": {
+        "simple": "قَالَ لَئِنِ اتَّخَذْتَ إِلَٰهًا غَيْرِي لَأَجْعَلَنَّكَ مِنَ الْمَسْجُونِينَ",
+        "en_sahih": "English translation of [26:29] in Sahih International style.",
+        "en_yusufali": "English translation of [26:29] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:29] en español.",
+        "fr_hamidullah": "Traduction de [26:29] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:30",
+      "surahNumber": 26,
+      "ayahNumber": 30,
+      "text": {
+        "simple": "قَالَ أَوَلَوْ جِئْتُكَ بِشَيْءٍ مُبِينٍ",
+        "en_sahih": "English translation of [26:30] in Sahih International style.",
+        "en_yusufali": "English translation of [26:30] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:30] en español.",
+        "fr_hamidullah": "Traduction de [26:30] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:31",
+      "surahNumber": 26,
+      "ayahNumber": 31,
+      "text": {
+        "simple": "قَالَ فَأْتِ بِهِ إِنْ كُنْتَ مِنَ الصَّادِقِينَ",
+        "en_sahih": "English translation of [26:31] in Sahih International style.",
+        "en_yusufali": "English translation of [26:31] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:31] en español.",
+        "fr_hamidullah": "Traduction de [26:31] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:32",
+      "surahNumber": 26,
+      "ayahNumber": 32,
+      "text": {
+        "simple": "فَأَلْقَىٰ عَصَاهُ فَإِذَا هِيَ ثُعْبَانٌ مُبِينٌ",
+        "en_sahih": "English translation of [26:32] in Sahih International style.",
+        "en_yusufali": "English translation of [26:32] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:32] en español.",
+        "fr_hamidullah": "Traduction de [26:32] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:33",
+      "surahNumber": 26,
+      "ayahNumber": 33,
+      "text": {
+        "simple": "وَنَزَعَ يَدَهُ فَإِذَا هِيَ بَيْضَاءُ لِلنَّاظِرِينَ",
+        "en_sahih": "English translation of [26:33] in Sahih International style.",
+        "en_yusufali": "English translation of [26:33] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:33] en español.",
+        "fr_hamidullah": "Traduction de [26:33] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:34",
+      "surahNumber": 26,
+      "ayahNumber": 34,
+      "text": {
+        "simple": "قَالَ لِلْمَلَإِ حَوْلَهُ إِنَّ هَٰذَا لَسَاحِرٌ عَلِيمٌ",
+        "en_sahih": "English translation of [26:34] in Sahih International style.",
+        "en_yusufali": "English translation of [26:34] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:34] en español.",
+        "fr_hamidullah": "Traduction de [26:34] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:35",
+      "surahNumber": 26,
+      "ayahNumber": 35,
+      "text": {
+        "simple": "يُرِيدُ أَنْ يُخْرِجَكُمْ مِنْ أَرْضِكُمْ بِسِحْرِهِ فَمَاذَا تَأْمُرُونَ",
+        "en_sahih": "English translation of [26:35] in Sahih International style.",
+        "en_yusufali": "English translation of [26:35] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:35] en español.",
+        "fr_hamidullah": "Traduction de [26:35] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:36",
+      "surahNumber": 26,
+      "ayahNumber": 36,
+      "text": {
+        "simple": "قَالُوا أَرْجِهْ وَأَخَاهُ وَابْعَثْ فِي الْمَدَائِنِ حَاشِرِينَ",
+        "en_sahih": "English translation of [26:36] in Sahih International style.",
+        "en_yusufali": "English translation of [26:36] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:36] en español.",
+        "fr_hamidullah": "Traduction de [26:36] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:37",
+      "surahNumber": 26,
+      "ayahNumber": 37,
+      "text": {
+        "simple": "يَأْتُوكَ بِكُلِّ سَحَّارٍ عَلِيمٍ",
+        "en_sahih": "English translation of [26:37] in Sahih International style.",
+        "en_yusufali": "English translation of [26:37] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:37] en español.",
+        "fr_hamidullah": "Traduction de [26:37] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:38",
+      "surahNumber": 26,
+      "ayahNumber": 38,
+      "text": {
+        "simple": "فَجُمِعَ السَّحَرَةُ لِمِيقَاتِ يَوْمٍ مَعْلُومٍ",
+        "en_sahih": "English translation of [26:38] in Sahih International style.",
+        "en_yusufali": "English translation of [26:38] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 38 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:38] en español.",
+        "fr_hamidullah": "Traduction de [26:38] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:39",
+      "surahNumber": 26,
+      "ayahNumber": 39,
+      "text": {
+        "simple": "وَقِيلَ لِلنَّاسِ هَلْ أَنْتُمْ مُجْتَمِعُونَ",
+        "en_sahih": "English translation of [26:39] in Sahih International style.",
+        "en_yusufali": "English translation of [26:39] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 39 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:39] en español.",
+        "fr_hamidullah": "Traduction de [26:39] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:40",
+      "surahNumber": 26,
+      "ayahNumber": 40,
+      "text": {
+        "simple": "لَعَلَّنَا نَتَّبِعُ السَّحَرَةَ إِنْ كَانُوا هُمُ الْغَالِبِينَ",
+        "en_sahih": "English translation of [26:40] in Sahih International style.",
+        "en_yusufali": "English translation of [26:40] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 40 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:40] en español.",
+        "fr_hamidullah": "Traduction de [26:40] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:41",
+      "surahNumber": 26,
+      "ayahNumber": 41,
+      "text": {
+        "simple": "فَلَمَّا جَاءَ السَّحَرَةُ قَالُوا لِفِرْعَوْنَ أَئِنَّ لَنَا لَأَجْرًا إِنْ كُنَّا نَحْنُ الْغَالِبِينَ",
+        "en_sahih": "English translation of [26:41] in Sahih International style.",
+        "en_yusufali": "English translation of [26:41] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 41 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:41] en español.",
+        "fr_hamidullah": "Traduction de [26:41] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:42",
+      "surahNumber": 26,
+      "ayahNumber": 42,
+      "text": {
+        "simple": "قَالَ نَعَمْ وَإِنَّكُمْ إِذًا لَمِنَ الْمُقَرَّبِينَ",
+        "en_sahih": "English translation of [26:42] in Sahih International style.",
+        "en_yusufali": "English translation of [26:42] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 42 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:42] en español.",
+        "fr_hamidullah": "Traduction de [26:42] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:43",
+      "surahNumber": 26,
+      "ayahNumber": 43,
+      "text": {
+        "simple": "قَالَ لَهُمْ مُوسَىٰ أَلْقُوا مَا أَنْتُمْ مُلْقُونَ",
+        "en_sahih": "English translation of [26:43] in Sahih International style.",
+        "en_yusufali": "English translation of [26:43] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 43 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:43] en español.",
+        "fr_hamidullah": "Traduction de [26:43] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:44",
+      "surahNumber": 26,
+      "ayahNumber": 44,
+      "text": {
+        "simple": "فَأَلْقَوْا حِبَالَهُمْ وَعِصِيَّهُمْ وَقَالُوا بِعِزَّةِ فِرْعَوْنَ إِنَّا لَنَحْنُ الْغَالِبُونَ",
+        "en_sahih": "English translation of [26:44] in Sahih International style.",
+        "en_yusufali": "English translation of [26:44] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 44 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:44] en español.",
+        "fr_hamidullah": "Traduction de [26:44] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:45",
+      "surahNumber": 26,
+      "ayahNumber": 45,
+      "text": {
+        "simple": "فَأَلْقَىٰ مُوسَىٰ عَصَاهُ فَإِذَا هِيَ تَلْقَفُ مَا يَأْفِكُونَ",
+        "en_sahih": "English translation of [26:45] in Sahih International style.",
+        "en_yusufali": "English translation of [26:45] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 45 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:45] en español.",
+        "fr_hamidullah": "Traduction de [26:45] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:46",
+      "surahNumber": 26,
+      "ayahNumber": 46,
+      "text": {
+        "simple": "فَأُلْقِيَ السَّحَرَةُ سَاجِدِينَ",
+        "en_sahih": "English translation of [26:46] in Sahih International style.",
+        "en_yusufali": "English translation of [26:46] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 46 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:46] en español.",
+        "fr_hamidullah": "Traduction de [26:46] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:47",
+      "surahNumber": 26,
+      "ayahNumber": 47,
+      "text": {
+        "simple": "قَالُوا آمَنَّا بِرَبِّ الْعَالَمِينَ",
+        "en_sahih": "English translation of [26:47] in Sahih International style.",
+        "en_yusufali": "English translation of [26:47] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 47 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:47] en español.",
+        "fr_hamidullah": "Traduction de [26:47] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:48",
+      "surahNumber": 26,
+      "ayahNumber": 48,
+      "text": {
+        "simple": "رَبِّ مُوسَىٰ وَهَارُونَ",
+        "en_sahih": "English translation of [26:48] in Sahih International style.",
+        "en_yusufali": "English translation of [26:48] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 48 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:48] en español.",
+        "fr_hamidullah": "Traduction de [26:48] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:49",
+      "surahNumber": 26,
+      "ayahNumber": 49,
+      "text": {
+        "simple": "قَالَ آمَنْتُمْ لَهُ قَبْلَ أَنْ آذَنَ لَكُمْ ۖ إِنَّهُ لَكَبِيرُكُمُ الَّذِي عَلَّمَكُمُ السِّحْرَ فَلَسَوْفَ تَعْلَمُونَ ۚ لَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُمْ مِنْ خِلَافٍ وَلَأُصَلِّبَنَّكُمْ أَجْمَعِينَ",
+        "en_sahih": "English translation of [26:49] in Sahih International style.",
+        "en_yusufali": "English translation of [26:49] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 49 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:49] en español.",
+        "fr_hamidullah": "Traduction de [26:49] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:50",
+      "surahNumber": 26,
+      "ayahNumber": 50,
+      "text": {
+        "simple": "قَالُوا لَا ضَيْرَ ۖ إِنَّا إِلَىٰ رَبِّنَا مُنْقَلِبُونَ",
+        "en_sahih": "English translation of [26:50] in Sahih International style.",
+        "en_yusufali": "English translation of [26:50] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 50 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:50] en español.",
+        "fr_hamidullah": "Traduction de [26:50] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:51",
+      "surahNumber": 26,
+      "ayahNumber": 51,
+      "text": {
+        "simple": "إِنَّا نَطْمَعُ أَنْ يَغْفِرَ لَنَا رَبُّنَا خَطَايَانَا أَنْ كُنَّا أَوَّلَ الْمُؤْمِنِينَ",
+        "en_sahih": "English translation of [26:51] in Sahih International style.",
+        "en_yusufali": "English translation of [26:51] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 51 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:51] en español.",
+        "fr_hamidullah": "Traduction de [26:51] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:52",
+      "surahNumber": 26,
+      "ayahNumber": 52,
+      "text": {
+        "simple": "۞ وَأَوْحَيْنَا إِلَىٰ مُوسَىٰ أَنْ أَسْرِ بِعِبَادِي إِنَّكُمْ مُتَّبَعُونَ",
+        "en_sahih": "English translation of [26:52] in Sahih International style.",
+        "en_yusufali": "English translation of [26:52] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 52 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:52] en español.",
+        "fr_hamidullah": "Traduction de [26:52] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:53",
+      "surahNumber": 26,
+      "ayahNumber": 53,
+      "text": {
+        "simple": "فَأَرْسَلَ فِرْعَوْنُ فِي الْمَدَائِنِ حَاشِرِينَ",
+        "en_sahih": "English translation of [26:53] in Sahih International style.",
+        "en_yusufali": "English translation of [26:53] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 53 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:53] en español.",
+        "fr_hamidullah": "Traduction de [26:53] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 53 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:54",
+      "surahNumber": 26,
+      "ayahNumber": 54,
+      "text": {
+        "simple": "إِنَّ هَٰؤُلَاءِ لَشِرْذِمَةٌ قَلِيلُونَ",
+        "en_sahih": "English translation of [26:54] in Sahih International style.",
+        "en_yusufali": "English translation of [26:54] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 54 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:54] en español.",
+        "fr_hamidullah": "Traduction de [26:54] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 54 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:55",
+      "surahNumber": 26,
+      "ayahNumber": 55,
+      "text": {
+        "simple": "وَإِنَّهُمْ لَنَا لَغَائِظُونَ",
+        "en_sahih": "English translation of [26:55] in Sahih International style.",
+        "en_yusufali": "English translation of [26:55] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 55 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:55] en español.",
+        "fr_hamidullah": "Traduction de [26:55] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 55 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:56",
+      "surahNumber": 26,
+      "ayahNumber": 56,
+      "text": {
+        "simple": "وَإِنَّا لَجَمِيعٌ حَاذِرُونَ",
+        "en_sahih": "English translation of [26:56] in Sahih International style.",
+        "en_yusufali": "English translation of [26:56] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 56 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:56] en español.",
+        "fr_hamidullah": "Traduction de [26:56] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 56 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:57",
+      "surahNumber": 26,
+      "ayahNumber": 57,
+      "text": {
+        "simple": "فَأَخْرَجْنَاهُمْ مِنْ جَنَّاتٍ وَعُيُونٍ",
+        "en_sahih": "English translation of [26:57] in Sahih International style.",
+        "en_yusufali": "English translation of [26:57] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 57 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:57] en español.",
+        "fr_hamidullah": "Traduction de [26:57] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 57 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:58",
+      "surahNumber": 26,
+      "ayahNumber": 58,
+      "text": {
+        "simple": "وَكُنُوزٍ وَمَقَامٍ كَرِيمٍ",
+        "en_sahih": "English translation of [26:58] in Sahih International style.",
+        "en_yusufali": "English translation of [26:58] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 58 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:58] en español.",
+        "fr_hamidullah": "Traduction de [26:58] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 58 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:59",
+      "surahNumber": 26,
+      "ayahNumber": 59,
+      "text": {
+        "simple": "كَذَٰلِكَ وَأَوْرَثْنَاهَا بَنِي إِسْرَائِيلَ",
+        "en_sahih": "English translation of [26:59] in Sahih International style.",
+        "en_yusufali": "English translation of [26:59] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 59 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:59] en español.",
+        "fr_hamidullah": "Traduction de [26:59] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 59 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:60",
+      "surahNumber": 26,
+      "ayahNumber": 60,
+      "text": {
+        "simple": "فَأَتْبَعُوهُمْ مُشْرِقِينَ",
+        "en_sahih": "English translation of [26:60] in Sahih International style.",
+        "en_yusufali": "English translation of [26:60] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 60 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:60] en español.",
+        "fr_hamidullah": "Traduction de [26:60] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 60 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:61",
+      "surahNumber": 26,
+      "ayahNumber": 61,
+      "text": {
+        "simple": "فَلَمَّا تَرَاءَى الْجَمْعَانِ قَالَ أَصْحَابُ مُوسَىٰ إِنَّا لَمُدْرَكُونَ",
+        "en_sahih": "English translation of [26:61] in Sahih International style.",
+        "en_yusufali": "English translation of [26:61] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 61 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:61] en español.",
+        "fr_hamidullah": "Traduction de [26:61] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 61 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:62",
+      "surahNumber": 26,
+      "ayahNumber": 62,
+      "text": {
+        "simple": "قَالَ كَلَّا ۖ إِنَّ مَعِيَ رَبِّي سَيَهْدِينِ",
+        "en_sahih": "English translation of [26:62] in Sahih International style.",
+        "en_yusufali": "English translation of [26:62] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 62 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:62] en español.",
+        "fr_hamidullah": "Traduction de [26:62] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 62 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:63",
+      "surahNumber": 26,
+      "ayahNumber": 63,
+      "text": {
+        "simple": "فَأَوْحَيْنَا إِلَىٰ مُوسَىٰ أَنِ اضْرِبْ بِعَصَاكَ الْبَحْرَ ۖ فَانْفَلَقَ فَكَانَ كُلُّ فِرْقٍ كَالطَّوْدِ الْعَظِيمِ",
+        "en_sahih": "English translation of [26:63] in Sahih International style.",
+        "en_yusufali": "English translation of [26:63] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 63 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:63] en español.",
+        "fr_hamidullah": "Traduction de [26:63] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 63 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:64",
+      "surahNumber": 26,
+      "ayahNumber": 64,
+      "text": {
+        "simple": "وَأَزْلَفْنَا ثَمَّ الْآخَرِينَ",
+        "en_sahih": "English translation of [26:64] in Sahih International style.",
+        "en_yusufali": "English translation of [26:64] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 64 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:64] en español.",
+        "fr_hamidullah": "Traduction de [26:64] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 64 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:65",
+      "surahNumber": 26,
+      "ayahNumber": 65,
+      "text": {
+        "simple": "وَأَنْجَيْنَا مُوسَىٰ وَمَنْ مَعَهُ أَجْمَعِينَ",
+        "en_sahih": "English translation of [26:65] in Sahih International style.",
+        "en_yusufali": "English translation of [26:65] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 65 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:65] en español.",
+        "fr_hamidullah": "Traduction de [26:65] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 65 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:66",
+      "surahNumber": 26,
+      "ayahNumber": 66,
+      "text": {
+        "simple": "ثُمَّ أَغْرَقْنَا الْآخَرِينَ",
+        "en_sahih": "English translation of [26:66] in Sahih International style.",
+        "en_yusufali": "English translation of [26:66] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 66 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:66] en español.",
+        "fr_hamidullah": "Traduction de [26:66] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 66 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:67",
+      "surahNumber": 26,
+      "ayahNumber": 67,
+      "text": {
+        "simple": "إِنَّ فِي ذَٰلِكَ لَآيَةً ۖ وَمَا كَانَ أَكْثَرُهُمْ مُؤْمِنِينَ",
+        "en_sahih": "English translation of [26:67] in Sahih International style.",
+        "en_yusufali": "English translation of [26:67] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 67 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:67] en español.",
+        "fr_hamidullah": "Traduction de [26:67] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 67 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:68",
+      "surahNumber": 26,
+      "ayahNumber": 68,
+      "text": {
+        "simple": "وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ",
+        "en_sahih": "English translation of [26:68] in Sahih International style.",
+        "en_yusufali": "English translation of [26:68] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 68 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:68] en español.",
+        "fr_hamidullah": "Traduction de [26:68] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 68 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:69",
+      "surahNumber": 26,
+      "ayahNumber": 69,
+      "text": {
+        "simple": "وَاتْلُ عَلَيْهِمْ نَبَأَ إِبْرَاهِيمَ",
+        "en_sahih": "English translation of [26:69] in Sahih International style.",
+        "en_yusufali": "English translation of [26:69] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 69 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:69] en español.",
+        "fr_hamidullah": "Traduction de [26:69] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 69 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:70",
+      "surahNumber": 26,
+      "ayahNumber": 70,
+      "text": {
+        "simple": "إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِ مَا تَعْبُدُونَ",
+        "en_sahih": "English translation of [26:70] in Sahih International style.",
+        "en_yusufali": "English translation of [26:70] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 70 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:70] en español.",
+        "fr_hamidullah": "Traduction de [26:70] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 70 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:71",
+      "surahNumber": 26,
+      "ayahNumber": 71,
+      "text": {
+        "simple": "قَالُوا نَعْبُدُ أَصْنَامًا فَنَظَلُّ لَهَا عَاكِفِينَ",
+        "en_sahih": "English translation of [26:71] in Sahih International style.",
+        "en_yusufali": "English translation of [26:71] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 71 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:71] en español.",
+        "fr_hamidullah": "Traduction de [26:71] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 71 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:72",
+      "surahNumber": 26,
+      "ayahNumber": 72,
+      "text": {
+        "simple": "قَالَ هَلْ يَسْمَعُونَكُمْ إِذْ تَدْعُونَ",
+        "en_sahih": "English translation of [26:72] in Sahih International style.",
+        "en_yusufali": "English translation of [26:72] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 72 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:72] en español.",
+        "fr_hamidullah": "Traduction de [26:72] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 72 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:73",
+      "surahNumber": 26,
+      "ayahNumber": 73,
+      "text": {
+        "simple": "أَوْ يَنْفَعُونَكُمْ أَوْ يَضُرُّونَ",
+        "en_sahih": "English translation of [26:73] in Sahih International style.",
+        "en_yusufali": "English translation of [26:73] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 73 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:73] en español.",
+        "fr_hamidullah": "Traduction de [26:73] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 73 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:74",
+      "surahNumber": 26,
+      "ayahNumber": 74,
+      "text": {
+        "simple": "قَالُوا بَلْ وَجَدْنَا آبَاءَنَا كَذَٰلِكَ يَفْعَلُونَ",
+        "en_sahih": "English translation of [26:74] in Sahih International style.",
+        "en_yusufali": "English translation of [26:74] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 74 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:74] en español.",
+        "fr_hamidullah": "Traduction de [26:74] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 74 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:75",
+      "surahNumber": 26,
+      "ayahNumber": 75,
+      "text": {
+        "simple": "قَالَ أَفَرَأَيْتُمْ مَا كُنْتُمْ تَعْبُدُونَ",
+        "en_sahih": "English translation of [26:75] in Sahih International style.",
+        "en_yusufali": "English translation of [26:75] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 75 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:75] en español.",
+        "fr_hamidullah": "Traduction de [26:75] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 75 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:76",
+      "surahNumber": 26,
+      "ayahNumber": 76,
+      "text": {
+        "simple": "أَنْتُمْ وَآبَاؤُكُمُ الْأَقْدَمُونَ",
+        "en_sahih": "English translation of [26:76] in Sahih International style.",
+        "en_yusufali": "English translation of [26:76] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 76 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:76] en español.",
+        "fr_hamidullah": "Traduction de [26:76] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 76 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:77",
+      "surahNumber": 26,
+      "ayahNumber": 77,
+      "text": {
+        "simple": "فَإِنَّهُمْ عَدُوٌّ لِي إِلَّا رَبَّ الْعَالَمِينَ",
+        "en_sahih": "English translation of [26:77] in Sahih International style.",
+        "en_yusufali": "English translation of [26:77] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 77 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:77] en español.",
+        "fr_hamidullah": "Traduction de [26:77] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 77 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:78",
+      "surahNumber": 26,
+      "ayahNumber": 78,
+      "text": {
+        "simple": "الَّذِي خَلَقَنِي فَهُوَ يَهْدِينِ",
+        "en_sahih": "English translation of [26:78] in Sahih International style.",
+        "en_yusufali": "English translation of [26:78] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 78 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:78] en español.",
+        "fr_hamidullah": "Traduction de [26:78] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 78 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:79",
+      "surahNumber": 26,
+      "ayahNumber": 79,
+      "text": {
+        "simple": "وَالَّذِي هُوَ يُطْعِمُنِي وَيَسْقِينِ",
+        "en_sahih": "English translation of [26:79] in Sahih International style.",
+        "en_yusufali": "English translation of [26:79] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 79 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:79] en español.",
+        "fr_hamidullah": "Traduction de [26:79] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 79 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:80",
+      "surahNumber": 26,
+      "ayahNumber": 80,
+      "text": {
+        "simple": "وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ",
+        "en_sahih": "English translation of [26:80] in Sahih International style.",
+        "en_yusufali": "English translation of [26:80] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 80 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:80] en español.",
+        "fr_hamidullah": "Traduction de [26:80] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 80 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:81",
+      "surahNumber": 26,
+      "ayahNumber": 81,
+      "text": {
+        "simple": "وَالَّذِي يُمِيتُنِي ثُمَّ يُحْيِينِ",
+        "en_sahih": "English translation of [26:81] in Sahih International style.",
+        "en_yusufali": "English translation of [26:81] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 81 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:81] en español.",
+        "fr_hamidullah": "Traduction de [26:81] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 81 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:82",
+      "surahNumber": 26,
+      "ayahNumber": 82,
+      "text": {
+        "simple": "وَالَّذِي أَطْمَعُ أَنْ يَغْفِرَ لِي خَطِيئَتِي يَوْمَ الدِّينِ",
+        "en_sahih": "English translation of [26:82] in Sahih International style.",
+        "en_yusufali": "English translation of [26:82] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 82 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:82] en español.",
+        "fr_hamidullah": "Traduction de [26:82] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 82 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:83",
+      "surahNumber": 26,
+      "ayahNumber": 83,
+      "text": {
+        "simple": "رَبِّ هَبْ لِي حُكْمًا وَأَلْحِقْنِي بِالصَّالِحِينَ",
+        "en_sahih": "English translation of [26:83] in Sahih International style.",
+        "en_yusufali": "English translation of [26:83] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 83 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:83] en español.",
+        "fr_hamidullah": "Traduction de [26:83] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 83 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:84",
+      "surahNumber": 26,
+      "ayahNumber": 84,
+      "text": {
+        "simple": "وَاجْعَلْ لِي لِسَانَ صِدْقٍ فِي الْآخِرِينَ",
+        "en_sahih": "English translation of [26:84] in Sahih International style.",
+        "en_yusufali": "English translation of [26:84] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 84 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:84] en español.",
+        "fr_hamidullah": "Traduction de [26:84] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 84 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:85",
+      "surahNumber": 26,
+      "ayahNumber": 85,
+      "text": {
+        "simple": "وَاجْعَلْنِي مِنْ وَرَثَةِ جَنَّةِ النَّعِيمِ",
+        "en_sahih": "English translation of [26:85] in Sahih International style.",
+        "en_yusufali": "English translation of [26:85] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 85 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:85] en español.",
+        "fr_hamidullah": "Traduction de [26:85] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 85 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:86",
+      "surahNumber": 26,
+      "ayahNumber": 86,
+      "text": {
+        "simple": "وَاغْفِرْ لِأَبِي إِنَّهُ كَانَ مِنَ الضَّالِّينَ",
+        "en_sahih": "English translation of [26:86] in Sahih International style.",
+        "en_yusufali": "English translation of [26:86] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 86 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:86] en español.",
+        "fr_hamidullah": "Traduction de [26:86] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 86 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:87",
+      "surahNumber": 26,
+      "ayahNumber": 87,
+      "text": {
+        "simple": "وَلَا تُخْزِنِي يَوْمَ يُبْعَثُونَ",
+        "en_sahih": "English translation of [26:87] in Sahih International style.",
+        "en_yusufali": "English translation of [26:87] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 87 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:87] en español.",
+        "fr_hamidullah": "Traduction de [26:87] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 87 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:88",
+      "surahNumber": 26,
+      "ayahNumber": 88,
+      "text": {
+        "simple": "يَوْمَ لَا يَنْفَعُ مَالٌ وَلَا بَنُونَ",
+        "en_sahih": "English translation of [26:88] in Sahih International style.",
+        "en_yusufali": "English translation of [26:88] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 88 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:88] en español.",
+        "fr_hamidullah": "Traduction de [26:88] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 88 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:89",
+      "surahNumber": 26,
+      "ayahNumber": 89,
+      "text": {
+        "simple": "إِلَّا مَنْ أَتَى اللَّهَ بِقَلْبٍ سَلِيمٍ",
+        "en_sahih": "English translation of [26:89] in Sahih International style.",
+        "en_yusufali": "English translation of [26:89] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 89 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:89] en español.",
+        "fr_hamidullah": "Traduction de [26:89] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 89 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:90",
+      "surahNumber": 26,
+      "ayahNumber": 90,
+      "text": {
+        "simple": "وَأُزْلِفَتِ الْجَنَّةُ لِلْمُتَّقِينَ",
+        "en_sahih": "English translation of [26:90] in Sahih International style.",
+        "en_yusufali": "English translation of [26:90] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 90 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:90] en español.",
+        "fr_hamidullah": "Traduction de [26:90] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 90 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:91",
+      "surahNumber": 26,
+      "ayahNumber": 91,
+      "text": {
+        "simple": "وَبُرِّزَتِ الْجَحِيمُ لِلْغَاوِينَ",
+        "en_sahih": "English translation of [26:91] in Sahih International style.",
+        "en_yusufali": "English translation of [26:91] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 91 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:91] en español.",
+        "fr_hamidullah": "Traduction de [26:91] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 91 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:92",
+      "surahNumber": 26,
+      "ayahNumber": 92,
+      "text": {
+        "simple": "وَقِيلَ لَهُمْ أَيْنَ مَا كُنْتُمْ تَعْبُدُونَ",
+        "en_sahih": "English translation of [26:92] in Sahih International style.",
+        "en_yusufali": "English translation of [26:92] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 92 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:92] en español.",
+        "fr_hamidullah": "Traduction de [26:92] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 92 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:93",
+      "surahNumber": 26,
+      "ayahNumber": 93,
+      "text": {
+        "simple": "مِنْ دُونِ اللَّهِ هَلْ يَنْصُرُونَكُمْ أَوْ يَنْتَصِرُونَ",
+        "en_sahih": "English translation of [26:93] in Sahih International style.",
+        "en_yusufali": "English translation of [26:93] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 93 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:93] en español.",
+        "fr_hamidullah": "Traduction de [26:93] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 93 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:94",
+      "surahNumber": 26,
+      "ayahNumber": 94,
+      "text": {
+        "simple": "فَكُبْكِبُوا فِيهَا هُمْ وَالْغَاوُونَ",
+        "en_sahih": "English translation of [26:94] in Sahih International style.",
+        "en_yusufali": "English translation of [26:94] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 94 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:94] en español.",
+        "fr_hamidullah": "Traduction de [26:94] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 94 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:95",
+      "surahNumber": 26,
+      "ayahNumber": 95,
+      "text": {
+        "simple": "وَجُنُودُ إِبْلِيسَ أَجْمَعُونَ",
+        "en_sahih": "English translation of [26:95] in Sahih International style.",
+        "en_yusufali": "English translation of [26:95] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 95 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:95] en español.",
+        "fr_hamidullah": "Traduction de [26:95] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 95 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:96",
+      "surahNumber": 26,
+      "ayahNumber": 96,
+      "text": {
+        "simple": "قَالُوا وَهُمْ فِيهَا يَخْتَصِمُونَ",
+        "en_sahih": "English translation of [26:96] in Sahih International style.",
+        "en_yusufali": "English translation of [26:96] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 96 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:96] en español.",
+        "fr_hamidullah": "Traduction de [26:96] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 96 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:97",
+      "surahNumber": 26,
+      "ayahNumber": 97,
+      "text": {
+        "simple": "تَاللَّهِ إِنْ كُنَّا لَفِي ضَلَالٍ مُبِينٍ",
+        "en_sahih": "English translation of [26:97] in Sahih International style.",
+        "en_yusufali": "English translation of [26:97] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 97 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:97] en español.",
+        "fr_hamidullah": "Traduction de [26:97] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 97 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:98",
+      "surahNumber": 26,
+      "ayahNumber": 98,
+      "text": {
+        "simple": "إِذْ نُسَوِّيكُمْ بِرَبِّ الْعَالَمِينَ",
+        "en_sahih": "English translation of [26:98] in Sahih International style.",
+        "en_yusufali": "English translation of [26:98] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 98 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:98] en español.",
+        "fr_hamidullah": "Traduction de [26:98] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 98 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:99",
+      "surahNumber": 26,
+      "ayahNumber": 99,
+      "text": {
+        "simple": "وَمَا أَضَلَّنَا إِلَّا الْمُجْرِمُونَ",
+        "en_sahih": "English translation of [26:99] in Sahih International style.",
+        "en_yusufali": "English translation of [26:99] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 99 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:99] en español.",
+        "fr_hamidullah": "Traduction de [26:99] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 99 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:100",
+      "surahNumber": 26,
+      "ayahNumber": 100,
+      "text": {
+        "simple": "فَمَا لَنَا مِنْ شَافِعِينَ",
+        "en_sahih": "English translation of [26:100] in Sahih International style.",
+        "en_yusufali": "English translation of [26:100] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 100 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:100] en español.",
+        "fr_hamidullah": "Traduction de [26:100] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 100 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:101",
+      "surahNumber": 26,
+      "ayahNumber": 101,
+      "text": {
+        "simple": "وَلَا صَدِيقٍ حَمِيمٍ",
+        "en_sahih": "English translation of [26:101] in Sahih International style.",
+        "en_yusufali": "English translation of [26:101] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 101 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:101] en español.",
+        "fr_hamidullah": "Traduction de [26:101] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 101 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:102",
+      "surahNumber": 26,
+      "ayahNumber": 102,
+      "text": {
+        "simple": "فَلَوْ أَنَّ لَنَا كَرَّةً فَنَكُونَ مِنَ الْمُؤْمِنِينَ",
+        "en_sahih": "English translation of [26:102] in Sahih International style.",
+        "en_yusufali": "English translation of [26:102] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 102 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:102] en español.",
+        "fr_hamidullah": "Traduction de [26:102] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 102 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:103",
+      "surahNumber": 26,
+      "ayahNumber": 103,
+      "text": {
+        "simple": "إِنَّ فِي ذَٰلِكَ لَآيَةً ۖ وَمَا كَانَ أَكْثَرُهُمْ مُؤْمِنِينَ",
+        "en_sahih": "English translation of [26:103] in Sahih International style.",
+        "en_yusufali": "English translation of [26:103] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 103 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:103] en español.",
+        "fr_hamidullah": "Traduction de [26:103] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 103 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:104",
+      "surahNumber": 26,
+      "ayahNumber": 104,
+      "text": {
+        "simple": "وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ",
+        "en_sahih": "English translation of [26:104] in Sahih International style.",
+        "en_yusufali": "English translation of [26:104] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 104 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:104] en español.",
+        "fr_hamidullah": "Traduction de [26:104] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 104 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:105",
+      "surahNumber": 26,
+      "ayahNumber": 105,
+      "text": {
+        "simple": "كَذَّبَتْ قَوْمُ نُوحٍ الْمُرْسَلِينَ",
+        "en_sahih": "English translation of [26:105] in Sahih International style.",
+        "en_yusufali": "English translation of [26:105] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 105 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:105] en español.",
+        "fr_hamidullah": "Traduction de [26:105] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 105 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:106",
+      "surahNumber": 26,
+      "ayahNumber": 106,
+      "text": {
+        "simple": "إِذْ قَالَ لَهُمْ أَخُوهُمْ نُوحٌ أَلَا تَتَّقُونَ",
+        "en_sahih": "English translation of [26:106] in Sahih International style.",
+        "en_yusufali": "English translation of [26:106] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 106 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:106] en español.",
+        "fr_hamidullah": "Traduction de [26:106] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 106 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:107",
+      "surahNumber": 26,
+      "ayahNumber": 107,
+      "text": {
+        "simple": "إِنِّي لَكُمْ رَسُولٌ أَمِينٌ",
+        "en_sahih": "English translation of [26:107] in Sahih International style.",
+        "en_yusufali": "English translation of [26:107] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 107 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:107] en español.",
+        "fr_hamidullah": "Traduction de [26:107] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 107 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:108",
+      "surahNumber": 26,
+      "ayahNumber": 108,
+      "text": {
+        "simple": "فَاتَّقُوا اللَّهَ وَأَطِيعُونِ",
+        "en_sahih": "English translation of [26:108] in Sahih International style.",
+        "en_yusufali": "English translation of [26:108] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 108 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:108] en español.",
+        "fr_hamidullah": "Traduction de [26:108] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 108 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:109",
+      "surahNumber": 26,
+      "ayahNumber": 109,
+      "text": {
+        "simple": "وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِيَ إِلَّا عَلَىٰ رَبِّ الْعَالَمِينَ",
+        "en_sahih": "English translation of [26:109] in Sahih International style.",
+        "en_yusufali": "English translation of [26:109] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 109 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:109] en español.",
+        "fr_hamidullah": "Traduction de [26:109] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 109 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:110",
+      "surahNumber": 26,
+      "ayahNumber": 110,
+      "text": {
+        "simple": "فَاتَّقُوا اللَّهَ وَأَطِيعُونِ",
+        "en_sahih": "English translation of [26:110] in Sahih International style.",
+        "en_yusufali": "English translation of [26:110] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 110 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:110] en español.",
+        "fr_hamidullah": "Traduction de [26:110] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 110 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:111",
+      "surahNumber": 26,
+      "ayahNumber": 111,
+      "text": {
+        "simple": "۞ قَالُوا أَنُؤْمِنُ لَكَ وَاتَّبَعَكَ الْأَرْذَلُونَ",
+        "en_sahih": "English translation of [26:111] in Sahih International style.",
+        "en_yusufali": "English translation of [26:111] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 111 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:111] en español.",
+        "fr_hamidullah": "Traduction de [26:111] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 111 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:112",
+      "surahNumber": 26,
+      "ayahNumber": 112,
+      "text": {
+        "simple": "قَالَ وَمَا عِلْمِي بِمَا كَانُوا يَعْمَلُونَ",
+        "en_sahih": "English translation of [26:112] in Sahih International style.",
+        "en_yusufali": "English translation of [26:112] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 112 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:112] en español.",
+        "fr_hamidullah": "Traduction de [26:112] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 112 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:113",
+      "surahNumber": 26,
+      "ayahNumber": 113,
+      "text": {
+        "simple": "إِنْ حِسَابُهُمْ إِلَّا عَلَىٰ رَبِّي ۖ لَوْ تَشْعُرُونَ",
+        "en_sahih": "English translation of [26:113] in Sahih International style.",
+        "en_yusufali": "English translation of [26:113] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 113 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:113] en español.",
+        "fr_hamidullah": "Traduction de [26:113] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 113 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:114",
+      "surahNumber": 26,
+      "ayahNumber": 114,
+      "text": {
+        "simple": "وَمَا أَنَا بِطَارِدِ الْمُؤْمِنِينَ",
+        "en_sahih": "English translation of [26:114] in Sahih International style.",
+        "en_yusufali": "English translation of [26:114] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 114 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:114] en español.",
+        "fr_hamidullah": "Traduction de [26:114] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 114 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:115",
+      "surahNumber": 26,
+      "ayahNumber": 115,
+      "text": {
+        "simple": "إِنْ أَنَا إِلَّا نَذِيرٌ مُبِينٌ",
+        "en_sahih": "English translation of [26:115] in Sahih International style.",
+        "en_yusufali": "English translation of [26:115] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 115 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:115] en español.",
+        "fr_hamidullah": "Traduction de [26:115] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 115 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:116",
+      "surahNumber": 26,
+      "ayahNumber": 116,
+      "text": {
+        "simple": "قَالُوا لَئِنْ لَمْ تَنْتَهِ يَا نُوحُ لَتَكُونَنَّ مِنَ الْمَرْجُومِينَ",
+        "en_sahih": "English translation of [26:116] in Sahih International style.",
+        "en_yusufali": "English translation of [26:116] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 116 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:116] en español.",
+        "fr_hamidullah": "Traduction de [26:116] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 116 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:117",
+      "surahNumber": 26,
+      "ayahNumber": 117,
+      "text": {
+        "simple": "قَالَ رَبِّ إِنَّ قَوْمِي كَذَّبُونِ",
+        "en_sahih": "English translation of [26:117] in Sahih International style.",
+        "en_yusufali": "English translation of [26:117] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 117 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:117] en español.",
+        "fr_hamidullah": "Traduction de [26:117] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 117 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:118",
+      "surahNumber": 26,
+      "ayahNumber": 118,
+      "text": {
+        "simple": "فَافْتَحْ بَيْنِي وَبَيْنَهُمْ فَتْحًا وَنَجِّنِي وَمَنْ مَعِيَ مِنَ الْمُؤْمِنِينَ",
+        "en_sahih": "English translation of [26:118] in Sahih International style.",
+        "en_yusufali": "English translation of [26:118] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 118 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:118] en español.",
+        "fr_hamidullah": "Traduction de [26:118] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 118 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:119",
+      "surahNumber": 26,
+      "ayahNumber": 119,
+      "text": {
+        "simple": "فَأَنْجَيْنَاهُ وَمَنْ مَعَهُ فِي الْفُلْكِ الْمَشْحُونِ",
+        "en_sahih": "English translation of [26:119] in Sahih International style.",
+        "en_yusufali": "English translation of [26:119] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 119 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:119] en español.",
+        "fr_hamidullah": "Traduction de [26:119] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 119 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:120",
+      "surahNumber": 26,
+      "ayahNumber": 120,
+      "text": {
+        "simple": "ثُمَّ أَغْرَقْنَا بَعْدُ الْبَاقِينَ",
+        "en_sahih": "English translation of [26:120] in Sahih International style.",
+        "en_yusufali": "English translation of [26:120] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 120 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:120] en español.",
+        "fr_hamidullah": "Traduction de [26:120] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 120 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:121",
+      "surahNumber": 26,
+      "ayahNumber": 121,
+      "text": {
+        "simple": "إِنَّ فِي ذَٰلِكَ لَآيَةً ۖ وَمَا كَانَ أَكْثَرُهُمْ مُؤْمِنِينَ",
+        "en_sahih": "English translation of [26:121] in Sahih International style.",
+        "en_yusufali": "English translation of [26:121] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 121 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:121] en español.",
+        "fr_hamidullah": "Traduction de [26:121] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 121 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:122",
+      "surahNumber": 26,
+      "ayahNumber": 122,
+      "text": {
+        "simple": "وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ",
+        "en_sahih": "English translation of [26:122] in Sahih International style.",
+        "en_yusufali": "English translation of [26:122] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 122 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:122] en español.",
+        "fr_hamidullah": "Traduction de [26:122] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 122 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:123",
+      "surahNumber": 26,
+      "ayahNumber": 123,
+      "text": {
+        "simple": "كَذَّبَتْ عَادٌ الْمُرْسَلِينَ",
+        "en_sahih": "English translation of [26:123] in Sahih International style.",
+        "en_yusufali": "English translation of [26:123] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 123 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:123] en español.",
+        "fr_hamidullah": "Traduction de [26:123] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 123 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:124",
+      "surahNumber": 26,
+      "ayahNumber": 124,
+      "text": {
+        "simple": "إِذْ قَالَ لَهُمْ أَخُوهُمْ هُودٌ أَلَا تَتَّقُونَ",
+        "en_sahih": "English translation of [26:124] in Sahih International style.",
+        "en_yusufali": "English translation of [26:124] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 124 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:124] en español.",
+        "fr_hamidullah": "Traduction de [26:124] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 124 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:125",
+      "surahNumber": 26,
+      "ayahNumber": 125,
+      "text": {
+        "simple": "إِنِّي لَكُمْ رَسُولٌ أَمِينٌ",
+        "en_sahih": "English translation of [26:125] in Sahih International style.",
+        "en_yusufali": "English translation of [26:125] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 125 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:125] en español.",
+        "fr_hamidullah": "Traduction de [26:125] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 125 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:126",
+      "surahNumber": 26,
+      "ayahNumber": 126,
+      "text": {
+        "simple": "فَاتَّقُوا اللَّهَ وَأَطِيعُونِ",
+        "en_sahih": "English translation of [26:126] in Sahih International style.",
+        "en_yusufali": "English translation of [26:126] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 126 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:126] en español.",
+        "fr_hamidullah": "Traduction de [26:126] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 126 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:127",
+      "surahNumber": 26,
+      "ayahNumber": 127,
+      "text": {
+        "simple": "وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِيَ إِلَّا عَلَىٰ رَبِّ الْعَالَمِينَ",
+        "en_sahih": "English translation of [26:127] in Sahih International style.",
+        "en_yusufali": "English translation of [26:127] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 127 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:127] en español.",
+        "fr_hamidullah": "Traduction de [26:127] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 127 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:128",
+      "surahNumber": 26,
+      "ayahNumber": 128,
+      "text": {
+        "simple": "أَتَبْنُونَ بِكُلِّ رِيعٍ آيَةً تَعْبَثُونَ",
+        "en_sahih": "English translation of [26:128] in Sahih International style.",
+        "en_yusufali": "English translation of [26:128] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 128 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:128] en español.",
+        "fr_hamidullah": "Traduction de [26:128] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 128 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:129",
+      "surahNumber": 26,
+      "ayahNumber": 129,
+      "text": {
+        "simple": "وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمْ تَخْلُدُونَ",
+        "en_sahih": "English translation of [26:129] in Sahih International style.",
+        "en_yusufali": "English translation of [26:129] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 129 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:129] en español.",
+        "fr_hamidullah": "Traduction de [26:129] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 129 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:130",
+      "surahNumber": 26,
+      "ayahNumber": 130,
+      "text": {
+        "simple": "وَإِذَا بَطَشْتُمْ بَطَشْتُمْ جَبَّارِينَ",
+        "en_sahih": "English translation of [26:130] in Sahih International style.",
+        "en_yusufali": "English translation of [26:130] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 130 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:130] en español.",
+        "fr_hamidullah": "Traduction de [26:130] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 130 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:131",
+      "surahNumber": 26,
+      "ayahNumber": 131,
+      "text": {
+        "simple": "فَاتَّقُوا اللَّهَ وَأَطِيعُونِ",
+        "en_sahih": "English translation of [26:131] in Sahih International style.",
+        "en_yusufali": "English translation of [26:131] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 131 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:131] en español.",
+        "fr_hamidullah": "Traduction de [26:131] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 131 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:132",
+      "surahNumber": 26,
+      "ayahNumber": 132,
+      "text": {
+        "simple": "وَاتَّقُوا الَّذِي أَمَدَّكُمْ بِمَا تَعْلَمُونَ",
+        "en_sahih": "English translation of [26:132] in Sahih International style.",
+        "en_yusufali": "English translation of [26:132] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 132 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:132] en español.",
+        "fr_hamidullah": "Traduction de [26:132] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 132 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:133",
+      "surahNumber": 26,
+      "ayahNumber": 133,
+      "text": {
+        "simple": "أَمَدَّكُمْ بِأَنْعَامٍ وَبَنِينَ",
+        "en_sahih": "English translation of [26:133] in Sahih International style.",
+        "en_yusufali": "English translation of [26:133] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 133 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:133] en español.",
+        "fr_hamidullah": "Traduction de [26:133] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 133 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:134",
+      "surahNumber": 26,
+      "ayahNumber": 134,
+      "text": {
+        "simple": "وَجَنَّاتٍ وَعُيُونٍ",
+        "en_sahih": "English translation of [26:134] in Sahih International style.",
+        "en_yusufali": "English translation of [26:134] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 134 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:134] en español.",
+        "fr_hamidullah": "Traduction de [26:134] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 134 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:135",
+      "surahNumber": 26,
+      "ayahNumber": 135,
+      "text": {
+        "simple": "إِنِّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ",
+        "en_sahih": "English translation of [26:135] in Sahih International style.",
+        "en_yusufali": "English translation of [26:135] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 135 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:135] en español.",
+        "fr_hamidullah": "Traduction de [26:135] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 135 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:136",
+      "surahNumber": 26,
+      "ayahNumber": 136,
+      "text": {
+        "simple": "قَالُوا سَوَاءٌ عَلَيْنَا أَوَعَظْتَ أَمْ لَمْ تَكُنْ مِنَ الْوَاعِظِينَ",
+        "en_sahih": "English translation of [26:136] in Sahih International style.",
+        "en_yusufali": "English translation of [26:136] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 136 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:136] en español.",
+        "fr_hamidullah": "Traduction de [26:136] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 136 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:137",
+      "surahNumber": 26,
+      "ayahNumber": 137,
+      "text": {
+        "simple": "إِنْ هَٰذَا إِلَّا خُلُقُ الْأَوَّلِينَ",
+        "en_sahih": "English translation of [26:137] in Sahih International style.",
+        "en_yusufali": "English translation of [26:137] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 137 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:137] en español.",
+        "fr_hamidullah": "Traduction de [26:137] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 137 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:138",
+      "surahNumber": 26,
+      "ayahNumber": 138,
+      "text": {
+        "simple": "وَمَا نَحْنُ بِمُعَذَّبِينَ",
+        "en_sahih": "English translation of [26:138] in Sahih International style.",
+        "en_yusufali": "English translation of [26:138] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 138 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:138] en español.",
+        "fr_hamidullah": "Traduction de [26:138] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 138 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:139",
+      "surahNumber": 26,
+      "ayahNumber": 139,
+      "text": {
+        "simple": "فَكَذَّبُوهُ فَأَهْلَكْنَاهُمْ ۗ إِنَّ فِي ذَٰلِكَ لَآيَةً ۖ وَمَا كَانَ أَكْثَرُهُمْ مُؤْمِنِينَ",
+        "en_sahih": "English translation of [26:139] in Sahih International style.",
+        "en_yusufali": "English translation of [26:139] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 139 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:139] en español.",
+        "fr_hamidullah": "Traduction de [26:139] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 139 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:140",
+      "surahNumber": 26,
+      "ayahNumber": 140,
+      "text": {
+        "simple": "وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ",
+        "en_sahih": "English translation of [26:140] in Sahih International style.",
+        "en_yusufali": "English translation of [26:140] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 140 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:140] en español.",
+        "fr_hamidullah": "Traduction de [26:140] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 140 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:141",
+      "surahNumber": 26,
+      "ayahNumber": 141,
+      "text": {
+        "simple": "كَذَّبَتْ ثَمُودُ الْمُرْسَلِينَ",
+        "en_sahih": "English translation of [26:141] in Sahih International style.",
+        "en_yusufali": "English translation of [26:141] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 141 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:141] en español.",
+        "fr_hamidullah": "Traduction de [26:141] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 141 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:142",
+      "surahNumber": 26,
+      "ayahNumber": 142,
+      "text": {
+        "simple": "إِذْ قَالَ لَهُمْ أَخُوهُمْ صَالِحٌ أَلَا تَتَّقُونَ",
+        "en_sahih": "English translation of [26:142] in Sahih International style.",
+        "en_yusufali": "English translation of [26:142] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 142 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:142] en español.",
+        "fr_hamidullah": "Traduction de [26:142] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 142 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:143",
+      "surahNumber": 26,
+      "ayahNumber": 143,
+      "text": {
+        "simple": "إِنِّي لَكُمْ رَسُولٌ أَمِينٌ",
+        "en_sahih": "English translation of [26:143] in Sahih International style.",
+        "en_yusufali": "English translation of [26:143] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 143 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:143] en español.",
+        "fr_hamidullah": "Traduction de [26:143] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 143 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:144",
+      "surahNumber": 26,
+      "ayahNumber": 144,
+      "text": {
+        "simple": "فَاتَّقُوا اللَّهَ وَأَطِيعُونِ",
+        "en_sahih": "English translation of [26:144] in Sahih International style.",
+        "en_yusufali": "English translation of [26:144] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 144 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:144] en español.",
+        "fr_hamidullah": "Traduction de [26:144] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 144 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:145",
+      "surahNumber": 26,
+      "ayahNumber": 145,
+      "text": {
+        "simple": "وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِيَ إِلَّا عَلَىٰ رَبِّ الْعَالَمِينَ",
+        "en_sahih": "English translation of [26:145] in Sahih International style.",
+        "en_yusufali": "English translation of [26:145] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 145 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:145] en español.",
+        "fr_hamidullah": "Traduction de [26:145] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 145 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:146",
+      "surahNumber": 26,
+      "ayahNumber": 146,
+      "text": {
+        "simple": "أَتُتْرَكُونَ فِي مَا هَاهُنَا آمِنِينَ",
+        "en_sahih": "English translation of [26:146] in Sahih International style.",
+        "en_yusufali": "English translation of [26:146] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 146 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:146] en español.",
+        "fr_hamidullah": "Traduction de [26:146] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 146 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:147",
+      "surahNumber": 26,
+      "ayahNumber": 147,
+      "text": {
+        "simple": "فِي جَنَّاتٍ وَعُيُونٍ",
+        "en_sahih": "English translation of [26:147] in Sahih International style.",
+        "en_yusufali": "English translation of [26:147] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 147 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:147] en español.",
+        "fr_hamidullah": "Traduction de [26:147] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 147 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:148",
+      "surahNumber": 26,
+      "ayahNumber": 148,
+      "text": {
+        "simple": "وَزُرُوعٍ وَنَخْلٍ طَلْعُهَا هَضِيمٌ",
+        "en_sahih": "English translation of [26:148] in Sahih International style.",
+        "en_yusufali": "English translation of [26:148] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 148 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:148] en español.",
+        "fr_hamidullah": "Traduction de [26:148] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 148 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:149",
+      "surahNumber": 26,
+      "ayahNumber": 149,
+      "text": {
+        "simple": "وَتَنْحِتُونَ مِنَ الْجِبَالِ بُيُوتًا فَارِهِينَ",
+        "en_sahih": "English translation of [26:149] in Sahih International style.",
+        "en_yusufali": "English translation of [26:149] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 149 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:149] en español.",
+        "fr_hamidullah": "Traduction de [26:149] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 149 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:150",
+      "surahNumber": 26,
+      "ayahNumber": 150,
+      "text": {
+        "simple": "فَاتَّقُوا اللَّهَ وَأَطِيعُونِ",
+        "en_sahih": "English translation of [26:150] in Sahih International style.",
+        "en_yusufali": "English translation of [26:150] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 150 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:150] en español.",
+        "fr_hamidullah": "Traduction de [26:150] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 150 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:151",
+      "surahNumber": 26,
+      "ayahNumber": 151,
+      "text": {
+        "simple": "وَلَا تُطِيعُوا أَمْرَ الْمُسْرِفِينَ",
+        "en_sahih": "English translation of [26:151] in Sahih International style.",
+        "en_yusufali": "English translation of [26:151] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 151 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:151] en español.",
+        "fr_hamidullah": "Traduction de [26:151] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 151 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:152",
+      "surahNumber": 26,
+      "ayahNumber": 152,
+      "text": {
+        "simple": "الَّذِينَ يُفْسِدُونَ فِي الْأَرْضِ وَلَا يُصْلِحُونَ",
+        "en_sahih": "English translation of [26:152] in Sahih International style.",
+        "en_yusufali": "English translation of [26:152] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 152 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:152] en español.",
+        "fr_hamidullah": "Traduction de [26:152] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 152 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:153",
+      "surahNumber": 26,
+      "ayahNumber": 153,
+      "text": {
+        "simple": "قَالُوا إِنَّمَا أَنْتَ مِنَ الْمُسَحَّرِينَ",
+        "en_sahih": "English translation of [26:153] in Sahih International style.",
+        "en_yusufali": "English translation of [26:153] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 153 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:153] en español.",
+        "fr_hamidullah": "Traduction de [26:153] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 153 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:154",
+      "surahNumber": 26,
+      "ayahNumber": 154,
+      "text": {
+        "simple": "مَا أَنْتَ إِلَّا بَشَرٌ مِثْلُنَا فَأْتِ بِآيَةٍ إِنْ كُنْتَ مِنَ الصَّادِقِينَ",
+        "en_sahih": "English translation of [26:154] in Sahih International style.",
+        "en_yusufali": "English translation of [26:154] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 154 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:154] en español.",
+        "fr_hamidullah": "Traduction de [26:154] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 154 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:155",
+      "surahNumber": 26,
+      "ayahNumber": 155,
+      "text": {
+        "simple": "قَالَ هَٰذِهِ نَاقَةٌ لَهَا شِرْبٌ وَلَكُمْ شِرْبُ يَوْمٍ مَعْلُومٍ",
+        "en_sahih": "English translation of [26:155] in Sahih International style.",
+        "en_yusufali": "English translation of [26:155] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 155 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:155] en español.",
+        "fr_hamidullah": "Traduction de [26:155] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 155 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:156",
+      "surahNumber": 26,
+      "ayahNumber": 156,
+      "text": {
+        "simple": "وَلَا تَمَسُّوهَا بِسُوءٍ فَيَأْخُذَكُمْ عَذَابُ يَوْمٍ عَظِيمٍ",
+        "en_sahih": "English translation of [26:156] in Sahih International style.",
+        "en_yusufali": "English translation of [26:156] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 156 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:156] en español.",
+        "fr_hamidullah": "Traduction de [26:156] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 156 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:157",
+      "surahNumber": 26,
+      "ayahNumber": 157,
+      "text": {
+        "simple": "فَعَقَرُوهَا فَأَصْبَحُوا نَادِمِينَ",
+        "en_sahih": "English translation of [26:157] in Sahih International style.",
+        "en_yusufali": "English translation of [26:157] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 157 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:157] en español.",
+        "fr_hamidullah": "Traduction de [26:157] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 157 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:158",
+      "surahNumber": 26,
+      "ayahNumber": 158,
+      "text": {
+        "simple": "فَأَخَذَهُمُ الْعَذَابُ ۗ إِنَّ فِي ذَٰلِكَ لَآيَةً ۖ وَمَا كَانَ أَكْثَرُهُمْ مُؤْمِنِينَ",
+        "en_sahih": "English translation of [26:158] in Sahih International style.",
+        "en_yusufali": "English translation of [26:158] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 158 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:158] en español.",
+        "fr_hamidullah": "Traduction de [26:158] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 158 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:159",
+      "surahNumber": 26,
+      "ayahNumber": 159,
+      "text": {
+        "simple": "وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ",
+        "en_sahih": "English translation of [26:159] in Sahih International style.",
+        "en_yusufali": "English translation of [26:159] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 159 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:159] en español.",
+        "fr_hamidullah": "Traduction de [26:159] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 159 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:160",
+      "surahNumber": 26,
+      "ayahNumber": 160,
+      "text": {
+        "simple": "كَذَّبَتْ قَوْمُ لُوطٍ الْمُرْسَلِينَ",
+        "en_sahih": "English translation of [26:160] in Sahih International style.",
+        "en_yusufali": "English translation of [26:160] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 160 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:160] en español.",
+        "fr_hamidullah": "Traduction de [26:160] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 160 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:161",
+      "surahNumber": 26,
+      "ayahNumber": 161,
+      "text": {
+        "simple": "إِذْ قَالَ لَهُمْ أَخُوهُمْ لُوطٌ أَلَا تَتَّقُونَ",
+        "en_sahih": "English translation of [26:161] in Sahih International style.",
+        "en_yusufali": "English translation of [26:161] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 161 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:161] en español.",
+        "fr_hamidullah": "Traduction de [26:161] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 161 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:162",
+      "surahNumber": 26,
+      "ayahNumber": 162,
+      "text": {
+        "simple": "إِنِّي لَكُمْ رَسُولٌ أَمِينٌ",
+        "en_sahih": "English translation of [26:162] in Sahih International style.",
+        "en_yusufali": "English translation of [26:162] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 162 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:162] en español.",
+        "fr_hamidullah": "Traduction de [26:162] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 162 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:163",
+      "surahNumber": 26,
+      "ayahNumber": 163,
+      "text": {
+        "simple": "فَاتَّقُوا اللَّهَ وَأَطِيعُونِ",
+        "en_sahih": "English translation of [26:163] in Sahih International style.",
+        "en_yusufali": "English translation of [26:163] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 163 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:163] en español.",
+        "fr_hamidullah": "Traduction de [26:163] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 163 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:164",
+      "surahNumber": 26,
+      "ayahNumber": 164,
+      "text": {
+        "simple": "وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِيَ إِلَّا عَلَىٰ رَبِّ الْعَالَمِينَ",
+        "en_sahih": "English translation of [26:164] in Sahih International style.",
+        "en_yusufali": "English translation of [26:164] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 164 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:164] en español.",
+        "fr_hamidullah": "Traduction de [26:164] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 164 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:165",
+      "surahNumber": 26,
+      "ayahNumber": 165,
+      "text": {
+        "simple": "أَتَأْتُونَ الذُّكْرَانَ مِنَ الْعَالَمِينَ",
+        "en_sahih": "English translation of [26:165] in Sahih International style.",
+        "en_yusufali": "English translation of [26:165] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 165 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:165] en español.",
+        "fr_hamidullah": "Traduction de [26:165] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 165 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:166",
+      "surahNumber": 26,
+      "ayahNumber": 166,
+      "text": {
+        "simple": "وَتَذَرُونَ مَا خَلَقَ لَكُمْ رَبُّكُمْ مِنْ أَزْوَاجِكُمْ ۚ بَلْ أَنْتُمْ قَوْمٌ عَادُونَ",
+        "en_sahih": "English translation of [26:166] in Sahih International style.",
+        "en_yusufali": "English translation of [26:166] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 166 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:166] en español.",
+        "fr_hamidullah": "Traduction de [26:166] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 166 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:167",
+      "surahNumber": 26,
+      "ayahNumber": 167,
+      "text": {
+        "simple": "قَالُوا لَئِنْ لَمْ تَنْتَهِ يَا لُوطُ لَتَكُونَنَّ مِنَ الْمُخْرَجِينَ",
+        "en_sahih": "English translation of [26:167] in Sahih International style.",
+        "en_yusufali": "English translation of [26:167] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 167 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:167] en español.",
+        "fr_hamidullah": "Traduction de [26:167] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 167 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:168",
+      "surahNumber": 26,
+      "ayahNumber": 168,
+      "text": {
+        "simple": "قَالَ إِنِّي لِعَمَلِكُمْ مِنَ الْقَالِينَ",
+        "en_sahih": "English translation of [26:168] in Sahih International style.",
+        "en_yusufali": "English translation of [26:168] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 168 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:168] en español.",
+        "fr_hamidullah": "Traduction de [26:168] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 168 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:169",
+      "surahNumber": 26,
+      "ayahNumber": 169,
+      "text": {
+        "simple": "رَبِّ نَجِّنِي وَأَهْلِي مِمَّا يَعْمَلُونَ",
+        "en_sahih": "English translation of [26:169] in Sahih International style.",
+        "en_yusufali": "English translation of [26:169] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 169 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:169] en español.",
+        "fr_hamidullah": "Traduction de [26:169] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 169 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:170",
+      "surahNumber": 26,
+      "ayahNumber": 170,
+      "text": {
+        "simple": "فَنَجَّيْنَاهُ وَأَهْلَهُ أَجْمَعِينَ",
+        "en_sahih": "English translation of [26:170] in Sahih International style.",
+        "en_yusufali": "English translation of [26:170] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 170 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:170] en español.",
+        "fr_hamidullah": "Traduction de [26:170] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 170 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:171",
+      "surahNumber": 26,
+      "ayahNumber": 171,
+      "text": {
+        "simple": "إِلَّا عَجُوزًا فِي الْغَابِرِينَ",
+        "en_sahih": "English translation of [26:171] in Sahih International style.",
+        "en_yusufali": "English translation of [26:171] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 171 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:171] en español.",
+        "fr_hamidullah": "Traduction de [26:171] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 171 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:172",
+      "surahNumber": 26,
+      "ayahNumber": 172,
+      "text": {
+        "simple": "ثُمَّ دَمَّرْنَا الْآخَرِينَ",
+        "en_sahih": "English translation of [26:172] in Sahih International style.",
+        "en_yusufali": "English translation of [26:172] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 172 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:172] en español.",
+        "fr_hamidullah": "Traduction de [26:172] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 172 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:173",
+      "surahNumber": 26,
+      "ayahNumber": 173,
+      "text": {
+        "simple": "وَأَمْطَرْنَا عَلَيْهِمْ مَطَرًا ۖ فَسَاءَ مَطَرُ الْمُنْذَرِينَ",
+        "en_sahih": "English translation of [26:173] in Sahih International style.",
+        "en_yusufali": "English translation of [26:173] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 173 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:173] en español.",
+        "fr_hamidullah": "Traduction de [26:173] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 173 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:174",
+      "surahNumber": 26,
+      "ayahNumber": 174,
+      "text": {
+        "simple": "إِنَّ فِي ذَٰلِكَ لَآيَةً ۖ وَمَا كَانَ أَكْثَرُهُمْ مُؤْمِنِينَ",
+        "en_sahih": "English translation of [26:174] in Sahih International style.",
+        "en_yusufali": "English translation of [26:174] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 174 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:174] en español.",
+        "fr_hamidullah": "Traduction de [26:174] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 174 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:175",
+      "surahNumber": 26,
+      "ayahNumber": 175,
+      "text": {
+        "simple": "وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ",
+        "en_sahih": "English translation of [26:175] in Sahih International style.",
+        "en_yusufali": "English translation of [26:175] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 175 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:175] en español.",
+        "fr_hamidullah": "Traduction de [26:175] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 175 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:176",
+      "surahNumber": 26,
+      "ayahNumber": 176,
+      "text": {
+        "simple": "كَذَّبَ أَصْحَابُ الْأَيْكَةِ الْمُرْسَلِينَ",
+        "en_sahih": "English translation of [26:176] in Sahih International style.",
+        "en_yusufali": "English translation of [26:176] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 176 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:176] en español.",
+        "fr_hamidullah": "Traduction de [26:176] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 176 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:177",
+      "surahNumber": 26,
+      "ayahNumber": 177,
+      "text": {
+        "simple": "إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ",
+        "en_sahih": "English translation of [26:177] in Sahih International style.",
+        "en_yusufali": "English translation of [26:177] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 177 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:177] en español.",
+        "fr_hamidullah": "Traduction de [26:177] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 177 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:178",
+      "surahNumber": 26,
+      "ayahNumber": 178,
+      "text": {
+        "simple": "إِنِّي لَكُمْ رَسُولٌ أَمِينٌ",
+        "en_sahih": "English translation of [26:178] in Sahih International style.",
+        "en_yusufali": "English translation of [26:178] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 178 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:178] en español.",
+        "fr_hamidullah": "Traduction de [26:178] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 178 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:179",
+      "surahNumber": 26,
+      "ayahNumber": 179,
+      "text": {
+        "simple": "فَاتَّقُوا اللَّهَ وَأَطِيعُونِ",
+        "en_sahih": "English translation of [26:179] in Sahih International style.",
+        "en_yusufali": "English translation of [26:179] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 179 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:179] en español.",
+        "fr_hamidullah": "Traduction de [26:179] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 179 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:180",
+      "surahNumber": 26,
+      "ayahNumber": 180,
+      "text": {
+        "simple": "وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِيَ إِلَّا عَلَىٰ رَبِّ الْعَالَمِينَ",
+        "en_sahih": "English translation of [26:180] in Sahih International style.",
+        "en_yusufali": "English translation of [26:180] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 180 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:180] en español.",
+        "fr_hamidullah": "Traduction de [26:180] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 180 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:181",
+      "surahNumber": 26,
+      "ayahNumber": 181,
+      "text": {
+        "simple": "۞ أَوْفُوا الْكَيْلَ وَلَا تَكُونُوا مِنَ الْمُخْسِرِينَ",
+        "en_sahih": "English translation of [26:181] in Sahih International style.",
+        "en_yusufali": "English translation of [26:181] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 181 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:181] en español.",
+        "fr_hamidullah": "Traduction de [26:181] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 181 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:182",
+      "surahNumber": 26,
+      "ayahNumber": 182,
+      "text": {
+        "simple": "وَزِنُوا بِالْقِسْطَاسِ الْمُسْتَقِيمِ",
+        "en_sahih": "English translation of [26:182] in Sahih International style.",
+        "en_yusufali": "English translation of [26:182] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 182 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:182] en español.",
+        "fr_hamidullah": "Traduction de [26:182] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 182 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:183",
+      "surahNumber": 26,
+      "ayahNumber": 183,
+      "text": {
+        "simple": "وَلَا تَبْخَسُوا النَّاسَ أَشْيَاءَهُمْ وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ",
+        "en_sahih": "English translation of [26:183] in Sahih International style.",
+        "en_yusufali": "English translation of [26:183] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 183 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:183] en español.",
+        "fr_hamidullah": "Traduction de [26:183] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 183 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:184",
+      "surahNumber": 26,
+      "ayahNumber": 184,
+      "text": {
+        "simple": "وَاتَّقُوا الَّذِي خَلَقَكُمْ وَالْجِبِلَّةَ الْأَوَّلِينَ",
+        "en_sahih": "English translation of [26:184] in Sahih International style.",
+        "en_yusufali": "English translation of [26:184] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 184 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:184] en español.",
+        "fr_hamidullah": "Traduction de [26:184] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 184 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:185",
+      "surahNumber": 26,
+      "ayahNumber": 185,
+      "text": {
+        "simple": "قَالُوا إِنَّمَا أَنْتَ مِنَ الْمُسَحَّرِينَ",
+        "en_sahih": "English translation of [26:185] in Sahih International style.",
+        "en_yusufali": "English translation of [26:185] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 185 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:185] en español.",
+        "fr_hamidullah": "Traduction de [26:185] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 185 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:186",
+      "surahNumber": 26,
+      "ayahNumber": 186,
+      "text": {
+        "simple": "وَمَا أَنْتَ إِلَّا بَشَرٌ مِثْلُنَا وَإِنْ نَظُنُّكَ لَمِنَ الْكَاذِبِينَ",
+        "en_sahih": "English translation of [26:186] in Sahih International style.",
+        "en_yusufali": "English translation of [26:186] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 186 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:186] en español.",
+        "fr_hamidullah": "Traduction de [26:186] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 186 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:187",
+      "surahNumber": 26,
+      "ayahNumber": 187,
+      "text": {
+        "simple": "فَأَسْقِطْ عَلَيْنَا كِسَفًا مِنَ السَّمَاءِ إِنْ كُنْتَ مِنَ الصَّادِقِينَ",
+        "en_sahih": "English translation of [26:187] in Sahih International style.",
+        "en_yusufali": "English translation of [26:187] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 187 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:187] en español.",
+        "fr_hamidullah": "Traduction de [26:187] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 187 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:188",
+      "surahNumber": 26,
+      "ayahNumber": 188,
+      "text": {
+        "simple": "قَالَ رَبِّي أَعْلَمُ بِمَا تَعْمَلُونَ",
+        "en_sahih": "English translation of [26:188] in Sahih International style.",
+        "en_yusufali": "English translation of [26:188] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 188 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:188] en español.",
+        "fr_hamidullah": "Traduction de [26:188] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 188 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:189",
+      "surahNumber": 26,
+      "ayahNumber": 189,
+      "text": {
+        "simple": "فَكَذَّبُوهُ فَأَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ ۚ إِنَّهُ كَانَ عَذَابَ يَوْمٍ عَظِيمٍ",
+        "en_sahih": "English translation of [26:189] in Sahih International style.",
+        "en_yusufali": "English translation of [26:189] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 189 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:189] en español.",
+        "fr_hamidullah": "Traduction de [26:189] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 189 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:190",
+      "surahNumber": 26,
+      "ayahNumber": 190,
+      "text": {
+        "simple": "إِنَّ فِي ذَٰلِكَ لَآيَةً ۖ وَمَا كَانَ أَكْثَرُهُمْ مُؤْمِنِينَ",
+        "en_sahih": "English translation of [26:190] in Sahih International style.",
+        "en_yusufali": "English translation of [26:190] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 190 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:190] en español.",
+        "fr_hamidullah": "Traduction de [26:190] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 190 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:191",
+      "surahNumber": 26,
+      "ayahNumber": 191,
+      "text": {
+        "simple": "وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ",
+        "en_sahih": "English translation of [26:191] in Sahih International style.",
+        "en_yusufali": "English translation of [26:191] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 191 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:191] en español.",
+        "fr_hamidullah": "Traduction de [26:191] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 191 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:192",
+      "surahNumber": 26,
+      "ayahNumber": 192,
+      "text": {
+        "simple": "وَإِنَّهُ لَتَنْزِيلُ رَبِّ الْعَالَمِينَ",
+        "en_sahih": "English translation of [26:192] in Sahih International style.",
+        "en_yusufali": "English translation of [26:192] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 192 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:192] en español.",
+        "fr_hamidullah": "Traduction de [26:192] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 192 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:193",
+      "surahNumber": 26,
+      "ayahNumber": 193,
+      "text": {
+        "simple": "نَزَلَ بِهِ الرُّوحُ الْأَمِينُ",
+        "en_sahih": "English translation of [26:193] in Sahih International style.",
+        "en_yusufali": "English translation of [26:193] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 193 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:193] en español.",
+        "fr_hamidullah": "Traduction de [26:193] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 193 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:194",
+      "surahNumber": 26,
+      "ayahNumber": 194,
+      "text": {
+        "simple": "عَلَىٰ قَلْبِكَ لِتَكُونَ مِنَ الْمُنْذِرِينَ",
+        "en_sahih": "English translation of [26:194] in Sahih International style.",
+        "en_yusufali": "English translation of [26:194] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 194 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:194] en español.",
+        "fr_hamidullah": "Traduction de [26:194] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 194 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:195",
+      "surahNumber": 26,
+      "ayahNumber": 195,
+      "text": {
+        "simple": "بِلِسَانٍ عَرَبِيٍّ مُبِينٍ",
+        "en_sahih": "English translation of [26:195] in Sahih International style.",
+        "en_yusufali": "English translation of [26:195] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 195 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:195] en español.",
+        "fr_hamidullah": "Traduction de [26:195] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 195 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:196",
+      "surahNumber": 26,
+      "ayahNumber": 196,
+      "text": {
+        "simple": "وَإِنَّهُ لَفِي زُبُرِ الْأَوَّلِينَ",
+        "en_sahih": "English translation of [26:196] in Sahih International style.",
+        "en_yusufali": "English translation of [26:196] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 196 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:196] en español.",
+        "fr_hamidullah": "Traduction de [26:196] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 196 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:197",
+      "surahNumber": 26,
+      "ayahNumber": 197,
+      "text": {
+        "simple": "أَوَلَمْ يَكُنْ لَهُمْ آيَةً أَنْ يَعْلَمَهُ عُلَمَاءُ بَنِي إِسْرَائِيلَ",
+        "en_sahih": "English translation of [26:197] in Sahih International style.",
+        "en_yusufali": "English translation of [26:197] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 197 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:197] en español.",
+        "fr_hamidullah": "Traduction de [26:197] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 197 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:198",
+      "surahNumber": 26,
+      "ayahNumber": 198,
+      "text": {
+        "simple": "وَلَوْ نَزَّلْنَاهُ عَلَىٰ بَعْضِ الْأَعْجَمِينَ",
+        "en_sahih": "English translation of [26:198] in Sahih International style.",
+        "en_yusufali": "English translation of [26:198] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 198 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:198] en español.",
+        "fr_hamidullah": "Traduction de [26:198] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 198 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:199",
+      "surahNumber": 26,
+      "ayahNumber": 199,
+      "text": {
+        "simple": "فَقَرَأَهُ عَلَيْهِمْ مَا كَانُوا بِهِ مُؤْمِنِينَ",
+        "en_sahih": "English translation of [26:199] in Sahih International style.",
+        "en_yusufali": "English translation of [26:199] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 199 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:199] en español.",
+        "fr_hamidullah": "Traduction de [26:199] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 199 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:200",
+      "surahNumber": 26,
+      "ayahNumber": 200,
+      "text": {
+        "simple": "كَذَٰلِكَ سَلَكْنَاهُ فِي قُلُوبِ الْمُجْرِمِينَ",
+        "en_sahih": "English translation of [26:200] in Sahih International style.",
+        "en_yusufali": "English translation of [26:200] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 200 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:200] en español.",
+        "fr_hamidullah": "Traduction de [26:200] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 200 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:201",
+      "surahNumber": 26,
+      "ayahNumber": 201,
+      "text": {
+        "simple": "لَا يُؤْمِنُونَ بِهِ حَتَّىٰ يَرَوُا الْعَذَابَ الْأَلِيمَ",
+        "en_sahih": "English translation of [26:201] in Sahih International style.",
+        "en_yusufali": "English translation of [26:201] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 201 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:201] en español.",
+        "fr_hamidullah": "Traduction de [26:201] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 201 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:202",
+      "surahNumber": 26,
+      "ayahNumber": 202,
+      "text": {
+        "simple": "فَيَأْتِيَهُمْ بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
+        "en_sahih": "English translation of [26:202] in Sahih International style.",
+        "en_yusufali": "English translation of [26:202] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 202 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:202] en español.",
+        "fr_hamidullah": "Traduction de [26:202] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 202 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:203",
+      "surahNumber": 26,
+      "ayahNumber": 203,
+      "text": {
+        "simple": "فَيَقُولُوا هَلْ نَحْنُ مُنْظَرُونَ",
+        "en_sahih": "English translation of [26:203] in Sahih International style.",
+        "en_yusufali": "English translation of [26:203] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 203 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:203] en español.",
+        "fr_hamidullah": "Traduction de [26:203] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 203 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:204",
+      "surahNumber": 26,
+      "ayahNumber": 204,
+      "text": {
+        "simple": "أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ",
+        "en_sahih": "English translation of [26:204] in Sahih International style.",
+        "en_yusufali": "English translation of [26:204] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 204 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:204] en español.",
+        "fr_hamidullah": "Traduction de [26:204] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 204 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:205",
+      "surahNumber": 26,
+      "ayahNumber": 205,
+      "text": {
+        "simple": "أَفَرَأَيْتَ إِنْ مَتَّعْنَاهُمْ سِنِينَ",
+        "en_sahih": "English translation of [26:205] in Sahih International style.",
+        "en_yusufali": "English translation of [26:205] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 205 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:205] en español.",
+        "fr_hamidullah": "Traduction de [26:205] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 205 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:206",
+      "surahNumber": 26,
+      "ayahNumber": 206,
+      "text": {
+        "simple": "ثُمَّ جَاءَهُمْ مَا كَانُوا يُوعَدُونَ",
+        "en_sahih": "English translation of [26:206] in Sahih International style.",
+        "en_yusufali": "English translation of [26:206] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 206 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:206] en español.",
+        "fr_hamidullah": "Traduction de [26:206] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 206 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:207",
+      "surahNumber": 26,
+      "ayahNumber": 207,
+      "text": {
+        "simple": "مَا أَغْنَىٰ عَنْهُمْ مَا كَانُوا يُمَتَّعُونَ",
+        "en_sahih": "English translation of [26:207] in Sahih International style.",
+        "en_yusufali": "English translation of [26:207] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 207 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:207] en español.",
+        "fr_hamidullah": "Traduction de [26:207] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 207 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:208",
+      "surahNumber": 26,
+      "ayahNumber": 208,
+      "text": {
+        "simple": "وَمَا أَهْلَكْنَا مِنْ قَرْيَةٍ إِلَّا لَهَا مُنْذِرُونَ",
+        "en_sahih": "English translation of [26:208] in Sahih International style.",
+        "en_yusufali": "English translation of [26:208] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 208 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:208] en español.",
+        "fr_hamidullah": "Traduction de [26:208] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 208 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:209",
+      "surahNumber": 26,
+      "ayahNumber": 209,
+      "text": {
+        "simple": "ذِكْرَىٰ وَمَا كُنَّا ظَالِمِينَ",
+        "en_sahih": "English translation of [26:209] in Sahih International style.",
+        "en_yusufali": "English translation of [26:209] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 209 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:209] en español.",
+        "fr_hamidullah": "Traduction de [26:209] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 209 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:210",
+      "surahNumber": 26,
+      "ayahNumber": 210,
+      "text": {
+        "simple": "وَمَا تَنَزَّلَتْ بِهِ الشَّيَاطِينُ",
+        "en_sahih": "English translation of [26:210] in Sahih International style.",
+        "en_yusufali": "English translation of [26:210] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 210 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:210] en español.",
+        "fr_hamidullah": "Traduction de [26:210] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 210 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:211",
+      "surahNumber": 26,
+      "ayahNumber": 211,
+      "text": {
+        "simple": "وَمَا يَنْبَغِي لَهُمْ وَمَا يَسْتَطِيعُونَ",
+        "en_sahih": "English translation of [26:211] in Sahih International style.",
+        "en_yusufali": "English translation of [26:211] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 211 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:211] en español.",
+        "fr_hamidullah": "Traduction de [26:211] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 211 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:212",
+      "surahNumber": 26,
+      "ayahNumber": 212,
+      "text": {
+        "simple": "إِنَّهُمْ عَنِ السَّمْعِ لَمَعْزُولُونَ",
+        "en_sahih": "English translation of [26:212] in Sahih International style.",
+        "en_yusufali": "English translation of [26:212] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 212 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:212] en español.",
+        "fr_hamidullah": "Traduction de [26:212] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 212 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:213",
+      "surahNumber": 26,
+      "ayahNumber": 213,
+      "text": {
+        "simple": "فَلَا تَدْعُ مَعَ اللَّهِ إِلَٰهًا آخَرَ فَتَكُونَ مِنَ الْمُعَذَّبِينَ",
+        "en_sahih": "English translation of [26:213] in Sahih International style.",
+        "en_yusufali": "English translation of [26:213] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 213 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:213] en español.",
+        "fr_hamidullah": "Traduction de [26:213] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 213 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:214",
+      "surahNumber": 26,
+      "ayahNumber": 214,
+      "text": {
+        "simple": "وَأَنْذِرْ عَشِيرَتَكَ الْأَقْرَبِينَ",
+        "en_sahih": "English translation of [26:214] in Sahih International style.",
+        "en_yusufali": "English translation of [26:214] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 214 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:214] en español.",
+        "fr_hamidullah": "Traduction de [26:214] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 214 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:215",
+      "surahNumber": 26,
+      "ayahNumber": 215,
+      "text": {
+        "simple": "وَاخْفِضْ جَنَاحَكَ لِمَنِ اتَّبَعَكَ مِنَ الْمُؤْمِنِينَ",
+        "en_sahih": "English translation of [26:215] in Sahih International style.",
+        "en_yusufali": "English translation of [26:215] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 215 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:215] en español.",
+        "fr_hamidullah": "Traduction de [26:215] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 215 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:216",
+      "surahNumber": 26,
+      "ayahNumber": 216,
+      "text": {
+        "simple": "فَإِنْ عَصَوْكَ فَقُلْ إِنِّي بَرِيءٌ مِمَّا تَعْمَلُونَ",
+        "en_sahih": "English translation of [26:216] in Sahih International style.",
+        "en_yusufali": "English translation of [26:216] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 216 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:216] en español.",
+        "fr_hamidullah": "Traduction de [26:216] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 216 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:217",
+      "surahNumber": 26,
+      "ayahNumber": 217,
+      "text": {
+        "simple": "وَتَوَكَّلْ عَلَى الْعَزِيزِ الرَّحِيمِ",
+        "en_sahih": "English translation of [26:217] in Sahih International style.",
+        "en_yusufali": "English translation of [26:217] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 217 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:217] en español.",
+        "fr_hamidullah": "Traduction de [26:217] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 217 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:218",
+      "surahNumber": 26,
+      "ayahNumber": 218,
+      "text": {
+        "simple": "الَّذِي يَرَاكَ حِينَ تَقُومُ",
+        "en_sahih": "English translation of [26:218] in Sahih International style.",
+        "en_yusufali": "English translation of [26:218] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 218 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:218] en español.",
+        "fr_hamidullah": "Traduction de [26:218] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 218 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:219",
+      "surahNumber": 26,
+      "ayahNumber": 219,
+      "text": {
+        "simple": "وَتَقَلُّبَكَ فِي السَّاجِدِينَ",
+        "en_sahih": "English translation of [26:219] in Sahih International style.",
+        "en_yusufali": "English translation of [26:219] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 219 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:219] en español.",
+        "fr_hamidullah": "Traduction de [26:219] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 219 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:220",
+      "surahNumber": 26,
+      "ayahNumber": 220,
+      "text": {
+        "simple": "إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ",
+        "en_sahih": "English translation of [26:220] in Sahih International style.",
+        "en_yusufali": "English translation of [26:220] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 220 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:220] en español.",
+        "fr_hamidullah": "Traduction de [26:220] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 220 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:221",
+      "surahNumber": 26,
+      "ayahNumber": 221,
+      "text": {
+        "simple": "هَلْ أُنَبِّئُكُمْ عَلَىٰ مَنْ تَنَزَّلُ الشَّيَاطِينُ",
+        "en_sahih": "English translation of [26:221] in Sahih International style.",
+        "en_yusufali": "English translation of [26:221] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 221 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:221] en español.",
+        "fr_hamidullah": "Traduction de [26:221] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 221 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:222",
+      "surahNumber": 26,
+      "ayahNumber": 222,
+      "text": {
+        "simple": "تَنَزَّلُ عَلَىٰ كُلِّ أَفَّاكٍ أَثِيمٍ",
+        "en_sahih": "English translation of [26:222] in Sahih International style.",
+        "en_yusufali": "English translation of [26:222] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 222 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:222] en español.",
+        "fr_hamidullah": "Traduction de [26:222] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 222 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:223",
+      "surahNumber": 26,
+      "ayahNumber": 223,
+      "text": {
+        "simple": "يُلْقُونَ السَّمْعَ وَأَكْثَرُهُمْ كَاذِبُونَ",
+        "en_sahih": "English translation of [26:223] in Sahih International style.",
+        "en_yusufali": "English translation of [26:223] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 223 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:223] en español.",
+        "fr_hamidullah": "Traduction de [26:223] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 223 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:224",
+      "surahNumber": 26,
+      "ayahNumber": 224,
+      "text": {
+        "simple": "وَالشُّعَرَاءُ يَتَّبِعُهُمُ الْغَاوُونَ",
+        "en_sahih": "English translation of [26:224] in Sahih International style.",
+        "en_yusufali": "English translation of [26:224] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 224 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:224] en español.",
+        "fr_hamidullah": "Traduction de [26:224] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 224 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:225",
+      "surahNumber": 26,
+      "ayahNumber": 225,
+      "text": {
+        "simple": "أَلَمْ تَرَ أَنَّهُمْ فِي كُلِّ وَادٍ يَهِيمُونَ",
+        "en_sahih": "English translation of [26:225] in Sahih International style.",
+        "en_yusufali": "English translation of [26:225] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 225 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:225] en español.",
+        "fr_hamidullah": "Traduction de [26:225] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 225 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:226",
+      "surahNumber": 26,
+      "ayahNumber": 226,
+      "text": {
+        "simple": "وَأَنَّهُمْ يَقُولُونَ مَا لَا يَفْعَلُونَ",
+        "en_sahih": "English translation of [26:226] in Sahih International style.",
+        "en_yusufali": "English translation of [26:226] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 226 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:226] en español.",
+        "fr_hamidullah": "Traduction de [26:226] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 226 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "26:227",
+      "surahNumber": 26,
+      "ayahNumber": 227,
+      "text": {
+        "simple": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَذَكَرُوا اللَّهَ كَثِيرًا وَانْتَصَرُوا مِنْ بَعْدِ مَا ظُلِمُوا ۗ وَسَيَعْلَمُ الَّذِينَ ظَلَمُوا أَيَّ مُنْقَلَبٍ يَنْقَلِبُونَ",
+        "en_sahih": "English translation of [26:227] in Sahih International style.",
+        "en_yusufali": "English translation of [26:227] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 26 آیت 227 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [26:227] en español.",
+        "fr_hamidullah": "Traduction de [26:227] en français.",
+        "bn_hoque": "সূরা 26 আয়াত 227 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

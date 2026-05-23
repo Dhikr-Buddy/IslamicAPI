@@ -1,0 +1,295 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.996Z",
+  "surahNumber": 73,
+  "ayahCount": 20,
+  "ayahs": [
+    {
+      "id": "73:1",
+      "surahNumber": 73,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ يَا أَيُّهَا الْمُزَّمِّلُ",
+        "en_sahih": "English translation of [73:1] in Sahih International style.",
+        "en_yusufali": "English translation of [73:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 73 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [73:1] en español.",
+        "fr_hamidullah": "Traduction de [73:1] en français.",
+        "bn_hoque": "সূরা 73 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "73:2",
+      "surahNumber": 73,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "قُمِ اللَّيْلَ إِلَّا قَلِيلًا",
+        "en_sahih": "English translation of [73:2] in Sahih International style.",
+        "en_yusufali": "English translation of [73:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 73 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [73:2] en español.",
+        "fr_hamidullah": "Traduction de [73:2] en français.",
+        "bn_hoque": "সূরা 73 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "73:3",
+      "surahNumber": 73,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلًا",
+        "en_sahih": "English translation of [73:3] in Sahih International style.",
+        "en_yusufali": "English translation of [73:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 73 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [73:3] en español.",
+        "fr_hamidullah": "Traduction de [73:3] en français.",
+        "bn_hoque": "সূরা 73 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "73:4",
+      "surahNumber": 73,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا",
+        "en_sahih": "English translation of [73:4] in Sahih International style.",
+        "en_yusufali": "English translation of [73:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 73 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [73:4] en español.",
+        "fr_hamidullah": "Traduction de [73:4] en français.",
+        "bn_hoque": "সূরা 73 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "73:5",
+      "surahNumber": 73,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "إِنَّا سَنُلْقِي عَلَيْكَ قَوْلًا ثَقِيلًا",
+        "en_sahih": "English translation of [73:5] in Sahih International style.",
+        "en_yusufali": "English translation of [73:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 73 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [73:5] en español.",
+        "fr_hamidullah": "Traduction de [73:5] en français.",
+        "bn_hoque": "সূরা 73 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "73:6",
+      "surahNumber": 73,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلًا",
+        "en_sahih": "English translation of [73:6] in Sahih International style.",
+        "en_yusufali": "English translation of [73:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 73 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [73:6] en español.",
+        "fr_hamidullah": "Traduction de [73:6] en français.",
+        "bn_hoque": "সূরা 73 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "73:7",
+      "surahNumber": 73,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلًا",
+        "en_sahih": "English translation of [73:7] in Sahih International style.",
+        "en_yusufali": "English translation of [73:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 73 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [73:7] en español.",
+        "fr_hamidullah": "Traduction de [73:7] en français.",
+        "bn_hoque": "সূরা 73 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "73:8",
+      "surahNumber": 73,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا",
+        "en_sahih": "English translation of [73:8] in Sahih International style.",
+        "en_yusufali": "English translation of [73:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 73 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [73:8] en español.",
+        "fr_hamidullah": "Traduction de [73:8] en français.",
+        "bn_hoque": "সূরা 73 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "73:9",
+      "surahNumber": 73,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَا إِلَٰهَ إِلَّا هُوَ فَاتَّخِذْهُ وَكِيلًا",
+        "en_sahih": "English translation of [73:9] in Sahih International style.",
+        "en_yusufali": "English translation of [73:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 73 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [73:9] en español.",
+        "fr_hamidullah": "Traduction de [73:9] en français.",
+        "bn_hoque": "সূরা 73 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "73:10",
+      "surahNumber": 73,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "وَاصْبِرْ عَلَىٰ مَا يَقُولُونَ وَاهْجُرْهُمْ هَجْرًا جَمِيلًا",
+        "en_sahih": "English translation of [73:10] in Sahih International style.",
+        "en_yusufali": "English translation of [73:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 73 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [73:10] en español.",
+        "fr_hamidullah": "Traduction de [73:10] en français.",
+        "bn_hoque": "সূরা 73 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "73:11",
+      "surahNumber": 73,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "وَذَرْنِي وَالْمُكَذِّبِينَ أُولِي النَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا",
+        "en_sahih": "English translation of [73:11] in Sahih International style.",
+        "en_yusufali": "English translation of [73:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 73 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [73:11] en español.",
+        "fr_hamidullah": "Traduction de [73:11] en français.",
+        "bn_hoque": "সূরা 73 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "73:12",
+      "surahNumber": 73,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "إِنَّ لَدَيْنَا أَنْكَالًا وَجَحِيمًا",
+        "en_sahih": "English translation of [73:12] in Sahih International style.",
+        "en_yusufali": "English translation of [73:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 73 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [73:12] en español.",
+        "fr_hamidullah": "Traduction de [73:12] en français.",
+        "bn_hoque": "সূরা 73 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "73:13",
+      "surahNumber": 73,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "وَطَعَامًا ذَا غُصَّةٍ وَعَذَابًا أَلِيمًا",
+        "en_sahih": "English translation of [73:13] in Sahih International style.",
+        "en_yusufali": "English translation of [73:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 73 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [73:13] en español.",
+        "fr_hamidullah": "Traduction de [73:13] en français.",
+        "bn_hoque": "সূরা 73 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "73:14",
+      "surahNumber": 73,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "يَوْمَ تَرْجُفُ الْأَرْضُ وَالْجِبَالُ وَكَانَتِ الْجِبَالُ كَثِيبًا مَهِيلًا",
+        "en_sahih": "English translation of [73:14] in Sahih International style.",
+        "en_yusufali": "English translation of [73:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 73 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [73:14] en español.",
+        "fr_hamidullah": "Traduction de [73:14] en français.",
+        "bn_hoque": "সূরা 73 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "73:15",
+      "surahNumber": 73,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "إِنَّا أَرْسَلْنَا إِلَيْكُمْ رَسُولًا شَاهِدًا عَلَيْكُمْ كَمَا أَرْسَلْنَا إِلَىٰ فِرْعَوْنَ رَسُولًا",
+        "en_sahih": "English translation of [73:15] in Sahih International style.",
+        "en_yusufali": "English translation of [73:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 73 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [73:15] en español.",
+        "fr_hamidullah": "Traduction de [73:15] en français.",
+        "bn_hoque": "সূরা 73 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "73:16",
+      "surahNumber": 73,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "فَعَصَىٰ فِرْعَوْنُ الرَّسُولَ فَأَخَذْنَاهُ أَخْذًا وَبِيلًا",
+        "en_sahih": "English translation of [73:16] in Sahih International style.",
+        "en_yusufali": "English translation of [73:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 73 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [73:16] en español.",
+        "fr_hamidullah": "Traduction de [73:16] en français.",
+        "bn_hoque": "সূরা 73 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "73:17",
+      "surahNumber": 73,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "فَكَيْفَ تَتَّقُونَ إِنْ كَفَرْتُمْ يَوْمًا يَجْعَلُ الْوِلْدَانَ شِيبًا",
+        "en_sahih": "English translation of [73:17] in Sahih International style.",
+        "en_yusufali": "English translation of [73:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 73 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [73:17] en español.",
+        "fr_hamidullah": "Traduction de [73:17] en français.",
+        "bn_hoque": "সূরা 73 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "73:18",
+      "surahNumber": 73,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "السَّمَاءُ مُنْفَطِرٌ بِهِ ۚ كَانَ وَعْدُهُ مَفْعُولًا",
+        "en_sahih": "English translation of [73:18] in Sahih International style.",
+        "en_yusufali": "English translation of [73:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 73 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [73:18] en español.",
+        "fr_hamidullah": "Traduction de [73:18] en français.",
+        "bn_hoque": "সূরা 73 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "73:19",
+      "surahNumber": 73,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "إِنَّ هَٰذِهِ تَذْكِرَةٌ ۖ فَمَنْ شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ سَبِيلًا",
+        "en_sahih": "English translation of [73:19] in Sahih International style.",
+        "en_yusufali": "English translation of [73:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 73 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [73:19] en español.",
+        "fr_hamidullah": "Traduction de [73:19] en français.",
+        "bn_hoque": "সূরা 73 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "73:20",
+      "surahNumber": 73,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "۞ إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِنْ ثُلُثَيِ اللَّيْلِ وَنِصْفَهُ وَثُلُثَهُ وَطَائِفَةٌ مِنَ الَّذِينَ مَعَكَ ۚ وَاللَّهُ يُقَدِّرُ اللَّيْلَ وَالنَّهَارَ ۚ عَلِمَ أَنْ لَنْ تُحْصُوهُ فَتَابَ عَلَيْكُمْ ۖ فَاقْرَءُوا مَا تَيَسَّرَ مِنَ الْقُرْآنِ ۚ عَلِمَ أَنْ سَيَكُونُ مِنْكُمْ مَرْضَىٰ ۙ وَآخَرُونَ يَضْرِبُونَ فِي الْأَرْضِ يَبْتَغُونَ مِنْ فَضْلِ اللَّهِ ۙ وَآخَرُونَ يُقَاتِلُونَ فِي سَبِيلِ اللَّهِ ۖ فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ ۚ وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَأَقْرِضُوا اللَّهَ قَرْضًا حَسَنًا ۚ وَمَا تُقَدِّمُوا لِأَنْفُسِكُمْ مِنْ خَيْرٍ تَجِدُوهُ عِنْدَ اللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا ۚ وَاسْتَغْفِرُوا اللَّهَ ۖ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+        "en_sahih": "English translation of [73:20] in Sahih International style.",
+        "en_yusufali": "English translation of [73:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 73 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [73:20] en español.",
+        "fr_hamidullah": "Traduction de [73:20] en français.",
+        "bn_hoque": "সূরা 73 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

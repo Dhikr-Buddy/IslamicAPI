@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:58.002Z",
+  "surahNumber": 91,
+  "ayahCount": 15,
+  "ayahs": [
+    {
+      "id": "91:1",
+      "surahNumber": 91,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَالشَّمْسِ وَضُحَاهَا",
+        "en_sahih": "English translation of [91:1] in Sahih International style.",
+        "en_yusufali": "English translation of [91:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 91 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [91:1] en español.",
+        "fr_hamidullah": "Traduction de [91:1] en français.",
+        "bn_hoque": "সূরা 91 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "91:2",
+      "surahNumber": 91,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "وَالْقَمَرِ إِذَا تَلَاهَا",
+        "en_sahih": "English translation of [91:2] in Sahih International style.",
+        "en_yusufali": "English translation of [91:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 91 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [91:2] en español.",
+        "fr_hamidullah": "Traduction de [91:2] en français.",
+        "bn_hoque": "সূরা 91 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "91:3",
+      "surahNumber": 91,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "وَالنَّهَارِ إِذَا جَلَّاهَا",
+        "en_sahih": "English translation of [91:3] in Sahih International style.",
+        "en_yusufali": "English translation of [91:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 91 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [91:3] en español.",
+        "fr_hamidullah": "Traduction de [91:3] en français.",
+        "bn_hoque": "সূরা 91 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "91:4",
+      "surahNumber": 91,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "وَاللَّيْلِ إِذَا يَغْشَاهَا",
+        "en_sahih": "English translation of [91:4] in Sahih International style.",
+        "en_yusufali": "English translation of [91:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 91 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [91:4] en español.",
+        "fr_hamidullah": "Traduction de [91:4] en français.",
+        "bn_hoque": "সূরা 91 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "91:5",
+      "surahNumber": 91,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "وَالسَّمَاءِ وَمَا بَنَاهَا",
+        "en_sahih": "English translation of [91:5] in Sahih International style.",
+        "en_yusufali": "English translation of [91:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 91 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [91:5] en español.",
+        "fr_hamidullah": "Traduction de [91:5] en français.",
+        "bn_hoque": "সূরা 91 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "91:6",
+      "surahNumber": 91,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "وَالْأَرْضِ وَمَا طَحَاهَا",
+        "en_sahih": "English translation of [91:6] in Sahih International style.",
+        "en_yusufali": "English translation of [91:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 91 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [91:6] en español.",
+        "fr_hamidullah": "Traduction de [91:6] en français.",
+        "bn_hoque": "সূরা 91 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "91:7",
+      "surahNumber": 91,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "وَنَفْسٍ وَمَا سَوَّاهَا",
+        "en_sahih": "English translation of [91:7] in Sahih International style.",
+        "en_yusufali": "English translation of [91:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 91 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [91:7] en español.",
+        "fr_hamidullah": "Traduction de [91:7] en français.",
+        "bn_hoque": "সূরা 91 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "91:8",
+      "surahNumber": 91,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا",
+        "en_sahih": "English translation of [91:8] in Sahih International style.",
+        "en_yusufali": "English translation of [91:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 91 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [91:8] en español.",
+        "fr_hamidullah": "Traduction de [91:8] en français.",
+        "bn_hoque": "সূরা 91 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "91:9",
+      "surahNumber": 91,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "قَدْ أَفْلَحَ مَنْ زَكَّاهَا",
+        "en_sahih": "English translation of [91:9] in Sahih International style.",
+        "en_yusufali": "English translation of [91:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 91 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [91:9] en español.",
+        "fr_hamidullah": "Traduction de [91:9] en français.",
+        "bn_hoque": "সূরা 91 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "91:10",
+      "surahNumber": 91,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "وَقَدْ خَابَ مَنْ دَسَّاهَا",
+        "en_sahih": "English translation of [91:10] in Sahih International style.",
+        "en_yusufali": "English translation of [91:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 91 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [91:10] en español.",
+        "fr_hamidullah": "Traduction de [91:10] en français.",
+        "bn_hoque": "সূরা 91 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "91:11",
+      "surahNumber": 91,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "كَذَّبَتْ ثَمُودُ بِطَغْوَاهَا",
+        "en_sahih": "English translation of [91:11] in Sahih International style.",
+        "en_yusufali": "English translation of [91:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 91 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [91:11] en español.",
+        "fr_hamidullah": "Traduction de [91:11] en français.",
+        "bn_hoque": "সূরা 91 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "91:12",
+      "surahNumber": 91,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "إِذِ انْبَعَثَ أَشْقَاهَا",
+        "en_sahih": "English translation of [91:12] in Sahih International style.",
+        "en_yusufali": "English translation of [91:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 91 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [91:12] en español.",
+        "fr_hamidullah": "Traduction de [91:12] en français.",
+        "bn_hoque": "সূরা 91 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "91:13",
+      "surahNumber": 91,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "فَقَالَ لَهُمْ رَسُولُ اللَّهِ نَاقَةَ اللَّهِ وَسُقْيَاهَا",
+        "en_sahih": "English translation of [91:13] in Sahih International style.",
+        "en_yusufali": "English translation of [91:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 91 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [91:13] en español.",
+        "fr_hamidullah": "Traduction de [91:13] en français.",
+        "bn_hoque": "সূরা 91 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "91:14",
+      "surahNumber": 91,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُمْ بِذَنْبِهِمْ فَسَوَّاهَا",
+        "en_sahih": "English translation of [91:14] in Sahih International style.",
+        "en_yusufali": "English translation of [91:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 91 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [91:14] en español.",
+        "fr_hamidullah": "Traduction de [91:14] en français.",
+        "bn_hoque": "সূরা 91 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "91:15",
+      "surahNumber": 91,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "وَلَا يَخَافُ عُقْبَاهَا",
+        "en_sahih": "English translation of [91:15] in Sahih International style.",
+        "en_yusufali": "English translation of [91:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 91 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [91:15] en español.",
+        "fr_hamidullah": "Traduction de [91:15] en français.",
+        "bn_hoque": "সূরা 91 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

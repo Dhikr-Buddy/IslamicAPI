@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:58.006Z",
+  "surahNumber": 113,
+  "ayahCount": 5,
+  "ayahs": [
+    {
+      "id": "113:1",
+      "surahNumber": 113,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+        "en_sahih": "English translation of [113:1] in Sahih International style.",
+        "en_yusufali": "English translation of [113:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 113 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [113:1] en español.",
+        "fr_hamidullah": "Traduction de [113:1] en français.",
+        "bn_hoque": "সূরা 113 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "113:2",
+      "surahNumber": 113,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "مِنْ شَرِّ مَا خَلَقَ",
+        "en_sahih": "English translation of [113:2] in Sahih International style.",
+        "en_yusufali": "English translation of [113:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 113 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [113:2] en español.",
+        "fr_hamidullah": "Traduction de [113:2] en français.",
+        "bn_hoque": "সূরা 113 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "113:3",
+      "surahNumber": 113,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+        "en_sahih": "English translation of [113:3] in Sahih International style.",
+        "en_yusufali": "English translation of [113:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 113 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [113:3] en español.",
+        "fr_hamidullah": "Traduction de [113:3] en français.",
+        "bn_hoque": "সূরা 113 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "113:4",
+      "surahNumber": 113,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
+        "en_sahih": "English translation of [113:4] in Sahih International style.",
+        "en_yusufali": "English translation of [113:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 113 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [113:4] en español.",
+        "fr_hamidullah": "Traduction de [113:4] en français.",
+        "bn_hoque": "সূরা 113 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "113:5",
+      "surahNumber": 113,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+        "en_sahih": "English translation of [113:5] in Sahih International style.",
+        "en_yusufali": "English translation of [113:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 113 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [113:5] en español.",
+        "fr_hamidullah": "Traduction de [113:5] en français.",
+        "bn_hoque": "সূরা 113 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

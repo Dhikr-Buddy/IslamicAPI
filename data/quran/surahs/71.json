@@ -1,0 +1,407 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.996Z",
+  "surahNumber": 71,
+  "ayahCount": 28,
+  "ayahs": [
+    {
+      "id": "71:1",
+      "surahNumber": 71,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ إِنَّا أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِ أَنْ أَنْذِرْ قَوْمَكَ مِنْ قَبْلِ أَنْ يَأْتِيَهُمْ عَذَابٌ أَلِيمٌ",
+        "en_sahih": "English translation of [71:1] in Sahih International style.",
+        "en_yusufali": "English translation of [71:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 71 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [71:1] en español.",
+        "fr_hamidullah": "Traduction de [71:1] en français.",
+        "bn_hoque": "সূরা 71 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "71:2",
+      "surahNumber": 71,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "قَالَ يَا قَوْمِ إِنِّي لَكُمْ نَذِيرٌ مُبِينٌ",
+        "en_sahih": "English translation of [71:2] in Sahih International style.",
+        "en_yusufali": "English translation of [71:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 71 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [71:2] en español.",
+        "fr_hamidullah": "Traduction de [71:2] en français.",
+        "bn_hoque": "সূরা 71 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "71:3",
+      "surahNumber": 71,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "أَنِ اعْبُدُوا اللَّهَ وَاتَّقُوهُ وَأَطِيعُونِ",
+        "en_sahih": "English translation of [71:3] in Sahih International style.",
+        "en_yusufali": "English translation of [71:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 71 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [71:3] en español.",
+        "fr_hamidullah": "Traduction de [71:3] en français.",
+        "bn_hoque": "সূরা 71 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "71:4",
+      "surahNumber": 71,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "يَغْفِرْ لَكُمْ مِنْ ذُنُوبِكُمْ وَيُؤَخِّرْكُمْ إِلَىٰ أَجَلٍ مُسَمًّى ۚ إِنَّ أَجَلَ اللَّهِ إِذَا جَاءَ لَا يُؤَخَّرُ ۖ لَوْ كُنْتُمْ تَعْلَمُونَ",
+        "en_sahih": "English translation of [71:4] in Sahih International style.",
+        "en_yusufali": "English translation of [71:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 71 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [71:4] en español.",
+        "fr_hamidullah": "Traduction de [71:4] en français.",
+        "bn_hoque": "সূরা 71 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "71:5",
+      "surahNumber": 71,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "قَالَ رَبِّ إِنِّي دَعَوْتُ قَوْمِي لَيْلًا وَنَهَارًا",
+        "en_sahih": "English translation of [71:5] in Sahih International style.",
+        "en_yusufali": "English translation of [71:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 71 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [71:5] en español.",
+        "fr_hamidullah": "Traduction de [71:5] en français.",
+        "bn_hoque": "সূরা 71 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "71:6",
+      "surahNumber": 71,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "فَلَمْ يَزِدْهُمْ دُعَائِي إِلَّا فِرَارًا",
+        "en_sahih": "English translation of [71:6] in Sahih International style.",
+        "en_yusufali": "English translation of [71:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 71 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [71:6] en español.",
+        "fr_hamidullah": "Traduction de [71:6] en français.",
+        "bn_hoque": "সূরা 71 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "71:7",
+      "surahNumber": 71,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "وَإِنِّي كُلَّمَا دَعَوْتُهُمْ لِتَغْفِرَ لَهُمْ جَعَلُوا أَصَابِعَهُمْ فِي آذَانِهِمْ وَاسْتَغْشَوْا ثِيَابَهُمْ وَأَصَرُّوا وَاسْتَكْبَرُوا اسْتِكْبَارًا",
+        "en_sahih": "English translation of [71:7] in Sahih International style.",
+        "en_yusufali": "English translation of [71:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 71 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [71:7] en español.",
+        "fr_hamidullah": "Traduction de [71:7] en français.",
+        "bn_hoque": "সূরা 71 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "71:8",
+      "surahNumber": 71,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "ثُمَّ إِنِّي دَعَوْتُهُمْ جِهَارًا",
+        "en_sahih": "English translation of [71:8] in Sahih International style.",
+        "en_yusufali": "English translation of [71:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 71 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [71:8] en español.",
+        "fr_hamidullah": "Traduction de [71:8] en français.",
+        "bn_hoque": "সূরা 71 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "71:9",
+      "surahNumber": 71,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "ثُمَّ إِنِّي أَعْلَنْتُ لَهُمْ وَأَسْرَرْتُ لَهُمْ إِسْرَارًا",
+        "en_sahih": "English translation of [71:9] in Sahih International style.",
+        "en_yusufali": "English translation of [71:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 71 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [71:9] en español.",
+        "fr_hamidullah": "Traduction de [71:9] en français.",
+        "bn_hoque": "সূরা 71 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "71:10",
+      "surahNumber": 71,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "فَقُلْتُ اسْتَغْفِرُوا رَبَّكُمْ إِنَّهُ كَانَ غَفَّارًا",
+        "en_sahih": "English translation of [71:10] in Sahih International style.",
+        "en_yusufali": "English translation of [71:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 71 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [71:10] en español.",
+        "fr_hamidullah": "Traduction de [71:10] en français.",
+        "bn_hoque": "সূরা 71 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "71:11",
+      "surahNumber": 71,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "يُرْسِلِ السَّمَاءَ عَلَيْكُمْ مِدْرَارًا",
+        "en_sahih": "English translation of [71:11] in Sahih International style.",
+        "en_yusufali": "English translation of [71:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 71 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [71:11] en español.",
+        "fr_hamidullah": "Traduction de [71:11] en français.",
+        "bn_hoque": "সূরা 71 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "71:12",
+      "surahNumber": 71,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "وَيُمْدِدْكُمْ بِأَمْوَالٍ وَبَنِينَ وَيَجْعَلْ لَكُمْ جَنَّاتٍ وَيَجْعَلْ لَكُمْ أَنْهَارًا",
+        "en_sahih": "English translation of [71:12] in Sahih International style.",
+        "en_yusufali": "English translation of [71:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 71 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [71:12] en español.",
+        "fr_hamidullah": "Traduction de [71:12] en français.",
+        "bn_hoque": "সূরা 71 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "71:13",
+      "surahNumber": 71,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "مَا لَكُمْ لَا تَرْجُونَ لِلَّهِ وَقَارًا",
+        "en_sahih": "English translation of [71:13] in Sahih International style.",
+        "en_yusufali": "English translation of [71:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 71 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [71:13] en español.",
+        "fr_hamidullah": "Traduction de [71:13] en français.",
+        "bn_hoque": "সূরা 71 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "71:14",
+      "surahNumber": 71,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "وَقَدْ خَلَقَكُمْ أَطْوَارًا",
+        "en_sahih": "English translation of [71:14] in Sahih International style.",
+        "en_yusufali": "English translation of [71:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 71 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [71:14] en español.",
+        "fr_hamidullah": "Traduction de [71:14] en français.",
+        "bn_hoque": "সূরা 71 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "71:15",
+      "surahNumber": 71,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "أَلَمْ تَرَوْا كَيْفَ خَلَقَ اللَّهُ سَبْعَ سَمَاوَاتٍ طِبَاقًا",
+        "en_sahih": "English translation of [71:15] in Sahih International style.",
+        "en_yusufali": "English translation of [71:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 71 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [71:15] en español.",
+        "fr_hamidullah": "Traduction de [71:15] en français.",
+        "bn_hoque": "সূরা 71 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "71:16",
+      "surahNumber": 71,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "وَجَعَلَ الْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ الشَّمْسَ سِرَاجًا",
+        "en_sahih": "English translation of [71:16] in Sahih International style.",
+        "en_yusufali": "English translation of [71:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 71 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [71:16] en español.",
+        "fr_hamidullah": "Traduction de [71:16] en français.",
+        "bn_hoque": "সূরা 71 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "71:17",
+      "surahNumber": 71,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "وَاللَّهُ أَنْبَتَكُمْ مِنَ الْأَرْضِ نَبَاتًا",
+        "en_sahih": "English translation of [71:17] in Sahih International style.",
+        "en_yusufali": "English translation of [71:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 71 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [71:17] en español.",
+        "fr_hamidullah": "Traduction de [71:17] en français.",
+        "bn_hoque": "সূরা 71 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "71:18",
+      "surahNumber": 71,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "ثُمَّ يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًا",
+        "en_sahih": "English translation of [71:18] in Sahih International style.",
+        "en_yusufali": "English translation of [71:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 71 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [71:18] en español.",
+        "fr_hamidullah": "Traduction de [71:18] en français.",
+        "bn_hoque": "সূরা 71 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "71:19",
+      "surahNumber": 71,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "وَاللَّهُ جَعَلَ لَكُمُ الْأَرْضَ بِسَاطًا",
+        "en_sahih": "English translation of [71:19] in Sahih International style.",
+        "en_yusufali": "English translation of [71:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 71 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [71:19] en español.",
+        "fr_hamidullah": "Traduction de [71:19] en français.",
+        "bn_hoque": "সূরা 71 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "71:20",
+      "surahNumber": 71,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "لِتَسْلُكُوا مِنْهَا سُبُلًا فِجَاجًا",
+        "en_sahih": "English translation of [71:20] in Sahih International style.",
+        "en_yusufali": "English translation of [71:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 71 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [71:20] en español.",
+        "fr_hamidullah": "Traduction de [71:20] en français.",
+        "bn_hoque": "সূরা 71 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "71:21",
+      "surahNumber": 71,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "قَالَ نُوحٌ رَبِّ إِنَّهُمْ عَصَوْنِي وَاتَّبَعُوا مَنْ لَمْ يَزِدْهُ مَالُهُ وَوَلَدُهُ إِلَّا خَسَارًا",
+        "en_sahih": "English translation of [71:21] in Sahih International style.",
+        "en_yusufali": "English translation of [71:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 71 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [71:21] en español.",
+        "fr_hamidullah": "Traduction de [71:21] en français.",
+        "bn_hoque": "সূরা 71 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "71:22",
+      "surahNumber": 71,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "وَمَكَرُوا مَكْرًا كُبَّارًا",
+        "en_sahih": "English translation of [71:22] in Sahih International style.",
+        "en_yusufali": "English translation of [71:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 71 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [71:22] en español.",
+        "fr_hamidullah": "Traduction de [71:22] en français.",
+        "bn_hoque": "সূরা 71 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "71:23",
+      "surahNumber": 71,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "وَقَالُوا لَا تَذَرُنَّ آلِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّا وَلَا سُوَاعًا وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرًا",
+        "en_sahih": "English translation of [71:23] in Sahih International style.",
+        "en_yusufali": "English translation of [71:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 71 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [71:23] en español.",
+        "fr_hamidullah": "Traduction de [71:23] en français.",
+        "bn_hoque": "সূরা 71 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "71:24",
+      "surahNumber": 71,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "وَقَدْ أَضَلُّوا كَثِيرًا ۖ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا ضَلَالًا",
+        "en_sahih": "English translation of [71:24] in Sahih International style.",
+        "en_yusufali": "English translation of [71:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 71 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [71:24] en español.",
+        "fr_hamidullah": "Traduction de [71:24] en français.",
+        "bn_hoque": "সূরা 71 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "71:25",
+      "surahNumber": 71,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "مِمَّا خَطِيئَاتِهِمْ أُغْرِقُوا فَأُدْخِلُوا نَارًا فَلَمْ يَجِدُوا لَهُمْ مِنْ دُونِ اللَّهِ أَنْصَارًا",
+        "en_sahih": "English translation of [71:25] in Sahih International style.",
+        "en_yusufali": "English translation of [71:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 71 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [71:25] en español.",
+        "fr_hamidullah": "Traduction de [71:25] en français.",
+        "bn_hoque": "সূরা 71 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "71:26",
+      "surahNumber": 71,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "وَقَالَ نُوحٌ رَبِّ لَا تَذَرْ عَلَى الْأَرْضِ مِنَ الْكَافِرِينَ دَيَّارًا",
+        "en_sahih": "English translation of [71:26] in Sahih International style.",
+        "en_yusufali": "English translation of [71:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 71 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [71:26] en español.",
+        "fr_hamidullah": "Traduction de [71:26] en français.",
+        "bn_hoque": "সূরা 71 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "71:27",
+      "surahNumber": 71,
+      "ayahNumber": 27,
+      "text": {
+        "simple": "إِنَّكَ إِنْ تَذَرْهُمْ يُضِلُّوا عِبَادَكَ وَلَا يَلِدُوا إِلَّا فَاجِرًا كَفَّارًا",
+        "en_sahih": "English translation of [71:27] in Sahih International style.",
+        "en_yusufali": "English translation of [71:27] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 71 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [71:27] en español.",
+        "fr_hamidullah": "Traduction de [71:27] en français.",
+        "bn_hoque": "সূরা 71 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "71:28",
+      "surahNumber": 71,
+      "ayahNumber": 28,
+      "text": {
+        "simple": "رَبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِمَنْ دَخَلَ بَيْتِيَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا تَبَارًا",
+        "en_sahih": "English translation of [71:28] in Sahih International style.",
+        "en_yusufali": "English translation of [71:28] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 71 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [71:28] en español.",
+        "fr_hamidullah": "Traduction de [71:28] en français.",
+        "bn_hoque": "সূরা 71 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

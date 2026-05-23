@@ -1,0 +1,281 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:58.001Z",
+  "surahNumber": 87,
+  "ayahCount": 19,
+  "ayahs": [
+    {
+      "id": "87:1",
+      "surahNumber": 87,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى",
+        "en_sahih": "English translation of [87:1] in Sahih International style.",
+        "en_yusufali": "English translation of [87:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 87 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [87:1] en español.",
+        "fr_hamidullah": "Traduction de [87:1] en français.",
+        "bn_hoque": "সূরা 87 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "87:2",
+      "surahNumber": 87,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "الَّذِي خَلَقَ فَسَوَّىٰ",
+        "en_sahih": "English translation of [87:2] in Sahih International style.",
+        "en_yusufali": "English translation of [87:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 87 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [87:2] en español.",
+        "fr_hamidullah": "Traduction de [87:2] en français.",
+        "bn_hoque": "সূরা 87 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "87:3",
+      "surahNumber": 87,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "وَالَّذِي قَدَّرَ فَهَدَىٰ",
+        "en_sahih": "English translation of [87:3] in Sahih International style.",
+        "en_yusufali": "English translation of [87:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 87 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [87:3] en español.",
+        "fr_hamidullah": "Traduction de [87:3] en français.",
+        "bn_hoque": "সূরা 87 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "87:4",
+      "surahNumber": 87,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "وَالَّذِي أَخْرَجَ الْمَرْعَىٰ",
+        "en_sahih": "English translation of [87:4] in Sahih International style.",
+        "en_yusufali": "English translation of [87:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 87 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [87:4] en español.",
+        "fr_hamidullah": "Traduction de [87:4] en français.",
+        "bn_hoque": "সূরা 87 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "87:5",
+      "surahNumber": 87,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "فَجَعَلَهُ غُثَاءً أَحْوَىٰ",
+        "en_sahih": "English translation of [87:5] in Sahih International style.",
+        "en_yusufali": "English translation of [87:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 87 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [87:5] en español.",
+        "fr_hamidullah": "Traduction de [87:5] en français.",
+        "bn_hoque": "সূরা 87 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "87:6",
+      "surahNumber": 87,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "سَنُقْرِئُكَ فَلَا تَنْسَىٰ",
+        "en_sahih": "English translation of [87:6] in Sahih International style.",
+        "en_yusufali": "English translation of [87:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 87 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [87:6] en español.",
+        "fr_hamidullah": "Traduction de [87:6] en français.",
+        "bn_hoque": "সূরা 87 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "87:7",
+      "surahNumber": 87,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "إِلَّا مَا شَاءَ اللَّهُ ۚ إِنَّهُ يَعْلَمُ الْجَهْرَ وَمَا يَخْفَىٰ",
+        "en_sahih": "English translation of [87:7] in Sahih International style.",
+        "en_yusufali": "English translation of [87:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 87 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [87:7] en español.",
+        "fr_hamidullah": "Traduction de [87:7] en français.",
+        "bn_hoque": "সূরা 87 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "87:8",
+      "surahNumber": 87,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "وَنُيَسِّرُكَ لِلْيُسْرَىٰ",
+        "en_sahih": "English translation of [87:8] in Sahih International style.",
+        "en_yusufali": "English translation of [87:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 87 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [87:8] en español.",
+        "fr_hamidullah": "Traduction de [87:8] en français.",
+        "bn_hoque": "সূরা 87 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "87:9",
+      "surahNumber": 87,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "فَذَكِّرْ إِنْ نَفَعَتِ الذِّكْرَىٰ",
+        "en_sahih": "English translation of [87:9] in Sahih International style.",
+        "en_yusufali": "English translation of [87:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 87 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [87:9] en español.",
+        "fr_hamidullah": "Traduction de [87:9] en français.",
+        "bn_hoque": "সূরা 87 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "87:10",
+      "surahNumber": 87,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "سَيَذَّكَّرُ مَنْ يَخْشَىٰ",
+        "en_sahih": "English translation of [87:10] in Sahih International style.",
+        "en_yusufali": "English translation of [87:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 87 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [87:10] en español.",
+        "fr_hamidullah": "Traduction de [87:10] en français.",
+        "bn_hoque": "সূরা 87 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "87:11",
+      "surahNumber": 87,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "وَيَتَجَنَّبُهَا الْأَشْقَى",
+        "en_sahih": "English translation of [87:11] in Sahih International style.",
+        "en_yusufali": "English translation of [87:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 87 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [87:11] en español.",
+        "fr_hamidullah": "Traduction de [87:11] en français.",
+        "bn_hoque": "সূরা 87 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "87:12",
+      "surahNumber": 87,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "الَّذِي يَصْلَى النَّارَ الْكُبْرَىٰ",
+        "en_sahih": "English translation of [87:12] in Sahih International style.",
+        "en_yusufali": "English translation of [87:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 87 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [87:12] en español.",
+        "fr_hamidullah": "Traduction de [87:12] en français.",
+        "bn_hoque": "সূরা 87 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "87:13",
+      "surahNumber": 87,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ",
+        "en_sahih": "English translation of [87:13] in Sahih International style.",
+        "en_yusufali": "English translation of [87:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 87 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [87:13] en español.",
+        "fr_hamidullah": "Traduction de [87:13] en français.",
+        "bn_hoque": "সূরা 87 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "87:14",
+      "surahNumber": 87,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "قَدْ أَفْلَحَ مَنْ تَزَكَّىٰ",
+        "en_sahih": "English translation of [87:14] in Sahih International style.",
+        "en_yusufali": "English translation of [87:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 87 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [87:14] en español.",
+        "fr_hamidullah": "Traduction de [87:14] en français.",
+        "bn_hoque": "সূরা 87 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "87:15",
+      "surahNumber": 87,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "وَذَكَرَ اسْمَ رَبِّهِ فَصَلَّىٰ",
+        "en_sahih": "English translation of [87:15] in Sahih International style.",
+        "en_yusufali": "English translation of [87:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 87 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [87:15] en español.",
+        "fr_hamidullah": "Traduction de [87:15] en français.",
+        "bn_hoque": "সূরা 87 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "87:16",
+      "surahNumber": 87,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "بَلْ تُؤْثِرُونَ الْحَيَاةَ الدُّنْيَا",
+        "en_sahih": "English translation of [87:16] in Sahih International style.",
+        "en_yusufali": "English translation of [87:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 87 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [87:16] en español.",
+        "fr_hamidullah": "Traduction de [87:16] en français.",
+        "bn_hoque": "সূরা 87 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "87:17",
+      "surahNumber": 87,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "وَالْآخِرَةُ خَيْرٌ وَأَبْقَىٰ",
+        "en_sahih": "English translation of [87:17] in Sahih International style.",
+        "en_yusufali": "English translation of [87:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 87 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [87:17] en español.",
+        "fr_hamidullah": "Traduction de [87:17] en français.",
+        "bn_hoque": "সূরা 87 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "87:18",
+      "surahNumber": 87,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "إِنَّ هَٰذَا لَفِي الصُّحُفِ الْأُولَىٰ",
+        "en_sahih": "English translation of [87:18] in Sahih International style.",
+        "en_yusufali": "English translation of [87:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 87 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [87:18] en español.",
+        "fr_hamidullah": "Traduction de [87:18] en français.",
+        "bn_hoque": "সূরা 87 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "87:19",
+      "surahNumber": 87,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "صُحُفِ إِبْرَاهِيمَ وَمُوسَىٰ",
+        "en_sahih": "English translation of [87:19] in Sahih International style.",
+        "en_yusufali": "English translation of [87:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 87 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [87:19] en español.",
+        "fr_hamidullah": "Traduction de [87:19] en français.",
+        "bn_hoque": "সূরা 87 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

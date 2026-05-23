@@ -1,0 +1,323 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.999Z",
+  "surahNumber": 85,
+  "ayahCount": 22,
+  "ayahs": [
+    {
+      "id": "85:1",
+      "surahNumber": 85,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَالسَّمَاءِ ذَاتِ الْبُرُوجِ",
+        "en_sahih": "English translation of [85:1] in Sahih International style.",
+        "en_yusufali": "English translation of [85:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 85 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [85:1] en español.",
+        "fr_hamidullah": "Traduction de [85:1] en français.",
+        "bn_hoque": "সূরা 85 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "85:2",
+      "surahNumber": 85,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "وَالْيَوْمِ الْمَوْعُودِ",
+        "en_sahih": "English translation of [85:2] in Sahih International style.",
+        "en_yusufali": "English translation of [85:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 85 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [85:2] en español.",
+        "fr_hamidullah": "Traduction de [85:2] en français.",
+        "bn_hoque": "সূরা 85 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "85:3",
+      "surahNumber": 85,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "وَشَاهِدٍ وَمَشْهُودٍ",
+        "en_sahih": "English translation of [85:3] in Sahih International style.",
+        "en_yusufali": "English translation of [85:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 85 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [85:3] en español.",
+        "fr_hamidullah": "Traduction de [85:3] en français.",
+        "bn_hoque": "সূরা 85 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "85:4",
+      "surahNumber": 85,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "قُتِلَ أَصْحَابُ الْأُخْدُودِ",
+        "en_sahih": "English translation of [85:4] in Sahih International style.",
+        "en_yusufali": "English translation of [85:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 85 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [85:4] en español.",
+        "fr_hamidullah": "Traduction de [85:4] en français.",
+        "bn_hoque": "সূরা 85 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "85:5",
+      "surahNumber": 85,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "النَّارِ ذَاتِ الْوَقُودِ",
+        "en_sahih": "English translation of [85:5] in Sahih International style.",
+        "en_yusufali": "English translation of [85:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 85 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [85:5] en español.",
+        "fr_hamidullah": "Traduction de [85:5] en français.",
+        "bn_hoque": "সূরা 85 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "85:6",
+      "surahNumber": 85,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "إِذْ هُمْ عَلَيْهَا قُعُودٌ",
+        "en_sahih": "English translation of [85:6] in Sahih International style.",
+        "en_yusufali": "English translation of [85:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 85 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [85:6] en español.",
+        "fr_hamidullah": "Traduction de [85:6] en français.",
+        "bn_hoque": "সূরা 85 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "85:7",
+      "surahNumber": 85,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِالْمُؤْمِنِينَ شُهُودٌ",
+        "en_sahih": "English translation of [85:7] in Sahih International style.",
+        "en_yusufali": "English translation of [85:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 85 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [85:7] en español.",
+        "fr_hamidullah": "Traduction de [85:7] en français.",
+        "bn_hoque": "সূরা 85 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "85:8",
+      "surahNumber": 85,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "وَمَا نَقَمُوا مِنْهُمْ إِلَّا أَنْ يُؤْمِنُوا بِاللَّهِ الْعَزِيزِ الْحَمِيدِ",
+        "en_sahih": "English translation of [85:8] in Sahih International style.",
+        "en_yusufali": "English translation of [85:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 85 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [85:8] en español.",
+        "fr_hamidullah": "Traduction de [85:8] en français.",
+        "bn_hoque": "সূরা 85 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "85:9",
+      "surahNumber": 85,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "الَّذِي لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ",
+        "en_sahih": "English translation of [85:9] in Sahih International style.",
+        "en_yusufali": "English translation of [85:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 85 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [85:9] en español.",
+        "fr_hamidullah": "Traduction de [85:9] en français.",
+        "bn_hoque": "সূরা 85 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "85:10",
+      "surahNumber": 85,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "إِنَّ الَّذِينَ فَتَنُوا الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ ثُمَّ لَمْ يَتُوبُوا فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ الْحَرِيقِ",
+        "en_sahih": "English translation of [85:10] in Sahih International style.",
+        "en_yusufali": "English translation of [85:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 85 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [85:10] en español.",
+        "fr_hamidullah": "Traduction de [85:10] en français.",
+        "bn_hoque": "সূরা 85 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "85:11",
+      "surahNumber": 85,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ جَنَّاتٌ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ ۚ ذَٰلِكَ الْفَوْزُ الْكَبِيرُ",
+        "en_sahih": "English translation of [85:11] in Sahih International style.",
+        "en_yusufali": "English translation of [85:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 85 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [85:11] en español.",
+        "fr_hamidullah": "Traduction de [85:11] en français.",
+        "bn_hoque": "সূরা 85 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "85:12",
+      "surahNumber": 85,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ",
+        "en_sahih": "English translation of [85:12] in Sahih International style.",
+        "en_yusufali": "English translation of [85:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 85 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [85:12] en español.",
+        "fr_hamidullah": "Traduction de [85:12] en français.",
+        "bn_hoque": "সূরা 85 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "85:13",
+      "surahNumber": 85,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "إِنَّهُ هُوَ يُبْدِئُ وَيُعِيدُ",
+        "en_sahih": "English translation of [85:13] in Sahih International style.",
+        "en_yusufali": "English translation of [85:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 85 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [85:13] en español.",
+        "fr_hamidullah": "Traduction de [85:13] en français.",
+        "bn_hoque": "সূরা 85 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "85:14",
+      "surahNumber": 85,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "وَهُوَ الْغَفُورُ الْوَدُودُ",
+        "en_sahih": "English translation of [85:14] in Sahih International style.",
+        "en_yusufali": "English translation of [85:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 85 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [85:14] en español.",
+        "fr_hamidullah": "Traduction de [85:14] en français.",
+        "bn_hoque": "সূরা 85 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "85:15",
+      "surahNumber": 85,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "ذُو الْعَرْشِ الْمَجِيدُ",
+        "en_sahih": "English translation of [85:15] in Sahih International style.",
+        "en_yusufali": "English translation of [85:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 85 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [85:15] en español.",
+        "fr_hamidullah": "Traduction de [85:15] en français.",
+        "bn_hoque": "সূরা 85 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "85:16",
+      "surahNumber": 85,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "فَعَّالٌ لِمَا يُرِيدُ",
+        "en_sahih": "English translation of [85:16] in Sahih International style.",
+        "en_yusufali": "English translation of [85:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 85 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [85:16] en español.",
+        "fr_hamidullah": "Traduction de [85:16] en français.",
+        "bn_hoque": "সূরা 85 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "85:17",
+      "surahNumber": 85,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "هَلْ أَتَاكَ حَدِيثُ الْجُنُودِ",
+        "en_sahih": "English translation of [85:17] in Sahih International style.",
+        "en_yusufali": "English translation of [85:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 85 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [85:17] en español.",
+        "fr_hamidullah": "Traduction de [85:17] en français.",
+        "bn_hoque": "সূরা 85 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "85:18",
+      "surahNumber": 85,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "فِرْعَوْنَ وَثَمُودَ",
+        "en_sahih": "English translation of [85:18] in Sahih International style.",
+        "en_yusufali": "English translation of [85:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 85 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [85:18] en español.",
+        "fr_hamidullah": "Traduction de [85:18] en français.",
+        "bn_hoque": "সূরা 85 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "85:19",
+      "surahNumber": 85,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "بَلِ الَّذِينَ كَفَرُوا فِي تَكْذِيبٍ",
+        "en_sahih": "English translation of [85:19] in Sahih International style.",
+        "en_yusufali": "English translation of [85:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 85 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [85:19] en español.",
+        "fr_hamidullah": "Traduction de [85:19] en français.",
+        "bn_hoque": "সূরা 85 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "85:20",
+      "surahNumber": 85,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "وَاللَّهُ مِنْ وَرَائِهِمْ مُحِيطٌ",
+        "en_sahih": "English translation of [85:20] in Sahih International style.",
+        "en_yusufali": "English translation of [85:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 85 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [85:20] en español.",
+        "fr_hamidullah": "Traduction de [85:20] en français.",
+        "bn_hoque": "সূরা 85 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "85:21",
+      "surahNumber": 85,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "بَلْ هُوَ قُرْآنٌ مَجِيدٌ",
+        "en_sahih": "English translation of [85:21] in Sahih International style.",
+        "en_yusufali": "English translation of [85:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 85 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [85:21] en español.",
+        "fr_hamidullah": "Traduction de [85:21] en français.",
+        "bn_hoque": "সূরা 85 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "85:22",
+      "surahNumber": 85,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "فِي لَوْحٍ مَحْفُوظٍ",
+        "en_sahih": "English translation of [85:22] in Sahih International style.",
+        "en_yusufali": "English translation of [85:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 85 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [85:22] en español.",
+        "fr_hamidullah": "Traduction de [85:22] en français.",
+        "bn_hoque": "সূরা 85 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

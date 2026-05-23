@@ -1,0 +1,1667 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.976Z",
+  "surahNumber": 23,
+  "ayahCount": 118,
+  "ayahs": [
+    {
+      "id": "23:1",
+      "surahNumber": 23,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ قَدْ أَفْلَحَ الْمُؤْمِنُونَ",
+        "en_sahih": "English translation of [23:1] in Sahih International style.",
+        "en_yusufali": "English translation of [23:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:1] en español.",
+        "fr_hamidullah": "Traduction de [23:1] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:2",
+      "surahNumber": 23,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "الَّذِينَ هُمْ فِي صَلَاتِهِمْ خَاشِعُونَ",
+        "en_sahih": "English translation of [23:2] in Sahih International style.",
+        "en_yusufali": "English translation of [23:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:2] en español.",
+        "fr_hamidullah": "Traduction de [23:2] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:3",
+      "surahNumber": 23,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "وَالَّذِينَ هُمْ عَنِ اللَّغْوِ مُعْرِضُونَ",
+        "en_sahih": "English translation of [23:3] in Sahih International style.",
+        "en_yusufali": "English translation of [23:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:3] en español.",
+        "fr_hamidullah": "Traduction de [23:3] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:4",
+      "surahNumber": 23,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "وَالَّذِينَ هُمْ لِلزَّكَاةِ فَاعِلُونَ",
+        "en_sahih": "English translation of [23:4] in Sahih International style.",
+        "en_yusufali": "English translation of [23:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:4] en español.",
+        "fr_hamidullah": "Traduction de [23:4] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:5",
+      "surahNumber": 23,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "وَالَّذِينَ هُمْ لِفُرُوجِهِمْ حَافِظُونَ",
+        "en_sahih": "English translation of [23:5] in Sahih International style.",
+        "en_yusufali": "English translation of [23:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:5] en español.",
+        "fr_hamidullah": "Traduction de [23:5] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:6",
+      "surahNumber": 23,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "إِلَّا عَلَىٰ أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ",
+        "en_sahih": "English translation of [23:6] in Sahih International style.",
+        "en_yusufali": "English translation of [23:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:6] en español.",
+        "fr_hamidullah": "Traduction de [23:6] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:7",
+      "surahNumber": 23,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "فَمَنِ ابْتَغَىٰ وَرَاءَ ذَٰلِكَ فَأُولَٰئِكَ هُمُ الْعَادُونَ",
+        "en_sahih": "English translation of [23:7] in Sahih International style.",
+        "en_yusufali": "English translation of [23:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:7] en español.",
+        "fr_hamidullah": "Traduction de [23:7] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:8",
+      "surahNumber": 23,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "وَالَّذِينَ هُمْ لِأَمَانَاتِهِمْ وَعَهْدِهِمْ رَاعُونَ",
+        "en_sahih": "English translation of [23:8] in Sahih International style.",
+        "en_yusufali": "English translation of [23:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:8] en español.",
+        "fr_hamidullah": "Traduction de [23:8] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:9",
+      "surahNumber": 23,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "وَالَّذِينَ هُمْ عَلَىٰ صَلَوَاتِهِمْ يُحَافِظُونَ",
+        "en_sahih": "English translation of [23:9] in Sahih International style.",
+        "en_yusufali": "English translation of [23:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:9] en español.",
+        "fr_hamidullah": "Traduction de [23:9] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:10",
+      "surahNumber": 23,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "أُولَٰئِكَ هُمُ الْوَارِثُونَ",
+        "en_sahih": "English translation of [23:10] in Sahih International style.",
+        "en_yusufali": "English translation of [23:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:10] en español.",
+        "fr_hamidullah": "Traduction de [23:10] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:11",
+      "surahNumber": 23,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "الَّذِينَ يَرِثُونَ الْفِرْدَوْسَ هُمْ فِيهَا خَالِدُونَ",
+        "en_sahih": "English translation of [23:11] in Sahih International style.",
+        "en_yusufali": "English translation of [23:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:11] en español.",
+        "fr_hamidullah": "Traduction de [23:11] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:12",
+      "surahNumber": 23,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "وَلَقَدْ خَلَقْنَا الْإِنْسَانَ مِنْ سُلَالَةٍ مِنْ طِينٍ",
+        "en_sahih": "English translation of [23:12] in Sahih International style.",
+        "en_yusufali": "English translation of [23:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:12] en español.",
+        "fr_hamidullah": "Traduction de [23:12] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:13",
+      "surahNumber": 23,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "ثُمَّ جَعَلْنَاهُ نُطْفَةً فِي قَرَارٍ مَكِينٍ",
+        "en_sahih": "English translation of [23:13] in Sahih International style.",
+        "en_yusufali": "English translation of [23:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:13] en español.",
+        "fr_hamidullah": "Traduction de [23:13] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:14",
+      "surahNumber": 23,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "ثُمَّ خَلَقْنَا النُّطْفَةَ عَلَقَةً فَخَلَقْنَا الْعَلَقَةَ مُضْغَةً فَخَلَقْنَا الْمُضْغَةَ عِظَامًا فَكَسَوْنَا الْعِظَامَ لَحْمًا ثُمَّ أَنْشَأْنَاهُ خَلْقًا آخَرَ ۚ فَتَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ",
+        "en_sahih": "English translation of [23:14] in Sahih International style.",
+        "en_yusufali": "English translation of [23:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:14] en español.",
+        "fr_hamidullah": "Traduction de [23:14] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:15",
+      "surahNumber": 23,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "ثُمَّ إِنَّكُمْ بَعْدَ ذَٰلِكَ لَمَيِّتُونَ",
+        "en_sahih": "English translation of [23:15] in Sahih International style.",
+        "en_yusufali": "English translation of [23:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:15] en español.",
+        "fr_hamidullah": "Traduction de [23:15] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:16",
+      "surahNumber": 23,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "ثُمَّ إِنَّكُمْ يَوْمَ الْقِيَامَةِ تُبْعَثُونَ",
+        "en_sahih": "English translation of [23:16] in Sahih International style.",
+        "en_yusufali": "English translation of [23:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:16] en español.",
+        "fr_hamidullah": "Traduction de [23:16] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:17",
+      "surahNumber": 23,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "وَلَقَدْ خَلَقْنَا فَوْقَكُمْ سَبْعَ طَرَائِقَ وَمَا كُنَّا عَنِ الْخَلْقِ غَافِلِينَ",
+        "en_sahih": "English translation of [23:17] in Sahih International style.",
+        "en_yusufali": "English translation of [23:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:17] en español.",
+        "fr_hamidullah": "Traduction de [23:17] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:18",
+      "surahNumber": 23,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "وَأَنْزَلْنَا مِنَ السَّمَاءِ مَاءً بِقَدَرٍ فَأَسْكَنَّاهُ فِي الْأَرْضِ ۖ وَإِنَّا عَلَىٰ ذَهَابٍ بِهِ لَقَادِرُونَ",
+        "en_sahih": "English translation of [23:18] in Sahih International style.",
+        "en_yusufali": "English translation of [23:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:18] en español.",
+        "fr_hamidullah": "Traduction de [23:18] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:19",
+      "surahNumber": 23,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "فَأَنْشَأْنَا لَكُمْ بِهِ جَنَّاتٍ مِنْ نَخِيلٍ وَأَعْنَابٍ لَكُمْ فِيهَا فَوَاكِهُ كَثِيرَةٌ وَمِنْهَا تَأْكُلُونَ",
+        "en_sahih": "English translation of [23:19] in Sahih International style.",
+        "en_yusufali": "English translation of [23:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:19] en español.",
+        "fr_hamidullah": "Traduction de [23:19] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:20",
+      "surahNumber": 23,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "وَشَجَرَةً تَخْرُجُ مِنْ طُورِ سَيْنَاءَ تَنْبُتُ بِالدُّهْنِ وَصِبْغٍ لِلْآكِلِينَ",
+        "en_sahih": "English translation of [23:20] in Sahih International style.",
+        "en_yusufali": "English translation of [23:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:20] en español.",
+        "fr_hamidullah": "Traduction de [23:20] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:21",
+      "surahNumber": 23,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "وَإِنَّ لَكُمْ فِي الْأَنْعَامِ لَعِبْرَةً ۖ نُسْقِيكُمْ مِمَّا فِي بُطُونِهَا وَلَكُمْ فِيهَا مَنَافِعُ كَثِيرَةٌ وَمِنْهَا تَأْكُلُونَ",
+        "en_sahih": "English translation of [23:21] in Sahih International style.",
+        "en_yusufali": "English translation of [23:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:21] en español.",
+        "fr_hamidullah": "Traduction de [23:21] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:22",
+      "surahNumber": 23,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "وَعَلَيْهَا وَعَلَى الْفُلْكِ تُحْمَلُونَ",
+        "en_sahih": "English translation of [23:22] in Sahih International style.",
+        "en_yusufali": "English translation of [23:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:22] en español.",
+        "fr_hamidullah": "Traduction de [23:22] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:23",
+      "surahNumber": 23,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِ فَقَالَ يَا قَوْمِ اعْبُدُوا اللَّهَ مَا لَكُمْ مِنْ إِلَٰهٍ غَيْرُهُ ۖ أَفَلَا تَتَّقُونَ",
+        "en_sahih": "English translation of [23:23] in Sahih International style.",
+        "en_yusufali": "English translation of [23:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:23] en español.",
+        "fr_hamidullah": "Traduction de [23:23] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:24",
+      "surahNumber": 23,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "فَقَالَ الْمَلَأُ الَّذِينَ كَفَرُوا مِنْ قَوْمِهِ مَا هَٰذَا إِلَّا بَشَرٌ مِثْلُكُمْ يُرِيدُ أَنْ يَتَفَضَّلَ عَلَيْكُمْ وَلَوْ شَاءَ اللَّهُ لَأَنْزَلَ مَلَائِكَةً مَا سَمِعْنَا بِهَٰذَا فِي آبَائِنَا الْأَوَّلِينَ",
+        "en_sahih": "English translation of [23:24] in Sahih International style.",
+        "en_yusufali": "English translation of [23:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:24] en español.",
+        "fr_hamidullah": "Traduction de [23:24] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:25",
+      "surahNumber": 23,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "إِنْ هُوَ إِلَّا رَجُلٌ بِهِ جِنَّةٌ فَتَرَبَّصُوا بِهِ حَتَّىٰ حِينٍ",
+        "en_sahih": "English translation of [23:25] in Sahih International style.",
+        "en_yusufali": "English translation of [23:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:25] en español.",
+        "fr_hamidullah": "Traduction de [23:25] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:26",
+      "surahNumber": 23,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "قَالَ رَبِّ انْصُرْنِي بِمَا كَذَّبُونِ",
+        "en_sahih": "English translation of [23:26] in Sahih International style.",
+        "en_yusufali": "English translation of [23:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:26] en español.",
+        "fr_hamidullah": "Traduction de [23:26] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:27",
+      "surahNumber": 23,
+      "ayahNumber": 27,
+      "text": {
+        "simple": "فَأَوْحَيْنَا إِلَيْهِ أَنِ اصْنَعِ الْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَاءَ أَمْرُنَا وَفَارَ التَّنُّورُ ۙ فَاسْلُكْ فِيهَا مِنْ كُلٍّ زَوْجَيْنِ اثْنَيْنِ وَأَهْلَكَ إِلَّا مَنْ سَبَقَ عَلَيْهِ الْقَوْلُ مِنْهُمْ ۖ وَلَا تُخَاطِبْنِي فِي الَّذِينَ ظَلَمُوا ۖ إِنَّهُمْ مُغْرَقُونَ",
+        "en_sahih": "English translation of [23:27] in Sahih International style.",
+        "en_yusufali": "English translation of [23:27] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:27] en español.",
+        "fr_hamidullah": "Traduction de [23:27] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:28",
+      "surahNumber": 23,
+      "ayahNumber": 28,
+      "text": {
+        "simple": "فَإِذَا اسْتَوَيْتَ أَنْتَ وَمَنْ مَعَكَ عَلَى الْفُلْكِ فَقُلِ الْحَمْدُ لِلَّهِ الَّذِي نَجَّانَا مِنَ الْقَوْمِ الظَّالِمِينَ",
+        "en_sahih": "English translation of [23:28] in Sahih International style.",
+        "en_yusufali": "English translation of [23:28] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:28] en español.",
+        "fr_hamidullah": "Traduction de [23:28] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:29",
+      "surahNumber": 23,
+      "ayahNumber": 29,
+      "text": {
+        "simple": "وَقُلْ رَبِّ أَنْزِلْنِي مُنْزَلًا مُبَارَكًا وَأَنْتَ خَيْرُ الْمُنْزِلِينَ",
+        "en_sahih": "English translation of [23:29] in Sahih International style.",
+        "en_yusufali": "English translation of [23:29] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:29] en español.",
+        "fr_hamidullah": "Traduction de [23:29] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:30",
+      "surahNumber": 23,
+      "ayahNumber": 30,
+      "text": {
+        "simple": "إِنَّ فِي ذَٰلِكَ لَآيَاتٍ وَإِنْ كُنَّا لَمُبْتَلِينَ",
+        "en_sahih": "English translation of [23:30] in Sahih International style.",
+        "en_yusufali": "English translation of [23:30] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:30] en español.",
+        "fr_hamidullah": "Traduction de [23:30] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:31",
+      "surahNumber": 23,
+      "ayahNumber": 31,
+      "text": {
+        "simple": "ثُمَّ أَنْشَأْنَا مِنْ بَعْدِهِمْ قَرْنًا آخَرِينَ",
+        "en_sahih": "English translation of [23:31] in Sahih International style.",
+        "en_yusufali": "English translation of [23:31] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:31] en español.",
+        "fr_hamidullah": "Traduction de [23:31] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:32",
+      "surahNumber": 23,
+      "ayahNumber": 32,
+      "text": {
+        "simple": "فَأَرْسَلْنَا فِيهِمْ رَسُولًا مِنْهُمْ أَنِ اعْبُدُوا اللَّهَ مَا لَكُمْ مِنْ إِلَٰهٍ غَيْرُهُ ۖ أَفَلَا تَتَّقُونَ",
+        "en_sahih": "English translation of [23:32] in Sahih International style.",
+        "en_yusufali": "English translation of [23:32] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:32] en español.",
+        "fr_hamidullah": "Traduction de [23:32] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:33",
+      "surahNumber": 23,
+      "ayahNumber": 33,
+      "text": {
+        "simple": "وَقَالَ الْمَلَأُ مِنْ قَوْمِهِ الَّذِينَ كَفَرُوا وَكَذَّبُوا بِلِقَاءِ الْآخِرَةِ وَأَتْرَفْنَاهُمْ فِي الْحَيَاةِ الدُّنْيَا مَا هَٰذَا إِلَّا بَشَرٌ مِثْلُكُمْ يَأْكُلُ مِمَّا تَأْكُلُونَ مِنْهُ وَيَشْرَبُ مِمَّا تَشْرَبُونَ",
+        "en_sahih": "English translation of [23:33] in Sahih International style.",
+        "en_yusufali": "English translation of [23:33] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:33] en español.",
+        "fr_hamidullah": "Traduction de [23:33] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:34",
+      "surahNumber": 23,
+      "ayahNumber": 34,
+      "text": {
+        "simple": "وَلَئِنْ أَطَعْتُمْ بَشَرًا مِثْلَكُمْ إِنَّكُمْ إِذًا لَخَاسِرُونَ",
+        "en_sahih": "English translation of [23:34] in Sahih International style.",
+        "en_yusufali": "English translation of [23:34] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:34] en español.",
+        "fr_hamidullah": "Traduction de [23:34] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:35",
+      "surahNumber": 23,
+      "ayahNumber": 35,
+      "text": {
+        "simple": "أَيَعِدُكُمْ أَنَّكُمْ إِذَا مِتُّمْ وَكُنْتُمْ تُرَابًا وَعِظَامًا أَنَّكُمْ مُخْرَجُونَ",
+        "en_sahih": "English translation of [23:35] in Sahih International style.",
+        "en_yusufali": "English translation of [23:35] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:35] en español.",
+        "fr_hamidullah": "Traduction de [23:35] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:36",
+      "surahNumber": 23,
+      "ayahNumber": 36,
+      "text": {
+        "simple": "۞ هَيْهَاتَ هَيْهَاتَ لِمَا تُوعَدُونَ",
+        "en_sahih": "English translation of [23:36] in Sahih International style.",
+        "en_yusufali": "English translation of [23:36] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:36] en español.",
+        "fr_hamidullah": "Traduction de [23:36] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:37",
+      "surahNumber": 23,
+      "ayahNumber": 37,
+      "text": {
+        "simple": "إِنْ هِيَ إِلَّا حَيَاتُنَا الدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا نَحْنُ بِمَبْعُوثِينَ",
+        "en_sahih": "English translation of [23:37] in Sahih International style.",
+        "en_yusufali": "English translation of [23:37] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:37] en español.",
+        "fr_hamidullah": "Traduction de [23:37] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:38",
+      "surahNumber": 23,
+      "ayahNumber": 38,
+      "text": {
+        "simple": "إِنْ هُوَ إِلَّا رَجُلٌ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا وَمَا نَحْنُ لَهُ بِمُؤْمِنِينَ",
+        "en_sahih": "English translation of [23:38] in Sahih International style.",
+        "en_yusufali": "English translation of [23:38] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 38 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:38] en español.",
+        "fr_hamidullah": "Traduction de [23:38] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:39",
+      "surahNumber": 23,
+      "ayahNumber": 39,
+      "text": {
+        "simple": "قَالَ رَبِّ انْصُرْنِي بِمَا كَذَّبُونِ",
+        "en_sahih": "English translation of [23:39] in Sahih International style.",
+        "en_yusufali": "English translation of [23:39] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 39 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:39] en español.",
+        "fr_hamidullah": "Traduction de [23:39] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:40",
+      "surahNumber": 23,
+      "ayahNumber": 40,
+      "text": {
+        "simple": "قَالَ عَمَّا قَلِيلٍ لَيُصْبِحُنَّ نَادِمِينَ",
+        "en_sahih": "English translation of [23:40] in Sahih International style.",
+        "en_yusufali": "English translation of [23:40] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 40 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:40] en español.",
+        "fr_hamidullah": "Traduction de [23:40] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:41",
+      "surahNumber": 23,
+      "ayahNumber": 41,
+      "text": {
+        "simple": "فَأَخَذَتْهُمُ الصَّيْحَةُ بِالْحَقِّ فَجَعَلْنَاهُمْ غُثَاءً ۚ فَبُعْدًا لِلْقَوْمِ الظَّالِمِينَ",
+        "en_sahih": "English translation of [23:41] in Sahih International style.",
+        "en_yusufali": "English translation of [23:41] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 41 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:41] en español.",
+        "fr_hamidullah": "Traduction de [23:41] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:42",
+      "surahNumber": 23,
+      "ayahNumber": 42,
+      "text": {
+        "simple": "ثُمَّ أَنْشَأْنَا مِنْ بَعْدِهِمْ قُرُونًا آخَرِينَ",
+        "en_sahih": "English translation of [23:42] in Sahih International style.",
+        "en_yusufali": "English translation of [23:42] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 42 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:42] en español.",
+        "fr_hamidullah": "Traduction de [23:42] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:43",
+      "surahNumber": 23,
+      "ayahNumber": 43,
+      "text": {
+        "simple": "مَا تَسْبِقُ مِنْ أُمَّةٍ أَجَلَهَا وَمَا يَسْتَأْخِرُونَ",
+        "en_sahih": "English translation of [23:43] in Sahih International style.",
+        "en_yusufali": "English translation of [23:43] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 43 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:43] en español.",
+        "fr_hamidullah": "Traduction de [23:43] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:44",
+      "surahNumber": 23,
+      "ayahNumber": 44,
+      "text": {
+        "simple": "ثُمَّ أَرْسَلْنَا رُسُلَنَا تَتْرَىٰ ۖ كُلَّ مَا جَاءَ أُمَّةً رَسُولُهَا كَذَّبُوهُ ۚ فَأَتْبَعْنَا بَعْضَهُمْ بَعْضًا وَجَعَلْنَاهُمْ أَحَادِيثَ ۚ فَبُعْدًا لِقَوْمٍ لَا يُؤْمِنُونَ",
+        "en_sahih": "English translation of [23:44] in Sahih International style.",
+        "en_yusufali": "English translation of [23:44] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 44 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:44] en español.",
+        "fr_hamidullah": "Traduction de [23:44] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:45",
+      "surahNumber": 23,
+      "ayahNumber": 45,
+      "text": {
+        "simple": "ثُمَّ أَرْسَلْنَا مُوسَىٰ وَأَخَاهُ هَارُونَ بِآيَاتِنَا وَسُلْطَانٍ مُبِينٍ",
+        "en_sahih": "English translation of [23:45] in Sahih International style.",
+        "en_yusufali": "English translation of [23:45] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 45 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:45] en español.",
+        "fr_hamidullah": "Traduction de [23:45] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:46",
+      "surahNumber": 23,
+      "ayahNumber": 46,
+      "text": {
+        "simple": "إِلَىٰ فِرْعَوْنَ وَمَلَئِهِ فَاسْتَكْبَرُوا وَكَانُوا قَوْمًا عَالِينَ",
+        "en_sahih": "English translation of [23:46] in Sahih International style.",
+        "en_yusufali": "English translation of [23:46] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 46 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:46] en español.",
+        "fr_hamidullah": "Traduction de [23:46] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:47",
+      "surahNumber": 23,
+      "ayahNumber": 47,
+      "text": {
+        "simple": "فَقَالُوا أَنُؤْمِنُ لِبَشَرَيْنِ مِثْلِنَا وَقَوْمُهُمَا لَنَا عَابِدُونَ",
+        "en_sahih": "English translation of [23:47] in Sahih International style.",
+        "en_yusufali": "English translation of [23:47] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 47 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:47] en español.",
+        "fr_hamidullah": "Traduction de [23:47] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:48",
+      "surahNumber": 23,
+      "ayahNumber": 48,
+      "text": {
+        "simple": "فَكَذَّبُوهُمَا فَكَانُوا مِنَ الْمُهْلَكِينَ",
+        "en_sahih": "English translation of [23:48] in Sahih International style.",
+        "en_yusufali": "English translation of [23:48] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 48 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:48] en español.",
+        "fr_hamidullah": "Traduction de [23:48] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:49",
+      "surahNumber": 23,
+      "ayahNumber": 49,
+      "text": {
+        "simple": "وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ لَعَلَّهُمْ يَهْتَدُونَ",
+        "en_sahih": "English translation of [23:49] in Sahih International style.",
+        "en_yusufali": "English translation of [23:49] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 49 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:49] en español.",
+        "fr_hamidullah": "Traduction de [23:49] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:50",
+      "surahNumber": 23,
+      "ayahNumber": 50,
+      "text": {
+        "simple": "وَجَعَلْنَا ابْنَ مَرْيَمَ وَأُمَّهُ آيَةً وَآوَيْنَاهُمَا إِلَىٰ رَبْوَةٍ ذَاتِ قَرَارٍ وَمَعِينٍ",
+        "en_sahih": "English translation of [23:50] in Sahih International style.",
+        "en_yusufali": "English translation of [23:50] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 50 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:50] en español.",
+        "fr_hamidullah": "Traduction de [23:50] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:51",
+      "surahNumber": 23,
+      "ayahNumber": 51,
+      "text": {
+        "simple": "يَا أَيُّهَا الرُّسُلُ كُلُوا مِنَ الطَّيِّبَاتِ وَاعْمَلُوا صَالِحًا ۖ إِنِّي بِمَا تَعْمَلُونَ عَلِيمٌ",
+        "en_sahih": "English translation of [23:51] in Sahih International style.",
+        "en_yusufali": "English translation of [23:51] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 51 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:51] en español.",
+        "fr_hamidullah": "Traduction de [23:51] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:52",
+      "surahNumber": 23,
+      "ayahNumber": 52,
+      "text": {
+        "simple": "وَإِنَّ هَٰذِهِ أُمَّتُكُمْ أُمَّةً وَاحِدَةً وَأَنَا رَبُّكُمْ فَاتَّقُونِ",
+        "en_sahih": "English translation of [23:52] in Sahih International style.",
+        "en_yusufali": "English translation of [23:52] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 52 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:52] en español.",
+        "fr_hamidullah": "Traduction de [23:52] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:53",
+      "surahNumber": 23,
+      "ayahNumber": 53,
+      "text": {
+        "simple": "فَتَقَطَّعُوا أَمْرَهُمْ بَيْنَهُمْ زُبُرًا ۖ كُلُّ حِزْبٍ بِمَا لَدَيْهِمْ فَرِحُونَ",
+        "en_sahih": "English translation of [23:53] in Sahih International style.",
+        "en_yusufali": "English translation of [23:53] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 53 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:53] en español.",
+        "fr_hamidullah": "Traduction de [23:53] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 53 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:54",
+      "surahNumber": 23,
+      "ayahNumber": 54,
+      "text": {
+        "simple": "فَذَرْهُمْ فِي غَمْرَتِهِمْ حَتَّىٰ حِينٍ",
+        "en_sahih": "English translation of [23:54] in Sahih International style.",
+        "en_yusufali": "English translation of [23:54] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 54 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:54] en español.",
+        "fr_hamidullah": "Traduction de [23:54] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 54 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:55",
+      "surahNumber": 23,
+      "ayahNumber": 55,
+      "text": {
+        "simple": "أَيَحْسَبُونَ أَنَّمَا نُمِدُّهُمْ بِهِ مِنْ مَالٍ وَبَنِينَ",
+        "en_sahih": "English translation of [23:55] in Sahih International style.",
+        "en_yusufali": "English translation of [23:55] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 55 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:55] en español.",
+        "fr_hamidullah": "Traduction de [23:55] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 55 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:56",
+      "surahNumber": 23,
+      "ayahNumber": 56,
+      "text": {
+        "simple": "نُسَارِعُ لَهُمْ فِي الْخَيْرَاتِ ۚ بَلْ لَا يَشْعُرُونَ",
+        "en_sahih": "English translation of [23:56] in Sahih International style.",
+        "en_yusufali": "English translation of [23:56] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 56 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:56] en español.",
+        "fr_hamidullah": "Traduction de [23:56] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 56 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:57",
+      "surahNumber": 23,
+      "ayahNumber": 57,
+      "text": {
+        "simple": "إِنَّ الَّذِينَ هُمْ مِنْ خَشْيَةِ رَبِّهِمْ مُشْفِقُونَ",
+        "en_sahih": "English translation of [23:57] in Sahih International style.",
+        "en_yusufali": "English translation of [23:57] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 57 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:57] en español.",
+        "fr_hamidullah": "Traduction de [23:57] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 57 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:58",
+      "surahNumber": 23,
+      "ayahNumber": 58,
+      "text": {
+        "simple": "وَالَّذِينَ هُمْ بِآيَاتِ رَبِّهِمْ يُؤْمِنُونَ",
+        "en_sahih": "English translation of [23:58] in Sahih International style.",
+        "en_yusufali": "English translation of [23:58] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 58 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:58] en español.",
+        "fr_hamidullah": "Traduction de [23:58] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 58 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:59",
+      "surahNumber": 23,
+      "ayahNumber": 59,
+      "text": {
+        "simple": "وَالَّذِينَ هُمْ بِرَبِّهِمْ لَا يُشْرِكُونَ",
+        "en_sahih": "English translation of [23:59] in Sahih International style.",
+        "en_yusufali": "English translation of [23:59] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 59 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:59] en español.",
+        "fr_hamidullah": "Traduction de [23:59] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 59 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:60",
+      "surahNumber": 23,
+      "ayahNumber": 60,
+      "text": {
+        "simple": "وَالَّذِينَ يُؤْتُونَ مَا آتَوْا وَقُلُوبُهُمْ وَجِلَةٌ أَنَّهُمْ إِلَىٰ رَبِّهِمْ رَاجِعُونَ",
+        "en_sahih": "English translation of [23:60] in Sahih International style.",
+        "en_yusufali": "English translation of [23:60] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 60 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:60] en español.",
+        "fr_hamidullah": "Traduction de [23:60] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 60 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:61",
+      "surahNumber": 23,
+      "ayahNumber": 61,
+      "text": {
+        "simple": "أُولَٰئِكَ يُسَارِعُونَ فِي الْخَيْرَاتِ وَهُمْ لَهَا سَابِقُونَ",
+        "en_sahih": "English translation of [23:61] in Sahih International style.",
+        "en_yusufali": "English translation of [23:61] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 61 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:61] en español.",
+        "fr_hamidullah": "Traduction de [23:61] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 61 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:62",
+      "surahNumber": 23,
+      "ayahNumber": 62,
+      "text": {
+        "simple": "وَلَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا ۖ وَلَدَيْنَا كِتَابٌ يَنْطِقُ بِالْحَقِّ ۚ وَهُمْ لَا يُظْلَمُونَ",
+        "en_sahih": "English translation of [23:62] in Sahih International style.",
+        "en_yusufali": "English translation of [23:62] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 62 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:62] en español.",
+        "fr_hamidullah": "Traduction de [23:62] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 62 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:63",
+      "surahNumber": 23,
+      "ayahNumber": 63,
+      "text": {
+        "simple": "بَلْ قُلُوبُهُمْ فِي غَمْرَةٍ مِنْ هَٰذَا وَلَهُمْ أَعْمَالٌ مِنْ دُونِ ذَٰلِكَ هُمْ لَهَا عَامِلُونَ",
+        "en_sahih": "English translation of [23:63] in Sahih International style.",
+        "en_yusufali": "English translation of [23:63] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 63 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:63] en español.",
+        "fr_hamidullah": "Traduction de [23:63] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 63 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:64",
+      "surahNumber": 23,
+      "ayahNumber": 64,
+      "text": {
+        "simple": "حَتَّىٰ إِذَا أَخَذْنَا مُتْرَفِيهِمْ بِالْعَذَابِ إِذَا هُمْ يَجْأَرُونَ",
+        "en_sahih": "English translation of [23:64] in Sahih International style.",
+        "en_yusufali": "English translation of [23:64] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 64 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:64] en español.",
+        "fr_hamidullah": "Traduction de [23:64] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 64 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:65",
+      "surahNumber": 23,
+      "ayahNumber": 65,
+      "text": {
+        "simple": "لَا تَجْأَرُوا الْيَوْمَ ۖ إِنَّكُمْ مِنَّا لَا تُنْصَرُونَ",
+        "en_sahih": "English translation of [23:65] in Sahih International style.",
+        "en_yusufali": "English translation of [23:65] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 65 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:65] en español.",
+        "fr_hamidullah": "Traduction de [23:65] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 65 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:66",
+      "surahNumber": 23,
+      "ayahNumber": 66,
+      "text": {
+        "simple": "قَدْ كَانَتْ آيَاتِي تُتْلَىٰ عَلَيْكُمْ فَكُنْتُمْ عَلَىٰ أَعْقَابِكُمْ تَنْكِصُونَ",
+        "en_sahih": "English translation of [23:66] in Sahih International style.",
+        "en_yusufali": "English translation of [23:66] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 66 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:66] en español.",
+        "fr_hamidullah": "Traduction de [23:66] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 66 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:67",
+      "surahNumber": 23,
+      "ayahNumber": 67,
+      "text": {
+        "simple": "مُسْتَكْبِرِينَ بِهِ سَامِرًا تَهْجُرُونَ",
+        "en_sahih": "English translation of [23:67] in Sahih International style.",
+        "en_yusufali": "English translation of [23:67] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 67 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:67] en español.",
+        "fr_hamidullah": "Traduction de [23:67] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 67 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:68",
+      "surahNumber": 23,
+      "ayahNumber": 68,
+      "text": {
+        "simple": "أَفَلَمْ يَدَّبَّرُوا الْقَوْلَ أَمْ جَاءَهُمْ مَا لَمْ يَأْتِ آبَاءَهُمُ الْأَوَّلِينَ",
+        "en_sahih": "English translation of [23:68] in Sahih International style.",
+        "en_yusufali": "English translation of [23:68] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 68 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:68] en español.",
+        "fr_hamidullah": "Traduction de [23:68] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 68 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:69",
+      "surahNumber": 23,
+      "ayahNumber": 69,
+      "text": {
+        "simple": "أَمْ لَمْ يَعْرِفُوا رَسُولَهُمْ فَهُمْ لَهُ مُنْكِرُونَ",
+        "en_sahih": "English translation of [23:69] in Sahih International style.",
+        "en_yusufali": "English translation of [23:69] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 69 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:69] en español.",
+        "fr_hamidullah": "Traduction de [23:69] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 69 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:70",
+      "surahNumber": 23,
+      "ayahNumber": 70,
+      "text": {
+        "simple": "أَمْ يَقُولُونَ بِهِ جِنَّةٌ ۚ بَلْ جَاءَهُمْ بِالْحَقِّ وَأَكْثَرُهُمْ لِلْحَقِّ كَارِهُونَ",
+        "en_sahih": "English translation of [23:70] in Sahih International style.",
+        "en_yusufali": "English translation of [23:70] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 70 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:70] en español.",
+        "fr_hamidullah": "Traduction de [23:70] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 70 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:71",
+      "surahNumber": 23,
+      "ayahNumber": 71,
+      "text": {
+        "simple": "وَلَوِ اتَّبَعَ الْحَقُّ أَهْوَاءَهُمْ لَفَسَدَتِ السَّمَاوَاتُ وَالْأَرْضُ وَمَنْ فِيهِنَّ ۚ بَلْ أَتَيْنَاهُمْ بِذِكْرِهِمْ فَهُمْ عَنْ ذِكْرِهِمْ مُعْرِضُونَ",
+        "en_sahih": "English translation of [23:71] in Sahih International style.",
+        "en_yusufali": "English translation of [23:71] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 71 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:71] en español.",
+        "fr_hamidullah": "Traduction de [23:71] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 71 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:72",
+      "surahNumber": 23,
+      "ayahNumber": 72,
+      "text": {
+        "simple": "أَمْ تَسْأَلُهُمْ خَرْجًا فَخَرَاجُ رَبِّكَ خَيْرٌ ۖ وَهُوَ خَيْرُ الرَّازِقِينَ",
+        "en_sahih": "English translation of [23:72] in Sahih International style.",
+        "en_yusufali": "English translation of [23:72] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 72 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:72] en español.",
+        "fr_hamidullah": "Traduction de [23:72] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 72 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:73",
+      "surahNumber": 23,
+      "ayahNumber": 73,
+      "text": {
+        "simple": "وَإِنَّكَ لَتَدْعُوهُمْ إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+        "en_sahih": "English translation of [23:73] in Sahih International style.",
+        "en_yusufali": "English translation of [23:73] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 73 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:73] en español.",
+        "fr_hamidullah": "Traduction de [23:73] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 73 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:74",
+      "surahNumber": 23,
+      "ayahNumber": 74,
+      "text": {
+        "simple": "وَإِنَّ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ عَنِ الصِّرَاطِ لَنَاكِبُونَ",
+        "en_sahih": "English translation of [23:74] in Sahih International style.",
+        "en_yusufali": "English translation of [23:74] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 74 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:74] en español.",
+        "fr_hamidullah": "Traduction de [23:74] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 74 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:75",
+      "surahNumber": 23,
+      "ayahNumber": 75,
+      "text": {
+        "simple": "۞ وَلَوْ رَحِمْنَاهُمْ وَكَشَفْنَا مَا بِهِمْ مِنْ ضُرٍّ لَلَجُّوا فِي طُغْيَانِهِمْ يَعْمَهُونَ",
+        "en_sahih": "English translation of [23:75] in Sahih International style.",
+        "en_yusufali": "English translation of [23:75] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 75 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:75] en español.",
+        "fr_hamidullah": "Traduction de [23:75] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 75 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:76",
+      "surahNumber": 23,
+      "ayahNumber": 76,
+      "text": {
+        "simple": "وَلَقَدْ أَخَذْنَاهُمْ بِالْعَذَابِ فَمَا اسْتَكَانُوا لِرَبِّهِمْ وَمَا يَتَضَرَّعُونَ",
+        "en_sahih": "English translation of [23:76] in Sahih International style.",
+        "en_yusufali": "English translation of [23:76] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 76 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:76] en español.",
+        "fr_hamidullah": "Traduction de [23:76] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 76 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:77",
+      "surahNumber": 23,
+      "ayahNumber": 77,
+      "text": {
+        "simple": "حَتَّىٰ إِذَا فَتَحْنَا عَلَيْهِمْ بَابًا ذَا عَذَابٍ شَدِيدٍ إِذَا هُمْ فِيهِ مُبْلِسُونَ",
+        "en_sahih": "English translation of [23:77] in Sahih International style.",
+        "en_yusufali": "English translation of [23:77] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 77 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:77] en español.",
+        "fr_hamidullah": "Traduction de [23:77] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 77 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:78",
+      "surahNumber": 23,
+      "ayahNumber": 78,
+      "text": {
+        "simple": "وَهُوَ الَّذِي أَنْشَأَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ ۚ قَلِيلًا مَا تَشْكُرُونَ",
+        "en_sahih": "English translation of [23:78] in Sahih International style.",
+        "en_yusufali": "English translation of [23:78] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 78 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:78] en español.",
+        "fr_hamidullah": "Traduction de [23:78] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 78 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:79",
+      "surahNumber": 23,
+      "ayahNumber": 79,
+      "text": {
+        "simple": "وَهُوَ الَّذِي ذَرَأَكُمْ فِي الْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ",
+        "en_sahih": "English translation of [23:79] in Sahih International style.",
+        "en_yusufali": "English translation of [23:79] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 79 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:79] en español.",
+        "fr_hamidullah": "Traduction de [23:79] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 79 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:80",
+      "surahNumber": 23,
+      "ayahNumber": 80,
+      "text": {
+        "simple": "وَهُوَ الَّذِي يُحْيِي وَيُمِيتُ وَلَهُ اخْتِلَافُ اللَّيْلِ وَالنَّهَارِ ۚ أَفَلَا تَعْقِلُونَ",
+        "en_sahih": "English translation of [23:80] in Sahih International style.",
+        "en_yusufali": "English translation of [23:80] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 80 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:80] en español.",
+        "fr_hamidullah": "Traduction de [23:80] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 80 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:81",
+      "surahNumber": 23,
+      "ayahNumber": 81,
+      "text": {
+        "simple": "بَلْ قَالُوا مِثْلَ مَا قَالَ الْأَوَّلُونَ",
+        "en_sahih": "English translation of [23:81] in Sahih International style.",
+        "en_yusufali": "English translation of [23:81] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 81 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:81] en español.",
+        "fr_hamidullah": "Traduction de [23:81] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 81 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:82",
+      "surahNumber": 23,
+      "ayahNumber": 82,
+      "text": {
+        "simple": "قَالُوا أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَبْعُوثُونَ",
+        "en_sahih": "English translation of [23:82] in Sahih International style.",
+        "en_yusufali": "English translation of [23:82] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 82 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:82] en español.",
+        "fr_hamidullah": "Traduction de [23:82] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 82 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:83",
+      "surahNumber": 23,
+      "ayahNumber": 83,
+      "text": {
+        "simple": "لَقَدْ وُعِدْنَا نَحْنُ وَآبَاؤُنَا هَٰذَا مِنْ قَبْلُ إِنْ هَٰذَا إِلَّا أَسَاطِيرُ الْأَوَّلِينَ",
+        "en_sahih": "English translation of [23:83] in Sahih International style.",
+        "en_yusufali": "English translation of [23:83] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 83 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:83] en español.",
+        "fr_hamidullah": "Traduction de [23:83] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 83 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:84",
+      "surahNumber": 23,
+      "ayahNumber": 84,
+      "text": {
+        "simple": "قُلْ لِمَنِ الْأَرْضُ وَمَنْ فِيهَا إِنْ كُنْتُمْ تَعْلَمُونَ",
+        "en_sahih": "English translation of [23:84] in Sahih International style.",
+        "en_yusufali": "English translation of [23:84] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 84 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:84] en español.",
+        "fr_hamidullah": "Traduction de [23:84] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 84 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:85",
+      "surahNumber": 23,
+      "ayahNumber": 85,
+      "text": {
+        "simple": "سَيَقُولُونَ لِلَّهِ ۚ قُلْ أَفَلَا تَذَكَّرُونَ",
+        "en_sahih": "English translation of [23:85] in Sahih International style.",
+        "en_yusufali": "English translation of [23:85] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 85 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:85] en español.",
+        "fr_hamidullah": "Traduction de [23:85] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 85 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:86",
+      "surahNumber": 23,
+      "ayahNumber": 86,
+      "text": {
+        "simple": "قُلْ مَنْ رَبُّ السَّمَاوَاتِ السَّبْعِ وَرَبُّ الْعَرْشِ الْعَظِيمِ",
+        "en_sahih": "English translation of [23:86] in Sahih International style.",
+        "en_yusufali": "English translation of [23:86] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 86 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:86] en español.",
+        "fr_hamidullah": "Traduction de [23:86] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 86 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:87",
+      "surahNumber": 23,
+      "ayahNumber": 87,
+      "text": {
+        "simple": "سَيَقُولُونَ لِلَّهِ ۚ قُلْ أَفَلَا تَتَّقُونَ",
+        "en_sahih": "English translation of [23:87] in Sahih International style.",
+        "en_yusufali": "English translation of [23:87] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 87 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:87] en español.",
+        "fr_hamidullah": "Traduction de [23:87] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 87 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:88",
+      "surahNumber": 23,
+      "ayahNumber": 88,
+      "text": {
+        "simple": "قُلْ مَنْ بِيَدِهِ مَلَكُوتُ كُلِّ شَيْءٍ وَهُوَ يُجِيرُ وَلَا يُجَارُ عَلَيْهِ إِنْ كُنْتُمْ تَعْلَمُونَ",
+        "en_sahih": "English translation of [23:88] in Sahih International style.",
+        "en_yusufali": "English translation of [23:88] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 88 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:88] en español.",
+        "fr_hamidullah": "Traduction de [23:88] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 88 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:89",
+      "surahNumber": 23,
+      "ayahNumber": 89,
+      "text": {
+        "simple": "سَيَقُولُونَ لِلَّهِ ۚ قُلْ فَأَنَّىٰ تُسْحَرُونَ",
+        "en_sahih": "English translation of [23:89] in Sahih International style.",
+        "en_yusufali": "English translation of [23:89] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 89 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:89] en español.",
+        "fr_hamidullah": "Traduction de [23:89] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 89 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:90",
+      "surahNumber": 23,
+      "ayahNumber": 90,
+      "text": {
+        "simple": "بَلْ أَتَيْنَاهُمْ بِالْحَقِّ وَإِنَّهُمْ لَكَاذِبُونَ",
+        "en_sahih": "English translation of [23:90] in Sahih International style.",
+        "en_yusufali": "English translation of [23:90] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 90 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:90] en español.",
+        "fr_hamidullah": "Traduction de [23:90] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 90 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:91",
+      "surahNumber": 23,
+      "ayahNumber": 91,
+      "text": {
+        "simple": "مَا اتَّخَذَ اللَّهُ مِنْ وَلَدٍ وَمَا كَانَ مَعَهُ مِنْ إِلَٰهٍ ۚ إِذًا لَذَهَبَ كُلُّ إِلَٰهٍ بِمَا خَلَقَ وَلَعَلَا بَعْضُهُمْ عَلَىٰ بَعْضٍ ۚ سُبْحَانَ اللَّهِ عَمَّا يَصِفُونَ",
+        "en_sahih": "English translation of [23:91] in Sahih International style.",
+        "en_yusufali": "English translation of [23:91] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 91 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:91] en español.",
+        "fr_hamidullah": "Traduction de [23:91] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 91 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:92",
+      "surahNumber": 23,
+      "ayahNumber": 92,
+      "text": {
+        "simple": "عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَتَعَالَىٰ عَمَّا يُشْرِكُونَ",
+        "en_sahih": "English translation of [23:92] in Sahih International style.",
+        "en_yusufali": "English translation of [23:92] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 92 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:92] en español.",
+        "fr_hamidullah": "Traduction de [23:92] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 92 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:93",
+      "surahNumber": 23,
+      "ayahNumber": 93,
+      "text": {
+        "simple": "قُلْ رَبِّ إِمَّا تُرِيَنِّي مَا يُوعَدُونَ",
+        "en_sahih": "English translation of [23:93] in Sahih International style.",
+        "en_yusufali": "English translation of [23:93] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 93 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:93] en español.",
+        "fr_hamidullah": "Traduction de [23:93] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 93 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:94",
+      "surahNumber": 23,
+      "ayahNumber": 94,
+      "text": {
+        "simple": "رَبِّ فَلَا تَجْعَلْنِي فِي الْقَوْمِ الظَّالِمِينَ",
+        "en_sahih": "English translation of [23:94] in Sahih International style.",
+        "en_yusufali": "English translation of [23:94] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 94 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:94] en español.",
+        "fr_hamidullah": "Traduction de [23:94] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 94 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:95",
+      "surahNumber": 23,
+      "ayahNumber": 95,
+      "text": {
+        "simple": "وَإِنَّا عَلَىٰ أَنْ نُرِيَكَ مَا نَعِدُهُمْ لَقَادِرُونَ",
+        "en_sahih": "English translation of [23:95] in Sahih International style.",
+        "en_yusufali": "English translation of [23:95] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 95 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:95] en español.",
+        "fr_hamidullah": "Traduction de [23:95] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 95 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:96",
+      "surahNumber": 23,
+      "ayahNumber": 96,
+      "text": {
+        "simple": "ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ السَّيِّئَةَ ۚ نَحْنُ أَعْلَمُ بِمَا يَصِفُونَ",
+        "en_sahih": "English translation of [23:96] in Sahih International style.",
+        "en_yusufali": "English translation of [23:96] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 96 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:96] en español.",
+        "fr_hamidullah": "Traduction de [23:96] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 96 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:97",
+      "surahNumber": 23,
+      "ayahNumber": 97,
+      "text": {
+        "simple": "وَقُلْ رَبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ",
+        "en_sahih": "English translation of [23:97] in Sahih International style.",
+        "en_yusufali": "English translation of [23:97] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 97 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:97] en español.",
+        "fr_hamidullah": "Traduction de [23:97] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 97 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:98",
+      "surahNumber": 23,
+      "ayahNumber": 98,
+      "text": {
+        "simple": "وَأَعُوذُ بِكَ رَبِّ أَنْ يَحْضُرُونِ",
+        "en_sahih": "English translation of [23:98] in Sahih International style.",
+        "en_yusufali": "English translation of [23:98] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 98 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:98] en español.",
+        "fr_hamidullah": "Traduction de [23:98] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 98 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:99",
+      "surahNumber": 23,
+      "ayahNumber": 99,
+      "text": {
+        "simple": "حَتَّىٰ إِذَا جَاءَ أَحَدَهُمُ الْمَوْتُ قَالَ رَبِّ ارْجِعُونِ",
+        "en_sahih": "English translation of [23:99] in Sahih International style.",
+        "en_yusufali": "English translation of [23:99] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 99 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:99] en español.",
+        "fr_hamidullah": "Traduction de [23:99] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 99 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:100",
+      "surahNumber": 23,
+      "ayahNumber": 100,
+      "text": {
+        "simple": "لَعَلِّي أَعْمَلُ صَالِحًا فِيمَا تَرَكْتُ ۚ كَلَّا ۚ إِنَّهَا كَلِمَةٌ هُوَ قَائِلُهَا ۖ وَمِنْ وَرَائِهِمْ بَرْزَخٌ إِلَىٰ يَوْمِ يُبْعَثُونَ",
+        "en_sahih": "English translation of [23:100] in Sahih International style.",
+        "en_yusufali": "English translation of [23:100] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 100 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:100] en español.",
+        "fr_hamidullah": "Traduction de [23:100] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 100 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:101",
+      "surahNumber": 23,
+      "ayahNumber": 101,
+      "text": {
+        "simple": "فَإِذَا نُفِخَ فِي الصُّورِ فَلَا أَنْسَابَ بَيْنَهُمْ يَوْمَئِذٍ وَلَا يَتَسَاءَلُونَ",
+        "en_sahih": "English translation of [23:101] in Sahih International style.",
+        "en_yusufali": "English translation of [23:101] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 101 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:101] en español.",
+        "fr_hamidullah": "Traduction de [23:101] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 101 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:102",
+      "surahNumber": 23,
+      "ayahNumber": 102,
+      "text": {
+        "simple": "فَمَنْ ثَقُلَتْ مَوَازِينُهُ فَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+        "en_sahih": "English translation of [23:102] in Sahih International style.",
+        "en_yusufali": "English translation of [23:102] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 102 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:102] en español.",
+        "fr_hamidullah": "Traduction de [23:102] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 102 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:103",
+      "surahNumber": 23,
+      "ayahNumber": 103,
+      "text": {
+        "simple": "وَمَنْ خَفَّتْ مَوَازِينُهُ فَأُولَٰئِكَ الَّذِينَ خَسِرُوا أَنْفُسَهُمْ فِي جَهَنَّمَ خَالِدُونَ",
+        "en_sahih": "English translation of [23:103] in Sahih International style.",
+        "en_yusufali": "English translation of [23:103] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 103 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:103] en español.",
+        "fr_hamidullah": "Traduction de [23:103] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 103 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:104",
+      "surahNumber": 23,
+      "ayahNumber": 104,
+      "text": {
+        "simple": "تَلْفَحُ وُجُوهَهُمُ النَّارُ وَهُمْ فِيهَا كَالِحُونَ",
+        "en_sahih": "English translation of [23:104] in Sahih International style.",
+        "en_yusufali": "English translation of [23:104] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 104 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:104] en español.",
+        "fr_hamidullah": "Traduction de [23:104] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 104 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:105",
+      "surahNumber": 23,
+      "ayahNumber": 105,
+      "text": {
+        "simple": "أَلَمْ تَكُنْ آيَاتِي تُتْلَىٰ عَلَيْكُمْ فَكُنْتُمْ بِهَا تُكَذِّبُونَ",
+        "en_sahih": "English translation of [23:105] in Sahih International style.",
+        "en_yusufali": "English translation of [23:105] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 105 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:105] en español.",
+        "fr_hamidullah": "Traduction de [23:105] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 105 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:106",
+      "surahNumber": 23,
+      "ayahNumber": 106,
+      "text": {
+        "simple": "قَالُوا رَبَّنَا غَلَبَتْ عَلَيْنَا شِقْوَتُنَا وَكُنَّا قَوْمًا ضَالِّينَ",
+        "en_sahih": "English translation of [23:106] in Sahih International style.",
+        "en_yusufali": "English translation of [23:106] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 106 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:106] en español.",
+        "fr_hamidullah": "Traduction de [23:106] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 106 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:107",
+      "surahNumber": 23,
+      "ayahNumber": 107,
+      "text": {
+        "simple": "رَبَّنَا أَخْرِجْنَا مِنْهَا فَإِنْ عُدْنَا فَإِنَّا ظَالِمُونَ",
+        "en_sahih": "English translation of [23:107] in Sahih International style.",
+        "en_yusufali": "English translation of [23:107] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 107 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:107] en español.",
+        "fr_hamidullah": "Traduction de [23:107] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 107 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:108",
+      "surahNumber": 23,
+      "ayahNumber": 108,
+      "text": {
+        "simple": "قَالَ اخْسَئُوا فِيهَا وَلَا تُكَلِّمُونِ",
+        "en_sahih": "English translation of [23:108] in Sahih International style.",
+        "en_yusufali": "English translation of [23:108] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 108 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:108] en español.",
+        "fr_hamidullah": "Traduction de [23:108] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 108 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:109",
+      "surahNumber": 23,
+      "ayahNumber": 109,
+      "text": {
+        "simple": "إِنَّهُ كَانَ فَرِيقٌ مِنْ عِبَادِي يَقُولُونَ رَبَّنَا آمَنَّا فَاغْفِرْ لَنَا وَارْحَمْنَا وَأَنْتَ خَيْرُ الرَّاحِمِينَ",
+        "en_sahih": "English translation of [23:109] in Sahih International style.",
+        "en_yusufali": "English translation of [23:109] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 109 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:109] en español.",
+        "fr_hamidullah": "Traduction de [23:109] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 109 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:110",
+      "surahNumber": 23,
+      "ayahNumber": 110,
+      "text": {
+        "simple": "فَاتَّخَذْتُمُوهُمْ سِخْرِيًّا حَتَّىٰ أَنْسَوْكُمْ ذِكْرِي وَكُنْتُمْ مِنْهُمْ تَضْحَكُونَ",
+        "en_sahih": "English translation of [23:110] in Sahih International style.",
+        "en_yusufali": "English translation of [23:110] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 110 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:110] en español.",
+        "fr_hamidullah": "Traduction de [23:110] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 110 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:111",
+      "surahNumber": 23,
+      "ayahNumber": 111,
+      "text": {
+        "simple": "إِنِّي جَزَيْتُهُمُ الْيَوْمَ بِمَا صَبَرُوا أَنَّهُمْ هُمُ الْفَائِزُونَ",
+        "en_sahih": "English translation of [23:111] in Sahih International style.",
+        "en_yusufali": "English translation of [23:111] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 111 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:111] en español.",
+        "fr_hamidullah": "Traduction de [23:111] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 111 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:112",
+      "surahNumber": 23,
+      "ayahNumber": 112,
+      "text": {
+        "simple": "قَالَ كَمْ لَبِثْتُمْ فِي الْأَرْضِ عَدَدَ سِنِينَ",
+        "en_sahih": "English translation of [23:112] in Sahih International style.",
+        "en_yusufali": "English translation of [23:112] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 112 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:112] en español.",
+        "fr_hamidullah": "Traduction de [23:112] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 112 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:113",
+      "surahNumber": 23,
+      "ayahNumber": 113,
+      "text": {
+        "simple": "قَالُوا لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍ فَاسْأَلِ الْعَادِّينَ",
+        "en_sahih": "English translation of [23:113] in Sahih International style.",
+        "en_yusufali": "English translation of [23:113] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 113 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:113] en español.",
+        "fr_hamidullah": "Traduction de [23:113] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 113 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:114",
+      "surahNumber": 23,
+      "ayahNumber": 114,
+      "text": {
+        "simple": "قَالَ إِنْ لَبِثْتُمْ إِلَّا قَلِيلًا ۖ لَوْ أَنَّكُمْ كُنْتُمْ تَعْلَمُونَ",
+        "en_sahih": "English translation of [23:114] in Sahih International style.",
+        "en_yusufali": "English translation of [23:114] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 114 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:114] en español.",
+        "fr_hamidullah": "Traduction de [23:114] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 114 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:115",
+      "surahNumber": 23,
+      "ayahNumber": 115,
+      "text": {
+        "simple": "أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَاكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا لَا تُرْجَعُونَ",
+        "en_sahih": "English translation of [23:115] in Sahih International style.",
+        "en_yusufali": "English translation of [23:115] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 115 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:115] en español.",
+        "fr_hamidullah": "Traduction de [23:115] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 115 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:116",
+      "surahNumber": 23,
+      "ayahNumber": 116,
+      "text": {
+        "simple": "فَتَعَالَى اللَّهُ الْمَلِكُ الْحَقُّ ۖ لَا إِلَٰهَ إِلَّا هُوَ رَبُّ الْعَرْشِ الْكَرِيمِ",
+        "en_sahih": "English translation of [23:116] in Sahih International style.",
+        "en_yusufali": "English translation of [23:116] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 116 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:116] en español.",
+        "fr_hamidullah": "Traduction de [23:116] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 116 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:117",
+      "surahNumber": 23,
+      "ayahNumber": 117,
+      "text": {
+        "simple": "وَمَنْ يَدْعُ مَعَ اللَّهِ إِلَٰهًا آخَرَ لَا بُرْهَانَ لَهُ بِهِ فَإِنَّمَا حِسَابُهُ عِنْدَ رَبِّهِ ۚ إِنَّهُ لَا يُفْلِحُ الْكَافِرُونَ",
+        "en_sahih": "English translation of [23:117] in Sahih International style.",
+        "en_yusufali": "English translation of [23:117] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 117 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:117] en español.",
+        "fr_hamidullah": "Traduction de [23:117] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 117 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "23:118",
+      "surahNumber": 23,
+      "ayahNumber": 118,
+      "text": {
+        "simple": "وَقُلْ رَبِّ اغْفِرْ وَارْحَمْ وَأَنْتَ خَيْرُ الرَّاحِمِينَ",
+        "en_sahih": "English translation of [23:118] in Sahih International style.",
+        "en_yusufali": "English translation of [23:118] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 23 آیت 118 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [23:118] en español.",
+        "fr_hamidullah": "Traduction de [23:118] en français.",
+        "bn_hoque": "সূরা 23 আয়াত 118 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

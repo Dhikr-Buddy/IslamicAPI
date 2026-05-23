@@ -1,0 +1,883 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.990Z",
+  "surahNumber": 53,
+  "ayahCount": 62,
+  "ayahs": [
+    {
+      "id": "53:1",
+      "surahNumber": 53,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَالنَّجْمِ إِذَا هَوَىٰ",
+        "en_sahih": "English translation of [53:1] in Sahih International style.",
+        "en_yusufali": "English translation of [53:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:1] en español.",
+        "fr_hamidullah": "Traduction de [53:1] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:2",
+      "surahNumber": 53,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَىٰ",
+        "en_sahih": "English translation of [53:2] in Sahih International style.",
+        "en_yusufali": "English translation of [53:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:2] en español.",
+        "fr_hamidullah": "Traduction de [53:2] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:3",
+      "surahNumber": 53,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "وَمَا يَنْطِقُ عَنِ الْهَوَىٰ",
+        "en_sahih": "English translation of [53:3] in Sahih International style.",
+        "en_yusufali": "English translation of [53:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:3] en español.",
+        "fr_hamidullah": "Traduction de [53:3] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:4",
+      "surahNumber": 53,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "إِنْ هُوَ إِلَّا وَحْيٌ يُوحَىٰ",
+        "en_sahih": "English translation of [53:4] in Sahih International style.",
+        "en_yusufali": "English translation of [53:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:4] en español.",
+        "fr_hamidullah": "Traduction de [53:4] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:5",
+      "surahNumber": 53,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "عَلَّمَهُ شَدِيدُ الْقُوَىٰ",
+        "en_sahih": "English translation of [53:5] in Sahih International style.",
+        "en_yusufali": "English translation of [53:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:5] en español.",
+        "fr_hamidullah": "Traduction de [53:5] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:6",
+      "surahNumber": 53,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "ذُو مِرَّةٍ فَاسْتَوَىٰ",
+        "en_sahih": "English translation of [53:6] in Sahih International style.",
+        "en_yusufali": "English translation of [53:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:6] en español.",
+        "fr_hamidullah": "Traduction de [53:6] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:7",
+      "surahNumber": 53,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "وَهُوَ بِالْأُفُقِ الْأَعْلَىٰ",
+        "en_sahih": "English translation of [53:7] in Sahih International style.",
+        "en_yusufali": "English translation of [53:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:7] en español.",
+        "fr_hamidullah": "Traduction de [53:7] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:8",
+      "surahNumber": 53,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "ثُمَّ دَنَا فَتَدَلَّىٰ",
+        "en_sahih": "English translation of [53:8] in Sahih International style.",
+        "en_yusufali": "English translation of [53:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:8] en español.",
+        "fr_hamidullah": "Traduction de [53:8] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:9",
+      "surahNumber": 53,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنَىٰ",
+        "en_sahih": "English translation of [53:9] in Sahih International style.",
+        "en_yusufali": "English translation of [53:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:9] en español.",
+        "fr_hamidullah": "Traduction de [53:9] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:10",
+      "surahNumber": 53,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "فَأَوْحَىٰ إِلَىٰ عَبْدِهِ مَا أَوْحَىٰ",
+        "en_sahih": "English translation of [53:10] in Sahih International style.",
+        "en_yusufali": "English translation of [53:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:10] en español.",
+        "fr_hamidullah": "Traduction de [53:10] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:11",
+      "surahNumber": 53,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "مَا كَذَبَ الْفُؤَادُ مَا رَأَىٰ",
+        "en_sahih": "English translation of [53:11] in Sahih International style.",
+        "en_yusufali": "English translation of [53:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:11] en español.",
+        "fr_hamidullah": "Traduction de [53:11] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:12",
+      "surahNumber": 53,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "أَفَتُمَارُونَهُ عَلَىٰ مَا يَرَىٰ",
+        "en_sahih": "English translation of [53:12] in Sahih International style.",
+        "en_yusufali": "English translation of [53:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:12] en español.",
+        "fr_hamidullah": "Traduction de [53:12] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:13",
+      "surahNumber": 53,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "وَلَقَدْ رَآهُ نَزْلَةً أُخْرَىٰ",
+        "en_sahih": "English translation of [53:13] in Sahih International style.",
+        "en_yusufali": "English translation of [53:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:13] en español.",
+        "fr_hamidullah": "Traduction de [53:13] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:14",
+      "surahNumber": 53,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "عِنْدَ سِدْرَةِ الْمُنْتَهَىٰ",
+        "en_sahih": "English translation of [53:14] in Sahih International style.",
+        "en_yusufali": "English translation of [53:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:14] en español.",
+        "fr_hamidullah": "Traduction de [53:14] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:15",
+      "surahNumber": 53,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "عِنْدَهَا جَنَّةُ الْمَأْوَىٰ",
+        "en_sahih": "English translation of [53:15] in Sahih International style.",
+        "en_yusufali": "English translation of [53:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:15] en español.",
+        "fr_hamidullah": "Traduction de [53:15] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:16",
+      "surahNumber": 53,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَىٰ",
+        "en_sahih": "English translation of [53:16] in Sahih International style.",
+        "en_yusufali": "English translation of [53:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:16] en español.",
+        "fr_hamidullah": "Traduction de [53:16] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:17",
+      "surahNumber": 53,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "مَا زَاغَ الْبَصَرُ وَمَا طَغَىٰ",
+        "en_sahih": "English translation of [53:17] in Sahih International style.",
+        "en_yusufali": "English translation of [53:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:17] en español.",
+        "fr_hamidullah": "Traduction de [53:17] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:18",
+      "surahNumber": 53,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "لَقَدْ رَأَىٰ مِنْ آيَاتِ رَبِّهِ الْكُبْرَىٰ",
+        "en_sahih": "English translation of [53:18] in Sahih International style.",
+        "en_yusufali": "English translation of [53:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:18] en español.",
+        "fr_hamidullah": "Traduction de [53:18] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:19",
+      "surahNumber": 53,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "أَفَرَأَيْتُمُ اللَّاتَ وَالْعُزَّىٰ",
+        "en_sahih": "English translation of [53:19] in Sahih International style.",
+        "en_yusufali": "English translation of [53:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:19] en español.",
+        "fr_hamidullah": "Traduction de [53:19] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:20",
+      "surahNumber": 53,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "وَمَنَاةَ الثَّالِثَةَ الْأُخْرَىٰ",
+        "en_sahih": "English translation of [53:20] in Sahih International style.",
+        "en_yusufali": "English translation of [53:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:20] en español.",
+        "fr_hamidullah": "Traduction de [53:20] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:21",
+      "surahNumber": 53,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "أَلَكُمُ الذَّكَرُ وَلَهُ الْأُنْثَىٰ",
+        "en_sahih": "English translation of [53:21] in Sahih International style.",
+        "en_yusufali": "English translation of [53:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:21] en español.",
+        "fr_hamidullah": "Traduction de [53:21] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:22",
+      "surahNumber": 53,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "تِلْكَ إِذًا قِسْمَةٌ ضِيزَىٰ",
+        "en_sahih": "English translation of [53:22] in Sahih International style.",
+        "en_yusufali": "English translation of [53:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:22] en español.",
+        "fr_hamidullah": "Traduction de [53:22] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:23",
+      "surahNumber": 53,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "إِنْ هِيَ إِلَّا أَسْمَاءٌ سَمَّيْتُمُوهَا أَنْتُمْ وَآبَاؤُكُمْ مَا أَنْزَلَ اللَّهُ بِهَا مِنْ سُلْطَانٍ ۚ إِنْ يَتَّبِعُونَ إِلَّا الظَّنَّ وَمَا تَهْوَى الْأَنْفُسُ ۖ وَلَقَدْ جَاءَهُمْ مِنْ رَبِّهِمُ الْهُدَىٰ",
+        "en_sahih": "English translation of [53:23] in Sahih International style.",
+        "en_yusufali": "English translation of [53:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:23] en español.",
+        "fr_hamidullah": "Traduction de [53:23] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:24",
+      "surahNumber": 53,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "أَمْ لِلْإِنْسَانِ مَا تَمَنَّىٰ",
+        "en_sahih": "English translation of [53:24] in Sahih International style.",
+        "en_yusufali": "English translation of [53:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:24] en español.",
+        "fr_hamidullah": "Traduction de [53:24] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:25",
+      "surahNumber": 53,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "فَلِلَّهِ الْآخِرَةُ وَالْأُولَىٰ",
+        "en_sahih": "English translation of [53:25] in Sahih International style.",
+        "en_yusufali": "English translation of [53:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:25] en español.",
+        "fr_hamidullah": "Traduction de [53:25] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:26",
+      "surahNumber": 53,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "۞ وَكَمْ مِنْ مَلَكٍ فِي السَّمَاوَاتِ لَا تُغْنِي شَفَاعَتُهُمْ شَيْئًا إِلَّا مِنْ بَعْدِ أَنْ يَأْذَنَ اللَّهُ لِمَنْ يَشَاءُ وَيَرْضَىٰ",
+        "en_sahih": "English translation of [53:26] in Sahih International style.",
+        "en_yusufali": "English translation of [53:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:26] en español.",
+        "fr_hamidullah": "Traduction de [53:26] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:27",
+      "surahNumber": 53,
+      "ayahNumber": 27,
+      "text": {
+        "simple": "إِنَّ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ لَيُسَمُّونَ الْمَلَائِكَةَ تَسْمِيَةَ الْأُنْثَىٰ",
+        "en_sahih": "English translation of [53:27] in Sahih International style.",
+        "en_yusufali": "English translation of [53:27] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:27] en español.",
+        "fr_hamidullah": "Traduction de [53:27] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:28",
+      "surahNumber": 53,
+      "ayahNumber": 28,
+      "text": {
+        "simple": "وَمَا لَهُمْ بِهِ مِنْ عِلْمٍ ۖ إِنْ يَتَّبِعُونَ إِلَّا الظَّنَّ ۖ وَإِنَّ الظَّنَّ لَا يُغْنِي مِنَ الْحَقِّ شَيْئًا",
+        "en_sahih": "English translation of [53:28] in Sahih International style.",
+        "en_yusufali": "English translation of [53:28] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:28] en español.",
+        "fr_hamidullah": "Traduction de [53:28] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:29",
+      "surahNumber": 53,
+      "ayahNumber": 29,
+      "text": {
+        "simple": "فَأَعْرِضْ عَنْ مَنْ تَوَلَّىٰ عَنْ ذِكْرِنَا وَلَمْ يُرِدْ إِلَّا الْحَيَاةَ الدُّنْيَا",
+        "en_sahih": "English translation of [53:29] in Sahih International style.",
+        "en_yusufali": "English translation of [53:29] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:29] en español.",
+        "fr_hamidullah": "Traduction de [53:29] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:30",
+      "surahNumber": 53,
+      "ayahNumber": 30,
+      "text": {
+        "simple": "ذَٰلِكَ مَبْلَغُهُمْ مِنَ الْعِلْمِ ۚ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَنْ ضَلَّ عَنْ سَبِيلِهِ وَهُوَ أَعْلَمُ بِمَنِ اهْتَدَىٰ",
+        "en_sahih": "English translation of [53:30] in Sahih International style.",
+        "en_yusufali": "English translation of [53:30] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:30] en español.",
+        "fr_hamidullah": "Traduction de [53:30] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:31",
+      "surahNumber": 53,
+      "ayahNumber": 31,
+      "text": {
+        "simple": "وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ لِيَجْزِيَ الَّذِينَ أَسَاءُوا بِمَا عَمِلُوا وَيَجْزِيَ الَّذِينَ أَحْسَنُوا بِالْحُسْنَى",
+        "en_sahih": "English translation of [53:31] in Sahih International style.",
+        "en_yusufali": "English translation of [53:31] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:31] en español.",
+        "fr_hamidullah": "Traduction de [53:31] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:32",
+      "surahNumber": 53,
+      "ayahNumber": 32,
+      "text": {
+        "simple": "الَّذِينَ يَجْتَنِبُونَ كَبَائِرَ الْإِثْمِ وَالْفَوَاحِشَ إِلَّا اللَّمَمَ ۚ إِنَّ رَبَّكَ وَاسِعُ الْمَغْفِرَةِ ۚ هُوَ أَعْلَمُ بِكُمْ إِذْ أَنْشَأَكُمْ مِنَ الْأَرْضِ وَإِذْ أَنْتُمْ أَجِنَّةٌ فِي بُطُونِ أُمَّهَاتِكُمْ ۖ فَلَا تُزَكُّوا أَنْفُسَكُمْ ۖ هُوَ أَعْلَمُ بِمَنِ اتَّقَىٰ",
+        "en_sahih": "English translation of [53:32] in Sahih International style.",
+        "en_yusufali": "English translation of [53:32] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:32] en español.",
+        "fr_hamidullah": "Traduction de [53:32] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:33",
+      "surahNumber": 53,
+      "ayahNumber": 33,
+      "text": {
+        "simple": "أَفَرَأَيْتَ الَّذِي تَوَلَّىٰ",
+        "en_sahih": "English translation of [53:33] in Sahih International style.",
+        "en_yusufali": "English translation of [53:33] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:33] en español.",
+        "fr_hamidullah": "Traduction de [53:33] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:34",
+      "surahNumber": 53,
+      "ayahNumber": 34,
+      "text": {
+        "simple": "وَأَعْطَىٰ قَلِيلًا وَأَكْدَىٰ",
+        "en_sahih": "English translation of [53:34] in Sahih International style.",
+        "en_yusufali": "English translation of [53:34] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:34] en español.",
+        "fr_hamidullah": "Traduction de [53:34] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:35",
+      "surahNumber": 53,
+      "ayahNumber": 35,
+      "text": {
+        "simple": "أَعِنْدَهُ عِلْمُ الْغَيْبِ فَهُوَ يَرَىٰ",
+        "en_sahih": "English translation of [53:35] in Sahih International style.",
+        "en_yusufali": "English translation of [53:35] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:35] en español.",
+        "fr_hamidullah": "Traduction de [53:35] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:36",
+      "surahNumber": 53,
+      "ayahNumber": 36,
+      "text": {
+        "simple": "أَمْ لَمْ يُنَبَّأْ بِمَا فِي صُحُفِ مُوسَىٰ",
+        "en_sahih": "English translation of [53:36] in Sahih International style.",
+        "en_yusufali": "English translation of [53:36] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:36] en español.",
+        "fr_hamidullah": "Traduction de [53:36] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:37",
+      "surahNumber": 53,
+      "ayahNumber": 37,
+      "text": {
+        "simple": "وَإِبْرَاهِيمَ الَّذِي وَفَّىٰ",
+        "en_sahih": "English translation of [53:37] in Sahih International style.",
+        "en_yusufali": "English translation of [53:37] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:37] en español.",
+        "fr_hamidullah": "Traduction de [53:37] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:38",
+      "surahNumber": 53,
+      "ayahNumber": 38,
+      "text": {
+        "simple": "أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ",
+        "en_sahih": "English translation of [53:38] in Sahih International style.",
+        "en_yusufali": "English translation of [53:38] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 38 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:38] en español.",
+        "fr_hamidullah": "Traduction de [53:38] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:39",
+      "surahNumber": 53,
+      "ayahNumber": 39,
+      "text": {
+        "simple": "وَأَنْ لَيْسَ لِلْإِنْسَانِ إِلَّا مَا سَعَىٰ",
+        "en_sahih": "English translation of [53:39] in Sahih International style.",
+        "en_yusufali": "English translation of [53:39] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 39 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:39] en español.",
+        "fr_hamidullah": "Traduction de [53:39] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:40",
+      "surahNumber": 53,
+      "ayahNumber": 40,
+      "text": {
+        "simple": "وَأَنَّ سَعْيَهُ سَوْفَ يُرَىٰ",
+        "en_sahih": "English translation of [53:40] in Sahih International style.",
+        "en_yusufali": "English translation of [53:40] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 40 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:40] en español.",
+        "fr_hamidullah": "Traduction de [53:40] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:41",
+      "surahNumber": 53,
+      "ayahNumber": 41,
+      "text": {
+        "simple": "ثُمَّ يُجْزَاهُ الْجَزَاءَ الْأَوْفَىٰ",
+        "en_sahih": "English translation of [53:41] in Sahih International style.",
+        "en_yusufali": "English translation of [53:41] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 41 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:41] en español.",
+        "fr_hamidullah": "Traduction de [53:41] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:42",
+      "surahNumber": 53,
+      "ayahNumber": 42,
+      "text": {
+        "simple": "وَأَنَّ إِلَىٰ رَبِّكَ الْمُنْتَهَىٰ",
+        "en_sahih": "English translation of [53:42] in Sahih International style.",
+        "en_yusufali": "English translation of [53:42] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 42 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:42] en español.",
+        "fr_hamidullah": "Traduction de [53:42] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:43",
+      "surahNumber": 53,
+      "ayahNumber": 43,
+      "text": {
+        "simple": "وَأَنَّهُ هُوَ أَضْحَكَ وَأَبْكَىٰ",
+        "en_sahih": "English translation of [53:43] in Sahih International style.",
+        "en_yusufali": "English translation of [53:43] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 43 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:43] en español.",
+        "fr_hamidullah": "Traduction de [53:43] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:44",
+      "surahNumber": 53,
+      "ayahNumber": 44,
+      "text": {
+        "simple": "وَأَنَّهُ هُوَ أَمَاتَ وَأَحْيَا",
+        "en_sahih": "English translation of [53:44] in Sahih International style.",
+        "en_yusufali": "English translation of [53:44] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 44 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:44] en español.",
+        "fr_hamidullah": "Traduction de [53:44] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:45",
+      "surahNumber": 53,
+      "ayahNumber": 45,
+      "text": {
+        "simple": "وَأَنَّهُ خَلَقَ الزَّوْجَيْنِ الذَّكَرَ وَالْأُنْثَىٰ",
+        "en_sahih": "English translation of [53:45] in Sahih International style.",
+        "en_yusufali": "English translation of [53:45] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 45 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:45] en español.",
+        "fr_hamidullah": "Traduction de [53:45] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:46",
+      "surahNumber": 53,
+      "ayahNumber": 46,
+      "text": {
+        "simple": "مِنْ نُطْفَةٍ إِذَا تُمْنَىٰ",
+        "en_sahih": "English translation of [53:46] in Sahih International style.",
+        "en_yusufali": "English translation of [53:46] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 46 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:46] en español.",
+        "fr_hamidullah": "Traduction de [53:46] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:47",
+      "surahNumber": 53,
+      "ayahNumber": 47,
+      "text": {
+        "simple": "وَأَنَّ عَلَيْهِ النَّشْأَةَ الْأُخْرَىٰ",
+        "en_sahih": "English translation of [53:47] in Sahih International style.",
+        "en_yusufali": "English translation of [53:47] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 47 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:47] en español.",
+        "fr_hamidullah": "Traduction de [53:47] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:48",
+      "surahNumber": 53,
+      "ayahNumber": 48,
+      "text": {
+        "simple": "وَأَنَّهُ هُوَ أَغْنَىٰ وَأَقْنَىٰ",
+        "en_sahih": "English translation of [53:48] in Sahih International style.",
+        "en_yusufali": "English translation of [53:48] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 48 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:48] en español.",
+        "fr_hamidullah": "Traduction de [53:48] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:49",
+      "surahNumber": 53,
+      "ayahNumber": 49,
+      "text": {
+        "simple": "وَأَنَّهُ هُوَ رَبُّ الشِّعْرَىٰ",
+        "en_sahih": "English translation of [53:49] in Sahih International style.",
+        "en_yusufali": "English translation of [53:49] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 49 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:49] en español.",
+        "fr_hamidullah": "Traduction de [53:49] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:50",
+      "surahNumber": 53,
+      "ayahNumber": 50,
+      "text": {
+        "simple": "وَأَنَّهُ أَهْلَكَ عَادًا الْأُولَىٰ",
+        "en_sahih": "English translation of [53:50] in Sahih International style.",
+        "en_yusufali": "English translation of [53:50] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 50 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:50] en español.",
+        "fr_hamidullah": "Traduction de [53:50] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:51",
+      "surahNumber": 53,
+      "ayahNumber": 51,
+      "text": {
+        "simple": "وَثَمُودَ فَمَا أَبْقَىٰ",
+        "en_sahih": "English translation of [53:51] in Sahih International style.",
+        "en_yusufali": "English translation of [53:51] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 51 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:51] en español.",
+        "fr_hamidullah": "Traduction de [53:51] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:52",
+      "surahNumber": 53,
+      "ayahNumber": 52,
+      "text": {
+        "simple": "وَقَوْمَ نُوحٍ مِنْ قَبْلُ ۖ إِنَّهُمْ كَانُوا هُمْ أَظْلَمَ وَأَطْغَىٰ",
+        "en_sahih": "English translation of [53:52] in Sahih International style.",
+        "en_yusufali": "English translation of [53:52] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 52 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:52] en español.",
+        "fr_hamidullah": "Traduction de [53:52] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:53",
+      "surahNumber": 53,
+      "ayahNumber": 53,
+      "text": {
+        "simple": "وَالْمُؤْتَفِكَةَ أَهْوَىٰ",
+        "en_sahih": "English translation of [53:53] in Sahih International style.",
+        "en_yusufali": "English translation of [53:53] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 53 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:53] en español.",
+        "fr_hamidullah": "Traduction de [53:53] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 53 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:54",
+      "surahNumber": 53,
+      "ayahNumber": 54,
+      "text": {
+        "simple": "فَغَشَّاهَا مَا غَشَّىٰ",
+        "en_sahih": "English translation of [53:54] in Sahih International style.",
+        "en_yusufali": "English translation of [53:54] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 54 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:54] en español.",
+        "fr_hamidullah": "Traduction de [53:54] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 54 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:55",
+      "surahNumber": 53,
+      "ayahNumber": 55,
+      "text": {
+        "simple": "فَبِأَيِّ آلَاءِ رَبِّكَ تَتَمَارَىٰ",
+        "en_sahih": "English translation of [53:55] in Sahih International style.",
+        "en_yusufali": "English translation of [53:55] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 55 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:55] en español.",
+        "fr_hamidullah": "Traduction de [53:55] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 55 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:56",
+      "surahNumber": 53,
+      "ayahNumber": 56,
+      "text": {
+        "simple": "هَٰذَا نَذِيرٌ مِنَ النُّذُرِ الْأُولَىٰ",
+        "en_sahih": "English translation of [53:56] in Sahih International style.",
+        "en_yusufali": "English translation of [53:56] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 56 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:56] en español.",
+        "fr_hamidullah": "Traduction de [53:56] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 56 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:57",
+      "surahNumber": 53,
+      "ayahNumber": 57,
+      "text": {
+        "simple": "أَزِفَتِ الْآزِفَةُ",
+        "en_sahih": "English translation of [53:57] in Sahih International style.",
+        "en_yusufali": "English translation of [53:57] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 57 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:57] en español.",
+        "fr_hamidullah": "Traduction de [53:57] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 57 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:58",
+      "surahNumber": 53,
+      "ayahNumber": 58,
+      "text": {
+        "simple": "لَيْسَ لَهَا مِنْ دُونِ اللَّهِ كَاشِفَةٌ",
+        "en_sahih": "English translation of [53:58] in Sahih International style.",
+        "en_yusufali": "English translation of [53:58] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 58 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:58] en español.",
+        "fr_hamidullah": "Traduction de [53:58] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 58 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:59",
+      "surahNumber": 53,
+      "ayahNumber": 59,
+      "text": {
+        "simple": "أَفَمِنْ هَٰذَا الْحَدِيثِ تَعْجَبُونَ",
+        "en_sahih": "English translation of [53:59] in Sahih International style.",
+        "en_yusufali": "English translation of [53:59] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 59 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:59] en español.",
+        "fr_hamidullah": "Traduction de [53:59] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 59 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:60",
+      "surahNumber": 53,
+      "ayahNumber": 60,
+      "text": {
+        "simple": "وَتَضْحَكُونَ وَلَا تَبْكُونَ",
+        "en_sahih": "English translation of [53:60] in Sahih International style.",
+        "en_yusufali": "English translation of [53:60] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 60 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:60] en español.",
+        "fr_hamidullah": "Traduction de [53:60] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 60 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:61",
+      "surahNumber": 53,
+      "ayahNumber": 61,
+      "text": {
+        "simple": "وَأَنْتُمْ سَامِدُونَ",
+        "en_sahih": "English translation of [53:61] in Sahih International style.",
+        "en_yusufali": "English translation of [53:61] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 61 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:61] en español.",
+        "fr_hamidullah": "Traduction de [53:61] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 61 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "53:62",
+      "surahNumber": 53,
+      "ayahNumber": 62,
+      "text": {
+        "simple": "فَاسْجُدُوا لِلَّهِ وَاعْبُدُوا ۩",
+        "en_sahih": "English translation of [53:62] in Sahih International style.",
+        "en_yusufali": "English translation of [53:62] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 53 آیت 62 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [53:62] en español.",
+        "fr_hamidullah": "Traduction de [53:62] en français.",
+        "bn_hoque": "সূরা 53 আয়াত 62 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

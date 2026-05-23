@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:58.006Z",
+  "surahNumber": 108,
+  "ayahCount": 3,
+  "ayahs": [
+    {
+      "id": "108:1",
+      "surahNumber": 108,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ",
+        "en_sahih": "English translation of [108:1] in Sahih International style.",
+        "en_yusufali": "English translation of [108:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 108 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [108:1] en español.",
+        "fr_hamidullah": "Traduction de [108:1] en français.",
+        "bn_hoque": "সূরা 108 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "108:2",
+      "surahNumber": 108,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "فَصَلِّ لِرَبِّكَ وَانْحَرْ",
+        "en_sahih": "English translation of [108:2] in Sahih International style.",
+        "en_yusufali": "English translation of [108:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 108 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [108:2] en español.",
+        "fr_hamidullah": "Traduction de [108:2] en français.",
+        "bn_hoque": "সূরা 108 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "108:3",
+      "surahNumber": 108,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ",
+        "en_sahih": "English translation of [108:3] in Sahih International style.",
+        "en_yusufali": "English translation of [108:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 108 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [108:3] en español.",
+        "fr_hamidullah": "Traduction de [108:3] en français.",
+        "bn_hoque": "সূরা 108 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

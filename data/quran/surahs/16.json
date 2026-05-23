@@ -1,0 +1,1807 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.973Z",
+  "surahNumber": 16,
+  "ayahCount": 128,
+  "ayahs": [
+    {
+      "id": "16:1",
+      "surahNumber": 16,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ أَتَىٰ أَمْرُ اللَّهِ فَلَا تَسْتَعْجِلُوهُ ۚ سُبْحَانَهُ وَتَعَالَىٰ عَمَّا يُشْرِكُونَ",
+        "en_sahih": "English translation of [16:1] in Sahih International style.",
+        "en_yusufali": "English translation of [16:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:1] en español.",
+        "fr_hamidullah": "Traduction de [16:1] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:2",
+      "surahNumber": 16,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "يُنَزِّلُ الْمَلَائِكَةَ بِالرُّوحِ مِنْ أَمْرِهِ عَلَىٰ مَنْ يَشَاءُ مِنْ عِبَادِهِ أَنْ أَنْذِرُوا أَنَّهُ لَا إِلَٰهَ إِلَّا أَنَا فَاتَّقُونِ",
+        "en_sahih": "English translation of [16:2] in Sahih International style.",
+        "en_yusufali": "English translation of [16:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:2] en español.",
+        "fr_hamidullah": "Traduction de [16:2] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:3",
+      "surahNumber": 16,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ بِالْحَقِّ ۚ تَعَالَىٰ عَمَّا يُشْرِكُونَ",
+        "en_sahih": "English translation of [16:3] in Sahih International style.",
+        "en_yusufali": "English translation of [16:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:3] en español.",
+        "fr_hamidullah": "Traduction de [16:3] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:4",
+      "surahNumber": 16,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "خَلَقَ الْإِنْسَانَ مِنْ نُطْفَةٍ فَإِذَا هُوَ خَصِيمٌ مُبِينٌ",
+        "en_sahih": "English translation of [16:4] in Sahih International style.",
+        "en_yusufali": "English translation of [16:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:4] en español.",
+        "fr_hamidullah": "Traduction de [16:4] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:5",
+      "surahNumber": 16,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "وَالْأَنْعَامَ خَلَقَهَا ۗ لَكُمْ فِيهَا دِفْءٌ وَمَنَافِعُ وَمِنْهَا تَأْكُلُونَ",
+        "en_sahih": "English translation of [16:5] in Sahih International style.",
+        "en_yusufali": "English translation of [16:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:5] en español.",
+        "fr_hamidullah": "Traduction de [16:5] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:6",
+      "surahNumber": 16,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "وَلَكُمْ فِيهَا جَمَالٌ حِينَ تُرِيحُونَ وَحِينَ تَسْرَحُونَ",
+        "en_sahih": "English translation of [16:6] in Sahih International style.",
+        "en_yusufali": "English translation of [16:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:6] en español.",
+        "fr_hamidullah": "Traduction de [16:6] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:7",
+      "surahNumber": 16,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "وَتَحْمِلُ أَثْقَالَكُمْ إِلَىٰ بَلَدٍ لَمْ تَكُونُوا بَالِغِيهِ إِلَّا بِشِقِّ الْأَنْفُسِ ۚ إِنَّ رَبَّكُمْ لَرَءُوفٌ رَحِيمٌ",
+        "en_sahih": "English translation of [16:7] in Sahih International style.",
+        "en_yusufali": "English translation of [16:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:7] en español.",
+        "fr_hamidullah": "Traduction de [16:7] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:8",
+      "surahNumber": 16,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "وَالْخَيْلَ وَالْبِغَالَ وَالْحَمِيرَ لِتَرْكَبُوهَا وَزِينَةً ۚ وَيَخْلُقُ مَا لَا تَعْلَمُونَ",
+        "en_sahih": "English translation of [16:8] in Sahih International style.",
+        "en_yusufali": "English translation of [16:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:8] en español.",
+        "fr_hamidullah": "Traduction de [16:8] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:9",
+      "surahNumber": 16,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "وَعَلَى اللَّهِ قَصْدُ السَّبِيلِ وَمِنْهَا جَائِرٌ ۚ وَلَوْ شَاءَ لَهَدَاكُمْ أَجْمَعِينَ",
+        "en_sahih": "English translation of [16:9] in Sahih International style.",
+        "en_yusufali": "English translation of [16:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:9] en español.",
+        "fr_hamidullah": "Traduction de [16:9] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:10",
+      "surahNumber": 16,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "هُوَ الَّذِي أَنْزَلَ مِنَ السَّمَاءِ مَاءً ۖ لَكُمْ مِنْهُ شَرَابٌ وَمِنْهُ شَجَرٌ فِيهِ تُسِيمُونَ",
+        "en_sahih": "English translation of [16:10] in Sahih International style.",
+        "en_yusufali": "English translation of [16:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:10] en español.",
+        "fr_hamidullah": "Traduction de [16:10] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:11",
+      "surahNumber": 16,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "يُنْبِتُ لَكُمْ بِهِ الزَّرْعَ وَالزَّيْتُونَ وَالنَّخِيلَ وَالْأَعْنَابَ وَمِنْ كُلِّ الثَّمَرَاتِ ۗ إِنَّ فِي ذَٰلِكَ لَآيَةً لِقَوْمٍ يَتَفَكَّرُونَ",
+        "en_sahih": "English translation of [16:11] in Sahih International style.",
+        "en_yusufali": "English translation of [16:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:11] en español.",
+        "fr_hamidullah": "Traduction de [16:11] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:12",
+      "surahNumber": 16,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "وَسَخَّرَ لَكُمُ اللَّيْلَ وَالنَّهَارَ وَالشَّمْسَ وَالْقَمَرَ ۖ وَالنُّجُومُ مُسَخَّرَاتٌ بِأَمْرِهِ ۗ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَعْقِلُونَ",
+        "en_sahih": "English translation of [16:12] in Sahih International style.",
+        "en_yusufali": "English translation of [16:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:12] en español.",
+        "fr_hamidullah": "Traduction de [16:12] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:13",
+      "surahNumber": 16,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "وَمَا ذَرَأَ لَكُمْ فِي الْأَرْضِ مُخْتَلِفًا أَلْوَانُهُ ۗ إِنَّ فِي ذَٰلِكَ لَآيَةً لِقَوْمٍ يَذَّكَّرُونَ",
+        "en_sahih": "English translation of [16:13] in Sahih International style.",
+        "en_yusufali": "English translation of [16:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:13] en español.",
+        "fr_hamidullah": "Traduction de [16:13] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:14",
+      "surahNumber": 16,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "وَهُوَ الَّذِي سَخَّرَ الْبَحْرَ لِتَأْكُلُوا مِنْهُ لَحْمًا طَرِيًّا وَتَسْتَخْرِجُوا مِنْهُ حِلْيَةً تَلْبَسُونَهَا وَتَرَى الْفُلْكَ مَوَاخِرَ فِيهِ وَلِتَبْتَغُوا مِنْ فَضْلِهِ وَلَعَلَّكُمْ تَشْكُرُونَ",
+        "en_sahih": "English translation of [16:14] in Sahih International style.",
+        "en_yusufali": "English translation of [16:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:14] en español.",
+        "fr_hamidullah": "Traduction de [16:14] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:15",
+      "surahNumber": 16,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "وَأَلْقَىٰ فِي الْأَرْضِ رَوَاسِيَ أَنْ تَمِيدَ بِكُمْ وَأَنْهَارًا وَسُبُلًا لَعَلَّكُمْ تَهْتَدُونَ",
+        "en_sahih": "English translation of [16:15] in Sahih International style.",
+        "en_yusufali": "English translation of [16:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:15] en español.",
+        "fr_hamidullah": "Traduction de [16:15] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:16",
+      "surahNumber": 16,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "وَعَلَامَاتٍ ۚ وَبِالنَّجْمِ هُمْ يَهْتَدُونَ",
+        "en_sahih": "English translation of [16:16] in Sahih International style.",
+        "en_yusufali": "English translation of [16:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:16] en español.",
+        "fr_hamidullah": "Traduction de [16:16] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:17",
+      "surahNumber": 16,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "أَفَمَنْ يَخْلُقُ كَمَنْ لَا يَخْلُقُ ۗ أَفَلَا تَذَكَّرُونَ",
+        "en_sahih": "English translation of [16:17] in Sahih International style.",
+        "en_yusufali": "English translation of [16:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:17] en español.",
+        "fr_hamidullah": "Traduction de [16:17] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:18",
+      "surahNumber": 16,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "وَإِنْ تَعُدُّوا نِعْمَةَ اللَّهِ لَا تُحْصُوهَا ۗ إِنَّ اللَّهَ لَغَفُورٌ رَحِيمٌ",
+        "en_sahih": "English translation of [16:18] in Sahih International style.",
+        "en_yusufali": "English translation of [16:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:18] en español.",
+        "fr_hamidullah": "Traduction de [16:18] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:19",
+      "surahNumber": 16,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "وَاللَّهُ يَعْلَمُ مَا تُسِرُّونَ وَمَا تُعْلِنُونَ",
+        "en_sahih": "English translation of [16:19] in Sahih International style.",
+        "en_yusufali": "English translation of [16:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:19] en español.",
+        "fr_hamidullah": "Traduction de [16:19] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:20",
+      "surahNumber": 16,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "وَالَّذِينَ يَدْعُونَ مِنْ دُونِ اللَّهِ لَا يَخْلُقُونَ شَيْئًا وَهُمْ يُخْلَقُونَ",
+        "en_sahih": "English translation of [16:20] in Sahih International style.",
+        "en_yusufali": "English translation of [16:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:20] en español.",
+        "fr_hamidullah": "Traduction de [16:20] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:21",
+      "surahNumber": 16,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "أَمْوَاتٌ غَيْرُ أَحْيَاءٍ ۖ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ",
+        "en_sahih": "English translation of [16:21] in Sahih International style.",
+        "en_yusufali": "English translation of [16:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:21] en español.",
+        "fr_hamidullah": "Traduction de [16:21] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:22",
+      "surahNumber": 16,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "إِلَٰهُكُمْ إِلَٰهٌ وَاحِدٌ ۚ فَالَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ قُلُوبُهُمْ مُنْكِرَةٌ وَهُمْ مُسْتَكْبِرُونَ",
+        "en_sahih": "English translation of [16:22] in Sahih International style.",
+        "en_yusufali": "English translation of [16:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:22] en español.",
+        "fr_hamidullah": "Traduction de [16:22] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:23",
+      "surahNumber": 16,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "لَا جَرَمَ أَنَّ اللَّهَ يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ ۚ إِنَّهُ لَا يُحِبُّ الْمُسْتَكْبِرِينَ",
+        "en_sahih": "English translation of [16:23] in Sahih International style.",
+        "en_yusufali": "English translation of [16:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:23] en español.",
+        "fr_hamidullah": "Traduction de [16:23] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:24",
+      "surahNumber": 16,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "وَإِذَا قِيلَ لَهُمْ مَاذَا أَنْزَلَ رَبُّكُمْ ۙ قَالُوا أَسَاطِيرُ الْأَوَّلِينَ",
+        "en_sahih": "English translation of [16:24] in Sahih International style.",
+        "en_yusufali": "English translation of [16:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:24] en español.",
+        "fr_hamidullah": "Traduction de [16:24] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:25",
+      "surahNumber": 16,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "لِيَحْمِلُوا أَوْزَارَهُمْ كَامِلَةً يَوْمَ الْقِيَامَةِ ۙ وَمِنْ أَوْزَارِ الَّذِينَ يُضِلُّونَهُمْ بِغَيْرِ عِلْمٍ ۗ أَلَا سَاءَ مَا يَزِرُونَ",
+        "en_sahih": "English translation of [16:25] in Sahih International style.",
+        "en_yusufali": "English translation of [16:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:25] en español.",
+        "fr_hamidullah": "Traduction de [16:25] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:26",
+      "surahNumber": 16,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "قَدْ مَكَرَ الَّذِينَ مِنْ قَبْلِهِمْ فَأَتَى اللَّهُ بُنْيَانَهُمْ مِنَ الْقَوَاعِدِ فَخَرَّ عَلَيْهِمُ السَّقْفُ مِنْ فَوْقِهِمْ وَأَتَاهُمُ الْعَذَابُ مِنْ حَيْثُ لَا يَشْعُرُونَ",
+        "en_sahih": "English translation of [16:26] in Sahih International style.",
+        "en_yusufali": "English translation of [16:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:26] en español.",
+        "fr_hamidullah": "Traduction de [16:26] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:27",
+      "surahNumber": 16,
+      "ayahNumber": 27,
+      "text": {
+        "simple": "ثُمَّ يَوْمَ الْقِيَامَةِ يُخْزِيهِمْ وَيَقُولُ أَيْنَ شُرَكَائِيَ الَّذِينَ كُنْتُمْ تُشَاقُّونَ فِيهِمْ ۚ قَالَ الَّذِينَ أُوتُوا الْعِلْمَ إِنَّ الْخِزْيَ الْيَوْمَ وَالسُّوءَ عَلَى الْكَافِرِينَ",
+        "en_sahih": "English translation of [16:27] in Sahih International style.",
+        "en_yusufali": "English translation of [16:27] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:27] en español.",
+        "fr_hamidullah": "Traduction de [16:27] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:28",
+      "surahNumber": 16,
+      "ayahNumber": 28,
+      "text": {
+        "simple": "الَّذِينَ تَتَوَفَّاهُمُ الْمَلَائِكَةُ ظَالِمِي أَنْفُسِهِمْ ۖ فَأَلْقَوُا السَّلَمَ مَا كُنَّا نَعْمَلُ مِنْ سُوءٍ ۚ بَلَىٰ إِنَّ اللَّهَ عَلِيمٌ بِمَا كُنْتُمْ تَعْمَلُونَ",
+        "en_sahih": "English translation of [16:28] in Sahih International style.",
+        "en_yusufali": "English translation of [16:28] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:28] en español.",
+        "fr_hamidullah": "Traduction de [16:28] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:29",
+      "surahNumber": 16,
+      "ayahNumber": 29,
+      "text": {
+        "simple": "فَادْخُلُوا أَبْوَابَ جَهَنَّمَ خَالِدِينَ فِيهَا ۖ فَلَبِئْسَ مَثْوَى الْمُتَكَبِّرِينَ",
+        "en_sahih": "English translation of [16:29] in Sahih International style.",
+        "en_yusufali": "English translation of [16:29] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:29] en español.",
+        "fr_hamidullah": "Traduction de [16:29] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:30",
+      "surahNumber": 16,
+      "ayahNumber": 30,
+      "text": {
+        "simple": "۞ وَقِيلَ لِلَّذِينَ اتَّقَوْا مَاذَا أَنْزَلَ رَبُّكُمْ ۚ قَالُوا خَيْرًا ۗ لِلَّذِينَ أَحْسَنُوا فِي هَٰذِهِ الدُّنْيَا حَسَنَةٌ ۚ وَلَدَارُ الْآخِرَةِ خَيْرٌ ۚ وَلَنِعْمَ دَارُ الْمُتَّقِينَ",
+        "en_sahih": "English translation of [16:30] in Sahih International style.",
+        "en_yusufali": "English translation of [16:30] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:30] en español.",
+        "fr_hamidullah": "Traduction de [16:30] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:31",
+      "surahNumber": 16,
+      "ayahNumber": 31,
+      "text": {
+        "simple": "جَنَّاتُ عَدْنٍ يَدْخُلُونَهَا تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ ۖ لَهُمْ فِيهَا مَا يَشَاءُونَ ۚ كَذَٰلِكَ يَجْزِي اللَّهُ الْمُتَّقِينَ",
+        "en_sahih": "English translation of [16:31] in Sahih International style.",
+        "en_yusufali": "English translation of [16:31] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:31] en español.",
+        "fr_hamidullah": "Traduction de [16:31] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:32",
+      "surahNumber": 16,
+      "ayahNumber": 32,
+      "text": {
+        "simple": "الَّذِينَ تَتَوَفَّاهُمُ الْمَلَائِكَةُ طَيِّبِينَ ۙ يَقُولُونَ سَلَامٌ عَلَيْكُمُ ادْخُلُوا الْجَنَّةَ بِمَا كُنْتُمْ تَعْمَلُونَ",
+        "en_sahih": "English translation of [16:32] in Sahih International style.",
+        "en_yusufali": "English translation of [16:32] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:32] en español.",
+        "fr_hamidullah": "Traduction de [16:32] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:33",
+      "surahNumber": 16,
+      "ayahNumber": 33,
+      "text": {
+        "simple": "هَلْ يَنْظُرُونَ إِلَّا أَنْ تَأْتِيَهُمُ الْمَلَائِكَةُ أَوْ يَأْتِيَ أَمْرُ رَبِّكَ ۚ كَذَٰلِكَ فَعَلَ الَّذِينَ مِنْ قَبْلِهِمْ ۚ وَمَا ظَلَمَهُمُ اللَّهُ وَلَٰكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ",
+        "en_sahih": "English translation of [16:33] in Sahih International style.",
+        "en_yusufali": "English translation of [16:33] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:33] en español.",
+        "fr_hamidullah": "Traduction de [16:33] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:34",
+      "surahNumber": 16,
+      "ayahNumber": 34,
+      "text": {
+        "simple": "فَأَصَابَهُمْ سَيِّئَاتُ مَا عَمِلُوا وَحَاقَ بِهِمْ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+        "en_sahih": "English translation of [16:34] in Sahih International style.",
+        "en_yusufali": "English translation of [16:34] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:34] en español.",
+        "fr_hamidullah": "Traduction de [16:34] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:35",
+      "surahNumber": 16,
+      "ayahNumber": 35,
+      "text": {
+        "simple": "وَقَالَ الَّذِينَ أَشْرَكُوا لَوْ شَاءَ اللَّهُ مَا عَبَدْنَا مِنْ دُونِهِ مِنْ شَيْءٍ نَحْنُ وَلَا آبَاؤُنَا وَلَا حَرَّمْنَا مِنْ دُونِهِ مِنْ شَيْءٍ ۚ كَذَٰلِكَ فَعَلَ الَّذِينَ مِنْ قَبْلِهِمْ ۚ فَهَلْ عَلَى الرُّسُلِ إِلَّا الْبَلَاغُ الْمُبِينُ",
+        "en_sahih": "English translation of [16:35] in Sahih International style.",
+        "en_yusufali": "English translation of [16:35] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:35] en español.",
+        "fr_hamidullah": "Traduction de [16:35] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:36",
+      "surahNumber": 16,
+      "ayahNumber": 36,
+      "text": {
+        "simple": "وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَسُولًا أَنِ اعْبُدُوا اللَّهَ وَاجْتَنِبُوا الطَّاغُوتَ ۖ فَمِنْهُمْ مَنْ هَدَى اللَّهُ وَمِنْهُمْ مَنْ حَقَّتْ عَلَيْهِ الضَّلَالَةُ ۚ فَسِيرُوا فِي الْأَرْضِ فَانْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ",
+        "en_sahih": "English translation of [16:36] in Sahih International style.",
+        "en_yusufali": "English translation of [16:36] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:36] en español.",
+        "fr_hamidullah": "Traduction de [16:36] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:37",
+      "surahNumber": 16,
+      "ayahNumber": 37,
+      "text": {
+        "simple": "إِنْ تَحْرِصْ عَلَىٰ هُدَاهُمْ فَإِنَّ اللَّهَ لَا يَهْدِي مَنْ يُضِلُّ ۖ وَمَا لَهُمْ مِنْ نَاصِرِينَ",
+        "en_sahih": "English translation of [16:37] in Sahih International style.",
+        "en_yusufali": "English translation of [16:37] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:37] en español.",
+        "fr_hamidullah": "Traduction de [16:37] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:38",
+      "surahNumber": 16,
+      "ayahNumber": 38,
+      "text": {
+        "simple": "وَأَقْسَمُوا بِاللَّهِ جَهْدَ أَيْمَانِهِمْ ۙ لَا يَبْعَثُ اللَّهُ مَنْ يَمُوتُ ۚ بَلَىٰ وَعْدًا عَلَيْهِ حَقًّا وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+        "en_sahih": "English translation of [16:38] in Sahih International style.",
+        "en_yusufali": "English translation of [16:38] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 38 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:38] en español.",
+        "fr_hamidullah": "Traduction de [16:38] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:39",
+      "surahNumber": 16,
+      "ayahNumber": 39,
+      "text": {
+        "simple": "لِيُبَيِّنَ لَهُمُ الَّذِي يَخْتَلِفُونَ فِيهِ وَلِيَعْلَمَ الَّذِينَ كَفَرُوا أَنَّهُمْ كَانُوا كَاذِبِينَ",
+        "en_sahih": "English translation of [16:39] in Sahih International style.",
+        "en_yusufali": "English translation of [16:39] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 39 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:39] en español.",
+        "fr_hamidullah": "Traduction de [16:39] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:40",
+      "surahNumber": 16,
+      "ayahNumber": 40,
+      "text": {
+        "simple": "إِنَّمَا قَوْلُنَا لِشَيْءٍ إِذَا أَرَدْنَاهُ أَنْ نَقُولَ لَهُ كُنْ فَيَكُونُ",
+        "en_sahih": "English translation of [16:40] in Sahih International style.",
+        "en_yusufali": "English translation of [16:40] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 40 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:40] en español.",
+        "fr_hamidullah": "Traduction de [16:40] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:41",
+      "surahNumber": 16,
+      "ayahNumber": 41,
+      "text": {
+        "simple": "وَالَّذِينَ هَاجَرُوا فِي اللَّهِ مِنْ بَعْدِ مَا ظُلِمُوا لَنُبَوِّئَنَّهُمْ فِي الدُّنْيَا حَسَنَةً ۖ وَلَأَجْرُ الْآخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا يَعْلَمُونَ",
+        "en_sahih": "English translation of [16:41] in Sahih International style.",
+        "en_yusufali": "English translation of [16:41] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 41 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:41] en español.",
+        "fr_hamidullah": "Traduction de [16:41] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:42",
+      "surahNumber": 16,
+      "ayahNumber": 42,
+      "text": {
+        "simple": "الَّذِينَ صَبَرُوا وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+        "en_sahih": "English translation of [16:42] in Sahih International style.",
+        "en_yusufali": "English translation of [16:42] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 42 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:42] en español.",
+        "fr_hamidullah": "Traduction de [16:42] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:43",
+      "surahNumber": 16,
+      "ayahNumber": 43,
+      "text": {
+        "simple": "وَمَا أَرْسَلْنَا مِنْ قَبْلِكَ إِلَّا رِجَالًا نُوحِي إِلَيْهِمْ ۚ فَاسْأَلُوا أَهْلَ الذِّكْرِ إِنْ كُنْتُمْ لَا تَعْلَمُونَ",
+        "en_sahih": "English translation of [16:43] in Sahih International style.",
+        "en_yusufali": "English translation of [16:43] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 43 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:43] en español.",
+        "fr_hamidullah": "Traduction de [16:43] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:44",
+      "surahNumber": 16,
+      "ayahNumber": 44,
+      "text": {
+        "simple": "بِالْبَيِّنَاتِ وَالزُّبُرِ ۗ وَأَنْزَلْنَا إِلَيْكَ الذِّكْرَ لِتُبَيِّنَ لِلنَّاسِ مَا نُزِّلَ إِلَيْهِمْ وَلَعَلَّهُمْ يَتَفَكَّرُونَ",
+        "en_sahih": "English translation of [16:44] in Sahih International style.",
+        "en_yusufali": "English translation of [16:44] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 44 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:44] en español.",
+        "fr_hamidullah": "Traduction de [16:44] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:45",
+      "surahNumber": 16,
+      "ayahNumber": 45,
+      "text": {
+        "simple": "أَفَأَمِنَ الَّذِينَ مَكَرُوا السَّيِّئَاتِ أَنْ يَخْسِفَ اللَّهُ بِهِمُ الْأَرْضَ أَوْ يَأْتِيَهُمُ الْعَذَابُ مِنْ حَيْثُ لَا يَشْعُرُونَ",
+        "en_sahih": "English translation of [16:45] in Sahih International style.",
+        "en_yusufali": "English translation of [16:45] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 45 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:45] en español.",
+        "fr_hamidullah": "Traduction de [16:45] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:46",
+      "surahNumber": 16,
+      "ayahNumber": 46,
+      "text": {
+        "simple": "أَوْ يَأْخُذَهُمْ فِي تَقَلُّبِهِمْ فَمَا هُمْ بِمُعْجِزِينَ",
+        "en_sahih": "English translation of [16:46] in Sahih International style.",
+        "en_yusufali": "English translation of [16:46] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 46 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:46] en español.",
+        "fr_hamidullah": "Traduction de [16:46] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:47",
+      "surahNumber": 16,
+      "ayahNumber": 47,
+      "text": {
+        "simple": "أَوْ يَأْخُذَهُمْ عَلَىٰ تَخَوُّفٍ فَإِنَّ رَبَّكُمْ لَرَءُوفٌ رَحِيمٌ",
+        "en_sahih": "English translation of [16:47] in Sahih International style.",
+        "en_yusufali": "English translation of [16:47] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 47 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:47] en español.",
+        "fr_hamidullah": "Traduction de [16:47] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:48",
+      "surahNumber": 16,
+      "ayahNumber": 48,
+      "text": {
+        "simple": "أَوَلَمْ يَرَوْا إِلَىٰ مَا خَلَقَ اللَّهُ مِنْ شَيْءٍ يَتَفَيَّأُ ظِلَالُهُ عَنِ الْيَمِينِ وَالشَّمَائِلِ سُجَّدًا لِلَّهِ وَهُمْ دَاخِرُونَ",
+        "en_sahih": "English translation of [16:48] in Sahih International style.",
+        "en_yusufali": "English translation of [16:48] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 48 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:48] en español.",
+        "fr_hamidullah": "Traduction de [16:48] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:49",
+      "surahNumber": 16,
+      "ayahNumber": 49,
+      "text": {
+        "simple": "وَلِلَّهِ يَسْجُدُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ مِنْ دَابَّةٍ وَالْمَلَائِكَةُ وَهُمْ لَا يَسْتَكْبِرُونَ",
+        "en_sahih": "English translation of [16:49] in Sahih International style.",
+        "en_yusufali": "English translation of [16:49] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 49 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:49] en español.",
+        "fr_hamidullah": "Traduction de [16:49] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:50",
+      "surahNumber": 16,
+      "ayahNumber": 50,
+      "text": {
+        "simple": "يَخَافُونَ رَبَّهُمْ مِنْ فَوْقِهِمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ ۩",
+        "en_sahih": "English translation of [16:50] in Sahih International style.",
+        "en_yusufali": "English translation of [16:50] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 50 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:50] en español.",
+        "fr_hamidullah": "Traduction de [16:50] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:51",
+      "surahNumber": 16,
+      "ayahNumber": 51,
+      "text": {
+        "simple": "۞ وَقَالَ اللَّهُ لَا تَتَّخِذُوا إِلَٰهَيْنِ اثْنَيْنِ ۖ إِنَّمَا هُوَ إِلَٰهٌ وَاحِدٌ ۖ فَإِيَّايَ فَارْهَبُونِ",
+        "en_sahih": "English translation of [16:51] in Sahih International style.",
+        "en_yusufali": "English translation of [16:51] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 51 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:51] en español.",
+        "fr_hamidullah": "Traduction de [16:51] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:52",
+      "surahNumber": 16,
+      "ayahNumber": 52,
+      "text": {
+        "simple": "وَلَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ وَلَهُ الدِّينُ وَاصِبًا ۚ أَفَغَيْرَ اللَّهِ تَتَّقُونَ",
+        "en_sahih": "English translation of [16:52] in Sahih International style.",
+        "en_yusufali": "English translation of [16:52] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 52 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:52] en español.",
+        "fr_hamidullah": "Traduction de [16:52] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:53",
+      "surahNumber": 16,
+      "ayahNumber": 53,
+      "text": {
+        "simple": "وَمَا بِكُمْ مِنْ نِعْمَةٍ فَمِنَ اللَّهِ ۖ ثُمَّ إِذَا مَسَّكُمُ الضُّرُّ فَإِلَيْهِ تَجْأَرُونَ",
+        "en_sahih": "English translation of [16:53] in Sahih International style.",
+        "en_yusufali": "English translation of [16:53] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 53 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:53] en español.",
+        "fr_hamidullah": "Traduction de [16:53] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 53 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:54",
+      "surahNumber": 16,
+      "ayahNumber": 54,
+      "text": {
+        "simple": "ثُمَّ إِذَا كَشَفَ الضُّرَّ عَنْكُمْ إِذَا فَرِيقٌ مِنْكُمْ بِرَبِّهِمْ يُشْرِكُونَ",
+        "en_sahih": "English translation of [16:54] in Sahih International style.",
+        "en_yusufali": "English translation of [16:54] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 54 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:54] en español.",
+        "fr_hamidullah": "Traduction de [16:54] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 54 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:55",
+      "surahNumber": 16,
+      "ayahNumber": 55,
+      "text": {
+        "simple": "لِيَكْفُرُوا بِمَا آتَيْنَاهُمْ ۚ فَتَمَتَّعُوا ۖ فَسَوْفَ تَعْلَمُونَ",
+        "en_sahih": "English translation of [16:55] in Sahih International style.",
+        "en_yusufali": "English translation of [16:55] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 55 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:55] en español.",
+        "fr_hamidullah": "Traduction de [16:55] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 55 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:56",
+      "surahNumber": 16,
+      "ayahNumber": 56,
+      "text": {
+        "simple": "وَيَجْعَلُونَ لِمَا لَا يَعْلَمُونَ نَصِيبًا مِمَّا رَزَقْنَاهُمْ ۗ تَاللَّهِ لَتُسْأَلُنَّ عَمَّا كُنْتُمْ تَفْتَرُونَ",
+        "en_sahih": "English translation of [16:56] in Sahih International style.",
+        "en_yusufali": "English translation of [16:56] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 56 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:56] en español.",
+        "fr_hamidullah": "Traduction de [16:56] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 56 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:57",
+      "surahNumber": 16,
+      "ayahNumber": 57,
+      "text": {
+        "simple": "وَيَجْعَلُونَ لِلَّهِ الْبَنَاتِ سُبْحَانَهُ ۙ وَلَهُمْ مَا يَشْتَهُونَ",
+        "en_sahih": "English translation of [16:57] in Sahih International style.",
+        "en_yusufali": "English translation of [16:57] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 57 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:57] en español.",
+        "fr_hamidullah": "Traduction de [16:57] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 57 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:58",
+      "surahNumber": 16,
+      "ayahNumber": 58,
+      "text": {
+        "simple": "وَإِذَا بُشِّرَ أَحَدُهُمْ بِالْأُنْثَىٰ ظَلَّ وَجْهُهُ مُسْوَدًّا وَهُوَ كَظِيمٌ",
+        "en_sahih": "English translation of [16:58] in Sahih International style.",
+        "en_yusufali": "English translation of [16:58] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 58 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:58] en español.",
+        "fr_hamidullah": "Traduction de [16:58] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 58 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:59",
+      "surahNumber": 16,
+      "ayahNumber": 59,
+      "text": {
+        "simple": "يَتَوَارَىٰ مِنَ الْقَوْمِ مِنْ سُوءِ مَا بُشِّرَ بِهِ ۚ أَيُمْسِكُهُ عَلَىٰ هُونٍ أَمْ يَدُسُّهُ فِي التُّرَابِ ۗ أَلَا سَاءَ مَا يَحْكُمُونَ",
+        "en_sahih": "English translation of [16:59] in Sahih International style.",
+        "en_yusufali": "English translation of [16:59] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 59 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:59] en español.",
+        "fr_hamidullah": "Traduction de [16:59] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 59 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:60",
+      "surahNumber": 16,
+      "ayahNumber": 60,
+      "text": {
+        "simple": "لِلَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ مَثَلُ السَّوْءِ ۖ وَلِلَّهِ الْمَثَلُ الْأَعْلَىٰ ۚ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+        "en_sahih": "English translation of [16:60] in Sahih International style.",
+        "en_yusufali": "English translation of [16:60] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 60 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:60] en español.",
+        "fr_hamidullah": "Traduction de [16:60] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 60 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:61",
+      "surahNumber": 16,
+      "ayahNumber": 61,
+      "text": {
+        "simple": "وَلَوْ يُؤَاخِذُ اللَّهُ النَّاسَ بِظُلْمِهِمْ مَا تَرَكَ عَلَيْهَا مِنْ دَابَّةٍ وَلَٰكِنْ يُؤَخِّرُهُمْ إِلَىٰ أَجَلٍ مُسَمًّى ۖ فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً ۖ وَلَا يَسْتَقْدِمُونَ",
+        "en_sahih": "English translation of [16:61] in Sahih International style.",
+        "en_yusufali": "English translation of [16:61] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 61 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:61] en español.",
+        "fr_hamidullah": "Traduction de [16:61] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 61 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:62",
+      "surahNumber": 16,
+      "ayahNumber": 62,
+      "text": {
+        "simple": "وَيَجْعَلُونَ لِلَّهِ مَا يَكْرَهُونَ وَتَصِفُ أَلْسِنَتُهُمُ الْكَذِبَ أَنَّ لَهُمُ الْحُسْنَىٰ ۖ لَا جَرَمَ أَنَّ لَهُمُ النَّارَ وَأَنَّهُمْ مُفْرَطُونَ",
+        "en_sahih": "English translation of [16:62] in Sahih International style.",
+        "en_yusufali": "English translation of [16:62] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 62 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:62] en español.",
+        "fr_hamidullah": "Traduction de [16:62] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 62 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:63",
+      "surahNumber": 16,
+      "ayahNumber": 63,
+      "text": {
+        "simple": "تَاللَّهِ لَقَدْ أَرْسَلْنَا إِلَىٰ أُمَمٍ مِنْ قَبْلِكَ فَزَيَّنَ لَهُمُ الشَّيْطَانُ أَعْمَالَهُمْ فَهُوَ وَلِيُّهُمُ الْيَوْمَ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+        "en_sahih": "English translation of [16:63] in Sahih International style.",
+        "en_yusufali": "English translation of [16:63] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 63 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:63] en español.",
+        "fr_hamidullah": "Traduction de [16:63] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 63 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:64",
+      "surahNumber": 16,
+      "ayahNumber": 64,
+      "text": {
+        "simple": "وَمَا أَنْزَلْنَا عَلَيْكَ الْكِتَابَ إِلَّا لِتُبَيِّنَ لَهُمُ الَّذِي اخْتَلَفُوا فِيهِ ۙ وَهُدًى وَرَحْمَةً لِقَوْمٍ يُؤْمِنُونَ",
+        "en_sahih": "English translation of [16:64] in Sahih International style.",
+        "en_yusufali": "English translation of [16:64] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 64 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:64] en español.",
+        "fr_hamidullah": "Traduction de [16:64] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 64 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:65",
+      "surahNumber": 16,
+      "ayahNumber": 65,
+      "text": {
+        "simple": "وَاللَّهُ أَنْزَلَ مِنَ السَّمَاءِ مَاءً فَأَحْيَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا ۚ إِنَّ فِي ذَٰلِكَ لَآيَةً لِقَوْمٍ يَسْمَعُونَ",
+        "en_sahih": "English translation of [16:65] in Sahih International style.",
+        "en_yusufali": "English translation of [16:65] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 65 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:65] en español.",
+        "fr_hamidullah": "Traduction de [16:65] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 65 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:66",
+      "surahNumber": 16,
+      "ayahNumber": 66,
+      "text": {
+        "simple": "وَإِنَّ لَكُمْ فِي الْأَنْعَامِ لَعِبْرَةً ۖ نُسْقِيكُمْ مِمَّا فِي بُطُونِهِ مِنْ بَيْنِ فَرْثٍ وَدَمٍ لَبَنًا خَالِصًا سَائِغًا لِلشَّارِبِينَ",
+        "en_sahih": "English translation of [16:66] in Sahih International style.",
+        "en_yusufali": "English translation of [16:66] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 66 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:66] en español.",
+        "fr_hamidullah": "Traduction de [16:66] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 66 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:67",
+      "surahNumber": 16,
+      "ayahNumber": 67,
+      "text": {
+        "simple": "وَمِنْ ثَمَرَاتِ النَّخِيلِ وَالْأَعْنَابِ تَتَّخِذُونَ مِنْهُ سَكَرًا وَرِزْقًا حَسَنًا ۗ إِنَّ فِي ذَٰلِكَ لَآيَةً لِقَوْمٍ يَعْقِلُونَ",
+        "en_sahih": "English translation of [16:67] in Sahih International style.",
+        "en_yusufali": "English translation of [16:67] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 67 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:67] en español.",
+        "fr_hamidullah": "Traduction de [16:67] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 67 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:68",
+      "surahNumber": 16,
+      "ayahNumber": 68,
+      "text": {
+        "simple": "وَأَوْحَىٰ رَبُّكَ إِلَى النَّحْلِ أَنِ اتَّخِذِي مِنَ الْجِبَالِ بُيُوتًا وَمِنَ الشَّجَرِ وَمِمَّا يَعْرِشُونَ",
+        "en_sahih": "English translation of [16:68] in Sahih International style.",
+        "en_yusufali": "English translation of [16:68] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 68 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:68] en español.",
+        "fr_hamidullah": "Traduction de [16:68] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 68 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:69",
+      "surahNumber": 16,
+      "ayahNumber": 69,
+      "text": {
+        "simple": "ثُمَّ كُلِي مِنْ كُلِّ الثَّمَرَاتِ فَاسْلُكِي سُبُلَ رَبِّكِ ذُلُلًا ۚ يَخْرُجُ مِنْ بُطُونِهَا شَرَابٌ مُخْتَلِفٌ أَلْوَانُهُ فِيهِ شِفَاءٌ لِلنَّاسِ ۗ إِنَّ فِي ذَٰلِكَ لَآيَةً لِقَوْمٍ يَتَفَكَّرُونَ",
+        "en_sahih": "English translation of [16:69] in Sahih International style.",
+        "en_yusufali": "English translation of [16:69] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 69 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:69] en español.",
+        "fr_hamidullah": "Traduction de [16:69] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 69 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:70",
+      "surahNumber": 16,
+      "ayahNumber": 70,
+      "text": {
+        "simple": "وَاللَّهُ خَلَقَكُمْ ثُمَّ يَتَوَفَّاكُمْ ۚ وَمِنْكُمْ مَنْ يُرَدُّ إِلَىٰ أَرْذَلِ الْعُمُرِ لِكَيْ لَا يَعْلَمَ بَعْدَ عِلْمٍ شَيْئًا ۚ إِنَّ اللَّهَ عَلِيمٌ قَدِيرٌ",
+        "en_sahih": "English translation of [16:70] in Sahih International style.",
+        "en_yusufali": "English translation of [16:70] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 70 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:70] en español.",
+        "fr_hamidullah": "Traduction de [16:70] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 70 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:71",
+      "surahNumber": 16,
+      "ayahNumber": 71,
+      "text": {
+        "simple": "وَاللَّهُ فَضَّلَ بَعْضَكُمْ عَلَىٰ بَعْضٍ فِي الرِّزْقِ ۚ فَمَا الَّذِينَ فُضِّلُوا بِرَادِّي رِزْقِهِمْ عَلَىٰ مَا مَلَكَتْ أَيْمَانُهُمْ فَهُمْ فِيهِ سَوَاءٌ ۚ أَفَبِنِعْمَةِ اللَّهِ يَجْحَدُونَ",
+        "en_sahih": "English translation of [16:71] in Sahih International style.",
+        "en_yusufali": "English translation of [16:71] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 71 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:71] en español.",
+        "fr_hamidullah": "Traduction de [16:71] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 71 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:72",
+      "surahNumber": 16,
+      "ayahNumber": 72,
+      "text": {
+        "simple": "وَاللَّهُ جَعَلَ لَكُمْ مِنْ أَنْفُسِكُمْ أَزْوَاجًا وَجَعَلَ لَكُمْ مِنْ أَزْوَاجِكُمْ بَنِينَ وَحَفَدَةً وَرَزَقَكُمْ مِنَ الطَّيِّبَاتِ ۚ أَفَبِالْبَاطِلِ يُؤْمِنُونَ وَبِنِعْمَتِ اللَّهِ هُمْ يَكْفُرُونَ",
+        "en_sahih": "English translation of [16:72] in Sahih International style.",
+        "en_yusufali": "English translation of [16:72] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 72 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:72] en español.",
+        "fr_hamidullah": "Traduction de [16:72] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 72 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:73",
+      "surahNumber": 16,
+      "ayahNumber": 73,
+      "text": {
+        "simple": "وَيَعْبُدُونَ مِنْ دُونِ اللَّهِ مَا لَا يَمْلِكُ لَهُمْ رِزْقًا مِنَ السَّمَاوَاتِ وَالْأَرْضِ شَيْئًا وَلَا يَسْتَطِيعُونَ",
+        "en_sahih": "English translation of [16:73] in Sahih International style.",
+        "en_yusufali": "English translation of [16:73] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 73 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:73] en español.",
+        "fr_hamidullah": "Traduction de [16:73] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 73 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:74",
+      "surahNumber": 16,
+      "ayahNumber": 74,
+      "text": {
+        "simple": "فَلَا تَضْرِبُوا لِلَّهِ الْأَمْثَالَ ۚ إِنَّ اللَّهَ يَعْلَمُ وَأَنْتُمْ لَا تَعْلَمُونَ",
+        "en_sahih": "English translation of [16:74] in Sahih International style.",
+        "en_yusufali": "English translation of [16:74] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 74 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:74] en español.",
+        "fr_hamidullah": "Traduction de [16:74] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 74 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:75",
+      "surahNumber": 16,
+      "ayahNumber": 75,
+      "text": {
+        "simple": "۞ ضَرَبَ اللَّهُ مَثَلًا عَبْدًا مَمْلُوكًا لَا يَقْدِرُ عَلَىٰ شَيْءٍ وَمَنْ رَزَقْنَاهُ مِنَّا رِزْقًا حَسَنًا فَهُوَ يُنْفِقُ مِنْهُ سِرًّا وَجَهْرًا ۖ هَلْ يَسْتَوُونَ ۚ الْحَمْدُ لِلَّهِ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ",
+        "en_sahih": "English translation of [16:75] in Sahih International style.",
+        "en_yusufali": "English translation of [16:75] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 75 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:75] en español.",
+        "fr_hamidullah": "Traduction de [16:75] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 75 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:76",
+      "surahNumber": 16,
+      "ayahNumber": 76,
+      "text": {
+        "simple": "وَضَرَبَ اللَّهُ مَثَلًا رَجُلَيْنِ أَحَدُهُمَا أَبْكَمُ لَا يَقْدِرُ عَلَىٰ شَيْءٍ وَهُوَ كَلٌّ عَلَىٰ مَوْلَاهُ أَيْنَمَا يُوَجِّهْهُ لَا يَأْتِ بِخَيْرٍ ۖ هَلْ يَسْتَوِي هُوَ وَمَنْ يَأْمُرُ بِالْعَدْلِ ۙ وَهُوَ عَلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+        "en_sahih": "English translation of [16:76] in Sahih International style.",
+        "en_yusufali": "English translation of [16:76] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 76 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:76] en español.",
+        "fr_hamidullah": "Traduction de [16:76] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 76 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:77",
+      "surahNumber": 16,
+      "ayahNumber": 77,
+      "text": {
+        "simple": "وَلِلَّهِ غَيْبُ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَمَا أَمْرُ السَّاعَةِ إِلَّا كَلَمْحِ الْبَصَرِ أَوْ هُوَ أَقْرَبُ ۚ إِنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+        "en_sahih": "English translation of [16:77] in Sahih International style.",
+        "en_yusufali": "English translation of [16:77] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 77 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:77] en español.",
+        "fr_hamidullah": "Traduction de [16:77] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 77 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:78",
+      "surahNumber": 16,
+      "ayahNumber": 78,
+      "text": {
+        "simple": "وَاللَّهُ أَخْرَجَكُمْ مِنْ بُطُونِ أُمَّهَاتِكُمْ لَا تَعْلَمُونَ شَيْئًا وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ ۙ لَعَلَّكُمْ تَشْكُرُونَ",
+        "en_sahih": "English translation of [16:78] in Sahih International style.",
+        "en_yusufali": "English translation of [16:78] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 78 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:78] en español.",
+        "fr_hamidullah": "Traduction de [16:78] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 78 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:79",
+      "surahNumber": 16,
+      "ayahNumber": 79,
+      "text": {
+        "simple": "أَلَمْ يَرَوْا إِلَى الطَّيْرِ مُسَخَّرَاتٍ فِي جَوِّ السَّمَاءِ مَا يُمْسِكُهُنَّ إِلَّا اللَّهُ ۗ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يُؤْمِنُونَ",
+        "en_sahih": "English translation of [16:79] in Sahih International style.",
+        "en_yusufali": "English translation of [16:79] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 79 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:79] en español.",
+        "fr_hamidullah": "Traduction de [16:79] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 79 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:80",
+      "surahNumber": 16,
+      "ayahNumber": 80,
+      "text": {
+        "simple": "وَاللَّهُ جَعَلَ لَكُمْ مِنْ بُيُوتِكُمْ سَكَنًا وَجَعَلَ لَكُمْ مِنْ جُلُودِ الْأَنْعَامِ بُيُوتًا تَسْتَخِفُّونَهَا يَوْمَ ظَعْنِكُمْ وَيَوْمَ إِقَامَتِكُمْ ۙ وَمِنْ أَصْوَافِهَا وَأَوْبَارِهَا وَأَشْعَارِهَا أَثَاثًا وَمَتَاعًا إِلَىٰ حِينٍ",
+        "en_sahih": "English translation of [16:80] in Sahih International style.",
+        "en_yusufali": "English translation of [16:80] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 80 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:80] en español.",
+        "fr_hamidullah": "Traduction de [16:80] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 80 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:81",
+      "surahNumber": 16,
+      "ayahNumber": 81,
+      "text": {
+        "simple": "وَاللَّهُ جَعَلَ لَكُمْ مِمَّا خَلَقَ ظِلَالًا وَجَعَلَ لَكُمْ مِنَ الْجِبَالِ أَكْنَانًا وَجَعَلَ لَكُمْ سَرَابِيلَ تَقِيكُمُ الْحَرَّ وَسَرَابِيلَ تَقِيكُمْ بَأْسَكُمْ ۚ كَذَٰلِكَ يُتِمُّ نِعْمَتَهُ عَلَيْكُمْ لَعَلَّكُمْ تُسْلِمُونَ",
+        "en_sahih": "English translation of [16:81] in Sahih International style.",
+        "en_yusufali": "English translation of [16:81] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 81 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:81] en español.",
+        "fr_hamidullah": "Traduction de [16:81] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 81 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:82",
+      "surahNumber": 16,
+      "ayahNumber": 82,
+      "text": {
+        "simple": "فَإِنْ تَوَلَّوْا فَإِنَّمَا عَلَيْكَ الْبَلَاغُ الْمُبِينُ",
+        "en_sahih": "English translation of [16:82] in Sahih International style.",
+        "en_yusufali": "English translation of [16:82] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 82 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:82] en español.",
+        "fr_hamidullah": "Traduction de [16:82] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 82 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:83",
+      "surahNumber": 16,
+      "ayahNumber": 83,
+      "text": {
+        "simple": "يَعْرِفُونَ نِعْمَتَ اللَّهِ ثُمَّ يُنْكِرُونَهَا وَأَكْثَرُهُمُ الْكَافِرُونَ",
+        "en_sahih": "English translation of [16:83] in Sahih International style.",
+        "en_yusufali": "English translation of [16:83] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 83 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:83] en español.",
+        "fr_hamidullah": "Traduction de [16:83] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 83 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:84",
+      "surahNumber": 16,
+      "ayahNumber": 84,
+      "text": {
+        "simple": "وَيَوْمَ نَبْعَثُ مِنْ كُلِّ أُمَّةٍ شَهِيدًا ثُمَّ لَا يُؤْذَنُ لِلَّذِينَ كَفَرُوا وَلَا هُمْ يُسْتَعْتَبُونَ",
+        "en_sahih": "English translation of [16:84] in Sahih International style.",
+        "en_yusufali": "English translation of [16:84] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 84 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:84] en español.",
+        "fr_hamidullah": "Traduction de [16:84] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 84 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:85",
+      "surahNumber": 16,
+      "ayahNumber": 85,
+      "text": {
+        "simple": "وَإِذَا رَأَى الَّذِينَ ظَلَمُوا الْعَذَابَ فَلَا يُخَفَّفُ عَنْهُمْ وَلَا هُمْ يُنْظَرُونَ",
+        "en_sahih": "English translation of [16:85] in Sahih International style.",
+        "en_yusufali": "English translation of [16:85] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 85 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:85] en español.",
+        "fr_hamidullah": "Traduction de [16:85] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 85 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:86",
+      "surahNumber": 16,
+      "ayahNumber": 86,
+      "text": {
+        "simple": "وَإِذَا رَأَى الَّذِينَ أَشْرَكُوا شُرَكَاءَهُمْ قَالُوا رَبَّنَا هَٰؤُلَاءِ شُرَكَاؤُنَا الَّذِينَ كُنَّا نَدْعُو مِنْ دُونِكَ ۖ فَأَلْقَوْا إِلَيْهِمُ الْقَوْلَ إِنَّكُمْ لَكَاذِبُونَ",
+        "en_sahih": "English translation of [16:86] in Sahih International style.",
+        "en_yusufali": "English translation of [16:86] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 86 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:86] en español.",
+        "fr_hamidullah": "Traduction de [16:86] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 86 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:87",
+      "surahNumber": 16,
+      "ayahNumber": 87,
+      "text": {
+        "simple": "وَأَلْقَوْا إِلَى اللَّهِ يَوْمَئِذٍ السَّلَمَ ۖ وَضَلَّ عَنْهُمْ مَا كَانُوا يَفْتَرُونَ",
+        "en_sahih": "English translation of [16:87] in Sahih International style.",
+        "en_yusufali": "English translation of [16:87] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 87 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:87] en español.",
+        "fr_hamidullah": "Traduction de [16:87] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 87 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:88",
+      "surahNumber": 16,
+      "ayahNumber": 88,
+      "text": {
+        "simple": "الَّذِينَ كَفَرُوا وَصَدُّوا عَنْ سَبِيلِ اللَّهِ زِدْنَاهُمْ عَذَابًا فَوْقَ الْعَذَابِ بِمَا كَانُوا يُفْسِدُونَ",
+        "en_sahih": "English translation of [16:88] in Sahih International style.",
+        "en_yusufali": "English translation of [16:88] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 88 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:88] en español.",
+        "fr_hamidullah": "Traduction de [16:88] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 88 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:89",
+      "surahNumber": 16,
+      "ayahNumber": 89,
+      "text": {
+        "simple": "وَيَوْمَ نَبْعَثُ فِي كُلِّ أُمَّةٍ شَهِيدًا عَلَيْهِمْ مِنْ أَنْفُسِهِمْ ۖ وَجِئْنَا بِكَ شَهِيدًا عَلَىٰ هَٰؤُلَاءِ ۚ وَنَزَّلْنَا عَلَيْكَ الْكِتَابَ تِبْيَانًا لِكُلِّ شَيْءٍ وَهُدًى وَرَحْمَةً وَبُشْرَىٰ لِلْمُسْلِمِينَ",
+        "en_sahih": "English translation of [16:89] in Sahih International style.",
+        "en_yusufali": "English translation of [16:89] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 89 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:89] en español.",
+        "fr_hamidullah": "Traduction de [16:89] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 89 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:90",
+      "surahNumber": 16,
+      "ayahNumber": 90,
+      "text": {
+        "simple": "۞ إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي الْقُرْبَىٰ وَيَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنْكَرِ وَالْبَغْيِ ۚ يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ",
+        "en_sahih": "English translation of [16:90] in Sahih International style.",
+        "en_yusufali": "English translation of [16:90] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 90 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:90] en español.",
+        "fr_hamidullah": "Traduction de [16:90] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 90 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:91",
+      "surahNumber": 16,
+      "ayahNumber": 91,
+      "text": {
+        "simple": "وَأَوْفُوا بِعَهْدِ اللَّهِ إِذَا عَاهَدْتُمْ وَلَا تَنْقُضُوا الْأَيْمَانَ بَعْدَ تَوْكِيدِهَا وَقَدْ جَعَلْتُمُ اللَّهَ عَلَيْكُمْ كَفِيلًا ۚ إِنَّ اللَّهَ يَعْلَمُ مَا تَفْعَلُونَ",
+        "en_sahih": "English translation of [16:91] in Sahih International style.",
+        "en_yusufali": "English translation of [16:91] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 91 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:91] en español.",
+        "fr_hamidullah": "Traduction de [16:91] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 91 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:92",
+      "surahNumber": 16,
+      "ayahNumber": 92,
+      "text": {
+        "simple": "وَلَا تَكُونُوا كَالَّتِي نَقَضَتْ غَزْلَهَا مِنْ بَعْدِ قُوَّةٍ أَنْكَاثًا تَتَّخِذُونَ أَيْمَانَكُمْ دَخَلًا بَيْنَكُمْ أَنْ تَكُونَ أُمَّةٌ هِيَ أَرْبَىٰ مِنْ أُمَّةٍ ۚ إِنَّمَا يَبْلُوكُمُ اللَّهُ بِهِ ۚ وَلَيُبَيِّنَنَّ لَكُمْ يَوْمَ الْقِيَامَةِ مَا كُنْتُمْ فِيهِ تَخْتَلِفُونَ",
+        "en_sahih": "English translation of [16:92] in Sahih International style.",
+        "en_yusufali": "English translation of [16:92] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 92 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:92] en español.",
+        "fr_hamidullah": "Traduction de [16:92] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 92 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:93",
+      "surahNumber": 16,
+      "ayahNumber": 93,
+      "text": {
+        "simple": "وَلَوْ شَاءَ اللَّهُ لَجَعَلَكُمْ أُمَّةً وَاحِدَةً وَلَٰكِنْ يُضِلُّ مَنْ يَشَاءُ وَيَهْدِي مَنْ يَشَاءُ ۚ وَلَتُسْأَلُنَّ عَمَّا كُنْتُمْ تَعْمَلُونَ",
+        "en_sahih": "English translation of [16:93] in Sahih International style.",
+        "en_yusufali": "English translation of [16:93] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 93 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:93] en español.",
+        "fr_hamidullah": "Traduction de [16:93] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 93 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:94",
+      "surahNumber": 16,
+      "ayahNumber": 94,
+      "text": {
+        "simple": "وَلَا تَتَّخِذُوا أَيْمَانَكُمْ دَخَلًا بَيْنَكُمْ فَتَزِلَّ قَدَمٌ بَعْدَ ثُبُوتِهَا وَتَذُوقُوا السُّوءَ بِمَا صَدَدْتُمْ عَنْ سَبِيلِ اللَّهِ ۖ وَلَكُمْ عَذَابٌ عَظِيمٌ",
+        "en_sahih": "English translation of [16:94] in Sahih International style.",
+        "en_yusufali": "English translation of [16:94] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 94 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:94] en español.",
+        "fr_hamidullah": "Traduction de [16:94] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 94 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:95",
+      "surahNumber": 16,
+      "ayahNumber": 95,
+      "text": {
+        "simple": "وَلَا تَشْتَرُوا بِعَهْدِ اللَّهِ ثَمَنًا قَلِيلًا ۚ إِنَّمَا عِنْدَ اللَّهِ هُوَ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ",
+        "en_sahih": "English translation of [16:95] in Sahih International style.",
+        "en_yusufali": "English translation of [16:95] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 95 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:95] en español.",
+        "fr_hamidullah": "Traduction de [16:95] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 95 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:96",
+      "surahNumber": 16,
+      "ayahNumber": 96,
+      "text": {
+        "simple": "مَا عِنْدَكُمْ يَنْفَدُ ۖ وَمَا عِنْدَ اللَّهِ بَاقٍ ۗ وَلَنَجْزِيَنَّ الَّذِينَ صَبَرُوا أَجْرَهُمْ بِأَحْسَنِ مَا كَانُوا يَعْمَلُونَ",
+        "en_sahih": "English translation of [16:96] in Sahih International style.",
+        "en_yusufali": "English translation of [16:96] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 96 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:96] en español.",
+        "fr_hamidullah": "Traduction de [16:96] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 96 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:97",
+      "surahNumber": 16,
+      "ayahNumber": 97,
+      "text": {
+        "simple": "مَنْ عَمِلَ صَالِحًا مِنْ ذَكَرٍ أَوْ أُنْثَىٰ وَهُوَ مُؤْمِنٌ فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُمْ بِأَحْسَنِ مَا كَانُوا يَعْمَلُونَ",
+        "en_sahih": "English translation of [16:97] in Sahih International style.",
+        "en_yusufali": "English translation of [16:97] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 97 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:97] en español.",
+        "fr_hamidullah": "Traduction de [16:97] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 97 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:98",
+      "surahNumber": 16,
+      "ayahNumber": 98,
+      "text": {
+        "simple": "فَإِذَا قَرَأْتَ الْقُرْآنَ فَاسْتَعِذْ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+        "en_sahih": "English translation of [16:98] in Sahih International style.",
+        "en_yusufali": "English translation of [16:98] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 98 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:98] en español.",
+        "fr_hamidullah": "Traduction de [16:98] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 98 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:99",
+      "surahNumber": 16,
+      "ayahNumber": 99,
+      "text": {
+        "simple": "إِنَّهُ لَيْسَ لَهُ سُلْطَانٌ عَلَى الَّذِينَ آمَنُوا وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+        "en_sahih": "English translation of [16:99] in Sahih International style.",
+        "en_yusufali": "English translation of [16:99] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 99 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:99] en español.",
+        "fr_hamidullah": "Traduction de [16:99] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 99 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:100",
+      "surahNumber": 16,
+      "ayahNumber": 100,
+      "text": {
+        "simple": "إِنَّمَا سُلْطَانُهُ عَلَى الَّذِينَ يَتَوَلَّوْنَهُ وَالَّذِينَ هُمْ بِهِ مُشْرِكُونَ",
+        "en_sahih": "English translation of [16:100] in Sahih International style.",
+        "en_yusufali": "English translation of [16:100] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 100 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:100] en español.",
+        "fr_hamidullah": "Traduction de [16:100] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 100 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:101",
+      "surahNumber": 16,
+      "ayahNumber": 101,
+      "text": {
+        "simple": "وَإِذَا بَدَّلْنَا آيَةً مَكَانَ آيَةٍ ۙ وَاللَّهُ أَعْلَمُ بِمَا يُنَزِّلُ قَالُوا إِنَّمَا أَنْتَ مُفْتَرٍ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ",
+        "en_sahih": "English translation of [16:101] in Sahih International style.",
+        "en_yusufali": "English translation of [16:101] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 101 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:101] en español.",
+        "fr_hamidullah": "Traduction de [16:101] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 101 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:102",
+      "surahNumber": 16,
+      "ayahNumber": 102,
+      "text": {
+        "simple": "قُلْ نَزَّلَهُ رُوحُ الْقُدُسِ مِنْ رَبِّكَ بِالْحَقِّ لِيُثَبِّتَ الَّذِينَ آمَنُوا وَهُدًى وَبُشْرَىٰ لِلْمُسْلِمِينَ",
+        "en_sahih": "English translation of [16:102] in Sahih International style.",
+        "en_yusufali": "English translation of [16:102] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 102 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:102] en español.",
+        "fr_hamidullah": "Traduction de [16:102] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 102 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:103",
+      "surahNumber": 16,
+      "ayahNumber": 103,
+      "text": {
+        "simple": "وَلَقَدْ نَعْلَمُ أَنَّهُمْ يَقُولُونَ إِنَّمَا يُعَلِّمُهُ بَشَرٌ ۗ لِسَانُ الَّذِي يُلْحِدُونَ إِلَيْهِ أَعْجَمِيٌّ وَهَٰذَا لِسَانٌ عَرَبِيٌّ مُبِينٌ",
+        "en_sahih": "English translation of [16:103] in Sahih International style.",
+        "en_yusufali": "English translation of [16:103] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 103 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:103] en español.",
+        "fr_hamidullah": "Traduction de [16:103] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 103 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:104",
+      "surahNumber": 16,
+      "ayahNumber": 104,
+      "text": {
+        "simple": "إِنَّ الَّذِينَ لَا يُؤْمِنُونَ بِآيَاتِ اللَّهِ لَا يَهْدِيهِمُ اللَّهُ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+        "en_sahih": "English translation of [16:104] in Sahih International style.",
+        "en_yusufali": "English translation of [16:104] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 104 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:104] en español.",
+        "fr_hamidullah": "Traduction de [16:104] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 104 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:105",
+      "surahNumber": 16,
+      "ayahNumber": 105,
+      "text": {
+        "simple": "إِنَّمَا يَفْتَرِي الْكَذِبَ الَّذِينَ لَا يُؤْمِنُونَ بِآيَاتِ اللَّهِ ۖ وَأُولَٰئِكَ هُمُ الْكَاذِبُونَ",
+        "en_sahih": "English translation of [16:105] in Sahih International style.",
+        "en_yusufali": "English translation of [16:105] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 105 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:105] en español.",
+        "fr_hamidullah": "Traduction de [16:105] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 105 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:106",
+      "surahNumber": 16,
+      "ayahNumber": 106,
+      "text": {
+        "simple": "مَنْ كَفَرَ بِاللَّهِ مِنْ بَعْدِ إِيمَانِهِ إِلَّا مَنْ أُكْرِهَ وَقَلْبُهُ مُطْمَئِنٌّ بِالْإِيمَانِ وَلَٰكِنْ مَنْ شَرَحَ بِالْكُفْرِ صَدْرًا فَعَلَيْهِمْ غَضَبٌ مِنَ اللَّهِ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+        "en_sahih": "English translation of [16:106] in Sahih International style.",
+        "en_yusufali": "English translation of [16:106] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 106 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:106] en español.",
+        "fr_hamidullah": "Traduction de [16:106] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 106 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:107",
+      "surahNumber": 16,
+      "ayahNumber": 107,
+      "text": {
+        "simple": "ذَٰلِكَ بِأَنَّهُمُ اسْتَحَبُّوا الْحَيَاةَ الدُّنْيَا عَلَى الْآخِرَةِ وَأَنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الْكَافِرِينَ",
+        "en_sahih": "English translation of [16:107] in Sahih International style.",
+        "en_yusufali": "English translation of [16:107] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 107 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:107] en español.",
+        "fr_hamidullah": "Traduction de [16:107] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 107 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:108",
+      "surahNumber": 16,
+      "ayahNumber": 108,
+      "text": {
+        "simple": "أُولَٰئِكَ الَّذِينَ طَبَعَ اللَّهُ عَلَىٰ قُلُوبِهِمْ وَسَمْعِهِمْ وَأَبْصَارِهِمْ ۖ وَأُولَٰئِكَ هُمُ الْغَافِلُونَ",
+        "en_sahih": "English translation of [16:108] in Sahih International style.",
+        "en_yusufali": "English translation of [16:108] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 108 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:108] en español.",
+        "fr_hamidullah": "Traduction de [16:108] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 108 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:109",
+      "surahNumber": 16,
+      "ayahNumber": 109,
+      "text": {
+        "simple": "لَا جَرَمَ أَنَّهُمْ فِي الْآخِرَةِ هُمُ الْخَاسِرُونَ",
+        "en_sahih": "English translation of [16:109] in Sahih International style.",
+        "en_yusufali": "English translation of [16:109] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 109 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:109] en español.",
+        "fr_hamidullah": "Traduction de [16:109] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 109 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:110",
+      "surahNumber": 16,
+      "ayahNumber": 110,
+      "text": {
+        "simple": "ثُمَّ إِنَّ رَبَّكَ لِلَّذِينَ هَاجَرُوا مِنْ بَعْدِ مَا فُتِنُوا ثُمَّ جَاهَدُوا وَصَبَرُوا إِنَّ رَبَّكَ مِنْ بَعْدِهَا لَغَفُورٌ رَحِيمٌ",
+        "en_sahih": "English translation of [16:110] in Sahih International style.",
+        "en_yusufali": "English translation of [16:110] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 110 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:110] en español.",
+        "fr_hamidullah": "Traduction de [16:110] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 110 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:111",
+      "surahNumber": 16,
+      "ayahNumber": 111,
+      "text": {
+        "simple": "۞ يَوْمَ تَأْتِي كُلُّ نَفْسٍ تُجَادِلُ عَنْ نَفْسِهَا وَتُوَفَّىٰ كُلُّ نَفْسٍ مَا عَمِلَتْ وَهُمْ لَا يُظْلَمُونَ",
+        "en_sahih": "English translation of [16:111] in Sahih International style.",
+        "en_yusufali": "English translation of [16:111] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 111 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:111] en español.",
+        "fr_hamidullah": "Traduction de [16:111] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 111 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:112",
+      "surahNumber": 16,
+      "ayahNumber": 112,
+      "text": {
+        "simple": "وَضَرَبَ اللَّهُ مَثَلًا قَرْيَةً كَانَتْ آمِنَةً مُطْمَئِنَّةً يَأْتِيهَا رِزْقُهَا رَغَدًا مِنْ كُلِّ مَكَانٍ فَكَفَرَتْ بِأَنْعُمِ اللَّهِ فَأَذَاقَهَا اللَّهُ لِبَاسَ الْجُوعِ وَالْخَوْفِ بِمَا كَانُوا يَصْنَعُونَ",
+        "en_sahih": "English translation of [16:112] in Sahih International style.",
+        "en_yusufali": "English translation of [16:112] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 112 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:112] en español.",
+        "fr_hamidullah": "Traduction de [16:112] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 112 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:113",
+      "surahNumber": 16,
+      "ayahNumber": 113,
+      "text": {
+        "simple": "وَلَقَدْ جَاءَهُمْ رَسُولٌ مِنْهُمْ فَكَذَّبُوهُ فَأَخَذَهُمُ الْعَذَابُ وَهُمْ ظَالِمُونَ",
+        "en_sahih": "English translation of [16:113] in Sahih International style.",
+        "en_yusufali": "English translation of [16:113] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 113 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:113] en español.",
+        "fr_hamidullah": "Traduction de [16:113] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 113 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:114",
+      "surahNumber": 16,
+      "ayahNumber": 114,
+      "text": {
+        "simple": "فَكُلُوا مِمَّا رَزَقَكُمُ اللَّهُ حَلَالًا طَيِّبًا وَاشْكُرُوا نِعْمَتَ اللَّهِ إِنْ كُنْتُمْ إِيَّاهُ تَعْبُدُونَ",
+        "en_sahih": "English translation of [16:114] in Sahih International style.",
+        "en_yusufali": "English translation of [16:114] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 114 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:114] en español.",
+        "fr_hamidullah": "Traduction de [16:114] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 114 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:115",
+      "surahNumber": 16,
+      "ayahNumber": 115,
+      "text": {
+        "simple": "إِنَّمَا حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنْزِيرِ وَمَا أُهِلَّ لِغَيْرِ اللَّهِ بِهِ ۖ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+        "en_sahih": "English translation of [16:115] in Sahih International style.",
+        "en_yusufali": "English translation of [16:115] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 115 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:115] en español.",
+        "fr_hamidullah": "Traduction de [16:115] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 115 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:116",
+      "surahNumber": 16,
+      "ayahNumber": 116,
+      "text": {
+        "simple": "وَلَا تَقُولُوا لِمَا تَصِفُ أَلْسِنَتُكُمُ الْكَذِبَ هَٰذَا حَلَالٌ وَهَٰذَا حَرَامٌ لِتَفْتَرُوا عَلَى اللَّهِ الْكَذِبَ ۚ إِنَّ الَّذِينَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ لَا يُفْلِحُونَ",
+        "en_sahih": "English translation of [16:116] in Sahih International style.",
+        "en_yusufali": "English translation of [16:116] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 116 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:116] en español.",
+        "fr_hamidullah": "Traduction de [16:116] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 116 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:117",
+      "surahNumber": 16,
+      "ayahNumber": 117,
+      "text": {
+        "simple": "مَتَاعٌ قَلِيلٌ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+        "en_sahih": "English translation of [16:117] in Sahih International style.",
+        "en_yusufali": "English translation of [16:117] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 117 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:117] en español.",
+        "fr_hamidullah": "Traduction de [16:117] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 117 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:118",
+      "surahNumber": 16,
+      "ayahNumber": 118,
+      "text": {
+        "simple": "وَعَلَى الَّذِينَ هَادُوا حَرَّمْنَا مَا قَصَصْنَا عَلَيْكَ مِنْ قَبْلُ ۖ وَمَا ظَلَمْنَاهُمْ وَلَٰكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ",
+        "en_sahih": "English translation of [16:118] in Sahih International style.",
+        "en_yusufali": "English translation of [16:118] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 118 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:118] en español.",
+        "fr_hamidullah": "Traduction de [16:118] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 118 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:119",
+      "surahNumber": 16,
+      "ayahNumber": 119,
+      "text": {
+        "simple": "ثُمَّ إِنَّ رَبَّكَ لِلَّذِينَ عَمِلُوا السُّوءَ بِجَهَالَةٍ ثُمَّ تَابُوا مِنْ بَعْدِ ذَٰلِكَ وَأَصْلَحُوا إِنَّ رَبَّكَ مِنْ بَعْدِهَا لَغَفُورٌ رَحِيمٌ",
+        "en_sahih": "English translation of [16:119] in Sahih International style.",
+        "en_yusufali": "English translation of [16:119] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 119 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:119] en español.",
+        "fr_hamidullah": "Traduction de [16:119] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 119 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:120",
+      "surahNumber": 16,
+      "ayahNumber": 120,
+      "text": {
+        "simple": "إِنَّ إِبْرَاهِيمَ كَانَ أُمَّةً قَانِتًا لِلَّهِ حَنِيفًا وَلَمْ يَكُ مِنَ الْمُشْرِكِينَ",
+        "en_sahih": "English translation of [16:120] in Sahih International style.",
+        "en_yusufali": "English translation of [16:120] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 120 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:120] en español.",
+        "fr_hamidullah": "Traduction de [16:120] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 120 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:121",
+      "surahNumber": 16,
+      "ayahNumber": 121,
+      "text": {
+        "simple": "شَاكِرًا لِأَنْعُمِهِ ۚ اجْتَبَاهُ وَهَدَاهُ إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+        "en_sahih": "English translation of [16:121] in Sahih International style.",
+        "en_yusufali": "English translation of [16:121] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 121 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:121] en español.",
+        "fr_hamidullah": "Traduction de [16:121] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 121 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:122",
+      "surahNumber": 16,
+      "ayahNumber": 122,
+      "text": {
+        "simple": "وَآتَيْنَاهُ فِي الدُّنْيَا حَسَنَةً ۖ وَإِنَّهُ فِي الْآخِرَةِ لَمِنَ الصَّالِحِينَ",
+        "en_sahih": "English translation of [16:122] in Sahih International style.",
+        "en_yusufali": "English translation of [16:122] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 122 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:122] en español.",
+        "fr_hamidullah": "Traduction de [16:122] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 122 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:123",
+      "surahNumber": 16,
+      "ayahNumber": 123,
+      "text": {
+        "simple": "ثُمَّ أَوْحَيْنَا إِلَيْكَ أَنِ اتَّبِعْ مِلَّةَ إِبْرَاهِيمَ حَنِيفًا ۖ وَمَا كَانَ مِنَ الْمُشْرِكِينَ",
+        "en_sahih": "English translation of [16:123] in Sahih International style.",
+        "en_yusufali": "English translation of [16:123] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 123 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:123] en español.",
+        "fr_hamidullah": "Traduction de [16:123] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 123 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:124",
+      "surahNumber": 16,
+      "ayahNumber": 124,
+      "text": {
+        "simple": "إِنَّمَا جُعِلَ السَّبْتُ عَلَى الَّذِينَ اخْتَلَفُوا فِيهِ ۚ وَإِنَّ رَبَّكَ لَيَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ",
+        "en_sahih": "English translation of [16:124] in Sahih International style.",
+        "en_yusufali": "English translation of [16:124] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 124 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:124] en español.",
+        "fr_hamidullah": "Traduction de [16:124] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 124 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:125",
+      "surahNumber": 16,
+      "ayahNumber": 125,
+      "text": {
+        "simple": "ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ ۖ وَجَادِلْهُمْ بِالَّتِي هِيَ أَحْسَنُ ۚ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَنْ ضَلَّ عَنْ سَبِيلِهِ ۖ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ",
+        "en_sahih": "English translation of [16:125] in Sahih International style.",
+        "en_yusufali": "English translation of [16:125] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 125 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:125] en español.",
+        "fr_hamidullah": "Traduction de [16:125] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 125 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:126",
+      "surahNumber": 16,
+      "ayahNumber": 126,
+      "text": {
+        "simple": "وَإِنْ عَاقَبْتُمْ فَعَاقِبُوا بِمِثْلِ مَا عُوقِبْتُمْ بِهِ ۖ وَلَئِنْ صَبَرْتُمْ لَهُوَ خَيْرٌ لِلصَّابِرِينَ",
+        "en_sahih": "English translation of [16:126] in Sahih International style.",
+        "en_yusufali": "English translation of [16:126] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 126 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:126] en español.",
+        "fr_hamidullah": "Traduction de [16:126] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 126 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:127",
+      "surahNumber": 16,
+      "ayahNumber": 127,
+      "text": {
+        "simple": "وَاصْبِرْ وَمَا صَبْرُكَ إِلَّا بِاللَّهِ ۚ وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِي ضَيْقٍ مِمَّا يَمْكُرُونَ",
+        "en_sahih": "English translation of [16:127] in Sahih International style.",
+        "en_yusufali": "English translation of [16:127] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 127 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:127] en español.",
+        "fr_hamidullah": "Traduction de [16:127] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 127 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "16:128",
+      "surahNumber": 16,
+      "ayahNumber": 128,
+      "text": {
+        "simple": "إِنَّ اللَّهَ مَعَ الَّذِينَ اتَّقَوْا وَالَّذِينَ هُمْ مُحْسِنُونَ",
+        "en_sahih": "English translation of [16:128] in Sahih International style.",
+        "en_yusufali": "English translation of [16:128] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 16 آیت 128 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [16:128] en español.",
+        "fr_hamidullah": "Traduction de [16:128] en français.",
+        "bn_hoque": "সূরা 16 আয়াত 128 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

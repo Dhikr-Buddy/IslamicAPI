@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.959Z",
+  "surahNumber": 1,
+  "ayahCount": 7,
+  "ayahs": [
+    {
+      "id": "1:1",
+      "surahNumber": 1,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+        "en_sahih": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+        "en_yusufali": "In the name of Allah, Most Gracious, Most Merciful.",
+        "ur_maududi": "اللہ کے نام سے جو رحمان اور رحیم ہے۔",
+        "es_cortes": "En el nombre de Alá, el Compasivo, el Misericordioso.",
+        "fr_hamidullah": "Au nom d'Allah, le Tout Miséricordieux, le Très Miséricordieux.",
+        "bn_hoque": "পরম করুণাময় ও অসীম দয়ালু আল্লাহর নামে।"
+      }
+    },
+    {
+      "id": "1:2",
+      "surahNumber": 1,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+        "en_sahih": "[All] praise is [due] to Allah, Lord of the worlds -",
+        "en_yusufali": "Praise be to Allah, the Cherisher and Sustainer of the Worlds;",
+        "ur_maududi": "تعریف اللہ ہی کے لیے ہے جو تمام کائنات کا رب ہے۔",
+        "es_cortes": "Alabado sea Alá, Señor del universo,",
+        "fr_hamidullah": "Louange à Allah, Seigneur de l'univers.",
+        "bn_hoque": "সব প্রশংসা আল্লাহরই প্রাপ্য, যিনি সমগ্র সৃষ্টিজগতের প্রতিপালক।"
+      }
+    },
+    {
+      "id": "1:3",
+      "surahNumber": 1,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "الرَّحْمَٰنِ الرَّحِيمِ",
+        "en_sahih": "The Entirely Merciful, the Especially Merciful,",
+        "en_yusufali": "Most Gracious, Most Merciful;",
+        "ur_maududi": "رحمان اور رحیم ہے۔",
+        "es_cortes": "el Compasivo, el Misericordioso,",
+        "fr_hamidullah": "Le Tout Miséricordieux, le Très Miséricordieux,",
+        "bn_hoque": "পরম করুণাময়, অসীম দয়ালু।"
+      }
+    },
+    {
+      "id": "1:4",
+      "surahNumber": 1,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "مَالِكِ يَوْمِ الدِّينِ",
+        "en_sahih": "Sovereign of the Day of Recompense.",
+        "en_yusufali": "Master of the Day of Judgment.",
+        "ur_maududi": "روزِ جزا کا مالک ہے۔",
+        "es_cortes": "Dueño del día del Juicio.",
+        "fr_hamidullah": "Maître du Jour de la rétribution.",
+        "bn_hoque": "প্রতিফল দিবসের মালিক।"
+      }
+    },
+    {
+      "id": "1:5",
+      "surahNumber": 1,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+        "en_sahih": "It is You we worship and You we ask for help.",
+        "en_yusufali": "Thee do we worship, and Thine aid we seek.",
+        "ur_maududi": "ہم ٹیری ہی عبادت کرتے ہیں اور تجھی سے مدد مانگتے ہیں۔",
+        "es_cortes": "A Ti solo servimos y a Ti solo pedimos ayuda.",
+        "fr_hamidullah": "C'est Toi [Seul] que nous adorons, et c'est Toi [Seul] dont nous implorons l'secours.",
+        "bn_hoque": "আমরা কেবল তোমারই এবাদত করি এবং কেবল তোমারই সাহায্য প্রার্থনা করি।"
+      }
+    },
+    {
+      "id": "1:6",
+      "surahNumber": 1,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+        "en_sahih": "Guide us to the straight path -",
+        "en_yusufali": "Show us the straight way,",
+        "ur_maududi": "ہمیں سیدھا راستہ دکھا",
+        "es_cortes": "Dirígenos por la vía recta,",
+        "fr_hamidullah": "Guide-nous dans le droit chemin,",
+        "bn_hoque": "আমাদের সরল পথ প্রদর্শন কর।"
+      }
+    },
+    {
+      "id": "1:7",
+      "surahNumber": 1,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+        "en_sahih": "The path of those upon whom You have bestowed favor, not of those who have earned [Your] anger or of those who are astray.",
+        "en_yusufali": "The way of those on whom Thou hast bestowed Thy Grace, those whose (portion) is not wrath, and who go not astray.",
+        "ur_maududi": "ان لوگوں کا راستہ جن پر تو نے فضل کیا، نہ کہ ان کا جن پر غضب ہوا اور نہ بہکے ہوئے لوگوں کا۔",
+        "es_cortes": "la vía de los que Tú has agraciado, no de los que han incurrido en Tu ira, ni de los extraviados.",
+        "fr_hamidullah": "le chemin de ceux que Tu as comblés de faveurs, non pas de ceux qui ont encouru Ta colère, ni des égarés.",
+        "bn_hoque": "তাদের পথে, যাদের তুমি অনুগ্রহ দান করেছ; তাদের পথে নয় যারা ক্রোধগ্রস্ত এবং যারা পথভ্রষ্ট হয়েছে।"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

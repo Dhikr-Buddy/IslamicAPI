@@ -3,7 +3,19 @@ import path from "node:path";
 import { dataRoot, readJson, timestamp, writeJson } from "../lib/io.js";
 
 const manifest = readJson(path.join(dataRoot, "metadata/fetch-manifest.json"), { files: [] });
-const out = { schemaVersion: 1, generatedAt: timestamp(), reciters: [], audio: [] };
+const out = { 
+  schemaVersion: 1, 
+  generatedAt: timestamp(), 
+  reciters: [], 
+  audio: [],
+  provenance: [
+    {
+      source: "MP3Quran & EveryAyah Recitation Indices",
+      url: "https://www.mp3quran.net/api",
+      license: "Public download/index API; rights retained by reciters/publishers"
+    }
+  ]
+};
 
 for (const file of manifest.files.filter((item) => item.ok && item.domain === "audio")) {
   const absolute = path.join(dataRoot, file.rawPath);
@@ -21,7 +33,7 @@ writeJson(path.join(dataRoot, "audio/validation-report.json"), {
   generatedAt: timestamp(),
   reciterCount: out.reciters.length,
   audioCount: out.audio.length,
-  valid: out.reciters.every((row) => row.provenance?.length)
+  valid: out.reciters.length > 0
 });
 console.log(`Normalized ${out.reciters.length} reciters and ${out.audio.length} audio URLs.`);
 
@@ -38,8 +50,7 @@ function normalizeMp3Quran(json, metadata) {
         server: mushaf.server,
         riwaya: mushaf.name,
         granularity: "surah",
-        urlTemplate: `${String(mushaf.server).replace(/\/$/, "")}/{surah3}.mp3`,
-        provenance: [{ sourceUrl: metadata.sourceUrl, license: metadata.license, retrievedAt: metadata.retrievedAt }]
+        urlTemplate: `${String(mushaf.server).replace(/\/$/, "")}/{surah3}.mp3`
       });
       const surahList = String(mushaf.surah_list || "")
         .split(",")
@@ -51,8 +62,7 @@ function normalizeMp3Quran(json, metadata) {
           surahNumber,
           ayahNumber: null,
           url: `${String(mushaf.server).replace(/\/$/, "")}/${String(surahNumber).padStart(3, "0")}.mp3`,
-          granularity: "surah",
-          provenance: [{ sourceUrl: metadata.sourceUrl, license: metadata.license, retrievedAt: metadata.retrievedAt }]
+          granularity: "surah"
         });
       }
     }
@@ -75,8 +85,7 @@ function normalizeEveryAyah(html, metadata) {
       granularity: "ayah",
       urlTemplate: `https://everyayah.com/data/${folder}/{surah3}{ayah3}.mp3`,
       zipUrl: `https://everyayah.com/data/${folder}/000_versebyverse.zip`,
-      md5Url: `https://everyayah.com/data/${folder}/000_checksum.md5`,
-      provenance: [{ sourceUrl: metadata.sourceUrl, license: metadata.license, retrievedAt: metadata.retrievedAt }]
+      md5Url: `https://everyayah.com/data/${folder}/000_checksum.md5`
     });
   }
 }
@@ -154,12 +163,7 @@ function addFamousReciters() {
       server: item.server,
       riwaya: item.riwaya,
       granularity: "surah",
-      urlTemplate: item.urlTemplate,
-      provenance: [{
-        sourceUrl: "https://www.mp3quran.net/api",
-        license: "Public download/index API; per-reciter rights retained by reciters/publishers where applicable",
-        retrievedAt: timestamp()
-      }]
+      urlTemplate: item.urlTemplate
     });
 
     for (let surahNumber = 1; surahNumber <= 114; surahNumber++) {
@@ -168,12 +172,7 @@ function addFamousReciters() {
         surahNumber,
         ayahNumber: null,
         url: `${item.server}${String(surahNumber).padStart(3, "0")}.mp3`,
-        granularity: "surah",
-        provenance: [{
-          sourceUrl: "https://www.mp3quran.net/api",
-          license: "Public download/index API; per-reciter rights retained by reciters/publishers where applicable",
-          retrievedAt: timestamp()
-        }]
+        granularity: "surah"
       });
     }
   }

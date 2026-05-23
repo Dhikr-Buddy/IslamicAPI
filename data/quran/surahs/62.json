@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.993Z",
+  "surahNumber": 62,
+  "ayahCount": 11,
+  "ayahs": [
+    {
+      "id": "62:1",
+      "surahNumber": 62,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ يُسَبِّحُ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ الْمَلِكِ الْقُدُّوسِ الْعَزِيزِ الْحَكِيمِ",
+        "en_sahih": "English translation of [62:1] in Sahih International style.",
+        "en_yusufali": "English translation of [62:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 62 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [62:1] en español.",
+        "fr_hamidullah": "Traduction de [62:1] en français.",
+        "bn_hoque": "সূরা 62 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "62:2",
+      "surahNumber": 62,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "هُوَ الَّذِي بَعَثَ فِي الْأُمِّيِّينَ رَسُولًا مِنْهُمْ يَتْلُو عَلَيْهِمْ آيَاتِهِ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ وَإِنْ كَانُوا مِنْ قَبْلُ لَفِي ضَلَالٍ مُبِينٍ",
+        "en_sahih": "English translation of [62:2] in Sahih International style.",
+        "en_yusufali": "English translation of [62:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 62 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [62:2] en español.",
+        "fr_hamidullah": "Traduction de [62:2] en français.",
+        "bn_hoque": "সূরা 62 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "62:3",
+      "surahNumber": 62,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "وَآخَرِينَ مِنْهُمْ لَمَّا يَلْحَقُوا بِهِمْ ۚ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+        "en_sahih": "English translation of [62:3] in Sahih International style.",
+        "en_yusufali": "English translation of [62:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 62 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [62:3] en español.",
+        "fr_hamidullah": "Traduction de [62:3] en français.",
+        "bn_hoque": "সূরা 62 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "62:4",
+      "surahNumber": 62,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "ذَٰلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَنْ يَشَاءُ ۚ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ",
+        "en_sahih": "English translation of [62:4] in Sahih International style.",
+        "en_yusufali": "English translation of [62:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 62 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [62:4] en español.",
+        "fr_hamidullah": "Traduction de [62:4] en français.",
+        "bn_hoque": "সূরা 62 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "62:5",
+      "surahNumber": 62,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "مَثَلُ الَّذِينَ حُمِّلُوا التَّوْرَاةَ ثُمَّ لَمْ يَحْمِلُوهَا كَمَثَلِ الْحِمَارِ يَحْمِلُ أَسْفَارًا ۚ بِئْسَ مَثَلُ الْقَوْمِ الَّذِينَ كَذَّبُوا بِآيَاتِ اللَّهِ ۚ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ",
+        "en_sahih": "English translation of [62:5] in Sahih International style.",
+        "en_yusufali": "English translation of [62:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 62 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [62:5] en español.",
+        "fr_hamidullah": "Traduction de [62:5] en français.",
+        "bn_hoque": "সূরা 62 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "62:6",
+      "surahNumber": 62,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "قُلْ يَا أَيُّهَا الَّذِينَ هَادُوا إِنْ زَعَمْتُمْ أَنَّكُمْ أَوْلِيَاءُ لِلَّهِ مِنْ دُونِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ إِنْ كُنْتُمْ صَادِقِينَ",
+        "en_sahih": "English translation of [62:6] in Sahih International style.",
+        "en_yusufali": "English translation of [62:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 62 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [62:6] en español.",
+        "fr_hamidullah": "Traduction de [62:6] en français.",
+        "bn_hoque": "সূরা 62 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "62:7",
+      "surahNumber": 62,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "وَلَا يَتَمَنَّوْنَهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ ۚ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ",
+        "en_sahih": "English translation of [62:7] in Sahih International style.",
+        "en_yusufali": "English translation of [62:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 62 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [62:7] en español.",
+        "fr_hamidullah": "Traduction de [62:7] en français.",
+        "bn_hoque": "সূরা 62 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "62:8",
+      "surahNumber": 62,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "قُلْ إِنَّ الْمَوْتَ الَّذِي تَفِرُّونَ مِنْهُ فَإِنَّهُ مُلَاقِيكُمْ ۖ ثُمَّ تُرَدُّونَ إِلَىٰ عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ",
+        "en_sahih": "English translation of [62:8] in Sahih International style.",
+        "en_yusufali": "English translation of [62:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 62 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [62:8] en español.",
+        "fr_hamidullah": "Traduction de [62:8] en français.",
+        "bn_hoque": "সূরা 62 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "62:9",
+      "surahNumber": 62,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نُودِيَ لِلصَّلَاةِ مِنْ يَوْمِ الْجُمُعَةِ فَاسْعَوْا إِلَىٰ ذِكْرِ اللَّهِ وَذَرُوا الْبَيْعَ ۚ ذَٰلِكُمْ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ",
+        "en_sahih": "English translation of [62:9] in Sahih International style.",
+        "en_yusufali": "English translation of [62:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 62 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [62:9] en español.",
+        "fr_hamidullah": "Traduction de [62:9] en français.",
+        "bn_hoque": "সূরা 62 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "62:10",
+      "surahNumber": 62,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "فَإِذَا قُضِيَتِ الصَّلَاةُ فَانْتَشِرُوا فِي الْأَرْضِ وَابْتَغُوا مِنْ فَضْلِ اللَّهِ وَاذْكُرُوا اللَّهَ كَثِيرًا لَعَلَّكُمْ تُفْلِحُونَ",
+        "en_sahih": "English translation of [62:10] in Sahih International style.",
+        "en_yusufali": "English translation of [62:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 62 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [62:10] en español.",
+        "fr_hamidullah": "Traduction de [62:10] en français.",
+        "bn_hoque": "সূরা 62 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "62:11",
+      "surahNumber": 62,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "وَإِذَا رَأَوْا تِجَارَةً أَوْ لَهْوًا انْفَضُّوا إِلَيْهَا وَتَرَكُوكَ قَائِمًا ۚ قُلْ مَا عِنْدَ اللَّهِ خَيْرٌ مِنَ اللَّهْوِ وَمِنَ التِّجَارَةِ ۚ وَاللَّهُ خَيْرُ الرَّازِقِينَ",
+        "en_sahih": "English translation of [62:11] in Sahih International style.",
+        "en_yusufali": "English translation of [62:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 62 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [62:11] en español.",
+        "fr_hamidullah": "Traduction de [62:11] en français.",
+        "bn_hoque": "সূরা 62 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

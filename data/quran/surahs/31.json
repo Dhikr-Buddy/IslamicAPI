@@ -1,0 +1,491 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.983Z",
+  "surahNumber": 31,
+  "ayahCount": 34,
+  "ayahs": [
+    {
+      "id": "31:1",
+      "surahNumber": 31,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ الم",
+        "en_sahih": "English translation of [31:1] in Sahih International style.",
+        "en_yusufali": "English translation of [31:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 31 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [31:1] en español.",
+        "fr_hamidullah": "Traduction de [31:1] en français.",
+        "bn_hoque": "সূরা 31 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "31:2",
+      "surahNumber": 31,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "تِلْكَ آيَاتُ الْكِتَابِ الْحَكِيمِ",
+        "en_sahih": "English translation of [31:2] in Sahih International style.",
+        "en_yusufali": "English translation of [31:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 31 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [31:2] en español.",
+        "fr_hamidullah": "Traduction de [31:2] en français.",
+        "bn_hoque": "সূরা 31 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "31:3",
+      "surahNumber": 31,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "هُدًى وَرَحْمَةً لِلْمُحْسِنِينَ",
+        "en_sahih": "English translation of [31:3] in Sahih International style.",
+        "en_yusufali": "English translation of [31:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 31 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [31:3] en español.",
+        "fr_hamidullah": "Traduction de [31:3] en français.",
+        "bn_hoque": "সূরা 31 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "31:4",
+      "surahNumber": 31,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ بِالْآخِرَةِ هُمْ يُوقِنُونَ",
+        "en_sahih": "English translation of [31:4] in Sahih International style.",
+        "en_yusufali": "English translation of [31:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 31 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [31:4] en español.",
+        "fr_hamidullah": "Traduction de [31:4] en français.",
+        "bn_hoque": "সূরা 31 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "31:5",
+      "surahNumber": 31,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "أُولَٰئِكَ عَلَىٰ هُدًى مِنْ رَبِّهِمْ ۖ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+        "en_sahih": "English translation of [31:5] in Sahih International style.",
+        "en_yusufali": "English translation of [31:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 31 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [31:5] en español.",
+        "fr_hamidullah": "Traduction de [31:5] en français.",
+        "bn_hoque": "সূরা 31 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "31:6",
+      "surahNumber": 31,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "وَمِنَ النَّاسِ مَنْ يَشْتَرِي لَهْوَ الْحَدِيثِ لِيُضِلَّ عَنْ سَبِيلِ اللَّهِ بِغَيْرِ عِلْمٍ وَيَتَّخِذَهَا هُزُوًا ۚ أُولَٰئِكَ لَهُمْ عَذَابٌ مُهِينٌ",
+        "en_sahih": "English translation of [31:6] in Sahih International style.",
+        "en_yusufali": "English translation of [31:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 31 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [31:6] en español.",
+        "fr_hamidullah": "Traduction de [31:6] en français.",
+        "bn_hoque": "সূরা 31 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "31:7",
+      "surahNumber": 31,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "وَإِذَا تُتْلَىٰ عَلَيْهِ آيَاتُنَا وَلَّىٰ مُسْتَكْبِرًا كَأَنْ لَمْ يَسْمَعْهَا كَأَنَّ فِي أُذُنَيْهِ وَقْرًا ۖ فَبَشِّرْهُ بِعَذَابٍ أَلِيمٍ",
+        "en_sahih": "English translation of [31:7] in Sahih International style.",
+        "en_yusufali": "English translation of [31:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 31 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [31:7] en español.",
+        "fr_hamidullah": "Traduction de [31:7] en français.",
+        "bn_hoque": "সূরা 31 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "31:8",
+      "surahNumber": 31,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ جَنَّاتُ النَّعِيمِ",
+        "en_sahih": "English translation of [31:8] in Sahih International style.",
+        "en_yusufali": "English translation of [31:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 31 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [31:8] en español.",
+        "fr_hamidullah": "Traduction de [31:8] en français.",
+        "bn_hoque": "সূরা 31 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "31:9",
+      "surahNumber": 31,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "خَالِدِينَ فِيهَا ۖ وَعْدَ اللَّهِ حَقًّا ۚ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+        "en_sahih": "English translation of [31:9] in Sahih International style.",
+        "en_yusufali": "English translation of [31:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 31 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [31:9] en español.",
+        "fr_hamidullah": "Traduction de [31:9] en français.",
+        "bn_hoque": "সূরা 31 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "31:10",
+      "surahNumber": 31,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "خَلَقَ السَّمَاوَاتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا ۖ وَأَلْقَىٰ فِي الْأَرْضِ رَوَاسِيَ أَنْ تَمِيدَ بِكُمْ وَبَثَّ فِيهَا مِنْ كُلِّ دَابَّةٍ ۚ وَأَنْزَلْنَا مِنَ السَّمَاءِ مَاءً فَأَنْبَتْنَا فِيهَا مِنْ كُلِّ زَوْجٍ كَرِيمٍ",
+        "en_sahih": "English translation of [31:10] in Sahih International style.",
+        "en_yusufali": "English translation of [31:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 31 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [31:10] en español.",
+        "fr_hamidullah": "Traduction de [31:10] en français.",
+        "bn_hoque": "সূরা 31 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "31:11",
+      "surahNumber": 31,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "هَٰذَا خَلْقُ اللَّهِ فَأَرُونِي مَاذَا خَلَقَ الَّذِينَ مِنْ دُونِهِ ۚ بَلِ الظَّالِمُونَ فِي ضَلَالٍ مُبِينٍ",
+        "en_sahih": "English translation of [31:11] in Sahih International style.",
+        "en_yusufali": "English translation of [31:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 31 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [31:11] en español.",
+        "fr_hamidullah": "Traduction de [31:11] en français.",
+        "bn_hoque": "সূরা 31 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "31:12",
+      "surahNumber": 31,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "وَلَقَدْ آتَيْنَا لُقْمَانَ الْحِكْمَةَ أَنِ اشْكُرْ لِلَّهِ ۚ وَمَنْ يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِ ۖ وَمَنْ كَفَرَ فَإِنَّ اللَّهَ غَنِيٌّ حَمِيدٌ",
+        "en_sahih": "English translation of [31:12] in Sahih International style.",
+        "en_yusufali": "English translation of [31:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 31 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [31:12] en español.",
+        "fr_hamidullah": "Traduction de [31:12] en français.",
+        "bn_hoque": "সূরা 31 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "31:13",
+      "surahNumber": 31,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "وَإِذْ قَالَ لُقْمَانُ لِابْنِهِ وَهُوَ يَعِظُهُ يَا بُنَيَّ لَا تُشْرِكْ بِاللَّهِ ۖ إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ",
+        "en_sahih": "English translation of [31:13] in Sahih International style.",
+        "en_yusufali": "English translation of [31:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 31 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [31:13] en español.",
+        "fr_hamidullah": "Traduction de [31:13] en français.",
+        "bn_hoque": "সূরা 31 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "31:14",
+      "surahNumber": 31,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "وَوَصَّيْنَا الْإِنْسَانَ بِوَالِدَيْهِ حَمَلَتْهُ أُمُّهُ وَهْنًا عَلَىٰ وَهْنٍ وَفِصَالُهُ فِي عَامَيْنِ أَنِ اشْكُرْ لِي وَلِوَالِدَيْكَ إِلَيَّ الْمَصِيرُ",
+        "en_sahih": "English translation of [31:14] in Sahih International style.",
+        "en_yusufali": "English translation of [31:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 31 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [31:14] en español.",
+        "fr_hamidullah": "Traduction de [31:14] en français.",
+        "bn_hoque": "সূরা 31 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "31:15",
+      "surahNumber": 31,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "وَإِنْ جَاهَدَاكَ عَلَىٰ أَنْ تُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلَا تُطِعْهُمَا ۖ وَصَاحِبْهُمَا فِي الدُّنْيَا مَعْرُوفًا ۖ وَاتَّبِعْ سَبِيلَ مَنْ أَنَابَ إِلَيَّ ۚ ثُمَّ إِلَيَّ مَرْجِعُكُمْ فَأُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ",
+        "en_sahih": "English translation of [31:15] in Sahih International style.",
+        "en_yusufali": "English translation of [31:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 31 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [31:15] en español.",
+        "fr_hamidullah": "Traduction de [31:15] en français.",
+        "bn_hoque": "সূরা 31 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "31:16",
+      "surahNumber": 31,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "يَا بُنَيَّ إِنَّهَا إِنْ تَكُ مِثْقَالَ حَبَّةٍ مِنْ خَرْدَلٍ فَتَكُنْ فِي صَخْرَةٍ أَوْ فِي السَّمَاوَاتِ أَوْ فِي الْأَرْضِ يَأْتِ بِهَا اللَّهُ ۚ إِنَّ اللَّهَ لَطِيفٌ خَبِيرٌ",
+        "en_sahih": "English translation of [31:16] in Sahih International style.",
+        "en_yusufali": "English translation of [31:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 31 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [31:16] en español.",
+        "fr_hamidullah": "Traduction de [31:16] en français.",
+        "bn_hoque": "সূরা 31 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "31:17",
+      "surahNumber": 31,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "يَا بُنَيَّ أَقِمِ الصَّلَاةَ وَأْمُرْ بِالْمَعْرُوفِ وَانْهَ عَنِ الْمُنْكَرِ وَاصْبِرْ عَلَىٰ مَا أَصَابَكَ ۖ إِنَّ ذَٰلِكَ مِنْ عَزْمِ الْأُمُورِ",
+        "en_sahih": "English translation of [31:17] in Sahih International style.",
+        "en_yusufali": "English translation of [31:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 31 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [31:17] en español.",
+        "fr_hamidullah": "Traduction de [31:17] en français.",
+        "bn_hoque": "সূরা 31 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "31:18",
+      "surahNumber": 31,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا ۖ إِنَّ اللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ",
+        "en_sahih": "English translation of [31:18] in Sahih International style.",
+        "en_yusufali": "English translation of [31:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 31 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [31:18] en español.",
+        "fr_hamidullah": "Traduction de [31:18] en français.",
+        "bn_hoque": "সূরা 31 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "31:19",
+      "surahNumber": 31,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "وَاقْصِدْ فِي مَشْيِكَ وَاغْضُضْ مِنْ صَوْتِكَ ۚ إِنَّ أَنْكَرَ الْأَصْوَاتِ لَصَوْتُ الْحَمِيرِ",
+        "en_sahih": "English translation of [31:19] in Sahih International style.",
+        "en_yusufali": "English translation of [31:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 31 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [31:19] en español.",
+        "fr_hamidullah": "Traduction de [31:19] en français.",
+        "bn_hoque": "সূরা 31 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "31:20",
+      "surahNumber": 31,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "أَلَمْ تَرَوْا أَنَّ اللَّهَ سَخَّرَ لَكُمْ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَأَسْبَغَ عَلَيْكُمْ نِعَمَهُ ظَاهِرَةً وَبَاطِنَةً ۗ وَمِنَ النَّاسِ مَنْ يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ وَلَا هُدًى وَلَا كِتَابٍ مُنِيرٍ",
+        "en_sahih": "English translation of [31:20] in Sahih International style.",
+        "en_yusufali": "English translation of [31:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 31 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [31:20] en español.",
+        "fr_hamidullah": "Traduction de [31:20] en français.",
+        "bn_hoque": "সূরা 31 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "31:21",
+      "surahNumber": 31,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنْزَلَ اللَّهُ قَالُوا بَلْ نَتَّبِعُ مَا وَجَدْنَا عَلَيْهِ آبَاءَنَا ۚ أَوَلَوْ كَانَ الشَّيْطَانُ يَدْعُوهُمْ إِلَىٰ عَذَابِ السَّعِيرِ",
+        "en_sahih": "English translation of [31:21] in Sahih International style.",
+        "en_yusufali": "English translation of [31:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 31 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [31:21] en español.",
+        "fr_hamidullah": "Traduction de [31:21] en français.",
+        "bn_hoque": "সূরা 31 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "31:22",
+      "surahNumber": 31,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "۞ وَمَنْ يُسْلِمْ وَجْهَهُ إِلَى اللَّهِ وَهُوَ مُحْسِنٌ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ ۗ وَإِلَى اللَّهِ عَاقِبَةُ الْأُمُورِ",
+        "en_sahih": "English translation of [31:22] in Sahih International style.",
+        "en_yusufali": "English translation of [31:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 31 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [31:22] en español.",
+        "fr_hamidullah": "Traduction de [31:22] en français.",
+        "bn_hoque": "সূরা 31 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "31:23",
+      "surahNumber": 31,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "وَمَنْ كَفَرَ فَلَا يَحْزُنْكَ كُفْرُهُ ۚ إِلَيْنَا مَرْجِعُهُمْ فَنُنَبِّئُهُمْ بِمَا عَمِلُوا ۚ إِنَّ اللَّهَ عَلِيمٌ بِذَاتِ الصُّدُورِ",
+        "en_sahih": "English translation of [31:23] in Sahih International style.",
+        "en_yusufali": "English translation of [31:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 31 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [31:23] en español.",
+        "fr_hamidullah": "Traduction de [31:23] en français.",
+        "bn_hoque": "সূরা 31 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "31:24",
+      "surahNumber": 31,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "نُمَتِّعُهُمْ قَلِيلًا ثُمَّ نَضْطَرُّهُمْ إِلَىٰ عَذَابٍ غَلِيظٍ",
+        "en_sahih": "English translation of [31:24] in Sahih International style.",
+        "en_yusufali": "English translation of [31:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 31 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [31:24] en español.",
+        "fr_hamidullah": "Traduction de [31:24] en français.",
+        "bn_hoque": "সূরা 31 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "31:25",
+      "surahNumber": 31,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "وَلَئِنْ سَأَلْتَهُمْ مَنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ لَيَقُولُنَّ اللَّهُ ۚ قُلِ الْحَمْدُ لِلَّهِ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ",
+        "en_sahih": "English translation of [31:25] in Sahih International style.",
+        "en_yusufali": "English translation of [31:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 31 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [31:25] en español.",
+        "fr_hamidullah": "Traduction de [31:25] en français.",
+        "bn_hoque": "সূরা 31 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "31:26",
+      "surahNumber": 31,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "لِلَّهِ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۚ إِنَّ اللَّهَ هُوَ الْغَنِيُّ الْحَمِيدُ",
+        "en_sahih": "English translation of [31:26] in Sahih International style.",
+        "en_yusufali": "English translation of [31:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 31 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [31:26] en español.",
+        "fr_hamidullah": "Traduction de [31:26] en français.",
+        "bn_hoque": "সূরা 31 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "31:27",
+      "surahNumber": 31,
+      "ayahNumber": 27,
+      "text": {
+        "simple": "وَلَوْ أَنَّمَا فِي الْأَرْضِ مِنْ شَجَرَةٍ أَقْلَامٌ وَالْبَحْرُ يَمُدُّهُ مِنْ بَعْدِهِ سَبْعَةُ أَبْحُرٍ مَا نَفِدَتْ كَلِمَاتُ اللَّهِ ۗ إِنَّ اللَّهَ عَزِيزٌ حَكِيمٌ",
+        "en_sahih": "English translation of [31:27] in Sahih International style.",
+        "en_yusufali": "English translation of [31:27] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 31 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [31:27] en español.",
+        "fr_hamidullah": "Traduction de [31:27] en français.",
+        "bn_hoque": "সূরা 31 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "31:28",
+      "surahNumber": 31,
+      "ayahNumber": 28,
+      "text": {
+        "simple": "مَا خَلْقُكُمْ وَلَا بَعْثُكُمْ إِلَّا كَنَفْسٍ وَاحِدَةٍ ۗ إِنَّ اللَّهَ سَمِيعٌ بَصِيرٌ",
+        "en_sahih": "English translation of [31:28] in Sahih International style.",
+        "en_yusufali": "English translation of [31:28] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 31 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [31:28] en español.",
+        "fr_hamidullah": "Traduction de [31:28] en français.",
+        "bn_hoque": "সূরা 31 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "31:29",
+      "surahNumber": 31,
+      "ayahNumber": 29,
+      "text": {
+        "simple": "أَلَمْ تَرَ أَنَّ اللَّهَ يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي إِلَىٰ أَجَلٍ مُسَمًّى وَأَنَّ اللَّهَ بِمَا تَعْمَلُونَ خَبِيرٌ",
+        "en_sahih": "English translation of [31:29] in Sahih International style.",
+        "en_yusufali": "English translation of [31:29] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 31 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [31:29] en español.",
+        "fr_hamidullah": "Traduction de [31:29] en français.",
+        "bn_hoque": "সূরা 31 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "31:30",
+      "surahNumber": 31,
+      "ayahNumber": 30,
+      "text": {
+        "simple": "ذَٰلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّ مَا يَدْعُونَ مِنْ دُونِهِ الْبَاطِلُ وَأَنَّ اللَّهَ هُوَ الْعَلِيُّ الْكَبِيرُ",
+        "en_sahih": "English translation of [31:30] in Sahih International style.",
+        "en_yusufali": "English translation of [31:30] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 31 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [31:30] en español.",
+        "fr_hamidullah": "Traduction de [31:30] en français.",
+        "bn_hoque": "সূরা 31 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "31:31",
+      "surahNumber": 31,
+      "ayahNumber": 31,
+      "text": {
+        "simple": "أَلَمْ تَرَ أَنَّ الْفُلْكَ تَجْرِي فِي الْبَحْرِ بِنِعْمَتِ اللَّهِ لِيُرِيَكُمْ مِنْ آيَاتِهِ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِكُلِّ صَبَّارٍ شَكُورٍ",
+        "en_sahih": "English translation of [31:31] in Sahih International style.",
+        "en_yusufali": "English translation of [31:31] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 31 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [31:31] en español.",
+        "fr_hamidullah": "Traduction de [31:31] en français.",
+        "bn_hoque": "সূরা 31 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "31:32",
+      "surahNumber": 31,
+      "ayahNumber": 32,
+      "text": {
+        "simple": "وَإِذَا غَشِيَهُمْ مَوْجٌ كَالظُّلَلِ دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ فَمِنْهُمْ مُقْتَصِدٌ ۚ وَمَا يَجْحَدُ بِآيَاتِنَا إِلَّا كُلُّ خَتَّارٍ كَفُورٍ",
+        "en_sahih": "English translation of [31:32] in Sahih International style.",
+        "en_yusufali": "English translation of [31:32] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 31 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [31:32] en español.",
+        "fr_hamidullah": "Traduction de [31:32] en français.",
+        "bn_hoque": "সূরা 31 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "31:33",
+      "surahNumber": 31,
+      "ayahNumber": 33,
+      "text": {
+        "simple": "يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمْ وَاخْشَوْا يَوْمًا لَا يَجْزِي وَالِدٌ عَنْ وَلَدِهِ وَلَا مَوْلُودٌ هُوَ جَازٍ عَنْ وَالِدِهِ شَيْئًا ۚ إِنَّ وَعْدَ اللَّهِ حَقٌّ ۖ فَلَا تَغُرَّنَّكُمُ الْحَيَاةُ الدُّنْيَا وَلَا يَغُرَّنَّكُمْ بِاللَّهِ الْغَرُورُ",
+        "en_sahih": "English translation of [31:33] in Sahih International style.",
+        "en_yusufali": "English translation of [31:33] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 31 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [31:33] en español.",
+        "fr_hamidullah": "Traduction de [31:33] en français.",
+        "bn_hoque": "সূরা 31 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "31:34",
+      "surahNumber": 31,
+      "ayahNumber": 34,
+      "text": {
+        "simple": "إِنَّ اللَّهَ عِنْدَهُ عِلْمُ السَّاعَةِ وَيُنَزِّلُ الْغَيْثَ وَيَعْلَمُ مَا فِي الْأَرْحَامِ ۖ وَمَا تَدْرِي نَفْسٌ مَاذَا تَكْسِبُ غَدًا ۖ وَمَا تَدْرِي نَفْسٌ بِأَيِّ أَرْضٍ تَمُوتُ ۚ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ",
+        "en_sahih": "English translation of [31:34] in Sahih International style.",
+        "en_yusufali": "English translation of [31:34] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 31 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [31:34] en español.",
+        "fr_hamidullah": "Traduction de [31:34] en français.",
+        "bn_hoque": "সূরা 31 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

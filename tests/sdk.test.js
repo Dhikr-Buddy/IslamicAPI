@@ -18,14 +18,15 @@ import {
   getPageTimestamps
 } from "../packages/deen-sdk/src/index.js";
 
-test("local Quran records expose provenance when synced", () => {
+test("local Quran records expose translations when synced", () => {
   const surah = getSurah(1);
   const ayah = getAyah(1, 1);
   assert.equal(surah?.number, 1);
   assert.equal(Array.isArray(surah?.ayahs), true);
   assert.equal(ayah?.surahNumber, 1);
   assert.equal(ayah?.ayahNumber, 1);
-  assert.ok(ayah?.provenance?.[0]?.sourceUrl);
+  assert.ok(ayah?.text?.en_sahih);
+  assert.ok(ayah?.text?.ur_maududi);
   assert.deepEqual(search("anything"), []);
 });
 
@@ -74,7 +75,7 @@ test("new famous reciters are loaded and have correct details", () => {
   assert.ok(sudais);
   assert.equal(sudais.name, "Abdul Rahman Al-Sudais");
   
-  const url = getAudioUrl("alafasy", 1, null);
+  const url = getAudioUrl("alafasy:mp3quran", 1, null);
   assert.match(url, /^https:\/\/server8\.mp3quran\.net\/afs\/001\.mp3/);
 });
 

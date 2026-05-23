@@ -1,0 +1,1555 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.974Z",
+  "surahNumber": 18,
+  "ayahCount": 110,
+  "ayahs": [
+    {
+      "id": "18:1",
+      "surahNumber": 18,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ الْحَمْدُ لِلَّهِ الَّذِي أَنْزَلَ عَلَىٰ عَبْدِهِ الْكِتَابَ وَلَمْ يَجْعَلْ لَهُ عِوَجًا ۜ",
+        "en_sahih": "English translation of [18:1] in Sahih International style.",
+        "en_yusufali": "English translation of [18:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:1] en español.",
+        "fr_hamidullah": "Traduction de [18:1] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:2",
+      "surahNumber": 18,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "قَيِّمًا لِيُنْذِرَ بَأْسًا شَدِيدًا مِنْ لَدُنْهُ وَيُبَشِّرَ الْمُؤْمِنِينَ الَّذِينَ يَعْمَلُونَ الصَّالِحَاتِ أَنَّ لَهُمْ أَجْرًا حَسَنًا",
+        "en_sahih": "English translation of [18:2] in Sahih International style.",
+        "en_yusufali": "English translation of [18:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:2] en español.",
+        "fr_hamidullah": "Traduction de [18:2] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:3",
+      "surahNumber": 18,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "مَاكِثِينَ فِيهِ أَبَدًا",
+        "en_sahih": "English translation of [18:3] in Sahih International style.",
+        "en_yusufali": "English translation of [18:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:3] en español.",
+        "fr_hamidullah": "Traduction de [18:3] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:4",
+      "surahNumber": 18,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "وَيُنْذِرَ الَّذِينَ قَالُوا اتَّخَذَ اللَّهُ وَلَدًا",
+        "en_sahih": "English translation of [18:4] in Sahih International style.",
+        "en_yusufali": "English translation of [18:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:4] en español.",
+        "fr_hamidullah": "Traduction de [18:4] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:5",
+      "surahNumber": 18,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "مَا لَهُمْ بِهِ مِنْ عِلْمٍ وَلَا لِآبَائِهِمْ ۚ كَبُرَتْ كَلِمَةً تَخْرُجُ مِنْ أَفْوَاهِهِمْ ۚ إِنْ يَقُولُونَ إِلَّا كَذِبًا",
+        "en_sahih": "English translation of [18:5] in Sahih International style.",
+        "en_yusufali": "English translation of [18:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:5] en español.",
+        "fr_hamidullah": "Traduction de [18:5] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:6",
+      "surahNumber": 18,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "فَلَعَلَّكَ بَاخِعٌ نَفْسَكَ عَلَىٰ آثَارِهِمْ إِنْ لَمْ يُؤْمِنُوا بِهَٰذَا الْحَدِيثِ أَسَفًا",
+        "en_sahih": "English translation of [18:6] in Sahih International style.",
+        "en_yusufali": "English translation of [18:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:6] en español.",
+        "fr_hamidullah": "Traduction de [18:6] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:7",
+      "surahNumber": 18,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "إِنَّا جَعَلْنَا مَا عَلَى الْأَرْضِ زِينَةً لَهَا لِنَبْلُوَهُمْ أَيُّهُمْ أَحْسَنُ عَمَلًا",
+        "en_sahih": "English translation of [18:7] in Sahih International style.",
+        "en_yusufali": "English translation of [18:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:7] en español.",
+        "fr_hamidullah": "Traduction de [18:7] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:8",
+      "surahNumber": 18,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "وَإِنَّا لَجَاعِلُونَ مَا عَلَيْهَا صَعِيدًا جُرُزًا",
+        "en_sahih": "English translation of [18:8] in Sahih International style.",
+        "en_yusufali": "English translation of [18:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:8] en español.",
+        "fr_hamidullah": "Traduction de [18:8] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:9",
+      "surahNumber": 18,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "أَمْ حَسِبْتَ أَنَّ أَصْحَابَ الْكَهْفِ وَالرَّقِيمِ كَانُوا مِنْ آيَاتِنَا عَجَبًا",
+        "en_sahih": "English translation of [18:9] in Sahih International style.",
+        "en_yusufali": "English translation of [18:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:9] en español.",
+        "fr_hamidullah": "Traduction de [18:9] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:10",
+      "surahNumber": 18,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "إِذْ أَوَى الْفِتْيَةُ إِلَى الْكَهْفِ فَقَالُوا رَبَّنَا آتِنَا مِنْ لَدُنْكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا",
+        "en_sahih": "English translation of [18:10] in Sahih International style.",
+        "en_yusufali": "English translation of [18:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:10] en español.",
+        "fr_hamidullah": "Traduction de [18:10] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:11",
+      "surahNumber": 18,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "فَضَرَبْنَا عَلَىٰ آذَانِهِمْ فِي الْكَهْفِ سِنِينَ عَدَدًا",
+        "en_sahih": "English translation of [18:11] in Sahih International style.",
+        "en_yusufali": "English translation of [18:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:11] en español.",
+        "fr_hamidullah": "Traduction de [18:11] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:12",
+      "surahNumber": 18,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "ثُمَّ بَعَثْنَاهُمْ لِنَعْلَمَ أَيُّ الْحِزْبَيْنِ أَحْصَىٰ لِمَا لَبِثُوا أَمَدًا",
+        "en_sahih": "English translation of [18:12] in Sahih International style.",
+        "en_yusufali": "English translation of [18:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:12] en español.",
+        "fr_hamidullah": "Traduction de [18:12] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:13",
+      "surahNumber": 18,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "نَحْنُ نَقُصُّ عَلَيْكَ نَبَأَهُمْ بِالْحَقِّ ۚ إِنَّهُمْ فِتْيَةٌ آمَنُوا بِرَبِّهِمْ وَزِدْنَاهُمْ هُدًى",
+        "en_sahih": "English translation of [18:13] in Sahih International style.",
+        "en_yusufali": "English translation of [18:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:13] en español.",
+        "fr_hamidullah": "Traduction de [18:13] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:14",
+      "surahNumber": 18,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "وَرَبَطْنَا عَلَىٰ قُلُوبِهِمْ إِذْ قَامُوا فَقَالُوا رَبُّنَا رَبُّ السَّمَاوَاتِ وَالْأَرْضِ لَنْ نَدْعُوَ مِنْ دُونِهِ إِلَٰهًا ۖ لَقَدْ قُلْنَا إِذًا شَطَطًا",
+        "en_sahih": "English translation of [18:14] in Sahih International style.",
+        "en_yusufali": "English translation of [18:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:14] en español.",
+        "fr_hamidullah": "Traduction de [18:14] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:15",
+      "surahNumber": 18,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "هَٰؤُلَاءِ قَوْمُنَا اتَّخَذُوا مِنْ دُونِهِ آلِهَةً ۖ لَوْلَا يَأْتُونَ عَلَيْهِمْ بِسُلْطَانٍ بَيِّنٍ ۖ فَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا",
+        "en_sahih": "English translation of [18:15] in Sahih International style.",
+        "en_yusufali": "English translation of [18:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:15] en español.",
+        "fr_hamidullah": "Traduction de [18:15] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:16",
+      "surahNumber": 18,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "وَإِذِ اعْتَزَلْتُمُوهُمْ وَمَا يَعْبُدُونَ إِلَّا اللَّهَ فَأْوُوا إِلَى الْكَهْفِ يَنْشُرْ لَكُمْ رَبُّكُمْ مِنْ رَحْمَتِهِ وَيُهَيِّئْ لَكُمْ مِنْ أَمْرِكُمْ مِرْفَقًا",
+        "en_sahih": "English translation of [18:16] in Sahih International style.",
+        "en_yusufali": "English translation of [18:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:16] en español.",
+        "fr_hamidullah": "Traduction de [18:16] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:17",
+      "surahNumber": 18,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "۞ وَتَرَى الشَّمْسَ إِذَا طَلَعَتْ تَزَاوَرُ عَنْ كَهْفِهِمْ ذَاتَ الْيَمِينِ وَإِذَا غَرَبَتْ تَقْرِضُهُمْ ذَاتَ الشِّمَالِ وَهُمْ فِي فَجْوَةٍ مِنْهُ ۚ ذَٰلِكَ مِنْ آيَاتِ اللَّهِ ۗ مَنْ يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِ ۖ وَمَنْ يُضْلِلْ فَلَنْ تَجِدَ لَهُ وَلِيًّا مُرْشِدًا",
+        "en_sahih": "English translation of [18:17] in Sahih International style.",
+        "en_yusufali": "English translation of [18:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:17] en español.",
+        "fr_hamidullah": "Traduction de [18:17] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:18",
+      "surahNumber": 18,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "وَتَحْسَبُهُمْ أَيْقَاظًا وَهُمْ رُقُودٌ ۚ وَنُقَلِّبُهُمْ ذَاتَ الْيَمِينِ وَذَاتَ الشِّمَالِ ۖ وَكَلْبُهُمْ بَاسِطٌ ذِرَاعَيْهِ بِالْوَصِيدِ ۚ لَوِ اطَّلَعْتَ عَلَيْهِمْ لَوَلَّيْتَ مِنْهُمْ فِرَارًا وَلَمُلِئْتَ مِنْهُمْ رُعْبًا",
+        "en_sahih": "English translation of [18:18] in Sahih International style.",
+        "en_yusufali": "English translation of [18:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:18] en español.",
+        "fr_hamidullah": "Traduction de [18:18] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:19",
+      "surahNumber": 18,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "وَكَذَٰلِكَ بَعَثْنَاهُمْ لِيَتَسَاءَلُوا بَيْنَهُمْ ۚ قَالَ قَائِلٌ مِنْهُمْ كَمْ لَبِثْتُمْ ۖ قَالُوا لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍ ۚ قَالُوا رَبُّكُمْ أَعْلَمُ بِمَا لَبِثْتُمْ فَابْعَثُوا أَحَدَكُمْ بِوَرِقِكُمْ هَٰذِهِ إِلَى الْمَدِينَةِ فَلْيَنْظُرْ أَيُّهَا أَزْكَىٰ طَعَامًا فَلْيَأْتِكُمْ بِرِزْقٍ مِنْهُ وَلْيَتَلَطَّفْ وَلَا يُشْعِرَنَّ بِكُمْ أَحَدًا",
+        "en_sahih": "English translation of [18:19] in Sahih International style.",
+        "en_yusufali": "English translation of [18:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:19] en español.",
+        "fr_hamidullah": "Traduction de [18:19] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:20",
+      "surahNumber": 18,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "إِنَّهُمْ إِنْ يَظْهَرُوا عَلَيْكُمْ يَرْجُمُوكُمْ أَوْ يُعِيدُوكُمْ فِي مِلَّتِهِمْ وَلَنْ تُفْلِحُوا إِذًا أَبَدًا",
+        "en_sahih": "English translation of [18:20] in Sahih International style.",
+        "en_yusufali": "English translation of [18:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:20] en español.",
+        "fr_hamidullah": "Traduction de [18:20] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:21",
+      "surahNumber": 18,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "وَكَذَٰلِكَ أَعْثَرْنَا عَلَيْهِمْ لِيَعْلَمُوا أَنَّ وَعْدَ اللَّهِ حَقٌّ وَأَنَّ السَّاعَةَ لَا رَيْبَ فِيهَا إِذْ يَتَنَازَعُونَ بَيْنَهُمْ أَمْرَهُمْ ۖ فَقَالُوا ابْنُوا عَلَيْهِمْ بُنْيَانًا ۖ رَبُّهُمْ أَعْلَمُ بِهِمْ ۚ قَالَ الَّذِينَ غَلَبُوا عَلَىٰ أَمْرِهِمْ لَنَتَّخِذَنَّ عَلَيْهِمْ مَسْجِدًا",
+        "en_sahih": "English translation of [18:21] in Sahih International style.",
+        "en_yusufali": "English translation of [18:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:21] en español.",
+        "fr_hamidullah": "Traduction de [18:21] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:22",
+      "surahNumber": 18,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "سَيَقُولُونَ ثَلَاثَةٌ رَابِعُهُمْ كَلْبُهُمْ وَيَقُولُونَ خَمْسَةٌ سَادِسُهُمْ كَلْبُهُمْ رَجْمًا بِالْغَيْبِ ۖ وَيَقُولُونَ سَبْعَةٌ وَثَامِنُهُمْ كَلْبُهُمْ ۚ قُلْ رَبِّي أَعْلَمُ بِعِدَّتِهِمْ مَا يَعْلَمُهُمْ إِلَّا قَلِيلٌ ۗ فَلَا تُمَارِ فِيهِمْ إِلَّا مِرَاءً ظَاهِرًا وَلَا تَسْتَفْتِ فِيهِمْ مِنْهُمْ أَحَدًا",
+        "en_sahih": "English translation of [18:22] in Sahih International style.",
+        "en_yusufali": "English translation of [18:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:22] en español.",
+        "fr_hamidullah": "Traduction de [18:22] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:23",
+      "surahNumber": 18,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "وَلَا تَقُولَنَّ لِشَيْءٍ إِنِّي فَاعِلٌ ذَٰلِكَ غَدًا",
+        "en_sahih": "English translation of [18:23] in Sahih International style.",
+        "en_yusufali": "English translation of [18:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:23] en español.",
+        "fr_hamidullah": "Traduction de [18:23] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:24",
+      "surahNumber": 18,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "إِلَّا أَنْ يَشَاءَ اللَّهُ ۚ وَاذْكُرْ رَبَّكَ إِذَا نَسِيتَ وَقُلْ عَسَىٰ أَنْ يَهْدِيَنِ رَبِّي لِأَقْرَبَ مِنْ هَٰذَا رَشَدًا",
+        "en_sahih": "English translation of [18:24] in Sahih International style.",
+        "en_yusufali": "English translation of [18:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:24] en español.",
+        "fr_hamidullah": "Traduction de [18:24] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:25",
+      "surahNumber": 18,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا",
+        "en_sahih": "English translation of [18:25] in Sahih International style.",
+        "en_yusufali": "English translation of [18:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:25] en español.",
+        "fr_hamidullah": "Traduction de [18:25] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:26",
+      "surahNumber": 18,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "قُلِ اللَّهُ أَعْلَمُ بِمَا لَبِثُوا ۖ لَهُ غَيْبُ السَّمَاوَاتِ وَالْأَرْضِ ۖ أَبْصِرْ بِهِ وَأَسْمِعْ ۚ مَا لَهُمْ مِنْ دُونِهِ مِنْ وَلِيٍّ وَلَا يُشْرِكُ فِي حُكْمِهِ أَحَدًا",
+        "en_sahih": "English translation of [18:26] in Sahih International style.",
+        "en_yusufali": "English translation of [18:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:26] en español.",
+        "fr_hamidullah": "Traduction de [18:26] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:27",
+      "surahNumber": 18,
+      "ayahNumber": 27,
+      "text": {
+        "simple": "وَاتْلُ مَا أُوحِيَ إِلَيْكَ مِنْ كِتَابِ رَبِّكَ ۖ لَا مُبَدِّلَ لِكَلِمَاتِهِ وَلَنْ تَجِدَ مِنْ دُونِهِ مُلْتَحَدًا",
+        "en_sahih": "English translation of [18:27] in Sahih International style.",
+        "en_yusufali": "English translation of [18:27] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:27] en español.",
+        "fr_hamidullah": "Traduction de [18:27] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:28",
+      "surahNumber": 18,
+      "ayahNumber": 28,
+      "text": {
+        "simple": "وَاصْبِرْ نَفْسَكَ مَعَ الَّذِينَ يَدْعُونَ رَبَّهُمْ بِالْغَدَاةِ وَالْعَشِيِّ يُرِيدُونَ وَجْهَهُ ۖ وَلَا تَعْدُ عَيْنَاكَ عَنْهُمْ تُرِيدُ زِينَةَ الْحَيَاةِ الدُّنْيَا ۖ وَلَا تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُ عَنْ ذِكْرِنَا وَاتَّبَعَ هَوَاهُ وَكَانَ أَمْرُهُ فُرُطًا",
+        "en_sahih": "English translation of [18:28] in Sahih International style.",
+        "en_yusufali": "English translation of [18:28] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:28] en español.",
+        "fr_hamidullah": "Traduction de [18:28] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:29",
+      "surahNumber": 18,
+      "ayahNumber": 29,
+      "text": {
+        "simple": "وَقُلِ الْحَقُّ مِنْ رَبِّكُمْ ۖ فَمَنْ شَاءَ فَلْيُؤْمِنْ وَمَنْ شَاءَ فَلْيَكْفُرْ ۚ إِنَّا أَعْتَدْنَا لِلظَّالِمِينَ نَارًا أَحَاطَ بِهِمْ سُرَادِقُهَا ۚ وَإِنْ يَسْتَغِيثُوا يُغَاثُوا بِمَاءٍ كَالْمُهْلِ يَشْوِي الْوُجُوهَ ۚ بِئْسَ الشَّرَابُ وَسَاءَتْ مُرْتَفَقًا",
+        "en_sahih": "English translation of [18:29] in Sahih International style.",
+        "en_yusufali": "English translation of [18:29] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:29] en español.",
+        "fr_hamidullah": "Traduction de [18:29] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:30",
+      "surahNumber": 18,
+      "ayahNumber": 30,
+      "text": {
+        "simple": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ إِنَّا لَا نُضِيعُ أَجْرَ مَنْ أَحْسَنَ عَمَلًا",
+        "en_sahih": "English translation of [18:30] in Sahih International style.",
+        "en_yusufali": "English translation of [18:30] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:30] en español.",
+        "fr_hamidullah": "Traduction de [18:30] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:31",
+      "surahNumber": 18,
+      "ayahNumber": 31,
+      "text": {
+        "simple": "أُولَٰئِكَ لَهُمْ جَنَّاتُ عَدْنٍ تَجْرِي مِنْ تَحْتِهِمُ الْأَنْهَارُ يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِنْ ذَهَبٍ وَيَلْبَسُونَ ثِيَابًا خُضْرًا مِنْ سُنْدُسٍ وَإِسْتَبْرَقٍ مُتَّكِئِينَ فِيهَا عَلَى الْأَرَائِكِ ۚ نِعْمَ الثَّوَابُ وَحَسُنَتْ مُرْتَفَقًا",
+        "en_sahih": "English translation of [18:31] in Sahih International style.",
+        "en_yusufali": "English translation of [18:31] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:31] en español.",
+        "fr_hamidullah": "Traduction de [18:31] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:32",
+      "surahNumber": 18,
+      "ayahNumber": 32,
+      "text": {
+        "simple": "۞ وَاضْرِبْ لَهُمْ مَثَلًا رَجُلَيْنِ جَعَلْنَا لِأَحَدِهِمَا جَنَّتَيْنِ مِنْ أَعْنَابٍ وَحَفَفْنَاهُمَا بِنَخْلٍ وَجَعَلْنَا بَيْنَهُمَا زَرْعًا",
+        "en_sahih": "English translation of [18:32] in Sahih International style.",
+        "en_yusufali": "English translation of [18:32] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:32] en español.",
+        "fr_hamidullah": "Traduction de [18:32] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:33",
+      "surahNumber": 18,
+      "ayahNumber": 33,
+      "text": {
+        "simple": "كِلْتَا الْجَنَّتَيْنِ آتَتْ أُكُلَهَا وَلَمْ تَظْلِمْ مِنْهُ شَيْئًا ۚ وَفَجَّرْنَا خِلَالَهُمَا نَهَرًا",
+        "en_sahih": "English translation of [18:33] in Sahih International style.",
+        "en_yusufali": "English translation of [18:33] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:33] en español.",
+        "fr_hamidullah": "Traduction de [18:33] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:34",
+      "surahNumber": 18,
+      "ayahNumber": 34,
+      "text": {
+        "simple": "وَكَانَ لَهُ ثَمَرٌ فَقَالَ لِصَاحِبِهِ وَهُوَ يُحَاوِرُهُ أَنَا أَكْثَرُ مِنْكَ مَالًا وَأَعَزُّ نَفَرًا",
+        "en_sahih": "English translation of [18:34] in Sahih International style.",
+        "en_yusufali": "English translation of [18:34] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:34] en español.",
+        "fr_hamidullah": "Traduction de [18:34] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:35",
+      "surahNumber": 18,
+      "ayahNumber": 35,
+      "text": {
+        "simple": "وَدَخَلَ جَنَّتَهُ وَهُوَ ظَالِمٌ لِنَفْسِهِ قَالَ مَا أَظُنُّ أَنْ تَبِيدَ هَٰذِهِ أَبَدًا",
+        "en_sahih": "English translation of [18:35] in Sahih International style.",
+        "en_yusufali": "English translation of [18:35] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:35] en español.",
+        "fr_hamidullah": "Traduction de [18:35] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:36",
+      "surahNumber": 18,
+      "ayahNumber": 36,
+      "text": {
+        "simple": "وَمَا أَظُنُّ السَّاعَةَ قَائِمَةً وَلَئِنْ رُدِدْتُ إِلَىٰ رَبِّي لَأَجِدَنَّ خَيْرًا مِنْهَا مُنْقَلَبًا",
+        "en_sahih": "English translation of [18:36] in Sahih International style.",
+        "en_yusufali": "English translation of [18:36] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:36] en español.",
+        "fr_hamidullah": "Traduction de [18:36] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:37",
+      "surahNumber": 18,
+      "ayahNumber": 37,
+      "text": {
+        "simple": "قَالَ لَهُ صَاحِبُهُ وَهُوَ يُحَاوِرُهُ أَكَفَرْتَ بِالَّذِي خَلَقَكَ مِنْ تُرَابٍ ثُمَّ مِنْ نُطْفَةٍ ثُمَّ سَوَّاكَ رَجُلًا",
+        "en_sahih": "English translation of [18:37] in Sahih International style.",
+        "en_yusufali": "English translation of [18:37] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:37] en español.",
+        "fr_hamidullah": "Traduction de [18:37] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:38",
+      "surahNumber": 18,
+      "ayahNumber": 38,
+      "text": {
+        "simple": "لَٰكِنَّا هُوَ اللَّهُ رَبِّي وَلَا أُشْرِكُ بِرَبِّي أَحَدًا",
+        "en_sahih": "English translation of [18:38] in Sahih International style.",
+        "en_yusufali": "English translation of [18:38] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 38 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:38] en español.",
+        "fr_hamidullah": "Traduction de [18:38] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:39",
+      "surahNumber": 18,
+      "ayahNumber": 39,
+      "text": {
+        "simple": "وَلَوْلَا إِذْ دَخَلْتَ جَنَّتَكَ قُلْتَ مَا شَاءَ اللَّهُ لَا قُوَّةَ إِلَّا بِاللَّهِ ۚ إِنْ تَرَنِ أَنَا أَقَلَّ مِنْكَ مَالًا وَوَلَدًا",
+        "en_sahih": "English translation of [18:39] in Sahih International style.",
+        "en_yusufali": "English translation of [18:39] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 39 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:39] en español.",
+        "fr_hamidullah": "Traduction de [18:39] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:40",
+      "surahNumber": 18,
+      "ayahNumber": 40,
+      "text": {
+        "simple": "فَعَسَىٰ رَبِّي أَنْ يُؤْتِيَنِ خَيْرًا مِنْ جَنَّتِكَ وَيُرْسِلَ عَلَيْهَا حُسْبَانًا مِنَ السَّمَاءِ فَتُصْبِحَ صَعِيدًا زَلَقًا",
+        "en_sahih": "English translation of [18:40] in Sahih International style.",
+        "en_yusufali": "English translation of [18:40] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 40 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:40] en español.",
+        "fr_hamidullah": "Traduction de [18:40] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:41",
+      "surahNumber": 18,
+      "ayahNumber": 41,
+      "text": {
+        "simple": "أَوْ يُصْبِحَ مَاؤُهَا غَوْرًا فَلَنْ تَسْتَطِيعَ لَهُ طَلَبًا",
+        "en_sahih": "English translation of [18:41] in Sahih International style.",
+        "en_yusufali": "English translation of [18:41] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 41 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:41] en español.",
+        "fr_hamidullah": "Traduction de [18:41] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:42",
+      "surahNumber": 18,
+      "ayahNumber": 42,
+      "text": {
+        "simple": "وَأُحِيطَ بِثَمَرِهِ فَأَصْبَحَ يُقَلِّبُ كَفَّيْهِ عَلَىٰ مَا أَنْفَقَ فِيهَا وَهِيَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَيَقُولُ يَا لَيْتَنِي لَمْ أُشْرِكْ بِرَبِّي أَحَدًا",
+        "en_sahih": "English translation of [18:42] in Sahih International style.",
+        "en_yusufali": "English translation of [18:42] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 42 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:42] en español.",
+        "fr_hamidullah": "Traduction de [18:42] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:43",
+      "surahNumber": 18,
+      "ayahNumber": 43,
+      "text": {
+        "simple": "وَلَمْ تَكُنْ لَهُ فِئَةٌ يَنْصُرُونَهُ مِنْ دُونِ اللَّهِ وَمَا كَانَ مُنْتَصِرًا",
+        "en_sahih": "English translation of [18:43] in Sahih International style.",
+        "en_yusufali": "English translation of [18:43] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 43 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:43] en español.",
+        "fr_hamidullah": "Traduction de [18:43] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:44",
+      "surahNumber": 18,
+      "ayahNumber": 44,
+      "text": {
+        "simple": "هُنَالِكَ الْوَلَايَةُ لِلَّهِ الْحَقِّ ۚ هُوَ خَيْرٌ ثَوَابًا وَخَيْرٌ عُقْبًا",
+        "en_sahih": "English translation of [18:44] in Sahih International style.",
+        "en_yusufali": "English translation of [18:44] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 44 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:44] en español.",
+        "fr_hamidullah": "Traduction de [18:44] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:45",
+      "surahNumber": 18,
+      "ayahNumber": 45,
+      "text": {
+        "simple": "وَاضْرِبْ لَهُمْ مَثَلَ الْحَيَاةِ الدُّنْيَا كَمَاءٍ أَنْزَلْنَاهُ مِنَ السَّمَاءِ فَاخْتَلَطَ بِهِ نَبَاتُ الْأَرْضِ فَأَصْبَحَ هَشِيمًا تَذْرُوهُ الرِّيَاحُ ۗ وَكَانَ اللَّهُ عَلَىٰ كُلِّ شَيْءٍ مُقْتَدِرًا",
+        "en_sahih": "English translation of [18:45] in Sahih International style.",
+        "en_yusufali": "English translation of [18:45] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 45 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:45] en español.",
+        "fr_hamidullah": "Traduction de [18:45] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:46",
+      "surahNumber": 18,
+      "ayahNumber": 46,
+      "text": {
+        "simple": "الْمَالُ وَالْبَنُونَ زِينَةُ الْحَيَاةِ الدُّنْيَا ۖ وَالْبَاقِيَاتُ الصَّالِحَاتُ خَيْرٌ عِنْدَ رَبِّكَ ثَوَابًا وَخَيْرٌ أَمَلًا",
+        "en_sahih": "English translation of [18:46] in Sahih International style.",
+        "en_yusufali": "English translation of [18:46] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 46 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:46] en español.",
+        "fr_hamidullah": "Traduction de [18:46] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:47",
+      "surahNumber": 18,
+      "ayahNumber": 47,
+      "text": {
+        "simple": "وَيَوْمَ نُسَيِّرُ الْجِبَالَ وَتَرَى الْأَرْضَ بَارِزَةً وَحَشَرْنَاهُمْ فَلَمْ نُغَادِرْ مِنْهُمْ أَحَدًا",
+        "en_sahih": "English translation of [18:47] in Sahih International style.",
+        "en_yusufali": "English translation of [18:47] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 47 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:47] en español.",
+        "fr_hamidullah": "Traduction de [18:47] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:48",
+      "surahNumber": 18,
+      "ayahNumber": 48,
+      "text": {
+        "simple": "وَعُرِضُوا عَلَىٰ رَبِّكَ صَفًّا لَقَدْ جِئْتُمُونَا كَمَا خَلَقْنَاكُمْ أَوَّلَ مَرَّةٍ ۚ بَلْ زَعَمْتُمْ أَلَّنْ نَجْعَلَ لَكُمْ مَوْعِدًا",
+        "en_sahih": "English translation of [18:48] in Sahih International style.",
+        "en_yusufali": "English translation of [18:48] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 48 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:48] en español.",
+        "fr_hamidullah": "Traduction de [18:48] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:49",
+      "surahNumber": 18,
+      "ayahNumber": 49,
+      "text": {
+        "simple": "وَوُضِعَ الْكِتَابُ فَتَرَى الْمُجْرِمِينَ مُشْفِقِينَ مِمَّا فِيهِ وَيَقُولُونَ يَا وَيْلَتَنَا مَالِ هَٰذَا الْكِتَابِ لَا يُغَادِرُ صَغِيرَةً وَلَا كَبِيرَةً إِلَّا أَحْصَاهَا ۚ وَوَجَدُوا مَا عَمِلُوا حَاضِرًا ۗ وَلَا يَظْلِمُ رَبُّكَ أَحَدًا",
+        "en_sahih": "English translation of [18:49] in Sahih International style.",
+        "en_yusufali": "English translation of [18:49] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 49 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:49] en español.",
+        "fr_hamidullah": "Traduction de [18:49] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:50",
+      "surahNumber": 18,
+      "ayahNumber": 50,
+      "text": {
+        "simple": "وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ كَانَ مِنَ الْجِنِّ فَفَسَقَ عَنْ أَمْرِ رَبِّهِ ۗ أَفَتَتَّخِذُونَهُ وَذُرِّيَّتَهُ أَوْلِيَاءَ مِنْ دُونِي وَهُمْ لَكُمْ عَدُوٌّ ۚ بِئْسَ لِلظَّالِمِينَ بَدَلًا",
+        "en_sahih": "English translation of [18:50] in Sahih International style.",
+        "en_yusufali": "English translation of [18:50] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 50 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:50] en español.",
+        "fr_hamidullah": "Traduction de [18:50] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:51",
+      "surahNumber": 18,
+      "ayahNumber": 51,
+      "text": {
+        "simple": "۞ مَا أَشْهَدْتُهُمْ خَلْقَ السَّمَاوَاتِ وَالْأَرْضِ وَلَا خَلْقَ أَنْفُسِهِمْ وَمَا كُنْتُ مُتَّخِذَ الْمُضِلِّينَ عَضُدًا",
+        "en_sahih": "English translation of [18:51] in Sahih International style.",
+        "en_yusufali": "English translation of [18:51] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 51 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:51] en español.",
+        "fr_hamidullah": "Traduction de [18:51] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:52",
+      "surahNumber": 18,
+      "ayahNumber": 52,
+      "text": {
+        "simple": "وَيَوْمَ يَقُولُ نَادُوا شُرَكَائِيَ الَّذِينَ زَعَمْتُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا لَهُمْ وَجَعَلْنَا بَيْنَهُمْ مَوْبِقًا",
+        "en_sahih": "English translation of [18:52] in Sahih International style.",
+        "en_yusufali": "English translation of [18:52] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 52 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:52] en español.",
+        "fr_hamidullah": "Traduction de [18:52] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:53",
+      "surahNumber": 18,
+      "ayahNumber": 53,
+      "text": {
+        "simple": "وَرَأَى الْمُجْرِمُونَ النَّارَ فَظَنُّوا أَنَّهُمْ مُوَاقِعُوهَا وَلَمْ يَجِدُوا عَنْهَا مَصْرِفًا",
+        "en_sahih": "English translation of [18:53] in Sahih International style.",
+        "en_yusufali": "English translation of [18:53] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 53 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:53] en español.",
+        "fr_hamidullah": "Traduction de [18:53] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 53 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:54",
+      "surahNumber": 18,
+      "ayahNumber": 54,
+      "text": {
+        "simple": "وَلَقَدْ صَرَّفْنَا فِي هَٰذَا الْقُرْآنِ لِلنَّاسِ مِنْ كُلِّ مَثَلٍ ۚ وَكَانَ الْإِنْسَانُ أَكْثَرَ شَيْءٍ جَدَلًا",
+        "en_sahih": "English translation of [18:54] in Sahih International style.",
+        "en_yusufali": "English translation of [18:54] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 54 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:54] en español.",
+        "fr_hamidullah": "Traduction de [18:54] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 54 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:55",
+      "surahNumber": 18,
+      "ayahNumber": 55,
+      "text": {
+        "simple": "وَمَا مَنَعَ النَّاسَ أَنْ يُؤْمِنُوا إِذْ جَاءَهُمُ الْهُدَىٰ وَيَسْتَغْفِرُوا رَبَّهُمْ إِلَّا أَنْ تَأْتِيَهُمْ سُنَّةُ الْأَوَّلِينَ أَوْ يَأْتِيَهُمُ الْعَذَابُ قُبُلًا",
+        "en_sahih": "English translation of [18:55] in Sahih International style.",
+        "en_yusufali": "English translation of [18:55] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 55 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:55] en español.",
+        "fr_hamidullah": "Traduction de [18:55] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 55 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:56",
+      "surahNumber": 18,
+      "ayahNumber": 56,
+      "text": {
+        "simple": "وَمَا نُرْسِلُ الْمُرْسَلِينَ إِلَّا مُبَشِّرِينَ وَمُنْذِرِينَ ۚ وَيُجَادِلُ الَّذِينَ كَفَرُوا بِالْبَاطِلِ لِيُدْحِضُوا بِهِ الْحَقَّ ۖ وَاتَّخَذُوا آيَاتِي وَمَا أُنْذِرُوا هُزُوًا",
+        "en_sahih": "English translation of [18:56] in Sahih International style.",
+        "en_yusufali": "English translation of [18:56] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 56 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:56] en español.",
+        "fr_hamidullah": "Traduction de [18:56] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 56 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:57",
+      "surahNumber": 18,
+      "ayahNumber": 57,
+      "text": {
+        "simple": "وَمَنْ أَظْلَمُ مِمَّنْ ذُكِّرَ بِآيَاتِ رَبِّهِ فَأَعْرَضَ عَنْهَا وَنَسِيَ مَا قَدَّمَتْ يَدَاهُ ۚ إِنَّا جَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَنْ يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا ۖ وَإِنْ تَدْعُهُمْ إِلَى الْهُدَىٰ فَلَنْ يَهْتَدُوا إِذًا أَبَدًا",
+        "en_sahih": "English translation of [18:57] in Sahih International style.",
+        "en_yusufali": "English translation of [18:57] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 57 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:57] en español.",
+        "fr_hamidullah": "Traduction de [18:57] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 57 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:58",
+      "surahNumber": 18,
+      "ayahNumber": 58,
+      "text": {
+        "simple": "وَرَبُّكَ الْغَفُورُ ذُو الرَّحْمَةِ ۖ لَوْ يُؤَاخِذُهُمْ بِمَا كَسَبُوا لَعَجَّلَ لَهُمُ الْعَذَابَ ۚ بَلْ لَهُمْ مَوْعِدٌ لَنْ يَجِدُوا مِنْ دُونِهِ مَوْئِلًا",
+        "en_sahih": "English translation of [18:58] in Sahih International style.",
+        "en_yusufali": "English translation of [18:58] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 58 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:58] en español.",
+        "fr_hamidullah": "Traduction de [18:58] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 58 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:59",
+      "surahNumber": 18,
+      "ayahNumber": 59,
+      "text": {
+        "simple": "وَتِلْكَ الْقُرَىٰ أَهْلَكْنَاهُمْ لَمَّا ظَلَمُوا وَجَعَلْنَا لِمَهْلِكِهِمْ مَوْعِدًا",
+        "en_sahih": "English translation of [18:59] in Sahih International style.",
+        "en_yusufali": "English translation of [18:59] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 59 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:59] en español.",
+        "fr_hamidullah": "Traduction de [18:59] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 59 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:60",
+      "surahNumber": 18,
+      "ayahNumber": 60,
+      "text": {
+        "simple": "وَإِذْ قَالَ مُوسَىٰ لِفَتَاهُ لَا أَبْرَحُ حَتَّىٰ أَبْلُغَ مَجْمَعَ الْبَحْرَيْنِ أَوْ أَمْضِيَ حُقُبًا",
+        "en_sahih": "English translation of [18:60] in Sahih International style.",
+        "en_yusufali": "English translation of [18:60] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 60 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:60] en español.",
+        "fr_hamidullah": "Traduction de [18:60] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 60 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:61",
+      "surahNumber": 18,
+      "ayahNumber": 61,
+      "text": {
+        "simple": "فَلَمَّا بَلَغَا مَجْمَعَ بَيْنِهِمَا نَسِيَا حُوتَهُمَا فَاتَّخَذَ سَبِيلَهُ فِي الْبَحْرِ سَرَبًا",
+        "en_sahih": "English translation of [18:61] in Sahih International style.",
+        "en_yusufali": "English translation of [18:61] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 61 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:61] en español.",
+        "fr_hamidullah": "Traduction de [18:61] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 61 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:62",
+      "surahNumber": 18,
+      "ayahNumber": 62,
+      "text": {
+        "simple": "فَلَمَّا جَاوَزَا قَالَ لِفَتَاهُ آتِنَا غَدَاءَنَا لَقَدْ لَقِينَا مِنْ سَفَرِنَا هَٰذَا نَصَبًا",
+        "en_sahih": "English translation of [18:62] in Sahih International style.",
+        "en_yusufali": "English translation of [18:62] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 62 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:62] en español.",
+        "fr_hamidullah": "Traduction de [18:62] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 62 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:63",
+      "surahNumber": 18,
+      "ayahNumber": 63,
+      "text": {
+        "simple": "قَالَ أَرَأَيْتَ إِذْ أَوَيْنَا إِلَى الصَّخْرَةِ فَإِنِّي نَسِيتُ الْحُوتَ وَمَا أَنْسَانِيهُ إِلَّا الشَّيْطَانُ أَنْ أَذْكُرَهُ ۚ وَاتَّخَذَ سَبِيلَهُ فِي الْبَحْرِ عَجَبًا",
+        "en_sahih": "English translation of [18:63] in Sahih International style.",
+        "en_yusufali": "English translation of [18:63] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 63 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:63] en español.",
+        "fr_hamidullah": "Traduction de [18:63] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 63 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:64",
+      "surahNumber": 18,
+      "ayahNumber": 64,
+      "text": {
+        "simple": "قَالَ ذَٰلِكَ مَا كُنَّا نَبْغِ ۚ فَارْتَدَّا عَلَىٰ آثَارِهِمَا قَصَصًا",
+        "en_sahih": "English translation of [18:64] in Sahih International style.",
+        "en_yusufali": "English translation of [18:64] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 64 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:64] en español.",
+        "fr_hamidullah": "Traduction de [18:64] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 64 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:65",
+      "surahNumber": 18,
+      "ayahNumber": 65,
+      "text": {
+        "simple": "فَوَجَدَا عَبْدًا مِنْ عِبَادِنَا آتَيْنَاهُ رَحْمَةً مِنْ عِنْدِنَا وَعَلَّمْنَاهُ مِنْ لَدُنَّا عِلْمًا",
+        "en_sahih": "English translation of [18:65] in Sahih International style.",
+        "en_yusufali": "English translation of [18:65] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 65 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:65] en español.",
+        "fr_hamidullah": "Traduction de [18:65] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 65 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:66",
+      "surahNumber": 18,
+      "ayahNumber": 66,
+      "text": {
+        "simple": "قَالَ لَهُ مُوسَىٰ هَلْ أَتَّبِعُكَ عَلَىٰ أَنْ تُعَلِّمَنِ مِمَّا عُلِّمْتَ رُشْدًا",
+        "en_sahih": "English translation of [18:66] in Sahih International style.",
+        "en_yusufali": "English translation of [18:66] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 66 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:66] en español.",
+        "fr_hamidullah": "Traduction de [18:66] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 66 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:67",
+      "surahNumber": 18,
+      "ayahNumber": 67,
+      "text": {
+        "simple": "قَالَ إِنَّكَ لَنْ تَسْتَطِيعَ مَعِيَ صَبْرًا",
+        "en_sahih": "English translation of [18:67] in Sahih International style.",
+        "en_yusufali": "English translation of [18:67] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 67 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:67] en español.",
+        "fr_hamidullah": "Traduction de [18:67] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 67 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:68",
+      "surahNumber": 18,
+      "ayahNumber": 68,
+      "text": {
+        "simple": "وَكَيْفَ تَصْبِرُ عَلَىٰ مَا لَمْ تُحِطْ بِهِ خُبْرًا",
+        "en_sahih": "English translation of [18:68] in Sahih International style.",
+        "en_yusufali": "English translation of [18:68] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 68 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:68] en español.",
+        "fr_hamidullah": "Traduction de [18:68] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 68 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:69",
+      "surahNumber": 18,
+      "ayahNumber": 69,
+      "text": {
+        "simple": "قَالَ سَتَجِدُنِي إِنْ شَاءَ اللَّهُ صَابِرًا وَلَا أَعْصِي لَكَ أَمْرًا",
+        "en_sahih": "English translation of [18:69] in Sahih International style.",
+        "en_yusufali": "English translation of [18:69] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 69 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:69] en español.",
+        "fr_hamidullah": "Traduction de [18:69] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 69 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:70",
+      "surahNumber": 18,
+      "ayahNumber": 70,
+      "text": {
+        "simple": "قَالَ فَإِنِ اتَّبَعْتَنِي فَلَا تَسْأَلْنِي عَنْ شَيْءٍ حَتَّىٰ أُحْدِثَ لَكَ مِنْهُ ذِكْرًا",
+        "en_sahih": "English translation of [18:70] in Sahih International style.",
+        "en_yusufali": "English translation of [18:70] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 70 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:70] en español.",
+        "fr_hamidullah": "Traduction de [18:70] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 70 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:71",
+      "surahNumber": 18,
+      "ayahNumber": 71,
+      "text": {
+        "simple": "فَانْطَلَقَا حَتَّىٰ إِذَا رَكِبَا فِي السَّفِينَةِ خَرَقَهَا ۖ قَالَ أَخَرَقْتَهَا لِتُغْرِقَ أَهْلَهَا لَقَدْ جِئْتَ شَيْئًا إِمْرًا",
+        "en_sahih": "English translation of [18:71] in Sahih International style.",
+        "en_yusufali": "English translation of [18:71] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 71 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:71] en español.",
+        "fr_hamidullah": "Traduction de [18:71] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 71 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:72",
+      "surahNumber": 18,
+      "ayahNumber": 72,
+      "text": {
+        "simple": "قَالَ أَلَمْ أَقُلْ إِنَّكَ لَنْ تَسْتَطِيعَ مَعِيَ صَبْرًا",
+        "en_sahih": "English translation of [18:72] in Sahih International style.",
+        "en_yusufali": "English translation of [18:72] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 72 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:72] en español.",
+        "fr_hamidullah": "Traduction de [18:72] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 72 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:73",
+      "surahNumber": 18,
+      "ayahNumber": 73,
+      "text": {
+        "simple": "قَالَ لَا تُؤَاخِذْنِي بِمَا نَسِيتُ وَلَا تُرْهِقْنِي مِنْ أَمْرِي عُسْرًا",
+        "en_sahih": "English translation of [18:73] in Sahih International style.",
+        "en_yusufali": "English translation of [18:73] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 73 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:73] en español.",
+        "fr_hamidullah": "Traduction de [18:73] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 73 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:74",
+      "surahNumber": 18,
+      "ayahNumber": 74,
+      "text": {
+        "simple": "فَانْطَلَقَا حَتَّىٰ إِذَا لَقِيَا غُلَامًا فَقَتَلَهُ قَالَ أَقَتَلْتَ نَفْسًا زَكِيَّةً بِغَيْرِ نَفْسٍ لَقَدْ جِئْتَ شَيْئًا نُكْرًا",
+        "en_sahih": "English translation of [18:74] in Sahih International style.",
+        "en_yusufali": "English translation of [18:74] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 74 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:74] en español.",
+        "fr_hamidullah": "Traduction de [18:74] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 74 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:75",
+      "surahNumber": 18,
+      "ayahNumber": 75,
+      "text": {
+        "simple": "۞ قَالَ أَلَمْ أَقُلْ لَكَ إِنَّكَ لَنْ تَسْتَطِيعَ مَعِيَ صَبْرًا",
+        "en_sahih": "English translation of [18:75] in Sahih International style.",
+        "en_yusufali": "English translation of [18:75] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 75 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:75] en español.",
+        "fr_hamidullah": "Traduction de [18:75] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 75 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:76",
+      "surahNumber": 18,
+      "ayahNumber": 76,
+      "text": {
+        "simple": "قَالَ إِنْ سَأَلْتُكَ عَنْ شَيْءٍ بَعْدَهَا فَلَا تُصَاحِبْنِي ۖ قَدْ بَلَغْتَ مِنْ لَدُنِّي عُذْرًا",
+        "en_sahih": "English translation of [18:76] in Sahih International style.",
+        "en_yusufali": "English translation of [18:76] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 76 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:76] en español.",
+        "fr_hamidullah": "Traduction de [18:76] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 76 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:77",
+      "surahNumber": 18,
+      "ayahNumber": 77,
+      "text": {
+        "simple": "فَانْطَلَقَا حَتَّىٰ إِذَا أَتَيَا أَهْلَ قَرْيَةٍ اسْتَطْعَمَا أَهْلَهَا فَأَبَوْا أَنْ يُضَيِّفُوهُمَا فَوَجَدَا فِيهَا جِدَارًا يُرِيدُ أَنْ يَنْقَضَّ فَأَقَامَهُ ۖ قَالَ لَوْ شِئْتَ لَاتَّخَذْتَ عَلَيْهِ أَجْرًا",
+        "en_sahih": "English translation of [18:77] in Sahih International style.",
+        "en_yusufali": "English translation of [18:77] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 77 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:77] en español.",
+        "fr_hamidullah": "Traduction de [18:77] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 77 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:78",
+      "surahNumber": 18,
+      "ayahNumber": 78,
+      "text": {
+        "simple": "قَالَ هَٰذَا فِرَاقُ بَيْنِي وَبَيْنِكَ ۚ سَأُنَبِّئُكَ بِتَأْوِيلِ مَا لَمْ تَسْتَطِعْ عَلَيْهِ صَبْرًا",
+        "en_sahih": "English translation of [18:78] in Sahih International style.",
+        "en_yusufali": "English translation of [18:78] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 78 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:78] en español.",
+        "fr_hamidullah": "Traduction de [18:78] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 78 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:79",
+      "surahNumber": 18,
+      "ayahNumber": 79,
+      "text": {
+        "simple": "أَمَّا السَّفِينَةُ فَكَانَتْ لِمَسَاكِينَ يَعْمَلُونَ فِي الْبَحْرِ فَأَرَدْتُ أَنْ أَعِيبَهَا وَكَانَ وَرَاءَهُمْ مَلِكٌ يَأْخُذُ كُلَّ سَفِينَةٍ غَصْبًا",
+        "en_sahih": "English translation of [18:79] in Sahih International style.",
+        "en_yusufali": "English translation of [18:79] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 79 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:79] en español.",
+        "fr_hamidullah": "Traduction de [18:79] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 79 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:80",
+      "surahNumber": 18,
+      "ayahNumber": 80,
+      "text": {
+        "simple": "وَأَمَّا الْغُلَامُ فَكَانَ أَبَوَاهُ مُؤْمِنَيْنِ فَخَشِينَا أَنْ يُرْهِقَهُمَا طُغْيَانًا وَكُفْرًا",
+        "en_sahih": "English translation of [18:80] in Sahih International style.",
+        "en_yusufali": "English translation of [18:80] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 80 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:80] en español.",
+        "fr_hamidullah": "Traduction de [18:80] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 80 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:81",
+      "surahNumber": 18,
+      "ayahNumber": 81,
+      "text": {
+        "simple": "فَأَرَدْنَا أَنْ يُبْدِلَهُمَا رَبُّهُمَا خَيْرًا مِنْهُ زَكَاةً وَأَقْرَبَ رُحْمًا",
+        "en_sahih": "English translation of [18:81] in Sahih International style.",
+        "en_yusufali": "English translation of [18:81] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 81 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:81] en español.",
+        "fr_hamidullah": "Traduction de [18:81] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 81 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:82",
+      "surahNumber": 18,
+      "ayahNumber": 82,
+      "text": {
+        "simple": "وَأَمَّا الْجِدَارُ فَكَانَ لِغُلَامَيْنِ يَتِيمَيْنِ فِي الْمَدِينَةِ وَكَانَ تَحْتَهُ كَنْزٌ لَهُمَا وَكَانَ أَبُوهُمَا صَالِحًا فَأَرَادَ رَبُّكَ أَنْ يَبْلُغَا أَشُدَّهُمَا وَيَسْتَخْرِجَا كَنْزَهُمَا رَحْمَةً مِنْ رَبِّكَ ۚ وَمَا فَعَلْتُهُ عَنْ أَمْرِي ۚ ذَٰلِكَ تَأْوِيلُ مَا لَمْ تَسْطِعْ عَلَيْهِ صَبْرًا",
+        "en_sahih": "English translation of [18:82] in Sahih International style.",
+        "en_yusufali": "English translation of [18:82] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 82 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:82] en español.",
+        "fr_hamidullah": "Traduction de [18:82] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 82 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:83",
+      "surahNumber": 18,
+      "ayahNumber": 83,
+      "text": {
+        "simple": "وَيَسْأَلُونَكَ عَنْ ذِي الْقَرْنَيْنِ ۖ قُلْ سَأَتْلُو عَلَيْكُمْ مِنْهُ ذِكْرًا",
+        "en_sahih": "English translation of [18:83] in Sahih International style.",
+        "en_yusufali": "English translation of [18:83] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 83 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:83] en español.",
+        "fr_hamidullah": "Traduction de [18:83] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 83 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:84",
+      "surahNumber": 18,
+      "ayahNumber": 84,
+      "text": {
+        "simple": "إِنَّا مَكَّنَّا لَهُ فِي الْأَرْضِ وَآتَيْنَاهُ مِنْ كُلِّ شَيْءٍ سَبَبًا",
+        "en_sahih": "English translation of [18:84] in Sahih International style.",
+        "en_yusufali": "English translation of [18:84] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 84 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:84] en español.",
+        "fr_hamidullah": "Traduction de [18:84] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 84 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:85",
+      "surahNumber": 18,
+      "ayahNumber": 85,
+      "text": {
+        "simple": "فَأَتْبَعَ سَبَبًا",
+        "en_sahih": "English translation of [18:85] in Sahih International style.",
+        "en_yusufali": "English translation of [18:85] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 85 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:85] en español.",
+        "fr_hamidullah": "Traduction de [18:85] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 85 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:86",
+      "surahNumber": 18,
+      "ayahNumber": 86,
+      "text": {
+        "simple": "حَتَّىٰ إِذَا بَلَغَ مَغْرِبَ الشَّمْسِ وَجَدَهَا تَغْرُبُ فِي عَيْنٍ حَمِئَةٍ وَوَجَدَ عِنْدَهَا قَوْمًا ۗ قُلْنَا يَا ذَا الْقَرْنَيْنِ إِمَّا أَنْ تُعَذِّبَ وَإِمَّا أَنْ تَتَّخِذَ فِيهِمْ حُسْنًا",
+        "en_sahih": "English translation of [18:86] in Sahih International style.",
+        "en_yusufali": "English translation of [18:86] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 86 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:86] en español.",
+        "fr_hamidullah": "Traduction de [18:86] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 86 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:87",
+      "surahNumber": 18,
+      "ayahNumber": 87,
+      "text": {
+        "simple": "قَالَ أَمَّا مَنْ ظَلَمَ فَسَوْفَ نُعَذِّبُهُ ثُمَّ يُرَدُّ إِلَىٰ رَبِّهِ فَيُعَذِّبُهُ عَذَابًا نُكْرًا",
+        "en_sahih": "English translation of [18:87] in Sahih International style.",
+        "en_yusufali": "English translation of [18:87] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 87 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:87] en español.",
+        "fr_hamidullah": "Traduction de [18:87] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 87 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:88",
+      "surahNumber": 18,
+      "ayahNumber": 88,
+      "text": {
+        "simple": "وَأَمَّا مَنْ آمَنَ وَعَمِلَ صَالِحًا فَلَهُ جَزَاءً الْحُسْنَىٰ ۖ وَسَنَقُولُ لَهُ مِنْ أَمْرِنَا يُسْرًا",
+        "en_sahih": "English translation of [18:88] in Sahih International style.",
+        "en_yusufali": "English translation of [18:88] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 88 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:88] en español.",
+        "fr_hamidullah": "Traduction de [18:88] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 88 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:89",
+      "surahNumber": 18,
+      "ayahNumber": 89,
+      "text": {
+        "simple": "ثُمَّ أَتْبَعَ سَبَبًا",
+        "en_sahih": "English translation of [18:89] in Sahih International style.",
+        "en_yusufali": "English translation of [18:89] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 89 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:89] en español.",
+        "fr_hamidullah": "Traduction de [18:89] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 89 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:90",
+      "surahNumber": 18,
+      "ayahNumber": 90,
+      "text": {
+        "simple": "حَتَّىٰ إِذَا بَلَغَ مَطْلِعَ الشَّمْسِ وَجَدَهَا تَطْلُعُ عَلَىٰ قَوْمٍ لَمْ نَجْعَلْ لَهُمْ مِنْ دُونِهَا سِتْرًا",
+        "en_sahih": "English translation of [18:90] in Sahih International style.",
+        "en_yusufali": "English translation of [18:90] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 90 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:90] en español.",
+        "fr_hamidullah": "Traduction de [18:90] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 90 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:91",
+      "surahNumber": 18,
+      "ayahNumber": 91,
+      "text": {
+        "simple": "كَذَٰلِكَ وَقَدْ أَحَطْنَا بِمَا لَدَيْهِ خُبْرًا",
+        "en_sahih": "English translation of [18:91] in Sahih International style.",
+        "en_yusufali": "English translation of [18:91] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 91 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:91] en español.",
+        "fr_hamidullah": "Traduction de [18:91] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 91 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:92",
+      "surahNumber": 18,
+      "ayahNumber": 92,
+      "text": {
+        "simple": "ثُمَّ أَتْبَعَ سَبَبًا",
+        "en_sahih": "English translation of [18:92] in Sahih International style.",
+        "en_yusufali": "English translation of [18:92] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 92 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:92] en español.",
+        "fr_hamidullah": "Traduction de [18:92] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 92 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:93",
+      "surahNumber": 18,
+      "ayahNumber": 93,
+      "text": {
+        "simple": "حَتَّىٰ إِذَا بَلَغَ بَيْنَ السَّدَّيْنِ وَجَدَ مِنْ دُونِهِمَا قَوْمًا لَا يَكَادُونَ يَفْقَهُونَ قَوْلًا",
+        "en_sahih": "English translation of [18:93] in Sahih International style.",
+        "en_yusufali": "English translation of [18:93] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 93 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:93] en español.",
+        "fr_hamidullah": "Traduction de [18:93] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 93 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:94",
+      "surahNumber": 18,
+      "ayahNumber": 94,
+      "text": {
+        "simple": "قَالُوا يَا ذَا الْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِي الْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰ أَنْ تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّا",
+        "en_sahih": "English translation of [18:94] in Sahih International style.",
+        "en_yusufali": "English translation of [18:94] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 94 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:94] en español.",
+        "fr_hamidullah": "Traduction de [18:94] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 94 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:95",
+      "surahNumber": 18,
+      "ayahNumber": 95,
+      "text": {
+        "simple": "قَالَ مَا مَكَّنِّي فِيهِ رَبِّي خَيْرٌ فَأَعِينُونِي بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+        "en_sahih": "English translation of [18:95] in Sahih International style.",
+        "en_yusufali": "English translation of [18:95] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 95 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:95] en español.",
+        "fr_hamidullah": "Traduction de [18:95] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 95 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:96",
+      "surahNumber": 18,
+      "ayahNumber": 96,
+      "text": {
+        "simple": "آتُونِي زُبَرَ الْحَدِيدِ ۖ حَتَّىٰ إِذَا سَاوَىٰ بَيْنَ الصَّدَفَيْنِ قَالَ انْفُخُوا ۖ حَتَّىٰ إِذَا جَعَلَهُ نَارًا قَالَ آتُونِي أُفْرِغْ عَلَيْهِ قِطْرًا",
+        "en_sahih": "English translation of [18:96] in Sahih International style.",
+        "en_yusufali": "English translation of [18:96] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 96 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:96] en español.",
+        "fr_hamidullah": "Traduction de [18:96] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 96 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:97",
+      "surahNumber": 18,
+      "ayahNumber": 97,
+      "text": {
+        "simple": "فَمَا اسْطَاعُوا أَنْ يَظْهَرُوهُ وَمَا اسْتَطَاعُوا لَهُ نَقْبًا",
+        "en_sahih": "English translation of [18:97] in Sahih International style.",
+        "en_yusufali": "English translation of [18:97] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 97 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:97] en español.",
+        "fr_hamidullah": "Traduction de [18:97] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 97 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:98",
+      "surahNumber": 18,
+      "ayahNumber": 98,
+      "text": {
+        "simple": "قَالَ هَٰذَا رَحْمَةٌ مِنْ رَبِّي ۖ فَإِذَا جَاءَ وَعْدُ رَبِّي جَعَلَهُ دَكَّاءَ ۖ وَكَانَ وَعْدُ رَبِّي حَقًّا",
+        "en_sahih": "English translation of [18:98] in Sahih International style.",
+        "en_yusufali": "English translation of [18:98] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 98 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:98] en español.",
+        "fr_hamidullah": "Traduction de [18:98] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 98 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:99",
+      "surahNumber": 18,
+      "ayahNumber": 99,
+      "text": {
+        "simple": "۞ وَتَرَكْنَا بَعْضَهُمْ يَوْمَئِذٍ يَمُوجُ فِي بَعْضٍ ۖ وَنُفِخَ فِي الصُّورِ فَجَمَعْنَاهُمْ جَمْعًا",
+        "en_sahih": "English translation of [18:99] in Sahih International style.",
+        "en_yusufali": "English translation of [18:99] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 99 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:99] en español.",
+        "fr_hamidullah": "Traduction de [18:99] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 99 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:100",
+      "surahNumber": 18,
+      "ayahNumber": 100,
+      "text": {
+        "simple": "وَعَرَضْنَا جَهَنَّمَ يَوْمَئِذٍ لِلْكَافِرِينَ عَرْضًا",
+        "en_sahih": "English translation of [18:100] in Sahih International style.",
+        "en_yusufali": "English translation of [18:100] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 100 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:100] en español.",
+        "fr_hamidullah": "Traduction de [18:100] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 100 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:101",
+      "surahNumber": 18,
+      "ayahNumber": 101,
+      "text": {
+        "simple": "الَّذِينَ كَانَتْ أَعْيُنُهُمْ فِي غِطَاءٍ عَنْ ذِكْرِي وَكَانُوا لَا يَسْتَطِيعُونَ سَمْعًا",
+        "en_sahih": "English translation of [18:101] in Sahih International style.",
+        "en_yusufali": "English translation of [18:101] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 101 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:101] en español.",
+        "fr_hamidullah": "Traduction de [18:101] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 101 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:102",
+      "surahNumber": 18,
+      "ayahNumber": 102,
+      "text": {
+        "simple": "أَفَحَسِبَ الَّذِينَ كَفَرُوا أَنْ يَتَّخِذُوا عِبَادِي مِنْ دُونِي أَوْلِيَاءَ ۚ إِنَّا أَعْتَدْنَا جَهَنَّمَ لِلْكَافِرِينَ نُزُلًا",
+        "en_sahih": "English translation of [18:102] in Sahih International style.",
+        "en_yusufali": "English translation of [18:102] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 102 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:102] en español.",
+        "fr_hamidullah": "Traduction de [18:102] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 102 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:103",
+      "surahNumber": 18,
+      "ayahNumber": 103,
+      "text": {
+        "simple": "قُلْ هَلْ نُنَبِّئُكُمْ بِالْأَخْسَرِينَ أَعْمَالًا",
+        "en_sahih": "English translation of [18:103] in Sahih International style.",
+        "en_yusufali": "English translation of [18:103] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 103 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:103] en español.",
+        "fr_hamidullah": "Traduction de [18:103] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 103 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:104",
+      "surahNumber": 18,
+      "ayahNumber": 104,
+      "text": {
+        "simple": "الَّذِينَ ضَلَّ سَعْيُهُمْ فِي الْحَيَاةِ الدُّنْيَا وَهُمْ يَحْسَبُونَ أَنَّهُمْ يُحْسِنُونَ صُنْعًا",
+        "en_sahih": "English translation of [18:104] in Sahih International style.",
+        "en_yusufali": "English translation of [18:104] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 104 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:104] en español.",
+        "fr_hamidullah": "Traduction de [18:104] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 104 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:105",
+      "surahNumber": 18,
+      "ayahNumber": 105,
+      "text": {
+        "simple": "أُولَٰئِكَ الَّذِينَ كَفَرُوا بِآيَاتِ رَبِّهِمْ وَلِقَائِهِ فَحَبِطَتْ أَعْمَالُهُمْ فَلَا نُقِيمُ لَهُمْ يَوْمَ الْقِيَامَةِ وَزْنًا",
+        "en_sahih": "English translation of [18:105] in Sahih International style.",
+        "en_yusufali": "English translation of [18:105] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 105 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:105] en español.",
+        "fr_hamidullah": "Traduction de [18:105] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 105 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:106",
+      "surahNumber": 18,
+      "ayahNumber": 106,
+      "text": {
+        "simple": "ذَٰلِكَ جَزَاؤُهُمْ جَهَنَّمُ بِمَا كَفَرُوا وَاتَّخَذُوا آيَاتِي وَرُسُلِي هُزُوًا",
+        "en_sahih": "English translation of [18:106] in Sahih International style.",
+        "en_yusufali": "English translation of [18:106] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 106 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:106] en español.",
+        "fr_hamidullah": "Traduction de [18:106] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 106 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:107",
+      "surahNumber": 18,
+      "ayahNumber": 107,
+      "text": {
+        "simple": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ كَانَتْ لَهُمْ جَنَّاتُ الْفِرْدَوْسِ نُزُلًا",
+        "en_sahih": "English translation of [18:107] in Sahih International style.",
+        "en_yusufali": "English translation of [18:107] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 107 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:107] en español.",
+        "fr_hamidullah": "Traduction de [18:107] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 107 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:108",
+      "surahNumber": 18,
+      "ayahNumber": 108,
+      "text": {
+        "simple": "خَالِدِينَ فِيهَا لَا يَبْغُونَ عَنْهَا حِوَلًا",
+        "en_sahih": "English translation of [18:108] in Sahih International style.",
+        "en_yusufali": "English translation of [18:108] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 108 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:108] en español.",
+        "fr_hamidullah": "Traduction de [18:108] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 108 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:109",
+      "surahNumber": 18,
+      "ayahNumber": 109,
+      "text": {
+        "simple": "قُلْ لَوْ كَانَ الْبَحْرُ مِدَادًا لِكَلِمَاتِ رَبِّي لَنَفِدَ الْبَحْرُ قَبْلَ أَنْ تَنْفَدَ كَلِمَاتُ رَبِّي وَلَوْ جِئْنَا بِمِثْلِهِ مَدَدًا",
+        "en_sahih": "English translation of [18:109] in Sahih International style.",
+        "en_yusufali": "English translation of [18:109] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 109 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:109] en español.",
+        "fr_hamidullah": "Traduction de [18:109] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 109 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "18:110",
+      "surahNumber": 18,
+      "ayahNumber": 110,
+      "text": {
+        "simple": "قُلْ إِنَّمَا أَنَا بَشَرٌ مِثْلُكُمْ يُوحَىٰ إِلَيَّ أَنَّمَا إِلَٰهُكُمْ إِلَٰهٌ وَاحِدٌ ۖ فَمَنْ كَانَ يَرْجُو لِقَاءَ رَبِّهِ فَلْيَعْمَلْ عَمَلًا صَالِحًا وَلَا يُشْرِكْ بِعِبَادَةِ رَبِّهِ أَحَدًا",
+        "en_sahih": "English translation of [18:110] in Sahih International style.",
+        "en_yusufali": "English translation of [18:110] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 18 آیت 110 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [18:110] en español.",
+        "fr_hamidullah": "Traduction de [18:110] en français.",
+        "bn_hoque": "সূরা 18 আয়াত 110 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

@@ -20,11 +20,26 @@ function quranData() {
 }
 
 function hadithData() {
-  return readJsonIfExists(path.join(DATA_ROOT, "hadith/normalized/hadith.json"), {
+  const base = readJsonIfExists(path.join(DATA_ROOT, "hadith/normalized/hadith.json"), {
     schemaVersion: 1,
     collections: [],
     hadiths: []
   });
+  
+  const dir = path.join(DATA_ROOT, "hadith/normalized");
+  if (fs.existsSync(dir)) {
+    const files = fs.readdirSync(dir).filter((f) => f.startsWith("hadith_part_") && f.endsWith(".json"));
+    if (files.length > 0) {
+      base.hadiths = [];
+      for (const file of files.sort()) {
+        const part = readJsonIfExists(path.join(dir, file), { hadiths: [] });
+        if (Array.isArray(part.hadiths)) {
+          base.hadiths.push(...part.hadiths);
+        }
+      }
+    }
+  }
+  return base;
 }
 
 function audioData() {
@@ -99,17 +114,47 @@ export function getReciterList() {
 }
 
 export function getAudioUrl(reciterId, surahNumber, ayahNumber) {
-  const rId = reciterId == null ? "" : String(reciterId);
+  let rId = reciterId == null ? "" : String(reciterId);
   const s = Number(surahNumber);
   const a = ayahNumber == null ? null : Number(ayahNumber);
   const data = audioData();
+
+  let sourceFilter = null;
+  if (rId.includes(":")) {
+    const parts = rId.split(":");
+    if (parts[1] === "everyayah" || parts[1] === "haram" || parts[1] === "mp3quran") {
+      rId = parts[0];
+      sourceFilter = parts[1];
+    }
+  }
+
+  const reciter = data.reciters.find((item) => {
+    const idStr = String(item.id).toLowerCase();
+    const reciterIdStr = String(item.reciterId).toLowerCase();
+    const nameStr = String(item.name).toLowerCase();
+    const matchesId = idStr === rId.toLowerCase() || reciterIdStr === rId.toLowerCase() || nameStr.includes(rId.toLowerCase());
+    if (!matchesId) return false;
+    if (sourceFilter) {
+      if (sourceFilter === "everyayah" && item.source !== "everyayah") return false;
+      if (sourceFilter === "mp3quran" && item.source !== "mp3quran") return false;
+      if (sourceFilter === "haram") {
+        if (item.source !== "haram" && !nameStr.includes("sudais") && !nameStr.includes("maher")) return false;
+      }
+    }
+    return true;
+  });
+
+  const resolvedId = reciter ? reciter.id : rId;
+
   const row = data.audio.find(
-    (item) => String(item.reciterId) === rId && item.surahNumber === s && (a == null || item.ayahNumber === a || item.ayahNumber == null)
+    (item) => String(item.reciterId) === resolvedId && item.surahNumber === s && (a == null || item.ayahNumber === a || item.ayahNumber == null)
   );
   if (row?.url) return row.url;
-  const reciter = data.reciters.find((item) => String(item.id) === rId || String(item.reciterId) === rId);
-  if (!reciter?.urlTemplate) return null;
-  return fillAudioTemplate(reciter.urlTemplate, s, a || 1);
+
+  if (reciter?.urlTemplate) {
+    return fillAudioTemplate(reciter.urlTemplate, s, a || 1);
+  }
+  return null;
 }
 
 export function getFontList() {
@@ -265,6 +310,7 @@ export function createRawDataClient(options = {}) {
     loadHadith: () => load("hadith"),
     loadAudio: () => load("audio"),
     loadFonts: () => load("fonts"),
+    loadSurah: (number) => fetchJsonUrl(githubRawUrl(`data/quran/surahs/${number}.json`, options), fetchImpl),
     rawUrl: (filePath) => githubRawUrl(filePath, options)
   };
 }

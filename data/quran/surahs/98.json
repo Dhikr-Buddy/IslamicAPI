@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:58.004Z",
+  "surahNumber": 98,
+  "ayahCount": 8,
+  "ayahs": [
+    {
+      "id": "98:1",
+      "surahNumber": 98,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ لَمْ يَكُنِ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ مُنْفَكِّينَ حَتَّىٰ تَأْتِيَهُمُ الْبَيِّنَةُ",
+        "en_sahih": "English translation of [98:1] in Sahih International style.",
+        "en_yusufali": "English translation of [98:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 98 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [98:1] en español.",
+        "fr_hamidullah": "Traduction de [98:1] en français.",
+        "bn_hoque": "সূরা 98 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "98:2",
+      "surahNumber": 98,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "رَسُولٌ مِنَ اللَّهِ يَتْلُو صُحُفًا مُطَهَّرَةً",
+        "en_sahih": "English translation of [98:2] in Sahih International style.",
+        "en_yusufali": "English translation of [98:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 98 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [98:2] en español.",
+        "fr_hamidullah": "Traduction de [98:2] en français.",
+        "bn_hoque": "সূরা 98 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "98:3",
+      "surahNumber": 98,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "فِيهَا كُتُبٌ قَيِّمَةٌ",
+        "en_sahih": "English translation of [98:3] in Sahih International style.",
+        "en_yusufali": "English translation of [98:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 98 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [98:3] en español.",
+        "fr_hamidullah": "Traduction de [98:3] en français.",
+        "bn_hoque": "সূরা 98 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "98:4",
+      "surahNumber": 98,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "وَمَا تَفَرَّقَ الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِنْ بَعْدِ مَا جَاءَتْهُمُ الْبَيِّنَةُ",
+        "en_sahih": "English translation of [98:4] in Sahih International style.",
+        "en_yusufali": "English translation of [98:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 98 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [98:4] en español.",
+        "fr_hamidullah": "Traduction de [98:4] en français.",
+        "bn_hoque": "সূরা 98 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "98:5",
+      "surahNumber": 98,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ حُنَفَاءَ وَيُقِيمُوا الصَّلَاةَ وَيُؤْتُوا الزَّكَاةَ ۚ وَذَٰلِكَ دِينُ الْقَيِّمَةِ",
+        "en_sahih": "English translation of [98:5] in Sahih International style.",
+        "en_yusufali": "English translation of [98:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 98 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [98:5] en español.",
+        "fr_hamidullah": "Traduction de [98:5] en français.",
+        "bn_hoque": "সূরা 98 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "98:6",
+      "surahNumber": 98,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "إِنَّ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ فِي نَارِ جَهَنَّمَ خَالِدِينَ فِيهَا ۚ أُولَٰئِكَ هُمْ شَرُّ الْبَرِيَّةِ",
+        "en_sahih": "English translation of [98:6] in Sahih International style.",
+        "en_yusufali": "English translation of [98:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 98 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [98:6] en español.",
+        "fr_hamidullah": "Traduction de [98:6] en français.",
+        "bn_hoque": "সূরা 98 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "98:7",
+      "surahNumber": 98,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُولَٰئِكَ هُمْ خَيْرُ الْبَرِيَّةِ",
+        "en_sahih": "English translation of [98:7] in Sahih International style.",
+        "en_yusufali": "English translation of [98:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 98 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [98:7] en español.",
+        "fr_hamidullah": "Traduction de [98:7] en français.",
+        "bn_hoque": "সূরা 98 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "98:8",
+      "surahNumber": 98,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "جَزَاؤُهُمْ عِنْدَ رَبِّهِمْ جَنَّاتُ عَدْنٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۖ رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ۚ ذَٰلِكَ لِمَنْ خَشِيَ رَبَّهُ",
+        "en_sahih": "English translation of [98:8] in Sahih International style.",
+        "en_yusufali": "English translation of [98:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 98 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [98:8] en español.",
+        "fr_hamidullah": "Traduction de [98:8] en français.",
+        "bn_hoque": "সূরা 98 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

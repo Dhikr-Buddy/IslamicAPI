@@ -1,0 +1,281 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:58.003Z",
+  "surahNumber": 96,
+  "ayahCount": 19,
+  "ayahs": [
+    {
+      "id": "96:1",
+      "surahNumber": 96,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ",
+        "en_sahih": "English translation of [96:1] in Sahih International style.",
+        "en_yusufali": "English translation of [96:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 96 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [96:1] en español.",
+        "fr_hamidullah": "Traduction de [96:1] en français.",
+        "bn_hoque": "সূরা 96 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "96:2",
+      "surahNumber": 96,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "خَلَقَ الْإِنْسَانَ مِنْ عَلَقٍ",
+        "en_sahih": "English translation of [96:2] in Sahih International style.",
+        "en_yusufali": "English translation of [96:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 96 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [96:2] en español.",
+        "fr_hamidullah": "Traduction de [96:2] en français.",
+        "bn_hoque": "সূরা 96 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "96:3",
+      "surahNumber": 96,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "اقْرَأْ وَرَبُّكَ الْأَكْرَمُ",
+        "en_sahih": "English translation of [96:3] in Sahih International style.",
+        "en_yusufali": "English translation of [96:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 96 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [96:3] en español.",
+        "fr_hamidullah": "Traduction de [96:3] en français.",
+        "bn_hoque": "সূরা 96 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "96:4",
+      "surahNumber": 96,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "الَّذِي عَلَّمَ بِالْقَلَمِ",
+        "en_sahih": "English translation of [96:4] in Sahih International style.",
+        "en_yusufali": "English translation of [96:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 96 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [96:4] en español.",
+        "fr_hamidullah": "Traduction de [96:4] en français.",
+        "bn_hoque": "সূরা 96 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "96:5",
+      "surahNumber": 96,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "عَلَّمَ الْإِنْسَانَ مَا لَمْ يَعْلَمْ",
+        "en_sahih": "English translation of [96:5] in Sahih International style.",
+        "en_yusufali": "English translation of [96:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 96 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [96:5] en español.",
+        "fr_hamidullah": "Traduction de [96:5] en français.",
+        "bn_hoque": "সূরা 96 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "96:6",
+      "surahNumber": 96,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "كَلَّا إِنَّ الْإِنْسَانَ لَيَطْغَىٰ",
+        "en_sahih": "English translation of [96:6] in Sahih International style.",
+        "en_yusufali": "English translation of [96:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 96 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [96:6] en español.",
+        "fr_hamidullah": "Traduction de [96:6] en français.",
+        "bn_hoque": "সূরা 96 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "96:7",
+      "surahNumber": 96,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "أَنْ رَآهُ اسْتَغْنَىٰ",
+        "en_sahih": "English translation of [96:7] in Sahih International style.",
+        "en_yusufali": "English translation of [96:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 96 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [96:7] en español.",
+        "fr_hamidullah": "Traduction de [96:7] en français.",
+        "bn_hoque": "সূরা 96 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "96:8",
+      "surahNumber": 96,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "إِنَّ إِلَىٰ رَبِّكَ الرُّجْعَىٰ",
+        "en_sahih": "English translation of [96:8] in Sahih International style.",
+        "en_yusufali": "English translation of [96:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 96 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [96:8] en español.",
+        "fr_hamidullah": "Traduction de [96:8] en français.",
+        "bn_hoque": "সূরা 96 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "96:9",
+      "surahNumber": 96,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "أَرَأَيْتَ الَّذِي يَنْهَىٰ",
+        "en_sahih": "English translation of [96:9] in Sahih International style.",
+        "en_yusufali": "English translation of [96:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 96 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [96:9] en español.",
+        "fr_hamidullah": "Traduction de [96:9] en français.",
+        "bn_hoque": "সূরা 96 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "96:10",
+      "surahNumber": 96,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "عَبْدًا إِذَا صَلَّىٰ",
+        "en_sahih": "English translation of [96:10] in Sahih International style.",
+        "en_yusufali": "English translation of [96:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 96 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [96:10] en español.",
+        "fr_hamidullah": "Traduction de [96:10] en français.",
+        "bn_hoque": "সূরা 96 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "96:11",
+      "surahNumber": 96,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "أَرَأَيْتَ إِنْ كَانَ عَلَى الْهُدَىٰ",
+        "en_sahih": "English translation of [96:11] in Sahih International style.",
+        "en_yusufali": "English translation of [96:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 96 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [96:11] en español.",
+        "fr_hamidullah": "Traduction de [96:11] en français.",
+        "bn_hoque": "সূরা 96 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "96:12",
+      "surahNumber": 96,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "أَوْ أَمَرَ بِالتَّقْوَىٰ",
+        "en_sahih": "English translation of [96:12] in Sahih International style.",
+        "en_yusufali": "English translation of [96:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 96 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [96:12] en español.",
+        "fr_hamidullah": "Traduction de [96:12] en français.",
+        "bn_hoque": "সূরা 96 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "96:13",
+      "surahNumber": 96,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "أَرَأَيْتَ إِنْ كَذَّبَ وَتَوَلَّىٰ",
+        "en_sahih": "English translation of [96:13] in Sahih International style.",
+        "en_yusufali": "English translation of [96:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 96 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [96:13] en español.",
+        "fr_hamidullah": "Traduction de [96:13] en français.",
+        "bn_hoque": "সূরা 96 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "96:14",
+      "surahNumber": 96,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "أَلَمْ يَعْلَمْ بِأَنَّ اللَّهَ يَرَىٰ",
+        "en_sahih": "English translation of [96:14] in Sahih International style.",
+        "en_yusufali": "English translation of [96:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 96 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [96:14] en español.",
+        "fr_hamidullah": "Traduction de [96:14] en français.",
+        "bn_hoque": "সূরা 96 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "96:15",
+      "surahNumber": 96,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "كَلَّا لَئِنْ لَمْ يَنْتَهِ لَنَسْفَعًا بِالنَّاصِيَةِ",
+        "en_sahih": "English translation of [96:15] in Sahih International style.",
+        "en_yusufali": "English translation of [96:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 96 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [96:15] en español.",
+        "fr_hamidullah": "Traduction de [96:15] en français.",
+        "bn_hoque": "সূরা 96 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "96:16",
+      "surahNumber": 96,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍ",
+        "en_sahih": "English translation of [96:16] in Sahih International style.",
+        "en_yusufali": "English translation of [96:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 96 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [96:16] en español.",
+        "fr_hamidullah": "Traduction de [96:16] en français.",
+        "bn_hoque": "সূরা 96 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "96:17",
+      "surahNumber": 96,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "فَلْيَدْعُ نَادِيَهُ",
+        "en_sahih": "English translation of [96:17] in Sahih International style.",
+        "en_yusufali": "English translation of [96:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 96 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [96:17] en español.",
+        "fr_hamidullah": "Traduction de [96:17] en français.",
+        "bn_hoque": "সূরা 96 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "96:18",
+      "surahNumber": 96,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "سَنَدْعُ الزَّبَانِيَةَ",
+        "en_sahih": "English translation of [96:18] in Sahih International style.",
+        "en_yusufali": "English translation of [96:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 96 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [96:18] en español.",
+        "fr_hamidullah": "Traduction de [96:18] en français.",
+        "bn_hoque": "সূরা 96 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "96:19",
+      "surahNumber": 96,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "كَلَّا لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِبْ ۩",
+        "en_sahih": "English translation of [96:19] in Sahih International style.",
+        "en_yusufali": "English translation of [96:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 96 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [96:19] en español.",
+        "fr_hamidullah": "Traduction de [96:19] en français.",
+        "bn_hoque": "সূরা 96 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

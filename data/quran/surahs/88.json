@@ -1,0 +1,379 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:58.001Z",
+  "surahNumber": 88,
+  "ayahCount": 26,
+  "ayahs": [
+    {
+      "id": "88:1",
+      "surahNumber": 88,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ",
+        "en_sahih": "English translation of [88:1] in Sahih International style.",
+        "en_yusufali": "English translation of [88:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 88 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [88:1] en español.",
+        "fr_hamidullah": "Traduction de [88:1] en français.",
+        "bn_hoque": "সূরা 88 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "88:2",
+      "surahNumber": 88,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ",
+        "en_sahih": "English translation of [88:2] in Sahih International style.",
+        "en_yusufali": "English translation of [88:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 88 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [88:2] en español.",
+        "fr_hamidullah": "Traduction de [88:2] en français.",
+        "bn_hoque": "সূরা 88 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "88:3",
+      "surahNumber": 88,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "عَامِلَةٌ نَاصِبَةٌ",
+        "en_sahih": "English translation of [88:3] in Sahih International style.",
+        "en_yusufali": "English translation of [88:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 88 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [88:3] en español.",
+        "fr_hamidullah": "Traduction de [88:3] en français.",
+        "bn_hoque": "সূরা 88 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "88:4",
+      "surahNumber": 88,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "تَصْلَىٰ نَارًا حَامِيَةً",
+        "en_sahih": "English translation of [88:4] in Sahih International style.",
+        "en_yusufali": "English translation of [88:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 88 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [88:4] en español.",
+        "fr_hamidullah": "Traduction de [88:4] en français.",
+        "bn_hoque": "সূরা 88 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "88:5",
+      "surahNumber": 88,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ",
+        "en_sahih": "English translation of [88:5] in Sahih International style.",
+        "en_yusufali": "English translation of [88:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 88 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [88:5] en español.",
+        "fr_hamidullah": "Traduction de [88:5] en français.",
+        "bn_hoque": "সূরা 88 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "88:6",
+      "surahNumber": 88,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "لَيْسَ لَهُمْ طَعَامٌ إِلَّا مِنْ ضَرِيعٍ",
+        "en_sahih": "English translation of [88:6] in Sahih International style.",
+        "en_yusufali": "English translation of [88:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 88 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [88:6] en español.",
+        "fr_hamidullah": "Traduction de [88:6] en français.",
+        "bn_hoque": "সূরা 88 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "88:7",
+      "surahNumber": 88,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "لَا يُسْمِنُ وَلَا يُغْنِي مِنْ جُوعٍ",
+        "en_sahih": "English translation of [88:7] in Sahih International style.",
+        "en_yusufali": "English translation of [88:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 88 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [88:7] en español.",
+        "fr_hamidullah": "Traduction de [88:7] en français.",
+        "bn_hoque": "সূরা 88 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "88:8",
+      "surahNumber": 88,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "وُجُوهٌ يَوْمَئِذٍ نَاعِمَةٌ",
+        "en_sahih": "English translation of [88:8] in Sahih International style.",
+        "en_yusufali": "English translation of [88:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 88 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [88:8] en español.",
+        "fr_hamidullah": "Traduction de [88:8] en français.",
+        "bn_hoque": "সূরা 88 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "88:9",
+      "surahNumber": 88,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "لِسَعْيِهَا رَاضِيَةٌ",
+        "en_sahih": "English translation of [88:9] in Sahih International style.",
+        "en_yusufali": "English translation of [88:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 88 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [88:9] en español.",
+        "fr_hamidullah": "Traduction de [88:9] en français.",
+        "bn_hoque": "সূরা 88 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "88:10",
+      "surahNumber": 88,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "فِي جَنَّةٍ عَالِيَةٍ",
+        "en_sahih": "English translation of [88:10] in Sahih International style.",
+        "en_yusufali": "English translation of [88:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 88 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [88:10] en español.",
+        "fr_hamidullah": "Traduction de [88:10] en français.",
+        "bn_hoque": "সূরা 88 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "88:11",
+      "surahNumber": 88,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "لَا تَسْمَعُ فِيهَا لَاغِيَةً",
+        "en_sahih": "English translation of [88:11] in Sahih International style.",
+        "en_yusufali": "English translation of [88:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 88 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [88:11] en español.",
+        "fr_hamidullah": "Traduction de [88:11] en français.",
+        "bn_hoque": "সূরা 88 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "88:12",
+      "surahNumber": 88,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "فِيهَا عَيْنٌ جَارِيَةٌ",
+        "en_sahih": "English translation of [88:12] in Sahih International style.",
+        "en_yusufali": "English translation of [88:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 88 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [88:12] en español.",
+        "fr_hamidullah": "Traduction de [88:12] en français.",
+        "bn_hoque": "সূরা 88 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "88:13",
+      "surahNumber": 88,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "فِيهَا سُرُرٌ مَرْفُوعَةٌ",
+        "en_sahih": "English translation of [88:13] in Sahih International style.",
+        "en_yusufali": "English translation of [88:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 88 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [88:13] en español.",
+        "fr_hamidullah": "Traduction de [88:13] en français.",
+        "bn_hoque": "সূরা 88 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "88:14",
+      "surahNumber": 88,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "وَأَكْوَابٌ مَوْضُوعَةٌ",
+        "en_sahih": "English translation of [88:14] in Sahih International style.",
+        "en_yusufali": "English translation of [88:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 88 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [88:14] en español.",
+        "fr_hamidullah": "Traduction de [88:14] en français.",
+        "bn_hoque": "সূরা 88 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "88:15",
+      "surahNumber": 88,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "وَنَمَارِقُ مَصْفُوفَةٌ",
+        "en_sahih": "English translation of [88:15] in Sahih International style.",
+        "en_yusufali": "English translation of [88:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 88 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [88:15] en español.",
+        "fr_hamidullah": "Traduction de [88:15] en français.",
+        "bn_hoque": "সূরা 88 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "88:16",
+      "surahNumber": 88,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "وَزَرَابِيُّ مَبْثُوثَةٌ",
+        "en_sahih": "English translation of [88:16] in Sahih International style.",
+        "en_yusufali": "English translation of [88:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 88 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [88:16] en español.",
+        "fr_hamidullah": "Traduction de [88:16] en français.",
+        "bn_hoque": "সূরা 88 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "88:17",
+      "surahNumber": 88,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "أَفَلَا يَنْظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ",
+        "en_sahih": "English translation of [88:17] in Sahih International style.",
+        "en_yusufali": "English translation of [88:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 88 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [88:17] en español.",
+        "fr_hamidullah": "Traduction de [88:17] en français.",
+        "bn_hoque": "সূরা 88 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "88:18",
+      "surahNumber": 88,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "وَإِلَى السَّمَاءِ كَيْفَ رُفِعَتْ",
+        "en_sahih": "English translation of [88:18] in Sahih International style.",
+        "en_yusufali": "English translation of [88:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 88 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [88:18] en español.",
+        "fr_hamidullah": "Traduction de [88:18] en français.",
+        "bn_hoque": "সূরা 88 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "88:19",
+      "surahNumber": 88,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "وَإِلَى الْجِبَالِ كَيْفَ نُصِبَتْ",
+        "en_sahih": "English translation of [88:19] in Sahih International style.",
+        "en_yusufali": "English translation of [88:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 88 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [88:19] en español.",
+        "fr_hamidullah": "Traduction de [88:19] en français.",
+        "bn_hoque": "সূরা 88 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "88:20",
+      "surahNumber": 88,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "وَإِلَى الْأَرْضِ كَيْفَ سُطِحَتْ",
+        "en_sahih": "English translation of [88:20] in Sahih International style.",
+        "en_yusufali": "English translation of [88:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 88 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [88:20] en español.",
+        "fr_hamidullah": "Traduction de [88:20] en français.",
+        "bn_hoque": "সূরা 88 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "88:21",
+      "surahNumber": 88,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "فَذَكِّرْ إِنَّمَا أَنْتَ مُذَكِّرٌ",
+        "en_sahih": "English translation of [88:21] in Sahih International style.",
+        "en_yusufali": "English translation of [88:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 88 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [88:21] en español.",
+        "fr_hamidullah": "Traduction de [88:21] en français.",
+        "bn_hoque": "সূরা 88 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "88:22",
+      "surahNumber": 88,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "لَسْتَ عَلَيْهِمْ بِمُصَيْطِرٍ",
+        "en_sahih": "English translation of [88:22] in Sahih International style.",
+        "en_yusufali": "English translation of [88:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 88 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [88:22] en español.",
+        "fr_hamidullah": "Traduction de [88:22] en français.",
+        "bn_hoque": "সূরা 88 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "88:23",
+      "surahNumber": 88,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "إِلَّا مَنْ تَوَلَّىٰ وَكَفَرَ",
+        "en_sahih": "English translation of [88:23] in Sahih International style.",
+        "en_yusufali": "English translation of [88:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 88 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [88:23] en español.",
+        "fr_hamidullah": "Traduction de [88:23] en français.",
+        "bn_hoque": "সূরা 88 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "88:24",
+      "surahNumber": 88,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "فَيُعَذِّبُهُ اللَّهُ الْعَذَابَ الْأَكْبَرَ",
+        "en_sahih": "English translation of [88:24] in Sahih International style.",
+        "en_yusufali": "English translation of [88:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 88 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [88:24] en español.",
+        "fr_hamidullah": "Traduction de [88:24] en français.",
+        "bn_hoque": "সূরা 88 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "88:25",
+      "surahNumber": 88,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "إِنَّ إِلَيْنَا إِيَابَهُمْ",
+        "en_sahih": "English translation of [88:25] in Sahih International style.",
+        "en_yusufali": "English translation of [88:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 88 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [88:25] en español.",
+        "fr_hamidullah": "Traduction de [88:25] en français.",
+        "bn_hoque": "সূরা 88 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "88:26",
+      "surahNumber": 88,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُمْ",
+        "en_sahih": "English translation of [88:26] in Sahih International style.",
+        "en_yusufali": "English translation of [88:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 88 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [88:26] en español.",
+        "fr_hamidullah": "Traduction de [88:26] en français.",
+        "bn_hoque": "সূরা 88 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

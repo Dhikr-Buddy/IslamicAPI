@@ -1,0 +1,519 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.998Z",
+  "surahNumber": 83,
+  "ayahCount": 36,
+  "ayahs": [
+    {
+      "id": "83:1",
+      "surahNumber": 83,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَيْلٌ لِلْمُطَفِّفِينَ",
+        "en_sahih": "English translation of [83:1] in Sahih International style.",
+        "en_yusufali": "English translation of [83:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 83 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [83:1] en español.",
+        "fr_hamidullah": "Traduction de [83:1] en français.",
+        "bn_hoque": "সূরা 83 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "83:2",
+      "surahNumber": 83,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "الَّذِينَ إِذَا اكْتَالُوا عَلَى النَّاسِ يَسْتَوْفُونَ",
+        "en_sahih": "English translation of [83:2] in Sahih International style.",
+        "en_yusufali": "English translation of [83:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 83 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [83:2] en español.",
+        "fr_hamidullah": "Traduction de [83:2] en français.",
+        "bn_hoque": "সূরা 83 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "83:3",
+      "surahNumber": 83,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "وَإِذَا كَالُوهُمْ أَوْ وَزَنُوهُمْ يُخْسِرُونَ",
+        "en_sahih": "English translation of [83:3] in Sahih International style.",
+        "en_yusufali": "English translation of [83:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 83 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [83:3] en español.",
+        "fr_hamidullah": "Traduction de [83:3] en français.",
+        "bn_hoque": "সূরা 83 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "83:4",
+      "surahNumber": 83,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "أَلَا يَظُنُّ أُولَٰئِكَ أَنَّهُمْ مَبْعُوثُونَ",
+        "en_sahih": "English translation of [83:4] in Sahih International style.",
+        "en_yusufali": "English translation of [83:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 83 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [83:4] en español.",
+        "fr_hamidullah": "Traduction de [83:4] en français.",
+        "bn_hoque": "সূরা 83 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "83:5",
+      "surahNumber": 83,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "لِيَوْمٍ عَظِيمٍ",
+        "en_sahih": "English translation of [83:5] in Sahih International style.",
+        "en_yusufali": "English translation of [83:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 83 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [83:5] en español.",
+        "fr_hamidullah": "Traduction de [83:5] en français.",
+        "bn_hoque": "সূরা 83 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "83:6",
+      "surahNumber": 83,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "يَوْمَ يَقُومُ النَّاسُ لِرَبِّ الْعَالَمِينَ",
+        "en_sahih": "English translation of [83:6] in Sahih International style.",
+        "en_yusufali": "English translation of [83:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 83 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [83:6] en español.",
+        "fr_hamidullah": "Traduction de [83:6] en français.",
+        "bn_hoque": "সূরা 83 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "83:7",
+      "surahNumber": 83,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "كَلَّا إِنَّ كِتَابَ الْفُجَّارِ لَفِي سِجِّينٍ",
+        "en_sahih": "English translation of [83:7] in Sahih International style.",
+        "en_yusufali": "English translation of [83:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 83 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [83:7] en español.",
+        "fr_hamidullah": "Traduction de [83:7] en français.",
+        "bn_hoque": "সূরা 83 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "83:8",
+      "surahNumber": 83,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "وَمَا أَدْرَاكَ مَا سِجِّينٌ",
+        "en_sahih": "English translation of [83:8] in Sahih International style.",
+        "en_yusufali": "English translation of [83:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 83 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [83:8] en español.",
+        "fr_hamidullah": "Traduction de [83:8] en français.",
+        "bn_hoque": "সূরা 83 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "83:9",
+      "surahNumber": 83,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "كِتَابٌ مَرْقُومٌ",
+        "en_sahih": "English translation of [83:9] in Sahih International style.",
+        "en_yusufali": "English translation of [83:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 83 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [83:9] en español.",
+        "fr_hamidullah": "Traduction de [83:9] en français.",
+        "bn_hoque": "সূরা 83 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "83:10",
+      "surahNumber": 83,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+        "en_sahih": "English translation of [83:10] in Sahih International style.",
+        "en_yusufali": "English translation of [83:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 83 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [83:10] en español.",
+        "fr_hamidullah": "Traduction de [83:10] en français.",
+        "bn_hoque": "সূরা 83 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "83:11",
+      "surahNumber": 83,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "الَّذِينَ يُكَذِّبُونَ بِيَوْمِ الدِّينِ",
+        "en_sahih": "English translation of [83:11] in Sahih International style.",
+        "en_yusufali": "English translation of [83:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 83 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [83:11] en español.",
+        "fr_hamidullah": "Traduction de [83:11] en français.",
+        "bn_hoque": "সূরা 83 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "83:12",
+      "surahNumber": 83,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "وَمَا يُكَذِّبُ بِهِ إِلَّا كُلُّ مُعْتَدٍ أَثِيمٍ",
+        "en_sahih": "English translation of [83:12] in Sahih International style.",
+        "en_yusufali": "English translation of [83:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 83 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [83:12] en español.",
+        "fr_hamidullah": "Traduction de [83:12] en français.",
+        "bn_hoque": "সূরা 83 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "83:13",
+      "surahNumber": 83,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "إِذَا تُتْلَىٰ عَلَيْهِ آيَاتُنَا قَالَ أَسَاطِيرُ الْأَوَّلِينَ",
+        "en_sahih": "English translation of [83:13] in Sahih International style.",
+        "en_yusufali": "English translation of [83:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 83 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [83:13] en español.",
+        "fr_hamidullah": "Traduction de [83:13] en français.",
+        "bn_hoque": "সূরা 83 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "83:14",
+      "surahNumber": 83,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "كَلَّا ۖ بَلْ ۜ رَانَ عَلَىٰ قُلُوبِهِمْ مَا كَانُوا يَكْسِبُونَ",
+        "en_sahih": "English translation of [83:14] in Sahih International style.",
+        "en_yusufali": "English translation of [83:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 83 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [83:14] en español.",
+        "fr_hamidullah": "Traduction de [83:14] en français.",
+        "bn_hoque": "সূরা 83 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "83:15",
+      "surahNumber": 83,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "كَلَّا إِنَّهُمْ عَنْ رَبِّهِمْ يَوْمَئِذٍ لَمَحْجُوبُونَ",
+        "en_sahih": "English translation of [83:15] in Sahih International style.",
+        "en_yusufali": "English translation of [83:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 83 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [83:15] en español.",
+        "fr_hamidullah": "Traduction de [83:15] en français.",
+        "bn_hoque": "সূরা 83 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "83:16",
+      "surahNumber": 83,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "ثُمَّ إِنَّهُمْ لَصَالُو الْجَحِيمِ",
+        "en_sahih": "English translation of [83:16] in Sahih International style.",
+        "en_yusufali": "English translation of [83:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 83 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [83:16] en español.",
+        "fr_hamidullah": "Traduction de [83:16] en français.",
+        "bn_hoque": "সূরা 83 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "83:17",
+      "surahNumber": 83,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "ثُمَّ يُقَالُ هَٰذَا الَّذِي كُنْتُمْ بِهِ تُكَذِّبُونَ",
+        "en_sahih": "English translation of [83:17] in Sahih International style.",
+        "en_yusufali": "English translation of [83:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 83 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [83:17] en español.",
+        "fr_hamidullah": "Traduction de [83:17] en français.",
+        "bn_hoque": "সূরা 83 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "83:18",
+      "surahNumber": 83,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "كَلَّا إِنَّ كِتَابَ الْأَبْرَارِ لَفِي عِلِّيِّينَ",
+        "en_sahih": "English translation of [83:18] in Sahih International style.",
+        "en_yusufali": "English translation of [83:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 83 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [83:18] en español.",
+        "fr_hamidullah": "Traduction de [83:18] en français.",
+        "bn_hoque": "সূরা 83 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "83:19",
+      "surahNumber": 83,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "وَمَا أَدْرَاكَ مَا عِلِّيُّونَ",
+        "en_sahih": "English translation of [83:19] in Sahih International style.",
+        "en_yusufali": "English translation of [83:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 83 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [83:19] en español.",
+        "fr_hamidullah": "Traduction de [83:19] en français.",
+        "bn_hoque": "সূরা 83 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "83:20",
+      "surahNumber": 83,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "كِتَابٌ مَرْقُومٌ",
+        "en_sahih": "English translation of [83:20] in Sahih International style.",
+        "en_yusufali": "English translation of [83:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 83 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [83:20] en español.",
+        "fr_hamidullah": "Traduction de [83:20] en français.",
+        "bn_hoque": "সূরা 83 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "83:21",
+      "surahNumber": 83,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "يَشْهَدُهُ الْمُقَرَّبُونَ",
+        "en_sahih": "English translation of [83:21] in Sahih International style.",
+        "en_yusufali": "English translation of [83:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 83 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [83:21] en español.",
+        "fr_hamidullah": "Traduction de [83:21] en français.",
+        "bn_hoque": "সূরা 83 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "83:22",
+      "surahNumber": 83,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ",
+        "en_sahih": "English translation of [83:22] in Sahih International style.",
+        "en_yusufali": "English translation of [83:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 83 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [83:22] en español.",
+        "fr_hamidullah": "Traduction de [83:22] en français.",
+        "bn_hoque": "সূরা 83 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "83:23",
+      "surahNumber": 83,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "عَلَى الْأَرَائِكِ يَنْظُرُونَ",
+        "en_sahih": "English translation of [83:23] in Sahih International style.",
+        "en_yusufali": "English translation of [83:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 83 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [83:23] en español.",
+        "fr_hamidullah": "Traduction de [83:23] en français.",
+        "bn_hoque": "সূরা 83 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "83:24",
+      "surahNumber": 83,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "تَعْرِفُ فِي وُجُوهِهِمْ نَضْرَةَ النَّعِيمِ",
+        "en_sahih": "English translation of [83:24] in Sahih International style.",
+        "en_yusufali": "English translation of [83:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 83 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [83:24] en español.",
+        "fr_hamidullah": "Traduction de [83:24] en français.",
+        "bn_hoque": "সূরা 83 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "83:25",
+      "surahNumber": 83,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "يُسْقَوْنَ مِنْ رَحِيقٍ مَخْتُومٍ",
+        "en_sahih": "English translation of [83:25] in Sahih International style.",
+        "en_yusufali": "English translation of [83:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 83 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [83:25] en español.",
+        "fr_hamidullah": "Traduction de [83:25] en français.",
+        "bn_hoque": "সূরা 83 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "83:26",
+      "surahNumber": 83,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "خِتَامُهُ مِسْكٌ ۚ وَفِي ذَٰلِكَ فَلْيَتَنَافَسِ الْمُتَنَافِسُونَ",
+        "en_sahih": "English translation of [83:26] in Sahih International style.",
+        "en_yusufali": "English translation of [83:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 83 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [83:26] en español.",
+        "fr_hamidullah": "Traduction de [83:26] en français.",
+        "bn_hoque": "সূরা 83 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "83:27",
+      "surahNumber": 83,
+      "ayahNumber": 27,
+      "text": {
+        "simple": "وَمِزَاجُهُ مِنْ تَسْنِيمٍ",
+        "en_sahih": "English translation of [83:27] in Sahih International style.",
+        "en_yusufali": "English translation of [83:27] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 83 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [83:27] en español.",
+        "fr_hamidullah": "Traduction de [83:27] en français.",
+        "bn_hoque": "সূরা 83 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "83:28",
+      "surahNumber": 83,
+      "ayahNumber": 28,
+      "text": {
+        "simple": "عَيْنًا يَشْرَبُ بِهَا الْمُقَرَّبُونَ",
+        "en_sahih": "English translation of [83:28] in Sahih International style.",
+        "en_yusufali": "English translation of [83:28] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 83 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [83:28] en español.",
+        "fr_hamidullah": "Traduction de [83:28] en français.",
+        "bn_hoque": "সূরা 83 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "83:29",
+      "surahNumber": 83,
+      "ayahNumber": 29,
+      "text": {
+        "simple": "إِنَّ الَّذِينَ أَجْرَمُوا كَانُوا مِنَ الَّذِينَ آمَنُوا يَضْحَكُونَ",
+        "en_sahih": "English translation of [83:29] in Sahih International style.",
+        "en_yusufali": "English translation of [83:29] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 83 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [83:29] en español.",
+        "fr_hamidullah": "Traduction de [83:29] en français.",
+        "bn_hoque": "সূরা 83 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "83:30",
+      "surahNumber": 83,
+      "ayahNumber": 30,
+      "text": {
+        "simple": "وَإِذَا مَرُّوا بِهِمْ يَتَغَامَزُونَ",
+        "en_sahih": "English translation of [83:30] in Sahih International style.",
+        "en_yusufali": "English translation of [83:30] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 83 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [83:30] en español.",
+        "fr_hamidullah": "Traduction de [83:30] en français.",
+        "bn_hoque": "সূরা 83 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "83:31",
+      "surahNumber": 83,
+      "ayahNumber": 31,
+      "text": {
+        "simple": "وَإِذَا انْقَلَبُوا إِلَىٰ أَهْلِهِمُ انْقَلَبُوا فَكِهِينَ",
+        "en_sahih": "English translation of [83:31] in Sahih International style.",
+        "en_yusufali": "English translation of [83:31] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 83 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [83:31] en español.",
+        "fr_hamidullah": "Traduction de [83:31] en français.",
+        "bn_hoque": "সূরা 83 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "83:32",
+      "surahNumber": 83,
+      "ayahNumber": 32,
+      "text": {
+        "simple": "وَإِذَا رَأَوْهُمْ قَالُوا إِنَّ هَٰؤُلَاءِ لَضَالُّونَ",
+        "en_sahih": "English translation of [83:32] in Sahih International style.",
+        "en_yusufali": "English translation of [83:32] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 83 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [83:32] en español.",
+        "fr_hamidullah": "Traduction de [83:32] en français.",
+        "bn_hoque": "সূরা 83 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "83:33",
+      "surahNumber": 83,
+      "ayahNumber": 33,
+      "text": {
+        "simple": "وَمَا أُرْسِلُوا عَلَيْهِمْ حَافِظِينَ",
+        "en_sahih": "English translation of [83:33] in Sahih International style.",
+        "en_yusufali": "English translation of [83:33] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 83 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [83:33] en español.",
+        "fr_hamidullah": "Traduction de [83:33] en français.",
+        "bn_hoque": "সূরা 83 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "83:34",
+      "surahNumber": 83,
+      "ayahNumber": 34,
+      "text": {
+        "simple": "فَالْيَوْمَ الَّذِينَ آمَنُوا مِنَ الْكُفَّارِ يَضْحَكُونَ",
+        "en_sahih": "English translation of [83:34] in Sahih International style.",
+        "en_yusufali": "English translation of [83:34] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 83 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [83:34] en español.",
+        "fr_hamidullah": "Traduction de [83:34] en français.",
+        "bn_hoque": "সূরা 83 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "83:35",
+      "surahNumber": 83,
+      "ayahNumber": 35,
+      "text": {
+        "simple": "عَلَى الْأَرَائِكِ يَنْظُرُونَ",
+        "en_sahih": "English translation of [83:35] in Sahih International style.",
+        "en_yusufali": "English translation of [83:35] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 83 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [83:35] en español.",
+        "fr_hamidullah": "Traduction de [83:35] en français.",
+        "bn_hoque": "সূরা 83 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "83:36",
+      "surahNumber": 83,
+      "ayahNumber": 36,
+      "text": {
+        "simple": "هَلْ ثُوِّبَ الْكُفَّارُ مَا كَانُوا يَفْعَلُونَ",
+        "en_sahih": "English translation of [83:36] in Sahih International style.",
+        "en_yusufali": "English translation of [83:36] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 83 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [83:36] en español.",
+        "fr_hamidullah": "Traduction de [83:36] en français.",
+        "bn_hoque": "সূরা 83 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

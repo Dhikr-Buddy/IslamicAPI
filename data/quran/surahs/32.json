@@ -1,0 +1,435 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.983Z",
+  "surahNumber": 32,
+  "ayahCount": 30,
+  "ayahs": [
+    {
+      "id": "32:1",
+      "surahNumber": 32,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ الم",
+        "en_sahih": "English translation of [32:1] in Sahih International style.",
+        "en_yusufali": "English translation of [32:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 32 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [32:1] en español.",
+        "fr_hamidullah": "Traduction de [32:1] en français.",
+        "bn_hoque": "সূরা 32 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "32:2",
+      "surahNumber": 32,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "تَنْزِيلُ الْكِتَابِ لَا رَيْبَ فِيهِ مِنْ رَبِّ الْعَالَمِينَ",
+        "en_sahih": "English translation of [32:2] in Sahih International style.",
+        "en_yusufali": "English translation of [32:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 32 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [32:2] en español.",
+        "fr_hamidullah": "Traduction de [32:2] en français.",
+        "bn_hoque": "সূরা 32 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "32:3",
+      "surahNumber": 32,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "أَمْ يَقُولُونَ افْتَرَاهُ ۚ بَلْ هُوَ الْحَقُّ مِنْ رَبِّكَ لِتُنْذِرَ قَوْمًا مَا أَتَاهُمْ مِنْ نَذِيرٍ مِنْ قَبْلِكَ لَعَلَّهُمْ يَهْتَدُونَ",
+        "en_sahih": "English translation of [32:3] in Sahih International style.",
+        "en_yusufali": "English translation of [32:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 32 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [32:3] en español.",
+        "fr_hamidullah": "Traduction de [32:3] en français.",
+        "bn_hoque": "সূরা 32 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "32:4",
+      "surahNumber": 32,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ ۖ مَا لَكُمْ مِنْ دُونِهِ مِنْ وَلِيٍّ وَلَا شَفِيعٍ ۚ أَفَلَا تَتَذَكَّرُونَ",
+        "en_sahih": "English translation of [32:4] in Sahih International style.",
+        "en_yusufali": "English translation of [32:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 32 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [32:4] en español.",
+        "fr_hamidullah": "Traduction de [32:4] en français.",
+        "bn_hoque": "সূরা 32 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "32:5",
+      "surahNumber": 32,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "يُدَبِّرُ الْأَمْرَ مِنَ السَّمَاءِ إِلَى الْأَرْضِ ثُمَّ يَعْرُجُ إِلَيْهِ فِي يَوْمٍ كَانَ مِقْدَارُهُ أَلْفَ سَنَةٍ مِمَّا تَعُدُّونَ",
+        "en_sahih": "English translation of [32:5] in Sahih International style.",
+        "en_yusufali": "English translation of [32:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 32 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [32:5] en español.",
+        "fr_hamidullah": "Traduction de [32:5] en français.",
+        "bn_hoque": "সূরা 32 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "32:6",
+      "surahNumber": 32,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "ذَٰلِكَ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ الْعَزِيزُ الرَّحِيمُ",
+        "en_sahih": "English translation of [32:6] in Sahih International style.",
+        "en_yusufali": "English translation of [32:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 32 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [32:6] en español.",
+        "fr_hamidullah": "Traduction de [32:6] en français.",
+        "bn_hoque": "সূরা 32 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "32:7",
+      "surahNumber": 32,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "الَّذِي أَحْسَنَ كُلَّ شَيْءٍ خَلَقَهُ ۖ وَبَدَأَ خَلْقَ الْإِنْسَانِ مِنْ طِينٍ",
+        "en_sahih": "English translation of [32:7] in Sahih International style.",
+        "en_yusufali": "English translation of [32:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 32 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [32:7] en español.",
+        "fr_hamidullah": "Traduction de [32:7] en français.",
+        "bn_hoque": "সূরা 32 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "32:8",
+      "surahNumber": 32,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "ثُمَّ جَعَلَ نَسْلَهُ مِنْ سُلَالَةٍ مِنْ مَاءٍ مَهِينٍ",
+        "en_sahih": "English translation of [32:8] in Sahih International style.",
+        "en_yusufali": "English translation of [32:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 32 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [32:8] en español.",
+        "fr_hamidullah": "Traduction de [32:8] en français.",
+        "bn_hoque": "সূরা 32 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "32:9",
+      "surahNumber": 32,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "ثُمَّ سَوَّاهُ وَنَفَخَ فِيهِ مِنْ رُوحِهِ ۖ وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ ۚ قَلِيلًا مَا تَشْكُرُونَ",
+        "en_sahih": "English translation of [32:9] in Sahih International style.",
+        "en_yusufali": "English translation of [32:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 32 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [32:9] en español.",
+        "fr_hamidullah": "Traduction de [32:9] en français.",
+        "bn_hoque": "সূরা 32 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "32:10",
+      "surahNumber": 32,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "وَقَالُوا أَإِذَا ضَلَلْنَا فِي الْأَرْضِ أَإِنَّا لَفِي خَلْقٍ جَدِيدٍ ۚ بَلْ هُمْ بِلِقَاءِ رَبِّهِمْ كَافِرُونَ",
+        "en_sahih": "English translation of [32:10] in Sahih International style.",
+        "en_yusufali": "English translation of [32:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 32 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [32:10] en español.",
+        "fr_hamidullah": "Traduction de [32:10] en français.",
+        "bn_hoque": "সূরা 32 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "32:11",
+      "surahNumber": 32,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "۞ قُلْ يَتَوَفَّاكُمْ مَلَكُ الْمَوْتِ الَّذِي وُكِّلَ بِكُمْ ثُمَّ إِلَىٰ رَبِّكُمْ تُرْجَعُونَ",
+        "en_sahih": "English translation of [32:11] in Sahih International style.",
+        "en_yusufali": "English translation of [32:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 32 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [32:11] en español.",
+        "fr_hamidullah": "Traduction de [32:11] en français.",
+        "bn_hoque": "সূরা 32 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "32:12",
+      "surahNumber": 32,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "وَلَوْ تَرَىٰ إِذِ الْمُجْرِمُونَ نَاكِسُو رُءُوسِهِمْ عِنْدَ رَبِّهِمْ رَبَّنَا أَبْصَرْنَا وَسَمِعْنَا فَارْجِعْنَا نَعْمَلْ صَالِحًا إِنَّا مُوقِنُونَ",
+        "en_sahih": "English translation of [32:12] in Sahih International style.",
+        "en_yusufali": "English translation of [32:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 32 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [32:12] en español.",
+        "fr_hamidullah": "Traduction de [32:12] en français.",
+        "bn_hoque": "সূরা 32 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "32:13",
+      "surahNumber": 32,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "وَلَوْ شِئْنَا لَآتَيْنَا كُلَّ نَفْسٍ هُدَاهَا وَلَٰكِنْ حَقَّ الْقَوْلُ مِنِّي لَأَمْلَأَنَّ جَهَنَّمَ مِنَ الْجِنَّةِ وَالنَّاسِ أَجْمَعِينَ",
+        "en_sahih": "English translation of [32:13] in Sahih International style.",
+        "en_yusufali": "English translation of [32:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 32 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [32:13] en español.",
+        "fr_hamidullah": "Traduction de [32:13] en français.",
+        "bn_hoque": "সূরা 32 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "32:14",
+      "surahNumber": 32,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "فَذُوقُوا بِمَا نَسِيتُمْ لِقَاءَ يَوْمِكُمْ هَٰذَا إِنَّا نَسِينَاكُمْ ۖ وَذُوقُوا عَذَابَ الْخُلْدِ بِمَا كُنْتُمْ تَعْمَلُونَ",
+        "en_sahih": "English translation of [32:14] in Sahih International style.",
+        "en_yusufali": "English translation of [32:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 32 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [32:14] en español.",
+        "fr_hamidullah": "Traduction de [32:14] en français.",
+        "bn_hoque": "সূরা 32 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "32:15",
+      "surahNumber": 32,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "إِنَّمَا يُؤْمِنُ بِآيَاتِنَا الَّذِينَ إِذَا ذُكِّرُوا بِهَا خَرُّوا سُجَّدًا وَسَبَّحُوا بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُونَ ۩",
+        "en_sahih": "English translation of [32:15] in Sahih International style.",
+        "en_yusufali": "English translation of [32:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 32 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [32:15] en español.",
+        "fr_hamidullah": "Traduction de [32:15] en français.",
+        "bn_hoque": "সূরা 32 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "32:16",
+      "surahNumber": 32,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "تَتَجَافَىٰ جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا وَطَمَعًا وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ",
+        "en_sahih": "English translation of [32:16] in Sahih International style.",
+        "en_yusufali": "English translation of [32:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 32 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [32:16] en español.",
+        "fr_hamidullah": "Traduction de [32:16] en français.",
+        "bn_hoque": "সূরা 32 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "32:17",
+      "surahNumber": 32,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "فَلَا تَعْلَمُ نَفْسٌ مَا أُخْفِيَ لَهُمْ مِنْ قُرَّةِ أَعْيُنٍ جَزَاءً بِمَا كَانُوا يَعْمَلُونَ",
+        "en_sahih": "English translation of [32:17] in Sahih International style.",
+        "en_yusufali": "English translation of [32:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 32 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [32:17] en español.",
+        "fr_hamidullah": "Traduction de [32:17] en français.",
+        "bn_hoque": "সূরা 32 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "32:18",
+      "surahNumber": 32,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "أَفَمَنْ كَانَ مُؤْمِنًا كَمَنْ كَانَ فَاسِقًا ۚ لَا يَسْتَوُونَ",
+        "en_sahih": "English translation of [32:18] in Sahih International style.",
+        "en_yusufali": "English translation of [32:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 32 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [32:18] en español.",
+        "fr_hamidullah": "Traduction de [32:18] en français.",
+        "bn_hoque": "সূরা 32 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "32:19",
+      "surahNumber": 32,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "أَمَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ جَنَّاتُ الْمَأْوَىٰ نُزُلًا بِمَا كَانُوا يَعْمَلُونَ",
+        "en_sahih": "English translation of [32:19] in Sahih International style.",
+        "en_yusufali": "English translation of [32:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 32 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [32:19] en español.",
+        "fr_hamidullah": "Traduction de [32:19] en français.",
+        "bn_hoque": "সূরা 32 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "32:20",
+      "surahNumber": 32,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "وَأَمَّا الَّذِينَ فَسَقُوا فَمَأْوَاهُمُ النَّارُ ۖ كُلَّمَا أَرَادُوا أَنْ يَخْرُجُوا مِنْهَا أُعِيدُوا فِيهَا وَقِيلَ لَهُمْ ذُوقُوا عَذَابَ النَّارِ الَّذِي كُنْتُمْ بِهِ تُكَذِّبُونَ",
+        "en_sahih": "English translation of [32:20] in Sahih International style.",
+        "en_yusufali": "English translation of [32:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 32 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [32:20] en español.",
+        "fr_hamidullah": "Traduction de [32:20] en français.",
+        "bn_hoque": "সূরা 32 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "32:21",
+      "surahNumber": 32,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "وَلَنُذِيقَنَّهُمْ مِنَ الْعَذَابِ الْأَدْنَىٰ دُونَ الْعَذَابِ الْأَكْبَرِ لَعَلَّهُمْ يَرْجِعُونَ",
+        "en_sahih": "English translation of [32:21] in Sahih International style.",
+        "en_yusufali": "English translation of [32:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 32 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [32:21] en español.",
+        "fr_hamidullah": "Traduction de [32:21] en français.",
+        "bn_hoque": "সূরা 32 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "32:22",
+      "surahNumber": 32,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "وَمَنْ أَظْلَمُ مِمَّنْ ذُكِّرَ بِآيَاتِ رَبِّهِ ثُمَّ أَعْرَضَ عَنْهَا ۚ إِنَّا مِنَ الْمُجْرِمِينَ مُنْتَقِمُونَ",
+        "en_sahih": "English translation of [32:22] in Sahih International style.",
+        "en_yusufali": "English translation of [32:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 32 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [32:22] en español.",
+        "fr_hamidullah": "Traduction de [32:22] en français.",
+        "bn_hoque": "সূরা 32 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "32:23",
+      "surahNumber": 32,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ فَلَا تَكُنْ فِي مِرْيَةٍ مِنْ لِقَائِهِ ۖ وَجَعَلْنَاهُ هُدًى لِبَنِي إِسْرَائِيلَ",
+        "en_sahih": "English translation of [32:23] in Sahih International style.",
+        "en_yusufali": "English translation of [32:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 32 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [32:23] en español.",
+        "fr_hamidullah": "Traduction de [32:23] en français.",
+        "bn_hoque": "সূরা 32 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "32:24",
+      "surahNumber": 32,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "وَجَعَلْنَا مِنْهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا لَمَّا صَبَرُوا ۖ وَكَانُوا بِآيَاتِنَا يُوقِنُونَ",
+        "en_sahih": "English translation of [32:24] in Sahih International style.",
+        "en_yusufali": "English translation of [32:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 32 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [32:24] en español.",
+        "fr_hamidullah": "Traduction de [32:24] en français.",
+        "bn_hoque": "সূরা 32 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "32:25",
+      "surahNumber": 32,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "إِنَّ رَبَّكَ هُوَ يَفْصِلُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ",
+        "en_sahih": "English translation of [32:25] in Sahih International style.",
+        "en_yusufali": "English translation of [32:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 32 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [32:25] en español.",
+        "fr_hamidullah": "Traduction de [32:25] en français.",
+        "bn_hoque": "সূরা 32 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "32:26",
+      "surahNumber": 32,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "أَوَلَمْ يَهْدِ لَهُمْ كَمْ أَهْلَكْنَا مِنْ قَبْلِهِمْ مِنَ الْقُرُونِ يَمْشُونَ فِي مَسَاكِنِهِمْ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ ۖ أَفَلَا يَسْمَعُونَ",
+        "en_sahih": "English translation of [32:26] in Sahih International style.",
+        "en_yusufali": "English translation of [32:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 32 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [32:26] en español.",
+        "fr_hamidullah": "Traduction de [32:26] en français.",
+        "bn_hoque": "সূরা 32 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "32:27",
+      "surahNumber": 32,
+      "ayahNumber": 27,
+      "text": {
+        "simple": "أَوَلَمْ يَرَوْا أَنَّا نَسُوقُ الْمَاءَ إِلَى الْأَرْضِ الْجُرُزِ فَنُخْرِجُ بِهِ زَرْعًا تَأْكُلُ مِنْهُ أَنْعَامُهُمْ وَأَنْفُسُهُمْ ۖ أَفَلَا يُبْصِرُونَ",
+        "en_sahih": "English translation of [32:27] in Sahih International style.",
+        "en_yusufali": "English translation of [32:27] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 32 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [32:27] en español.",
+        "fr_hamidullah": "Traduction de [32:27] en français.",
+        "bn_hoque": "সূরা 32 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "32:28",
+      "surahNumber": 32,
+      "ayahNumber": 28,
+      "text": {
+        "simple": "وَيَقُولُونَ مَتَىٰ هَٰذَا الْفَتْحُ إِنْ كُنْتُمْ صَادِقِينَ",
+        "en_sahih": "English translation of [32:28] in Sahih International style.",
+        "en_yusufali": "English translation of [32:28] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 32 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [32:28] en español.",
+        "fr_hamidullah": "Traduction de [32:28] en français.",
+        "bn_hoque": "সূরা 32 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "32:29",
+      "surahNumber": 32,
+      "ayahNumber": 29,
+      "text": {
+        "simple": "قُلْ يَوْمَ الْفَتْحِ لَا يَنْفَعُ الَّذِينَ كَفَرُوا إِيمَانُهُمْ وَلَا هُمْ يُنْظَرُونَ",
+        "en_sahih": "English translation of [32:29] in Sahih International style.",
+        "en_yusufali": "English translation of [32:29] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 32 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [32:29] en español.",
+        "fr_hamidullah": "Traduction de [32:29] en français.",
+        "bn_hoque": "সূরা 32 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "32:30",
+      "surahNumber": 32,
+      "ayahNumber": 30,
+      "text": {
+        "simple": "فَأَعْرِضْ عَنْهُمْ وَانْتَظِرْ إِنَّهُمْ مُنْتَظِرُونَ",
+        "en_sahih": "English translation of [32:30] in Sahih International style.",
+        "en_yusufali": "English translation of [32:30] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 32 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [32:30] en español.",
+        "fr_hamidullah": "Traduction de [32:30] en français.",
+        "bn_hoque": "সূরা 32 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

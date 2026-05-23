@@ -1,0 +1,1107 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.976Z",
+  "surahNumber": 22,
+  "ayahCount": 78,
+  "ayahs": [
+    {
+      "id": "22:1",
+      "surahNumber": 22,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمْ ۚ إِنَّ زَلْزَلَةَ السَّاعَةِ شَيْءٌ عَظِيمٌ",
+        "en_sahih": "English translation of [22:1] in Sahih International style.",
+        "en_yusufali": "English translation of [22:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:1] en español.",
+        "fr_hamidullah": "Traduction de [22:1] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:2",
+      "surahNumber": 22,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "يَوْمَ تَرَوْنَهَا تَذْهَلُ كُلُّ مُرْضِعَةٍ عَمَّا أَرْضَعَتْ وَتَضَعُ كُلُّ ذَاتِ حَمْلٍ حَمْلَهَا وَتَرَى النَّاسَ سُكَارَىٰ وَمَا هُمْ بِسُكَارَىٰ وَلَٰكِنَّ عَذَابَ اللَّهِ شَدِيدٌ",
+        "en_sahih": "English translation of [22:2] in Sahih International style.",
+        "en_yusufali": "English translation of [22:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:2] en español.",
+        "fr_hamidullah": "Traduction de [22:2] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:3",
+      "surahNumber": 22,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "وَمِنَ النَّاسِ مَنْ يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ وَيَتَّبِعُ كُلَّ شَيْطَانٍ مَرِيدٍ",
+        "en_sahih": "English translation of [22:3] in Sahih International style.",
+        "en_yusufali": "English translation of [22:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:3] en español.",
+        "fr_hamidullah": "Traduction de [22:3] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:4",
+      "surahNumber": 22,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "كُتِبَ عَلَيْهِ أَنَّهُ مَنْ تَوَلَّاهُ فَأَنَّهُ يُضِلُّهُ وَيَهْدِيهِ إِلَىٰ عَذَابِ السَّعِيرِ",
+        "en_sahih": "English translation of [22:4] in Sahih International style.",
+        "en_yusufali": "English translation of [22:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:4] en español.",
+        "fr_hamidullah": "Traduction de [22:4] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:5",
+      "surahNumber": 22,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "يَا أَيُّهَا النَّاسُ إِنْ كُنْتُمْ فِي رَيْبٍ مِنَ الْبَعْثِ فَإِنَّا خَلَقْنَاكُمْ مِنْ تُرَابٍ ثُمَّ مِنْ نُطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ مِنْ مُضْغَةٍ مُخَلَّقَةٍ وَغَيْرِ مُخَلَّقَةٍ لِنُبَيِّنَ لَكُمْ ۚ وَنُقِرُّ فِي الْأَرْحَامِ مَا نَشَاءُ إِلَىٰ أَجَلٍ مُسَمًّى ثُمَّ نُخْرِجُكُمْ طِفْلًا ثُمَّ لِتَبْلُغُوا أَشُدَّكُمْ ۖ وَمِنْكُمْ مَنْ يُتَوَفَّىٰ وَمِنْكُمْ مَنْ يُرَدُّ إِلَىٰ أَرْذَلِ الْعُمُرِ لِكَيْلَا يَعْلَمَ مِنْ بَعْدِ عِلْمٍ شَيْئًا ۚ وَتَرَى الْأَرْضَ هَامِدَةً فَإِذَا أَنْزَلْنَا عَلَيْهَا الْمَاءَ اهْتَزَّتْ وَرَبَتْ وَأَنْبَتَتْ مِنْ كُلِّ زَوْجٍ بَهِيجٍ",
+        "en_sahih": "English translation of [22:5] in Sahih International style.",
+        "en_yusufali": "English translation of [22:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:5] en español.",
+        "fr_hamidullah": "Traduction de [22:5] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:6",
+      "surahNumber": 22,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "ذَٰلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّهُ يُحْيِي الْمَوْتَىٰ وَأَنَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+        "en_sahih": "English translation of [22:6] in Sahih International style.",
+        "en_yusufali": "English translation of [22:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:6] en español.",
+        "fr_hamidullah": "Traduction de [22:6] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:7",
+      "surahNumber": 22,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "وَأَنَّ السَّاعَةَ آتِيَةٌ لَا رَيْبَ فِيهَا وَأَنَّ اللَّهَ يَبْعَثُ مَنْ فِي الْقُبُورِ",
+        "en_sahih": "English translation of [22:7] in Sahih International style.",
+        "en_yusufali": "English translation of [22:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:7] en español.",
+        "fr_hamidullah": "Traduction de [22:7] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:8",
+      "surahNumber": 22,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "وَمِنَ النَّاسِ مَنْ يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ وَلَا هُدًى وَلَا كِتَابٍ مُنِيرٍ",
+        "en_sahih": "English translation of [22:8] in Sahih International style.",
+        "en_yusufali": "English translation of [22:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:8] en español.",
+        "fr_hamidullah": "Traduction de [22:8] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:9",
+      "surahNumber": 22,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "ثَانِيَ عِطْفِهِ لِيُضِلَّ عَنْ سَبِيلِ اللَّهِ ۖ لَهُ فِي الدُّنْيَا خِزْيٌ ۖ وَنُذِيقُهُ يَوْمَ الْقِيَامَةِ عَذَابَ الْحَرِيقِ",
+        "en_sahih": "English translation of [22:9] in Sahih International style.",
+        "en_yusufali": "English translation of [22:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:9] en español.",
+        "fr_hamidullah": "Traduction de [22:9] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:10",
+      "surahNumber": 22,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "ذَٰلِكَ بِمَا قَدَّمَتْ يَدَاكَ وَأَنَّ اللَّهَ لَيْسَ بِظَلَّامٍ لِلْعَبِيدِ",
+        "en_sahih": "English translation of [22:10] in Sahih International style.",
+        "en_yusufali": "English translation of [22:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:10] en español.",
+        "fr_hamidullah": "Traduction de [22:10] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:11",
+      "surahNumber": 22,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "وَمِنَ النَّاسِ مَنْ يَعْبُدُ اللَّهَ عَلَىٰ حَرْفٍ ۖ فَإِنْ أَصَابَهُ خَيْرٌ اطْمَأَنَّ بِهِ ۖ وَإِنْ أَصَابَتْهُ فِتْنَةٌ انْقَلَبَ عَلَىٰ وَجْهِهِ خَسِرَ الدُّنْيَا وَالْآخِرَةَ ۚ ذَٰلِكَ هُوَ الْخُسْرَانُ الْمُبِينُ",
+        "en_sahih": "English translation of [22:11] in Sahih International style.",
+        "en_yusufali": "English translation of [22:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:11] en español.",
+        "fr_hamidullah": "Traduction de [22:11] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:12",
+      "surahNumber": 22,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "يَدْعُو مِنْ دُونِ اللَّهِ مَا لَا يَضُرُّهُ وَمَا لَا يَنْفَعُهُ ۚ ذَٰلِكَ هُوَ الضَّلَالُ الْبَعِيدُ",
+        "en_sahih": "English translation of [22:12] in Sahih International style.",
+        "en_yusufali": "English translation of [22:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:12] en español.",
+        "fr_hamidullah": "Traduction de [22:12] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:13",
+      "surahNumber": 22,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "يَدْعُو لَمَنْ ضَرُّهُ أَقْرَبُ مِنْ نَفْعِهِ ۚ لَبِئْسَ الْمَوْلَىٰ وَلَبِئْسَ الْعَشِيرُ",
+        "en_sahih": "English translation of [22:13] in Sahih International style.",
+        "en_yusufali": "English translation of [22:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:13] en español.",
+        "fr_hamidullah": "Traduction de [22:13] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:14",
+      "surahNumber": 22,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ ۚ إِنَّ اللَّهَ يَفْعَلُ مَا يُرِيدُ",
+        "en_sahih": "English translation of [22:14] in Sahih International style.",
+        "en_yusufali": "English translation of [22:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:14] en español.",
+        "fr_hamidullah": "Traduction de [22:14] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:15",
+      "surahNumber": 22,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "مَنْ كَانَ يَظُنُّ أَنْ لَنْ يَنْصُرَهُ اللَّهُ فِي الدُّنْيَا وَالْآخِرَةِ فَلْيَمْدُدْ بِسَبَبٍ إِلَى السَّمَاءِ ثُمَّ لْيَقْطَعْ فَلْيَنْظُرْ هَلْ يُذْهِبَنَّ كَيْدُهُ مَا يَغِيظُ",
+        "en_sahih": "English translation of [22:15] in Sahih International style.",
+        "en_yusufali": "English translation of [22:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:15] en español.",
+        "fr_hamidullah": "Traduction de [22:15] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:16",
+      "surahNumber": 22,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "وَكَذَٰلِكَ أَنْزَلْنَاهُ آيَاتٍ بَيِّنَاتٍ وَأَنَّ اللَّهَ يَهْدِي مَنْ يُرِيدُ",
+        "en_sahih": "English translation of [22:16] in Sahih International style.",
+        "en_yusufali": "English translation of [22:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:16] en español.",
+        "fr_hamidullah": "Traduction de [22:16] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:17",
+      "surahNumber": 22,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "إِنَّ الَّذِينَ آمَنُوا وَالَّذِينَ هَادُوا وَالصَّابِئِينَ وَالنَّصَارَىٰ وَالْمَجُوسَ وَالَّذِينَ أَشْرَكُوا إِنَّ اللَّهَ يَفْصِلُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ ۚ إِنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ",
+        "en_sahih": "English translation of [22:17] in Sahih International style.",
+        "en_yusufali": "English translation of [22:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:17] en español.",
+        "fr_hamidullah": "Traduction de [22:17] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:18",
+      "surahNumber": 22,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "أَلَمْ تَرَ أَنَّ اللَّهَ يَسْجُدُ لَهُ مَنْ فِي السَّمَاوَاتِ وَمَنْ فِي الْأَرْضِ وَالشَّمْسُ وَالْقَمَرُ وَالنُّجُومُ وَالْجِبَالُ وَالشَّجَرُ وَالدَّوَابُّ وَكَثِيرٌ مِنَ النَّاسِ ۖ وَكَثِيرٌ حَقَّ عَلَيْهِ الْعَذَابُ ۗ وَمَنْ يُهِنِ اللَّهُ فَمَا لَهُ مِنْ مُكْرِمٍ ۚ إِنَّ اللَّهَ يَفْعَلُ مَا يَشَاءُ ۩",
+        "en_sahih": "English translation of [22:18] in Sahih International style.",
+        "en_yusufali": "English translation of [22:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:18] en español.",
+        "fr_hamidullah": "Traduction de [22:18] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:19",
+      "surahNumber": 22,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "۞ هَٰذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ ۖ فَالَّذِينَ كَفَرُوا قُطِّعَتْ لَهُمْ ثِيَابٌ مِنْ نَارٍ يُصَبُّ مِنْ فَوْقِ رُءُوسِهِمُ الْحَمِيمُ",
+        "en_sahih": "English translation of [22:19] in Sahih International style.",
+        "en_yusufali": "English translation of [22:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:19] en español.",
+        "fr_hamidullah": "Traduction de [22:19] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:20",
+      "surahNumber": 22,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "يُصْهَرُ بِهِ مَا فِي بُطُونِهِمْ وَالْجُلُودُ",
+        "en_sahih": "English translation of [22:20] in Sahih International style.",
+        "en_yusufali": "English translation of [22:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:20] en español.",
+        "fr_hamidullah": "Traduction de [22:20] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:21",
+      "surahNumber": 22,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "وَلَهُمْ مَقَامِعُ مِنْ حَدِيدٍ",
+        "en_sahih": "English translation of [22:21] in Sahih International style.",
+        "en_yusufali": "English translation of [22:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:21] en español.",
+        "fr_hamidullah": "Traduction de [22:21] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:22",
+      "surahNumber": 22,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "كُلَّمَا أَرَادُوا أَنْ يَخْرُجُوا مِنْهَا مِنْ غَمٍّ أُعِيدُوا فِيهَا وَذُوقُوا عَذَابَ الْحَرِيقِ",
+        "en_sahih": "English translation of [22:22] in Sahih International style.",
+        "en_yusufali": "English translation of [22:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:22] en español.",
+        "fr_hamidullah": "Traduction de [22:22] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:23",
+      "surahNumber": 22,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِنْ ذَهَبٍ وَلُؤْلُؤًا ۖ وَلِبَاسُهُمْ فِيهَا حَرِيرٌ",
+        "en_sahih": "English translation of [22:23] in Sahih International style.",
+        "en_yusufali": "English translation of [22:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:23] en español.",
+        "fr_hamidullah": "Traduction de [22:23] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:24",
+      "surahNumber": 22,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "وَهُدُوا إِلَى الطَّيِّبِ مِنَ الْقَوْلِ وَهُدُوا إِلَىٰ صِرَاطِ الْحَمِيدِ",
+        "en_sahih": "English translation of [22:24] in Sahih International style.",
+        "en_yusufali": "English translation of [22:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:24] en español.",
+        "fr_hamidullah": "Traduction de [22:24] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:25",
+      "surahNumber": 22,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "إِنَّ الَّذِينَ كَفَرُوا وَيَصُدُّونَ عَنْ سَبِيلِ اللَّهِ وَالْمَسْجِدِ الْحَرَامِ الَّذِي جَعَلْنَاهُ لِلنَّاسِ سَوَاءً الْعَاكِفُ فِيهِ وَالْبَادِ ۚ وَمَنْ يُرِدْ فِيهِ بِإِلْحَادٍ بِظُلْمٍ نُذِقْهُ مِنْ عَذَابٍ أَلِيمٍ",
+        "en_sahih": "English translation of [22:25] in Sahih International style.",
+        "en_yusufali": "English translation of [22:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:25] en español.",
+        "fr_hamidullah": "Traduction de [22:25] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:26",
+      "surahNumber": 22,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "وَإِذْ بَوَّأْنَا لِإِبْرَاهِيمَ مَكَانَ الْبَيْتِ أَنْ لَا تُشْرِكْ بِي شَيْئًا وَطَهِّرْ بَيْتِيَ لِلطَّائِفِينَ وَالْقَائِمِينَ وَالرُّكَّعِ السُّجُودِ",
+        "en_sahih": "English translation of [22:26] in Sahih International style.",
+        "en_yusufali": "English translation of [22:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:26] en español.",
+        "fr_hamidullah": "Traduction de [22:26] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:27",
+      "surahNumber": 22,
+      "ayahNumber": 27,
+      "text": {
+        "simple": "وَأَذِّنْ فِي النَّاسِ بِالْحَجِّ يَأْتُوكَ رِجَالًا وَعَلَىٰ كُلِّ ضَامِرٍ يَأْتِينَ مِنْ كُلِّ فَجٍّ عَمِيقٍ",
+        "en_sahih": "English translation of [22:27] in Sahih International style.",
+        "en_yusufali": "English translation of [22:27] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:27] en español.",
+        "fr_hamidullah": "Traduction de [22:27] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:28",
+      "surahNumber": 22,
+      "ayahNumber": 28,
+      "text": {
+        "simple": "لِيَشْهَدُوا مَنَافِعَ لَهُمْ وَيَذْكُرُوا اسْمَ اللَّهِ فِي أَيَّامٍ مَعْلُومَاتٍ عَلَىٰ مَا رَزَقَهُمْ مِنْ بَهِيمَةِ الْأَنْعَامِ ۖ فَكُلُوا مِنْهَا وَأَطْعِمُوا الْبَائِسَ الْفَقِيرَ",
+        "en_sahih": "English translation of [22:28] in Sahih International style.",
+        "en_yusufali": "English translation of [22:28] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:28] en español.",
+        "fr_hamidullah": "Traduction de [22:28] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:29",
+      "surahNumber": 22,
+      "ayahNumber": 29,
+      "text": {
+        "simple": "ثُمَّ لْيَقْضُوا تَفَثَهُمْ وَلْيُوفُوا نُذُورَهُمْ وَلْيَطَّوَّفُوا بِالْبَيْتِ الْعَتِيقِ",
+        "en_sahih": "English translation of [22:29] in Sahih International style.",
+        "en_yusufali": "English translation of [22:29] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:29] en español.",
+        "fr_hamidullah": "Traduction de [22:29] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:30",
+      "surahNumber": 22,
+      "ayahNumber": 30,
+      "text": {
+        "simple": "ذَٰلِكَ وَمَنْ يُعَظِّمْ حُرُمَاتِ اللَّهِ فَهُوَ خَيْرٌ لَهُ عِنْدَ رَبِّهِ ۗ وَأُحِلَّتْ لَكُمُ الْأَنْعَامُ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ ۖ فَاجْتَنِبُوا الرِّجْسَ مِنَ الْأَوْثَانِ وَاجْتَنِبُوا قَوْلَ الزُّورِ",
+        "en_sahih": "English translation of [22:30] in Sahih International style.",
+        "en_yusufali": "English translation of [22:30] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:30] en español.",
+        "fr_hamidullah": "Traduction de [22:30] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:31",
+      "surahNumber": 22,
+      "ayahNumber": 31,
+      "text": {
+        "simple": "حُنَفَاءَ لِلَّهِ غَيْرَ مُشْرِكِينَ بِهِ ۚ وَمَنْ يُشْرِكْ بِاللَّهِ فَكَأَنَّمَا خَرَّ مِنَ السَّمَاءِ فَتَخْطَفُهُ الطَّيْرُ أَوْ تَهْوِي بِهِ الرِّيحُ فِي مَكَانٍ سَحِيقٍ",
+        "en_sahih": "English translation of [22:31] in Sahih International style.",
+        "en_yusufali": "English translation of [22:31] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:31] en español.",
+        "fr_hamidullah": "Traduction de [22:31] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:32",
+      "surahNumber": 22,
+      "ayahNumber": 32,
+      "text": {
+        "simple": "ذَٰلِكَ وَمَنْ يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِنْ تَقْوَى الْقُلُوبِ",
+        "en_sahih": "English translation of [22:32] in Sahih International style.",
+        "en_yusufali": "English translation of [22:32] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:32] en español.",
+        "fr_hamidullah": "Traduction de [22:32] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:33",
+      "surahNumber": 22,
+      "ayahNumber": 33,
+      "text": {
+        "simple": "لَكُمْ فِيهَا مَنَافِعُ إِلَىٰ أَجَلٍ مُسَمًّى ثُمَّ مَحِلُّهَا إِلَى الْبَيْتِ الْعَتِيقِ",
+        "en_sahih": "English translation of [22:33] in Sahih International style.",
+        "en_yusufali": "English translation of [22:33] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:33] en español.",
+        "fr_hamidullah": "Traduction de [22:33] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:34",
+      "surahNumber": 22,
+      "ayahNumber": 34,
+      "text": {
+        "simple": "وَلِكُلِّ أُمَّةٍ جَعَلْنَا مَنْسَكًا لِيَذْكُرُوا اسْمَ اللَّهِ عَلَىٰ مَا رَزَقَهُمْ مِنْ بَهِيمَةِ الْأَنْعَامِ ۗ فَإِلَٰهُكُمْ إِلَٰهٌ وَاحِدٌ فَلَهُ أَسْلِمُوا ۗ وَبَشِّرِ الْمُخْبِتِينَ",
+        "en_sahih": "English translation of [22:34] in Sahih International style.",
+        "en_yusufali": "English translation of [22:34] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:34] en español.",
+        "fr_hamidullah": "Traduction de [22:34] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:35",
+      "surahNumber": 22,
+      "ayahNumber": 35,
+      "text": {
+        "simple": "الَّذِينَ إِذَا ذُكِرَ اللَّهُ وَجِلَتْ قُلُوبُهُمْ وَالصَّابِرِينَ عَلَىٰ مَا أَصَابَهُمْ وَالْمُقِيمِي الصَّلَاةِ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ",
+        "en_sahih": "English translation of [22:35] in Sahih International style.",
+        "en_yusufali": "English translation of [22:35] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:35] en español.",
+        "fr_hamidullah": "Traduction de [22:35] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:36",
+      "surahNumber": 22,
+      "ayahNumber": 36,
+      "text": {
+        "simple": "وَالْبُدْنَ جَعَلْنَاهَا لَكُمْ مِنْ شَعَائِرِ اللَّهِ لَكُمْ فِيهَا خَيْرٌ ۖ فَاذْكُرُوا اسْمَ اللَّهِ عَلَيْهَا صَوَافَّ ۖ فَإِذَا وَجَبَتْ جُنُوبُهَا فَكُلُوا مِنْهَا وَأَطْعِمُوا الْقَانِعَ وَالْمُعْتَرَّ ۚ كَذَٰلِكَ سَخَّرْنَاهَا لَكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
+        "en_sahih": "English translation of [22:36] in Sahih International style.",
+        "en_yusufali": "English translation of [22:36] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:36] en español.",
+        "fr_hamidullah": "Traduction de [22:36] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:37",
+      "surahNumber": 22,
+      "ayahNumber": 37,
+      "text": {
+        "simple": "لَنْ يَنَالَ اللَّهَ لُحُومُهَا وَلَا دِمَاؤُهَا وَلَٰكِنْ يَنَالُهُ التَّقْوَىٰ مِنْكُمْ ۚ كَذَٰلِكَ سَخَّرَهَا لَكُمْ لِتُكَبِّرُوا اللَّهَ عَلَىٰ مَا هَدَاكُمْ ۗ وَبَشِّرِ الْمُحْسِنِينَ",
+        "en_sahih": "English translation of [22:37] in Sahih International style.",
+        "en_yusufali": "English translation of [22:37] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:37] en español.",
+        "fr_hamidullah": "Traduction de [22:37] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:38",
+      "surahNumber": 22,
+      "ayahNumber": 38,
+      "text": {
+        "simple": "۞ إِنَّ اللَّهَ يُدَافِعُ عَنِ الَّذِينَ آمَنُوا ۗ إِنَّ اللَّهَ لَا يُحِبُّ كُلَّ خَوَّانٍ كَفُورٍ",
+        "en_sahih": "English translation of [22:38] in Sahih International style.",
+        "en_yusufali": "English translation of [22:38] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 38 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:38] en español.",
+        "fr_hamidullah": "Traduction de [22:38] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:39",
+      "surahNumber": 22,
+      "ayahNumber": 39,
+      "text": {
+        "simple": "أُذِنَ لِلَّذِينَ يُقَاتَلُونَ بِأَنَّهُمْ ظُلِمُوا ۚ وَإِنَّ اللَّهَ عَلَىٰ نَصْرِهِمْ لَقَدِيرٌ",
+        "en_sahih": "English translation of [22:39] in Sahih International style.",
+        "en_yusufali": "English translation of [22:39] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 39 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:39] en español.",
+        "fr_hamidullah": "Traduction de [22:39] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:40",
+      "surahNumber": 22,
+      "ayahNumber": 40,
+      "text": {
+        "simple": "الَّذِينَ أُخْرِجُوا مِنْ دِيَارِهِمْ بِغَيْرِ حَقٍّ إِلَّا أَنْ يَقُولُوا رَبُّنَا اللَّهُ ۗ وَلَوْلَا دَفْعُ اللَّهِ النَّاسَ بَعْضَهُمْ بِبَعْضٍ لَهُدِّمَتْ صَوَامِعُ وَبِيَعٌ وَصَلَوَاتٌ وَمَسَاجِدُ يُذْكَرُ فِيهَا اسْمُ اللَّهِ كَثِيرًا ۗ وَلَيَنْصُرَنَّ اللَّهُ مَنْ يَنْصُرُهُ ۗ إِنَّ اللَّهَ لَقَوِيٌّ عَزِيزٌ",
+        "en_sahih": "English translation of [22:40] in Sahih International style.",
+        "en_yusufali": "English translation of [22:40] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 40 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:40] en español.",
+        "fr_hamidullah": "Traduction de [22:40] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:41",
+      "surahNumber": 22,
+      "ayahNumber": 41,
+      "text": {
+        "simple": "الَّذِينَ إِنْ مَكَّنَّاهُمْ فِي الْأَرْضِ أَقَامُوا الصَّلَاةَ وَآتَوُا الزَّكَاةَ وَأَمَرُوا بِالْمَعْرُوفِ وَنَهَوْا عَنِ الْمُنْكَرِ ۗ وَلِلَّهِ عَاقِبَةُ الْأُمُورِ",
+        "en_sahih": "English translation of [22:41] in Sahih International style.",
+        "en_yusufali": "English translation of [22:41] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 41 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:41] en español.",
+        "fr_hamidullah": "Traduction de [22:41] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:42",
+      "surahNumber": 22,
+      "ayahNumber": 42,
+      "text": {
+        "simple": "وَإِنْ يُكَذِّبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَعَادٌ وَثَمُودُ",
+        "en_sahih": "English translation of [22:42] in Sahih International style.",
+        "en_yusufali": "English translation of [22:42] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 42 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:42] en español.",
+        "fr_hamidullah": "Traduction de [22:42] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:43",
+      "surahNumber": 22,
+      "ayahNumber": 43,
+      "text": {
+        "simple": "وَقَوْمُ إِبْرَاهِيمَ وَقَوْمُ لُوطٍ",
+        "en_sahih": "English translation of [22:43] in Sahih International style.",
+        "en_yusufali": "English translation of [22:43] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 43 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:43] en español.",
+        "fr_hamidullah": "Traduction de [22:43] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:44",
+      "surahNumber": 22,
+      "ayahNumber": 44,
+      "text": {
+        "simple": "وَأَصْحَابُ مَدْيَنَ ۖ وَكُذِّبَ مُوسَىٰ فَأَمْلَيْتُ لِلْكَافِرِينَ ثُمَّ أَخَذْتُهُمْ ۖ فَكَيْفَ كَانَ نَكِيرِ",
+        "en_sahih": "English translation of [22:44] in Sahih International style.",
+        "en_yusufali": "English translation of [22:44] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 44 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:44] en español.",
+        "fr_hamidullah": "Traduction de [22:44] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:45",
+      "surahNumber": 22,
+      "ayahNumber": 45,
+      "text": {
+        "simple": "فَكَأَيِّنْ مِنْ قَرْيَةٍ أَهْلَكْنَاهَا وَهِيَ ظَالِمَةٌ فَهِيَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَبِئْرٍ مُعَطَّلَةٍ وَقَصْرٍ مَشِيدٍ",
+        "en_sahih": "English translation of [22:45] in Sahih International style.",
+        "en_yusufali": "English translation of [22:45] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 45 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:45] en español.",
+        "fr_hamidullah": "Traduction de [22:45] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:46",
+      "surahNumber": 22,
+      "ayahNumber": 46,
+      "text": {
+        "simple": "أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَتَكُونَ لَهُمْ قُلُوبٌ يَعْقِلُونَ بِهَا أَوْ آذَانٌ يَسْمَعُونَ بِهَا ۖ فَإِنَّهَا لَا تَعْمَى الْأَبْصَارُ وَلَٰكِنْ تَعْمَى الْقُلُوبُ الَّتِي فِي الصُّدُورِ",
+        "en_sahih": "English translation of [22:46] in Sahih International style.",
+        "en_yusufali": "English translation of [22:46] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 46 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:46] en español.",
+        "fr_hamidullah": "Traduction de [22:46] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:47",
+      "surahNumber": 22,
+      "ayahNumber": 47,
+      "text": {
+        "simple": "وَيَسْتَعْجِلُونَكَ بِالْعَذَابِ وَلَنْ يُخْلِفَ اللَّهُ وَعْدَهُ ۚ وَإِنَّ يَوْمًا عِنْدَ رَبِّكَ كَأَلْفِ سَنَةٍ مِمَّا تَعُدُّونَ",
+        "en_sahih": "English translation of [22:47] in Sahih International style.",
+        "en_yusufali": "English translation of [22:47] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 47 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:47] en español.",
+        "fr_hamidullah": "Traduction de [22:47] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:48",
+      "surahNumber": 22,
+      "ayahNumber": 48,
+      "text": {
+        "simple": "وَكَأَيِّنْ مِنْ قَرْيَةٍ أَمْلَيْتُ لَهَا وَهِيَ ظَالِمَةٌ ثُمَّ أَخَذْتُهَا وَإِلَيَّ الْمَصِيرُ",
+        "en_sahih": "English translation of [22:48] in Sahih International style.",
+        "en_yusufali": "English translation of [22:48] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 48 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:48] en español.",
+        "fr_hamidullah": "Traduction de [22:48] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:49",
+      "surahNumber": 22,
+      "ayahNumber": 49,
+      "text": {
+        "simple": "قُلْ يَا أَيُّهَا النَّاسُ إِنَّمَا أَنَا لَكُمْ نَذِيرٌ مُبِينٌ",
+        "en_sahih": "English translation of [22:49] in Sahih International style.",
+        "en_yusufali": "English translation of [22:49] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 49 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:49] en español.",
+        "fr_hamidullah": "Traduction de [22:49] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:50",
+      "surahNumber": 22,
+      "ayahNumber": 50,
+      "text": {
+        "simple": "فَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ مَغْفِرَةٌ وَرِزْقٌ كَرِيمٌ",
+        "en_sahih": "English translation of [22:50] in Sahih International style.",
+        "en_yusufali": "English translation of [22:50] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 50 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:50] en español.",
+        "fr_hamidullah": "Traduction de [22:50] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:51",
+      "surahNumber": 22,
+      "ayahNumber": 51,
+      "text": {
+        "simple": "وَالَّذِينَ سَعَوْا فِي آيَاتِنَا مُعَاجِزِينَ أُولَٰئِكَ أَصْحَابُ الْجَحِيمِ",
+        "en_sahih": "English translation of [22:51] in Sahih International style.",
+        "en_yusufali": "English translation of [22:51] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 51 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:51] en español.",
+        "fr_hamidullah": "Traduction de [22:51] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:52",
+      "surahNumber": 22,
+      "ayahNumber": 52,
+      "text": {
+        "simple": "وَمَا أَرْسَلْنَا مِنْ قَبْلِكَ مِنْ رَسُولٍ وَلَا نَبِيٍّ إِلَّا إِذَا تَمَنَّىٰ أَلْقَى الشَّيْطَانُ فِي أُمْنِيَّتِهِ فَيَنْسَخُ اللَّهُ مَا يُلْقِي الشَّيْطَانُ ثُمَّ يُحْكِمُ اللَّهُ آيَاتِهِ ۗ وَاللَّهُ عَلِيمٌ حَكِيمٌ",
+        "en_sahih": "English translation of [22:52] in Sahih International style.",
+        "en_yusufali": "English translation of [22:52] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 52 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:52] en español.",
+        "fr_hamidullah": "Traduction de [22:52] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:53",
+      "surahNumber": 22,
+      "ayahNumber": 53,
+      "text": {
+        "simple": "لِيَجْعَلَ مَا يُلْقِي الشَّيْطَانُ فِتْنَةً لِلَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ وَالْقَاسِيَةِ قُلُوبُهُمْ ۗ وَإِنَّ الظَّالِمِينَ لَفِي شِقَاقٍ بَعِيدٍ",
+        "en_sahih": "English translation of [22:53] in Sahih International style.",
+        "en_yusufali": "English translation of [22:53] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 53 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:53] en español.",
+        "fr_hamidullah": "Traduction de [22:53] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 53 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:54",
+      "surahNumber": 22,
+      "ayahNumber": 54,
+      "text": {
+        "simple": "وَلِيَعْلَمَ الَّذِينَ أُوتُوا الْعِلْمَ أَنَّهُ الْحَقُّ مِنْ رَبِّكَ فَيُؤْمِنُوا بِهِ فَتُخْبِتَ لَهُ قُلُوبُهُمْ ۗ وَإِنَّ اللَّهَ لَهَادِ الَّذِينَ آمَنُوا إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+        "en_sahih": "English translation of [22:54] in Sahih International style.",
+        "en_yusufali": "English translation of [22:54] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 54 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:54] en español.",
+        "fr_hamidullah": "Traduction de [22:54] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 54 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:55",
+      "surahNumber": 22,
+      "ayahNumber": 55,
+      "text": {
+        "simple": "وَلَا يَزَالُ الَّذِينَ كَفَرُوا فِي مِرْيَةٍ مِنْهُ حَتَّىٰ تَأْتِيَهُمُ السَّاعَةُ بَغْتَةً أَوْ يَأْتِيَهُمْ عَذَابُ يَوْمٍ عَقِيمٍ",
+        "en_sahih": "English translation of [22:55] in Sahih International style.",
+        "en_yusufali": "English translation of [22:55] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 55 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:55] en español.",
+        "fr_hamidullah": "Traduction de [22:55] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 55 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:56",
+      "surahNumber": 22,
+      "ayahNumber": 56,
+      "text": {
+        "simple": "الْمُلْكُ يَوْمَئِذٍ لِلَّهِ يَحْكُمُ بَيْنَهُمْ ۚ فَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فِي جَنَّاتِ النَّعِيمِ",
+        "en_sahih": "English translation of [22:56] in Sahih International style.",
+        "en_yusufali": "English translation of [22:56] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 56 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:56] en español.",
+        "fr_hamidullah": "Traduction de [22:56] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 56 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:57",
+      "surahNumber": 22,
+      "ayahNumber": 57,
+      "text": {
+        "simple": "وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا فَأُولَٰئِكَ لَهُمْ عَذَابٌ مُهِينٌ",
+        "en_sahih": "English translation of [22:57] in Sahih International style.",
+        "en_yusufali": "English translation of [22:57] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 57 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:57] en español.",
+        "fr_hamidullah": "Traduction de [22:57] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 57 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:58",
+      "surahNumber": 22,
+      "ayahNumber": 58,
+      "text": {
+        "simple": "وَالَّذِينَ هَاجَرُوا فِي سَبِيلِ اللَّهِ ثُمَّ قُتِلُوا أَوْ مَاتُوا لَيَرْزُقَنَّهُمُ اللَّهُ رِزْقًا حَسَنًا ۚ وَإِنَّ اللَّهَ لَهُوَ خَيْرُ الرَّازِقِينَ",
+        "en_sahih": "English translation of [22:58] in Sahih International style.",
+        "en_yusufali": "English translation of [22:58] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 58 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:58] en español.",
+        "fr_hamidullah": "Traduction de [22:58] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 58 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:59",
+      "surahNumber": 22,
+      "ayahNumber": 59,
+      "text": {
+        "simple": "لَيُدْخِلَنَّهُمْ مُدْخَلًا يَرْضَوْنَهُ ۗ وَإِنَّ اللَّهَ لَعَلِيمٌ حَلِيمٌ",
+        "en_sahih": "English translation of [22:59] in Sahih International style.",
+        "en_yusufali": "English translation of [22:59] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 59 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:59] en español.",
+        "fr_hamidullah": "Traduction de [22:59] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 59 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:60",
+      "surahNumber": 22,
+      "ayahNumber": 60,
+      "text": {
+        "simple": "۞ ذَٰلِكَ وَمَنْ عَاقَبَ بِمِثْلِ مَا عُوقِبَ بِهِ ثُمَّ بُغِيَ عَلَيْهِ لَيَنْصُرَنَّهُ اللَّهُ ۗ إِنَّ اللَّهَ لَعَفُوٌّ غَفُورٌ",
+        "en_sahih": "English translation of [22:60] in Sahih International style.",
+        "en_yusufali": "English translation of [22:60] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 60 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:60] en español.",
+        "fr_hamidullah": "Traduction de [22:60] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 60 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:61",
+      "surahNumber": 22,
+      "ayahNumber": 61,
+      "text": {
+        "simple": "ذَٰلِكَ بِأَنَّ اللَّهَ يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ وَأَنَّ اللَّهَ سَمِيعٌ بَصِيرٌ",
+        "en_sahih": "English translation of [22:61] in Sahih International style.",
+        "en_yusufali": "English translation of [22:61] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 61 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:61] en español.",
+        "fr_hamidullah": "Traduction de [22:61] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 61 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:62",
+      "surahNumber": 22,
+      "ayahNumber": 62,
+      "text": {
+        "simple": "ذَٰلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّ مَا يَدْعُونَ مِنْ دُونِهِ هُوَ الْبَاطِلُ وَأَنَّ اللَّهَ هُوَ الْعَلِيُّ الْكَبِيرُ",
+        "en_sahih": "English translation of [22:62] in Sahih International style.",
+        "en_yusufali": "English translation of [22:62] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 62 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:62] en español.",
+        "fr_hamidullah": "Traduction de [22:62] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 62 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:63",
+      "surahNumber": 22,
+      "ayahNumber": 63,
+      "text": {
+        "simple": "أَلَمْ تَرَ أَنَّ اللَّهَ أَنْزَلَ مِنَ السَّمَاءِ مَاءً فَتُصْبِحُ الْأَرْضُ مُخْضَرَّةً ۗ إِنَّ اللَّهَ لَطِيفٌ خَبِيرٌ",
+        "en_sahih": "English translation of [22:63] in Sahih International style.",
+        "en_yusufali": "English translation of [22:63] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 63 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:63] en español.",
+        "fr_hamidullah": "Traduction de [22:63] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 63 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:64",
+      "surahNumber": 22,
+      "ayahNumber": 64,
+      "text": {
+        "simple": "لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ وَإِنَّ اللَّهَ لَهُوَ الْغَنِيُّ الْحَمِيدُ",
+        "en_sahih": "English translation of [22:64] in Sahih International style.",
+        "en_yusufali": "English translation of [22:64] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 64 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:64] en español.",
+        "fr_hamidullah": "Traduction de [22:64] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 64 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:65",
+      "surahNumber": 22,
+      "ayahNumber": 65,
+      "text": {
+        "simple": "أَلَمْ تَرَ أَنَّ اللَّهَ سَخَّرَ لَكُمْ مَا فِي الْأَرْضِ وَالْفُلْكَ تَجْرِي فِي الْبَحْرِ بِأَمْرِهِ وَيُمْسِكُ السَّمَاءَ أَنْ تَقَعَ عَلَى الْأَرْضِ إِلَّا بِإِذْنِهِ ۗ إِنَّ اللَّهَ بِالنَّاسِ لَرَءُوفٌ رَحِيمٌ",
+        "en_sahih": "English translation of [22:65] in Sahih International style.",
+        "en_yusufali": "English translation of [22:65] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 65 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:65] en español.",
+        "fr_hamidullah": "Traduction de [22:65] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 65 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:66",
+      "surahNumber": 22,
+      "ayahNumber": 66,
+      "text": {
+        "simple": "وَهُوَ الَّذِي أَحْيَاكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ ۗ إِنَّ الْإِنْسَانَ لَكَفُورٌ",
+        "en_sahih": "English translation of [22:66] in Sahih International style.",
+        "en_yusufali": "English translation of [22:66] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 66 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:66] en español.",
+        "fr_hamidullah": "Traduction de [22:66] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 66 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:67",
+      "surahNumber": 22,
+      "ayahNumber": 67,
+      "text": {
+        "simple": "لِكُلِّ أُمَّةٍ جَعَلْنَا مَنْسَكًا هُمْ نَاسِكُوهُ ۖ فَلَا يُنَازِعُنَّكَ فِي الْأَمْرِ ۚ وَادْعُ إِلَىٰ رَبِّكَ ۖ إِنَّكَ لَعَلَىٰ هُدًى مُسْتَقِيمٍ",
+        "en_sahih": "English translation of [22:67] in Sahih International style.",
+        "en_yusufali": "English translation of [22:67] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 67 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:67] en español.",
+        "fr_hamidullah": "Traduction de [22:67] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 67 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:68",
+      "surahNumber": 22,
+      "ayahNumber": 68,
+      "text": {
+        "simple": "وَإِنْ جَادَلُوكَ فَقُلِ اللَّهُ أَعْلَمُ بِمَا تَعْمَلُونَ",
+        "en_sahih": "English translation of [22:68] in Sahih International style.",
+        "en_yusufali": "English translation of [22:68] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 68 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:68] en español.",
+        "fr_hamidullah": "Traduction de [22:68] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 68 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:69",
+      "surahNumber": 22,
+      "ayahNumber": 69,
+      "text": {
+        "simple": "اللَّهُ يَحْكُمُ بَيْنَكُمْ يَوْمَ الْقِيَامَةِ فِيمَا كُنْتُمْ فِيهِ تَخْتَلِفُونَ",
+        "en_sahih": "English translation of [22:69] in Sahih International style.",
+        "en_yusufali": "English translation of [22:69] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 69 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:69] en español.",
+        "fr_hamidullah": "Traduction de [22:69] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 69 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:70",
+      "surahNumber": 22,
+      "ayahNumber": 70,
+      "text": {
+        "simple": "أَلَمْ تَعْلَمْ أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاءِ وَالْأَرْضِ ۗ إِنَّ ذَٰلِكَ فِي كِتَابٍ ۚ إِنَّ ذَٰلِكَ عَلَى اللَّهِ يَسِيرٌ",
+        "en_sahih": "English translation of [22:70] in Sahih International style.",
+        "en_yusufali": "English translation of [22:70] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 70 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:70] en español.",
+        "fr_hamidullah": "Traduction de [22:70] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 70 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:71",
+      "surahNumber": 22,
+      "ayahNumber": 71,
+      "text": {
+        "simple": "وَيَعْبُدُونَ مِنْ دُونِ اللَّهِ مَا لَمْ يُنَزِّلْ بِهِ سُلْطَانًا وَمَا لَيْسَ لَهُمْ بِهِ عِلْمٌ ۗ وَمَا لِلظَّالِمِينَ مِنْ نَصِيرٍ",
+        "en_sahih": "English translation of [22:71] in Sahih International style.",
+        "en_yusufali": "English translation of [22:71] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 71 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:71] en español.",
+        "fr_hamidullah": "Traduction de [22:71] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 71 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:72",
+      "surahNumber": 22,
+      "ayahNumber": 72,
+      "text": {
+        "simple": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ تَعْرِفُ فِي وُجُوهِ الَّذِينَ كَفَرُوا الْمُنْكَرَ ۖ يَكَادُونَ يَسْطُونَ بِالَّذِينَ يَتْلُونَ عَلَيْهِمْ آيَاتِنَا ۗ قُلْ أَفَأُنَبِّئُكُمْ بِشَرٍّ مِنْ ذَٰلِكُمُ ۗ النَّارُ وَعَدَهَا اللَّهُ الَّذِينَ كَفَرُوا ۖ وَبِئْسَ الْمَصِيرُ",
+        "en_sahih": "English translation of [22:72] in Sahih International style.",
+        "en_yusufali": "English translation of [22:72] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 72 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:72] en español.",
+        "fr_hamidullah": "Traduction de [22:72] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 72 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:73",
+      "surahNumber": 22,
+      "ayahNumber": 73,
+      "text": {
+        "simple": "يَا أَيُّهَا النَّاسُ ضُرِبَ مَثَلٌ فَاسْتَمِعُوا لَهُ ۚ إِنَّ الَّذِينَ تَدْعُونَ مِنْ دُونِ اللَّهِ لَنْ يَخْلُقُوا ذُبَابًا وَلَوِ اجْتَمَعُوا لَهُ ۖ وَإِنْ يَسْلُبْهُمُ الذُّبَابُ شَيْئًا لَا يَسْتَنْقِذُوهُ مِنْهُ ۚ ضَعُفَ الطَّالِبُ وَالْمَطْلُوبُ",
+        "en_sahih": "English translation of [22:73] in Sahih International style.",
+        "en_yusufali": "English translation of [22:73] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 73 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:73] en español.",
+        "fr_hamidullah": "Traduction de [22:73] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 73 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:74",
+      "surahNumber": 22,
+      "ayahNumber": 74,
+      "text": {
+        "simple": "مَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ ۗ إِنَّ اللَّهَ لَقَوِيٌّ عَزِيزٌ",
+        "en_sahih": "English translation of [22:74] in Sahih International style.",
+        "en_yusufali": "English translation of [22:74] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 74 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:74] en español.",
+        "fr_hamidullah": "Traduction de [22:74] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 74 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:75",
+      "surahNumber": 22,
+      "ayahNumber": 75,
+      "text": {
+        "simple": "اللَّهُ يَصْطَفِي مِنَ الْمَلَائِكَةِ رُسُلًا وَمِنَ النَّاسِ ۚ إِنَّ اللَّهَ سَمِيعٌ بَصِيرٌ",
+        "en_sahih": "English translation of [22:75] in Sahih International style.",
+        "en_yusufali": "English translation of [22:75] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 75 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:75] en español.",
+        "fr_hamidullah": "Traduction de [22:75] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 75 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:76",
+      "surahNumber": 22,
+      "ayahNumber": 76,
+      "text": {
+        "simple": "يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۗ وَإِلَى اللَّهِ تُرْجَعُ الْأُمُورُ",
+        "en_sahih": "English translation of [22:76] in Sahih International style.",
+        "en_yusufali": "English translation of [22:76] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 76 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:76] en español.",
+        "fr_hamidullah": "Traduction de [22:76] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 76 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:77",
+      "surahNumber": 22,
+      "ayahNumber": 77,
+      "text": {
+        "simple": "يَا أَيُّهَا الَّذِينَ آمَنُوا ارْكَعُوا وَاسْجُدُوا وَاعْبُدُوا رَبَّكُمْ وَافْعَلُوا الْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ ۩",
+        "en_sahih": "English translation of [22:77] in Sahih International style.",
+        "en_yusufali": "English translation of [22:77] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 77 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:77] en español.",
+        "fr_hamidullah": "Traduction de [22:77] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 77 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "22:78",
+      "surahNumber": 22,
+      "ayahNumber": 78,
+      "text": {
+        "simple": "وَجَاهِدُوا فِي اللَّهِ حَقَّ جِهَادِهِ ۚ هُوَ اجْتَبَاكُمْ وَمَا جَعَلَ عَلَيْكُمْ فِي الدِّينِ مِنْ حَرَجٍ ۚ مِلَّةَ أَبِيكُمْ إِبْرَاهِيمَ ۚ هُوَ سَمَّاكُمُ الْمُسْلِمِينَ مِنْ قَبْلُ وَفِي هَٰذَا لِيَكُونَ الرَّسُولُ شَهِيدًا عَلَيْكُمْ وَتَكُونُوا شُهَدَاءَ عَلَى النَّاسِ ۚ فَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَاعْتَصِمُوا بِاللَّهِ هُوَ مَوْلَاكُمْ ۖ فَنِعْمَ الْمَوْلَىٰ وَنِعْمَ النَّصِيرُ",
+        "en_sahih": "English translation of [22:78] in Sahih International style.",
+        "en_yusufali": "English translation of [22:78] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 22 آیت 78 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [22:78] en español.",
+        "fr_hamidullah": "Traduction de [22:78] en français.",
+        "bn_hoque": "সূরা 22 আয়াত 78 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

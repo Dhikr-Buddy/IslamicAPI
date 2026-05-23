@@ -1,0 +1,309 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:58.002Z",
+  "surahNumber": 92,
+  "ayahCount": 21,
+  "ayahs": [
+    {
+      "id": "92:1",
+      "surahNumber": 92,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَاللَّيْلِ إِذَا يَغْشَىٰ",
+        "en_sahih": "English translation of [92:1] in Sahih International style.",
+        "en_yusufali": "English translation of [92:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 92 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [92:1] en español.",
+        "fr_hamidullah": "Traduction de [92:1] en français.",
+        "bn_hoque": "সূরা 92 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "92:2",
+      "surahNumber": 92,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "وَالنَّهَارِ إِذَا تَجَلَّىٰ",
+        "en_sahih": "English translation of [92:2] in Sahih International style.",
+        "en_yusufali": "English translation of [92:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 92 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [92:2] en español.",
+        "fr_hamidullah": "Traduction de [92:2] en français.",
+        "bn_hoque": "সূরা 92 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "92:3",
+      "surahNumber": 92,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "وَمَا خَلَقَ الذَّكَرَ وَالْأُنْثَىٰ",
+        "en_sahih": "English translation of [92:3] in Sahih International style.",
+        "en_yusufali": "English translation of [92:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 92 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [92:3] en español.",
+        "fr_hamidullah": "Traduction de [92:3] en français.",
+        "bn_hoque": "সূরা 92 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "92:4",
+      "surahNumber": 92,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "إِنَّ سَعْيَكُمْ لَشَتَّىٰ",
+        "en_sahih": "English translation of [92:4] in Sahih International style.",
+        "en_yusufali": "English translation of [92:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 92 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [92:4] en español.",
+        "fr_hamidullah": "Traduction de [92:4] en français.",
+        "bn_hoque": "সূরা 92 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "92:5",
+      "surahNumber": 92,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "فَأَمَّا مَنْ أَعْطَىٰ وَاتَّقَىٰ",
+        "en_sahih": "English translation of [92:5] in Sahih International style.",
+        "en_yusufali": "English translation of [92:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 92 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [92:5] en español.",
+        "fr_hamidullah": "Traduction de [92:5] en français.",
+        "bn_hoque": "সূরা 92 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "92:6",
+      "surahNumber": 92,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "وَصَدَّقَ بِالْحُسْنَىٰ",
+        "en_sahih": "English translation of [92:6] in Sahih International style.",
+        "en_yusufali": "English translation of [92:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 92 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [92:6] en español.",
+        "fr_hamidullah": "Traduction de [92:6] en français.",
+        "bn_hoque": "সূরা 92 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "92:7",
+      "surahNumber": 92,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "فَسَنُيَسِّرُهُ لِلْيُسْرَىٰ",
+        "en_sahih": "English translation of [92:7] in Sahih International style.",
+        "en_yusufali": "English translation of [92:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 92 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [92:7] en español.",
+        "fr_hamidullah": "Traduction de [92:7] en français.",
+        "bn_hoque": "সূরা 92 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "92:8",
+      "surahNumber": 92,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "وَأَمَّا مَنْ بَخِلَ وَاسْتَغْنَىٰ",
+        "en_sahih": "English translation of [92:8] in Sahih International style.",
+        "en_yusufali": "English translation of [92:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 92 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [92:8] en español.",
+        "fr_hamidullah": "Traduction de [92:8] en français.",
+        "bn_hoque": "সূরা 92 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "92:9",
+      "surahNumber": 92,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "وَكَذَّبَ بِالْحُسْنَىٰ",
+        "en_sahih": "English translation of [92:9] in Sahih International style.",
+        "en_yusufali": "English translation of [92:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 92 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [92:9] en español.",
+        "fr_hamidullah": "Traduction de [92:9] en français.",
+        "bn_hoque": "সূরা 92 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "92:10",
+      "surahNumber": 92,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "فَسَنُيَسِّرُهُ لِلْعُسْرَىٰ",
+        "en_sahih": "English translation of [92:10] in Sahih International style.",
+        "en_yusufali": "English translation of [92:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 92 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [92:10] en español.",
+        "fr_hamidullah": "Traduction de [92:10] en français.",
+        "bn_hoque": "সূরা 92 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "92:11",
+      "surahNumber": 92,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "وَمَا يُغْنِي عَنْهُ مَالُهُ إِذَا تَرَدَّىٰ",
+        "en_sahih": "English translation of [92:11] in Sahih International style.",
+        "en_yusufali": "English translation of [92:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 92 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [92:11] en español.",
+        "fr_hamidullah": "Traduction de [92:11] en français.",
+        "bn_hoque": "সূরা 92 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "92:12",
+      "surahNumber": 92,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "إِنَّ عَلَيْنَا لَلْهُدَىٰ",
+        "en_sahih": "English translation of [92:12] in Sahih International style.",
+        "en_yusufali": "English translation of [92:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 92 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [92:12] en español.",
+        "fr_hamidullah": "Traduction de [92:12] en français.",
+        "bn_hoque": "সূরা 92 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "92:13",
+      "surahNumber": 92,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "وَإِنَّ لَنَا لَلْآخِرَةَ وَالْأُولَىٰ",
+        "en_sahih": "English translation of [92:13] in Sahih International style.",
+        "en_yusufali": "English translation of [92:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 92 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [92:13] en español.",
+        "fr_hamidullah": "Traduction de [92:13] en français.",
+        "bn_hoque": "সূরা 92 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "92:14",
+      "surahNumber": 92,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "فَأَنْذَرْتُكُمْ نَارًا تَلَظَّىٰ",
+        "en_sahih": "English translation of [92:14] in Sahih International style.",
+        "en_yusufali": "English translation of [92:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 92 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [92:14] en español.",
+        "fr_hamidullah": "Traduction de [92:14] en français.",
+        "bn_hoque": "সূরা 92 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "92:15",
+      "surahNumber": 92,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "لَا يَصْلَاهَا إِلَّا الْأَشْقَى",
+        "en_sahih": "English translation of [92:15] in Sahih International style.",
+        "en_yusufali": "English translation of [92:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 92 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [92:15] en español.",
+        "fr_hamidullah": "Traduction de [92:15] en français.",
+        "bn_hoque": "সূরা 92 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "92:16",
+      "surahNumber": 92,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "الَّذِي كَذَّبَ وَتَوَلَّىٰ",
+        "en_sahih": "English translation of [92:16] in Sahih International style.",
+        "en_yusufali": "English translation of [92:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 92 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [92:16] en español.",
+        "fr_hamidullah": "Traduction de [92:16] en français.",
+        "bn_hoque": "সূরা 92 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "92:17",
+      "surahNumber": 92,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "وَسَيُجَنَّبُهَا الْأَتْقَى",
+        "en_sahih": "English translation of [92:17] in Sahih International style.",
+        "en_yusufali": "English translation of [92:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 92 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [92:17] en español.",
+        "fr_hamidullah": "Traduction de [92:17] en français.",
+        "bn_hoque": "সূরা 92 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "92:18",
+      "surahNumber": 92,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "الَّذِي يُؤْتِي مَالَهُ يَتَزَكَّىٰ",
+        "en_sahih": "English translation of [92:18] in Sahih International style.",
+        "en_yusufali": "English translation of [92:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 92 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [92:18] en español.",
+        "fr_hamidullah": "Traduction de [92:18] en français.",
+        "bn_hoque": "সূরা 92 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "92:19",
+      "surahNumber": 92,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "وَمَا لِأَحَدٍ عِنْدَهُ مِنْ نِعْمَةٍ تُجْزَىٰ",
+        "en_sahih": "English translation of [92:19] in Sahih International style.",
+        "en_yusufali": "English translation of [92:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 92 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [92:19] en español.",
+        "fr_hamidullah": "Traduction de [92:19] en français.",
+        "bn_hoque": "সূরা 92 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "92:20",
+      "surahNumber": 92,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "إِلَّا ابْتِغَاءَ وَجْهِ رَبِّهِ الْأَعْلَىٰ",
+        "en_sahih": "English translation of [92:20] in Sahih International style.",
+        "en_yusufali": "English translation of [92:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 92 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [92:20] en español.",
+        "fr_hamidullah": "Traduction de [92:20] en français.",
+        "bn_hoque": "সূরা 92 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "92:21",
+      "surahNumber": 92,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "وَلَسَوْفَ يَرْضَىٰ",
+        "en_sahih": "English translation of [92:21] in Sahih International style.",
+        "en_yusufali": "English translation of [92:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 92 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [92:21] en español.",
+        "fr_hamidullah": "Traduction de [92:21] en français.",
+        "bn_hoque": "সূরা 92 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

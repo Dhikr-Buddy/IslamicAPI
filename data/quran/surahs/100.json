@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:58.004Z",
+  "surahNumber": 100,
+  "ayahCount": 11,
+  "ayahs": [
+    {
+      "id": "100:1",
+      "surahNumber": 100,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَالْعَادِيَاتِ ضَبْحًا",
+        "en_sahih": "English translation of [100:1] in Sahih International style.",
+        "en_yusufali": "English translation of [100:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 100 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [100:1] en español.",
+        "fr_hamidullah": "Traduction de [100:1] en français.",
+        "bn_hoque": "সূরা 100 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "100:2",
+      "surahNumber": 100,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "فَالْمُورِيَاتِ قَدْحًا",
+        "en_sahih": "English translation of [100:2] in Sahih International style.",
+        "en_yusufali": "English translation of [100:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 100 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [100:2] en español.",
+        "fr_hamidullah": "Traduction de [100:2] en français.",
+        "bn_hoque": "সূরা 100 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "100:3",
+      "surahNumber": 100,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "فَالْمُغِيرَاتِ صُبْحًا",
+        "en_sahih": "English translation of [100:3] in Sahih International style.",
+        "en_yusufali": "English translation of [100:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 100 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [100:3] en español.",
+        "fr_hamidullah": "Traduction de [100:3] en français.",
+        "bn_hoque": "সূরা 100 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "100:4",
+      "surahNumber": 100,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "فَأَثَرْنَ بِهِ نَقْعًا",
+        "en_sahih": "English translation of [100:4] in Sahih International style.",
+        "en_yusufali": "English translation of [100:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 100 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [100:4] en español.",
+        "fr_hamidullah": "Traduction de [100:4] en français.",
+        "bn_hoque": "সূরা 100 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "100:5",
+      "surahNumber": 100,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "فَوَسَطْنَ بِهِ جَمْعًا",
+        "en_sahih": "English translation of [100:5] in Sahih International style.",
+        "en_yusufali": "English translation of [100:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 100 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [100:5] en español.",
+        "fr_hamidullah": "Traduction de [100:5] en français.",
+        "bn_hoque": "সূরা 100 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "100:6",
+      "surahNumber": 100,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "إِنَّ الْإِنْسَانَ لِرَبِّهِ لَكَنُودٌ",
+        "en_sahih": "English translation of [100:6] in Sahih International style.",
+        "en_yusufali": "English translation of [100:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 100 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [100:6] en español.",
+        "fr_hamidullah": "Traduction de [100:6] en français.",
+        "bn_hoque": "সূরা 100 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "100:7",
+      "surahNumber": 100,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "وَإِنَّهُ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ",
+        "en_sahih": "English translation of [100:7] in Sahih International style.",
+        "en_yusufali": "English translation of [100:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 100 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [100:7] en español.",
+        "fr_hamidullah": "Traduction de [100:7] en français.",
+        "bn_hoque": "সূরা 100 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "100:8",
+      "surahNumber": 100,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "وَإِنَّهُ لِحُبِّ الْخَيْرِ لَشَدِيدٌ",
+        "en_sahih": "English translation of [100:8] in Sahih International style.",
+        "en_yusufali": "English translation of [100:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 100 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [100:8] en español.",
+        "fr_hamidullah": "Traduction de [100:8] en français.",
+        "bn_hoque": "সূরা 100 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "100:9",
+      "surahNumber": 100,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِي الْقُبُورِ",
+        "en_sahih": "English translation of [100:9] in Sahih International style.",
+        "en_yusufali": "English translation of [100:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 100 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [100:9] en español.",
+        "fr_hamidullah": "Traduction de [100:9] en français.",
+        "bn_hoque": "সূরা 100 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "100:10",
+      "surahNumber": 100,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "وَحُصِّلَ مَا فِي الصُّدُورِ",
+        "en_sahih": "English translation of [100:10] in Sahih International style.",
+        "en_yusufali": "English translation of [100:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 100 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [100:10] en español.",
+        "fr_hamidullah": "Traduction de [100:10] en français.",
+        "bn_hoque": "সূরা 100 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "100:11",
+      "surahNumber": 100,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "إِنَّ رَبَّهُمْ بِهِمْ يَوْمَئِذٍ لَخَبِيرٌ",
+        "en_sahih": "English translation of [100:11] in Sahih International style.",
+        "en_yusufali": "English translation of [100:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 100 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [100:11] en español.",
+        "fr_hamidullah": "Traduction de [100:11] en français.",
+        "bn_hoque": "সূরা 100 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

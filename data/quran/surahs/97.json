@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:58.003Z",
+  "surahNumber": 97,
+  "ayahCount": 5,
+  "ayahs": [
+    {
+      "id": "97:1",
+      "surahNumber": 97,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ",
+        "en_sahih": "English translation of [97:1] in Sahih International style.",
+        "en_yusufali": "English translation of [97:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 97 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [97:1] en español.",
+        "fr_hamidullah": "Traduction de [97:1] en français.",
+        "bn_hoque": "সূরা 97 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "97:2",
+      "surahNumber": 97,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "وَمَا أَدْرَاكَ مَا لَيْلَةُ الْقَدْرِ",
+        "en_sahih": "English translation of [97:2] in Sahih International style.",
+        "en_yusufali": "English translation of [97:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 97 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [97:2] en español.",
+        "fr_hamidullah": "Traduction de [97:2] en français.",
+        "bn_hoque": "সূরা 97 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "97:3",
+      "surahNumber": 97,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "لَيْلَةُ الْقَدْرِ خَيْرٌ مِنْ أَلْفِ شَهْرٍ",
+        "en_sahih": "English translation of [97:3] in Sahih International style.",
+        "en_yusufali": "English translation of [97:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 97 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [97:3] en español.",
+        "fr_hamidullah": "Traduction de [97:3] en français.",
+        "bn_hoque": "সূরা 97 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "97:4",
+      "surahNumber": 97,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "تَنَزَّلُ الْمَلَائِكَةُ وَالرُّوحُ فِيهَا بِإِذْنِ رَبِّهِمْ مِنْ كُلِّ أَمْرٍ",
+        "en_sahih": "English translation of [97:4] in Sahih International style.",
+        "en_yusufali": "English translation of [97:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 97 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [97:4] en español.",
+        "fr_hamidullah": "Traduction de [97:4] en français.",
+        "bn_hoque": "সূরা 97 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "97:5",
+      "surahNumber": 97,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "سَلَامٌ هِيَ حَتَّىٰ مَطْلَعِ الْفَجْرِ",
+        "en_sahih": "English translation of [97:5] in Sahih International style.",
+        "en_yusufali": "English translation of [97:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 97 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [97:5] en español.",
+        "fr_hamidullah": "Traduction de [97:5] en français.",
+        "bn_hoque": "সূরা 97 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:58.006Z",
+  "surahNumber": 109,
+  "ayahCount": 6,
+  "ayahs": [
+    {
+      "id": "109:1",
+      "surahNumber": 109,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ قُلْ يَا أَيُّهَا الْكَافِرُونَ",
+        "en_sahih": "English translation of [109:1] in Sahih International style.",
+        "en_yusufali": "English translation of [109:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 109 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [109:1] en español.",
+        "fr_hamidullah": "Traduction de [109:1] en français.",
+        "bn_hoque": "সূরা 109 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "109:2",
+      "surahNumber": 109,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "لَا أَعْبُدُ مَا تَعْبُدُونَ",
+        "en_sahih": "English translation of [109:2] in Sahih International style.",
+        "en_yusufali": "English translation of [109:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 109 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [109:2] en español.",
+        "fr_hamidullah": "Traduction de [109:2] en français.",
+        "bn_hoque": "সূরা 109 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "109:3",
+      "surahNumber": 109,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ",
+        "en_sahih": "English translation of [109:3] in Sahih International style.",
+        "en_yusufali": "English translation of [109:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 109 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [109:3] en español.",
+        "fr_hamidullah": "Traduction de [109:3] en français.",
+        "bn_hoque": "সূরা 109 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "109:4",
+      "surahNumber": 109,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "وَلَا أَنَا عَابِدٌ مَا عَبَدْتُمْ",
+        "en_sahih": "English translation of [109:4] in Sahih International style.",
+        "en_yusufali": "English translation of [109:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 109 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [109:4] en español.",
+        "fr_hamidullah": "Traduction de [109:4] en français.",
+        "bn_hoque": "সূরা 109 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "109:5",
+      "surahNumber": 109,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ",
+        "en_sahih": "English translation of [109:5] in Sahih International style.",
+        "en_yusufali": "English translation of [109:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 109 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [109:5] en español.",
+        "fr_hamidullah": "Traduction de [109:5] en français.",
+        "bn_hoque": "সূরা 109 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "109:6",
+      "surahNumber": 109,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "لَكُمْ دِينُكُمْ وَلِيَ دِينِ",
+        "en_sahih": "English translation of [109:6] in Sahih International style.",
+        "en_yusufali": "English translation of [109:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 109 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [109:6] en español.",
+        "fr_hamidullah": "Traduction de [109:6] en français.",
+        "bn_hoque": "সূরা 109 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

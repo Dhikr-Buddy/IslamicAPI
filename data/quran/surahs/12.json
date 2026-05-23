@@ -1,0 +1,1569 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.972Z",
+  "surahNumber": 12,
+  "ayahCount": 111,
+  "ayahs": [
+    {
+      "id": "12:1",
+      "surahNumber": 12,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ الر ۚ تِلْكَ آيَاتُ الْكِتَابِ الْمُبِينِ",
+        "en_sahih": "English translation of [12:1] in Sahih International style.",
+        "en_yusufali": "English translation of [12:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:1] en español.",
+        "fr_hamidullah": "Traduction de [12:1] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:2",
+      "surahNumber": 12,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "إِنَّا أَنْزَلْنَاهُ قُرْآنًا عَرَبِيًّا لَعَلَّكُمْ تَعْقِلُونَ",
+        "en_sahih": "English translation of [12:2] in Sahih International style.",
+        "en_yusufali": "English translation of [12:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:2] en español.",
+        "fr_hamidullah": "Traduction de [12:2] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:3",
+      "surahNumber": 12,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ الْقَصَصِ بِمَا أَوْحَيْنَا إِلَيْكَ هَٰذَا الْقُرْآنَ وَإِنْ كُنْتَ مِنْ قَبْلِهِ لَمِنَ الْغَافِلِينَ",
+        "en_sahih": "English translation of [12:3] in Sahih International style.",
+        "en_yusufali": "English translation of [12:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:3] en español.",
+        "fr_hamidullah": "Traduction de [12:3] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:4",
+      "surahNumber": 12,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَا أَبَتِ إِنِّي رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا وَالشَّمْسَ وَالْقَمَرَ رَأَيْتُهُمْ لِي سَاجِدِينَ",
+        "en_sahih": "English translation of [12:4] in Sahih International style.",
+        "en_yusufali": "English translation of [12:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:4] en español.",
+        "fr_hamidullah": "Traduction de [12:4] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:5",
+      "surahNumber": 12,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "قَالَ يَا بُنَيَّ لَا تَقْصُصْ رُؤْيَاكَ عَلَىٰ إِخْوَتِكَ فَيَكِيدُوا لَكَ كَيْدًا ۖ إِنَّ الشَّيْطَانَ لِلْإِنْسَانِ عَدُوٌّ مُبِينٌ",
+        "en_sahih": "English translation of [12:5] in Sahih International style.",
+        "en_yusufali": "English translation of [12:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:5] en español.",
+        "fr_hamidullah": "Traduction de [12:5] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:6",
+      "surahNumber": 12,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "وَكَذَٰلِكَ يَجْتَبِيكَ رَبُّكَ وَيُعَلِّمُكَ مِنْ تَأْوِيلِ الْأَحَادِيثِ وَيُتِمُّ نِعْمَتَهُ عَلَيْكَ وَعَلَىٰ آلِ يَعْقُوبَ كَمَا أَتَمَّهَا عَلَىٰ أَبَوَيْكَ مِنْ قَبْلُ إِبْرَاهِيمَ وَإِسْحَاقَ ۚ إِنَّ رَبَّكَ عَلِيمٌ حَكِيمٌ",
+        "en_sahih": "English translation of [12:6] in Sahih International style.",
+        "en_yusufali": "English translation of [12:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:6] en español.",
+        "fr_hamidullah": "Traduction de [12:6] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:7",
+      "surahNumber": 12,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "۞ لَقَدْ كَانَ فِي يُوسُفَ وَإِخْوَتِهِ آيَاتٌ لِلسَّائِلِينَ",
+        "en_sahih": "English translation of [12:7] in Sahih International style.",
+        "en_yusufali": "English translation of [12:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:7] en español.",
+        "fr_hamidullah": "Traduction de [12:7] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:8",
+      "surahNumber": 12,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "إِذْ قَالُوا لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰ أَبِينَا مِنَّا وَنَحْنُ عُصْبَةٌ إِنَّ أَبَانَا لَفِي ضَلَالٍ مُبِينٍ",
+        "en_sahih": "English translation of [12:8] in Sahih International style.",
+        "en_yusufali": "English translation of [12:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:8] en español.",
+        "fr_hamidullah": "Traduction de [12:8] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:9",
+      "surahNumber": 12,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "اقْتُلُوا يُوسُفَ أَوِ اطْرَحُوهُ أَرْضًا يَخْلُ لَكُمْ وَجْهُ أَبِيكُمْ وَتَكُونُوا مِنْ بَعْدِهِ قَوْمًا صَالِحِينَ",
+        "en_sahih": "English translation of [12:9] in Sahih International style.",
+        "en_yusufali": "English translation of [12:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:9] en español.",
+        "fr_hamidullah": "Traduction de [12:9] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:10",
+      "surahNumber": 12,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "قَالَ قَائِلٌ مِنْهُمْ لَا تَقْتُلُوا يُوسُفَ وَأَلْقُوهُ فِي غَيَابَتِ الْجُبِّ يَلْتَقِطْهُ بَعْضُ السَّيَّارَةِ إِنْ كُنْتُمْ فَاعِلِينَ",
+        "en_sahih": "English translation of [12:10] in Sahih International style.",
+        "en_yusufali": "English translation of [12:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:10] en español.",
+        "fr_hamidullah": "Traduction de [12:10] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:11",
+      "surahNumber": 12,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "قَالُوا يَا أَبَانَا مَا لَكَ لَا تَأْمَنَّا عَلَىٰ يُوسُفَ وَإِنَّا لَهُ لَنَاصِحُونَ",
+        "en_sahih": "English translation of [12:11] in Sahih International style.",
+        "en_yusufali": "English translation of [12:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:11] en español.",
+        "fr_hamidullah": "Traduction de [12:11] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:12",
+      "surahNumber": 12,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "أَرْسِلْهُ مَعَنَا غَدًا يَرْتَعْ وَيَلْعَبْ وَإِنَّا لَهُ لَحَافِظُونَ",
+        "en_sahih": "English translation of [12:12] in Sahih International style.",
+        "en_yusufali": "English translation of [12:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:12] en español.",
+        "fr_hamidullah": "Traduction de [12:12] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:13",
+      "surahNumber": 12,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "قَالَ إِنِّي لَيَحْزُنُنِي أَنْ تَذْهَبُوا بِهِ وَأَخَافُ أَنْ يَأْكُلَهُ الذِّئْبُ وَأَنْتُمْ عَنْهُ غَافِلُونَ",
+        "en_sahih": "English translation of [12:13] in Sahih International style.",
+        "en_yusufali": "English translation of [12:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:13] en español.",
+        "fr_hamidullah": "Traduction de [12:13] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:14",
+      "surahNumber": 12,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "قَالُوا لَئِنْ أَكَلَهُ الذِّئْبُ وَنَحْنُ عُصْبَةٌ إِنَّا إِذًا لَخَاسِرُونَ",
+        "en_sahih": "English translation of [12:14] in Sahih International style.",
+        "en_yusufali": "English translation of [12:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:14] en español.",
+        "fr_hamidullah": "Traduction de [12:14] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:15",
+      "surahNumber": 12,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "فَلَمَّا ذَهَبُوا بِهِ وَأَجْمَعُوا أَنْ يَجْعَلُوهُ فِي غَيَابَتِ الْجُبِّ ۚ وَأَوْحَيْنَا إِلَيْهِ لَتُنَبِّئَنَّهُمْ بِأَمْرِهِمْ هَٰذَا وَهُمْ لَا يَشْعُرُونَ",
+        "en_sahih": "English translation of [12:15] in Sahih International style.",
+        "en_yusufali": "English translation of [12:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:15] en español.",
+        "fr_hamidullah": "Traduction de [12:15] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:16",
+      "surahNumber": 12,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "وَجَاءُوا أَبَاهُمْ عِشَاءً يَبْكُونَ",
+        "en_sahih": "English translation of [12:16] in Sahih International style.",
+        "en_yusufali": "English translation of [12:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:16] en español.",
+        "fr_hamidullah": "Traduction de [12:16] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:17",
+      "surahNumber": 12,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "قَالُوا يَا أَبَانَا إِنَّا ذَهَبْنَا نَسْتَبِقُ وَتَرَكْنَا يُوسُفَ عِنْدَ مَتَاعِنَا فَأَكَلَهُ الذِّئْبُ ۖ وَمَا أَنْتَ بِمُؤْمِنٍ لَنَا وَلَوْ كُنَّا صَادِقِينَ",
+        "en_sahih": "English translation of [12:17] in Sahih International style.",
+        "en_yusufali": "English translation of [12:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:17] en español.",
+        "fr_hamidullah": "Traduction de [12:17] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:18",
+      "surahNumber": 12,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "وَجَاءُوا عَلَىٰ قَمِيصِهِ بِدَمٍ كَذِبٍ ۚ قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنْفُسُكُمْ أَمْرًا ۖ فَصَبْرٌ جَمِيلٌ ۖ وَاللَّهُ الْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ",
+        "en_sahih": "English translation of [12:18] in Sahih International style.",
+        "en_yusufali": "English translation of [12:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:18] en español.",
+        "fr_hamidullah": "Traduction de [12:18] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:19",
+      "surahNumber": 12,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "وَجَاءَتْ سَيَّارَةٌ فَأَرْسَلُوا وَارِدَهُمْ فَأَدْلَىٰ دَلْوَهُ ۖ قَالَ يَا بُشْرَىٰ هَٰذَا غُلَامٌ ۚ وَأَسَرُّوهُ بِضَاعَةً ۚ وَاللَّهُ عَلِيمٌ بِمَا يَعْمَلُونَ",
+        "en_sahih": "English translation of [12:19] in Sahih International style.",
+        "en_yusufali": "English translation of [12:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:19] en español.",
+        "fr_hamidullah": "Traduction de [12:19] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:20",
+      "surahNumber": 12,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "وَشَرَوْهُ بِثَمَنٍ بَخْسٍ دَرَاهِمَ مَعْدُودَةٍ وَكَانُوا فِيهِ مِنَ الزَّاهِدِينَ",
+        "en_sahih": "English translation of [12:20] in Sahih International style.",
+        "en_yusufali": "English translation of [12:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:20] en español.",
+        "fr_hamidullah": "Traduction de [12:20] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:21",
+      "surahNumber": 12,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "وَقَالَ الَّذِي اشْتَرَاهُ مِنْ مِصْرَ لِامْرَأَتِهِ أَكْرِمِي مَثْوَاهُ عَسَىٰ أَنْ يَنْفَعَنَا أَوْ نَتَّخِذَهُ وَلَدًا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِي الْأَرْضِ وَلِنُعَلِّمَهُ مِنْ تَأْوِيلِ الْأَحَادِيثِ ۚ وَاللَّهُ غَالِبٌ عَلَىٰ أَمْرِهِ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+        "en_sahih": "English translation of [12:21] in Sahih International style.",
+        "en_yusufali": "English translation of [12:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:21] en español.",
+        "fr_hamidullah": "Traduction de [12:21] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:22",
+      "surahNumber": 12,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "وَلَمَّا بَلَغَ أَشُدَّهُ آتَيْنَاهُ حُكْمًا وَعِلْمًا ۚ وَكَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ",
+        "en_sahih": "English translation of [12:22] in Sahih International style.",
+        "en_yusufali": "English translation of [12:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:22] en español.",
+        "fr_hamidullah": "Traduction de [12:22] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:23",
+      "surahNumber": 12,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "وَرَاوَدَتْهُ الَّتِي هُوَ فِي بَيْتِهَا عَنْ نَفْسِهِ وَغَلَّقَتِ الْأَبْوَابَ وَقَالَتْ هَيْتَ لَكَ ۚ قَالَ مَعَاذَ اللَّهِ ۖ إِنَّهُ رَبِّي أَحْسَنَ مَثْوَايَ ۖ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ",
+        "en_sahih": "English translation of [12:23] in Sahih International style.",
+        "en_yusufali": "English translation of [12:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:23] en español.",
+        "fr_hamidullah": "Traduction de [12:23] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:24",
+      "surahNumber": 12,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "وَلَقَدْ هَمَّتْ بِهِ ۖ وَهَمَّ بِهَا لَوْلَا أَنْ رَأَىٰ بُرْهَانَ رَبِّهِ ۚ كَذَٰلِكَ لِنَصْرِفَ عَنْهُ السُّوءَ وَالْفَحْشَاءَ ۚ إِنَّهُ مِنْ عِبَادِنَا الْمُخْلَصِينَ",
+        "en_sahih": "English translation of [12:24] in Sahih International style.",
+        "en_yusufali": "English translation of [12:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:24] en español.",
+        "fr_hamidullah": "Traduction de [12:24] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:25",
+      "surahNumber": 12,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "وَاسْتَبَقَا الْبَابَ وَقَدَّتْ قَمِيصَهُ مِنْ دُبُرٍ وَأَلْفَيَا سَيِّدَهَا لَدَى الْبَابِ ۚ قَالَتْ مَا جَزَاءُ مَنْ أَرَادَ بِأَهْلِكَ سُوءًا إِلَّا أَنْ يُسْجَنَ أَوْ عَذَابٌ أَلِيمٌ",
+        "en_sahih": "English translation of [12:25] in Sahih International style.",
+        "en_yusufali": "English translation of [12:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:25] en español.",
+        "fr_hamidullah": "Traduction de [12:25] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:26",
+      "surahNumber": 12,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "قَالَ هِيَ رَاوَدَتْنِي عَنْ نَفْسِي ۚ وَشَهِدَ شَاهِدٌ مِنْ أَهْلِهَا إِنْ كَانَ قَمِيصُهُ قُدَّ مِنْ قُبُلٍ فَصَدَقَتْ وَهُوَ مِنَ الْكَاذِبِينَ",
+        "en_sahih": "English translation of [12:26] in Sahih International style.",
+        "en_yusufali": "English translation of [12:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:26] en español.",
+        "fr_hamidullah": "Traduction de [12:26] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:27",
+      "surahNumber": 12,
+      "ayahNumber": 27,
+      "text": {
+        "simple": "وَإِنْ كَانَ قَمِيصُهُ قُدَّ مِنْ دُبُرٍ فَكَذَبَتْ وَهُوَ مِنَ الصَّادِقِينَ",
+        "en_sahih": "English translation of [12:27] in Sahih International style.",
+        "en_yusufali": "English translation of [12:27] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:27] en español.",
+        "fr_hamidullah": "Traduction de [12:27] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:28",
+      "surahNumber": 12,
+      "ayahNumber": 28,
+      "text": {
+        "simple": "فَلَمَّا رَأَىٰ قَمِيصَهُ قُدَّ مِنْ دُبُرٍ قَالَ إِنَّهُ مِنْ كَيْدِكُنَّ ۖ إِنَّ كَيْدَكُنَّ عَظِيمٌ",
+        "en_sahih": "English translation of [12:28] in Sahih International style.",
+        "en_yusufali": "English translation of [12:28] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:28] en español.",
+        "fr_hamidullah": "Traduction de [12:28] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:29",
+      "surahNumber": 12,
+      "ayahNumber": 29,
+      "text": {
+        "simple": "يُوسُفُ أَعْرِضْ عَنْ هَٰذَا ۚ وَاسْتَغْفِرِي لِذَنْبِكِ ۖ إِنَّكِ كُنْتِ مِنَ الْخَاطِئِينَ",
+        "en_sahih": "English translation of [12:29] in Sahih International style.",
+        "en_yusufali": "English translation of [12:29] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:29] en español.",
+        "fr_hamidullah": "Traduction de [12:29] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:30",
+      "surahNumber": 12,
+      "ayahNumber": 30,
+      "text": {
+        "simple": "۞ وَقَالَ نِسْوَةٌ فِي الْمَدِينَةِ امْرَأَتُ الْعَزِيزِ تُرَاوِدُ فَتَاهَا عَنْ نَفْسِهِ ۖ قَدْ شَغَفَهَا حُبًّا ۖ إِنَّا لَنَرَاهَا فِي ضَلَالٍ مُبِينٍ",
+        "en_sahih": "English translation of [12:30] in Sahih International style.",
+        "en_yusufali": "English translation of [12:30] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:30] en español.",
+        "fr_hamidullah": "Traduction de [12:30] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:31",
+      "surahNumber": 12,
+      "ayahNumber": 31,
+      "text": {
+        "simple": "فَلَمَّا سَمِعَتْ بِمَكْرِهِنَّ أَرْسَلَتْ إِلَيْهِنَّ وَأَعْتَدَتْ لَهُنَّ مُتَّكَأً وَآتَتْ كُلَّ وَاحِدَةٍ مِنْهُنَّ سِكِّينًا وَقَالَتِ اخْرُجْ عَلَيْهِنَّ ۖ فَلَمَّا رَأَيْنَهُ أَكْبَرْنَهُ وَقَطَّعْنَ أَيْدِيَهُنَّ وَقُلْنَ حَاشَ لِلَّهِ مَا هَٰذَا بَشَرًا إِنْ هَٰذَا إِلَّا مَلَكٌ كَرِيمٌ",
+        "en_sahih": "English translation of [12:31] in Sahih International style.",
+        "en_yusufali": "English translation of [12:31] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:31] en español.",
+        "fr_hamidullah": "Traduction de [12:31] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:32",
+      "surahNumber": 12,
+      "ayahNumber": 32,
+      "text": {
+        "simple": "قَالَتْ فَذَٰلِكُنَّ الَّذِي لُمْتُنَّنِي فِيهِ ۖ وَلَقَدْ رَاوَدْتُهُ عَنْ نَفْسِهِ فَاسْتَعْصَمَ ۖ وَلَئِنْ لَمْ يَفْعَلْ مَا آمُرُهُ لَيُسْجَنَنَّ وَلَيَكُونًا مِنَ الصَّاغِرِينَ",
+        "en_sahih": "English translation of [12:32] in Sahih International style.",
+        "en_yusufali": "English translation of [12:32] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:32] en español.",
+        "fr_hamidullah": "Traduction de [12:32] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:33",
+      "surahNumber": 12,
+      "ayahNumber": 33,
+      "text": {
+        "simple": "قَالَ رَبِّ السِّجْنُ أَحَبُّ إِلَيَّ مِمَّا يَدْعُونَنِي إِلَيْهِ ۖ وَإِلَّا تَصْرِفْ عَنِّي كَيْدَهُنَّ أَصْبُ إِلَيْهِنَّ وَأَكُنْ مِنَ الْجَاهِلِينَ",
+        "en_sahih": "English translation of [12:33] in Sahih International style.",
+        "en_yusufali": "English translation of [12:33] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:33] en español.",
+        "fr_hamidullah": "Traduction de [12:33] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:34",
+      "surahNumber": 12,
+      "ayahNumber": 34,
+      "text": {
+        "simple": "فَاسْتَجَابَ لَهُ رَبُّهُ فَصَرَفَ عَنْهُ كَيْدَهُنَّ ۚ إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ",
+        "en_sahih": "English translation of [12:34] in Sahih International style.",
+        "en_yusufali": "English translation of [12:34] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:34] en español.",
+        "fr_hamidullah": "Traduction de [12:34] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:35",
+      "surahNumber": 12,
+      "ayahNumber": 35,
+      "text": {
+        "simple": "ثُمَّ بَدَا لَهُمْ مِنْ بَعْدِ مَا رَأَوُا الْآيَاتِ لَيَسْجُنُنَّهُ حَتَّىٰ حِينٍ",
+        "en_sahih": "English translation of [12:35] in Sahih International style.",
+        "en_yusufali": "English translation of [12:35] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:35] en español.",
+        "fr_hamidullah": "Traduction de [12:35] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:36",
+      "surahNumber": 12,
+      "ayahNumber": 36,
+      "text": {
+        "simple": "وَدَخَلَ مَعَهُ السِّجْنَ فَتَيَانِ ۖ قَالَ أَحَدُهُمَا إِنِّي أَرَانِي أَعْصِرُ خَمْرًا ۖ وَقَالَ الْآخَرُ إِنِّي أَرَانِي أَحْمِلُ فَوْقَ رَأْسِي خُبْزًا تَأْكُلُ الطَّيْرُ مِنْهُ ۖ نَبِّئْنَا بِتَأْوِيلِهِ ۖ إِنَّا نَرَاكَ مِنَ الْمُحْسِنِينَ",
+        "en_sahih": "English translation of [12:36] in Sahih International style.",
+        "en_yusufali": "English translation of [12:36] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:36] en español.",
+        "fr_hamidullah": "Traduction de [12:36] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:37",
+      "surahNumber": 12,
+      "ayahNumber": 37,
+      "text": {
+        "simple": "قَالَ لَا يَأْتِيكُمَا طَعَامٌ تُرْزَقَانِهِ إِلَّا نَبَّأْتُكُمَا بِتَأْوِيلِهِ قَبْلَ أَنْ يَأْتِيَكُمَا ۚ ذَٰلِكُمَا مِمَّا عَلَّمَنِي رَبِّي ۚ إِنِّي تَرَكْتُ مِلَّةَ قَوْمٍ لَا يُؤْمِنُونَ بِاللَّهِ وَهُمْ بِالْآخِرَةِ هُمْ كَافِرُونَ",
+        "en_sahih": "English translation of [12:37] in Sahih International style.",
+        "en_yusufali": "English translation of [12:37] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:37] en español.",
+        "fr_hamidullah": "Traduction de [12:37] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:38",
+      "surahNumber": 12,
+      "ayahNumber": 38,
+      "text": {
+        "simple": "وَاتَّبَعْتُ مِلَّةَ آبَائِي إِبْرَاهِيمَ وَإِسْحَاقَ وَيَعْقُوبَ ۚ مَا كَانَ لَنَا أَنْ نُشْرِكَ بِاللَّهِ مِنْ شَيْءٍ ۚ ذَٰلِكَ مِنْ فَضْلِ اللَّهِ عَلَيْنَا وَعَلَى النَّاسِ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَشْكُرُونَ",
+        "en_sahih": "English translation of [12:38] in Sahih International style.",
+        "en_yusufali": "English translation of [12:38] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 38 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:38] en español.",
+        "fr_hamidullah": "Traduction de [12:38] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:39",
+      "surahNumber": 12,
+      "ayahNumber": 39,
+      "text": {
+        "simple": "يَا صَاحِبَيِ السِّجْنِ أَأَرْبَابٌ مُتَفَرِّقُونَ خَيْرٌ أَمِ اللَّهُ الْوَاحِدُ الْقَهَّارُ",
+        "en_sahih": "English translation of [12:39] in Sahih International style.",
+        "en_yusufali": "English translation of [12:39] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 39 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:39] en español.",
+        "fr_hamidullah": "Traduction de [12:39] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:40",
+      "surahNumber": 12,
+      "ayahNumber": 40,
+      "text": {
+        "simple": "مَا تَعْبُدُونَ مِنْ دُونِهِ إِلَّا أَسْمَاءً سَمَّيْتُمُوهَا أَنْتُمْ وَآبَاؤُكُمْ مَا أَنْزَلَ اللَّهُ بِهَا مِنْ سُلْطَانٍ ۚ إِنِ الْحُكْمُ إِلَّا لِلَّهِ ۚ أَمَرَ أَلَّا تَعْبُدُوا إِلَّا إِيَّاهُ ۚ ذَٰلِكَ الدِّينُ الْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+        "en_sahih": "English translation of [12:40] in Sahih International style.",
+        "en_yusufali": "English translation of [12:40] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 40 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:40] en español.",
+        "fr_hamidullah": "Traduction de [12:40] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:41",
+      "surahNumber": 12,
+      "ayahNumber": 41,
+      "text": {
+        "simple": "يَا صَاحِبَيِ السِّجْنِ أَمَّا أَحَدُكُمَا فَيَسْقِي رَبَّهُ خَمْرًا ۖ وَأَمَّا الْآخَرُ فَيُصْلَبُ فَتَأْكُلُ الطَّيْرُ مِنْ رَأْسِهِ ۚ قُضِيَ الْأَمْرُ الَّذِي فِيهِ تَسْتَفْتِيَانِ",
+        "en_sahih": "English translation of [12:41] in Sahih International style.",
+        "en_yusufali": "English translation of [12:41] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 41 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:41] en español.",
+        "fr_hamidullah": "Traduction de [12:41] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:42",
+      "surahNumber": 12,
+      "ayahNumber": 42,
+      "text": {
+        "simple": "وَقَالَ لِلَّذِي ظَنَّ أَنَّهُ نَاجٍ مِنْهُمَا اذْكُرْنِي عِنْدَ رَبِّكَ فَأَنْسَاهُ الشَّيْطَانُ ذِكْرَ رَبِّهِ فَلَبِثَ فِي السِّجْنِ بِضْعَ سِنِينَ",
+        "en_sahih": "English translation of [12:42] in Sahih International style.",
+        "en_yusufali": "English translation of [12:42] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 42 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:42] en español.",
+        "fr_hamidullah": "Traduction de [12:42] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:43",
+      "surahNumber": 12,
+      "ayahNumber": 43,
+      "text": {
+        "simple": "وَقَالَ الْمَلِكُ إِنِّي أَرَىٰ سَبْعَ بَقَرَاتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعَ سُنْبُلَاتٍ خُضْرٍ وَأُخَرَ يَابِسَاتٍ ۖ يَا أَيُّهَا الْمَلَأُ أَفْتُونِي فِي رُؤْيَايَ إِنْ كُنْتُمْ لِلرُّؤْيَا تَعْبُرُونَ",
+        "en_sahih": "English translation of [12:43] in Sahih International style.",
+        "en_yusufali": "English translation of [12:43] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 43 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:43] en español.",
+        "fr_hamidullah": "Traduction de [12:43] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:44",
+      "surahNumber": 12,
+      "ayahNumber": 44,
+      "text": {
+        "simple": "قَالُوا أَضْغَاثُ أَحْلَامٍ ۖ وَمَا نَحْنُ بِتَأْوِيلِ الْأَحْلَامِ بِعَالِمِينَ",
+        "en_sahih": "English translation of [12:44] in Sahih International style.",
+        "en_yusufali": "English translation of [12:44] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 44 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:44] en español.",
+        "fr_hamidullah": "Traduction de [12:44] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:45",
+      "surahNumber": 12,
+      "ayahNumber": 45,
+      "text": {
+        "simple": "وَقَالَ الَّذِي نَجَا مِنْهُمَا وَادَّكَرَ بَعْدَ أُمَّةٍ أَنَا أُنَبِّئُكُمْ بِتَأْوِيلِهِ فَأَرْسِلُونِ",
+        "en_sahih": "English translation of [12:45] in Sahih International style.",
+        "en_yusufali": "English translation of [12:45] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 45 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:45] en español.",
+        "fr_hamidullah": "Traduction de [12:45] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:46",
+      "surahNumber": 12,
+      "ayahNumber": 46,
+      "text": {
+        "simple": "يُوسُفُ أَيُّهَا الصِّدِّيقُ أَفْتِنَا فِي سَبْعِ بَقَرَاتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعِ سُنْبُلَاتٍ خُضْرٍ وَأُخَرَ يَابِسَاتٍ لَعَلِّي أَرْجِعُ إِلَى النَّاسِ لَعَلَّهُمْ يَعْلَمُونَ",
+        "en_sahih": "English translation of [12:46] in Sahih International style.",
+        "en_yusufali": "English translation of [12:46] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 46 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:46] en español.",
+        "fr_hamidullah": "Traduction de [12:46] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:47",
+      "surahNumber": 12,
+      "ayahNumber": 47,
+      "text": {
+        "simple": "قَالَ تَزْرَعُونَ سَبْعَ سِنِينَ دَأَبًا فَمَا حَصَدْتُمْ فَذَرُوهُ فِي سُنْبُلِهِ إِلَّا قَلِيلًا مِمَّا تَأْكُلُونَ",
+        "en_sahih": "English translation of [12:47] in Sahih International style.",
+        "en_yusufali": "English translation of [12:47] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 47 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:47] en español.",
+        "fr_hamidullah": "Traduction de [12:47] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:48",
+      "surahNumber": 12,
+      "ayahNumber": 48,
+      "text": {
+        "simple": "ثُمَّ يَأْتِي مِنْ بَعْدِ ذَٰلِكَ سَبْعٌ شِدَادٌ يَأْكُلْنَ مَا قَدَّمْتُمْ لَهُنَّ إِلَّا قَلِيلًا مِمَّا تُحْصِنُونَ",
+        "en_sahih": "English translation of [12:48] in Sahih International style.",
+        "en_yusufali": "English translation of [12:48] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 48 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:48] en español.",
+        "fr_hamidullah": "Traduction de [12:48] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:49",
+      "surahNumber": 12,
+      "ayahNumber": 49,
+      "text": {
+        "simple": "ثُمَّ يَأْتِي مِنْ بَعْدِ ذَٰلِكَ عَامٌ فِيهِ يُغَاثُ النَّاسُ وَفِيهِ يَعْصِرُونَ",
+        "en_sahih": "English translation of [12:49] in Sahih International style.",
+        "en_yusufali": "English translation of [12:49] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 49 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:49] en español.",
+        "fr_hamidullah": "Traduction de [12:49] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:50",
+      "surahNumber": 12,
+      "ayahNumber": 50,
+      "text": {
+        "simple": "وَقَالَ الْمَلِكُ ائْتُونِي بِهِ ۖ فَلَمَّا جَاءَهُ الرَّسُولُ قَالَ ارْجِعْ إِلَىٰ رَبِّكَ فَاسْأَلْهُ مَا بَالُ النِّسْوَةِ اللَّاتِي قَطَّعْنَ أَيْدِيَهُنَّ ۚ إِنَّ رَبِّي بِكَيْدِهِنَّ عَلِيمٌ",
+        "en_sahih": "English translation of [12:50] in Sahih International style.",
+        "en_yusufali": "English translation of [12:50] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 50 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:50] en español.",
+        "fr_hamidullah": "Traduction de [12:50] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:51",
+      "surahNumber": 12,
+      "ayahNumber": 51,
+      "text": {
+        "simple": "قَالَ مَا خَطْبُكُنَّ إِذْ رَاوَدْتُنَّ يُوسُفَ عَنْ نَفْسِهِ ۚ قُلْنَ حَاشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِنْ سُوءٍ ۚ قَالَتِ امْرَأَتُ الْعَزِيزِ الْآنَ حَصْحَصَ الْحَقُّ أَنَا رَاوَدْتُهُ عَنْ نَفْسِهِ وَإِنَّهُ لَمِنَ الصَّادِقِينَ",
+        "en_sahih": "English translation of [12:51] in Sahih International style.",
+        "en_yusufali": "English translation of [12:51] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 51 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:51] en español.",
+        "fr_hamidullah": "Traduction de [12:51] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:52",
+      "surahNumber": 12,
+      "ayahNumber": 52,
+      "text": {
+        "simple": "ذَٰلِكَ لِيَعْلَمَ أَنِّي لَمْ أَخُنْهُ بِالْغَيْبِ وَأَنَّ اللَّهَ لَا يَهْدِي كَيْدَ الْخَائِنِينَ",
+        "en_sahih": "English translation of [12:52] in Sahih International style.",
+        "en_yusufali": "English translation of [12:52] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 52 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:52] en español.",
+        "fr_hamidullah": "Traduction de [12:52] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:53",
+      "surahNumber": 12,
+      "ayahNumber": 53,
+      "text": {
+        "simple": "۞ وَمَا أُبَرِّئُ نَفْسِي ۚ إِنَّ النَّفْسَ لَأَمَّارَةٌ بِالسُّوءِ إِلَّا مَا رَحِمَ رَبِّي ۚ إِنَّ رَبِّي غَفُورٌ رَحِيمٌ",
+        "en_sahih": "English translation of [12:53] in Sahih International style.",
+        "en_yusufali": "English translation of [12:53] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 53 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:53] en español.",
+        "fr_hamidullah": "Traduction de [12:53] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 53 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:54",
+      "surahNumber": 12,
+      "ayahNumber": 54,
+      "text": {
+        "simple": "وَقَالَ الْمَلِكُ ائْتُونِي بِهِ أَسْتَخْلِصْهُ لِنَفْسِي ۖ فَلَمَّا كَلَّمَهُ قَالَ إِنَّكَ الْيَوْمَ لَدَيْنَا مَكِينٌ أَمِينٌ",
+        "en_sahih": "English translation of [12:54] in Sahih International style.",
+        "en_yusufali": "English translation of [12:54] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 54 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:54] en español.",
+        "fr_hamidullah": "Traduction de [12:54] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 54 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:55",
+      "surahNumber": 12,
+      "ayahNumber": 55,
+      "text": {
+        "simple": "قَالَ اجْعَلْنِي عَلَىٰ خَزَائِنِ الْأَرْضِ ۖ إِنِّي حَفِيظٌ عَلِيمٌ",
+        "en_sahih": "English translation of [12:55] in Sahih International style.",
+        "en_yusufali": "English translation of [12:55] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 55 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:55] en español.",
+        "fr_hamidullah": "Traduction de [12:55] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 55 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:56",
+      "surahNumber": 12,
+      "ayahNumber": 56,
+      "text": {
+        "simple": "وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِي الْأَرْضِ يَتَبَوَّأُ مِنْهَا حَيْثُ يَشَاءُ ۚ نُصِيبُ بِرَحْمَتِنَا مَنْ نَشَاءُ ۖ وَلَا نُضِيعُ أَجْرَ الْمُحْسِنِينَ",
+        "en_sahih": "English translation of [12:56] in Sahih International style.",
+        "en_yusufali": "English translation of [12:56] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 56 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:56] en español.",
+        "fr_hamidullah": "Traduction de [12:56] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 56 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:57",
+      "surahNumber": 12,
+      "ayahNumber": 57,
+      "text": {
+        "simple": "وَلَأَجْرُ الْآخِرَةِ خَيْرٌ لِلَّذِينَ آمَنُوا وَكَانُوا يَتَّقُونَ",
+        "en_sahih": "English translation of [12:57] in Sahih International style.",
+        "en_yusufali": "English translation of [12:57] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 57 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:57] en español.",
+        "fr_hamidullah": "Traduction de [12:57] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 57 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:58",
+      "surahNumber": 12,
+      "ayahNumber": 58,
+      "text": {
+        "simple": "وَجَاءَ إِخْوَةُ يُوسُفَ فَدَخَلُوا عَلَيْهِ فَعَرَفَهُمْ وَهُمْ لَهُ مُنْكِرُونَ",
+        "en_sahih": "English translation of [12:58] in Sahih International style.",
+        "en_yusufali": "English translation of [12:58] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 58 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:58] en español.",
+        "fr_hamidullah": "Traduction de [12:58] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 58 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:59",
+      "surahNumber": 12,
+      "ayahNumber": 59,
+      "text": {
+        "simple": "وَلَمَّا جَهَّزَهُمْ بِجَهَازِهِمْ قَالَ ائْتُونِي بِأَخٍ لَكُمْ مِنْ أَبِيكُمْ ۚ أَلَا تَرَوْنَ أَنِّي أُوفِي الْكَيْلَ وَأَنَا خَيْرُ الْمُنْزِلِينَ",
+        "en_sahih": "English translation of [12:59] in Sahih International style.",
+        "en_yusufali": "English translation of [12:59] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 59 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:59] en español.",
+        "fr_hamidullah": "Traduction de [12:59] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 59 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:60",
+      "surahNumber": 12,
+      "ayahNumber": 60,
+      "text": {
+        "simple": "فَإِنْ لَمْ تَأْتُونِي بِهِ فَلَا كَيْلَ لَكُمْ عِنْدِي وَلَا تَقْرَبُونِ",
+        "en_sahih": "English translation of [12:60] in Sahih International style.",
+        "en_yusufali": "English translation of [12:60] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 60 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:60] en español.",
+        "fr_hamidullah": "Traduction de [12:60] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 60 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:61",
+      "surahNumber": 12,
+      "ayahNumber": 61,
+      "text": {
+        "simple": "قَالُوا سَنُرَاوِدُ عَنْهُ أَبَاهُ وَإِنَّا لَفَاعِلُونَ",
+        "en_sahih": "English translation of [12:61] in Sahih International style.",
+        "en_yusufali": "English translation of [12:61] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 61 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:61] en español.",
+        "fr_hamidullah": "Traduction de [12:61] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 61 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:62",
+      "surahNumber": 12,
+      "ayahNumber": 62,
+      "text": {
+        "simple": "وَقَالَ لِفِتْيَانِهِ اجْعَلُوا بِضَاعَتَهُمْ فِي رِحَالِهِمْ لَعَلَّهُمْ يَعْرِفُونَهَا إِذَا انْقَلَبُوا إِلَىٰ أَهْلِهِمْ لَعَلَّهُمْ يَرْجِعُونَ",
+        "en_sahih": "English translation of [12:62] in Sahih International style.",
+        "en_yusufali": "English translation of [12:62] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 62 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:62] en español.",
+        "fr_hamidullah": "Traduction de [12:62] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 62 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:63",
+      "surahNumber": 12,
+      "ayahNumber": 63,
+      "text": {
+        "simple": "فَلَمَّا رَجَعُوا إِلَىٰ أَبِيهِمْ قَالُوا يَا أَبَانَا مُنِعَ مِنَّا الْكَيْلُ فَأَرْسِلْ مَعَنَا أَخَانَا نَكْتَلْ وَإِنَّا لَهُ لَحَافِظُونَ",
+        "en_sahih": "English translation of [12:63] in Sahih International style.",
+        "en_yusufali": "English translation of [12:63] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 63 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:63] en español.",
+        "fr_hamidullah": "Traduction de [12:63] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 63 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:64",
+      "surahNumber": 12,
+      "ayahNumber": 64,
+      "text": {
+        "simple": "قَالَ هَلْ آمَنُكُمْ عَلَيْهِ إِلَّا كَمَا أَمِنْتُكُمْ عَلَىٰ أَخِيهِ مِنْ قَبْلُ ۖ فَاللَّهُ خَيْرٌ حَافِظًا ۖ وَهُوَ أَرْحَمُ الرَّاحِمِينَ",
+        "en_sahih": "English translation of [12:64] in Sahih International style.",
+        "en_yusufali": "English translation of [12:64] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 64 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:64] en español.",
+        "fr_hamidullah": "Traduction de [12:64] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 64 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:65",
+      "surahNumber": 12,
+      "ayahNumber": 65,
+      "text": {
+        "simple": "وَلَمَّا فَتَحُوا مَتَاعَهُمْ وَجَدُوا بِضَاعَتَهُمْ رُدَّتْ إِلَيْهِمْ ۖ قَالُوا يَا أَبَانَا مَا نَبْغِي ۖ هَٰذِهِ بِضَاعَتُنَا رُدَّتْ إِلَيْنَا ۖ وَنَمِيرُ أَهْلَنَا وَنَحْفَظُ أَخَانَا وَنَزْدَادُ كَيْلَ بَعِيرٍ ۖ ذَٰلِكَ كَيْلٌ يَسِيرٌ",
+        "en_sahih": "English translation of [12:65] in Sahih International style.",
+        "en_yusufali": "English translation of [12:65] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 65 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:65] en español.",
+        "fr_hamidullah": "Traduction de [12:65] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 65 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:66",
+      "surahNumber": 12,
+      "ayahNumber": 66,
+      "text": {
+        "simple": "قَالَ لَنْ أُرْسِلَهُ مَعَكُمْ حَتَّىٰ تُؤْتُونِ مَوْثِقًا مِنَ اللَّهِ لَتَأْتُنَّنِي بِهِ إِلَّا أَنْ يُحَاطَ بِكُمْ ۖ فَلَمَّا آتَوْهُ مَوْثِقَهُمْ قَالَ اللَّهُ عَلَىٰ مَا نَقُولُ وَكِيلٌ",
+        "en_sahih": "English translation of [12:66] in Sahih International style.",
+        "en_yusufali": "English translation of [12:66] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 66 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:66] en español.",
+        "fr_hamidullah": "Traduction de [12:66] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 66 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:67",
+      "surahNumber": 12,
+      "ayahNumber": 67,
+      "text": {
+        "simple": "وَقَالَ يَا بَنِيَّ لَا تَدْخُلُوا مِنْ بَابٍ وَاحِدٍ وَادْخُلُوا مِنْ أَبْوَابٍ مُتَفَرِّقَةٍ ۖ وَمَا أُغْنِي عَنْكُمْ مِنَ اللَّهِ مِنْ شَيْءٍ ۖ إِنِ الْحُكْمُ إِلَّا لِلَّهِ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَعَلَيْهِ فَلْيَتَوَكَّلِ الْمُتَوَكِّلُونَ",
+        "en_sahih": "English translation of [12:67] in Sahih International style.",
+        "en_yusufali": "English translation of [12:67] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 67 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:67] en español.",
+        "fr_hamidullah": "Traduction de [12:67] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 67 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:68",
+      "surahNumber": 12,
+      "ayahNumber": 68,
+      "text": {
+        "simple": "وَلَمَّا دَخَلُوا مِنْ حَيْثُ أَمَرَهُمْ أَبُوهُمْ مَا كَانَ يُغْنِي عَنْهُمْ مِنَ اللَّهِ مِنْ شَيْءٍ إِلَّا حَاجَةً فِي نَفْسِ يَعْقُوبَ قَضَاهَا ۚ وَإِنَّهُ لَذُو عِلْمٍ لِمَا عَلَّمْنَاهُ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+        "en_sahih": "English translation of [12:68] in Sahih International style.",
+        "en_yusufali": "English translation of [12:68] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 68 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:68] en español.",
+        "fr_hamidullah": "Traduction de [12:68] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 68 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:69",
+      "surahNumber": 12,
+      "ayahNumber": 69,
+      "text": {
+        "simple": "وَلَمَّا دَخَلُوا عَلَىٰ يُوسُفَ آوَىٰ إِلَيْهِ أَخَاهُ ۖ قَالَ إِنِّي أَنَا أَخُوكَ فَلَا تَبْتَئِسْ بِمَا كَانُوا يَعْمَلُونَ",
+        "en_sahih": "English translation of [12:69] in Sahih International style.",
+        "en_yusufali": "English translation of [12:69] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 69 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:69] en español.",
+        "fr_hamidullah": "Traduction de [12:69] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 69 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:70",
+      "surahNumber": 12,
+      "ayahNumber": 70,
+      "text": {
+        "simple": "فَلَمَّا جَهَّزَهُمْ بِجَهَازِهِمْ جَعَلَ السِّقَايَةَ فِي رَحْلِ أَخِيهِ ثُمَّ أَذَّنَ مُؤَذِّنٌ أَيَّتُهَا الْعِيرُ إِنَّكُمْ لَسَارِقُونَ",
+        "en_sahih": "English translation of [12:70] in Sahih International style.",
+        "en_yusufali": "English translation of [12:70] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 70 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:70] en español.",
+        "fr_hamidullah": "Traduction de [12:70] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 70 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:71",
+      "surahNumber": 12,
+      "ayahNumber": 71,
+      "text": {
+        "simple": "قَالُوا وَأَقْبَلُوا عَلَيْهِمْ مَاذَا تَفْقِدُونَ",
+        "en_sahih": "English translation of [12:71] in Sahih International style.",
+        "en_yusufali": "English translation of [12:71] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 71 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:71] en español.",
+        "fr_hamidullah": "Traduction de [12:71] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 71 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:72",
+      "surahNumber": 12,
+      "ayahNumber": 72,
+      "text": {
+        "simple": "قَالُوا نَفْقِدُ صُوَاعَ الْمَلِكِ وَلِمَنْ جَاءَ بِهِ حِمْلُ بَعِيرٍ وَأَنَا بِهِ زَعِيمٌ",
+        "en_sahih": "English translation of [12:72] in Sahih International style.",
+        "en_yusufali": "English translation of [12:72] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 72 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:72] en español.",
+        "fr_hamidullah": "Traduction de [12:72] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 72 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:73",
+      "surahNumber": 12,
+      "ayahNumber": 73,
+      "text": {
+        "simple": "قَالُوا تَاللَّهِ لَقَدْ عَلِمْتُمْ مَا جِئْنَا لِنُفْسِدَ فِي الْأَرْضِ وَمَا كُنَّا سَارِقِينَ",
+        "en_sahih": "English translation of [12:73] in Sahih International style.",
+        "en_yusufali": "English translation of [12:73] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 73 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:73] en español.",
+        "fr_hamidullah": "Traduction de [12:73] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 73 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:74",
+      "surahNumber": 12,
+      "ayahNumber": 74,
+      "text": {
+        "simple": "قَالُوا فَمَا جَزَاؤُهُ إِنْ كُنْتُمْ كَاذِبِينَ",
+        "en_sahih": "English translation of [12:74] in Sahih International style.",
+        "en_yusufali": "English translation of [12:74] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 74 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:74] en español.",
+        "fr_hamidullah": "Traduction de [12:74] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 74 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:75",
+      "surahNumber": 12,
+      "ayahNumber": 75,
+      "text": {
+        "simple": "قَالُوا جَزَاؤُهُ مَنْ وُجِدَ فِي رَحْلِهِ فَهُوَ جَزَاؤُهُ ۚ كَذَٰلِكَ نَجْزِي الظَّالِمِينَ",
+        "en_sahih": "English translation of [12:75] in Sahih International style.",
+        "en_yusufali": "English translation of [12:75] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 75 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:75] en español.",
+        "fr_hamidullah": "Traduction de [12:75] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 75 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:76",
+      "surahNumber": 12,
+      "ayahNumber": 76,
+      "text": {
+        "simple": "فَبَدَأَ بِأَوْعِيَتِهِمْ قَبْلَ وِعَاءِ أَخِيهِ ثُمَّ اسْتَخْرَجَهَا مِنْ وِعَاءِ أَخِيهِ ۚ كَذَٰلِكَ كِدْنَا لِيُوسُفَ ۖ مَا كَانَ لِيَأْخُذَ أَخَاهُ فِي دِينِ الْمَلِكِ إِلَّا أَنْ يَشَاءَ اللَّهُ ۚ نَرْفَعُ دَرَجَاتٍ مَنْ نَشَاءُ ۗ وَفَوْقَ كُلِّ ذِي عِلْمٍ عَلِيمٌ",
+        "en_sahih": "English translation of [12:76] in Sahih International style.",
+        "en_yusufali": "English translation of [12:76] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 76 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:76] en español.",
+        "fr_hamidullah": "Traduction de [12:76] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 76 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:77",
+      "surahNumber": 12,
+      "ayahNumber": 77,
+      "text": {
+        "simple": "۞ قَالُوا إِنْ يَسْرِقْ فَقَدْ سَرَقَ أَخٌ لَهُ مِنْ قَبْلُ ۚ فَأَسَرَّهَا يُوسُفُ فِي نَفْسِهِ وَلَمْ يُبْدِهَا لَهُمْ ۚ قَالَ أَنْتُمْ شَرٌّ مَكَانًا ۖ وَاللَّهُ أَعْلَمُ بِمَا تَصِفُونَ",
+        "en_sahih": "English translation of [12:77] in Sahih International style.",
+        "en_yusufali": "English translation of [12:77] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 77 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:77] en español.",
+        "fr_hamidullah": "Traduction de [12:77] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 77 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:78",
+      "surahNumber": 12,
+      "ayahNumber": 78,
+      "text": {
+        "simple": "قَالُوا يَا أَيُّهَا الْعَزِيزُ إِنَّ لَهُ أَبًا شَيْخًا كَبِيرًا فَخُذْ أَحَدَنَا مَكَانَهُ ۖ إِنَّا نَرَاكَ مِنَ الْمُحْسِنِينَ",
+        "en_sahih": "English translation of [12:78] in Sahih International style.",
+        "en_yusufali": "English translation of [12:78] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 78 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:78] en español.",
+        "fr_hamidullah": "Traduction de [12:78] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 78 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:79",
+      "surahNumber": 12,
+      "ayahNumber": 79,
+      "text": {
+        "simple": "قَالَ مَعَاذَ اللَّهِ أَنْ نَأْخُذَ إِلَّا مَنْ وَجَدْنَا مَتَاعَنَا عِنْدَهُ إِنَّا إِذًا لَظَالِمُونَ",
+        "en_sahih": "English translation of [12:79] in Sahih International style.",
+        "en_yusufali": "English translation of [12:79] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 79 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:79] en español.",
+        "fr_hamidullah": "Traduction de [12:79] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 79 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:80",
+      "surahNumber": 12,
+      "ayahNumber": 80,
+      "text": {
+        "simple": "فَلَمَّا اسْتَيْأَسُوا مِنْهُ خَلَصُوا نَجِيًّا ۖ قَالَ كَبِيرُهُمْ أَلَمْ تَعْلَمُوا أَنَّ أَبَاكُمْ قَدْ أَخَذَ عَلَيْكُمْ مَوْثِقًا مِنَ اللَّهِ وَمِنْ قَبْلُ مَا فَرَّطْتُمْ فِي يُوسُفَ ۖ فَلَنْ أَبْرَحَ الْأَرْضَ حَتَّىٰ يَأْذَنَ لِي أَبِي أَوْ يَحْكُمَ اللَّهُ لِي ۖ وَهُوَ خَيْرُ الْحَاكِمِينَ",
+        "en_sahih": "English translation of [12:80] in Sahih International style.",
+        "en_yusufali": "English translation of [12:80] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 80 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:80] en español.",
+        "fr_hamidullah": "Traduction de [12:80] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 80 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:81",
+      "surahNumber": 12,
+      "ayahNumber": 81,
+      "text": {
+        "simple": "ارْجِعُوا إِلَىٰ أَبِيكُمْ فَقُولُوا يَا أَبَانَا إِنَّ ابْنَكَ سَرَقَ وَمَا شَهِدْنَا إِلَّا بِمَا عَلِمْنَا وَمَا كُنَّا لِلْغَيْبِ حَافِظِينَ",
+        "en_sahih": "English translation of [12:81] in Sahih International style.",
+        "en_yusufali": "English translation of [12:81] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 81 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:81] en español.",
+        "fr_hamidullah": "Traduction de [12:81] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 81 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:82",
+      "surahNumber": 12,
+      "ayahNumber": 82,
+      "text": {
+        "simple": "وَاسْأَلِ الْقَرْيَةَ الَّتِي كُنَّا فِيهَا وَالْعِيرَ الَّتِي أَقْبَلْنَا فِيهَا ۖ وَإِنَّا لَصَادِقُونَ",
+        "en_sahih": "English translation of [12:82] in Sahih International style.",
+        "en_yusufali": "English translation of [12:82] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 82 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:82] en español.",
+        "fr_hamidullah": "Traduction de [12:82] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 82 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:83",
+      "surahNumber": 12,
+      "ayahNumber": 83,
+      "text": {
+        "simple": "قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنْفُسُكُمْ أَمْرًا ۖ فَصَبْرٌ جَمِيلٌ ۖ عَسَى اللَّهُ أَنْ يَأْتِيَنِي بِهِمْ جَمِيعًا ۚ إِنَّهُ هُوَ الْعَلِيمُ الْحَكِيمُ",
+        "en_sahih": "English translation of [12:83] in Sahih International style.",
+        "en_yusufali": "English translation of [12:83] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 83 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:83] en español.",
+        "fr_hamidullah": "Traduction de [12:83] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 83 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:84",
+      "surahNumber": 12,
+      "ayahNumber": 84,
+      "text": {
+        "simple": "وَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَا أَسَفَىٰ عَلَىٰ يُوسُفَ وَابْيَضَّتْ عَيْنَاهُ مِنَ الْحُزْنِ فَهُوَ كَظِيمٌ",
+        "en_sahih": "English translation of [12:84] in Sahih International style.",
+        "en_yusufali": "English translation of [12:84] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 84 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:84] en español.",
+        "fr_hamidullah": "Traduction de [12:84] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 84 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:85",
+      "surahNumber": 12,
+      "ayahNumber": 85,
+      "text": {
+        "simple": "قَالُوا تَاللَّهِ تَفْتَأُ تَذْكُرُ يُوسُفَ حَتَّىٰ تَكُونَ حَرَضًا أَوْ تَكُونَ مِنَ الْهَالِكِينَ",
+        "en_sahih": "English translation of [12:85] in Sahih International style.",
+        "en_yusufali": "English translation of [12:85] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 85 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:85] en español.",
+        "fr_hamidullah": "Traduction de [12:85] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 85 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:86",
+      "surahNumber": 12,
+      "ayahNumber": 86,
+      "text": {
+        "simple": "قَالَ إِنَّمَا أَشْكُو بَثِّي وَحُزْنِي إِلَى اللَّهِ وَأَعْلَمُ مِنَ اللَّهِ مَا لَا تَعْلَمُونَ",
+        "en_sahih": "English translation of [12:86] in Sahih International style.",
+        "en_yusufali": "English translation of [12:86] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 86 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:86] en español.",
+        "fr_hamidullah": "Traduction de [12:86] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 86 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:87",
+      "surahNumber": 12,
+      "ayahNumber": 87,
+      "text": {
+        "simple": "يَا بَنِيَّ اذْهَبُوا فَتَحَسَّسُوا مِنْ يُوسُفَ وَأَخِيهِ وَلَا تَيْأَسُوا مِنْ رَوْحِ اللَّهِ ۖ إِنَّهُ لَا يَيْأَسُ مِنْ رَوْحِ اللَّهِ إِلَّا الْقَوْمُ الْكَافِرُونَ",
+        "en_sahih": "English translation of [12:87] in Sahih International style.",
+        "en_yusufali": "English translation of [12:87] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 87 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:87] en español.",
+        "fr_hamidullah": "Traduction de [12:87] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 87 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:88",
+      "surahNumber": 12,
+      "ayahNumber": 88,
+      "text": {
+        "simple": "فَلَمَّا دَخَلُوا عَلَيْهِ قَالُوا يَا أَيُّهَا الْعَزِيزُ مَسَّنَا وَأَهْلَنَا الضُّرُّ وَجِئْنَا بِبِضَاعَةٍ مُزْجَاةٍ فَأَوْفِ لَنَا الْكَيْلَ وَتَصَدَّقْ عَلَيْنَا ۖ إِنَّ اللَّهَ يَجْزِي الْمُتَصَدِّقِينَ",
+        "en_sahih": "English translation of [12:88] in Sahih International style.",
+        "en_yusufali": "English translation of [12:88] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 88 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:88] en español.",
+        "fr_hamidullah": "Traduction de [12:88] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 88 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:89",
+      "surahNumber": 12,
+      "ayahNumber": 89,
+      "text": {
+        "simple": "قَالَ هَلْ عَلِمْتُمْ مَا فَعَلْتُمْ بِيُوسُفَ وَأَخِيهِ إِذْ أَنْتُمْ جَاهِلُونَ",
+        "en_sahih": "English translation of [12:89] in Sahih International style.",
+        "en_yusufali": "English translation of [12:89] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 89 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:89] en español.",
+        "fr_hamidullah": "Traduction de [12:89] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 89 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:90",
+      "surahNumber": 12,
+      "ayahNumber": 90,
+      "text": {
+        "simple": "قَالُوا أَإِنَّكَ لَأَنْتَ يُوسُفُ ۖ قَالَ أَنَا يُوسُفُ وَهَٰذَا أَخِي ۖ قَدْ مَنَّ اللَّهُ عَلَيْنَا ۖ إِنَّهُ مَنْ يَتَّقِ وَيَصْبِرْ فَإِنَّ اللَّهَ لَا يُضِيعُ أَجْرَ الْمُحْسِنِينَ",
+        "en_sahih": "English translation of [12:90] in Sahih International style.",
+        "en_yusufali": "English translation of [12:90] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 90 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:90] en español.",
+        "fr_hamidullah": "Traduction de [12:90] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 90 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:91",
+      "surahNumber": 12,
+      "ayahNumber": 91,
+      "text": {
+        "simple": "قَالُوا تَاللَّهِ لَقَدْ آثَرَكَ اللَّهُ عَلَيْنَا وَإِنْ كُنَّا لَخَاطِئِينَ",
+        "en_sahih": "English translation of [12:91] in Sahih International style.",
+        "en_yusufali": "English translation of [12:91] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 91 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:91] en español.",
+        "fr_hamidullah": "Traduction de [12:91] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 91 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:92",
+      "surahNumber": 12,
+      "ayahNumber": 92,
+      "text": {
+        "simple": "قَالَ لَا تَثْرِيبَ عَلَيْكُمُ الْيَوْمَ ۖ يَغْفِرُ اللَّهُ لَكُمْ ۖ وَهُوَ أَرْحَمُ الرَّاحِمِينَ",
+        "en_sahih": "English translation of [12:92] in Sahih International style.",
+        "en_yusufali": "English translation of [12:92] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 92 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:92] en español.",
+        "fr_hamidullah": "Traduction de [12:92] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 92 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:93",
+      "surahNumber": 12,
+      "ayahNumber": 93,
+      "text": {
+        "simple": "اذْهَبُوا بِقَمِيصِي هَٰذَا فَأَلْقُوهُ عَلَىٰ وَجْهِ أَبِي يَأْتِ بَصِيرًا وَأْتُونِي بِأَهْلِكُمْ أَجْمَعِينَ",
+        "en_sahih": "English translation of [12:93] in Sahih International style.",
+        "en_yusufali": "English translation of [12:93] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 93 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:93] en español.",
+        "fr_hamidullah": "Traduction de [12:93] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 93 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:94",
+      "surahNumber": 12,
+      "ayahNumber": 94,
+      "text": {
+        "simple": "وَلَمَّا فَصَلَتِ الْعِيرُ قَالَ أَبُوهُمْ إِنِّي لَأَجِدُ رِيحَ يُوسُفَ ۖ لَوْلَا أَنْ تُفَنِّدُونِ",
+        "en_sahih": "English translation of [12:94] in Sahih International style.",
+        "en_yusufali": "English translation of [12:94] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 94 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:94] en español.",
+        "fr_hamidullah": "Traduction de [12:94] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 94 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:95",
+      "surahNumber": 12,
+      "ayahNumber": 95,
+      "text": {
+        "simple": "قَالُوا تَاللَّهِ إِنَّكَ لَفِي ضَلَالِكَ الْقَدِيمِ",
+        "en_sahih": "English translation of [12:95] in Sahih International style.",
+        "en_yusufali": "English translation of [12:95] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 95 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:95] en español.",
+        "fr_hamidullah": "Traduction de [12:95] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 95 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:96",
+      "surahNumber": 12,
+      "ayahNumber": 96,
+      "text": {
+        "simple": "فَلَمَّا أَنْ جَاءَ الْبَشِيرُ أَلْقَاهُ عَلَىٰ وَجْهِهِ فَارْتَدَّ بَصِيرًا ۖ قَالَ أَلَمْ أَقُلْ لَكُمْ إِنِّي أَعْلَمُ مِنَ اللَّهِ مَا لَا تَعْلَمُونَ",
+        "en_sahih": "English translation of [12:96] in Sahih International style.",
+        "en_yusufali": "English translation of [12:96] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 96 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:96] en español.",
+        "fr_hamidullah": "Traduction de [12:96] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 96 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:97",
+      "surahNumber": 12,
+      "ayahNumber": 97,
+      "text": {
+        "simple": "قَالُوا يَا أَبَانَا اسْتَغْفِرْ لَنَا ذُنُوبَنَا إِنَّا كُنَّا خَاطِئِينَ",
+        "en_sahih": "English translation of [12:97] in Sahih International style.",
+        "en_yusufali": "English translation of [12:97] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 97 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:97] en español.",
+        "fr_hamidullah": "Traduction de [12:97] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 97 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:98",
+      "surahNumber": 12,
+      "ayahNumber": 98,
+      "text": {
+        "simple": "قَالَ سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبِّي ۖ إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ",
+        "en_sahih": "English translation of [12:98] in Sahih International style.",
+        "en_yusufali": "English translation of [12:98] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 98 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:98] en español.",
+        "fr_hamidullah": "Traduction de [12:98] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 98 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:99",
+      "surahNumber": 12,
+      "ayahNumber": 99,
+      "text": {
+        "simple": "فَلَمَّا دَخَلُوا عَلَىٰ يُوسُفَ آوَىٰ إِلَيْهِ أَبَوَيْهِ وَقَالَ ادْخُلُوا مِصْرَ إِنْ شَاءَ اللَّهُ آمِنِينَ",
+        "en_sahih": "English translation of [12:99] in Sahih International style.",
+        "en_yusufali": "English translation of [12:99] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 99 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:99] en español.",
+        "fr_hamidullah": "Traduction de [12:99] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 99 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:100",
+      "surahNumber": 12,
+      "ayahNumber": 100,
+      "text": {
+        "simple": "وَرَفَعَ أَبَوَيْهِ عَلَى الْعَرْشِ وَخَرُّوا لَهُ سُجَّدًا ۖ وَقَالَ يَا أَبَتِ هَٰذَا تَأْوِيلُ رُؤْيَايَ مِنْ قَبْلُ قَدْ جَعَلَهَا رَبِّي حَقًّا ۖ وَقَدْ أَحْسَنَ بِي إِذْ أَخْرَجَنِي مِنَ السِّجْنِ وَجَاءَ بِكُمْ مِنَ الْبَدْوِ مِنْ بَعْدِ أَنْ نَزَغَ الشَّيْطَانُ بَيْنِي وَبَيْنَ إِخْوَتِي ۚ إِنَّ رَبِّي لَطِيفٌ لِمَا يَشَاءُ ۚ إِنَّهُ هُوَ الْعَلِيمُ الْحَكِيمُ",
+        "en_sahih": "English translation of [12:100] in Sahih International style.",
+        "en_yusufali": "English translation of [12:100] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 100 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:100] en español.",
+        "fr_hamidullah": "Traduction de [12:100] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 100 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:101",
+      "surahNumber": 12,
+      "ayahNumber": 101,
+      "text": {
+        "simple": "۞ رَبِّ قَدْ آتَيْتَنِي مِنَ الْمُلْكِ وَعَلَّمْتَنِي مِنْ تَأْوِيلِ الْأَحَادِيثِ ۚ فَاطِرَ السَّمَاوَاتِ وَالْأَرْضِ أَنْتَ وَلِيِّي فِي الدُّنْيَا وَالْآخِرَةِ ۖ تَوَفَّنِي مُسْلِمًا وَأَلْحِقْنِي بِالصَّالِحِينَ",
+        "en_sahih": "English translation of [12:101] in Sahih International style.",
+        "en_yusufali": "English translation of [12:101] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 101 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:101] en español.",
+        "fr_hamidullah": "Traduction de [12:101] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 101 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:102",
+      "surahNumber": 12,
+      "ayahNumber": 102,
+      "text": {
+        "simple": "ذَٰلِكَ مِنْ أَنْبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ ۖ وَمَا كُنْتَ لَدَيْهِمْ إِذْ أَجْمَعُوا أَمْرَهُمْ وَهُمْ يَمْكُرُونَ",
+        "en_sahih": "English translation of [12:102] in Sahih International style.",
+        "en_yusufali": "English translation of [12:102] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 102 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:102] en español.",
+        "fr_hamidullah": "Traduction de [12:102] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 102 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:103",
+      "surahNumber": 12,
+      "ayahNumber": 103,
+      "text": {
+        "simple": "وَمَا أَكْثَرُ النَّاسِ وَلَوْ حَرَصْتَ بِمُؤْمِنِينَ",
+        "en_sahih": "English translation of [12:103] in Sahih International style.",
+        "en_yusufali": "English translation of [12:103] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 103 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:103] en español.",
+        "fr_hamidullah": "Traduction de [12:103] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 103 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:104",
+      "surahNumber": 12,
+      "ayahNumber": 104,
+      "text": {
+        "simple": "وَمَا تَسْأَلُهُمْ عَلَيْهِ مِنْ أَجْرٍ ۚ إِنْ هُوَ إِلَّا ذِكْرٌ لِلْعَالَمِينَ",
+        "en_sahih": "English translation of [12:104] in Sahih International style.",
+        "en_yusufali": "English translation of [12:104] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 104 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:104] en español.",
+        "fr_hamidullah": "Traduction de [12:104] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 104 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:105",
+      "surahNumber": 12,
+      "ayahNumber": 105,
+      "text": {
+        "simple": "وَكَأَيِّنْ مِنْ آيَةٍ فِي السَّمَاوَاتِ وَالْأَرْضِ يَمُرُّونَ عَلَيْهَا وَهُمْ عَنْهَا مُعْرِضُونَ",
+        "en_sahih": "English translation of [12:105] in Sahih International style.",
+        "en_yusufali": "English translation of [12:105] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 105 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:105] en español.",
+        "fr_hamidullah": "Traduction de [12:105] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 105 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:106",
+      "surahNumber": 12,
+      "ayahNumber": 106,
+      "text": {
+        "simple": "وَمَا يُؤْمِنُ أَكْثَرُهُمْ بِاللَّهِ إِلَّا وَهُمْ مُشْرِكُونَ",
+        "en_sahih": "English translation of [12:106] in Sahih International style.",
+        "en_yusufali": "English translation of [12:106] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 106 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:106] en español.",
+        "fr_hamidullah": "Traduction de [12:106] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 106 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:107",
+      "surahNumber": 12,
+      "ayahNumber": 107,
+      "text": {
+        "simple": "أَفَأَمِنُوا أَنْ تَأْتِيَهُمْ غَاشِيَةٌ مِنْ عَذَابِ اللَّهِ أَوْ تَأْتِيَهُمُ السَّاعَةُ بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
+        "en_sahih": "English translation of [12:107] in Sahih International style.",
+        "en_yusufali": "English translation of [12:107] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 107 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:107] en español.",
+        "fr_hamidullah": "Traduction de [12:107] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 107 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:108",
+      "surahNumber": 12,
+      "ayahNumber": 108,
+      "text": {
+        "simple": "قُلْ هَٰذِهِ سَبِيلِي أَدْعُو إِلَى اللَّهِ ۚ عَلَىٰ بَصِيرَةٍ أَنَا وَمَنِ اتَّبَعَنِي ۖ وَسُبْحَانَ اللَّهِ وَمَا أَنَا مِنَ الْمُشْرِكِينَ",
+        "en_sahih": "English translation of [12:108] in Sahih International style.",
+        "en_yusufali": "English translation of [12:108] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 108 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:108] en español.",
+        "fr_hamidullah": "Traduction de [12:108] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 108 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:109",
+      "surahNumber": 12,
+      "ayahNumber": 109,
+      "text": {
+        "simple": "وَمَا أَرْسَلْنَا مِنْ قَبْلِكَ إِلَّا رِجَالًا نُوحِي إِلَيْهِمْ مِنْ أَهْلِ الْقُرَىٰ ۗ أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِنْ قَبْلِهِمْ ۗ وَلَدَارُ الْآخِرَةِ خَيْرٌ لِلَّذِينَ اتَّقَوْا ۗ أَفَلَا تَعْقِلُونَ",
+        "en_sahih": "English translation of [12:109] in Sahih International style.",
+        "en_yusufali": "English translation of [12:109] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 109 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:109] en español.",
+        "fr_hamidullah": "Traduction de [12:109] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 109 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:110",
+      "surahNumber": 12,
+      "ayahNumber": 110,
+      "text": {
+        "simple": "حَتَّىٰ إِذَا اسْتَيْأَسَ الرُّسُلُ وَظَنُّوا أَنَّهُمْ قَدْ كُذِبُوا جَاءَهُمْ نَصْرُنَا فَنُجِّيَ مَنْ نَشَاءُ ۖ وَلَا يُرَدُّ بَأْسُنَا عَنِ الْقَوْمِ الْمُجْرِمِينَ",
+        "en_sahih": "English translation of [12:110] in Sahih International style.",
+        "en_yusufali": "English translation of [12:110] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 110 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:110] en español.",
+        "fr_hamidullah": "Traduction de [12:110] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 110 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "12:111",
+      "surahNumber": 12,
+      "ayahNumber": 111,
+      "text": {
+        "simple": "لَقَدْ كَانَ فِي قَصَصِهِمْ عِبْرَةٌ لِأُولِي الْأَلْبَابِ ۗ مَا كَانَ حَدِيثًا يُفْتَرَىٰ وَلَٰكِنْ تَصْدِيقَ الَّذِي بَيْنَ يَدَيْهِ وَتَفْصِيلَ كُلِّ شَيْءٍ وَهُدًى وَرَحْمَةً لِقَوْمٍ يُؤْمِنُونَ",
+        "en_sahih": "English translation of [12:111] in Sahih International style.",
+        "en_yusufali": "English translation of [12:111] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 12 آیت 111 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [12:111] en español.",
+        "fr_hamidullah": "Traduction de [12:111] en français.",
+        "bn_hoque": "সূরা 12 আয়াত 111 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

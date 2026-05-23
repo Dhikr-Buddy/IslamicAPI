@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:58.004Z",
+  "surahNumber": 102,
+  "ayahCount": 8,
+  "ayahs": [
+    {
+      "id": "102:1",
+      "surahNumber": 102,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ أَلْهَاكُمُ التَّكَاثُرُ",
+        "en_sahih": "English translation of [102:1] in Sahih International style.",
+        "en_yusufali": "English translation of [102:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 102 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [102:1] en español.",
+        "fr_hamidullah": "Traduction de [102:1] en français.",
+        "bn_hoque": "সূরা 102 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "102:2",
+      "surahNumber": 102,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "حَتَّىٰ زُرْتُمُ الْمَقَابِرَ",
+        "en_sahih": "English translation of [102:2] in Sahih International style.",
+        "en_yusufali": "English translation of [102:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 102 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [102:2] en español.",
+        "fr_hamidullah": "Traduction de [102:2] en français.",
+        "bn_hoque": "সূরা 102 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "102:3",
+      "surahNumber": 102,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "كَلَّا سَوْفَ تَعْلَمُونَ",
+        "en_sahih": "English translation of [102:3] in Sahih International style.",
+        "en_yusufali": "English translation of [102:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 102 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [102:3] en español.",
+        "fr_hamidullah": "Traduction de [102:3] en français.",
+        "bn_hoque": "সূরা 102 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "102:4",
+      "surahNumber": 102,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+        "en_sahih": "English translation of [102:4] in Sahih International style.",
+        "en_yusufali": "English translation of [102:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 102 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [102:4] en español.",
+        "fr_hamidullah": "Traduction de [102:4] en français.",
+        "bn_hoque": "সূরা 102 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "102:5",
+      "surahNumber": 102,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ",
+        "en_sahih": "English translation of [102:5] in Sahih International style.",
+        "en_yusufali": "English translation of [102:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 102 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [102:5] en español.",
+        "fr_hamidullah": "Traduction de [102:5] en français.",
+        "bn_hoque": "সূরা 102 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "102:6",
+      "surahNumber": 102,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "لَتَرَوُنَّ الْجَحِيمَ",
+        "en_sahih": "English translation of [102:6] in Sahih International style.",
+        "en_yusufali": "English translation of [102:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 102 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [102:6] en español.",
+        "fr_hamidullah": "Traduction de [102:6] en français.",
+        "bn_hoque": "সূরা 102 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "102:7",
+      "surahNumber": 102,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَقِينِ",
+        "en_sahih": "English translation of [102:7] in Sahih International style.",
+        "en_yusufali": "English translation of [102:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 102 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [102:7] en español.",
+        "fr_hamidullah": "Traduction de [102:7] en français.",
+        "bn_hoque": "সূরা 102 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "102:8",
+      "surahNumber": 102,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ",
+        "en_sahih": "English translation of [102:8] in Sahih International style.",
+        "en_yusufali": "English translation of [102:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 102 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [102:8] en español.",
+        "fr_hamidullah": "Traduction de [102:8] en français.",
+        "bn_hoque": "সূরা 102 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

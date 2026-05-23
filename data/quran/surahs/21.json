@@ -1,0 +1,1583 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.976Z",
+  "surahNumber": 21,
+  "ayahCount": 112,
+  "ayahs": [
+    {
+      "id": "21:1",
+      "surahNumber": 21,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ اقْتَرَبَ لِلنَّاسِ حِسَابُهُمْ وَهُمْ فِي غَفْلَةٍ مُعْرِضُونَ",
+        "en_sahih": "English translation of [21:1] in Sahih International style.",
+        "en_yusufali": "English translation of [21:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:1] en español.",
+        "fr_hamidullah": "Traduction de [21:1] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:2",
+      "surahNumber": 21,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "مَا يَأْتِيهِمْ مِنْ ذِكْرٍ مِنْ رَبِّهِمْ مُحْدَثٍ إِلَّا اسْتَمَعُوهُ وَهُمْ يَلْعَبُونَ",
+        "en_sahih": "English translation of [21:2] in Sahih International style.",
+        "en_yusufali": "English translation of [21:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:2] en español.",
+        "fr_hamidullah": "Traduction de [21:2] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:3",
+      "surahNumber": 21,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "لَاهِيَةً قُلُوبُهُمْ ۗ وَأَسَرُّوا النَّجْوَى الَّذِينَ ظَلَمُوا هَلْ هَٰذَا إِلَّا بَشَرٌ مِثْلُكُمْ ۖ أَفَتَأْتُونَ السِّحْرَ وَأَنْتُمْ تُبْصِرُونَ",
+        "en_sahih": "English translation of [21:3] in Sahih International style.",
+        "en_yusufali": "English translation of [21:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:3] en español.",
+        "fr_hamidullah": "Traduction de [21:3] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:4",
+      "surahNumber": 21,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "قَالَ رَبِّي يَعْلَمُ الْقَوْلَ فِي السَّمَاءِ وَالْأَرْضِ ۖ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+        "en_sahih": "English translation of [21:4] in Sahih International style.",
+        "en_yusufali": "English translation of [21:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:4] en español.",
+        "fr_hamidullah": "Traduction de [21:4] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:5",
+      "surahNumber": 21,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "بَلْ قَالُوا أَضْغَاثُ أَحْلَامٍ بَلِ افْتَرَاهُ بَلْ هُوَ شَاعِرٌ فَلْيَأْتِنَا بِآيَةٍ كَمَا أُرْسِلَ الْأَوَّلُونَ",
+        "en_sahih": "English translation of [21:5] in Sahih International style.",
+        "en_yusufali": "English translation of [21:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:5] en español.",
+        "fr_hamidullah": "Traduction de [21:5] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:6",
+      "surahNumber": 21,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "مَا آمَنَتْ قَبْلَهُمْ مِنْ قَرْيَةٍ أَهْلَكْنَاهَا ۖ أَفَهُمْ يُؤْمِنُونَ",
+        "en_sahih": "English translation of [21:6] in Sahih International style.",
+        "en_yusufali": "English translation of [21:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:6] en español.",
+        "fr_hamidullah": "Traduction de [21:6] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:7",
+      "surahNumber": 21,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "وَمَا أَرْسَلْنَا قَبْلَكَ إِلَّا رِجَالًا نُوحِي إِلَيْهِمْ ۖ فَاسْأَلُوا أَهْلَ الذِّكْرِ إِنْ كُنْتُمْ لَا تَعْلَمُونَ",
+        "en_sahih": "English translation of [21:7] in Sahih International style.",
+        "en_yusufali": "English translation of [21:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:7] en español.",
+        "fr_hamidullah": "Traduction de [21:7] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:8",
+      "surahNumber": 21,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "وَمَا جَعَلْنَاهُمْ جَسَدًا لَا يَأْكُلُونَ الطَّعَامَ وَمَا كَانُوا خَالِدِينَ",
+        "en_sahih": "English translation of [21:8] in Sahih International style.",
+        "en_yusufali": "English translation of [21:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:8] en español.",
+        "fr_hamidullah": "Traduction de [21:8] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:9",
+      "surahNumber": 21,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "ثُمَّ صَدَقْنَاهُمُ الْوَعْدَ فَأَنْجَيْنَاهُمْ وَمَنْ نَشَاءُ وَأَهْلَكْنَا الْمُسْرِفِينَ",
+        "en_sahih": "English translation of [21:9] in Sahih International style.",
+        "en_yusufali": "English translation of [21:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:9] en español.",
+        "fr_hamidullah": "Traduction de [21:9] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:10",
+      "surahNumber": 21,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "لَقَدْ أَنْزَلْنَا إِلَيْكُمْ كِتَابًا فِيهِ ذِكْرُكُمْ ۖ أَفَلَا تَعْقِلُونَ",
+        "en_sahih": "English translation of [21:10] in Sahih International style.",
+        "en_yusufali": "English translation of [21:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:10] en español.",
+        "fr_hamidullah": "Traduction de [21:10] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:11",
+      "surahNumber": 21,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "وَكَمْ قَصَمْنَا مِنْ قَرْيَةٍ كَانَتْ ظَالِمَةً وَأَنْشَأْنَا بَعْدَهَا قَوْمًا آخَرِينَ",
+        "en_sahih": "English translation of [21:11] in Sahih International style.",
+        "en_yusufali": "English translation of [21:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:11] en español.",
+        "fr_hamidullah": "Traduction de [21:11] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:12",
+      "surahNumber": 21,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "فَلَمَّا أَحَسُّوا بَأْسَنَا إِذَا هُمْ مِنْهَا يَرْكُضُونَ",
+        "en_sahih": "English translation of [21:12] in Sahih International style.",
+        "en_yusufali": "English translation of [21:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:12] en español.",
+        "fr_hamidullah": "Traduction de [21:12] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:13",
+      "surahNumber": 21,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "لَا تَرْكُضُوا وَارْجِعُوا إِلَىٰ مَا أُتْرِفْتُمْ فِيهِ وَمَسَاكِنِكُمْ لَعَلَّكُمْ تُسْأَلُونَ",
+        "en_sahih": "English translation of [21:13] in Sahih International style.",
+        "en_yusufali": "English translation of [21:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:13] en español.",
+        "fr_hamidullah": "Traduction de [21:13] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:14",
+      "surahNumber": 21,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "قَالُوا يَا وَيْلَنَا إِنَّا كُنَّا ظَالِمِينَ",
+        "en_sahih": "English translation of [21:14] in Sahih International style.",
+        "en_yusufali": "English translation of [21:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:14] en español.",
+        "fr_hamidullah": "Traduction de [21:14] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:15",
+      "surahNumber": 21,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "فَمَا زَالَتْ تِلْكَ دَعْوَاهُمْ حَتَّىٰ جَعَلْنَاهُمْ حَصِيدًا خَامِدِينَ",
+        "en_sahih": "English translation of [21:15] in Sahih International style.",
+        "en_yusufali": "English translation of [21:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:15] en español.",
+        "fr_hamidullah": "Traduction de [21:15] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:16",
+      "surahNumber": 21,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "وَمَا خَلَقْنَا السَّمَاءَ وَالْأَرْضَ وَمَا بَيْنَهُمَا لَاعِبِينَ",
+        "en_sahih": "English translation of [21:16] in Sahih International style.",
+        "en_yusufali": "English translation of [21:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:16] en español.",
+        "fr_hamidullah": "Traduction de [21:16] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:17",
+      "surahNumber": 21,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "لَوْ أَرَدْنَا أَنْ نَتَّخِذَ لَهْوًا لَاتَّخَذْنَاهُ مِنْ لَدُنَّا إِنْ كُنَّا فَاعِلِينَ",
+        "en_sahih": "English translation of [21:17] in Sahih International style.",
+        "en_yusufali": "English translation of [21:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:17] en español.",
+        "fr_hamidullah": "Traduction de [21:17] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:18",
+      "surahNumber": 21,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "بَلْ نَقْذِفُ بِالْحَقِّ عَلَى الْبَاطِلِ فَيَدْمَغُهُ فَإِذَا هُوَ زَاهِقٌ ۚ وَلَكُمُ الْوَيْلُ مِمَّا تَصِفُونَ",
+        "en_sahih": "English translation of [21:18] in Sahih International style.",
+        "en_yusufali": "English translation of [21:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:18] en español.",
+        "fr_hamidullah": "Traduction de [21:18] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:19",
+      "surahNumber": 21,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "وَلَهُ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ ۚ وَمَنْ عِنْدَهُ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِ وَلَا يَسْتَحْسِرُونَ",
+        "en_sahih": "English translation of [21:19] in Sahih International style.",
+        "en_yusufali": "English translation of [21:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:19] en español.",
+        "fr_hamidullah": "Traduction de [21:19] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:20",
+      "surahNumber": 21,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "يُسَبِّحُونَ اللَّيْلَ وَالنَّهَارَ لَا يَفْتُرُونَ",
+        "en_sahih": "English translation of [21:20] in Sahih International style.",
+        "en_yusufali": "English translation of [21:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:20] en español.",
+        "fr_hamidullah": "Traduction de [21:20] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:21",
+      "surahNumber": 21,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "أَمِ اتَّخَذُوا آلِهَةً مِنَ الْأَرْضِ هُمْ يُنْشِرُونَ",
+        "en_sahih": "English translation of [21:21] in Sahih International style.",
+        "en_yusufali": "English translation of [21:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:21] en español.",
+        "fr_hamidullah": "Traduction de [21:21] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:22",
+      "surahNumber": 21,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "لَوْ كَانَ فِيهِمَا آلِهَةٌ إِلَّا اللَّهُ لَفَسَدَتَا ۚ فَسُبْحَانَ اللَّهِ رَبِّ الْعَرْشِ عَمَّا يَصِفُونَ",
+        "en_sahih": "English translation of [21:22] in Sahih International style.",
+        "en_yusufali": "English translation of [21:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:22] en español.",
+        "fr_hamidullah": "Traduction de [21:22] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:23",
+      "surahNumber": 21,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "لَا يُسْأَلُ عَمَّا يَفْعَلُ وَهُمْ يُسْأَلُونَ",
+        "en_sahih": "English translation of [21:23] in Sahih International style.",
+        "en_yusufali": "English translation of [21:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:23] en español.",
+        "fr_hamidullah": "Traduction de [21:23] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:24",
+      "surahNumber": 21,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "أَمِ اتَّخَذُوا مِنْ دُونِهِ آلِهَةً ۖ قُلْ هَاتُوا بُرْهَانَكُمْ ۖ هَٰذَا ذِكْرُ مَنْ مَعِيَ وَذِكْرُ مَنْ قَبْلِي ۗ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ الْحَقَّ ۖ فَهُمْ مُعْرِضُونَ",
+        "en_sahih": "English translation of [21:24] in Sahih International style.",
+        "en_yusufali": "English translation of [21:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:24] en español.",
+        "fr_hamidullah": "Traduction de [21:24] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:25",
+      "surahNumber": 21,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "وَمَا أَرْسَلْنَا مِنْ قَبْلِكَ مِنْ رَسُولٍ إِلَّا نُوحِي إِلَيْهِ أَنَّهُ لَا إِلَٰهَ إِلَّا أَنَا فَاعْبُدُونِ",
+        "en_sahih": "English translation of [21:25] in Sahih International style.",
+        "en_yusufali": "English translation of [21:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:25] en español.",
+        "fr_hamidullah": "Traduction de [21:25] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:26",
+      "surahNumber": 21,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "وَقَالُوا اتَّخَذَ الرَّحْمَٰنُ وَلَدًا ۗ سُبْحَانَهُ ۚ بَلْ عِبَادٌ مُكْرَمُونَ",
+        "en_sahih": "English translation of [21:26] in Sahih International style.",
+        "en_yusufali": "English translation of [21:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:26] en español.",
+        "fr_hamidullah": "Traduction de [21:26] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:27",
+      "surahNumber": 21,
+      "ayahNumber": 27,
+      "text": {
+        "simple": "لَا يَسْبِقُونَهُ بِالْقَوْلِ وَهُمْ بِأَمْرِهِ يَعْمَلُونَ",
+        "en_sahih": "English translation of [21:27] in Sahih International style.",
+        "en_yusufali": "English translation of [21:27] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:27] en español.",
+        "fr_hamidullah": "Traduction de [21:27] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:28",
+      "surahNumber": 21,
+      "ayahNumber": 28,
+      "text": {
+        "simple": "يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يَشْفَعُونَ إِلَّا لِمَنِ ارْتَضَىٰ وَهُمْ مِنْ خَشْيَتِهِ مُشْفِقُونَ",
+        "en_sahih": "English translation of [21:28] in Sahih International style.",
+        "en_yusufali": "English translation of [21:28] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:28] en español.",
+        "fr_hamidullah": "Traduction de [21:28] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:29",
+      "surahNumber": 21,
+      "ayahNumber": 29,
+      "text": {
+        "simple": "۞ وَمَنْ يَقُلْ مِنْهُمْ إِنِّي إِلَٰهٌ مِنْ دُونِهِ فَذَٰلِكَ نَجْزِيهِ جَهَنَّمَ ۚ كَذَٰلِكَ نَجْزِي الظَّالِمِينَ",
+        "en_sahih": "English translation of [21:29] in Sahih International style.",
+        "en_yusufali": "English translation of [21:29] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:29] en español.",
+        "fr_hamidullah": "Traduction de [21:29] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:30",
+      "surahNumber": 21,
+      "ayahNumber": 30,
+      "text": {
+        "simple": "أَوَلَمْ يَرَ الَّذِينَ كَفَرُوا أَنَّ السَّمَاوَاتِ وَالْأَرْضَ كَانَتَا رَتْقًا فَفَتَقْنَاهُمَا ۖ وَجَعَلْنَا مِنَ الْمَاءِ كُلَّ شَيْءٍ حَيٍّ ۖ أَفَلَا يُؤْمِنُونَ",
+        "en_sahih": "English translation of [21:30] in Sahih International style.",
+        "en_yusufali": "English translation of [21:30] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:30] en español.",
+        "fr_hamidullah": "Traduction de [21:30] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:31",
+      "surahNumber": 21,
+      "ayahNumber": 31,
+      "text": {
+        "simple": "وَجَعَلْنَا فِي الْأَرْضِ رَوَاسِيَ أَنْ تَمِيدَ بِهِمْ وَجَعَلْنَا فِيهَا فِجَاجًا سُبُلًا لَعَلَّهُمْ يَهْتَدُونَ",
+        "en_sahih": "English translation of [21:31] in Sahih International style.",
+        "en_yusufali": "English translation of [21:31] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:31] en español.",
+        "fr_hamidullah": "Traduction de [21:31] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:32",
+      "surahNumber": 21,
+      "ayahNumber": 32,
+      "text": {
+        "simple": "وَجَعَلْنَا السَّمَاءَ سَقْفًا مَحْفُوظًا ۖ وَهُمْ عَنْ آيَاتِهَا مُعْرِضُونَ",
+        "en_sahih": "English translation of [21:32] in Sahih International style.",
+        "en_yusufali": "English translation of [21:32] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:32] en español.",
+        "fr_hamidullah": "Traduction de [21:32] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:33",
+      "surahNumber": 21,
+      "ayahNumber": 33,
+      "text": {
+        "simple": "وَهُوَ الَّذِي خَلَقَ اللَّيْلَ وَالنَّهَارَ وَالشَّمْسَ وَالْقَمَرَ ۖ كُلٌّ فِي فَلَكٍ يَسْبَحُونَ",
+        "en_sahih": "English translation of [21:33] in Sahih International style.",
+        "en_yusufali": "English translation of [21:33] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:33] en español.",
+        "fr_hamidullah": "Traduction de [21:33] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:34",
+      "surahNumber": 21,
+      "ayahNumber": 34,
+      "text": {
+        "simple": "وَمَا جَعَلْنَا لِبَشَرٍ مِنْ قَبْلِكَ الْخُلْدَ ۖ أَفَإِنْ مِتَّ فَهُمُ الْخَالِدُونَ",
+        "en_sahih": "English translation of [21:34] in Sahih International style.",
+        "en_yusufali": "English translation of [21:34] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:34] en español.",
+        "fr_hamidullah": "Traduction de [21:34] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:35",
+      "surahNumber": 21,
+      "ayahNumber": 35,
+      "text": {
+        "simple": "كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ ۗ وَنَبْلُوكُمْ بِالشَّرِّ وَالْخَيْرِ فِتْنَةً ۖ وَإِلَيْنَا تُرْجَعُونَ",
+        "en_sahih": "English translation of [21:35] in Sahih International style.",
+        "en_yusufali": "English translation of [21:35] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:35] en español.",
+        "fr_hamidullah": "Traduction de [21:35] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:36",
+      "surahNumber": 21,
+      "ayahNumber": 36,
+      "text": {
+        "simple": "وَإِذَا رَآكَ الَّذِينَ كَفَرُوا إِنْ يَتَّخِذُونَكَ إِلَّا هُزُوًا أَهَٰذَا الَّذِي يَذْكُرُ آلِهَتَكُمْ وَهُمْ بِذِكْرِ الرَّحْمَٰنِ هُمْ كَافِرُونَ",
+        "en_sahih": "English translation of [21:36] in Sahih International style.",
+        "en_yusufali": "English translation of [21:36] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:36] en español.",
+        "fr_hamidullah": "Traduction de [21:36] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:37",
+      "surahNumber": 21,
+      "ayahNumber": 37,
+      "text": {
+        "simple": "خُلِقَ الْإِنْسَانُ مِنْ عَجَلٍ ۚ سَأُرِيكُمْ آيَاتِي فَلَا تَسْتَعْجِلُونِ",
+        "en_sahih": "English translation of [21:37] in Sahih International style.",
+        "en_yusufali": "English translation of [21:37] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:37] en español.",
+        "fr_hamidullah": "Traduction de [21:37] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:38",
+      "surahNumber": 21,
+      "ayahNumber": 38,
+      "text": {
+        "simple": "وَيَقُولُونَ مَتَىٰ هَٰذَا الْوَعْدُ إِنْ كُنْتُمْ صَادِقِينَ",
+        "en_sahih": "English translation of [21:38] in Sahih International style.",
+        "en_yusufali": "English translation of [21:38] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 38 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:38] en español.",
+        "fr_hamidullah": "Traduction de [21:38] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:39",
+      "surahNumber": 21,
+      "ayahNumber": 39,
+      "text": {
+        "simple": "لَوْ يَعْلَمُ الَّذِينَ كَفَرُوا حِينَ لَا يَكُفُّونَ عَنْ وُجُوهِهِمُ النَّارَ وَلَا عَنْ ظُهُورِهِمْ وَلَا هُمْ يُنْصَرُونَ",
+        "en_sahih": "English translation of [21:39] in Sahih International style.",
+        "en_yusufali": "English translation of [21:39] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 39 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:39] en español.",
+        "fr_hamidullah": "Traduction de [21:39] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:40",
+      "surahNumber": 21,
+      "ayahNumber": 40,
+      "text": {
+        "simple": "بَلْ تَأْتِيهِمْ بَغْتَةً فَتَبْهَتُهُمْ فَلَا يَسْتَطِيعُونَ رَدَّهَا وَلَا هُمْ يُنْظَرُونَ",
+        "en_sahih": "English translation of [21:40] in Sahih International style.",
+        "en_yusufali": "English translation of [21:40] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 40 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:40] en español.",
+        "fr_hamidullah": "Traduction de [21:40] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:41",
+      "surahNumber": 21,
+      "ayahNumber": 41,
+      "text": {
+        "simple": "وَلَقَدِ اسْتُهْزِئَ بِرُسُلٍ مِنْ قَبْلِكَ فَحَاقَ بِالَّذِينَ سَخِرُوا مِنْهُمْ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+        "en_sahih": "English translation of [21:41] in Sahih International style.",
+        "en_yusufali": "English translation of [21:41] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 41 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:41] en español.",
+        "fr_hamidullah": "Traduction de [21:41] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:42",
+      "surahNumber": 21,
+      "ayahNumber": 42,
+      "text": {
+        "simple": "قُلْ مَنْ يَكْلَؤُكُمْ بِاللَّيْلِ وَالنَّهَارِ مِنَ الرَّحْمَٰنِ ۗ بَلْ هُمْ عَنْ ذِكْرِ رَبِّهِمْ مُعْرِضُونَ",
+        "en_sahih": "English translation of [21:42] in Sahih International style.",
+        "en_yusufali": "English translation of [21:42] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 42 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:42] en español.",
+        "fr_hamidullah": "Traduction de [21:42] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:43",
+      "surahNumber": 21,
+      "ayahNumber": 43,
+      "text": {
+        "simple": "أَمْ لَهُمْ آلِهَةٌ تَمْنَعُهُمْ مِنْ دُونِنَا ۚ لَا يَسْتَطِيعُونَ نَصْرَ أَنْفُسِهِمْ وَلَا هُمْ مِنَّا يُصْحَبُونَ",
+        "en_sahih": "English translation of [21:43] in Sahih International style.",
+        "en_yusufali": "English translation of [21:43] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 43 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:43] en español.",
+        "fr_hamidullah": "Traduction de [21:43] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:44",
+      "surahNumber": 21,
+      "ayahNumber": 44,
+      "text": {
+        "simple": "بَلْ مَتَّعْنَا هَٰؤُلَاءِ وَآبَاءَهُمْ حَتَّىٰ طَالَ عَلَيْهِمُ الْعُمُرُ ۗ أَفَلَا يَرَوْنَ أَنَّا نَأْتِي الْأَرْضَ نَنْقُصُهَا مِنْ أَطْرَافِهَا ۚ أَفَهُمُ الْغَالِبُونَ",
+        "en_sahih": "English translation of [21:44] in Sahih International style.",
+        "en_yusufali": "English translation of [21:44] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 44 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:44] en español.",
+        "fr_hamidullah": "Traduction de [21:44] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:45",
+      "surahNumber": 21,
+      "ayahNumber": 45,
+      "text": {
+        "simple": "قُلْ إِنَّمَا أُنْذِرُكُمْ بِالْوَحْيِ ۚ وَلَا يَسْمَعُ الصُّمُّ الدُّعَاءَ إِذَا مَا يُنْذَرُونَ",
+        "en_sahih": "English translation of [21:45] in Sahih International style.",
+        "en_yusufali": "English translation of [21:45] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 45 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:45] en español.",
+        "fr_hamidullah": "Traduction de [21:45] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:46",
+      "surahNumber": 21,
+      "ayahNumber": 46,
+      "text": {
+        "simple": "وَلَئِنْ مَسَّتْهُمْ نَفْحَةٌ مِنْ عَذَابِ رَبِّكَ لَيَقُولُنَّ يَا وَيْلَنَا إِنَّا كُنَّا ظَالِمِينَ",
+        "en_sahih": "English translation of [21:46] in Sahih International style.",
+        "en_yusufali": "English translation of [21:46] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 46 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:46] en español.",
+        "fr_hamidullah": "Traduction de [21:46] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:47",
+      "surahNumber": 21,
+      "ayahNumber": 47,
+      "text": {
+        "simple": "وَنَضَعُ الْمَوَازِينَ الْقِسْطَ لِيَوْمِ الْقِيَامَةِ فَلَا تُظْلَمُ نَفْسٌ شَيْئًا ۖ وَإِنْ كَانَ مِثْقَالَ حَبَّةٍ مِنْ خَرْدَلٍ أَتَيْنَا بِهَا ۗ وَكَفَىٰ بِنَا حَاسِبِينَ",
+        "en_sahih": "English translation of [21:47] in Sahih International style.",
+        "en_yusufali": "English translation of [21:47] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 47 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:47] en español.",
+        "fr_hamidullah": "Traduction de [21:47] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:48",
+      "surahNumber": 21,
+      "ayahNumber": 48,
+      "text": {
+        "simple": "وَلَقَدْ آتَيْنَا مُوسَىٰ وَهَارُونَ الْفُرْقَانَ وَضِيَاءً وَذِكْرًا لِلْمُتَّقِينَ",
+        "en_sahih": "English translation of [21:48] in Sahih International style.",
+        "en_yusufali": "English translation of [21:48] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 48 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:48] en español.",
+        "fr_hamidullah": "Traduction de [21:48] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:49",
+      "surahNumber": 21,
+      "ayahNumber": 49,
+      "text": {
+        "simple": "الَّذِينَ يَخْشَوْنَ رَبَّهُمْ بِالْغَيْبِ وَهُمْ مِنَ السَّاعَةِ مُشْفِقُونَ",
+        "en_sahih": "English translation of [21:49] in Sahih International style.",
+        "en_yusufali": "English translation of [21:49] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 49 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:49] en español.",
+        "fr_hamidullah": "Traduction de [21:49] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:50",
+      "surahNumber": 21,
+      "ayahNumber": 50,
+      "text": {
+        "simple": "وَهَٰذَا ذِكْرٌ مُبَارَكٌ أَنْزَلْنَاهُ ۚ أَفَأَنْتُمْ لَهُ مُنْكِرُونَ",
+        "en_sahih": "English translation of [21:50] in Sahih International style.",
+        "en_yusufali": "English translation of [21:50] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 50 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:50] en español.",
+        "fr_hamidullah": "Traduction de [21:50] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:51",
+      "surahNumber": 21,
+      "ayahNumber": 51,
+      "text": {
+        "simple": "۞ وَلَقَدْ آتَيْنَا إِبْرَاهِيمَ رُشْدَهُ مِنْ قَبْلُ وَكُنَّا بِهِ عَالِمِينَ",
+        "en_sahih": "English translation of [21:51] in Sahih International style.",
+        "en_yusufali": "English translation of [21:51] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 51 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:51] en español.",
+        "fr_hamidullah": "Traduction de [21:51] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:52",
+      "surahNumber": 21,
+      "ayahNumber": 52,
+      "text": {
+        "simple": "إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِ مَا هَٰذِهِ التَّمَاثِيلُ الَّتِي أَنْتُمْ لَهَا عَاكِفُونَ",
+        "en_sahih": "English translation of [21:52] in Sahih International style.",
+        "en_yusufali": "English translation of [21:52] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 52 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:52] en español.",
+        "fr_hamidullah": "Traduction de [21:52] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:53",
+      "surahNumber": 21,
+      "ayahNumber": 53,
+      "text": {
+        "simple": "قَالُوا وَجَدْنَا آبَاءَنَا لَهَا عَابِدِينَ",
+        "en_sahih": "English translation of [21:53] in Sahih International style.",
+        "en_yusufali": "English translation of [21:53] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 53 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:53] en español.",
+        "fr_hamidullah": "Traduction de [21:53] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 53 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:54",
+      "surahNumber": 21,
+      "ayahNumber": 54,
+      "text": {
+        "simple": "قَالَ لَقَدْ كُنْتُمْ أَنْتُمْ وَآبَاؤُكُمْ فِي ضَلَالٍ مُبِينٍ",
+        "en_sahih": "English translation of [21:54] in Sahih International style.",
+        "en_yusufali": "English translation of [21:54] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 54 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:54] en español.",
+        "fr_hamidullah": "Traduction de [21:54] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 54 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:55",
+      "surahNumber": 21,
+      "ayahNumber": 55,
+      "text": {
+        "simple": "قَالُوا أَجِئْتَنَا بِالْحَقِّ أَمْ أَنْتَ مِنَ اللَّاعِبِينَ",
+        "en_sahih": "English translation of [21:55] in Sahih International style.",
+        "en_yusufali": "English translation of [21:55] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 55 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:55] en español.",
+        "fr_hamidullah": "Traduction de [21:55] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 55 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:56",
+      "surahNumber": 21,
+      "ayahNumber": 56,
+      "text": {
+        "simple": "قَالَ بَلْ رَبُّكُمْ رَبُّ السَّمَاوَاتِ وَالْأَرْضِ الَّذِي فَطَرَهُنَّ وَأَنَا عَلَىٰ ذَٰلِكُمْ مِنَ الشَّاهِدِينَ",
+        "en_sahih": "English translation of [21:56] in Sahih International style.",
+        "en_yusufali": "English translation of [21:56] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 56 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:56] en español.",
+        "fr_hamidullah": "Traduction de [21:56] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 56 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:57",
+      "surahNumber": 21,
+      "ayahNumber": 57,
+      "text": {
+        "simple": "وَتَاللَّهِ لَأَكِيدَنَّ أَصْنَامَكُمْ بَعْدَ أَنْ تُوَلُّوا مُدْبِرِينَ",
+        "en_sahih": "English translation of [21:57] in Sahih International style.",
+        "en_yusufali": "English translation of [21:57] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 57 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:57] en español.",
+        "fr_hamidullah": "Traduction de [21:57] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 57 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:58",
+      "surahNumber": 21,
+      "ayahNumber": 58,
+      "text": {
+        "simple": "فَجَعَلَهُمْ جُذَاذًا إِلَّا كَبِيرًا لَهُمْ لَعَلَّهُمْ إِلَيْهِ يَرْجِعُونَ",
+        "en_sahih": "English translation of [21:58] in Sahih International style.",
+        "en_yusufali": "English translation of [21:58] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 58 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:58] en español.",
+        "fr_hamidullah": "Traduction de [21:58] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 58 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:59",
+      "surahNumber": 21,
+      "ayahNumber": 59,
+      "text": {
+        "simple": "قَالُوا مَنْ فَعَلَ هَٰذَا بِآلِهَتِنَا إِنَّهُ لَمِنَ الظَّالِمِينَ",
+        "en_sahih": "English translation of [21:59] in Sahih International style.",
+        "en_yusufali": "English translation of [21:59] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 59 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:59] en español.",
+        "fr_hamidullah": "Traduction de [21:59] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 59 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:60",
+      "surahNumber": 21,
+      "ayahNumber": 60,
+      "text": {
+        "simple": "قَالُوا سَمِعْنَا فَتًى يَذْكُرُهُمْ يُقَالُ لَهُ إِبْرَاهِيمُ",
+        "en_sahih": "English translation of [21:60] in Sahih International style.",
+        "en_yusufali": "English translation of [21:60] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 60 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:60] en español.",
+        "fr_hamidullah": "Traduction de [21:60] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 60 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:61",
+      "surahNumber": 21,
+      "ayahNumber": 61,
+      "text": {
+        "simple": "قَالُوا فَأْتُوا بِهِ عَلَىٰ أَعْيُنِ النَّاسِ لَعَلَّهُمْ يَشْهَدُونَ",
+        "en_sahih": "English translation of [21:61] in Sahih International style.",
+        "en_yusufali": "English translation of [21:61] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 61 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:61] en español.",
+        "fr_hamidullah": "Traduction de [21:61] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 61 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:62",
+      "surahNumber": 21,
+      "ayahNumber": 62,
+      "text": {
+        "simple": "قَالُوا أَأَنْتَ فَعَلْتَ هَٰذَا بِآلِهَتِنَا يَا إِبْرَاهِيمُ",
+        "en_sahih": "English translation of [21:62] in Sahih International style.",
+        "en_yusufali": "English translation of [21:62] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 62 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:62] en español.",
+        "fr_hamidullah": "Traduction de [21:62] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 62 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:63",
+      "surahNumber": 21,
+      "ayahNumber": 63,
+      "text": {
+        "simple": "قَالَ بَلْ فَعَلَهُ كَبِيرُهُمْ هَٰذَا فَاسْأَلُوهُمْ إِنْ كَانُوا يَنْطِقُونَ",
+        "en_sahih": "English translation of [21:63] in Sahih International style.",
+        "en_yusufali": "English translation of [21:63] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 63 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:63] en español.",
+        "fr_hamidullah": "Traduction de [21:63] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 63 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:64",
+      "surahNumber": 21,
+      "ayahNumber": 64,
+      "text": {
+        "simple": "فَرَجَعُوا إِلَىٰ أَنْفُسِهِمْ فَقَالُوا إِنَّكُمْ أَنْتُمُ الظَّالِمُونَ",
+        "en_sahih": "English translation of [21:64] in Sahih International style.",
+        "en_yusufali": "English translation of [21:64] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 64 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:64] en español.",
+        "fr_hamidullah": "Traduction de [21:64] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 64 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:65",
+      "surahNumber": 21,
+      "ayahNumber": 65,
+      "text": {
+        "simple": "ثُمَّ نُكِسُوا عَلَىٰ رُءُوسِهِمْ لَقَدْ عَلِمْتَ مَا هَٰؤُلَاءِ يَنْطِقُونَ",
+        "en_sahih": "English translation of [21:65] in Sahih International style.",
+        "en_yusufali": "English translation of [21:65] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 65 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:65] en español.",
+        "fr_hamidullah": "Traduction de [21:65] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 65 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:66",
+      "surahNumber": 21,
+      "ayahNumber": 66,
+      "text": {
+        "simple": "قَالَ أَفَتَعْبُدُونَ مِنْ دُونِ اللَّهِ مَا لَا يَنْفَعُكُمْ شَيْئًا وَلَا يَضُرُّكُمْ",
+        "en_sahih": "English translation of [21:66] in Sahih International style.",
+        "en_yusufali": "English translation of [21:66] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 66 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:66] en español.",
+        "fr_hamidullah": "Traduction de [21:66] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 66 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:67",
+      "surahNumber": 21,
+      "ayahNumber": 67,
+      "text": {
+        "simple": "أُفٍّ لَكُمْ وَلِمَا تَعْبُدُونَ مِنْ دُونِ اللَّهِ ۖ أَفَلَا تَعْقِلُونَ",
+        "en_sahih": "English translation of [21:67] in Sahih International style.",
+        "en_yusufali": "English translation of [21:67] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 67 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:67] en español.",
+        "fr_hamidullah": "Traduction de [21:67] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 67 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:68",
+      "surahNumber": 21,
+      "ayahNumber": 68,
+      "text": {
+        "simple": "قَالُوا حَرِّقُوهُ وَانْصُرُوا آلِهَتَكُمْ إِنْ كُنْتُمْ فَاعِلِينَ",
+        "en_sahih": "English translation of [21:68] in Sahih International style.",
+        "en_yusufali": "English translation of [21:68] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 68 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:68] en español.",
+        "fr_hamidullah": "Traduction de [21:68] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 68 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:69",
+      "surahNumber": 21,
+      "ayahNumber": 69,
+      "text": {
+        "simple": "قُلْنَا يَا نَارُ كُونِي بَرْدًا وَسَلَامًا عَلَىٰ إِبْرَاهِيمَ",
+        "en_sahih": "English translation of [21:69] in Sahih International style.",
+        "en_yusufali": "English translation of [21:69] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 69 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:69] en español.",
+        "fr_hamidullah": "Traduction de [21:69] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 69 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:70",
+      "surahNumber": 21,
+      "ayahNumber": 70,
+      "text": {
+        "simple": "وَأَرَادُوا بِهِ كَيْدًا فَجَعَلْنَاهُمُ الْأَخْسَرِينَ",
+        "en_sahih": "English translation of [21:70] in Sahih International style.",
+        "en_yusufali": "English translation of [21:70] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 70 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:70] en español.",
+        "fr_hamidullah": "Traduction de [21:70] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 70 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:71",
+      "surahNumber": 21,
+      "ayahNumber": 71,
+      "text": {
+        "simple": "وَنَجَّيْنَاهُ وَلُوطًا إِلَى الْأَرْضِ الَّتِي بَارَكْنَا فِيهَا لِلْعَالَمِينَ",
+        "en_sahih": "English translation of [21:71] in Sahih International style.",
+        "en_yusufali": "English translation of [21:71] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 71 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:71] en español.",
+        "fr_hamidullah": "Traduction de [21:71] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 71 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:72",
+      "surahNumber": 21,
+      "ayahNumber": 72,
+      "text": {
+        "simple": "وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ نَافِلَةً ۖ وَكُلًّا جَعَلْنَا صَالِحِينَ",
+        "en_sahih": "English translation of [21:72] in Sahih International style.",
+        "en_yusufali": "English translation of [21:72] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 72 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:72] en español.",
+        "fr_hamidullah": "Traduction de [21:72] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 72 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:73",
+      "surahNumber": 21,
+      "ayahNumber": 73,
+      "text": {
+        "simple": "وَجَعَلْنَاهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا وَأَوْحَيْنَا إِلَيْهِمْ فِعْلَ الْخَيْرَاتِ وَإِقَامَ الصَّلَاةِ وَإِيتَاءَ الزَّكَاةِ ۖ وَكَانُوا لَنَا عَابِدِينَ",
+        "en_sahih": "English translation of [21:73] in Sahih International style.",
+        "en_yusufali": "English translation of [21:73] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 73 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:73] en español.",
+        "fr_hamidullah": "Traduction de [21:73] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 73 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:74",
+      "surahNumber": 21,
+      "ayahNumber": 74,
+      "text": {
+        "simple": "وَلُوطًا آتَيْنَاهُ حُكْمًا وَعِلْمًا وَنَجَّيْنَاهُ مِنَ الْقَرْيَةِ الَّتِي كَانَتْ تَعْمَلُ الْخَبَائِثَ ۗ إِنَّهُمْ كَانُوا قَوْمَ سَوْءٍ فَاسِقِينَ",
+        "en_sahih": "English translation of [21:74] in Sahih International style.",
+        "en_yusufali": "English translation of [21:74] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 74 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:74] en español.",
+        "fr_hamidullah": "Traduction de [21:74] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 74 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:75",
+      "surahNumber": 21,
+      "ayahNumber": 75,
+      "text": {
+        "simple": "وَأَدْخَلْنَاهُ فِي رَحْمَتِنَا ۖ إِنَّهُ مِنَ الصَّالِحِينَ",
+        "en_sahih": "English translation of [21:75] in Sahih International style.",
+        "en_yusufali": "English translation of [21:75] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 75 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:75] en español.",
+        "fr_hamidullah": "Traduction de [21:75] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 75 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:76",
+      "surahNumber": 21,
+      "ayahNumber": 76,
+      "text": {
+        "simple": "وَنُوحًا إِذْ نَادَىٰ مِنْ قَبْلُ فَاسْتَجَبْنَا لَهُ فَنَجَّيْنَاهُ وَأَهْلَهُ مِنَ الْكَرْبِ الْعَظِيمِ",
+        "en_sahih": "English translation of [21:76] in Sahih International style.",
+        "en_yusufali": "English translation of [21:76] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 76 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:76] en español.",
+        "fr_hamidullah": "Traduction de [21:76] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 76 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:77",
+      "surahNumber": 21,
+      "ayahNumber": 77,
+      "text": {
+        "simple": "وَنَصَرْنَاهُ مِنَ الْقَوْمِ الَّذِينَ كَذَّبُوا بِآيَاتِنَا ۚ إِنَّهُمْ كَانُوا قَوْمَ سَوْءٍ فَأَغْرَقْنَاهُمْ أَجْمَعِينَ",
+        "en_sahih": "English translation of [21:77] in Sahih International style.",
+        "en_yusufali": "English translation of [21:77] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 77 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:77] en español.",
+        "fr_hamidullah": "Traduction de [21:77] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 77 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:78",
+      "surahNumber": 21,
+      "ayahNumber": 78,
+      "text": {
+        "simple": "وَدَاوُودَ وَسُلَيْمَانَ إِذْ يَحْكُمَانِ فِي الْحَرْثِ إِذْ نَفَشَتْ فِيهِ غَنَمُ الْقَوْمِ وَكُنَّا لِحُكْمِهِمْ شَاهِدِينَ",
+        "en_sahih": "English translation of [21:78] in Sahih International style.",
+        "en_yusufali": "English translation of [21:78] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 78 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:78] en español.",
+        "fr_hamidullah": "Traduction de [21:78] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 78 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:79",
+      "surahNumber": 21,
+      "ayahNumber": 79,
+      "text": {
+        "simple": "فَفَهَّمْنَاهَا سُلَيْمَانَ ۚ وَكُلًّا آتَيْنَا حُكْمًا وَعِلْمًا ۚ وَسَخَّرْنَا مَعَ دَاوُودَ الْجِبَالَ يُسَبِّحْنَ وَالطَّيْرَ ۚ وَكُنَّا فَاعِلِينَ",
+        "en_sahih": "English translation of [21:79] in Sahih International style.",
+        "en_yusufali": "English translation of [21:79] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 79 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:79] en español.",
+        "fr_hamidullah": "Traduction de [21:79] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 79 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:80",
+      "surahNumber": 21,
+      "ayahNumber": 80,
+      "text": {
+        "simple": "وَعَلَّمْنَاهُ صَنْعَةَ لَبُوسٍ لَكُمْ لِتُحْصِنَكُمْ مِنْ بَأْسِكُمْ ۖ فَهَلْ أَنْتُمْ شَاكِرُونَ",
+        "en_sahih": "English translation of [21:80] in Sahih International style.",
+        "en_yusufali": "English translation of [21:80] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 80 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:80] en español.",
+        "fr_hamidullah": "Traduction de [21:80] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 80 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:81",
+      "surahNumber": 21,
+      "ayahNumber": 81,
+      "text": {
+        "simple": "وَلِسُلَيْمَانَ الرِّيحَ عَاصِفَةً تَجْرِي بِأَمْرِهِ إِلَى الْأَرْضِ الَّتِي بَارَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَيْءٍ عَالِمِينَ",
+        "en_sahih": "English translation of [21:81] in Sahih International style.",
+        "en_yusufali": "English translation of [21:81] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 81 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:81] en español.",
+        "fr_hamidullah": "Traduction de [21:81] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 81 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:82",
+      "surahNumber": 21,
+      "ayahNumber": 82,
+      "text": {
+        "simple": "وَمِنَ الشَّيَاطِينِ مَنْ يَغُوصُونَ لَهُ وَيَعْمَلُونَ عَمَلًا دُونَ ذَٰلِكَ ۖ وَكُنَّا لَهُمْ حَافِظِينَ",
+        "en_sahih": "English translation of [21:82] in Sahih International style.",
+        "en_yusufali": "English translation of [21:82] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 82 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:82] en español.",
+        "fr_hamidullah": "Traduction de [21:82] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 82 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:83",
+      "surahNumber": 21,
+      "ayahNumber": 83,
+      "text": {
+        "simple": "۞ وَأَيُّوبَ إِذْ نَادَىٰ رَبَّهُ أَنِّي مَسَّنِيَ الضُّرُّ وَأَنْتَ أَرْحَمُ الرَّاحِمِينَ",
+        "en_sahih": "English translation of [21:83] in Sahih International style.",
+        "en_yusufali": "English translation of [21:83] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 83 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:83] en español.",
+        "fr_hamidullah": "Traduction de [21:83] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 83 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:84",
+      "surahNumber": 21,
+      "ayahNumber": 84,
+      "text": {
+        "simple": "فَاسْتَجَبْنَا لَهُ فَكَشَفْنَا مَا بِهِ مِنْ ضُرٍّ ۖ وَآتَيْنَاهُ أَهْلَهُ وَمِثْلَهُمْ مَعَهُمْ رَحْمَةً مِنْ عِنْدِنَا وَذِكْرَىٰ لِلْعَابِدِينَ",
+        "en_sahih": "English translation of [21:84] in Sahih International style.",
+        "en_yusufali": "English translation of [21:84] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 84 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:84] en español.",
+        "fr_hamidullah": "Traduction de [21:84] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 84 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:85",
+      "surahNumber": 21,
+      "ayahNumber": 85,
+      "text": {
+        "simple": "وَإِسْمَاعِيلَ وَإِدْرِيسَ وَذَا الْكِفْلِ ۖ كُلٌّ مِنَ الصَّابِرِينَ",
+        "en_sahih": "English translation of [21:85] in Sahih International style.",
+        "en_yusufali": "English translation of [21:85] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 85 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:85] en español.",
+        "fr_hamidullah": "Traduction de [21:85] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 85 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:86",
+      "surahNumber": 21,
+      "ayahNumber": 86,
+      "text": {
+        "simple": "وَأَدْخَلْنَاهُمْ فِي رَحْمَتِنَا ۖ إِنَّهُمْ مِنَ الصَّالِحِينَ",
+        "en_sahih": "English translation of [21:86] in Sahih International style.",
+        "en_yusufali": "English translation of [21:86] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 86 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:86] en español.",
+        "fr_hamidullah": "Traduction de [21:86] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 86 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:87",
+      "surahNumber": 21,
+      "ayahNumber": 87,
+      "text": {
+        "simple": "وَذَا النُّونِ إِذْ ذَهَبَ مُغَاضِبًا فَظَنَّ أَنْ لَنْ نَقْدِرَ عَلَيْهِ فَنَادَىٰ فِي الظُّلُمَاتِ أَنْ لَا إِلَٰهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ",
+        "en_sahih": "English translation of [21:87] in Sahih International style.",
+        "en_yusufali": "English translation of [21:87] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 87 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:87] en español.",
+        "fr_hamidullah": "Traduction de [21:87] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 87 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:88",
+      "surahNumber": 21,
+      "ayahNumber": 88,
+      "text": {
+        "simple": "فَاسْتَجَبْنَا لَهُ وَنَجَّيْنَاهُ مِنَ الْغَمِّ ۚ وَكَذَٰلِكَ نُنْجِي الْمُؤْمِنِينَ",
+        "en_sahih": "English translation of [21:88] in Sahih International style.",
+        "en_yusufali": "English translation of [21:88] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 88 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:88] en español.",
+        "fr_hamidullah": "Traduction de [21:88] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 88 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:89",
+      "surahNumber": 21,
+      "ayahNumber": 89,
+      "text": {
+        "simple": "وَزَكَرِيَّا إِذْ نَادَىٰ رَبَّهُ رَبِّ لَا تَذَرْنِي فَرْدًا وَأَنْتَ خَيْرُ الْوَارِثِينَ",
+        "en_sahih": "English translation of [21:89] in Sahih International style.",
+        "en_yusufali": "English translation of [21:89] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 89 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:89] en español.",
+        "fr_hamidullah": "Traduction de [21:89] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 89 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:90",
+      "surahNumber": 21,
+      "ayahNumber": 90,
+      "text": {
+        "simple": "فَاسْتَجَبْنَا لَهُ وَوَهَبْنَا لَهُ يَحْيَىٰ وَأَصْلَحْنَا لَهُ زَوْجَهُ ۚ إِنَّهُمْ كَانُوا يُسَارِعُونَ فِي الْخَيْرَاتِ وَيَدْعُونَنَا رَغَبًا وَرَهَبًا ۖ وَكَانُوا لَنَا خَاشِعِينَ",
+        "en_sahih": "English translation of [21:90] in Sahih International style.",
+        "en_yusufali": "English translation of [21:90] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 90 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:90] en español.",
+        "fr_hamidullah": "Traduction de [21:90] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 90 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:91",
+      "surahNumber": 21,
+      "ayahNumber": 91,
+      "text": {
+        "simple": "وَالَّتِي أَحْصَنَتْ فَرْجَهَا فَنَفَخْنَا فِيهَا مِنْ رُوحِنَا وَجَعَلْنَاهَا وَابْنَهَا آيَةً لِلْعَالَمِينَ",
+        "en_sahih": "English translation of [21:91] in Sahih International style.",
+        "en_yusufali": "English translation of [21:91] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 91 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:91] en español.",
+        "fr_hamidullah": "Traduction de [21:91] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 91 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:92",
+      "surahNumber": 21,
+      "ayahNumber": 92,
+      "text": {
+        "simple": "إِنَّ هَٰذِهِ أُمَّتُكُمْ أُمَّةً وَاحِدَةً وَأَنَا رَبُّكُمْ فَاعْبُدُونِ",
+        "en_sahih": "English translation of [21:92] in Sahih International style.",
+        "en_yusufali": "English translation of [21:92] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 92 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:92] en español.",
+        "fr_hamidullah": "Traduction de [21:92] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 92 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:93",
+      "surahNumber": 21,
+      "ayahNumber": 93,
+      "text": {
+        "simple": "وَتَقَطَّعُوا أَمْرَهُمْ بَيْنَهُمْ ۖ كُلٌّ إِلَيْنَا رَاجِعُونَ",
+        "en_sahih": "English translation of [21:93] in Sahih International style.",
+        "en_yusufali": "English translation of [21:93] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 93 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:93] en español.",
+        "fr_hamidullah": "Traduction de [21:93] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 93 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:94",
+      "surahNumber": 21,
+      "ayahNumber": 94,
+      "text": {
+        "simple": "فَمَنْ يَعْمَلْ مِنَ الصَّالِحَاتِ وَهُوَ مُؤْمِنٌ فَلَا كُفْرَانَ لِسَعْيِهِ وَإِنَّا لَهُ كَاتِبُونَ",
+        "en_sahih": "English translation of [21:94] in Sahih International style.",
+        "en_yusufali": "English translation of [21:94] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 94 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:94] en español.",
+        "fr_hamidullah": "Traduction de [21:94] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 94 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:95",
+      "surahNumber": 21,
+      "ayahNumber": 95,
+      "text": {
+        "simple": "وَحَرَامٌ عَلَىٰ قَرْيَةٍ أَهْلَكْنَاهَا أَنَّهُمْ لَا يَرْجِعُونَ",
+        "en_sahih": "English translation of [21:95] in Sahih International style.",
+        "en_yusufali": "English translation of [21:95] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 95 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:95] en español.",
+        "fr_hamidullah": "Traduction de [21:95] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 95 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:96",
+      "surahNumber": 21,
+      "ayahNumber": 96,
+      "text": {
+        "simple": "حَتَّىٰ إِذَا فُتِحَتْ يَأْجُوجُ وَمَأْجُوجُ وَهُمْ مِنْ كُلِّ حَدَبٍ يَنْسِلُونَ",
+        "en_sahih": "English translation of [21:96] in Sahih International style.",
+        "en_yusufali": "English translation of [21:96] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 96 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:96] en español.",
+        "fr_hamidullah": "Traduction de [21:96] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 96 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:97",
+      "surahNumber": 21,
+      "ayahNumber": 97,
+      "text": {
+        "simple": "وَاقْتَرَبَ الْوَعْدُ الْحَقُّ فَإِذَا هِيَ شَاخِصَةٌ أَبْصَارُ الَّذِينَ كَفَرُوا يَا وَيْلَنَا قَدْ كُنَّا فِي غَفْلَةٍ مِنْ هَٰذَا بَلْ كُنَّا ظَالِمِينَ",
+        "en_sahih": "English translation of [21:97] in Sahih International style.",
+        "en_yusufali": "English translation of [21:97] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 97 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:97] en español.",
+        "fr_hamidullah": "Traduction de [21:97] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 97 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:98",
+      "surahNumber": 21,
+      "ayahNumber": 98,
+      "text": {
+        "simple": "إِنَّكُمْ وَمَا تَعْبُدُونَ مِنْ دُونِ اللَّهِ حَصَبُ جَهَنَّمَ أَنْتُمْ لَهَا وَارِدُونَ",
+        "en_sahih": "English translation of [21:98] in Sahih International style.",
+        "en_yusufali": "English translation of [21:98] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 98 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:98] en español.",
+        "fr_hamidullah": "Traduction de [21:98] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 98 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:99",
+      "surahNumber": 21,
+      "ayahNumber": 99,
+      "text": {
+        "simple": "لَوْ كَانَ هَٰؤُلَاءِ آلِهَةً مَا وَرَدُوهَا ۖ وَكُلٌّ فِيهَا خَالِدُونَ",
+        "en_sahih": "English translation of [21:99] in Sahih International style.",
+        "en_yusufali": "English translation of [21:99] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 99 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:99] en español.",
+        "fr_hamidullah": "Traduction de [21:99] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 99 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:100",
+      "surahNumber": 21,
+      "ayahNumber": 100,
+      "text": {
+        "simple": "لَهُمْ فِيهَا زَفِيرٌ وَهُمْ فِيهَا لَا يَسْمَعُونَ",
+        "en_sahih": "English translation of [21:100] in Sahih International style.",
+        "en_yusufali": "English translation of [21:100] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 100 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:100] en español.",
+        "fr_hamidullah": "Traduction de [21:100] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 100 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:101",
+      "surahNumber": 21,
+      "ayahNumber": 101,
+      "text": {
+        "simple": "إِنَّ الَّذِينَ سَبَقَتْ لَهُمْ مِنَّا الْحُسْنَىٰ أُولَٰئِكَ عَنْهَا مُبْعَدُونَ",
+        "en_sahih": "English translation of [21:101] in Sahih International style.",
+        "en_yusufali": "English translation of [21:101] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 101 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:101] en español.",
+        "fr_hamidullah": "Traduction de [21:101] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 101 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:102",
+      "surahNumber": 21,
+      "ayahNumber": 102,
+      "text": {
+        "simple": "لَا يَسْمَعُونَ حَسِيسَهَا ۖ وَهُمْ فِي مَا اشْتَهَتْ أَنْفُسُهُمْ خَالِدُونَ",
+        "en_sahih": "English translation of [21:102] in Sahih International style.",
+        "en_yusufali": "English translation of [21:102] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 102 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:102] en español.",
+        "fr_hamidullah": "Traduction de [21:102] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 102 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:103",
+      "surahNumber": 21,
+      "ayahNumber": 103,
+      "text": {
+        "simple": "لَا يَحْزُنُهُمُ الْفَزَعُ الْأَكْبَرُ وَتَتَلَقَّاهُمُ الْمَلَائِكَةُ هَٰذَا يَوْمُكُمُ الَّذِي كُنْتُمْ تُوعَدُونَ",
+        "en_sahih": "English translation of [21:103] in Sahih International style.",
+        "en_yusufali": "English translation of [21:103] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 103 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:103] en español.",
+        "fr_hamidullah": "Traduction de [21:103] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 103 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:104",
+      "surahNumber": 21,
+      "ayahNumber": 104,
+      "text": {
+        "simple": "يَوْمَ نَطْوِي السَّمَاءَ كَطَيِّ السِّجِلِّ لِلْكُتُبِ ۚ كَمَا بَدَأْنَا أَوَّلَ خَلْقٍ نُعِيدُهُ ۚ وَعْدًا عَلَيْنَا ۚ إِنَّا كُنَّا فَاعِلِينَ",
+        "en_sahih": "English translation of [21:104] in Sahih International style.",
+        "en_yusufali": "English translation of [21:104] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 104 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:104] en español.",
+        "fr_hamidullah": "Traduction de [21:104] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 104 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:105",
+      "surahNumber": 21,
+      "ayahNumber": 105,
+      "text": {
+        "simple": "وَلَقَدْ كَتَبْنَا فِي الزَّبُورِ مِنْ بَعْدِ الذِّكْرِ أَنَّ الْأَرْضَ يَرِثُهَا عِبَادِيَ الصَّالِحُونَ",
+        "en_sahih": "English translation of [21:105] in Sahih International style.",
+        "en_yusufali": "English translation of [21:105] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 105 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:105] en español.",
+        "fr_hamidullah": "Traduction de [21:105] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 105 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:106",
+      "surahNumber": 21,
+      "ayahNumber": 106,
+      "text": {
+        "simple": "إِنَّ فِي هَٰذَا لَبَلَاغًا لِقَوْمٍ عَابِدِينَ",
+        "en_sahih": "English translation of [21:106] in Sahih International style.",
+        "en_yusufali": "English translation of [21:106] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 106 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:106] en español.",
+        "fr_hamidullah": "Traduction de [21:106] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 106 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:107",
+      "surahNumber": 21,
+      "ayahNumber": 107,
+      "text": {
+        "simple": "وَمَا أَرْسَلْنَاكَ إِلَّا رَحْمَةً لِلْعَالَمِينَ",
+        "en_sahih": "English translation of [21:107] in Sahih International style.",
+        "en_yusufali": "English translation of [21:107] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 107 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:107] en español.",
+        "fr_hamidullah": "Traduction de [21:107] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 107 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:108",
+      "surahNumber": 21,
+      "ayahNumber": 108,
+      "text": {
+        "simple": "قُلْ إِنَّمَا يُوحَىٰ إِلَيَّ أَنَّمَا إِلَٰهُكُمْ إِلَٰهٌ وَاحِدٌ ۖ فَهَلْ أَنْتُمْ مُسْلِمُونَ",
+        "en_sahih": "English translation of [21:108] in Sahih International style.",
+        "en_yusufali": "English translation of [21:108] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 108 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:108] en español.",
+        "fr_hamidullah": "Traduction de [21:108] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 108 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:109",
+      "surahNumber": 21,
+      "ayahNumber": 109,
+      "text": {
+        "simple": "فَإِنْ تَوَلَّوْا فَقُلْ آذَنْتُكُمْ عَلَىٰ سَوَاءٍ ۖ وَإِنْ أَدْرِي أَقَرِيبٌ أَمْ بَعِيدٌ مَا تُوعَدُونَ",
+        "en_sahih": "English translation of [21:109] in Sahih International style.",
+        "en_yusufali": "English translation of [21:109] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 109 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:109] en español.",
+        "fr_hamidullah": "Traduction de [21:109] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 109 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:110",
+      "surahNumber": 21,
+      "ayahNumber": 110,
+      "text": {
+        "simple": "إِنَّهُ يَعْلَمُ الْجَهْرَ مِنَ الْقَوْلِ وَيَعْلَمُ مَا تَكْتُمُونَ",
+        "en_sahih": "English translation of [21:110] in Sahih International style.",
+        "en_yusufali": "English translation of [21:110] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 110 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:110] en español.",
+        "fr_hamidullah": "Traduction de [21:110] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 110 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:111",
+      "surahNumber": 21,
+      "ayahNumber": 111,
+      "text": {
+        "simple": "وَإِنْ أَدْرِي لَعَلَّهُ فِتْنَةٌ لَكُمْ وَمَتَاعٌ إِلَىٰ حِينٍ",
+        "en_sahih": "English translation of [21:111] in Sahih International style.",
+        "en_yusufali": "English translation of [21:111] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 111 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:111] en español.",
+        "fr_hamidullah": "Traduction de [21:111] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 111 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "21:112",
+      "surahNumber": 21,
+      "ayahNumber": 112,
+      "text": {
+        "simple": "قَالَ رَبِّ احْكُمْ بِالْحَقِّ ۗ وَرَبُّنَا الرَّحْمَٰنُ الْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ",
+        "en_sahih": "English translation of [21:112] in Sahih International style.",
+        "en_yusufali": "English translation of [21:112] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 21 آیت 112 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [21:112] en español.",
+        "fr_hamidullah": "Traduction de [21:112] en français.",
+        "bn_hoque": "সূরা 21 আয়াত 112 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

@@ -1,0 +1,855 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.990Z",
+  "surahNumber": 51,
+  "ayahCount": 60,
+  "ayahs": [
+    {
+      "id": "51:1",
+      "surahNumber": 51,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَالذَّارِيَاتِ ذَرْوًا",
+        "en_sahih": "English translation of [51:1] in Sahih International style.",
+        "en_yusufali": "English translation of [51:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:1] en español.",
+        "fr_hamidullah": "Traduction de [51:1] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:2",
+      "surahNumber": 51,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "فَالْحَامِلَاتِ وِقْرًا",
+        "en_sahih": "English translation of [51:2] in Sahih International style.",
+        "en_yusufali": "English translation of [51:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:2] en español.",
+        "fr_hamidullah": "Traduction de [51:2] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:3",
+      "surahNumber": 51,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "فَالْجَارِيَاتِ يُسْرًا",
+        "en_sahih": "English translation of [51:3] in Sahih International style.",
+        "en_yusufali": "English translation of [51:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:3] en español.",
+        "fr_hamidullah": "Traduction de [51:3] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:4",
+      "surahNumber": 51,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "فَالْمُقَسِّمَاتِ أَمْرًا",
+        "en_sahih": "English translation of [51:4] in Sahih International style.",
+        "en_yusufali": "English translation of [51:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:4] en español.",
+        "fr_hamidullah": "Traduction de [51:4] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:5",
+      "surahNumber": 51,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "إِنَّمَا تُوعَدُونَ لَصَادِقٌ",
+        "en_sahih": "English translation of [51:5] in Sahih International style.",
+        "en_yusufali": "English translation of [51:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:5] en español.",
+        "fr_hamidullah": "Traduction de [51:5] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:6",
+      "surahNumber": 51,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "وَإِنَّ الدِّينَ لَوَاقِعٌ",
+        "en_sahih": "English translation of [51:6] in Sahih International style.",
+        "en_yusufali": "English translation of [51:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:6] en español.",
+        "fr_hamidullah": "Traduction de [51:6] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:7",
+      "surahNumber": 51,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "وَالسَّمَاءِ ذَاتِ الْحُبُكِ",
+        "en_sahih": "English translation of [51:7] in Sahih International style.",
+        "en_yusufali": "English translation of [51:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:7] en español.",
+        "fr_hamidullah": "Traduction de [51:7] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:8",
+      "surahNumber": 51,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "إِنَّكُمْ لَفِي قَوْلٍ مُخْتَلِفٍ",
+        "en_sahih": "English translation of [51:8] in Sahih International style.",
+        "en_yusufali": "English translation of [51:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:8] en español.",
+        "fr_hamidullah": "Traduction de [51:8] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:9",
+      "surahNumber": 51,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "يُؤْفَكُ عَنْهُ مَنْ أُفِكَ",
+        "en_sahih": "English translation of [51:9] in Sahih International style.",
+        "en_yusufali": "English translation of [51:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:9] en español.",
+        "fr_hamidullah": "Traduction de [51:9] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:10",
+      "surahNumber": 51,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "قُتِلَ الْخَرَّاصُونَ",
+        "en_sahih": "English translation of [51:10] in Sahih International style.",
+        "en_yusufali": "English translation of [51:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:10] en español.",
+        "fr_hamidullah": "Traduction de [51:10] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:11",
+      "surahNumber": 51,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "الَّذِينَ هُمْ فِي غَمْرَةٍ سَاهُونَ",
+        "en_sahih": "English translation of [51:11] in Sahih International style.",
+        "en_yusufali": "English translation of [51:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:11] en español.",
+        "fr_hamidullah": "Traduction de [51:11] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:12",
+      "surahNumber": 51,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "يَسْأَلُونَ أَيَّانَ يَوْمُ الدِّينِ",
+        "en_sahih": "English translation of [51:12] in Sahih International style.",
+        "en_yusufali": "English translation of [51:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:12] en español.",
+        "fr_hamidullah": "Traduction de [51:12] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:13",
+      "surahNumber": 51,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "يَوْمَ هُمْ عَلَى النَّارِ يُفْتَنُونَ",
+        "en_sahih": "English translation of [51:13] in Sahih International style.",
+        "en_yusufali": "English translation of [51:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:13] en español.",
+        "fr_hamidullah": "Traduction de [51:13] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:14",
+      "surahNumber": 51,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "ذُوقُوا فِتْنَتَكُمْ هَٰذَا الَّذِي كُنْتُمْ بِهِ تَسْتَعْجِلُونَ",
+        "en_sahih": "English translation of [51:14] in Sahih International style.",
+        "en_yusufali": "English translation of [51:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:14] en español.",
+        "fr_hamidullah": "Traduction de [51:14] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:15",
+      "surahNumber": 51,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَعُيُونٍ",
+        "en_sahih": "English translation of [51:15] in Sahih International style.",
+        "en_yusufali": "English translation of [51:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:15] en español.",
+        "fr_hamidullah": "Traduction de [51:15] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:16",
+      "surahNumber": 51,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "آخِذِينَ مَا آتَاهُمْ رَبُّهُمْ ۚ إِنَّهُمْ كَانُوا قَبْلَ ذَٰلِكَ مُحْسِنِينَ",
+        "en_sahih": "English translation of [51:16] in Sahih International style.",
+        "en_yusufali": "English translation of [51:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:16] en español.",
+        "fr_hamidullah": "Traduction de [51:16] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:17",
+      "surahNumber": 51,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "كَانُوا قَلِيلًا مِنَ اللَّيْلِ مَا يَهْجَعُونَ",
+        "en_sahih": "English translation of [51:17] in Sahih International style.",
+        "en_yusufali": "English translation of [51:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:17] en español.",
+        "fr_hamidullah": "Traduction de [51:17] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:18",
+      "surahNumber": 51,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "وَبِالْأَسْحَارِ هُمْ يَسْتَغْفِرُونَ",
+        "en_sahih": "English translation of [51:18] in Sahih International style.",
+        "en_yusufali": "English translation of [51:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:18] en español.",
+        "fr_hamidullah": "Traduction de [51:18] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:19",
+      "surahNumber": 51,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "وَفِي أَمْوَالِهِمْ حَقٌّ لِلسَّائِلِ وَالْمَحْرُومِ",
+        "en_sahih": "English translation of [51:19] in Sahih International style.",
+        "en_yusufali": "English translation of [51:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:19] en español.",
+        "fr_hamidullah": "Traduction de [51:19] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:20",
+      "surahNumber": 51,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "وَفِي الْأَرْضِ آيَاتٌ لِلْمُوقِنِينَ",
+        "en_sahih": "English translation of [51:20] in Sahih International style.",
+        "en_yusufali": "English translation of [51:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:20] en español.",
+        "fr_hamidullah": "Traduction de [51:20] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:21",
+      "surahNumber": 51,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "وَفِي أَنْفُسِكُمْ ۚ أَفَلَا تُبْصِرُونَ",
+        "en_sahih": "English translation of [51:21] in Sahih International style.",
+        "en_yusufali": "English translation of [51:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:21] en español.",
+        "fr_hamidullah": "Traduction de [51:21] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:22",
+      "surahNumber": 51,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "وَفِي السَّمَاءِ رِزْقُكُمْ وَمَا تُوعَدُونَ",
+        "en_sahih": "English translation of [51:22] in Sahih International style.",
+        "en_yusufali": "English translation of [51:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:22] en español.",
+        "fr_hamidullah": "Traduction de [51:22] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:23",
+      "surahNumber": 51,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "فَوَرَبِّ السَّمَاءِ وَالْأَرْضِ إِنَّهُ لَحَقٌّ مِثْلَ مَا أَنَّكُمْ تَنْطِقُونَ",
+        "en_sahih": "English translation of [51:23] in Sahih International style.",
+        "en_yusufali": "English translation of [51:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:23] en español.",
+        "fr_hamidullah": "Traduction de [51:23] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:24",
+      "surahNumber": 51,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "هَلْ أَتَاكَ حَدِيثُ ضَيْفِ إِبْرَاهِيمَ الْمُكْرَمِينَ",
+        "en_sahih": "English translation of [51:24] in Sahih International style.",
+        "en_yusufali": "English translation of [51:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:24] en español.",
+        "fr_hamidullah": "Traduction de [51:24] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:25",
+      "surahNumber": 51,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "إِذْ دَخَلُوا عَلَيْهِ فَقَالُوا سَلَامًا ۖ قَالَ سَلَامٌ قَوْمٌ مُنْكَرُونَ",
+        "en_sahih": "English translation of [51:25] in Sahih International style.",
+        "en_yusufali": "English translation of [51:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:25] en español.",
+        "fr_hamidullah": "Traduction de [51:25] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:26",
+      "surahNumber": 51,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "فَرَاغَ إِلَىٰ أَهْلِهِ فَجَاءَ بِعِجْلٍ سَمِينٍ",
+        "en_sahih": "English translation of [51:26] in Sahih International style.",
+        "en_yusufali": "English translation of [51:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:26] en español.",
+        "fr_hamidullah": "Traduction de [51:26] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:27",
+      "surahNumber": 51,
+      "ayahNumber": 27,
+      "text": {
+        "simple": "فَقَرَّبَهُ إِلَيْهِمْ قَالَ أَلَا تَأْكُلُونَ",
+        "en_sahih": "English translation of [51:27] in Sahih International style.",
+        "en_yusufali": "English translation of [51:27] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:27] en español.",
+        "fr_hamidullah": "Traduction de [51:27] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:28",
+      "surahNumber": 51,
+      "ayahNumber": 28,
+      "text": {
+        "simple": "فَأَوْجَسَ مِنْهُمْ خِيفَةً ۖ قَالُوا لَا تَخَفْ ۖ وَبَشَّرُوهُ بِغُلَامٍ عَلِيمٍ",
+        "en_sahih": "English translation of [51:28] in Sahih International style.",
+        "en_yusufali": "English translation of [51:28] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:28] en español.",
+        "fr_hamidullah": "Traduction de [51:28] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:29",
+      "surahNumber": 51,
+      "ayahNumber": 29,
+      "text": {
+        "simple": "فَأَقْبَلَتِ امْرَأَتُهُ فِي صَرَّةٍ فَصَكَّتْ وَجْهَهَا وَقَالَتْ عَجُوزٌ عَقِيمٌ",
+        "en_sahih": "English translation of [51:29] in Sahih International style.",
+        "en_yusufali": "English translation of [51:29] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:29] en español.",
+        "fr_hamidullah": "Traduction de [51:29] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:30",
+      "surahNumber": 51,
+      "ayahNumber": 30,
+      "text": {
+        "simple": "قَالُوا كَذَٰلِكِ قَالَ رَبُّكِ ۖ إِنَّهُ هُوَ الْحَكِيمُ الْعَلِيمُ",
+        "en_sahih": "English translation of [51:30] in Sahih International style.",
+        "en_yusufali": "English translation of [51:30] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:30] en español.",
+        "fr_hamidullah": "Traduction de [51:30] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:31",
+      "surahNumber": 51,
+      "ayahNumber": 31,
+      "text": {
+        "simple": "۞ قَالَ فَمَا خَطْبُكُمْ أَيُّهَا الْمُرْسَلُونَ",
+        "en_sahih": "English translation of [51:31] in Sahih International style.",
+        "en_yusufali": "English translation of [51:31] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:31] en español.",
+        "fr_hamidullah": "Traduction de [51:31] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:32",
+      "surahNumber": 51,
+      "ayahNumber": 32,
+      "text": {
+        "simple": "قَالُوا إِنَّا أُرْسِلْنَا إِلَىٰ قَوْمٍ مُجْرِمِينَ",
+        "en_sahih": "English translation of [51:32] in Sahih International style.",
+        "en_yusufali": "English translation of [51:32] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:32] en español.",
+        "fr_hamidullah": "Traduction de [51:32] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:33",
+      "surahNumber": 51,
+      "ayahNumber": 33,
+      "text": {
+        "simple": "لِنُرْسِلَ عَلَيْهِمْ حِجَارَةً مِنْ طِينٍ",
+        "en_sahih": "English translation of [51:33] in Sahih International style.",
+        "en_yusufali": "English translation of [51:33] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:33] en español.",
+        "fr_hamidullah": "Traduction de [51:33] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:34",
+      "surahNumber": 51,
+      "ayahNumber": 34,
+      "text": {
+        "simple": "مُسَوَّمَةً عِنْدَ رَبِّكَ لِلْمُسْرِفِينَ",
+        "en_sahih": "English translation of [51:34] in Sahih International style.",
+        "en_yusufali": "English translation of [51:34] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:34] en español.",
+        "fr_hamidullah": "Traduction de [51:34] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:35",
+      "surahNumber": 51,
+      "ayahNumber": 35,
+      "text": {
+        "simple": "فَأَخْرَجْنَا مَنْ كَانَ فِيهَا مِنَ الْمُؤْمِنِينَ",
+        "en_sahih": "English translation of [51:35] in Sahih International style.",
+        "en_yusufali": "English translation of [51:35] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:35] en español.",
+        "fr_hamidullah": "Traduction de [51:35] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:36",
+      "surahNumber": 51,
+      "ayahNumber": 36,
+      "text": {
+        "simple": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍ مِنَ الْمُسْلِمِينَ",
+        "en_sahih": "English translation of [51:36] in Sahih International style.",
+        "en_yusufali": "English translation of [51:36] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:36] en español.",
+        "fr_hamidullah": "Traduction de [51:36] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:37",
+      "surahNumber": 51,
+      "ayahNumber": 37,
+      "text": {
+        "simple": "وَتَرَكْنَا فِيهَا آيَةً لِلَّذِينَ يَخَافُونَ الْعَذَابَ الْأَلِيمَ",
+        "en_sahih": "English translation of [51:37] in Sahih International style.",
+        "en_yusufali": "English translation of [51:37] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:37] en español.",
+        "fr_hamidullah": "Traduction de [51:37] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:38",
+      "surahNumber": 51,
+      "ayahNumber": 38,
+      "text": {
+        "simple": "وَفِي مُوسَىٰ إِذْ أَرْسَلْنَاهُ إِلَىٰ فِرْعَوْنَ بِسُلْطَانٍ مُبِينٍ",
+        "en_sahih": "English translation of [51:38] in Sahih International style.",
+        "en_yusufali": "English translation of [51:38] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 38 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:38] en español.",
+        "fr_hamidullah": "Traduction de [51:38] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:39",
+      "surahNumber": 51,
+      "ayahNumber": 39,
+      "text": {
+        "simple": "فَتَوَلَّىٰ بِرُكْنِهِ وَقَالَ سَاحِرٌ أَوْ مَجْنُونٌ",
+        "en_sahih": "English translation of [51:39] in Sahih International style.",
+        "en_yusufali": "English translation of [51:39] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 39 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:39] en español.",
+        "fr_hamidullah": "Traduction de [51:39] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:40",
+      "surahNumber": 51,
+      "ayahNumber": 40,
+      "text": {
+        "simple": "فَأَخَذْنَاهُ وَجُنُودَهُ فَنَبَذْنَاهُمْ فِي الْيَمِّ وَهُوَ مُلِيمٌ",
+        "en_sahih": "English translation of [51:40] in Sahih International style.",
+        "en_yusufali": "English translation of [51:40] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 40 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:40] en español.",
+        "fr_hamidullah": "Traduction de [51:40] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:41",
+      "surahNumber": 51,
+      "ayahNumber": 41,
+      "text": {
+        "simple": "وَفِي عَادٍ إِذْ أَرْسَلْنَا عَلَيْهِمُ الرِّيحَ الْعَقِيمَ",
+        "en_sahih": "English translation of [51:41] in Sahih International style.",
+        "en_yusufali": "English translation of [51:41] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 41 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:41] en español.",
+        "fr_hamidullah": "Traduction de [51:41] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:42",
+      "surahNumber": 51,
+      "ayahNumber": 42,
+      "text": {
+        "simple": "مَا تَذَرُ مِنْ شَيْءٍ أَتَتْ عَلَيْهِ إِلَّا جَعَلَتْهُ كَالرَّمِيمِ",
+        "en_sahih": "English translation of [51:42] in Sahih International style.",
+        "en_yusufali": "English translation of [51:42] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 42 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:42] en español.",
+        "fr_hamidullah": "Traduction de [51:42] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:43",
+      "surahNumber": 51,
+      "ayahNumber": 43,
+      "text": {
+        "simple": "وَفِي ثَمُودَ إِذْ قِيلَ لَهُمْ تَمَتَّعُوا حَتَّىٰ حِينٍ",
+        "en_sahih": "English translation of [51:43] in Sahih International style.",
+        "en_yusufali": "English translation of [51:43] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 43 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:43] en español.",
+        "fr_hamidullah": "Traduction de [51:43] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:44",
+      "surahNumber": 51,
+      "ayahNumber": 44,
+      "text": {
+        "simple": "فَعَتَوْا عَنْ أَمْرِ رَبِّهِمْ فَأَخَذَتْهُمُ الصَّاعِقَةُ وَهُمْ يَنْظُرُونَ",
+        "en_sahih": "English translation of [51:44] in Sahih International style.",
+        "en_yusufali": "English translation of [51:44] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 44 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:44] en español.",
+        "fr_hamidullah": "Traduction de [51:44] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:45",
+      "surahNumber": 51,
+      "ayahNumber": 45,
+      "text": {
+        "simple": "فَمَا اسْتَطَاعُوا مِنْ قِيَامٍ وَمَا كَانُوا مُنْتَصِرِينَ",
+        "en_sahih": "English translation of [51:45] in Sahih International style.",
+        "en_yusufali": "English translation of [51:45] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 45 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:45] en español.",
+        "fr_hamidullah": "Traduction de [51:45] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:46",
+      "surahNumber": 51,
+      "ayahNumber": 46,
+      "text": {
+        "simple": "وَقَوْمَ نُوحٍ مِنْ قَبْلُ ۖ إِنَّهُمْ كَانُوا قَوْمًا فَاسِقِينَ",
+        "en_sahih": "English translation of [51:46] in Sahih International style.",
+        "en_yusufali": "English translation of [51:46] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 46 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:46] en español.",
+        "fr_hamidullah": "Traduction de [51:46] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:47",
+      "surahNumber": 51,
+      "ayahNumber": 47,
+      "text": {
+        "simple": "وَالسَّمَاءَ بَنَيْنَاهَا بِأَيْدٍ وَإِنَّا لَمُوسِعُونَ",
+        "en_sahih": "English translation of [51:47] in Sahih International style.",
+        "en_yusufali": "English translation of [51:47] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 47 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:47] en español.",
+        "fr_hamidullah": "Traduction de [51:47] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:48",
+      "surahNumber": 51,
+      "ayahNumber": 48,
+      "text": {
+        "simple": "وَالْأَرْضَ فَرَشْنَاهَا فَنِعْمَ الْمَاهِدُونَ",
+        "en_sahih": "English translation of [51:48] in Sahih International style.",
+        "en_yusufali": "English translation of [51:48] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 48 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:48] en español.",
+        "fr_hamidullah": "Traduction de [51:48] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:49",
+      "surahNumber": 51,
+      "ayahNumber": 49,
+      "text": {
+        "simple": "وَمِنْ كُلِّ شَيْءٍ خَلَقْنَا زَوْجَيْنِ لَعَلَّكُمْ تَذَكَّرُونَ",
+        "en_sahih": "English translation of [51:49] in Sahih International style.",
+        "en_yusufali": "English translation of [51:49] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 49 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:49] en español.",
+        "fr_hamidullah": "Traduction de [51:49] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:50",
+      "surahNumber": 51,
+      "ayahNumber": 50,
+      "text": {
+        "simple": "فَفِرُّوا إِلَى اللَّهِ ۖ إِنِّي لَكُمْ مِنْهُ نَذِيرٌ مُبِينٌ",
+        "en_sahih": "English translation of [51:50] in Sahih International style.",
+        "en_yusufali": "English translation of [51:50] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 50 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:50] en español.",
+        "fr_hamidullah": "Traduction de [51:50] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:51",
+      "surahNumber": 51,
+      "ayahNumber": 51,
+      "text": {
+        "simple": "وَلَا تَجْعَلُوا مَعَ اللَّهِ إِلَٰهًا آخَرَ ۖ إِنِّي لَكُمْ مِنْهُ نَذِيرٌ مُبِينٌ",
+        "en_sahih": "English translation of [51:51] in Sahih International style.",
+        "en_yusufali": "English translation of [51:51] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 51 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:51] en español.",
+        "fr_hamidullah": "Traduction de [51:51] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:52",
+      "surahNumber": 51,
+      "ayahNumber": 52,
+      "text": {
+        "simple": "كَذَٰلِكَ مَا أَتَى الَّذِينَ مِنْ قَبْلِهِمْ مِنْ رَسُولٍ إِلَّا قَالُوا سَاحِرٌ أَوْ مَجْنُونٌ",
+        "en_sahih": "English translation of [51:52] in Sahih International style.",
+        "en_yusufali": "English translation of [51:52] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 52 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:52] en español.",
+        "fr_hamidullah": "Traduction de [51:52] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:53",
+      "surahNumber": 51,
+      "ayahNumber": 53,
+      "text": {
+        "simple": "أَتَوَاصَوْا بِهِ ۚ بَلْ هُمْ قَوْمٌ طَاغُونَ",
+        "en_sahih": "English translation of [51:53] in Sahih International style.",
+        "en_yusufali": "English translation of [51:53] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 53 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:53] en español.",
+        "fr_hamidullah": "Traduction de [51:53] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 53 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:54",
+      "surahNumber": 51,
+      "ayahNumber": 54,
+      "text": {
+        "simple": "فَتَوَلَّ عَنْهُمْ فَمَا أَنْتَ بِمَلُومٍ",
+        "en_sahih": "English translation of [51:54] in Sahih International style.",
+        "en_yusufali": "English translation of [51:54] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 54 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:54] en español.",
+        "fr_hamidullah": "Traduction de [51:54] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 54 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:55",
+      "surahNumber": 51,
+      "ayahNumber": 55,
+      "text": {
+        "simple": "وَذَكِّرْ فَإِنَّ الذِّكْرَىٰ تَنْفَعُ الْمُؤْمِنِينَ",
+        "en_sahih": "English translation of [51:55] in Sahih International style.",
+        "en_yusufali": "English translation of [51:55] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 55 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:55] en español.",
+        "fr_hamidullah": "Traduction de [51:55] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 55 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:56",
+      "surahNumber": 51,
+      "ayahNumber": 56,
+      "text": {
+        "simple": "وَمَا خَلَقْتُ الْجِنَّ وَالْإِنْسَ إِلَّا لِيَعْبُدُونِ",
+        "en_sahih": "English translation of [51:56] in Sahih International style.",
+        "en_yusufali": "English translation of [51:56] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 56 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:56] en español.",
+        "fr_hamidullah": "Traduction de [51:56] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 56 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:57",
+      "surahNumber": 51,
+      "ayahNumber": 57,
+      "text": {
+        "simple": "مَا أُرِيدُ مِنْهُمْ مِنْ رِزْقٍ وَمَا أُرِيدُ أَنْ يُطْعِمُونِ",
+        "en_sahih": "English translation of [51:57] in Sahih International style.",
+        "en_yusufali": "English translation of [51:57] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 57 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:57] en español.",
+        "fr_hamidullah": "Traduction de [51:57] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 57 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:58",
+      "surahNumber": 51,
+      "ayahNumber": 58,
+      "text": {
+        "simple": "إِنَّ اللَّهَ هُوَ الرَّزَّاقُ ذُو الْقُوَّةِ الْمَتِينُ",
+        "en_sahih": "English translation of [51:58] in Sahih International style.",
+        "en_yusufali": "English translation of [51:58] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 58 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:58] en español.",
+        "fr_hamidullah": "Traduction de [51:58] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 58 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:59",
+      "surahNumber": 51,
+      "ayahNumber": 59,
+      "text": {
+        "simple": "فَإِنَّ لِلَّذِينَ ظَلَمُوا ذَنُوبًا مِثْلَ ذَنُوبِ أَصْحَابِهِمْ فَلَا يَسْتَعْجِلُونِ",
+        "en_sahih": "English translation of [51:59] in Sahih International style.",
+        "en_yusufali": "English translation of [51:59] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 59 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:59] en español.",
+        "fr_hamidullah": "Traduction de [51:59] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 59 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "51:60",
+      "surahNumber": 51,
+      "ayahNumber": 60,
+      "text": {
+        "simple": "فَوَيْلٌ لِلَّذِينَ كَفَرُوا مِنْ يَوْمِهِمُ الَّذِي يُوعَدُونَ",
+        "en_sahih": "English translation of [51:60] in Sahih International style.",
+        "en_yusufali": "English translation of [51:60] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 51 آیت 60 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [51:60] en español.",
+        "fr_hamidullah": "Traduction de [51:60] en français.",
+        "bn_hoque": "সূরা 51 আয়াত 60 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

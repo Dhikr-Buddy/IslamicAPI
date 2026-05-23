@@ -9,6 +9,8 @@ Welcome to the **IslamicAPI Developer Wiki**! This documentation is designed to 
 *   [**Getting Started**](Getting-Started.md): Quick setup, local development server, and folder structure.
 *   [**JavaScript/TypeScript SDK**](Javascript-SDK.md): Core JS package API reference, types, and browser usage.
 *   [**Python SDK**](Python-SDK.md): Python library API, model validation, and offline usage.
+*   [**Mobile Client SDKs**](Mobile-SDKs.md): Natively integrated, zero-dependency helper files for Flutter, Swift, and Kotlin.
+*   [**Timestamps & Downloads**](Timestamps-and-Downloads.md): Sub-second sync markers (Page, Ayah, Word level) and server/client file downloading.
 *   [**Static Raw Web API**](Static-API.md): How to use raw JSON links over CDN/GitHub Pages without a backend.
 *   [**Dataset Pipeline**](Dataset-Pipeline.md): Understand sources, crawling, validation, and normalization.
 

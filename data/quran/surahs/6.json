@@ -1,0 +1,2325 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.968Z",
+  "surahNumber": 6,
+  "ayahCount": 165,
+  "ayahs": [
+    {
+      "id": "6:1",
+      "surahNumber": 6,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ الْحَمْدُ لِلَّهِ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَجَعَلَ الظُّلُمَاتِ وَالنُّورَ ۖ ثُمَّ الَّذِينَ كَفَرُوا بِرَبِّهِمْ يَعْدِلُونَ",
+        "en_sahih": "English translation of [6:1] in Sahih International style.",
+        "en_yusufali": "English translation of [6:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:1] en español.",
+        "fr_hamidullah": "Traduction de [6:1] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:2",
+      "surahNumber": 6,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "هُوَ الَّذِي خَلَقَكُمْ مِنْ طِينٍ ثُمَّ قَضَىٰ أَجَلًا ۖ وَأَجَلٌ مُسَمًّى عِنْدَهُ ۖ ثُمَّ أَنْتُمْ تَمْتَرُونَ",
+        "en_sahih": "English translation of [6:2] in Sahih International style.",
+        "en_yusufali": "English translation of [6:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:2] en español.",
+        "fr_hamidullah": "Traduction de [6:2] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:3",
+      "surahNumber": 6,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "وَهُوَ اللَّهُ فِي السَّمَاوَاتِ وَفِي الْأَرْضِ ۖ يَعْلَمُ سِرَّكُمْ وَجَهْرَكُمْ وَيَعْلَمُ مَا تَكْسِبُونَ",
+        "en_sahih": "English translation of [6:3] in Sahih International style.",
+        "en_yusufali": "English translation of [6:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:3] en español.",
+        "fr_hamidullah": "Traduction de [6:3] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:4",
+      "surahNumber": 6,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "وَمَا تَأْتِيهِمْ مِنْ آيَةٍ مِنْ آيَاتِ رَبِّهِمْ إِلَّا كَانُوا عَنْهَا مُعْرِضِينَ",
+        "en_sahih": "English translation of [6:4] in Sahih International style.",
+        "en_yusufali": "English translation of [6:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:4] en español.",
+        "fr_hamidullah": "Traduction de [6:4] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:5",
+      "surahNumber": 6,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "فَقَدْ كَذَّبُوا بِالْحَقِّ لَمَّا جَاءَهُمْ ۖ فَسَوْفَ يَأْتِيهِمْ أَنْبَاءُ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+        "en_sahih": "English translation of [6:5] in Sahih International style.",
+        "en_yusufali": "English translation of [6:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:5] en español.",
+        "fr_hamidullah": "Traduction de [6:5] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:6",
+      "surahNumber": 6,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "أَلَمْ يَرَوْا كَمْ أَهْلَكْنَا مِنْ قَبْلِهِمْ مِنْ قَرْنٍ مَكَّنَّاهُمْ فِي الْأَرْضِ مَا لَمْ نُمَكِّنْ لَكُمْ وَأَرْسَلْنَا السَّمَاءَ عَلَيْهِمْ مِدْرَارًا وَجَعَلْنَا الْأَنْهَارَ تَجْرِي مِنْ تَحْتِهِمْ فَأَهْلَكْنَاهُمْ بِذُنُوبِهِمْ وَأَنْشَأْنَا مِنْ بَعْدِهِمْ قَرْنًا آخَرِينَ",
+        "en_sahih": "English translation of [6:6] in Sahih International style.",
+        "en_yusufali": "English translation of [6:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:6] en español.",
+        "fr_hamidullah": "Traduction de [6:6] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:7",
+      "surahNumber": 6,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "وَلَوْ نَزَّلْنَا عَلَيْكَ كِتَابًا فِي قِرْطَاسٍ فَلَمَسُوهُ بِأَيْدِيهِمْ لَقَالَ الَّذِينَ كَفَرُوا إِنْ هَٰذَا إِلَّا سِحْرٌ مُبِينٌ",
+        "en_sahih": "English translation of [6:7] in Sahih International style.",
+        "en_yusufali": "English translation of [6:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:7] en español.",
+        "fr_hamidullah": "Traduction de [6:7] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:8",
+      "surahNumber": 6,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "وَقَالُوا لَوْلَا أُنْزِلَ عَلَيْهِ مَلَكٌ ۖ وَلَوْ أَنْزَلْنَا مَلَكًا لَقُضِيَ الْأَمْرُ ثُمَّ لَا يُنْظَرُونَ",
+        "en_sahih": "English translation of [6:8] in Sahih International style.",
+        "en_yusufali": "English translation of [6:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:8] en español.",
+        "fr_hamidullah": "Traduction de [6:8] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:9",
+      "surahNumber": 6,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "وَلَوْ جَعَلْنَاهُ مَلَكًا لَجَعَلْنَاهُ رَجُلًا وَلَلَبَسْنَا عَلَيْهِمْ مَا يَلْبِسُونَ",
+        "en_sahih": "English translation of [6:9] in Sahih International style.",
+        "en_yusufali": "English translation of [6:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:9] en español.",
+        "fr_hamidullah": "Traduction de [6:9] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:10",
+      "surahNumber": 6,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "وَلَقَدِ اسْتُهْزِئَ بِرُسُلٍ مِنْ قَبْلِكَ فَحَاقَ بِالَّذِينَ سَخِرُوا مِنْهُمْ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+        "en_sahih": "English translation of [6:10] in Sahih International style.",
+        "en_yusufali": "English translation of [6:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:10] en español.",
+        "fr_hamidullah": "Traduction de [6:10] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:11",
+      "surahNumber": 6,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "قُلْ سِيرُوا فِي الْأَرْضِ ثُمَّ انْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ",
+        "en_sahih": "English translation of [6:11] in Sahih International style.",
+        "en_yusufali": "English translation of [6:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:11] en español.",
+        "fr_hamidullah": "Traduction de [6:11] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:12",
+      "surahNumber": 6,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "قُلْ لِمَنْ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ قُلْ لِلَّهِ ۚ كَتَبَ عَلَىٰ نَفْسِهِ الرَّحْمَةَ ۚ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ الْقِيَامَةِ لَا رَيْبَ فِيهِ ۚ الَّذِينَ خَسِرُوا أَنْفُسَهُمْ فَهُمْ لَا يُؤْمِنُونَ",
+        "en_sahih": "English translation of [6:12] in Sahih International style.",
+        "en_yusufali": "English translation of [6:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:12] en español.",
+        "fr_hamidullah": "Traduction de [6:12] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:13",
+      "surahNumber": 6,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "۞ وَلَهُ مَا سَكَنَ فِي اللَّيْلِ وَالنَّهَارِ ۚ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+        "en_sahih": "English translation of [6:13] in Sahih International style.",
+        "en_yusufali": "English translation of [6:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:13] en español.",
+        "fr_hamidullah": "Traduction de [6:13] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:14",
+      "surahNumber": 6,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "قُلْ أَغَيْرَ اللَّهِ أَتَّخِذُ وَلِيًّا فَاطِرِ السَّمَاوَاتِ وَالْأَرْضِ وَهُوَ يُطْعِمُ وَلَا يُطْعَمُ ۗ قُلْ إِنِّي أُمِرْتُ أَنْ أَكُونَ أَوَّلَ مَنْ أَسْلَمَ ۖ وَلَا تَكُونَنَّ مِنَ الْمُشْرِكِينَ",
+        "en_sahih": "English translation of [6:14] in Sahih International style.",
+        "en_yusufali": "English translation of [6:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:14] en español.",
+        "fr_hamidullah": "Traduction de [6:14] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:15",
+      "surahNumber": 6,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "قُلْ إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ",
+        "en_sahih": "English translation of [6:15] in Sahih International style.",
+        "en_yusufali": "English translation of [6:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:15] en español.",
+        "fr_hamidullah": "Traduction de [6:15] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:16",
+      "surahNumber": 6,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "مَنْ يُصْرَفْ عَنْهُ يَوْمَئِذٍ فَقَدْ رَحِمَهُ ۚ وَذَٰلِكَ الْفَوْزُ الْمُبِينُ",
+        "en_sahih": "English translation of [6:16] in Sahih International style.",
+        "en_yusufali": "English translation of [6:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:16] en español.",
+        "fr_hamidullah": "Traduction de [6:16] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:17",
+      "surahNumber": 6,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "وَإِنْ يَمْسَسْكَ اللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُ إِلَّا هُوَ ۖ وَإِنْ يَمْسَسْكَ بِخَيْرٍ فَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+        "en_sahih": "English translation of [6:17] in Sahih International style.",
+        "en_yusufali": "English translation of [6:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:17] en español.",
+        "fr_hamidullah": "Traduction de [6:17] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:18",
+      "surahNumber": 6,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "وَهُوَ الْقَاهِرُ فَوْقَ عِبَادِهِ ۚ وَهُوَ الْحَكِيمُ الْخَبِيرُ",
+        "en_sahih": "English translation of [6:18] in Sahih International style.",
+        "en_yusufali": "English translation of [6:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:18] en español.",
+        "fr_hamidullah": "Traduction de [6:18] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:19",
+      "surahNumber": 6,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "قُلْ أَيُّ شَيْءٍ أَكْبَرُ شَهَادَةً ۖ قُلِ اللَّهُ ۖ شَهِيدٌ بَيْنِي وَبَيْنَكُمْ ۚ وَأُوحِيَ إِلَيَّ هَٰذَا الْقُرْآنُ لِأُنْذِرَكُمْ بِهِ وَمَنْ بَلَغَ ۚ أَئِنَّكُمْ لَتَشْهَدُونَ أَنَّ مَعَ اللَّهِ آلِهَةً أُخْرَىٰ ۚ قُلْ لَا أَشْهَدُ ۚ قُلْ إِنَّمَا هُوَ إِلَٰهٌ وَاحِدٌ وَإِنَّنِي بَرِيءٌ مِمَّا تُشْرِكُونَ",
+        "en_sahih": "English translation of [6:19] in Sahih International style.",
+        "en_yusufali": "English translation of [6:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:19] en español.",
+        "fr_hamidullah": "Traduction de [6:19] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:20",
+      "surahNumber": 6,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يَعْرِفُونَهُ كَمَا يَعْرِفُونَ أَبْنَاءَهُمُ ۘ الَّذِينَ خَسِرُوا أَنْفُسَهُمْ فَهُمْ لَا يُؤْمِنُونَ",
+        "en_sahih": "English translation of [6:20] in Sahih International style.",
+        "en_yusufali": "English translation of [6:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:20] en español.",
+        "fr_hamidullah": "Traduction de [6:20] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:21",
+      "surahNumber": 6,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ بِآيَاتِهِ ۗ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ",
+        "en_sahih": "English translation of [6:21] in Sahih International style.",
+        "en_yusufali": "English translation of [6:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:21] en español.",
+        "fr_hamidullah": "Traduction de [6:21] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:22",
+      "surahNumber": 6,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "وَيَوْمَ نَحْشُرُهُمْ جَمِيعًا ثُمَّ نَقُولُ لِلَّذِينَ أَشْرَكُوا أَيْنَ شُرَكَاؤُكُمُ الَّذِينَ كُنْتُمْ تَزْعُمُونَ",
+        "en_sahih": "English translation of [6:22] in Sahih International style.",
+        "en_yusufali": "English translation of [6:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:22] en español.",
+        "fr_hamidullah": "Traduction de [6:22] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:23",
+      "surahNumber": 6,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "ثُمَّ لَمْ تَكُنْ فِتْنَتُهُمْ إِلَّا أَنْ قَالُوا وَاللَّهِ رَبِّنَا مَا كُنَّا مُشْرِكِينَ",
+        "en_sahih": "English translation of [6:23] in Sahih International style.",
+        "en_yusufali": "English translation of [6:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:23] en español.",
+        "fr_hamidullah": "Traduction de [6:23] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:24",
+      "surahNumber": 6,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "انْظُرْ كَيْفَ كَذَبُوا عَلَىٰ أَنْفُسِهِمْ ۚ وَضَلَّ عَنْهُمْ مَا كَانُوا يَفْتَرُونَ",
+        "en_sahih": "English translation of [6:24] in Sahih International style.",
+        "en_yusufali": "English translation of [6:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:24] en español.",
+        "fr_hamidullah": "Traduction de [6:24] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:25",
+      "surahNumber": 6,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "وَمِنْهُمْ مَنْ يَسْتَمِعُ إِلَيْكَ ۖ وَجَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَنْ يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا ۚ وَإِنْ يَرَوْا كُلَّ آيَةٍ لَا يُؤْمِنُوا بِهَا ۚ حَتَّىٰ إِذَا جَاءُوكَ يُجَادِلُونَكَ يَقُولُ الَّذِينَ كَفَرُوا إِنْ هَٰذَا إِلَّا أَسَاطِيرُ الْأَوَّلِينَ",
+        "en_sahih": "English translation of [6:25] in Sahih International style.",
+        "en_yusufali": "English translation of [6:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:25] en español.",
+        "fr_hamidullah": "Traduction de [6:25] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:26",
+      "surahNumber": 6,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "وَهُمْ يَنْهَوْنَ عَنْهُ وَيَنْأَوْنَ عَنْهُ ۖ وَإِنْ يُهْلِكُونَ إِلَّا أَنْفُسَهُمْ وَمَا يَشْعُرُونَ",
+        "en_sahih": "English translation of [6:26] in Sahih International style.",
+        "en_yusufali": "English translation of [6:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:26] en español.",
+        "fr_hamidullah": "Traduction de [6:26] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:27",
+      "surahNumber": 6,
+      "ayahNumber": 27,
+      "text": {
+        "simple": "وَلَوْ تَرَىٰ إِذْ وُقِفُوا عَلَى النَّارِ فَقَالُوا يَا لَيْتَنَا نُرَدُّ وَلَا نُكَذِّبَ بِآيَاتِ رَبِّنَا وَنَكُونَ مِنَ الْمُؤْمِنِينَ",
+        "en_sahih": "English translation of [6:27] in Sahih International style.",
+        "en_yusufali": "English translation of [6:27] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:27] en español.",
+        "fr_hamidullah": "Traduction de [6:27] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:28",
+      "surahNumber": 6,
+      "ayahNumber": 28,
+      "text": {
+        "simple": "بَلْ بَدَا لَهُمْ مَا كَانُوا يُخْفُونَ مِنْ قَبْلُ ۖ وَلَوْ رُدُّوا لَعَادُوا لِمَا نُهُوا عَنْهُ وَإِنَّهُمْ لَكَاذِبُونَ",
+        "en_sahih": "English translation of [6:28] in Sahih International style.",
+        "en_yusufali": "English translation of [6:28] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:28] en español.",
+        "fr_hamidullah": "Traduction de [6:28] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:29",
+      "surahNumber": 6,
+      "ayahNumber": 29,
+      "text": {
+        "simple": "وَقَالُوا إِنْ هِيَ إِلَّا حَيَاتُنَا الدُّنْيَا وَمَا نَحْنُ بِمَبْعُوثِينَ",
+        "en_sahih": "English translation of [6:29] in Sahih International style.",
+        "en_yusufali": "English translation of [6:29] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:29] en español.",
+        "fr_hamidullah": "Traduction de [6:29] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:30",
+      "surahNumber": 6,
+      "ayahNumber": 30,
+      "text": {
+        "simple": "وَلَوْ تَرَىٰ إِذْ وُقِفُوا عَلَىٰ رَبِّهِمْ ۚ قَالَ أَلَيْسَ هَٰذَا بِالْحَقِّ ۚ قَالُوا بَلَىٰ وَرَبِّنَا ۚ قَالَ فَذُوقُوا الْعَذَابَ بِمَا كُنْتُمْ تَكْفُرُونَ",
+        "en_sahih": "English translation of [6:30] in Sahih International style.",
+        "en_yusufali": "English translation of [6:30] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:30] en español.",
+        "fr_hamidullah": "Traduction de [6:30] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:31",
+      "surahNumber": 6,
+      "ayahNumber": 31,
+      "text": {
+        "simple": "قَدْ خَسِرَ الَّذِينَ كَذَّبُوا بِلِقَاءِ اللَّهِ ۖ حَتَّىٰ إِذَا جَاءَتْهُمُ السَّاعَةُ بَغْتَةً قَالُوا يَا حَسْرَتَنَا عَلَىٰ مَا فَرَّطْنَا فِيهَا وَهُمْ يَحْمِلُونَ أَوْزَارَهُمْ عَلَىٰ ظُهُورِهِمْ ۚ أَلَا سَاءَ مَا يَزِرُونَ",
+        "en_sahih": "English translation of [6:31] in Sahih International style.",
+        "en_yusufali": "English translation of [6:31] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:31] en español.",
+        "fr_hamidullah": "Traduction de [6:31] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:32",
+      "surahNumber": 6,
+      "ayahNumber": 32,
+      "text": {
+        "simple": "وَمَا الْحَيَاةُ الدُّنْيَا إِلَّا لَعِبٌ وَلَهْوٌ ۖ وَلَلدَّارُ الْآخِرَةُ خَيْرٌ لِلَّذِينَ يَتَّقُونَ ۗ أَفَلَا تَعْقِلُونَ",
+        "en_sahih": "English translation of [6:32] in Sahih International style.",
+        "en_yusufali": "English translation of [6:32] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:32] en español.",
+        "fr_hamidullah": "Traduction de [6:32] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:33",
+      "surahNumber": 6,
+      "ayahNumber": 33,
+      "text": {
+        "simple": "قَدْ نَعْلَمُ إِنَّهُ لَيَحْزُنُكَ الَّذِي يَقُولُونَ ۖ فَإِنَّهُمْ لَا يُكَذِّبُونَكَ وَلَٰكِنَّ الظَّالِمِينَ بِآيَاتِ اللَّهِ يَجْحَدُونَ",
+        "en_sahih": "English translation of [6:33] in Sahih International style.",
+        "en_yusufali": "English translation of [6:33] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:33] en español.",
+        "fr_hamidullah": "Traduction de [6:33] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:34",
+      "surahNumber": 6,
+      "ayahNumber": 34,
+      "text": {
+        "simple": "وَلَقَدْ كُذِّبَتْ رُسُلٌ مِنْ قَبْلِكَ فَصَبَرُوا عَلَىٰ مَا كُذِّبُوا وَأُوذُوا حَتَّىٰ أَتَاهُمْ نَصْرُنَا ۚ وَلَا مُبَدِّلَ لِكَلِمَاتِ اللَّهِ ۚ وَلَقَدْ جَاءَكَ مِنْ نَبَإِ الْمُرْسَلِينَ",
+        "en_sahih": "English translation of [6:34] in Sahih International style.",
+        "en_yusufali": "English translation of [6:34] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:34] en español.",
+        "fr_hamidullah": "Traduction de [6:34] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:35",
+      "surahNumber": 6,
+      "ayahNumber": 35,
+      "text": {
+        "simple": "وَإِنْ كَانَ كَبُرَ عَلَيْكَ إِعْرَاضُهُمْ فَإِنِ اسْتَطَعْتَ أَنْ تَبْتَغِيَ نَفَقًا فِي الْأَرْضِ أَوْ سُلَّمًا فِي السَّمَاءِ فَتَأْتِيَهُمْ بِآيَةٍ ۚ وَلَوْ شَاءَ اللَّهُ لَجَمَعَهُمْ عَلَى الْهُدَىٰ ۚ فَلَا تَكُونَنَّ مِنَ الْجَاهِلِينَ",
+        "en_sahih": "English translation of [6:35] in Sahih International style.",
+        "en_yusufali": "English translation of [6:35] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:35] en español.",
+        "fr_hamidullah": "Traduction de [6:35] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:36",
+      "surahNumber": 6,
+      "ayahNumber": 36,
+      "text": {
+        "simple": "۞ إِنَّمَا يَسْتَجِيبُ الَّذِينَ يَسْمَعُونَ ۘ وَالْمَوْتَىٰ يَبْعَثُهُمُ اللَّهُ ثُمَّ إِلَيْهِ يُرْجَعُونَ",
+        "en_sahih": "English translation of [6:36] in Sahih International style.",
+        "en_yusufali": "English translation of [6:36] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:36] en español.",
+        "fr_hamidullah": "Traduction de [6:36] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:37",
+      "surahNumber": 6,
+      "ayahNumber": 37,
+      "text": {
+        "simple": "وَقَالُوا لَوْلَا نُزِّلَ عَلَيْهِ آيَةٌ مِنْ رَبِّهِ ۚ قُلْ إِنَّ اللَّهَ قَادِرٌ عَلَىٰ أَنْ يُنَزِّلَ آيَةً وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+        "en_sahih": "English translation of [6:37] in Sahih International style.",
+        "en_yusufali": "English translation of [6:37] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:37] en español.",
+        "fr_hamidullah": "Traduction de [6:37] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:38",
+      "surahNumber": 6,
+      "ayahNumber": 38,
+      "text": {
+        "simple": "وَمَا مِنْ دَابَّةٍ فِي الْأَرْضِ وَلَا طَائِرٍ يَطِيرُ بِجَنَاحَيْهِ إِلَّا أُمَمٌ أَمْثَالُكُمْ ۚ مَا فَرَّطْنَا فِي الْكِتَابِ مِنْ شَيْءٍ ۚ ثُمَّ إِلَىٰ رَبِّهِمْ يُحْشَرُونَ",
+        "en_sahih": "English translation of [6:38] in Sahih International style.",
+        "en_yusufali": "English translation of [6:38] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 38 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:38] en español.",
+        "fr_hamidullah": "Traduction de [6:38] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:39",
+      "surahNumber": 6,
+      "ayahNumber": 39,
+      "text": {
+        "simple": "وَالَّذِينَ كَذَّبُوا بِآيَاتِنَا صُمٌّ وَبُكْمٌ فِي الظُّلُمَاتِ ۗ مَنْ يَشَإِ اللَّهُ يُضْلِلْهُ وَمَنْ يَشَأْ يَجْعَلْهُ عَلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+        "en_sahih": "English translation of [6:39] in Sahih International style.",
+        "en_yusufali": "English translation of [6:39] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 39 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:39] en español.",
+        "fr_hamidullah": "Traduction de [6:39] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:40",
+      "surahNumber": 6,
+      "ayahNumber": 40,
+      "text": {
+        "simple": "قُلْ أَرَأَيْتَكُمْ إِنْ أَتَاكُمْ عَذَابُ اللَّهِ أَوْ أَتَتْكُمُ السَّاعَةُ أَغَيْرَ اللَّهِ تَدْعُونَ إِنْ كُنْتُمْ صَادِقِينَ",
+        "en_sahih": "English translation of [6:40] in Sahih International style.",
+        "en_yusufali": "English translation of [6:40] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 40 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:40] en español.",
+        "fr_hamidullah": "Traduction de [6:40] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:41",
+      "surahNumber": 6,
+      "ayahNumber": 41,
+      "text": {
+        "simple": "بَلْ إِيَّاهُ تَدْعُونَ فَيَكْشِفُ مَا تَدْعُونَ إِلَيْهِ إِنْ شَاءَ وَتَنْسَوْنَ مَا تُشْرِكُونَ",
+        "en_sahih": "English translation of [6:41] in Sahih International style.",
+        "en_yusufali": "English translation of [6:41] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 41 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:41] en español.",
+        "fr_hamidullah": "Traduction de [6:41] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:42",
+      "surahNumber": 6,
+      "ayahNumber": 42,
+      "text": {
+        "simple": "وَلَقَدْ أَرْسَلْنَا إِلَىٰ أُمَمٍ مِنْ قَبْلِكَ فَأَخَذْنَاهُمْ بِالْبَأْسَاءِ وَالضَّرَّاءِ لَعَلَّهُمْ يَتَضَرَّعُونَ",
+        "en_sahih": "English translation of [6:42] in Sahih International style.",
+        "en_yusufali": "English translation of [6:42] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 42 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:42] en español.",
+        "fr_hamidullah": "Traduction de [6:42] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:43",
+      "surahNumber": 6,
+      "ayahNumber": 43,
+      "text": {
+        "simple": "فَلَوْلَا إِذْ جَاءَهُمْ بَأْسُنَا تَضَرَّعُوا وَلَٰكِنْ قَسَتْ قُلُوبُهُمْ وَزَيَّنَ لَهُمُ الشَّيْطَانُ مَا كَانُوا يَعْمَلُونَ",
+        "en_sahih": "English translation of [6:43] in Sahih International style.",
+        "en_yusufali": "English translation of [6:43] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 43 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:43] en español.",
+        "fr_hamidullah": "Traduction de [6:43] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:44",
+      "surahNumber": 6,
+      "ayahNumber": 44,
+      "text": {
+        "simple": "فَلَمَّا نَسُوا مَا ذُكِّرُوا بِهِ فَتَحْنَا عَلَيْهِمْ أَبْوَابَ كُلِّ شَيْءٍ حَتَّىٰ إِذَا فَرِحُوا بِمَا أُوتُوا أَخَذْنَاهُمْ بَغْتَةً فَإِذَا هُمْ مُبْلِسُونَ",
+        "en_sahih": "English translation of [6:44] in Sahih International style.",
+        "en_yusufali": "English translation of [6:44] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 44 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:44] en español.",
+        "fr_hamidullah": "Traduction de [6:44] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:45",
+      "surahNumber": 6,
+      "ayahNumber": 45,
+      "text": {
+        "simple": "فَقُطِعَ دَابِرُ الْقَوْمِ الَّذِينَ ظَلَمُوا ۚ وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+        "en_sahih": "English translation of [6:45] in Sahih International style.",
+        "en_yusufali": "English translation of [6:45] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 45 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:45] en español.",
+        "fr_hamidullah": "Traduction de [6:45] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:46",
+      "surahNumber": 6,
+      "ayahNumber": 46,
+      "text": {
+        "simple": "قُلْ أَرَأَيْتُمْ إِنْ أَخَذَ اللَّهُ سَمْعَكُمْ وَأَبْصَارَكُمْ وَخَتَمَ عَلَىٰ قُلُوبِكُمْ مَنْ إِلَٰهٌ غَيْرُ اللَّهِ يَأْتِيكُمْ بِهِ ۗ انْظُرْ كَيْفَ نُصَرِّفُ الْآيَاتِ ثُمَّ هُمْ يَصْدِفُونَ",
+        "en_sahih": "English translation of [6:46] in Sahih International style.",
+        "en_yusufali": "English translation of [6:46] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 46 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:46] en español.",
+        "fr_hamidullah": "Traduction de [6:46] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:47",
+      "surahNumber": 6,
+      "ayahNumber": 47,
+      "text": {
+        "simple": "قُلْ أَرَأَيْتَكُمْ إِنْ أَتَاكُمْ عَذَابُ اللَّهِ بَغْتَةً أَوْ جَهْرَةً هَلْ يُهْلَكُ إِلَّا الْقَوْمُ الظَّالِمُونَ",
+        "en_sahih": "English translation of [6:47] in Sahih International style.",
+        "en_yusufali": "English translation of [6:47] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 47 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:47] en español.",
+        "fr_hamidullah": "Traduction de [6:47] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:48",
+      "surahNumber": 6,
+      "ayahNumber": 48,
+      "text": {
+        "simple": "وَمَا نُرْسِلُ الْمُرْسَلِينَ إِلَّا مُبَشِّرِينَ وَمُنْذِرِينَ ۖ فَمَنْ آمَنَ وَأَصْلَحَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+        "en_sahih": "English translation of [6:48] in Sahih International style.",
+        "en_yusufali": "English translation of [6:48] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 48 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:48] en español.",
+        "fr_hamidullah": "Traduction de [6:48] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:49",
+      "surahNumber": 6,
+      "ayahNumber": 49,
+      "text": {
+        "simple": "وَالَّذِينَ كَذَّبُوا بِآيَاتِنَا يَمَسُّهُمُ الْعَذَابُ بِمَا كَانُوا يَفْسُقُونَ",
+        "en_sahih": "English translation of [6:49] in Sahih International style.",
+        "en_yusufali": "English translation of [6:49] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 49 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:49] en español.",
+        "fr_hamidullah": "Traduction de [6:49] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:50",
+      "surahNumber": 6,
+      "ayahNumber": 50,
+      "text": {
+        "simple": "قُلْ لَا أَقُولُ لَكُمْ عِنْدِي خَزَائِنُ اللَّهِ وَلَا أَعْلَمُ الْغَيْبَ وَلَا أَقُولُ لَكُمْ إِنِّي مَلَكٌ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰ إِلَيَّ ۚ قُلْ هَلْ يَسْتَوِي الْأَعْمَىٰ وَالْبَصِيرُ ۚ أَفَلَا تَتَفَكَّرُونَ",
+        "en_sahih": "English translation of [6:50] in Sahih International style.",
+        "en_yusufali": "English translation of [6:50] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 50 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:50] en español.",
+        "fr_hamidullah": "Traduction de [6:50] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:51",
+      "surahNumber": 6,
+      "ayahNumber": 51,
+      "text": {
+        "simple": "وَأَنْذِرْ بِهِ الَّذِينَ يَخَافُونَ أَنْ يُحْشَرُوا إِلَىٰ رَبِّهِمْ ۙ لَيْسَ لَهُمْ مِنْ دُونِهِ وَلِيٌّ وَلَا شَفِيعٌ لَعَلَّهُمْ يَتَّقُونَ",
+        "en_sahih": "English translation of [6:51] in Sahih International style.",
+        "en_yusufali": "English translation of [6:51] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 51 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:51] en español.",
+        "fr_hamidullah": "Traduction de [6:51] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:52",
+      "surahNumber": 6,
+      "ayahNumber": 52,
+      "text": {
+        "simple": "وَلَا تَطْرُدِ الَّذِينَ يَدْعُونَ رَبَّهُمْ بِالْغَدَاةِ وَالْعَشِيِّ يُرِيدُونَ وَجْهَهُ ۖ مَا عَلَيْكَ مِنْ حِسَابِهِمْ مِنْ شَيْءٍ وَمَا مِنْ حِسَابِكَ عَلَيْهِمْ مِنْ شَيْءٍ فَتَطْرُدَهُمْ فَتَكُونَ مِنَ الظَّالِمِينَ",
+        "en_sahih": "English translation of [6:52] in Sahih International style.",
+        "en_yusufali": "English translation of [6:52] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 52 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:52] en español.",
+        "fr_hamidullah": "Traduction de [6:52] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:53",
+      "surahNumber": 6,
+      "ayahNumber": 53,
+      "text": {
+        "simple": "وَكَذَٰلِكَ فَتَنَّا بَعْضَهُمْ بِبَعْضٍ لِيَقُولُوا أَهَٰؤُلَاءِ مَنَّ اللَّهُ عَلَيْهِمْ مِنْ بَيْنِنَا ۗ أَلَيْسَ اللَّهُ بِأَعْلَمَ بِالشَّاكِرِينَ",
+        "en_sahih": "English translation of [6:53] in Sahih International style.",
+        "en_yusufali": "English translation of [6:53] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 53 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:53] en español.",
+        "fr_hamidullah": "Traduction de [6:53] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 53 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:54",
+      "surahNumber": 6,
+      "ayahNumber": 54,
+      "text": {
+        "simple": "وَإِذَا جَاءَكَ الَّذِينَ يُؤْمِنُونَ بِآيَاتِنَا فَقُلْ سَلَامٌ عَلَيْكُمْ ۖ كَتَبَ رَبُّكُمْ عَلَىٰ نَفْسِهِ الرَّحْمَةَ ۖ أَنَّهُ مَنْ عَمِلَ مِنْكُمْ سُوءًا بِجَهَالَةٍ ثُمَّ تَابَ مِنْ بَعْدِهِ وَأَصْلَحَ فَأَنَّهُ غَفُورٌ رَحِيمٌ",
+        "en_sahih": "English translation of [6:54] in Sahih International style.",
+        "en_yusufali": "English translation of [6:54] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 54 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:54] en español.",
+        "fr_hamidullah": "Traduction de [6:54] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 54 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:55",
+      "surahNumber": 6,
+      "ayahNumber": 55,
+      "text": {
+        "simple": "وَكَذَٰلِكَ نُفَصِّلُ الْآيَاتِ وَلِتَسْتَبِينَ سَبِيلُ الْمُجْرِمِينَ",
+        "en_sahih": "English translation of [6:55] in Sahih International style.",
+        "en_yusufali": "English translation of [6:55] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 55 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:55] en español.",
+        "fr_hamidullah": "Traduction de [6:55] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 55 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:56",
+      "surahNumber": 6,
+      "ayahNumber": 56,
+      "text": {
+        "simple": "قُلْ إِنِّي نُهِيتُ أَنْ أَعْبُدَ الَّذِينَ تَدْعُونَ مِنْ دُونِ اللَّهِ ۚ قُلْ لَا أَتَّبِعُ أَهْوَاءَكُمْ ۙ قَدْ ضَلَلْتُ إِذًا وَمَا أَنَا مِنَ الْمُهْتَدِينَ",
+        "en_sahih": "English translation of [6:56] in Sahih International style.",
+        "en_yusufali": "English translation of [6:56] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 56 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:56] en español.",
+        "fr_hamidullah": "Traduction de [6:56] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 56 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:57",
+      "surahNumber": 6,
+      "ayahNumber": 57,
+      "text": {
+        "simple": "قُلْ إِنِّي عَلَىٰ بَيِّنَةٍ مِنْ رَبِّي وَكَذَّبْتُمْ بِهِ ۚ مَا عِنْدِي مَا تَسْتَعْجِلُونَ بِهِ ۚ إِنِ الْحُكْمُ إِلَّا لِلَّهِ ۖ يَقُصُّ الْحَقَّ ۖ وَهُوَ خَيْرُ الْفَاصِلِينَ",
+        "en_sahih": "English translation of [6:57] in Sahih International style.",
+        "en_yusufali": "English translation of [6:57] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 57 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:57] en español.",
+        "fr_hamidullah": "Traduction de [6:57] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 57 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:58",
+      "surahNumber": 6,
+      "ayahNumber": 58,
+      "text": {
+        "simple": "قُلْ لَوْ أَنَّ عِنْدِي مَا تَسْتَعْجِلُونَ بِهِ لَقُضِيَ الْأَمْرُ بَيْنِي وَبَيْنَكُمْ ۗ وَاللَّهُ أَعْلَمُ بِالظَّالِمِينَ",
+        "en_sahih": "English translation of [6:58] in Sahih International style.",
+        "en_yusufali": "English translation of [6:58] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 58 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:58] en español.",
+        "fr_hamidullah": "Traduction de [6:58] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 58 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:59",
+      "surahNumber": 6,
+      "ayahNumber": 59,
+      "text": {
+        "simple": "۞ وَعِنْدَهُ مَفَاتِحُ الْغَيْبِ لَا يَعْلَمُهَا إِلَّا هُوَ ۚ وَيَعْلَمُ مَا فِي الْبَرِّ وَالْبَحْرِ ۚ وَمَا تَسْقُطُ مِنْ وَرَقَةٍ إِلَّا يَعْلَمُهَا وَلَا حَبَّةٍ فِي ظُلُمَاتِ الْأَرْضِ وَلَا رَطْبٍ وَلَا يَابِسٍ إِلَّا فِي كِتَابٍ مُبِينٍ",
+        "en_sahih": "English translation of [6:59] in Sahih International style.",
+        "en_yusufali": "English translation of [6:59] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 59 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:59] en español.",
+        "fr_hamidullah": "Traduction de [6:59] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 59 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:60",
+      "surahNumber": 6,
+      "ayahNumber": 60,
+      "text": {
+        "simple": "وَهُوَ الَّذِي يَتَوَفَّاكُمْ بِاللَّيْلِ وَيَعْلَمُ مَا جَرَحْتُمْ بِالنَّهَارِ ثُمَّ يَبْعَثُكُمْ فِيهِ لِيُقْضَىٰ أَجَلٌ مُسَمًّى ۖ ثُمَّ إِلَيْهِ مَرْجِعُكُمْ ثُمَّ يُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ",
+        "en_sahih": "English translation of [6:60] in Sahih International style.",
+        "en_yusufali": "English translation of [6:60] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 60 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:60] en español.",
+        "fr_hamidullah": "Traduction de [6:60] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 60 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:61",
+      "surahNumber": 6,
+      "ayahNumber": 61,
+      "text": {
+        "simple": "وَهُوَ الْقَاهِرُ فَوْقَ عِبَادِهِ ۖ وَيُرْسِلُ عَلَيْكُمْ حَفَظَةً حَتَّىٰ إِذَا جَاءَ أَحَدَكُمُ الْمَوْتُ تَوَفَّتْهُ رُسُلُنَا وَهُمْ لَا يُفَرِّطُونَ",
+        "en_sahih": "English translation of [6:61] in Sahih International style.",
+        "en_yusufali": "English translation of [6:61] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 61 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:61] en español.",
+        "fr_hamidullah": "Traduction de [6:61] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 61 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:62",
+      "surahNumber": 6,
+      "ayahNumber": 62,
+      "text": {
+        "simple": "ثُمَّ رُدُّوا إِلَى اللَّهِ مَوْلَاهُمُ الْحَقِّ ۚ أَلَا لَهُ الْحُكْمُ وَهُوَ أَسْرَعُ الْحَاسِبِينَ",
+        "en_sahih": "English translation of [6:62] in Sahih International style.",
+        "en_yusufali": "English translation of [6:62] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 62 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:62] en español.",
+        "fr_hamidullah": "Traduction de [6:62] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 62 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:63",
+      "surahNumber": 6,
+      "ayahNumber": 63,
+      "text": {
+        "simple": "قُلْ مَنْ يُنَجِّيكُمْ مِنْ ظُلُمَاتِ الْبَرِّ وَالْبَحْرِ تَدْعُونَهُ تَضَرُّعًا وَخُفْيَةً لَئِنْ أَنْجَانَا مِنْ هَٰذِهِ لَنَكُونَنَّ مِنَ الشَّاكِرِينَ",
+        "en_sahih": "English translation of [6:63] in Sahih International style.",
+        "en_yusufali": "English translation of [6:63] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 63 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:63] en español.",
+        "fr_hamidullah": "Traduction de [6:63] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 63 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:64",
+      "surahNumber": 6,
+      "ayahNumber": 64,
+      "text": {
+        "simple": "قُلِ اللَّهُ يُنَجِّيكُمْ مِنْهَا وَمِنْ كُلِّ كَرْبٍ ثُمَّ أَنْتُمْ تُشْرِكُونَ",
+        "en_sahih": "English translation of [6:64] in Sahih International style.",
+        "en_yusufali": "English translation of [6:64] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 64 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:64] en español.",
+        "fr_hamidullah": "Traduction de [6:64] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 64 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:65",
+      "surahNumber": 6,
+      "ayahNumber": 65,
+      "text": {
+        "simple": "قُلْ هُوَ الْقَادِرُ عَلَىٰ أَنْ يَبْعَثَ عَلَيْكُمْ عَذَابًا مِنْ فَوْقِكُمْ أَوْ مِنْ تَحْتِ أَرْجُلِكُمْ أَوْ يَلْبِسَكُمْ شِيَعًا وَيُذِيقَ بَعْضَكُمْ بَأْسَ بَعْضٍ ۗ انْظُرْ كَيْفَ نُصَرِّفُ الْآيَاتِ لَعَلَّهُمْ يَفْقَهُونَ",
+        "en_sahih": "English translation of [6:65] in Sahih International style.",
+        "en_yusufali": "English translation of [6:65] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 65 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:65] en español.",
+        "fr_hamidullah": "Traduction de [6:65] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 65 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:66",
+      "surahNumber": 6,
+      "ayahNumber": 66,
+      "text": {
+        "simple": "وَكَذَّبَ بِهِ قَوْمُكَ وَهُوَ الْحَقُّ ۚ قُلْ لَسْتُ عَلَيْكُمْ بِوَكِيلٍ",
+        "en_sahih": "English translation of [6:66] in Sahih International style.",
+        "en_yusufali": "English translation of [6:66] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 66 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:66] en español.",
+        "fr_hamidullah": "Traduction de [6:66] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 66 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:67",
+      "surahNumber": 6,
+      "ayahNumber": 67,
+      "text": {
+        "simple": "لِكُلِّ نَبَإٍ مُسْتَقَرٌّ ۚ وَسَوْفَ تَعْلَمُونَ",
+        "en_sahih": "English translation of [6:67] in Sahih International style.",
+        "en_yusufali": "English translation of [6:67] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 67 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:67] en español.",
+        "fr_hamidullah": "Traduction de [6:67] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 67 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:68",
+      "surahNumber": 6,
+      "ayahNumber": 68,
+      "text": {
+        "simple": "وَإِذَا رَأَيْتَ الَّذِينَ يَخُوضُونَ فِي آيَاتِنَا فَأَعْرِضْ عَنْهُمْ حَتَّىٰ يَخُوضُوا فِي حَدِيثٍ غَيْرِهِ ۚ وَإِمَّا يُنْسِيَنَّكَ الشَّيْطَانُ فَلَا تَقْعُدْ بَعْدَ الذِّكْرَىٰ مَعَ الْقَوْمِ الظَّالِمِينَ",
+        "en_sahih": "English translation of [6:68] in Sahih International style.",
+        "en_yusufali": "English translation of [6:68] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 68 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:68] en español.",
+        "fr_hamidullah": "Traduction de [6:68] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 68 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:69",
+      "surahNumber": 6,
+      "ayahNumber": 69,
+      "text": {
+        "simple": "وَمَا عَلَى الَّذِينَ يَتَّقُونَ مِنْ حِسَابِهِمْ مِنْ شَيْءٍ وَلَٰكِنْ ذِكْرَىٰ لَعَلَّهُمْ يَتَّقُونَ",
+        "en_sahih": "English translation of [6:69] in Sahih International style.",
+        "en_yusufali": "English translation of [6:69] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 69 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:69] en español.",
+        "fr_hamidullah": "Traduction de [6:69] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 69 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:70",
+      "surahNumber": 6,
+      "ayahNumber": 70,
+      "text": {
+        "simple": "وَذَرِ الَّذِينَ اتَّخَذُوا دِينَهُمْ لَعِبًا وَلَهْوًا وَغَرَّتْهُمُ الْحَيَاةُ الدُّنْيَا ۚ وَذَكِّرْ بِهِ أَنْ تُبْسَلَ نَفْسٌ بِمَا كَسَبَتْ لَيْسَ لَهَا مِنْ دُونِ اللَّهِ وَلِيٌّ وَلَا شَفِيعٌ وَإِنْ تَعْدِلْ كُلَّ عَدْلٍ لَا يُؤْخَذْ مِنْهَا ۗ أُولَٰئِكَ الَّذِينَ أُبْسِلُوا بِمَا كَسَبُوا ۖ لَهُمْ شَرَابٌ مِنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ",
+        "en_sahih": "English translation of [6:70] in Sahih International style.",
+        "en_yusufali": "English translation of [6:70] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 70 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:70] en español.",
+        "fr_hamidullah": "Traduction de [6:70] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 70 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:71",
+      "surahNumber": 6,
+      "ayahNumber": 71,
+      "text": {
+        "simple": "قُلْ أَنَدْعُو مِنْ دُونِ اللَّهِ مَا لَا يَنْفَعُنَا وَلَا يَضُرُّنَا وَنُرَدُّ عَلَىٰ أَعْقَابِنَا بَعْدَ إِذْ هَدَانَا اللَّهُ كَالَّذِي اسْتَهْوَتْهُ الشَّيَاطِينُ فِي الْأَرْضِ حَيْرَانَ لَهُ أَصْحَابٌ يَدْعُونَهُ إِلَى الْهُدَى ائْتِنَا ۗ قُلْ إِنَّ هُدَى اللَّهِ هُوَ الْهُدَىٰ ۖ وَأُمِرْنَا لِنُسْلِمَ لِرَبِّ الْعَالَمِينَ",
+        "en_sahih": "English translation of [6:71] in Sahih International style.",
+        "en_yusufali": "English translation of [6:71] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 71 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:71] en español.",
+        "fr_hamidullah": "Traduction de [6:71] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 71 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:72",
+      "surahNumber": 6,
+      "ayahNumber": 72,
+      "text": {
+        "simple": "وَأَنْ أَقِيمُوا الصَّلَاةَ وَاتَّقُوهُ ۚ وَهُوَ الَّذِي إِلَيْهِ تُحْشَرُونَ",
+        "en_sahih": "English translation of [6:72] in Sahih International style.",
+        "en_yusufali": "English translation of [6:72] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 72 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:72] en español.",
+        "fr_hamidullah": "Traduction de [6:72] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 72 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:73",
+      "surahNumber": 6,
+      "ayahNumber": 73,
+      "text": {
+        "simple": "وَهُوَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ بِالْحَقِّ ۖ وَيَوْمَ يَقُولُ كُنْ فَيَكُونُ ۚ قَوْلُهُ الْحَقُّ ۚ وَلَهُ الْمُلْكُ يَوْمَ يُنْفَخُ فِي الصُّورِ ۚ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ ۚ وَهُوَ الْحَكِيمُ الْخَبِيرُ",
+        "en_sahih": "English translation of [6:73] in Sahih International style.",
+        "en_yusufali": "English translation of [6:73] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 73 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:73] en español.",
+        "fr_hamidullah": "Traduction de [6:73] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 73 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:74",
+      "surahNumber": 6,
+      "ayahNumber": 74,
+      "text": {
+        "simple": "۞ وَإِذْ قَالَ إِبْرَاهِيمُ لِأَبِيهِ آزَرَ أَتَتَّخِذُ أَصْنَامًا آلِهَةً ۖ إِنِّي أَرَاكَ وَقَوْمَكَ فِي ضَلَالٍ مُبِينٍ",
+        "en_sahih": "English translation of [6:74] in Sahih International style.",
+        "en_yusufali": "English translation of [6:74] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 74 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:74] en español.",
+        "fr_hamidullah": "Traduction de [6:74] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 74 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:75",
+      "surahNumber": 6,
+      "ayahNumber": 75,
+      "text": {
+        "simple": "وَكَذَٰلِكَ نُرِي إِبْرَاهِيمَ مَلَكُوتَ السَّمَاوَاتِ وَالْأَرْضِ وَلِيَكُونَ مِنَ الْمُوقِنِينَ",
+        "en_sahih": "English translation of [6:75] in Sahih International style.",
+        "en_yusufali": "English translation of [6:75] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 75 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:75] en español.",
+        "fr_hamidullah": "Traduction de [6:75] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 75 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:76",
+      "surahNumber": 6,
+      "ayahNumber": 76,
+      "text": {
+        "simple": "فَلَمَّا جَنَّ عَلَيْهِ اللَّيْلُ رَأَىٰ كَوْكَبًا ۖ قَالَ هَٰذَا رَبِّي ۖ فَلَمَّا أَفَلَ قَالَ لَا أُحِبُّ الْآفِلِينَ",
+        "en_sahih": "English translation of [6:76] in Sahih International style.",
+        "en_yusufali": "English translation of [6:76] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 76 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:76] en español.",
+        "fr_hamidullah": "Traduction de [6:76] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 76 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:77",
+      "surahNumber": 6,
+      "ayahNumber": 77,
+      "text": {
+        "simple": "فَلَمَّا رَأَى الْقَمَرَ بَازِغًا قَالَ هَٰذَا رَبِّي ۖ فَلَمَّا أَفَلَ قَالَ لَئِنْ لَمْ يَهْدِنِي رَبِّي لَأَكُونَنَّ مِنَ الْقَوْمِ الضَّالِّينَ",
+        "en_sahih": "English translation of [6:77] in Sahih International style.",
+        "en_yusufali": "English translation of [6:77] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 77 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:77] en español.",
+        "fr_hamidullah": "Traduction de [6:77] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 77 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:78",
+      "surahNumber": 6,
+      "ayahNumber": 78,
+      "text": {
+        "simple": "فَلَمَّا رَأَى الشَّمْسَ بَازِغَةً قَالَ هَٰذَا رَبِّي هَٰذَا أَكْبَرُ ۖ فَلَمَّا أَفَلَتْ قَالَ يَا قَوْمِ إِنِّي بَرِيءٌ مِمَّا تُشْرِكُونَ",
+        "en_sahih": "English translation of [6:78] in Sahih International style.",
+        "en_yusufali": "English translation of [6:78] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 78 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:78] en español.",
+        "fr_hamidullah": "Traduction de [6:78] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 78 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:79",
+      "surahNumber": 6,
+      "ayahNumber": 79,
+      "text": {
+        "simple": "إِنِّي وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالْأَرْضَ حَنِيفًا ۖ وَمَا أَنَا مِنَ الْمُشْرِكِينَ",
+        "en_sahih": "English translation of [6:79] in Sahih International style.",
+        "en_yusufali": "English translation of [6:79] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 79 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:79] en español.",
+        "fr_hamidullah": "Traduction de [6:79] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 79 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:80",
+      "surahNumber": 6,
+      "ayahNumber": 80,
+      "text": {
+        "simple": "وَحَاجَّهُ قَوْمُهُ ۚ قَالَ أَتُحَاجُّونِّي فِي اللَّهِ وَقَدْ هَدَانِ ۚ وَلَا أَخَافُ مَا تُشْرِكُونَ بِهِ إِلَّا أَنْ يَشَاءَ رَبِّي شَيْئًا ۗ وَسِعَ رَبِّي كُلَّ شَيْءٍ عِلْمًا ۗ أَفَلَا تَتَذَكَّرُونَ",
+        "en_sahih": "English translation of [6:80] in Sahih International style.",
+        "en_yusufali": "English translation of [6:80] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 80 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:80] en español.",
+        "fr_hamidullah": "Traduction de [6:80] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 80 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:81",
+      "surahNumber": 6,
+      "ayahNumber": 81,
+      "text": {
+        "simple": "وَكَيْفَ أَخَافُ مَا أَشْرَكْتُمْ وَلَا تَخَافُونَ أَنَّكُمْ أَشْرَكْتُمْ بِاللَّهِ مَا لَمْ يُنَزِّلْ بِهِ عَلَيْكُمْ سُلْطَانًا ۚ فَأَيُّ الْفَرِيقَيْنِ أَحَقُّ بِالْأَمْنِ ۖ إِنْ كُنْتُمْ تَعْلَمُونَ",
+        "en_sahih": "English translation of [6:81] in Sahih International style.",
+        "en_yusufali": "English translation of [6:81] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 81 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:81] en español.",
+        "fr_hamidullah": "Traduction de [6:81] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 81 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:82",
+      "surahNumber": 6,
+      "ayahNumber": 82,
+      "text": {
+        "simple": "الَّذِينَ آمَنُوا وَلَمْ يَلْبِسُوا إِيمَانَهُمْ بِظُلْمٍ أُولَٰئِكَ لَهُمُ الْأَمْنُ وَهُمْ مُهْتَدُونَ",
+        "en_sahih": "English translation of [6:82] in Sahih International style.",
+        "en_yusufali": "English translation of [6:82] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 82 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:82] en español.",
+        "fr_hamidullah": "Traduction de [6:82] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 82 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:83",
+      "surahNumber": 6,
+      "ayahNumber": 83,
+      "text": {
+        "simple": "وَتِلْكَ حُجَّتُنَا آتَيْنَاهَا إِبْرَاهِيمَ عَلَىٰ قَوْمِهِ ۚ نَرْفَعُ دَرَجَاتٍ مَنْ نَشَاءُ ۗ إِنَّ رَبَّكَ حَكِيمٌ عَلِيمٌ",
+        "en_sahih": "English translation of [6:83] in Sahih International style.",
+        "en_yusufali": "English translation of [6:83] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 83 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:83] en español.",
+        "fr_hamidullah": "Traduction de [6:83] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 83 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:84",
+      "surahNumber": 6,
+      "ayahNumber": 84,
+      "text": {
+        "simple": "وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ ۚ كُلًّا هَدَيْنَا ۚ وَنُوحًا هَدَيْنَا مِنْ قَبْلُ ۖ وَمِنْ ذُرِّيَّتِهِ دَاوُودَ وَسُلَيْمَانَ وَأَيُّوبَ وَيُوسُفَ وَمُوسَىٰ وَهَارُونَ ۚ وَكَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ",
+        "en_sahih": "English translation of [6:84] in Sahih International style.",
+        "en_yusufali": "English translation of [6:84] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 84 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:84] en español.",
+        "fr_hamidullah": "Traduction de [6:84] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 84 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:85",
+      "surahNumber": 6,
+      "ayahNumber": 85,
+      "text": {
+        "simple": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّ مِنَ الصَّالِحِينَ",
+        "en_sahih": "English translation of [6:85] in Sahih International style.",
+        "en_yusufali": "English translation of [6:85] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 85 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:85] en español.",
+        "fr_hamidullah": "Traduction de [6:85] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 85 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:86",
+      "surahNumber": 6,
+      "ayahNumber": 86,
+      "text": {
+        "simple": "وَإِسْمَاعِيلَ وَالْيَسَعَ وَيُونُسَ وَلُوطًا ۚ وَكُلًّا فَضَّلْنَا عَلَى الْعَالَمِينَ",
+        "en_sahih": "English translation of [6:86] in Sahih International style.",
+        "en_yusufali": "English translation of [6:86] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 86 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:86] en español.",
+        "fr_hamidullah": "Traduction de [6:86] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 86 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:87",
+      "surahNumber": 6,
+      "ayahNumber": 87,
+      "text": {
+        "simple": "وَمِنْ آبَائِهِمْ وَذُرِّيَّاتِهِمْ وَإِخْوَانِهِمْ ۖ وَاجْتَبَيْنَاهُمْ وَهَدَيْنَاهُمْ إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+        "en_sahih": "English translation of [6:87] in Sahih International style.",
+        "en_yusufali": "English translation of [6:87] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 87 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:87] en español.",
+        "fr_hamidullah": "Traduction de [6:87] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 87 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:88",
+      "surahNumber": 6,
+      "ayahNumber": 88,
+      "text": {
+        "simple": "ذَٰلِكَ هُدَى اللَّهِ يَهْدِي بِهِ مَنْ يَشَاءُ مِنْ عِبَادِهِ ۚ وَلَوْ أَشْرَكُوا لَحَبِطَ عَنْهُمْ مَا كَانُوا يَعْمَلُونَ",
+        "en_sahih": "English translation of [6:88] in Sahih International style.",
+        "en_yusufali": "English translation of [6:88] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 88 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:88] en español.",
+        "fr_hamidullah": "Traduction de [6:88] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 88 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:89",
+      "surahNumber": 6,
+      "ayahNumber": 89,
+      "text": {
+        "simple": "أُولَٰئِكَ الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ وَالْحُكْمَ وَالنُّبُوَّةَ ۚ فَإِنْ يَكْفُرْ بِهَا هَٰؤُلَاءِ فَقَدْ وَكَّلْنَا بِهَا قَوْمًا لَيْسُوا بِهَا بِكَافِرِينَ",
+        "en_sahih": "English translation of [6:89] in Sahih International style.",
+        "en_yusufali": "English translation of [6:89] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 89 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:89] en español.",
+        "fr_hamidullah": "Traduction de [6:89] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 89 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:90",
+      "surahNumber": 6,
+      "ayahNumber": 90,
+      "text": {
+        "simple": "أُولَٰئِكَ الَّذِينَ هَدَى اللَّهُ ۖ فَبِهُدَاهُمُ اقْتَدِهْ ۗ قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا ۖ إِنْ هُوَ إِلَّا ذِكْرَىٰ لِلْعَالَمِينَ",
+        "en_sahih": "English translation of [6:90] in Sahih International style.",
+        "en_yusufali": "English translation of [6:90] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 90 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:90] en español.",
+        "fr_hamidullah": "Traduction de [6:90] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 90 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:91",
+      "surahNumber": 6,
+      "ayahNumber": 91,
+      "text": {
+        "simple": "وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ إِذْ قَالُوا مَا أَنْزَلَ اللَّهُ عَلَىٰ بَشَرٍ مِنْ شَيْءٍ ۗ قُلْ مَنْ أَنْزَلَ الْكِتَابَ الَّذِي جَاءَ بِهِ مُوسَىٰ نُورًا وَهُدًى لِلنَّاسِ ۖ تَجْعَلُونَهُ قَرَاطِيسَ تُبْدُونَهَا وَتُخْفُونَ كَثِيرًا ۖ وَعُلِّمْتُمْ مَا لَمْ تَعْلَمُوا أَنْتُمْ وَلَا آبَاؤُكُمْ ۖ قُلِ اللَّهُ ۖ ثُمَّ ذَرْهُمْ فِي خَوْضِهِمْ يَلْعَبُونَ",
+        "en_sahih": "English translation of [6:91] in Sahih International style.",
+        "en_yusufali": "English translation of [6:91] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 91 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:91] en español.",
+        "fr_hamidullah": "Traduction de [6:91] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 91 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:92",
+      "surahNumber": 6,
+      "ayahNumber": 92,
+      "text": {
+        "simple": "وَهَٰذَا كِتَابٌ أَنْزَلْنَاهُ مُبَارَكٌ مُصَدِّقُ الَّذِي بَيْنَ يَدَيْهِ وَلِتُنْذِرَ أُمَّ الْقُرَىٰ وَمَنْ حَوْلَهَا ۚ وَالَّذِينَ يُؤْمِنُونَ بِالْآخِرَةِ يُؤْمِنُونَ بِهِ ۖ وَهُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ",
+        "en_sahih": "English translation of [6:92] in Sahih International style.",
+        "en_yusufali": "English translation of [6:92] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 92 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:92] en español.",
+        "fr_hamidullah": "Traduction de [6:92] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 92 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:93",
+      "surahNumber": 6,
+      "ayahNumber": 93,
+      "text": {
+        "simple": "وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا أَوْ قَالَ أُوحِيَ إِلَيَّ وَلَمْ يُوحَ إِلَيْهِ شَيْءٌ وَمَنْ قَالَ سَأُنْزِلُ مِثْلَ مَا أَنْزَلَ اللَّهُ ۗ وَلَوْ تَرَىٰ إِذِ الظَّالِمُونَ فِي غَمَرَاتِ الْمَوْتِ وَالْمَلَائِكَةُ بَاسِطُو أَيْدِيهِمْ أَخْرِجُوا أَنْفُسَكُمُ ۖ الْيَوْمَ تُجْزَوْنَ عَذَابَ الْهُونِ بِمَا كُنْتُمْ تَقُولُونَ عَلَى اللَّهِ غَيْرَ الْحَقِّ وَكُنْتُمْ عَنْ آيَاتِهِ تَسْتَكْبِرُونَ",
+        "en_sahih": "English translation of [6:93] in Sahih International style.",
+        "en_yusufali": "English translation of [6:93] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 93 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:93] en español.",
+        "fr_hamidullah": "Traduction de [6:93] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 93 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:94",
+      "surahNumber": 6,
+      "ayahNumber": 94,
+      "text": {
+        "simple": "وَلَقَدْ جِئْتُمُونَا فُرَادَىٰ كَمَا خَلَقْنَاكُمْ أَوَّلَ مَرَّةٍ وَتَرَكْتُمْ مَا خَوَّلْنَاكُمْ وَرَاءَ ظُهُورِكُمْ ۖ وَمَا نَرَىٰ مَعَكُمْ شُفَعَاءَكُمُ الَّذِينَ زَعَمْتُمْ أَنَّهُمْ فِيكُمْ شُرَكَاءُ ۚ لَقَدْ تَقَطَّعَ بَيْنَكُمْ وَضَلَّ عَنْكُمْ مَا كُنْتُمْ تَزْعُمُونَ",
+        "en_sahih": "English translation of [6:94] in Sahih International style.",
+        "en_yusufali": "English translation of [6:94] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 94 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:94] en español.",
+        "fr_hamidullah": "Traduction de [6:94] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 94 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:95",
+      "surahNumber": 6,
+      "ayahNumber": 95,
+      "text": {
+        "simple": "۞ إِنَّ اللَّهَ فَالِقُ الْحَبِّ وَالنَّوَىٰ ۖ يُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَمُخْرِجُ الْمَيِّتِ مِنَ الْحَيِّ ۚ ذَٰلِكُمُ اللَّهُ ۖ فَأَنَّىٰ تُؤْفَكُونَ",
+        "en_sahih": "English translation of [6:95] in Sahih International style.",
+        "en_yusufali": "English translation of [6:95] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 95 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:95] en español.",
+        "fr_hamidullah": "Traduction de [6:95] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 95 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:96",
+      "surahNumber": 6,
+      "ayahNumber": 96,
+      "text": {
+        "simple": "فَالِقُ الْإِصْبَاحِ وَجَعَلَ اللَّيْلَ سَكَنًا وَالشَّمْسَ وَالْقَمَرَ حُسْبَانًا ۚ ذَٰلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ",
+        "en_sahih": "English translation of [6:96] in Sahih International style.",
+        "en_yusufali": "English translation of [6:96] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 96 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:96] en español.",
+        "fr_hamidullah": "Traduction de [6:96] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 96 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:97",
+      "surahNumber": 6,
+      "ayahNumber": 97,
+      "text": {
+        "simple": "وَهُوَ الَّذِي جَعَلَ لَكُمُ النُّجُومَ لِتَهْتَدُوا بِهَا فِي ظُلُمَاتِ الْبَرِّ وَالْبَحْرِ ۗ قَدْ فَصَّلْنَا الْآيَاتِ لِقَوْمٍ يَعْلَمُونَ",
+        "en_sahih": "English translation of [6:97] in Sahih International style.",
+        "en_yusufali": "English translation of [6:97] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 97 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:97] en español.",
+        "fr_hamidullah": "Traduction de [6:97] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 97 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:98",
+      "surahNumber": 6,
+      "ayahNumber": 98,
+      "text": {
+        "simple": "وَهُوَ الَّذِي أَنْشَأَكُمْ مِنْ نَفْسٍ وَاحِدَةٍ فَمُسْتَقَرٌّ وَمُسْتَوْدَعٌ ۗ قَدْ فَصَّلْنَا الْآيَاتِ لِقَوْمٍ يَفْقَهُونَ",
+        "en_sahih": "English translation of [6:98] in Sahih International style.",
+        "en_yusufali": "English translation of [6:98] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 98 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:98] en español.",
+        "fr_hamidullah": "Traduction de [6:98] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 98 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:99",
+      "surahNumber": 6,
+      "ayahNumber": 99,
+      "text": {
+        "simple": "وَهُوَ الَّذِي أَنْزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجْنَا بِهِ نَبَاتَ كُلِّ شَيْءٍ فَأَخْرَجْنَا مِنْهُ خَضِرًا نُخْرِجُ مِنْهُ حَبًّا مُتَرَاكِبًا وَمِنَ النَّخْلِ مِنْ طَلْعِهَا قِنْوَانٌ دَانِيَةٌ وَجَنَّاتٍ مِنْ أَعْنَابٍ وَالزَّيْتُونَ وَالرُّمَّانَ مُشْتَبِهًا وَغَيْرَ مُتَشَابِهٍ ۗ انْظُرُوا إِلَىٰ ثَمَرِهِ إِذَا أَثْمَرَ وَيَنْعِهِ ۚ إِنَّ فِي ذَٰلِكُمْ لَآيَاتٍ لِقَوْمٍ يُؤْمِنُونَ",
+        "en_sahih": "English translation of [6:99] in Sahih International style.",
+        "en_yusufali": "English translation of [6:99] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 99 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:99] en español.",
+        "fr_hamidullah": "Traduction de [6:99] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 99 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:100",
+      "surahNumber": 6,
+      "ayahNumber": 100,
+      "text": {
+        "simple": "وَجَعَلُوا لِلَّهِ شُرَكَاءَ الْجِنَّ وَخَلَقَهُمْ ۖ وَخَرَقُوا لَهُ بَنِينَ وَبَنَاتٍ بِغَيْرِ عِلْمٍ ۚ سُبْحَانَهُ وَتَعَالَىٰ عَمَّا يَصِفُونَ",
+        "en_sahih": "English translation of [6:100] in Sahih International style.",
+        "en_yusufali": "English translation of [6:100] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 100 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:100] en español.",
+        "fr_hamidullah": "Traduction de [6:100] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 100 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:101",
+      "surahNumber": 6,
+      "ayahNumber": 101,
+      "text": {
+        "simple": "بَدِيعُ السَّمَاوَاتِ وَالْأَرْضِ ۖ أَنَّىٰ يَكُونُ لَهُ وَلَدٌ وَلَمْ تَكُنْ لَهُ صَاحِبَةٌ ۖ وَخَلَقَ كُلَّ شَيْءٍ ۖ وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ",
+        "en_sahih": "English translation of [6:101] in Sahih International style.",
+        "en_yusufali": "English translation of [6:101] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 101 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:101] en español.",
+        "fr_hamidullah": "Traduction de [6:101] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 101 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:102",
+      "surahNumber": 6,
+      "ayahNumber": 102,
+      "text": {
+        "simple": "ذَٰلِكُمُ اللَّهُ رَبُّكُمْ ۖ لَا إِلَٰهَ إِلَّا هُوَ ۖ خَالِقُ كُلِّ شَيْءٍ فَاعْبُدُوهُ ۚ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ وَكِيلٌ",
+        "en_sahih": "English translation of [6:102] in Sahih International style.",
+        "en_yusufali": "English translation of [6:102] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 102 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:102] en español.",
+        "fr_hamidullah": "Traduction de [6:102] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 102 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:103",
+      "surahNumber": 6,
+      "ayahNumber": 103,
+      "text": {
+        "simple": "لَا تُدْرِكُهُ الْأَبْصَارُ وَهُوَ يُدْرِكُ الْأَبْصَارَ ۖ وَهُوَ اللَّطِيفُ الْخَبِيرُ",
+        "en_sahih": "English translation of [6:103] in Sahih International style.",
+        "en_yusufali": "English translation of [6:103] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 103 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:103] en español.",
+        "fr_hamidullah": "Traduction de [6:103] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 103 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:104",
+      "surahNumber": 6,
+      "ayahNumber": 104,
+      "text": {
+        "simple": "قَدْ جَاءَكُمْ بَصَائِرُ مِنْ رَبِّكُمْ ۖ فَمَنْ أَبْصَرَ فَلِنَفْسِهِ ۖ وَمَنْ عَمِيَ فَعَلَيْهَا ۚ وَمَا أَنَا عَلَيْكُمْ بِحَفِيظٍ",
+        "en_sahih": "English translation of [6:104] in Sahih International style.",
+        "en_yusufali": "English translation of [6:104] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 104 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:104] en español.",
+        "fr_hamidullah": "Traduction de [6:104] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 104 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:105",
+      "surahNumber": 6,
+      "ayahNumber": 105,
+      "text": {
+        "simple": "وَكَذَٰلِكَ نُصَرِّفُ الْآيَاتِ وَلِيَقُولُوا دَرَسْتَ وَلِنُبَيِّنَهُ لِقَوْمٍ يَعْلَمُونَ",
+        "en_sahih": "English translation of [6:105] in Sahih International style.",
+        "en_yusufali": "English translation of [6:105] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 105 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:105] en español.",
+        "fr_hamidullah": "Traduction de [6:105] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 105 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:106",
+      "surahNumber": 6,
+      "ayahNumber": 106,
+      "text": {
+        "simple": "اتَّبِعْ مَا أُوحِيَ إِلَيْكَ مِنْ رَبِّكَ ۖ لَا إِلَٰهَ إِلَّا هُوَ ۖ وَأَعْرِضْ عَنِ الْمُشْرِكِينَ",
+        "en_sahih": "English translation of [6:106] in Sahih International style.",
+        "en_yusufali": "English translation of [6:106] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 106 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:106] en español.",
+        "fr_hamidullah": "Traduction de [6:106] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 106 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:107",
+      "surahNumber": 6,
+      "ayahNumber": 107,
+      "text": {
+        "simple": "وَلَوْ شَاءَ اللَّهُ مَا أَشْرَكُوا ۗ وَمَا جَعَلْنَاكَ عَلَيْهِمْ حَفِيظًا ۖ وَمَا أَنْتَ عَلَيْهِمْ بِوَكِيلٍ",
+        "en_sahih": "English translation of [6:107] in Sahih International style.",
+        "en_yusufali": "English translation of [6:107] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 107 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:107] en español.",
+        "fr_hamidullah": "Traduction de [6:107] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 107 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:108",
+      "surahNumber": 6,
+      "ayahNumber": 108,
+      "text": {
+        "simple": "وَلَا تَسُبُّوا الَّذِينَ يَدْعُونَ مِنْ دُونِ اللَّهِ فَيَسُبُّوا اللَّهَ عَدْوًا بِغَيْرِ عِلْمٍ ۗ كَذَٰلِكَ زَيَّنَّا لِكُلِّ أُمَّةٍ عَمَلَهُمْ ثُمَّ إِلَىٰ رَبِّهِمْ مَرْجِعُهُمْ فَيُنَبِّئُهُمْ بِمَا كَانُوا يَعْمَلُونَ",
+        "en_sahih": "English translation of [6:108] in Sahih International style.",
+        "en_yusufali": "English translation of [6:108] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 108 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:108] en español.",
+        "fr_hamidullah": "Traduction de [6:108] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 108 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:109",
+      "surahNumber": 6,
+      "ayahNumber": 109,
+      "text": {
+        "simple": "وَأَقْسَمُوا بِاللَّهِ جَهْدَ أَيْمَانِهِمْ لَئِنْ جَاءَتْهُمْ آيَةٌ لَيُؤْمِنُنَّ بِهَا ۚ قُلْ إِنَّمَا الْآيَاتُ عِنْدَ اللَّهِ ۖ وَمَا يُشْعِرُكُمْ أَنَّهَا إِذَا جَاءَتْ لَا يُؤْمِنُونَ",
+        "en_sahih": "English translation of [6:109] in Sahih International style.",
+        "en_yusufali": "English translation of [6:109] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 109 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:109] en español.",
+        "fr_hamidullah": "Traduction de [6:109] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 109 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:110",
+      "surahNumber": 6,
+      "ayahNumber": 110,
+      "text": {
+        "simple": "وَنُقَلِّبُ أَفْئِدَتَهُمْ وَأَبْصَارَهُمْ كَمَا لَمْ يُؤْمِنُوا بِهِ أَوَّلَ مَرَّةٍ وَنَذَرُهُمْ فِي طُغْيَانِهِمْ يَعْمَهُونَ",
+        "en_sahih": "English translation of [6:110] in Sahih International style.",
+        "en_yusufali": "English translation of [6:110] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 110 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:110] en español.",
+        "fr_hamidullah": "Traduction de [6:110] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 110 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:111",
+      "surahNumber": 6,
+      "ayahNumber": 111,
+      "text": {
+        "simple": "۞ وَلَوْ أَنَّنَا نَزَّلْنَا إِلَيْهِمُ الْمَلَائِكَةَ وَكَلَّمَهُمُ الْمَوْتَىٰ وَحَشَرْنَا عَلَيْهِمْ كُلَّ شَيْءٍ قُبُلًا مَا كَانُوا لِيُؤْمِنُوا إِلَّا أَنْ يَشَاءَ اللَّهُ وَلَٰكِنَّ أَكْثَرَهُمْ يَجْهَلُونَ",
+        "en_sahih": "English translation of [6:111] in Sahih International style.",
+        "en_yusufali": "English translation of [6:111] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 111 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:111] en español.",
+        "fr_hamidullah": "Traduction de [6:111] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 111 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:112",
+      "surahNumber": 6,
+      "ayahNumber": 112,
+      "text": {
+        "simple": "وَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِيٍّ عَدُوًّا شَيَاطِينَ الْإِنْسِ وَالْجِنِّ يُوحِي بَعْضُهُمْ إِلَىٰ بَعْضٍ زُخْرُفَ الْقَوْلِ غُرُورًا ۚ وَلَوْ شَاءَ رَبُّكَ مَا فَعَلُوهُ ۖ فَذَرْهُمْ وَمَا يَفْتَرُونَ",
+        "en_sahih": "English translation of [6:112] in Sahih International style.",
+        "en_yusufali": "English translation of [6:112] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 112 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:112] en español.",
+        "fr_hamidullah": "Traduction de [6:112] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 112 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:113",
+      "surahNumber": 6,
+      "ayahNumber": 113,
+      "text": {
+        "simple": "وَلِتَصْغَىٰ إِلَيْهِ أَفْئِدَةُ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ وَلِيَرْضَوْهُ وَلِيَقْتَرِفُوا مَا هُمْ مُقْتَرِفُونَ",
+        "en_sahih": "English translation of [6:113] in Sahih International style.",
+        "en_yusufali": "English translation of [6:113] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 113 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:113] en español.",
+        "fr_hamidullah": "Traduction de [6:113] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 113 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:114",
+      "surahNumber": 6,
+      "ayahNumber": 114,
+      "text": {
+        "simple": "أَفَغَيْرَ اللَّهِ أَبْتَغِي حَكَمًا وَهُوَ الَّذِي أَنْزَلَ إِلَيْكُمُ الْكِتَابَ مُفَصَّلًا ۚ وَالَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يَعْلَمُونَ أَنَّهُ مُنَزَّلٌ مِنْ رَبِّكَ بِالْحَقِّ ۖ فَلَا تَكُونَنَّ مِنَ الْمُمْتَرِينَ",
+        "en_sahih": "English translation of [6:114] in Sahih International style.",
+        "en_yusufali": "English translation of [6:114] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 114 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:114] en español.",
+        "fr_hamidullah": "Traduction de [6:114] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 114 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:115",
+      "surahNumber": 6,
+      "ayahNumber": 115,
+      "text": {
+        "simple": "وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًا وَعَدْلًا ۚ لَا مُبَدِّلَ لِكَلِمَاتِهِ ۚ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+        "en_sahih": "English translation of [6:115] in Sahih International style.",
+        "en_yusufali": "English translation of [6:115] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 115 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:115] en español.",
+        "fr_hamidullah": "Traduction de [6:115] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 115 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:116",
+      "surahNumber": 6,
+      "ayahNumber": 116,
+      "text": {
+        "simple": "وَإِنْ تُطِعْ أَكْثَرَ مَنْ فِي الْأَرْضِ يُضِلُّوكَ عَنْ سَبِيلِ اللَّهِ ۚ إِنْ يَتَّبِعُونَ إِلَّا الظَّنَّ وَإِنْ هُمْ إِلَّا يَخْرُصُونَ",
+        "en_sahih": "English translation of [6:116] in Sahih International style.",
+        "en_yusufali": "English translation of [6:116] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 116 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:116] en español.",
+        "fr_hamidullah": "Traduction de [6:116] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 116 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:117",
+      "surahNumber": 6,
+      "ayahNumber": 117,
+      "text": {
+        "simple": "إِنَّ رَبَّكَ هُوَ أَعْلَمُ مَنْ يَضِلُّ عَنْ سَبِيلِهِ ۖ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ",
+        "en_sahih": "English translation of [6:117] in Sahih International style.",
+        "en_yusufali": "English translation of [6:117] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 117 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:117] en español.",
+        "fr_hamidullah": "Traduction de [6:117] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 117 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:118",
+      "surahNumber": 6,
+      "ayahNumber": 118,
+      "text": {
+        "simple": "فَكُلُوا مِمَّا ذُكِرَ اسْمُ اللَّهِ عَلَيْهِ إِنْ كُنْتُمْ بِآيَاتِهِ مُؤْمِنِينَ",
+        "en_sahih": "English translation of [6:118] in Sahih International style.",
+        "en_yusufali": "English translation of [6:118] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 118 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:118] en español.",
+        "fr_hamidullah": "Traduction de [6:118] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 118 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:119",
+      "surahNumber": 6,
+      "ayahNumber": 119,
+      "text": {
+        "simple": "وَمَا لَكُمْ أَلَّا تَأْكُلُوا مِمَّا ذُكِرَ اسْمُ اللَّهِ عَلَيْهِ وَقَدْ فَصَّلَ لَكُمْ مَا حَرَّمَ عَلَيْكُمْ إِلَّا مَا اضْطُرِرْتُمْ إِلَيْهِ ۗ وَإِنَّ كَثِيرًا لَيُضِلُّونَ بِأَهْوَائِهِمْ بِغَيْرِ عِلْمٍ ۗ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِالْمُعْتَدِينَ",
+        "en_sahih": "English translation of [6:119] in Sahih International style.",
+        "en_yusufali": "English translation of [6:119] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 119 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:119] en español.",
+        "fr_hamidullah": "Traduction de [6:119] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 119 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:120",
+      "surahNumber": 6,
+      "ayahNumber": 120,
+      "text": {
+        "simple": "وَذَرُوا ظَاهِرَ الْإِثْمِ وَبَاطِنَهُ ۚ إِنَّ الَّذِينَ يَكْسِبُونَ الْإِثْمَ سَيُجْزَوْنَ بِمَا كَانُوا يَقْتَرِفُونَ",
+        "en_sahih": "English translation of [6:120] in Sahih International style.",
+        "en_yusufali": "English translation of [6:120] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 120 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:120] en español.",
+        "fr_hamidullah": "Traduction de [6:120] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 120 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:121",
+      "surahNumber": 6,
+      "ayahNumber": 121,
+      "text": {
+        "simple": "وَلَا تَأْكُلُوا مِمَّا لَمْ يُذْكَرِ اسْمُ اللَّهِ عَلَيْهِ وَإِنَّهُ لَفِسْقٌ ۗ وَإِنَّ الشَّيَاطِينَ لَيُوحُونَ إِلَىٰ أَوْلِيَائِهِمْ لِيُجَادِلُوكُمْ ۖ وَإِنْ أَطَعْتُمُوهُمْ إِنَّكُمْ لَمُشْرِكُونَ",
+        "en_sahih": "English translation of [6:121] in Sahih International style.",
+        "en_yusufali": "English translation of [6:121] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 121 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:121] en español.",
+        "fr_hamidullah": "Traduction de [6:121] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 121 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:122",
+      "surahNumber": 6,
+      "ayahNumber": 122,
+      "text": {
+        "simple": "أَوَمَنْ كَانَ مَيْتًا فَأَحْيَيْنَاهُ وَجَعَلْنَا لَهُ نُورًا يَمْشِي بِهِ فِي النَّاسِ كَمَنْ مَثَلُهُ فِي الظُّلُمَاتِ لَيْسَ بِخَارِجٍ مِنْهَا ۚ كَذَٰلِكَ زُيِّنَ لِلْكَافِرِينَ مَا كَانُوا يَعْمَلُونَ",
+        "en_sahih": "English translation of [6:122] in Sahih International style.",
+        "en_yusufali": "English translation of [6:122] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 122 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:122] en español.",
+        "fr_hamidullah": "Traduction de [6:122] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 122 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:123",
+      "surahNumber": 6,
+      "ayahNumber": 123,
+      "text": {
+        "simple": "وَكَذَٰلِكَ جَعَلْنَا فِي كُلِّ قَرْيَةٍ أَكَابِرَ مُجْرِمِيهَا لِيَمْكُرُوا فِيهَا ۖ وَمَا يَمْكُرُونَ إِلَّا بِأَنْفُسِهِمْ وَمَا يَشْعُرُونَ",
+        "en_sahih": "English translation of [6:123] in Sahih International style.",
+        "en_yusufali": "English translation of [6:123] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 123 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:123] en español.",
+        "fr_hamidullah": "Traduction de [6:123] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 123 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:124",
+      "surahNumber": 6,
+      "ayahNumber": 124,
+      "text": {
+        "simple": "وَإِذَا جَاءَتْهُمْ آيَةٌ قَالُوا لَنْ نُؤْمِنَ حَتَّىٰ نُؤْتَىٰ مِثْلَ مَا أُوتِيَ رُسُلُ اللَّهِ ۘ اللَّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُ ۗ سَيُصِيبُ الَّذِينَ أَجْرَمُوا صَغَارٌ عِنْدَ اللَّهِ وَعَذَابٌ شَدِيدٌ بِمَا كَانُوا يَمْكُرُونَ",
+        "en_sahih": "English translation of [6:124] in Sahih International style.",
+        "en_yusufali": "English translation of [6:124] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 124 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:124] en español.",
+        "fr_hamidullah": "Traduction de [6:124] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 124 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:125",
+      "surahNumber": 6,
+      "ayahNumber": 125,
+      "text": {
+        "simple": "فَمَنْ يُرِدِ اللَّهُ أَنْ يَهْدِيَهُ يَشْرَحْ صَدْرَهُ لِلْإِسْلَامِ ۖ وَمَنْ يُرِدْ أَنْ يُضِلَّهُ يَجْعَلْ صَدْرَهُ ضَيِّقًا حَرَجًا كَأَنَّمَا يَصَّعَّدُ فِي السَّمَاءِ ۚ كَذَٰلِكَ يَجْعَلُ اللَّهُ الرِّجْسَ عَلَى الَّذِينَ لَا يُؤْمِنُونَ",
+        "en_sahih": "English translation of [6:125] in Sahih International style.",
+        "en_yusufali": "English translation of [6:125] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 125 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:125] en español.",
+        "fr_hamidullah": "Traduction de [6:125] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 125 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:126",
+      "surahNumber": 6,
+      "ayahNumber": 126,
+      "text": {
+        "simple": "وَهَٰذَا صِرَاطُ رَبِّكَ مُسْتَقِيمًا ۗ قَدْ فَصَّلْنَا الْآيَاتِ لِقَوْمٍ يَذَّكَّرُونَ",
+        "en_sahih": "English translation of [6:126] in Sahih International style.",
+        "en_yusufali": "English translation of [6:126] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 126 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:126] en español.",
+        "fr_hamidullah": "Traduction de [6:126] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 126 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:127",
+      "surahNumber": 6,
+      "ayahNumber": 127,
+      "text": {
+        "simple": "۞ لَهُمْ دَارُ السَّلَامِ عِنْدَ رَبِّهِمْ ۖ وَهُوَ وَلِيُّهُمْ بِمَا كَانُوا يَعْمَلُونَ",
+        "en_sahih": "English translation of [6:127] in Sahih International style.",
+        "en_yusufali": "English translation of [6:127] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 127 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:127] en español.",
+        "fr_hamidullah": "Traduction de [6:127] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 127 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:128",
+      "surahNumber": 6,
+      "ayahNumber": 128,
+      "text": {
+        "simple": "وَيَوْمَ يَحْشُرُهُمْ جَمِيعًا يَا مَعْشَرَ الْجِنِّ قَدِ اسْتَكْثَرْتُمْ مِنَ الْإِنْسِ ۖ وَقَالَ أَوْلِيَاؤُهُمْ مِنَ الْإِنْسِ رَبَّنَا اسْتَمْتَعَ بَعْضُنَا بِبَعْضٍ وَبَلَغْنَا أَجَلَنَا الَّذِي أَجَّلْتَ لَنَا ۚ قَالَ النَّارُ مَثْوَاكُمْ خَالِدِينَ فِيهَا إِلَّا مَا شَاءَ اللَّهُ ۗ إِنَّ رَبَّكَ حَكِيمٌ عَلِيمٌ",
+        "en_sahih": "English translation of [6:128] in Sahih International style.",
+        "en_yusufali": "English translation of [6:128] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 128 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:128] en español.",
+        "fr_hamidullah": "Traduction de [6:128] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 128 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:129",
+      "surahNumber": 6,
+      "ayahNumber": 129,
+      "text": {
+        "simple": "وَكَذَٰلِكَ نُوَلِّي بَعْضَ الظَّالِمِينَ بَعْضًا بِمَا كَانُوا يَكْسِبُونَ",
+        "en_sahih": "English translation of [6:129] in Sahih International style.",
+        "en_yusufali": "English translation of [6:129] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 129 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:129] en español.",
+        "fr_hamidullah": "Traduction de [6:129] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 129 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:130",
+      "surahNumber": 6,
+      "ayahNumber": 130,
+      "text": {
+        "simple": "يَا مَعْشَرَ الْجِنِّ وَالْإِنْسِ أَلَمْ يَأْتِكُمْ رُسُلٌ مِنْكُمْ يَقُصُّونَ عَلَيْكُمْ آيَاتِي وَيُنْذِرُونَكُمْ لِقَاءَ يَوْمِكُمْ هَٰذَا ۚ قَالُوا شَهِدْنَا عَلَىٰ أَنْفُسِنَا ۖ وَغَرَّتْهُمُ الْحَيَاةُ الدُّنْيَا وَشَهِدُوا عَلَىٰ أَنْفُسِهِمْ أَنَّهُمْ كَانُوا كَافِرِينَ",
+        "en_sahih": "English translation of [6:130] in Sahih International style.",
+        "en_yusufali": "English translation of [6:130] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 130 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:130] en español.",
+        "fr_hamidullah": "Traduction de [6:130] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 130 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:131",
+      "surahNumber": 6,
+      "ayahNumber": 131,
+      "text": {
+        "simple": "ذَٰلِكَ أَنْ لَمْ يَكُنْ رَبُّكَ مُهْلِكَ الْقُرَىٰ بِظُلْمٍ وَأَهْلُهَا غَافِلُونَ",
+        "en_sahih": "English translation of [6:131] in Sahih International style.",
+        "en_yusufali": "English translation of [6:131] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 131 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:131] en español.",
+        "fr_hamidullah": "Traduction de [6:131] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 131 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:132",
+      "surahNumber": 6,
+      "ayahNumber": 132,
+      "text": {
+        "simple": "وَلِكُلٍّ دَرَجَاتٌ مِمَّا عَمِلُوا ۚ وَمَا رَبُّكَ بِغَافِلٍ عَمَّا يَعْمَلُونَ",
+        "en_sahih": "English translation of [6:132] in Sahih International style.",
+        "en_yusufali": "English translation of [6:132] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 132 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:132] en español.",
+        "fr_hamidullah": "Traduction de [6:132] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 132 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:133",
+      "surahNumber": 6,
+      "ayahNumber": 133,
+      "text": {
+        "simple": "وَرَبُّكَ الْغَنِيُّ ذُو الرَّحْمَةِ ۚ إِنْ يَشَأْ يُذْهِبْكُمْ وَيَسْتَخْلِفْ مِنْ بَعْدِكُمْ مَا يَشَاءُ كَمَا أَنْشَأَكُمْ مِنْ ذُرِّيَّةِ قَوْمٍ آخَرِينَ",
+        "en_sahih": "English translation of [6:133] in Sahih International style.",
+        "en_yusufali": "English translation of [6:133] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 133 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:133] en español.",
+        "fr_hamidullah": "Traduction de [6:133] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 133 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:134",
+      "surahNumber": 6,
+      "ayahNumber": 134,
+      "text": {
+        "simple": "إِنَّ مَا تُوعَدُونَ لَآتٍ ۖ وَمَا أَنْتُمْ بِمُعْجِزِينَ",
+        "en_sahih": "English translation of [6:134] in Sahih International style.",
+        "en_yusufali": "English translation of [6:134] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 134 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:134] en español.",
+        "fr_hamidullah": "Traduction de [6:134] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 134 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:135",
+      "surahNumber": 6,
+      "ayahNumber": 135,
+      "text": {
+        "simple": "قُلْ يَا قَوْمِ اعْمَلُوا عَلَىٰ مَكَانَتِكُمْ إِنِّي عَامِلٌ ۖ فَسَوْفَ تَعْلَمُونَ مَنْ تَكُونُ لَهُ عَاقِبَةُ الدَّارِ ۗ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ",
+        "en_sahih": "English translation of [6:135] in Sahih International style.",
+        "en_yusufali": "English translation of [6:135] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 135 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:135] en español.",
+        "fr_hamidullah": "Traduction de [6:135] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 135 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:136",
+      "surahNumber": 6,
+      "ayahNumber": 136,
+      "text": {
+        "simple": "وَجَعَلُوا لِلَّهِ مِمَّا ذَرَأَ مِنَ الْحَرْثِ وَالْأَنْعَامِ نَصِيبًا فَقَالُوا هَٰذَا لِلَّهِ بِزَعْمِهِمْ وَهَٰذَا لِشُرَكَائِنَا ۖ فَمَا كَانَ لِشُرَكَائِهِمْ فَلَا يَصِلُ إِلَى اللَّهِ ۖ وَمَا كَانَ لِلَّهِ فَهُوَ يَصِلُ إِلَىٰ شُرَكَائِهِمْ ۗ سَاءَ مَا يَحْكُمُونَ",
+        "en_sahih": "English translation of [6:136] in Sahih International style.",
+        "en_yusufali": "English translation of [6:136] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 136 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:136] en español.",
+        "fr_hamidullah": "Traduction de [6:136] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 136 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:137",
+      "surahNumber": 6,
+      "ayahNumber": 137,
+      "text": {
+        "simple": "وَكَذَٰلِكَ زَيَّنَ لِكَثِيرٍ مِنَ الْمُشْرِكِينَ قَتْلَ أَوْلَادِهِمْ شُرَكَاؤُهُمْ لِيُرْدُوهُمْ وَلِيَلْبِسُوا عَلَيْهِمْ دِينَهُمْ ۖ وَلَوْ شَاءَ اللَّهُ مَا فَعَلُوهُ ۖ فَذَرْهُمْ وَمَا يَفْتَرُونَ",
+        "en_sahih": "English translation of [6:137] in Sahih International style.",
+        "en_yusufali": "English translation of [6:137] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 137 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:137] en español.",
+        "fr_hamidullah": "Traduction de [6:137] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 137 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:138",
+      "surahNumber": 6,
+      "ayahNumber": 138,
+      "text": {
+        "simple": "وَقَالُوا هَٰذِهِ أَنْعَامٌ وَحَرْثٌ حِجْرٌ لَا يَطْعَمُهَا إِلَّا مَنْ نَشَاءُ بِزَعْمِهِمْ وَأَنْعَامٌ حُرِّمَتْ ظُهُورُهَا وَأَنْعَامٌ لَا يَذْكُرُونَ اسْمَ اللَّهِ عَلَيْهَا افْتِرَاءً عَلَيْهِ ۚ سَيَجْزِيهِمْ بِمَا كَانُوا يَفْتَرُونَ",
+        "en_sahih": "English translation of [6:138] in Sahih International style.",
+        "en_yusufali": "English translation of [6:138] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 138 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:138] en español.",
+        "fr_hamidullah": "Traduction de [6:138] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 138 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:139",
+      "surahNumber": 6,
+      "ayahNumber": 139,
+      "text": {
+        "simple": "وَقَالُوا مَا فِي بُطُونِ هَٰذِهِ الْأَنْعَامِ خَالِصَةٌ لِذُكُورِنَا وَمُحَرَّمٌ عَلَىٰ أَزْوَاجِنَا ۖ وَإِنْ يَكُنْ مَيْتَةً فَهُمْ فِيهِ شُرَكَاءُ ۚ سَيَجْزِيهِمْ وَصْفَهُمْ ۚ إِنَّهُ حَكِيمٌ عَلِيمٌ",
+        "en_sahih": "English translation of [6:139] in Sahih International style.",
+        "en_yusufali": "English translation of [6:139] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 139 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:139] en español.",
+        "fr_hamidullah": "Traduction de [6:139] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 139 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:140",
+      "surahNumber": 6,
+      "ayahNumber": 140,
+      "text": {
+        "simple": "قَدْ خَسِرَ الَّذِينَ قَتَلُوا أَوْلَادَهُمْ سَفَهًا بِغَيْرِ عِلْمٍ وَحَرَّمُوا مَا رَزَقَهُمُ اللَّهُ افْتِرَاءً عَلَى اللَّهِ ۚ قَدْ ضَلُّوا وَمَا كَانُوا مُهْتَدِينَ",
+        "en_sahih": "English translation of [6:140] in Sahih International style.",
+        "en_yusufali": "English translation of [6:140] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 140 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:140] en español.",
+        "fr_hamidullah": "Traduction de [6:140] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 140 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:141",
+      "surahNumber": 6,
+      "ayahNumber": 141,
+      "text": {
+        "simple": "۞ وَهُوَ الَّذِي أَنْشَأَ جَنَّاتٍ مَعْرُوشَاتٍ وَغَيْرَ مَعْرُوشَاتٍ وَالنَّخْلَ وَالزَّرْعَ مُخْتَلِفًا أُكُلُهُ وَالزَّيْتُونَ وَالرُّمَّانَ مُتَشَابِهًا وَغَيْرَ مُتَشَابِهٍ ۚ كُلُوا مِنْ ثَمَرِهِ إِذَا أَثْمَرَ وَآتُوا حَقَّهُ يَوْمَ حَصَادِهِ ۖ وَلَا تُسْرِفُوا ۚ إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ",
+        "en_sahih": "English translation of [6:141] in Sahih International style.",
+        "en_yusufali": "English translation of [6:141] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 141 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:141] en español.",
+        "fr_hamidullah": "Traduction de [6:141] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 141 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:142",
+      "surahNumber": 6,
+      "ayahNumber": 142,
+      "text": {
+        "simple": "وَمِنَ الْأَنْعَامِ حَمُولَةً وَفَرْشًا ۚ كُلُوا مِمَّا رَزَقَكُمُ اللَّهُ وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ ۚ إِنَّهُ لَكُمْ عَدُوٌّ مُبِينٌ",
+        "en_sahih": "English translation of [6:142] in Sahih International style.",
+        "en_yusufali": "English translation of [6:142] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 142 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:142] en español.",
+        "fr_hamidullah": "Traduction de [6:142] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 142 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:143",
+      "surahNumber": 6,
+      "ayahNumber": 143,
+      "text": {
+        "simple": "ثَمَانِيَةَ أَزْوَاجٍ ۖ مِنَ الضَّأْنِ اثْنَيْنِ وَمِنَ الْمَعْزِ اثْنَيْنِ ۗ قُلْ آلذَّكَرَيْنِ حَرَّمَ أَمِ الْأُنْثَيَيْنِ أَمَّا اشْتَمَلَتْ عَلَيْهِ أَرْحَامُ الْأُنْثَيَيْنِ ۖ نَبِّئُونِي بِعِلْمٍ إِنْ كُنْتُمْ صَادِقِينَ",
+        "en_sahih": "English translation of [6:143] in Sahih International style.",
+        "en_yusufali": "English translation of [6:143] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 143 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:143] en español.",
+        "fr_hamidullah": "Traduction de [6:143] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 143 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:144",
+      "surahNumber": 6,
+      "ayahNumber": 144,
+      "text": {
+        "simple": "وَمِنَ الْإِبِلِ اثْنَيْنِ وَمِنَ الْبَقَرِ اثْنَيْنِ ۗ قُلْ آلذَّكَرَيْنِ حَرَّمَ أَمِ الْأُنْثَيَيْنِ أَمَّا اشْتَمَلَتْ عَلَيْهِ أَرْحَامُ الْأُنْثَيَيْنِ ۖ أَمْ كُنْتُمْ شُهَدَاءَ إِذْ وَصَّاكُمُ اللَّهُ بِهَٰذَا ۚ فَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا لِيُضِلَّ النَّاسَ بِغَيْرِ عِلْمٍ ۗ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ",
+        "en_sahih": "English translation of [6:144] in Sahih International style.",
+        "en_yusufali": "English translation of [6:144] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 144 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:144] en español.",
+        "fr_hamidullah": "Traduction de [6:144] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 144 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:145",
+      "surahNumber": 6,
+      "ayahNumber": 145,
+      "text": {
+        "simple": "قُلْ لَا أَجِدُ فِي مَا أُوحِيَ إِلَيَّ مُحَرَّمًا عَلَىٰ طَاعِمٍ يَطْعَمُهُ إِلَّا أَنْ يَكُونَ مَيْتَةً أَوْ دَمًا مَسْفُوحًا أَوْ لَحْمَ خِنْزِيرٍ فَإِنَّهُ رِجْسٌ أَوْ فِسْقًا أُهِلَّ لِغَيْرِ اللَّهِ بِهِ ۚ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ رَبَّكَ غَفُورٌ رَحِيمٌ",
+        "en_sahih": "English translation of [6:145] in Sahih International style.",
+        "en_yusufali": "English translation of [6:145] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 145 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:145] en español.",
+        "fr_hamidullah": "Traduction de [6:145] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 145 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:146",
+      "surahNumber": 6,
+      "ayahNumber": 146,
+      "text": {
+        "simple": "وَعَلَى الَّذِينَ هَادُوا حَرَّمْنَا كُلَّ ذِي ظُفُرٍ ۖ وَمِنَ الْبَقَرِ وَالْغَنَمِ حَرَّمْنَا عَلَيْهِمْ شُحُومَهُمَا إِلَّا مَا حَمَلَتْ ظُهُورُهُمَا أَوِ الْحَوَايَا أَوْ مَا اخْتَلَطَ بِعَظْمٍ ۚ ذَٰلِكَ جَزَيْنَاهُمْ بِبَغْيِهِمْ ۖ وَإِنَّا لَصَادِقُونَ",
+        "en_sahih": "English translation of [6:146] in Sahih International style.",
+        "en_yusufali": "English translation of [6:146] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 146 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:146] en español.",
+        "fr_hamidullah": "Traduction de [6:146] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 146 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:147",
+      "surahNumber": 6,
+      "ayahNumber": 147,
+      "text": {
+        "simple": "فَإِنْ كَذَّبُوكَ فَقُلْ رَبُّكُمْ ذُو رَحْمَةٍ وَاسِعَةٍ وَلَا يُرَدُّ بَأْسُهُ عَنِ الْقَوْمِ الْمُجْرِمِينَ",
+        "en_sahih": "English translation of [6:147] in Sahih International style.",
+        "en_yusufali": "English translation of [6:147] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 147 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:147] en español.",
+        "fr_hamidullah": "Traduction de [6:147] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 147 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:148",
+      "surahNumber": 6,
+      "ayahNumber": 148,
+      "text": {
+        "simple": "سَيَقُولُ الَّذِينَ أَشْرَكُوا لَوْ شَاءَ اللَّهُ مَا أَشْرَكْنَا وَلَا آبَاؤُنَا وَلَا حَرَّمْنَا مِنْ شَيْءٍ ۚ كَذَٰلِكَ كَذَّبَ الَّذِينَ مِنْ قَبْلِهِمْ حَتَّىٰ ذَاقُوا بَأْسَنَا ۗ قُلْ هَلْ عِنْدَكُمْ مِنْ عِلْمٍ فَتُخْرِجُوهُ لَنَا ۖ إِنْ تَتَّبِعُونَ إِلَّا الظَّنَّ وَإِنْ أَنْتُمْ إِلَّا تَخْرُصُونَ",
+        "en_sahih": "English translation of [6:148] in Sahih International style.",
+        "en_yusufali": "English translation of [6:148] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 148 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:148] en español.",
+        "fr_hamidullah": "Traduction de [6:148] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 148 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:149",
+      "surahNumber": 6,
+      "ayahNumber": 149,
+      "text": {
+        "simple": "قُلْ فَلِلَّهِ الْحُجَّةُ الْبَالِغَةُ ۖ فَلَوْ شَاءَ لَهَدَاكُمْ أَجْمَعِينَ",
+        "en_sahih": "English translation of [6:149] in Sahih International style.",
+        "en_yusufali": "English translation of [6:149] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 149 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:149] en español.",
+        "fr_hamidullah": "Traduction de [6:149] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 149 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:150",
+      "surahNumber": 6,
+      "ayahNumber": 150,
+      "text": {
+        "simple": "قُلْ هَلُمَّ شُهَدَاءَكُمُ الَّذِينَ يَشْهَدُونَ أَنَّ اللَّهَ حَرَّمَ هَٰذَا ۖ فَإِنْ شَهِدُوا فَلَا تَشْهَدْ مَعَهُمْ ۚ وَلَا تَتَّبِعْ أَهْوَاءَ الَّذِينَ كَذَّبُوا بِآيَاتِنَا وَالَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ وَهُمْ بِرَبِّهِمْ يَعْدِلُونَ",
+        "en_sahih": "English translation of [6:150] in Sahih International style.",
+        "en_yusufali": "English translation of [6:150] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 150 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:150] en español.",
+        "fr_hamidullah": "Traduction de [6:150] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 150 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:151",
+      "surahNumber": 6,
+      "ayahNumber": 151,
+      "text": {
+        "simple": "۞ قُلْ تَعَالَوْا أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ ۖ أَلَّا تُشْرِكُوا بِهِ شَيْئًا ۖ وَبِالْوَالِدَيْنِ إِحْسَانًا ۖ وَلَا تَقْتُلُوا أَوْلَادَكُمْ مِنْ إِمْلَاقٍ ۖ نَحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ ۖ وَلَا تَقْرَبُوا الْفَوَاحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ ۖ وَلَا تَقْتُلُوا النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ ۚ ذَٰلِكُمْ وَصَّاكُمْ بِهِ لَعَلَّكُمْ تَعْقِلُونَ",
+        "en_sahih": "English translation of [6:151] in Sahih International style.",
+        "en_yusufali": "English translation of [6:151] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 151 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:151] en español.",
+        "fr_hamidullah": "Traduction de [6:151] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 151 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:152",
+      "surahNumber": 6,
+      "ayahNumber": 152,
+      "text": {
+        "simple": "وَلَا تَقْرَبُوا مَالَ الْيَتِيمِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُ ۖ وَأَوْفُوا الْكَيْلَ وَالْمِيزَانَ بِالْقِسْطِ ۖ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا ۖ وَإِذَا قُلْتُمْ فَاعْدِلُوا وَلَوْ كَانَ ذَا قُرْبَىٰ ۖ وَبِعَهْدِ اللَّهِ أَوْفُوا ۚ ذَٰلِكُمْ وَصَّاكُمْ بِهِ لَعَلَّكُمْ تَذَكَّرُونَ",
+        "en_sahih": "English translation of [6:152] in Sahih International style.",
+        "en_yusufali": "English translation of [6:152] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 152 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:152] en español.",
+        "fr_hamidullah": "Traduction de [6:152] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 152 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:153",
+      "surahNumber": 6,
+      "ayahNumber": 153,
+      "text": {
+        "simple": "وَأَنَّ هَٰذَا صِرَاطِي مُسْتَقِيمًا فَاتَّبِعُوهُ ۖ وَلَا تَتَّبِعُوا السُّبُلَ فَتَفَرَّقَ بِكُمْ عَنْ سَبِيلِهِ ۚ ذَٰلِكُمْ وَصَّاكُمْ بِهِ لَعَلَّكُمْ تَتَّقُونَ",
+        "en_sahih": "English translation of [6:153] in Sahih International style.",
+        "en_yusufali": "English translation of [6:153] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 153 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:153] en español.",
+        "fr_hamidullah": "Traduction de [6:153] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 153 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:154",
+      "surahNumber": 6,
+      "ayahNumber": 154,
+      "text": {
+        "simple": "ثُمَّ آتَيْنَا مُوسَى الْكِتَابَ تَمَامًا عَلَى الَّذِي أَحْسَنَ وَتَفْصِيلًا لِكُلِّ شَيْءٍ وَهُدًى وَرَحْمَةً لَعَلَّهُمْ بِلِقَاءِ رَبِّهِمْ يُؤْمِنُونَ",
+        "en_sahih": "English translation of [6:154] in Sahih International style.",
+        "en_yusufali": "English translation of [6:154] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 154 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:154] en español.",
+        "fr_hamidullah": "Traduction de [6:154] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 154 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:155",
+      "surahNumber": 6,
+      "ayahNumber": 155,
+      "text": {
+        "simple": "وَهَٰذَا كِتَابٌ أَنْزَلْنَاهُ مُبَارَكٌ فَاتَّبِعُوهُ وَاتَّقُوا لَعَلَّكُمْ تُرْحَمُونَ",
+        "en_sahih": "English translation of [6:155] in Sahih International style.",
+        "en_yusufali": "English translation of [6:155] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 155 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:155] en español.",
+        "fr_hamidullah": "Traduction de [6:155] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 155 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:156",
+      "surahNumber": 6,
+      "ayahNumber": 156,
+      "text": {
+        "simple": "أَنْ تَقُولُوا إِنَّمَا أُنْزِلَ الْكِتَابُ عَلَىٰ طَائِفَتَيْنِ مِنْ قَبْلِنَا وَإِنْ كُنَّا عَنْ دِرَاسَتِهِمْ لَغَافِلِينَ",
+        "en_sahih": "English translation of [6:156] in Sahih International style.",
+        "en_yusufali": "English translation of [6:156] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 156 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:156] en español.",
+        "fr_hamidullah": "Traduction de [6:156] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 156 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:157",
+      "surahNumber": 6,
+      "ayahNumber": 157,
+      "text": {
+        "simple": "أَوْ تَقُولُوا لَوْ أَنَّا أُنْزِلَ عَلَيْنَا الْكِتَابُ لَكُنَّا أَهْدَىٰ مِنْهُمْ ۚ فَقَدْ جَاءَكُمْ بَيِّنَةٌ مِنْ رَبِّكُمْ وَهُدًى وَرَحْمَةٌ ۚ فَمَنْ أَظْلَمُ مِمَّنْ كَذَّبَ بِآيَاتِ اللَّهِ وَصَدَفَ عَنْهَا ۗ سَنَجْزِي الَّذِينَ يَصْدِفُونَ عَنْ آيَاتِنَا سُوءَ الْعَذَابِ بِمَا كَانُوا يَصْدِفُونَ",
+        "en_sahih": "English translation of [6:157] in Sahih International style.",
+        "en_yusufali": "English translation of [6:157] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 157 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:157] en español.",
+        "fr_hamidullah": "Traduction de [6:157] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 157 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:158",
+      "surahNumber": 6,
+      "ayahNumber": 158,
+      "text": {
+        "simple": "هَلْ يَنْظُرُونَ إِلَّا أَنْ تَأْتِيَهُمُ الْمَلَائِكَةُ أَوْ يَأْتِيَ رَبُّكَ أَوْ يَأْتِيَ بَعْضُ آيَاتِ رَبِّكَ ۗ يَوْمَ يَأْتِي بَعْضُ آيَاتِ رَبِّكَ لَا يَنْفَعُ نَفْسًا إِيمَانُهَا لَمْ تَكُنْ آمَنَتْ مِنْ قَبْلُ أَوْ كَسَبَتْ فِي إِيمَانِهَا خَيْرًا ۗ قُلِ انْتَظِرُوا إِنَّا مُنْتَظِرُونَ",
+        "en_sahih": "English translation of [6:158] in Sahih International style.",
+        "en_yusufali": "English translation of [6:158] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 158 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:158] en español.",
+        "fr_hamidullah": "Traduction de [6:158] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 158 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:159",
+      "surahNumber": 6,
+      "ayahNumber": 159,
+      "text": {
+        "simple": "إِنَّ الَّذِينَ فَرَّقُوا دِينَهُمْ وَكَانُوا شِيَعًا لَسْتَ مِنْهُمْ فِي شَيْءٍ ۚ إِنَّمَا أَمْرُهُمْ إِلَى اللَّهِ ثُمَّ يُنَبِّئُهُمْ بِمَا كَانُوا يَفْعَلُونَ",
+        "en_sahih": "English translation of [6:159] in Sahih International style.",
+        "en_yusufali": "English translation of [6:159] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 159 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:159] en español.",
+        "fr_hamidullah": "Traduction de [6:159] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 159 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:160",
+      "surahNumber": 6,
+      "ayahNumber": 160,
+      "text": {
+        "simple": "مَنْ جَاءَ بِالْحَسَنَةِ فَلَهُ عَشْرُ أَمْثَالِهَا ۖ وَمَنْ جَاءَ بِالسَّيِّئَةِ فَلَا يُجْزَىٰ إِلَّا مِثْلَهَا وَهُمْ لَا يُظْلَمُونَ",
+        "en_sahih": "English translation of [6:160] in Sahih International style.",
+        "en_yusufali": "English translation of [6:160] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 160 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:160] en español.",
+        "fr_hamidullah": "Traduction de [6:160] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 160 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:161",
+      "surahNumber": 6,
+      "ayahNumber": 161,
+      "text": {
+        "simple": "قُلْ إِنَّنِي هَدَانِي رَبِّي إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ دِينًا قِيَمًا مِلَّةَ إِبْرَاهِيمَ حَنِيفًا ۚ وَمَا كَانَ مِنَ الْمُشْرِكِينَ",
+        "en_sahih": "English translation of [6:161] in Sahih International style.",
+        "en_yusufali": "English translation of [6:161] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 161 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:161] en español.",
+        "fr_hamidullah": "Traduction de [6:161] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 161 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:162",
+      "surahNumber": 6,
+      "ayahNumber": 162,
+      "text": {
+        "simple": "قُلْ إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي لِلَّهِ رَبِّ الْعَالَمِينَ",
+        "en_sahih": "English translation of [6:162] in Sahih International style.",
+        "en_yusufali": "English translation of [6:162] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 162 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:162] en español.",
+        "fr_hamidullah": "Traduction de [6:162] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 162 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:163",
+      "surahNumber": 6,
+      "ayahNumber": 163,
+      "text": {
+        "simple": "لَا شَرِيكَ لَهُ ۖ وَبِذَٰلِكَ أُمِرْتُ وَأَنَا أَوَّلُ الْمُسْلِمِينَ",
+        "en_sahih": "English translation of [6:163] in Sahih International style.",
+        "en_yusufali": "English translation of [6:163] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 163 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:163] en español.",
+        "fr_hamidullah": "Traduction de [6:163] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 163 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:164",
+      "surahNumber": 6,
+      "ayahNumber": 164,
+      "text": {
+        "simple": "قُلْ أَغَيْرَ اللَّهِ أَبْغِي رَبًّا وَهُوَ رَبُّ كُلِّ شَيْءٍ ۚ وَلَا تَكْسِبُ كُلُّ نَفْسٍ إِلَّا عَلَيْهَا ۚ وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ۚ ثُمَّ إِلَىٰ رَبِّكُمْ مَرْجِعُكُمْ فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ فِيهِ تَخْتَلِفُونَ",
+        "en_sahih": "English translation of [6:164] in Sahih International style.",
+        "en_yusufali": "English translation of [6:164] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 164 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:164] en español.",
+        "fr_hamidullah": "Traduction de [6:164] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 164 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "6:165",
+      "surahNumber": 6,
+      "ayahNumber": 165,
+      "text": {
+        "simple": "وَهُوَ الَّذِي جَعَلَكُمْ خَلَائِفَ الْأَرْضِ وَرَفَعَ بَعْضَكُمْ فَوْقَ بَعْضٍ دَرَجَاتٍ لِيَبْلُوَكُمْ فِي مَا آتَاكُمْ ۗ إِنَّ رَبَّكَ سَرِيعُ الْعِقَابِ وَإِنَّهُ لَغَفُورٌ رَحِيمٌ",
+        "en_sahih": "English translation of [6:165] in Sahih International style.",
+        "en_yusufali": "English translation of [6:165] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 6 آیت 165 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [6:165] en español.",
+        "fr_hamidullah": "Traduction de [6:165] en français.",
+        "bn_hoque": "সূরা 6 আয়াত 165 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}

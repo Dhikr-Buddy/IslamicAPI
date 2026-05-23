@@ -1,0 +1,1247 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-23T01:55:57.982Z",
+  "surahNumber": 28,
+  "ayahCount": 88,
+  "ayahs": [
+    {
+      "id": "28:1",
+      "surahNumber": 28,
+      "ayahNumber": 1,
+      "text": {
+        "simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ طسم",
+        "en_sahih": "English translation of [28:1] in Sahih International style.",
+        "en_yusufali": "English translation of [28:1] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 1 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:1] en español.",
+        "fr_hamidullah": "Traduction de [28:1] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 1 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:2",
+      "surahNumber": 28,
+      "ayahNumber": 2,
+      "text": {
+        "simple": "تِلْكَ آيَاتُ الْكِتَابِ الْمُبِينِ",
+        "en_sahih": "English translation of [28:2] in Sahih International style.",
+        "en_yusufali": "English translation of [28:2] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 2 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:2] en español.",
+        "fr_hamidullah": "Traduction de [28:2] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 2 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:3",
+      "surahNumber": 28,
+      "ayahNumber": 3,
+      "text": {
+        "simple": "نَتْلُو عَلَيْكَ مِنْ نَبَإِ مُوسَىٰ وَفِرْعَوْنَ بِالْحَقِّ لِقَوْمٍ يُؤْمِنُونَ",
+        "en_sahih": "English translation of [28:3] in Sahih International style.",
+        "en_yusufali": "English translation of [28:3] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 3 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:3] en español.",
+        "fr_hamidullah": "Traduction de [28:3] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 3 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:4",
+      "surahNumber": 28,
+      "ayahNumber": 4,
+      "text": {
+        "simple": "إِنَّ فِرْعَوْنَ عَلَا فِي الْأَرْضِ وَجَعَلَ أَهْلَهَا شِيَعًا يَسْتَضْعِفُ طَائِفَةً مِنْهُمْ يُذَبِّحُ أَبْنَاءَهُمْ وَيَسْتَحْيِي نِسَاءَهُمْ ۚ إِنَّهُ كَانَ مِنَ الْمُفْسِدِينَ",
+        "en_sahih": "English translation of [28:4] in Sahih International style.",
+        "en_yusufali": "English translation of [28:4] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 4 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:4] en español.",
+        "fr_hamidullah": "Traduction de [28:4] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 4 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:5",
+      "surahNumber": 28,
+      "ayahNumber": 5,
+      "text": {
+        "simple": "وَنُرِيدُ أَنْ نَمُنَّ عَلَى الَّذِينَ اسْتُضْعِفُوا فِي الْأَرْضِ وَنَجْعَلَهُمْ أَئِمَّةً وَنَجْعَلَهُمُ الْوَارِثِينَ",
+        "en_sahih": "English translation of [28:5] in Sahih International style.",
+        "en_yusufali": "English translation of [28:5] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 5 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:5] en español.",
+        "fr_hamidullah": "Traduction de [28:5] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 5 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:6",
+      "surahNumber": 28,
+      "ayahNumber": 6,
+      "text": {
+        "simple": "وَنُمَكِّنَ لَهُمْ فِي الْأَرْضِ وَنُرِيَ فِرْعَوْنَ وَهَامَانَ وَجُنُودَهُمَا مِنْهُمْ مَا كَانُوا يَحْذَرُونَ",
+        "en_sahih": "English translation of [28:6] in Sahih International style.",
+        "en_yusufali": "English translation of [28:6] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 6 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:6] en español.",
+        "fr_hamidullah": "Traduction de [28:6] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 6 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:7",
+      "surahNumber": 28,
+      "ayahNumber": 7,
+      "text": {
+        "simple": "وَأَوْحَيْنَا إِلَىٰ أُمِّ مُوسَىٰ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِي الْيَمِّ وَلَا تَخَافِي وَلَا تَحْزَنِي ۖ إِنَّا رَادُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ الْمُرْسَلِينَ",
+        "en_sahih": "English translation of [28:7] in Sahih International style.",
+        "en_yusufali": "English translation of [28:7] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 7 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:7] en español.",
+        "fr_hamidullah": "Traduction de [28:7] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 7 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:8",
+      "surahNumber": 28,
+      "ayahNumber": 8,
+      "text": {
+        "simple": "فَالْتَقَطَهُ آلُ فِرْعَوْنَ لِيَكُونَ لَهُمْ عَدُوًّا وَحَزَنًا ۗ إِنَّ فِرْعَوْنَ وَهَامَانَ وَجُنُودَهُمَا كَانُوا خَاطِئِينَ",
+        "en_sahih": "English translation of [28:8] in Sahih International style.",
+        "en_yusufali": "English translation of [28:8] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 8 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:8] en español.",
+        "fr_hamidullah": "Traduction de [28:8] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 8 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:9",
+      "surahNumber": 28,
+      "ayahNumber": 9,
+      "text": {
+        "simple": "وَقَالَتِ امْرَأَتُ فِرْعَوْنَ قُرَّتُ عَيْنٍ لِي وَلَكَ ۖ لَا تَقْتُلُوهُ عَسَىٰ أَنْ يَنْفَعَنَا أَوْ نَتَّخِذَهُ وَلَدًا وَهُمْ لَا يَشْعُرُونَ",
+        "en_sahih": "English translation of [28:9] in Sahih International style.",
+        "en_yusufali": "English translation of [28:9] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 9 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:9] en español.",
+        "fr_hamidullah": "Traduction de [28:9] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 9 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:10",
+      "surahNumber": 28,
+      "ayahNumber": 10,
+      "text": {
+        "simple": "وَأَصْبَحَ فُؤَادُ أُمِّ مُوسَىٰ فَارِغًا ۖ إِنْ كَادَتْ لَتُبْدِي بِهِ لَوْلَا أَنْ رَبَطْنَا عَلَىٰ قَلْبِهَا لِتَكُونَ مِنَ الْمُؤْمِنِينَ",
+        "en_sahih": "English translation of [28:10] in Sahih International style.",
+        "en_yusufali": "English translation of [28:10] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 10 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:10] en español.",
+        "fr_hamidullah": "Traduction de [28:10] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 10 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:11",
+      "surahNumber": 28,
+      "ayahNumber": 11,
+      "text": {
+        "simple": "وَقَالَتْ لِأُخْتِهِ قُصِّيهِ ۖ فَبَصُرَتْ بِهِ عَنْ جُنُبٍ وَهُمْ لَا يَشْعُرُونَ",
+        "en_sahih": "English translation of [28:11] in Sahih International style.",
+        "en_yusufali": "English translation of [28:11] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 11 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:11] en español.",
+        "fr_hamidullah": "Traduction de [28:11] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 11 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:12",
+      "surahNumber": 28,
+      "ayahNumber": 12,
+      "text": {
+        "simple": "۞ وَحَرَّمْنَا عَلَيْهِ الْمَرَاضِعَ مِنْ قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰ أَهْلِ بَيْتٍ يَكْفُلُونَهُ لَكُمْ وَهُمْ لَهُ نَاصِحُونَ",
+        "en_sahih": "English translation of [28:12] in Sahih International style.",
+        "en_yusufali": "English translation of [28:12] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 12 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:12] en español.",
+        "fr_hamidullah": "Traduction de [28:12] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 12 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:13",
+      "surahNumber": 28,
+      "ayahNumber": 13,
+      "text": {
+        "simple": "فَرَدَدْنَاهُ إِلَىٰ أُمِّهِ كَيْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَلِتَعْلَمَ أَنَّ وَعْدَ اللَّهِ حَقٌّ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+        "en_sahih": "English translation of [28:13] in Sahih International style.",
+        "en_yusufali": "English translation of [28:13] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 13 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:13] en español.",
+        "fr_hamidullah": "Traduction de [28:13] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 13 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:14",
+      "surahNumber": 28,
+      "ayahNumber": 14,
+      "text": {
+        "simple": "وَلَمَّا بَلَغَ أَشُدَّهُ وَاسْتَوَىٰ آتَيْنَاهُ حُكْمًا وَعِلْمًا ۚ وَكَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ",
+        "en_sahih": "English translation of [28:14] in Sahih International style.",
+        "en_yusufali": "English translation of [28:14] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 14 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:14] en español.",
+        "fr_hamidullah": "Traduction de [28:14] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 14 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:15",
+      "surahNumber": 28,
+      "ayahNumber": 15,
+      "text": {
+        "simple": "وَدَخَلَ الْمَدِينَةَ عَلَىٰ حِينِ غَفْلَةٍ مِنْ أَهْلِهَا فَوَجَدَ فِيهَا رَجُلَيْنِ يَقْتَتِلَانِ هَٰذَا مِنْ شِيعَتِهِ وَهَٰذَا مِنْ عَدُوِّهِ ۖ فَاسْتَغَاثَهُ الَّذِي مِنْ شِيعَتِهِ عَلَى الَّذِي مِنْ عَدُوِّهِ فَوَكَزَهُ مُوسَىٰ فَقَضَىٰ عَلَيْهِ ۖ قَالَ هَٰذَا مِنْ عَمَلِ الشَّيْطَانِ ۖ إِنَّهُ عَدُوٌّ مُضِلٌّ مُبِينٌ",
+        "en_sahih": "English translation of [28:15] in Sahih International style.",
+        "en_yusufali": "English translation of [28:15] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 15 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:15] en español.",
+        "fr_hamidullah": "Traduction de [28:15] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 15 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:16",
+      "surahNumber": 28,
+      "ayahNumber": 16,
+      "text": {
+        "simple": "قَالَ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي فَاغْفِرْ لِي فَغَفَرَ لَهُ ۚ إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ",
+        "en_sahih": "English translation of [28:16] in Sahih International style.",
+        "en_yusufali": "English translation of [28:16] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 16 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:16] en español.",
+        "fr_hamidullah": "Traduction de [28:16] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 16 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:17",
+      "surahNumber": 28,
+      "ayahNumber": 17,
+      "text": {
+        "simple": "قَالَ رَبِّ بِمَا أَنْعَمْتَ عَلَيَّ فَلَنْ أَكُونَ ظَهِيرًا لِلْمُجْرِمِينَ",
+        "en_sahih": "English translation of [28:17] in Sahih International style.",
+        "en_yusufali": "English translation of [28:17] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 17 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:17] en español.",
+        "fr_hamidullah": "Traduction de [28:17] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 17 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:18",
+      "surahNumber": 28,
+      "ayahNumber": 18,
+      "text": {
+        "simple": "فَأَصْبَحَ فِي الْمَدِينَةِ خَائِفًا يَتَرَقَّبُ فَإِذَا الَّذِي اسْتَنْصَرَهُ بِالْأَمْسِ يَسْتَصْرِخُهُ ۚ قَالَ لَهُ مُوسَىٰ إِنَّكَ لَغَوِيٌّ مُبِينٌ",
+        "en_sahih": "English translation of [28:18] in Sahih International style.",
+        "en_yusufali": "English translation of [28:18] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 18 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:18] en español.",
+        "fr_hamidullah": "Traduction de [28:18] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 18 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:19",
+      "surahNumber": 28,
+      "ayahNumber": 19,
+      "text": {
+        "simple": "فَلَمَّا أَنْ أَرَادَ أَنْ يَبْطِشَ بِالَّذِي هُوَ عَدُوٌّ لَهُمَا قَالَ يَا مُوسَىٰ أَتُرِيدُ أَنْ تَقْتُلَنِي كَمَا قَتَلْتَ نَفْسًا بِالْأَمْسِ ۖ إِنْ تُرِيدُ إِلَّا أَنْ تَكُونَ جَبَّارًا فِي الْأَرْضِ وَمَا تُرِيدُ أَنْ تَكُونَ مِنَ الْمُصْلِحِينَ",
+        "en_sahih": "English translation of [28:19] in Sahih International style.",
+        "en_yusufali": "English translation of [28:19] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 19 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:19] en español.",
+        "fr_hamidullah": "Traduction de [28:19] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 19 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:20",
+      "surahNumber": 28,
+      "ayahNumber": 20,
+      "text": {
+        "simple": "وَجَاءَ رَجُلٌ مِنْ أَقْصَى الْمَدِينَةِ يَسْعَىٰ قَالَ يَا مُوسَىٰ إِنَّ الْمَلَأَ يَأْتَمِرُونَ بِكَ لِيَقْتُلُوكَ فَاخْرُجْ إِنِّي لَكَ مِنَ النَّاصِحِينَ",
+        "en_sahih": "English translation of [28:20] in Sahih International style.",
+        "en_yusufali": "English translation of [28:20] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 20 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:20] en español.",
+        "fr_hamidullah": "Traduction de [28:20] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 20 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:21",
+      "surahNumber": 28,
+      "ayahNumber": 21,
+      "text": {
+        "simple": "فَخَرَجَ مِنْهَا خَائِفًا يَتَرَقَّبُ ۖ قَالَ رَبِّ نَجِّنِي مِنَ الْقَوْمِ الظَّالِمِينَ",
+        "en_sahih": "English translation of [28:21] in Sahih International style.",
+        "en_yusufali": "English translation of [28:21] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 21 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:21] en español.",
+        "fr_hamidullah": "Traduction de [28:21] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 21 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:22",
+      "surahNumber": 28,
+      "ayahNumber": 22,
+      "text": {
+        "simple": "وَلَمَّا تَوَجَّهَ تِلْقَاءَ مَدْيَنَ قَالَ عَسَىٰ رَبِّي أَنْ يَهْدِيَنِي سَوَاءَ السَّبِيلِ",
+        "en_sahih": "English translation of [28:22] in Sahih International style.",
+        "en_yusufali": "English translation of [28:22] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 22 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:22] en español.",
+        "fr_hamidullah": "Traduction de [28:22] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 22 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:23",
+      "surahNumber": 28,
+      "ayahNumber": 23,
+      "text": {
+        "simple": "وَلَمَّا وَرَدَ مَاءَ مَدْيَنَ وَجَدَ عَلَيْهِ أُمَّةً مِنَ النَّاسِ يَسْقُونَ وَوَجَدَ مِنْ دُونِهِمُ امْرَأَتَيْنِ تَذُودَانِ ۖ قَالَ مَا خَطْبُكُمَا ۖ قَالَتَا لَا نَسْقِي حَتَّىٰ يُصْدِرَ الرِّعَاءُ ۖ وَأَبُونَا شَيْخٌ كَبِيرٌ",
+        "en_sahih": "English translation of [28:23] in Sahih International style.",
+        "en_yusufali": "English translation of [28:23] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 23 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:23] en español.",
+        "fr_hamidullah": "Traduction de [28:23] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 23 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:24",
+      "surahNumber": 28,
+      "ayahNumber": 24,
+      "text": {
+        "simple": "فَسَقَىٰ لَهُمَا ثُمَّ تَوَلَّىٰ إِلَى الظِّلِّ فَقَالَ رَبِّ إِنِّي لِمَا أَنْزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ",
+        "en_sahih": "English translation of [28:24] in Sahih International style.",
+        "en_yusufali": "English translation of [28:24] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 24 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:24] en español.",
+        "fr_hamidullah": "Traduction de [28:24] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 24 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:25",
+      "surahNumber": 28,
+      "ayahNumber": 25,
+      "text": {
+        "simple": "فَجَاءَتْهُ إِحْدَاهُمَا تَمْشِي عَلَى اسْتِحْيَاءٍ قَالَتْ إِنَّ أَبِي يَدْعُوكَ لِيَجْزِيَكَ أَجْرَ مَا سَقَيْتَ لَنَا ۚ فَلَمَّا جَاءَهُ وَقَصَّ عَلَيْهِ الْقَصَصَ قَالَ لَا تَخَفْ ۖ نَجَوْتَ مِنَ الْقَوْمِ الظَّالِمِينَ",
+        "en_sahih": "English translation of [28:25] in Sahih International style.",
+        "en_yusufali": "English translation of [28:25] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 25 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:25] en español.",
+        "fr_hamidullah": "Traduction de [28:25] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 25 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:26",
+      "surahNumber": 28,
+      "ayahNumber": 26,
+      "text": {
+        "simple": "قَالَتْ إِحْدَاهُمَا يَا أَبَتِ اسْتَأْجِرْهُ ۖ إِنَّ خَيْرَ مَنِ اسْتَأْجَرْتَ الْقَوِيُّ الْأَمِينُ",
+        "en_sahih": "English translation of [28:26] in Sahih International style.",
+        "en_yusufali": "English translation of [28:26] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 26 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:26] en español.",
+        "fr_hamidullah": "Traduction de [28:26] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 26 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:27",
+      "surahNumber": 28,
+      "ayahNumber": 27,
+      "text": {
+        "simple": "قَالَ إِنِّي أُرِيدُ أَنْ أُنْكِحَكَ إِحْدَى ابْنَتَيَّ هَاتَيْنِ عَلَىٰ أَنْ تَأْجُرَنِي ثَمَانِيَ حِجَجٍ ۖ فَإِنْ أَتْمَمْتَ عَشْرًا فَمِنْ عِنْدِكَ ۖ وَمَا أُرِيدُ أَنْ أَشُقَّ عَلَيْكَ ۚ سَتَجِدُنِي إِنْ شَاءَ اللَّهُ مِنَ الصَّالِحِينَ",
+        "en_sahih": "English translation of [28:27] in Sahih International style.",
+        "en_yusufali": "English translation of [28:27] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 27 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:27] en español.",
+        "fr_hamidullah": "Traduction de [28:27] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 27 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:28",
+      "surahNumber": 28,
+      "ayahNumber": 28,
+      "text": {
+        "simple": "قَالَ ذَٰلِكَ بَيْنِي وَبَيْنَكَ ۖ أَيَّمَا الْأَجَلَيْنِ قَضَيْتُ فَلَا عُدْوَانَ عَلَيَّ ۖ وَاللَّهُ عَلَىٰ مَا نَقُولُ وَكِيلٌ",
+        "en_sahih": "English translation of [28:28] in Sahih International style.",
+        "en_yusufali": "English translation of [28:28] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 28 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:28] en español.",
+        "fr_hamidullah": "Traduction de [28:28] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 28 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:29",
+      "surahNumber": 28,
+      "ayahNumber": 29,
+      "text": {
+        "simple": "۞ فَلَمَّا قَضَىٰ مُوسَى الْأَجَلَ وَسَارَ بِأَهْلِهِ آنَسَ مِنْ جَانِبِ الطُّورِ نَارًا قَالَ لِأَهْلِهِ امْكُثُوا إِنِّي آنَسْتُ نَارًا لَعَلِّي آتِيكُمْ مِنْهَا بِخَبَرٍ أَوْ جَذْوَةٍ مِنَ النَّارِ لَعَلَّكُمْ تَصْطَلُونَ",
+        "en_sahih": "English translation of [28:29] in Sahih International style.",
+        "en_yusufali": "English translation of [28:29] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 29 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:29] en español.",
+        "fr_hamidullah": "Traduction de [28:29] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 29 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:30",
+      "surahNumber": 28,
+      "ayahNumber": 30,
+      "text": {
+        "simple": "فَلَمَّا أَتَاهَا نُودِيَ مِنْ شَاطِئِ الْوَادِ الْأَيْمَنِ فِي الْبُقْعَةِ الْمُبَارَكَةِ مِنَ الشَّجَرَةِ أَنْ يَا مُوسَىٰ إِنِّي أَنَا اللَّهُ رَبُّ الْعَالَمِينَ",
+        "en_sahih": "English translation of [28:30] in Sahih International style.",
+        "en_yusufali": "English translation of [28:30] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 30 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:30] en español.",
+        "fr_hamidullah": "Traduction de [28:30] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 30 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:31",
+      "surahNumber": 28,
+      "ayahNumber": 31,
+      "text": {
+        "simple": "وَأَنْ أَلْقِ عَصَاكَ ۖ فَلَمَّا رَآهَا تَهْتَزُّ كَأَنَّهَا جَانٌّ وَلَّىٰ مُدْبِرًا وَلَمْ يُعَقِّبْ ۚ يَا مُوسَىٰ أَقْبِلْ وَلَا تَخَفْ ۖ إِنَّكَ مِنَ الْآمِنِينَ",
+        "en_sahih": "English translation of [28:31] in Sahih International style.",
+        "en_yusufali": "English translation of [28:31] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 31 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:31] en español.",
+        "fr_hamidullah": "Traduction de [28:31] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 31 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:32",
+      "surahNumber": 28,
+      "ayahNumber": 32,
+      "text": {
+        "simple": "اسْلُكْ يَدَكَ فِي جَيْبِكَ تَخْرُجْ بَيْضَاءَ مِنْ غَيْرِ سُوءٍ وَاضْمُمْ إِلَيْكَ جَنَاحَكَ مِنَ الرَّهْبِ ۖ فَذَانِكَ بُرْهَانَانِ مِنْ رَبِّكَ إِلَىٰ فِرْعَوْنَ وَمَلَئِهِ ۚ إِنَّهُمْ كَانُوا قَوْمًا فَاسِقِينَ",
+        "en_sahih": "English translation of [28:32] in Sahih International style.",
+        "en_yusufali": "English translation of [28:32] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 32 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:32] en español.",
+        "fr_hamidullah": "Traduction de [28:32] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 32 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:33",
+      "surahNumber": 28,
+      "ayahNumber": 33,
+      "text": {
+        "simple": "قَالَ رَبِّ إِنِّي قَتَلْتُ مِنْهُمْ نَفْسًا فَأَخَافُ أَنْ يَقْتُلُونِ",
+        "en_sahih": "English translation of [28:33] in Sahih International style.",
+        "en_yusufali": "English translation of [28:33] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 33 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:33] en español.",
+        "fr_hamidullah": "Traduction de [28:33] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 33 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:34",
+      "surahNumber": 28,
+      "ayahNumber": 34,
+      "text": {
+        "simple": "وَأَخِي هَارُونُ هُوَ أَفْصَحُ مِنِّي لِسَانًا فَأَرْسِلْهُ مَعِيَ رِدْءًا يُصَدِّقُنِي ۖ إِنِّي أَخَافُ أَنْ يُكَذِّبُونِ",
+        "en_sahih": "English translation of [28:34] in Sahih International style.",
+        "en_yusufali": "English translation of [28:34] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 34 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:34] en español.",
+        "fr_hamidullah": "Traduction de [28:34] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 34 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:35",
+      "surahNumber": 28,
+      "ayahNumber": 35,
+      "text": {
+        "simple": "قَالَ سَنَشُدُّ عَضُدَكَ بِأَخِيكَ وَنَجْعَلُ لَكُمَا سُلْطَانًا فَلَا يَصِلُونَ إِلَيْكُمَا ۚ بِآيَاتِنَا أَنْتُمَا وَمَنِ اتَّبَعَكُمَا الْغَالِبُونَ",
+        "en_sahih": "English translation of [28:35] in Sahih International style.",
+        "en_yusufali": "English translation of [28:35] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 35 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:35] en español.",
+        "fr_hamidullah": "Traduction de [28:35] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 35 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:36",
+      "surahNumber": 28,
+      "ayahNumber": 36,
+      "text": {
+        "simple": "فَلَمَّا جَاءَهُمْ مُوسَىٰ بِآيَاتِنَا بَيِّنَاتٍ قَالُوا مَا هَٰذَا إِلَّا سِحْرٌ مُفْتَرًى وَمَا سَمِعْنَا بِهَٰذَا فِي آبَائِنَا الْأَوَّلِينَ",
+        "en_sahih": "English translation of [28:36] in Sahih International style.",
+        "en_yusufali": "English translation of [28:36] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 36 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:36] en español.",
+        "fr_hamidullah": "Traduction de [28:36] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 36 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:37",
+      "surahNumber": 28,
+      "ayahNumber": 37,
+      "text": {
+        "simple": "وَقَالَ مُوسَىٰ رَبِّي أَعْلَمُ بِمَنْ جَاءَ بِالْهُدَىٰ مِنْ عِنْدِهِ وَمَنْ تَكُونُ لَهُ عَاقِبَةُ الدَّارِ ۖ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ",
+        "en_sahih": "English translation of [28:37] in Sahih International style.",
+        "en_yusufali": "English translation of [28:37] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 37 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:37] en español.",
+        "fr_hamidullah": "Traduction de [28:37] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 37 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:38",
+      "surahNumber": 28,
+      "ayahNumber": 38,
+      "text": {
+        "simple": "وَقَالَ فِرْعَوْنُ يَا أَيُّهَا الْمَلَأُ مَا عَلِمْتُ لَكُمْ مِنْ إِلَٰهٍ غَيْرِي فَأَوْقِدْ لِي يَا هَامَانُ عَلَى الطِّينِ فَاجْعَلْ لِي صَرْحًا لَعَلِّي أَطَّلِعُ إِلَىٰ إِلَٰهِ مُوسَىٰ وَإِنِّي لَأَظُنُّهُ مِنَ الْكَاذِبِينَ",
+        "en_sahih": "English translation of [28:38] in Sahih International style.",
+        "en_yusufali": "English translation of [28:38] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 38 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:38] en español.",
+        "fr_hamidullah": "Traduction de [28:38] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 38 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:39",
+      "surahNumber": 28,
+      "ayahNumber": 39,
+      "text": {
+        "simple": "وَاسْتَكْبَرَ هُوَ وَجُنُودُهُ فِي الْأَرْضِ بِغَيْرِ الْحَقِّ وَظَنُّوا أَنَّهُمْ إِلَيْنَا لَا يُرْجَعُونَ",
+        "en_sahih": "English translation of [28:39] in Sahih International style.",
+        "en_yusufali": "English translation of [28:39] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 39 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:39] en español.",
+        "fr_hamidullah": "Traduction de [28:39] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 39 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:40",
+      "surahNumber": 28,
+      "ayahNumber": 40,
+      "text": {
+        "simple": "فَأَخَذْنَاهُ وَجُنُودَهُ فَنَبَذْنَاهُمْ فِي الْيَمِّ ۖ فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ الظَّالِمِينَ",
+        "en_sahih": "English translation of [28:40] in Sahih International style.",
+        "en_yusufali": "English translation of [28:40] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 40 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:40] en español.",
+        "fr_hamidullah": "Traduction de [28:40] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 40 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:41",
+      "surahNumber": 28,
+      "ayahNumber": 41,
+      "text": {
+        "simple": "وَجَعَلْنَاهُمْ أَئِمَّةً يَدْعُونَ إِلَى النَّارِ ۖ وَيَوْمَ الْقِيَامَةِ لَا يُنْصَرُونَ",
+        "en_sahih": "English translation of [28:41] in Sahih International style.",
+        "en_yusufali": "English translation of [28:41] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 41 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:41] en español.",
+        "fr_hamidullah": "Traduction de [28:41] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 41 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:42",
+      "surahNumber": 28,
+      "ayahNumber": 42,
+      "text": {
+        "simple": "وَأَتْبَعْنَاهُمْ فِي هَٰذِهِ الدُّنْيَا لَعْنَةً ۖ وَيَوْمَ الْقِيَامَةِ هُمْ مِنَ الْمَقْبُوحِينَ",
+        "en_sahih": "English translation of [28:42] in Sahih International style.",
+        "en_yusufali": "English translation of [28:42] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 42 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:42] en español.",
+        "fr_hamidullah": "Traduction de [28:42] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 42 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:43",
+      "surahNumber": 28,
+      "ayahNumber": 43,
+      "text": {
+        "simple": "وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ مِنْ بَعْدِ مَا أَهْلَكْنَا الْقُرُونَ الْأُولَىٰ بَصَائِرَ لِلنَّاسِ وَهُدًى وَرَحْمَةً لَعَلَّهُمْ يَتَذَكَّرُونَ",
+        "en_sahih": "English translation of [28:43] in Sahih International style.",
+        "en_yusufali": "English translation of [28:43] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 43 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:43] en español.",
+        "fr_hamidullah": "Traduction de [28:43] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 43 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:44",
+      "surahNumber": 28,
+      "ayahNumber": 44,
+      "text": {
+        "simple": "وَمَا كُنْتَ بِجَانِبِ الْغَرْبِيِّ إِذْ قَضَيْنَا إِلَىٰ مُوسَى الْأَمْرَ وَمَا كُنْتَ مِنَ الشَّاهِدِينَ",
+        "en_sahih": "English translation of [28:44] in Sahih International style.",
+        "en_yusufali": "English translation of [28:44] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 44 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:44] en español.",
+        "fr_hamidullah": "Traduction de [28:44] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 44 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:45",
+      "surahNumber": 28,
+      "ayahNumber": 45,
+      "text": {
+        "simple": "وَلَٰكِنَّا أَنْشَأْنَا قُرُونًا فَتَطَاوَلَ عَلَيْهِمُ الْعُمُرُ ۚ وَمَا كُنْتَ ثَاوِيًا فِي أَهْلِ مَدْيَنَ تَتْلُو عَلَيْهِمْ آيَاتِنَا وَلَٰكِنَّا كُنَّا مُرْسِلِينَ",
+        "en_sahih": "English translation of [28:45] in Sahih International style.",
+        "en_yusufali": "English translation of [28:45] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 45 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:45] en español.",
+        "fr_hamidullah": "Traduction de [28:45] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 45 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:46",
+      "surahNumber": 28,
+      "ayahNumber": 46,
+      "text": {
+        "simple": "وَمَا كُنْتَ بِجَانِبِ الطُّورِ إِذْ نَادَيْنَا وَلَٰكِنْ رَحْمَةً مِنْ رَبِّكَ لِتُنْذِرَ قَوْمًا مَا أَتَاهُمْ مِنْ نَذِيرٍ مِنْ قَبْلِكَ لَعَلَّهُمْ يَتَذَكَّرُونَ",
+        "en_sahih": "English translation of [28:46] in Sahih International style.",
+        "en_yusufali": "English translation of [28:46] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 46 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:46] en español.",
+        "fr_hamidullah": "Traduction de [28:46] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 46 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:47",
+      "surahNumber": 28,
+      "ayahNumber": 47,
+      "text": {
+        "simple": "وَلَوْلَا أَنْ تُصِيبَهُمْ مُصِيبَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ فَيَقُولُوا رَبَّنَا لَوْلَا أَرْسَلْتَ إِلَيْنَا رَسُولًا فَنَتَّبِعَ آيَاتِكَ وَنَكُونَ مِنَ الْمُؤْمِنِينَ",
+        "en_sahih": "English translation of [28:47] in Sahih International style.",
+        "en_yusufali": "English translation of [28:47] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 47 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:47] en español.",
+        "fr_hamidullah": "Traduction de [28:47] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 47 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:48",
+      "surahNumber": 28,
+      "ayahNumber": 48,
+      "text": {
+        "simple": "فَلَمَّا جَاءَهُمُ الْحَقُّ مِنْ عِنْدِنَا قَالُوا لَوْلَا أُوتِيَ مِثْلَ مَا أُوتِيَ مُوسَىٰ ۚ أَوَلَمْ يَكْفُرُوا بِمَا أُوتِيَ مُوسَىٰ مِنْ قَبْلُ ۖ قَالُوا سِحْرَانِ تَظَاهَرَا وَقَالُوا إِنَّا بِكُلٍّ كَافِرُونَ",
+        "en_sahih": "English translation of [28:48] in Sahih International style.",
+        "en_yusufali": "English translation of [28:48] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 48 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:48] en español.",
+        "fr_hamidullah": "Traduction de [28:48] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 48 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:49",
+      "surahNumber": 28,
+      "ayahNumber": 49,
+      "text": {
+        "simple": "قُلْ فَأْتُوا بِكِتَابٍ مِنْ عِنْدِ اللَّهِ هُوَ أَهْدَىٰ مِنْهُمَا أَتَّبِعْهُ إِنْ كُنْتُمْ صَادِقِينَ",
+        "en_sahih": "English translation of [28:49] in Sahih International style.",
+        "en_yusufali": "English translation of [28:49] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 49 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:49] en español.",
+        "fr_hamidullah": "Traduction de [28:49] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 49 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:50",
+      "surahNumber": 28,
+      "ayahNumber": 50,
+      "text": {
+        "simple": "فَإِنْ لَمْ يَسْتَجِيبُوا لَكَ فَاعْلَمْ أَنَّمَا يَتَّبِعُونَ أَهْوَاءَهُمْ ۚ وَمَنْ أَضَلُّ مِمَّنِ اتَّبَعَ هَوَاهُ بِغَيْرِ هُدًى مِنَ اللَّهِ ۚ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ",
+        "en_sahih": "English translation of [28:50] in Sahih International style.",
+        "en_yusufali": "English translation of [28:50] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 50 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:50] en español.",
+        "fr_hamidullah": "Traduction de [28:50] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 50 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:51",
+      "surahNumber": 28,
+      "ayahNumber": 51,
+      "text": {
+        "simple": "۞ وَلَقَدْ وَصَّلْنَا لَهُمُ الْقَوْلَ لَعَلَّهُمْ يَتَذَكَّرُونَ",
+        "en_sahih": "English translation of [28:51] in Sahih International style.",
+        "en_yusufali": "English translation of [28:51] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 51 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:51] en español.",
+        "fr_hamidullah": "Traduction de [28:51] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 51 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:52",
+      "surahNumber": 28,
+      "ayahNumber": 52,
+      "text": {
+        "simple": "الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ مِنْ قَبْلِهِ هُمْ بِهِ يُؤْمِنُونَ",
+        "en_sahih": "English translation of [28:52] in Sahih International style.",
+        "en_yusufali": "English translation of [28:52] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 52 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:52] en español.",
+        "fr_hamidullah": "Traduction de [28:52] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 52 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:53",
+      "surahNumber": 28,
+      "ayahNumber": 53,
+      "text": {
+        "simple": "وَإِذَا يُتْلَىٰ عَلَيْهِمْ قَالُوا آمَنَّا بِهِ إِنَّهُ الْحَقُّ مِنْ رَبِّنَا إِنَّا كُنَّا مِنْ قَبْلِهِ مُسْلِمِينَ",
+        "en_sahih": "English translation of [28:53] in Sahih International style.",
+        "en_yusufali": "English translation of [28:53] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 53 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:53] en español.",
+        "fr_hamidullah": "Traduction de [28:53] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 53 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:54",
+      "surahNumber": 28,
+      "ayahNumber": 54,
+      "text": {
+        "simple": "أُولَٰئِكَ يُؤْتَوْنَ أَجْرَهُمْ مَرَّتَيْنِ بِمَا صَبَرُوا وَيَدْرَءُونَ بِالْحَسَنَةِ السَّيِّئَةَ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ",
+        "en_sahih": "English translation of [28:54] in Sahih International style.",
+        "en_yusufali": "English translation of [28:54] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 54 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:54] en español.",
+        "fr_hamidullah": "Traduction de [28:54] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 54 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:55",
+      "surahNumber": 28,
+      "ayahNumber": 55,
+      "text": {
+        "simple": "وَإِذَا سَمِعُوا اللَّغْوَ أَعْرَضُوا عَنْهُ وَقَالُوا لَنَا أَعْمَالُنَا وَلَكُمْ أَعْمَالُكُمْ سَلَامٌ عَلَيْكُمْ لَا نَبْتَغِي الْجَاهِلِينَ",
+        "en_sahih": "English translation of [28:55] in Sahih International style.",
+        "en_yusufali": "English translation of [28:55] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 55 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:55] en español.",
+        "fr_hamidullah": "Traduction de [28:55] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 55 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:56",
+      "surahNumber": 28,
+      "ayahNumber": 56,
+      "text": {
+        "simple": "إِنَّكَ لَا تَهْدِي مَنْ أَحْبَبْتَ وَلَٰكِنَّ اللَّهَ يَهْدِي مَنْ يَشَاءُ ۚ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ",
+        "en_sahih": "English translation of [28:56] in Sahih International style.",
+        "en_yusufali": "English translation of [28:56] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 56 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:56] en español.",
+        "fr_hamidullah": "Traduction de [28:56] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 56 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:57",
+      "surahNumber": 28,
+      "ayahNumber": 57,
+      "text": {
+        "simple": "وَقَالُوا إِنْ نَتَّبِعِ الْهُدَىٰ مَعَكَ نُتَخَطَّفْ مِنْ أَرْضِنَا ۚ أَوَلَمْ نُمَكِّنْ لَهُمْ حَرَمًا آمِنًا يُجْبَىٰ إِلَيْهِ ثَمَرَاتُ كُلِّ شَيْءٍ رِزْقًا مِنْ لَدُنَّا وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+        "en_sahih": "English translation of [28:57] in Sahih International style.",
+        "en_yusufali": "English translation of [28:57] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 57 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:57] en español.",
+        "fr_hamidullah": "Traduction de [28:57] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 57 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:58",
+      "surahNumber": 28,
+      "ayahNumber": 58,
+      "text": {
+        "simple": "وَكَمْ أَهْلَكْنَا مِنْ قَرْيَةٍ بَطِرَتْ مَعِيشَتَهَا ۖ فَتِلْكَ مَسَاكِنُهُمْ لَمْ تُسْكَنْ مِنْ بَعْدِهِمْ إِلَّا قَلِيلًا ۖ وَكُنَّا نَحْنُ الْوَارِثِينَ",
+        "en_sahih": "English translation of [28:58] in Sahih International style.",
+        "en_yusufali": "English translation of [28:58] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 58 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:58] en español.",
+        "fr_hamidullah": "Traduction de [28:58] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 58 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:59",
+      "surahNumber": 28,
+      "ayahNumber": 59,
+      "text": {
+        "simple": "وَمَا كَانَ رَبُّكَ مُهْلِكَ الْقُرَىٰ حَتَّىٰ يَبْعَثَ فِي أُمِّهَا رَسُولًا يَتْلُو عَلَيْهِمْ آيَاتِنَا ۚ وَمَا كُنَّا مُهْلِكِي الْقُرَىٰ إِلَّا وَأَهْلُهَا ظَالِمُونَ",
+        "en_sahih": "English translation of [28:59] in Sahih International style.",
+        "en_yusufali": "English translation of [28:59] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 59 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:59] en español.",
+        "fr_hamidullah": "Traduction de [28:59] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 59 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:60",
+      "surahNumber": 28,
+      "ayahNumber": 60,
+      "text": {
+        "simple": "وَمَا أُوتِيتُمْ مِنْ شَيْءٍ فَمَتَاعُ الْحَيَاةِ الدُّنْيَا وَزِينَتُهَا ۚ وَمَا عِنْدَ اللَّهِ خَيْرٌ وَأَبْقَىٰ ۚ أَفَلَا تَعْقِلُونَ",
+        "en_sahih": "English translation of [28:60] in Sahih International style.",
+        "en_yusufali": "English translation of [28:60] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 60 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:60] en español.",
+        "fr_hamidullah": "Traduction de [28:60] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 60 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:61",
+      "surahNumber": 28,
+      "ayahNumber": 61,
+      "text": {
+        "simple": "أَفَمَنْ وَعَدْنَاهُ وَعْدًا حَسَنًا فَهُوَ لَاقِيهِ كَمَنْ مَتَّعْنَاهُ مَتَاعَ الْحَيَاةِ الدُّنْيَا ثُمَّ هُوَ يَوْمَ الْقِيَامَةِ مِنَ الْمُحْضَرِينَ",
+        "en_sahih": "English translation of [28:61] in Sahih International style.",
+        "en_yusufali": "English translation of [28:61] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 61 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:61] en español.",
+        "fr_hamidullah": "Traduction de [28:61] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 61 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:62",
+      "surahNumber": 28,
+      "ayahNumber": 62,
+      "text": {
+        "simple": "وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَائِيَ الَّذِينَ كُنْتُمْ تَزْعُمُونَ",
+        "en_sahih": "English translation of [28:62] in Sahih International style.",
+        "en_yusufali": "English translation of [28:62] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 62 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:62] en español.",
+        "fr_hamidullah": "Traduction de [28:62] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 62 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:63",
+      "surahNumber": 28,
+      "ayahNumber": 63,
+      "text": {
+        "simple": "قَالَ الَّذِينَ حَقَّ عَلَيْهِمُ الْقَوْلُ رَبَّنَا هَٰؤُلَاءِ الَّذِينَ أَغْوَيْنَا أَغْوَيْنَاهُمْ كَمَا غَوَيْنَا ۖ تَبَرَّأْنَا إِلَيْكَ ۖ مَا كَانُوا إِيَّانَا يَعْبُدُونَ",
+        "en_sahih": "English translation of [28:63] in Sahih International style.",
+        "en_yusufali": "English translation of [28:63] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 63 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:63] en español.",
+        "fr_hamidullah": "Traduction de [28:63] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 63 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:64",
+      "surahNumber": 28,
+      "ayahNumber": 64,
+      "text": {
+        "simple": "وَقِيلَ ادْعُوا شُرَكَاءَكُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا لَهُمْ وَرَأَوُا الْعَذَابَ ۚ لَوْ أَنَّهُمْ كَانُوا يَهْتَدُونَ",
+        "en_sahih": "English translation of [28:64] in Sahih International style.",
+        "en_yusufali": "English translation of [28:64] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 64 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:64] en español.",
+        "fr_hamidullah": "Traduction de [28:64] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 64 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:65",
+      "surahNumber": 28,
+      "ayahNumber": 65,
+      "text": {
+        "simple": "وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ مَاذَا أَجَبْتُمُ الْمُرْسَلِينَ",
+        "en_sahih": "English translation of [28:65] in Sahih International style.",
+        "en_yusufali": "English translation of [28:65] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 65 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:65] en español.",
+        "fr_hamidullah": "Traduction de [28:65] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 65 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:66",
+      "surahNumber": 28,
+      "ayahNumber": 66,
+      "text": {
+        "simple": "فَعَمِيَتْ عَلَيْهِمُ الْأَنْبَاءُ يَوْمَئِذٍ فَهُمْ لَا يَتَسَاءَلُونَ",
+        "en_sahih": "English translation of [28:66] in Sahih International style.",
+        "en_yusufali": "English translation of [28:66] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 66 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:66] en español.",
+        "fr_hamidullah": "Traduction de [28:66] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 66 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:67",
+      "surahNumber": 28,
+      "ayahNumber": 67,
+      "text": {
+        "simple": "فَأَمَّا مَنْ تَابَ وَآمَنَ وَعَمِلَ صَالِحًا فَعَسَىٰ أَنْ يَكُونَ مِنَ الْمُفْلِحِينَ",
+        "en_sahih": "English translation of [28:67] in Sahih International style.",
+        "en_yusufali": "English translation of [28:67] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 67 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:67] en español.",
+        "fr_hamidullah": "Traduction de [28:67] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 67 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:68",
+      "surahNumber": 28,
+      "ayahNumber": 68,
+      "text": {
+        "simple": "وَرَبُّكَ يَخْلُقُ مَا يَشَاءُ وَيَخْتَارُ ۗ مَا كَانَ لَهُمُ الْخِيَرَةُ ۚ سُبْحَانَ اللَّهِ وَتَعَالَىٰ عَمَّا يُشْرِكُونَ",
+        "en_sahih": "English translation of [28:68] in Sahih International style.",
+        "en_yusufali": "English translation of [28:68] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 68 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:68] en español.",
+        "fr_hamidullah": "Traduction de [28:68] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 68 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:69",
+      "surahNumber": 28,
+      "ayahNumber": 69,
+      "text": {
+        "simple": "وَرَبُّكَ يَعْلَمُ مَا تُكِنُّ صُدُورُهُمْ وَمَا يُعْلِنُونَ",
+        "en_sahih": "English translation of [28:69] in Sahih International style.",
+        "en_yusufali": "English translation of [28:69] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 69 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:69] en español.",
+        "fr_hamidullah": "Traduction de [28:69] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 69 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:70",
+      "surahNumber": 28,
+      "ayahNumber": 70,
+      "text": {
+        "simple": "وَهُوَ اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ ۖ لَهُ الْحَمْدُ فِي الْأُولَىٰ وَالْآخِرَةِ ۖ وَلَهُ الْحُكْمُ وَإِلَيْهِ تُرْجَعُونَ",
+        "en_sahih": "English translation of [28:70] in Sahih International style.",
+        "en_yusufali": "English translation of [28:70] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 70 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:70] en español.",
+        "fr_hamidullah": "Traduction de [28:70] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 70 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:71",
+      "surahNumber": 28,
+      "ayahNumber": 71,
+      "text": {
+        "simple": "قُلْ أَرَأَيْتُمْ إِنْ جَعَلَ اللَّهُ عَلَيْكُمُ اللَّيْلَ سَرْمَدًا إِلَىٰ يَوْمِ الْقِيَامَةِ مَنْ إِلَٰهٌ غَيْرُ اللَّهِ يَأْتِيكُمْ بِضِيَاءٍ ۖ أَفَلَا تَسْمَعُونَ",
+        "en_sahih": "English translation of [28:71] in Sahih International style.",
+        "en_yusufali": "English translation of [28:71] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 71 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:71] en español.",
+        "fr_hamidullah": "Traduction de [28:71] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 71 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:72",
+      "surahNumber": 28,
+      "ayahNumber": 72,
+      "text": {
+        "simple": "قُلْ أَرَأَيْتُمْ إِنْ جَعَلَ اللَّهُ عَلَيْكُمُ النَّهَارَ سَرْمَدًا إِلَىٰ يَوْمِ الْقِيَامَةِ مَنْ إِلَٰهٌ غَيْرُ اللَّهِ يَأْتِيكُمْ بِلَيْلٍ تَسْكُنُونَ فِيهِ ۖ أَفَلَا تُبْصِرُونَ",
+        "en_sahih": "English translation of [28:72] in Sahih International style.",
+        "en_yusufali": "English translation of [28:72] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 72 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:72] en español.",
+        "fr_hamidullah": "Traduction de [28:72] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 72 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:73",
+      "surahNumber": 28,
+      "ayahNumber": 73,
+      "text": {
+        "simple": "وَمِنْ رَحْمَتِهِ جَعَلَ لَكُمُ اللَّيْلَ وَالنَّهَارَ لِتَسْكُنُوا فِيهِ وَلِتَبْتَغُوا مِنْ فَضْلِهِ وَلَعَلَّكُمْ تَشْكُرُونَ",
+        "en_sahih": "English translation of [28:73] in Sahih International style.",
+        "en_yusufali": "English translation of [28:73] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 73 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:73] en español.",
+        "fr_hamidullah": "Traduction de [28:73] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 73 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:74",
+      "surahNumber": 28,
+      "ayahNumber": 74,
+      "text": {
+        "simple": "وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَائِيَ الَّذِينَ كُنْتُمْ تَزْعُمُونَ",
+        "en_sahih": "English translation of [28:74] in Sahih International style.",
+        "en_yusufali": "English translation of [28:74] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 74 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:74] en español.",
+        "fr_hamidullah": "Traduction de [28:74] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 74 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:75",
+      "surahNumber": 28,
+      "ayahNumber": 75,
+      "text": {
+        "simple": "وَنَزَعْنَا مِنْ كُلِّ أُمَّةٍ شَهِيدًا فَقُلْنَا هَاتُوا بُرْهَانَكُمْ فَعَلِمُوا أَنَّ الْحَقَّ لِلَّهِ وَضَلَّ عَنْهُمْ مَا كَانُوا يَفْتَرُونَ",
+        "en_sahih": "English translation of [28:75] in Sahih International style.",
+        "en_yusufali": "English translation of [28:75] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 75 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:75] en español.",
+        "fr_hamidullah": "Traduction de [28:75] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 75 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:76",
+      "surahNumber": 28,
+      "ayahNumber": 76,
+      "text": {
+        "simple": "۞ إِنَّ قَارُونَ كَانَ مِنْ قَوْمِ مُوسَىٰ فَبَغَىٰ عَلَيْهِمْ ۖ وَآتَيْنَاهُ مِنَ الْكُنُوزِ مَا إِنَّ مَفَاتِحَهُ لَتَنُوءُ بِالْعُصْبَةِ أُولِي الْقُوَّةِ إِذْ قَالَ لَهُ قَوْمُهُ لَا تَفْرَحْ ۖ إِنَّ اللَّهَ لَا يُحِبُّ الْفَرِحِينَ",
+        "en_sahih": "English translation of [28:76] in Sahih International style.",
+        "en_yusufali": "English translation of [28:76] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 76 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:76] en español.",
+        "fr_hamidullah": "Traduction de [28:76] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 76 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:77",
+      "surahNumber": 28,
+      "ayahNumber": 77,
+      "text": {
+        "simple": "وَابْتَغِ فِيمَا آتَاكَ اللَّهُ الدَّارَ الْآخِرَةَ ۖ وَلَا تَنْسَ نَصِيبَكَ مِنَ الدُّنْيَا ۖ وَأَحْسِنْ كَمَا أَحْسَنَ اللَّهُ إِلَيْكَ ۖ وَلَا تَبْغِ الْفَسَادَ فِي الْأَرْضِ ۖ إِنَّ اللَّهَ لَا يُحِبُّ الْمُفْسِدِينَ",
+        "en_sahih": "English translation of [28:77] in Sahih International style.",
+        "en_yusufali": "English translation of [28:77] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 77 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:77] en español.",
+        "fr_hamidullah": "Traduction de [28:77] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 77 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:78",
+      "surahNumber": 28,
+      "ayahNumber": 78,
+      "text": {
+        "simple": "قَالَ إِنَّمَا أُوتِيتُهُ عَلَىٰ عِلْمٍ عِنْدِي ۚ أَوَلَمْ يَعْلَمْ أَنَّ اللَّهَ قَدْ أَهْلَكَ مِنْ قَبْلِهِ مِنَ الْقُرُونِ مَنْ هُوَ أَشَدُّ مِنْهُ قُوَّةً وَأَكْثَرُ جَمْعًا ۚ وَلَا يُسْأَلُ عَنْ ذُنُوبِهِمُ الْمُجْرِمُونَ",
+        "en_sahih": "English translation of [28:78] in Sahih International style.",
+        "en_yusufali": "English translation of [28:78] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 78 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:78] en español.",
+        "fr_hamidullah": "Traduction de [28:78] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 78 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:79",
+      "surahNumber": 28,
+      "ayahNumber": 79,
+      "text": {
+        "simple": "فَخَرَجَ عَلَىٰ قَوْمِهِ فِي زِينَتِهِ ۖ قَالَ الَّذِينَ يُرِيدُونَ الْحَيَاةَ الدُّنْيَا يَا لَيْتَ لَنَا مِثْلَ مَا أُوتِيَ قَارُونُ إِنَّهُ لَذُو حَظٍّ عَظِيمٍ",
+        "en_sahih": "English translation of [28:79] in Sahih International style.",
+        "en_yusufali": "English translation of [28:79] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 79 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:79] en español.",
+        "fr_hamidullah": "Traduction de [28:79] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 79 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:80",
+      "surahNumber": 28,
+      "ayahNumber": 80,
+      "text": {
+        "simple": "وَقَالَ الَّذِينَ أُوتُوا الْعِلْمَ وَيْلَكُمْ ثَوَابُ اللَّهِ خَيْرٌ لِمَنْ آمَنَ وَعَمِلَ صَالِحًا وَلَا يُلَقَّاهَا إِلَّا الصَّابِرُونَ",
+        "en_sahih": "English translation of [28:80] in Sahih International style.",
+        "en_yusufali": "English translation of [28:80] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 80 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:80] en español.",
+        "fr_hamidullah": "Traduction de [28:80] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 80 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:81",
+      "surahNumber": 28,
+      "ayahNumber": 81,
+      "text": {
+        "simple": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِنْ فِئَةٍ يَنْصُرُونَهُ مِنْ دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنْتَصِرِينَ",
+        "en_sahih": "English translation of [28:81] in Sahih International style.",
+        "en_yusufali": "English translation of [28:81] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 81 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:81] en español.",
+        "fr_hamidullah": "Traduction de [28:81] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 81 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:82",
+      "surahNumber": 28,
+      "ayahNumber": 82,
+      "text": {
+        "simple": "وَأَصْبَحَ الَّذِينَ تَمَنَّوْا مَكَانَهُ بِالْأَمْسِ يَقُولُونَ وَيْكَأَنَّ اللَّهَ يَبْسُطُ الرِّزْقَ لِمَنْ يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ ۖ لَوْلَا أَنْ مَنَّ اللَّهُ عَلَيْنَا لَخَسَفَ بِنَا ۖ وَيْكَأَنَّهُ لَا يُفْلِحُ الْكَافِرُونَ",
+        "en_sahih": "English translation of [28:82] in Sahih International style.",
+        "en_yusufali": "English translation of [28:82] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 82 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:82] en español.",
+        "fr_hamidullah": "Traduction de [28:82] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 82 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:83",
+      "surahNumber": 28,
+      "ayahNumber": 83,
+      "text": {
+        "simple": "تِلْكَ الدَّارُ الْآخِرَةُ نَجْعَلُهَا لِلَّذِينَ لَا يُرِيدُونَ عُلُوًّا فِي الْأَرْضِ وَلَا فَسَادًا ۚ وَالْعَاقِبَةُ لِلْمُتَّقِينَ",
+        "en_sahih": "English translation of [28:83] in Sahih International style.",
+        "en_yusufali": "English translation of [28:83] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 83 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:83] en español.",
+        "fr_hamidullah": "Traduction de [28:83] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 83 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:84",
+      "surahNumber": 28,
+      "ayahNumber": 84,
+      "text": {
+        "simple": "مَنْ جَاءَ بِالْحَسَنَةِ فَلَهُ خَيْرٌ مِنْهَا ۖ وَمَنْ جَاءَ بِالسَّيِّئَةِ فَلَا يُجْزَى الَّذِينَ عَمِلُوا السَّيِّئَاتِ إِلَّا مَا كَانُوا يَعْمَلُونَ",
+        "en_sahih": "English translation of [28:84] in Sahih International style.",
+        "en_yusufali": "English translation of [28:84] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 84 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:84] en español.",
+        "fr_hamidullah": "Traduction de [28:84] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 84 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:85",
+      "surahNumber": 28,
+      "ayahNumber": 85,
+      "text": {
+        "simple": "إِنَّ الَّذِي فَرَضَ عَلَيْكَ الْقُرْآنَ لَرَادُّكَ إِلَىٰ مَعَادٍ ۚ قُلْ رَبِّي أَعْلَمُ مَنْ جَاءَ بِالْهُدَىٰ وَمَنْ هُوَ فِي ضَلَالٍ مُبِينٍ",
+        "en_sahih": "English translation of [28:85] in Sahih International style.",
+        "en_yusufali": "English translation of [28:85] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 85 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:85] en español.",
+        "fr_hamidullah": "Traduction de [28:85] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 85 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:86",
+      "surahNumber": 28,
+      "ayahNumber": 86,
+      "text": {
+        "simple": "وَمَا كُنْتَ تَرْجُو أَنْ يُلْقَىٰ إِلَيْكَ الْكِتَابُ إِلَّا رَحْمَةً مِنْ رَبِّكَ ۖ فَلَا تَكُونَنَّ ظَهِيرًا لِلْكَافِرِينَ",
+        "en_sahih": "English translation of [28:86] in Sahih International style.",
+        "en_yusufali": "English translation of [28:86] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 86 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:86] en español.",
+        "fr_hamidullah": "Traduction de [28:86] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 86 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:87",
+      "surahNumber": 28,
+      "ayahNumber": 87,
+      "text": {
+        "simple": "وَلَا يَصُدُّنَّكَ عَنْ آيَاتِ اللَّهِ بَعْدَ إِذْ أُنْزِلَتْ إِلَيْكَ ۖ وَادْعُ إِلَىٰ رَبِّكَ ۖ وَلَا تَكُونَنَّ مِنَ الْمُشْرِكِينَ",
+        "en_sahih": "English translation of [28:87] in Sahih International style.",
+        "en_yusufali": "English translation of [28:87] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 87 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:87] en español.",
+        "fr_hamidullah": "Traduction de [28:87] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 87 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    },
+    {
+      "id": "28:88",
+      "surahNumber": 28,
+      "ayahNumber": 88,
+      "text": {
+        "simple": "وَلَا تَدْعُ مَعَ اللَّهِ إِلَٰهًا آخَرَ ۘ لَا إِلَٰهَ إِلَّا هُوَ ۚ كُلُّ شَيْءٍ هَالِكٌ إِلَّا وَجْهَهُ ۚ لَهُ الْحُكْمُ وَإِلَيْهِ تُرْجَعُونَ",
+        "en_sahih": "English translation of [28:88] in Sahih International style.",
+        "en_yusufali": "English translation of [28:88] in Yusuf Ali style.",
+        "ur_maududi": "سورہ 28 آیت 88 کا اردو ترجمہ (مولانا مودودی)",
+        "es_cortes": "Traducción de [28:88] en español.",
+        "fr_hamidullah": "Traduction de [28:88] en français.",
+        "bn_hoque": "সূরা 28 আয়াত 88 এর বাংলা অনুবাদ (জহুরুল হক)"
+      }
+    }
+  ],
+  "provenance": [
+    {
+      "source": "Tanzil & Fawaz Ahmed Quran API",
+      "url": "https://tanzil.net/docs/download",
+      "license": "Verbatim copying/distribution permitted; Creative Commons Attribution 3.0"
+    }
+  ]
+}
