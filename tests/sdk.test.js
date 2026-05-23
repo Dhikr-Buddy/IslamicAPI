@@ -52,6 +52,7 @@ test("full data indexes are available offline", () => {
 test("audio and raw GitHub helpers build URLs", () => {
   const reciter = getReciterList()[0];
   assert.match(getAudioUrl(reciter.id, 1, 1), /^https?:\/\//);
+  assert.match(getAudioUrl(1, 1, 1), /^https?:\/\//); // Test for integer reciter id fix
   assert.equal(
     githubRawUrl("data/api/index.json"),
     "https://raw.githubusercontent.com/Dhikr-Buddy/IslamicAPI/master/data/api/index.json"

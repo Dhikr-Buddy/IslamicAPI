@@ -29,6 +29,8 @@
     "normalize:fonts": "node scripts/normalize-fonts/index.js",
     "build:api-index": "node scripts/build-api-index/index.js",
     "sync:updates": "node scripts/sync-updates/index.js",
+    "generate:data": "node scripts/generate-data.js",
+    "push:gitlab": "node scripts/push-to-gitlab.js",
     "test": "node --test"
   },
   "keywords": [

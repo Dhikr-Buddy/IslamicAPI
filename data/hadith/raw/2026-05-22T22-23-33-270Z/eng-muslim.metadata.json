@@ -1,0 +1,11 @@
+{
+  "sourceUrl": "https://github.com/fawazahmed0/hadith-api",
+  "directDownloadUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-muslim.json",
+  "license": "Unlicense",
+  "retrievedAt": "2026-05-22T22:23:38.581Z",
+  "bytes": 4296152,
+  "collection": "muslim",
+  "collectionName": "Sahih Muslim",
+  "edition": "eng-muslim",
+  "language": "English"
+}

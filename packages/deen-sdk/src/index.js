@@ -84,14 +84,15 @@ export function getReciterList() {
 }
 
 export function getAudioUrl(reciterId, surahNumber, ayahNumber) {
+  const rId = reciterId == null ? "" : String(reciterId);
   const s = Number(surahNumber);
   const a = ayahNumber == null ? null : Number(ayahNumber);
   const data = audioData();
   const row = data.audio.find(
-    (item) => item.reciterId === reciterId && item.surahNumber === s && (a == null || item.ayahNumber === a || item.ayahNumber == null)
+    (item) => String(item.reciterId) === rId && item.surahNumber === s && (a == null || item.ayahNumber === a || item.ayahNumber == null)
   );
   if (row?.url) return row.url;
-  const reciter = data.reciters.find((item) => item.id === reciterId || item.reciterId === reciterId);
+  const reciter = data.reciters.find((item) => String(item.id) === rId || String(item.reciterId) === rId);
   if (!reciter?.urlTemplate) return null;
   return fillAudioTemplate(reciter.urlTemplate, s, a || 1);
 }
