@@ -3,52 +3,381 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>IslamicAPI Wiki</title>
+    <title>IslamicAPI Developer Wiki & Documentation</title>
+    <!-- Marked library for on-the-fly markdown parsing -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <!-- Prism.js for code syntax highlighting -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-tomorrow.min.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-javascript.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-python.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-bash.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-json.min.js"></script>
     <link rel="stylesheet" href="./styles.css" />
+    <style>
+      /* Layout & Responsive styling */
+      :root {
+        --primary: #116149;
+        --primary-light: #e8f3ee;
+        --sidebar-width: 280px;
+        --text-color: #2c3e50;
+        --bg-color: #f8fafc;
+        --border-color: #e2e8f0;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        display: flex;
+        min-height: 100vh;
+        margin: 0;
+        font-family: 'Inter', ui-sans-serif, system-ui, -apple-system, sans-serif;
+        color: var(--text-color);
+        background: var(--bg-color);
+      }
+
+      /* Sidebar navigation */
+      aside {
+        width: var(--sidebar-width);
+        background: #ffffff;
+        border-right: 1px solid var(--border-color);
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        display: flex;
+        flex-direction: column;
+        overflow-y: auto;
+        padding: 24px;
+        z-index: 10;
+      }
+
+      aside h1 {
+        font-size: 1.35rem;
+        margin: 0 0 24px;
+        color: var(--primary);
+        font-weight: 700;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+      }
+
+      aside nav h3 {
+        font-size: 0.75rem;
+        text-transform: uppercase;
+        color: #94a3b8;
+        margin: 24px 0 8px;
+        letter-spacing: 0.05em;
+      }
+
+      aside nav ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+      }
+
+      aside nav ul li {
+        margin: 4px 0;
+      }
+
+      aside nav ul li a {
+        display: block;
+        padding: 8px 12px;
+        border-radius: 6px;
+        color: #475569;
+        text-decoration: none;
+        font-size: 0.925rem;
+        font-weight: 500;
+        transition: all 0.2s ease;
+      }
+
+      aside nav ul li a:hover {
+        background: var(--primary-light);
+        color: var(--primary);
+      }
+
+      aside nav ul li a.active {
+        background: var(--primary);
+        color: #ffffff;
+      }
+
+      /* Main content wrapper */
+      main {
+        margin-left: var(--sidebar-width);
+        flex: 1;
+        padding: 48px 64px;
+        max-width: 1012px;
+      }
+
+      #wiki-content {
+        background: #ffffff;
+        padding: 40px;
+        border-radius: 12px;
+        border: 1px solid var(--border-color);
+        box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.05);
+      }
+
+      /* Markdown custom rendering */
+      #wiki-content h1 {
+        color: #0f172a;
+        font-size: 2.25rem;
+        border-bottom: 1px solid var(--border-color);
+        padding-bottom: 12px;
+        margin-top: 0;
+        margin-bottom: 24px;
+        font-weight: 800;
+      }
+
+      #wiki-content h2 {
+        color: #1e293b;
+        font-size: 1.5rem;
+        margin-top: 36px;
+        margin-bottom: 16px;
+        font-weight: 700;
+        border-bottom: 1px solid #f1f5f9;
+        padding-bottom: 8px;
+      }
+
+      #wiki-content h3 {
+        color: #334155;
+        font-size: 1.2rem;
+        margin-top: 24px;
+        font-weight: 600;
+      }
+
+      #wiki-content p {
+        font-size: 1.05rem;
+        line-height: 1.75;
+        color: #334155;
+        margin-bottom: 20px;
+      }
+
+      #wiki-content pre {
+        background: #1e1e1e !important;
+        border: none;
+        padding: 16px;
+        border-radius: 8px;
+        margin: 20px 0;
+      }
+
+      #wiki-content code {
+        font-family: 'Fira Code', 'Courier New', Courier, monospace;
+        font-size: 0.9rem;
+      }
+
+      #wiki-content :not(pre) > code {
+        background: #f1f5f9;
+        color: #0f172a;
+        padding: 3px 6px;
+        border-radius: 4px;
+        font-weight: 500;
+      }
+
+      #wiki-content ul, #wiki-content ol {
+        padding-left: 24px;
+        margin-bottom: 20px;
+      }
+
+      #wiki-content li {
+        font-size: 1.05rem;
+        line-height: 1.75;
+        color: #334155;
+        margin-bottom: 8px;
+      }
+
+      #wiki-content blockquote {
+        border-left: 4px solid var(--primary);
+        background: var(--primary-light);
+        margin: 20px 0;
+        padding: 16px 20px;
+        border-radius: 0 8px 8px 0;
+      }
+
+      #wiki-content blockquote p {
+        margin: 0;
+        font-style: italic;
+      }
+
+      #wiki-content table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 24px 0;
+      }
+
+      #wiki-content th, #wiki-content td {
+        border: 1px solid var(--border-color);
+        padding: 12px 16px;
+        text-align: left;
+      }
+
+      #wiki-content th {
+        background: #f8fafc;
+        font-weight: 600;
+      }
+
+      /* Mobile menu button & responsive styling */
+      .menu-btn {
+        display: none;
+        position: fixed;
+        bottom: 24px;
+        right: 24px;
+        background: var(--primary);
+        color: white;
+        border: none;
+        width: 56px;
+        height: 56px;
+        border-radius: 50%;
+        box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
+        font-size: 24px;
+        cursor: pointer;
+        z-index: 100;
+      }
+
+      @media (max-width: 1024px) {
+        aside {
+          transform: translateX(-100%);
+          transition: transform 0.3s ease;
+        }
+        aside.open {
+          transform: translateX(0);
+        }
+        main {
+          margin-left: 0;
+          padding: 32px 24px;
+        }
+        .menu-btn {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+        }
+        #wiki-content {
+          padding: 24px 16px;
+        }
+      }
+    </style>
   </head>
   <body>
+    <!-- Mobile toggle button -->
+    <button class="menu-btn" onclick="toggleMenu()">☰</button>
+
+    <!-- Sidebar nav -->
+    <aside id="sidebar">
+      <h1>🕌 IslamicAPI Wiki</h1>
+      <nav>
+        <h3>Developer Guides</h3>
+        <ul>
+          <li><a href="#Home" id="link-Home">Welcome & Overview</a></li>
+          <li><a href="#Getting-Started" id="link-Getting-Started">Getting Started</a></li>
+          <li><a href="#Javascript-SDK" id="link-Javascript-SDK">JavaScript SDK</a></li>
+          <li><a href="#Python-SDK" id="link-Python-SDK">Python SDK</a></li>
+          <li><a href="#Static-API" id="link-Static-API">Static Raw Web API</a></li>
+          <li><a href="#Dataset-Pipeline" id="link-Dataset-Pipeline">Dataset Pipeline</a></li>
+          <li><a href="#Agents" id="link-Agents">Agents System</a></li>
+        </ul>
+
+        <h3>Raw Data Endpoints</h3>
+        <ul id="files-list">
+          <li style="padding: 8px 12px; font-size:0.85rem; color:#94a3b8">Loading endpoints...</li>
+        </ul>
+      </nav>
+    </aside>
+
+    <!-- Main Container -->
     <main>
-      <h1>IslamicAPI Wiki</h1>
-      <p>
-        Offline-first Quran, hadith, prayer, qibla, recitation, and Mushaf font data with reproducible
-        provenance. No generated religious content is used.
-      </p>
-
-      <section>
-        <h2>Raw GitHub API</h2>
-        <pre><code>import { createDeenRawClient } from "https://dhikr-buddy.github.io/IslamicAPI/deen-web.js";
-
-const deen = createDeenRawClient();
-const quran = await deen.loadQuran();
-const hadith = await deen.loadHadith();</code></pre>
-      </section>
-
-      <section>
-        <h2>Local SDKs</h2>
-        <pre><code>pnpm install
-pnpm dev
-pip install -e .</code></pre>
-      </section>
-
-      <section>
-        <h2>Static Data Files</h2>
-        <ul id="files"></ul>
-      </section>
+      <div id="wiki-content">
+        <div style="padding: 40px; text-align: center; color: #94a3b8;">
+          <h2>Loading Documentation...</h2>
+        </div>
+      </div>
     </main>
+
     <script type="module">
       import { createDeenRawClient } from "./deen-web.js";
-      const list = document.querySelector("#files");
+
+      const sidebar = document.querySelector("#sidebar");
+      const contentDiv = document.querySelector("#wiki-content");
+      const filesList = document.querySelector("#files-list");
+
+      // Set up the static API client
       const client = createDeenRawClient();
+
+      // Toggle Mobile Menu
+      window.toggleMenu = function() {
+        sidebar.classList.toggle("open");
+      }
+
+      // Load specific wiki file
+      async function loadPage(pageName) {
+        // Highlight active link in sidebar
+        document.querySelectorAll("aside nav ul li a").forEach(link => {
+          link.classList.remove("active");
+        });
+        const activeLink = document.querySelector(`#link-${pageName}`);
+        if (activeLink) activeLink.classList.add("active");
+
+        try {
+          contentDiv.innerHTML = `<div style="padding: 40px; text-align: center; color: #94a3b8;"><h2>Loading ${pageName.replace(/-/g, ' ')}...</h2></div>`;
+          const response = await fetch(`./wiki/${pageName}.md`);
+          if (!response.ok) throw new Error("Wiki page not found");
+          const markdown = await response.text();
+          
+          // Parse Markdown
+          contentDiv.innerHTML = marked.parse(markdown);
+          
+          // Apply syntax highlighting
+          Prism.highlightAllUnder(contentDiv);
+        } catch (error) {
+          contentDiv.innerHTML = `
+            <div style="padding: 40px; text-align: center; color: #ef4444;">
+              <h2>Failed to load documentation page</h2>
+              <p>${error.message}</p>
+              <a href="#Home" style="color: var(--primary); font-weight: 600;">Go back Home</a>
+            </div>
+          `;
+        }
+
+        // Close sidebar on mobile after clicking
+        sidebar.classList.remove("open");
+      }
+
+      // Routing
+      function route() {
+        const hash = window.location.hash.slice(1) || "Home";
+        loadPage(hash);
+      }
+
+      window.addEventListener("hashchange", route);
+      
+      // Load static Raw API endpoints from index
       client.loadIndex().then((index) => {
+        filesList.innerHTML = "";
         for (const [name, file] of Object.entries(index.files)) {
           const item = document.createElement("li");
           const link = document.createElement("a");
           link.href = file.url;
-          link.textContent = `${name}: ${file.path}`;
+          link.target = "_blank";
+          link.textContent = name;
+          link.style.display = "flex";
+          link.style.justifyContent = "space-between";
+          link.style.alignItems = "center";
+          
+          const label = document.createElement("span");
+          label.textContent = "↗";
+          label.style.fontSize = "0.75rem";
+          label.style.opacity = "0.5";
+          
+          link.append(label);
           item.append(link);
-          list.append(item);
+          filesList.append(item);
         }
+      }).catch(err => {
+        filesList.innerHTML = `<li style="padding: 8px 12px; font-size:0.85rem; color:#ef4444">Failed to load endpoints</li>`;
       });
+
+      // Initial routing
+      route();
     </script>
   </body>
 </html>
