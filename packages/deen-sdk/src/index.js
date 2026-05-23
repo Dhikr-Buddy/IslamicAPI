@@ -148,7 +148,18 @@ export function getQiblaDirection(latitude, longitude) {
 export function calculatePrayerTimes(input) {
   const latitude = Number(input.latitude);
   const longitude = Number(input.longitude);
-  const date = input.date ? new Date(`${input.date}T12:00:00Z`) : new Date();
+  let date;
+  let dateStr;
+  if (input.date) {
+    date = new Date(`${input.date}T12:00:00Z`);
+    dateStr = input.date;
+  } else {
+    date = new Date();
+    const y = date.getFullYear();
+    const m = String(date.getMonth() + 1).padStart(2, "0");
+    const d = String(date.getDate()).padStart(2, "0");
+    dateStr = `${y}-${m}-${d}`;
+  }
   const timezone = input.timezone ?? -date.getTimezoneOffset() / 60;
   const method = calculationMethods[input.method || "MuslimWorldLeague"] || calculationMethods.MuslimWorldLeague;
   const day = dayOfYear(date);
@@ -166,7 +177,7 @@ export function calculatePrayerTimes(input) {
     : noon + hourAngle(latitude, declination, 90 + method.ishaAngle) / 15;
   return {
     method: method.name,
-    date: date.toISOString().slice(0, 10),
+    date: dateStr,
     timezone,
     fajr: formatTime(fajr),
     sunrise: formatTime(sunrise),
