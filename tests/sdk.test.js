@@ -122,4 +122,12 @@ test("timestamp APIs return correct structures for pages, ayahs, and words", () 
   assert.equal(page.page, 1);
   assert.ok(page.surahs.length > 0);
   assert.equal(page.surahs[0].surahNumber, 1);
+
+  // test fallback calculations
+  const fallbackAyahs = getAyahTimestamps(2, "alafasy");
+  assert.ok(fallbackAyahs.length > 0);
+  assert.equal(fallbackAyahs[0].ayahNumber, 1);
+
+  const fallbackWords = getWordTimestamps(2, 1, "alafasy");
+  assert.ok(fallbackWords.length > 0);
 });

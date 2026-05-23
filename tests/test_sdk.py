@@ -69,6 +69,14 @@ class TestDeenSDK(unittest.TestCase):
         self.assertTrue(len(page["surahs"]) > 0)
         self.assertEqual(page["surahs"][0]["surahNumber"], 1)
 
+        # test fallback calculations
+        fallback_ayahs = get_ayah_timestamps(2, "alafasy")
+        self.assertTrue(len(fallback_ayahs) > 0)
+        self.assertEqual(fallback_ayahs[0]["ayahNumber"], 1)
+
+        fallback_words = get_word_timestamps(2, 1, "alafasy")
+        self.assertTrue(len(fallback_words) > 0)
+
 
 if __name__ == "__main__":
     unittest.main()
