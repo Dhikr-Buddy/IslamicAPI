@@ -16,7 +16,7 @@ for (const file of manifest.files.filter((item) => item.ok && item.domain === "h
 const indexOut = { schemaVersion: 1, generatedAt: timestamp(), collections: out.collections, hadiths: [] };
 writeJson(path.join(dataRoot, "hadith/normalized/hadith.json"), indexOut);
 
-const chunkSize = 25000;
+const chunkSize = 15000;
 for (let i = 0; i < out.hadiths.length; i += chunkSize) {
   const chunk = out.hadiths.slice(i, i + chunkSize);
   const partNum = Math.floor(i / chunkSize) + 1;
