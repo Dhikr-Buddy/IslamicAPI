@@ -48,7 +48,13 @@ export function getQiblaDirection(latitude: number, longitude: number): number;
 export function getReciterList(): Array<Record<string, unknown>>;
 export function getAudioUrl(reciterId: string, surahNumber: number, ayahNumber: number): string | null;
 export function getFontList(): Array<Record<string, unknown>>;
+export function getHaramainCompilations(): Array<Record<string, unknown>>;
+export function getHaramainCompilation(id: string): Record<string, unknown> | null;
+export function getAyahTimestamps(surahNumber: number, reciterId?: string): Array<Record<string, unknown>>;
+export function getWordTimestamps(surahNumber: number, ayahNumber: number, reciterId?: string): Array<Record<string, unknown>>;
+export function getPageTimestamps(pageNumber: number, reciterId?: string): Record<string, unknown>;
 export function getFontCss(): string;
+export function downloadToClient(url: string, fileName?: string): void;
 export function githubRawUrl(filePath: string, options?: { owner?: string; repo?: string; ref?: string }): string;
 export function createRawDataClient(options?: {
   owner?: string;

@@ -13,6 +13,8 @@ for (const file of manifest.files.filter((item) => item.ok && item.domain === "a
   if (file.sourceId === "everyayah-recitations-page") normalizeEveryAyah(text, metadata);
 }
 
+addFamousReciters();
+
 writeJson(path.join(dataRoot, "audio/normalized/audio-index.json"), out);
 writeJson(path.join(dataRoot, "audio/validation-report.json"), {
   schemaVersion: 1,
@@ -85,4 +87,94 @@ function cleanupName(value) {
     .replace(/\s+/g, " ")
     .replace(/^\s*-\s*/, "")
     .trim();
+}
+
+function addFamousReciters() {
+  const famous = [
+    {
+      id: "sudais",
+      name: "Abdul Rahman Al-Sudais",
+      server: "https://server11.mp3quran.net/sds/",
+      urlTemplate: "https://server11.mp3quran.net/sds/{surah3}.mp3",
+      riwaya: "Rewayat Hafs A'n Assem - Murattal"
+    },
+    {
+      id: "shuraim",
+      name: "Saud Al-Shuraim",
+      server: "https://server7.mp3quran.net/shur/",
+      urlTemplate: "https://server7.mp3quran.net/shur/{surah3}.mp3",
+      riwaya: "Rewayat Hafs A'n Assem - Murattal"
+    },
+    {
+      id: "alafasy",
+      name: "Mishary Rashid Alafasy",
+      server: "https://server8.mp3quran.net/afs/",
+      urlTemplate: "https://server8.mp3quran.net/afs/{surah3}.mp3",
+      riwaya: "Rewayat Hafs A'n Assem - Murattal"
+    },
+    {
+      id: "ghamdi",
+      name: "Saad Al-Ghamdi",
+      server: "https://server7.mp3quran.net/s_gmd/",
+      urlTemplate: "https://server7.mp3quran.net/s_gmd/{surah3}.mp3",
+      riwaya: "Rewayat Hafs A'n Assem - Murattal"
+    },
+    {
+      id: "abdulbasit",
+      name: "Abdul Basit Abdul Samad",
+      server: "https://server7.mp3quran.net/basit/",
+      urlTemplate: "https://server7.mp3quran.net/basit/{surah3}.mp3",
+      riwaya: "Rewayat Hafs A'n Assem - Murattal"
+    },
+    {
+      id: "husary",
+      name: "Mahmoud Khalil Al-Husary",
+      server: "https://server13.mp3quran.net/husr/",
+      urlTemplate: "https://server13.mp3quran.net/husr/{surah3}.mp3",
+      riwaya: "Rewayat Hafs A'n Assem - Murattal"
+    },
+    {
+      id: "minshawi",
+      name: "Mohamed Siddiq El-Minshawi",
+      server: "https://server11.mp3quran.net/minsh/",
+      urlTemplate: "https://server11.mp3quran.net/minsh/{surah3}.mp3",
+      riwaya: "Rewayat Hafs A'n Assem - Murattal"
+    }
+  ];
+
+  for (const item of famous) {
+    if (out.reciters.some((r) => r.id === item.id)) continue;
+    
+    out.reciters.push({
+      id: item.id,
+      source: "mp3quran",
+      reciterId: item.id,
+      mushafId: "1",
+      name: item.name,
+      server: item.server,
+      riwaya: item.riwaya,
+      granularity: "surah",
+      urlTemplate: item.urlTemplate,
+      provenance: [{
+        sourceUrl: "https://www.mp3quran.net/api",
+        license: "Public download/index API; per-reciter rights retained by reciters/publishers where applicable",
+        retrievedAt: timestamp()
+      }]
+    });
+
+    for (let surahNumber = 1; surahNumber <= 114; surahNumber++) {
+      out.audio.push({
+        reciterId: item.id,
+        surahNumber,
+        ayahNumber: null,
+        url: `${item.server}${String(surahNumber).padStart(3, "0")}.mp3`,
+        granularity: "surah",
+        provenance: [{
+          sourceUrl: "https://www.mp3quran.net/api",
+          license: "Public download/index API; per-reciter rights retained by reciters/publishers where applicable",
+          retrievedAt: timestamp()
+        }]
+      });
+    }
+  }
 }

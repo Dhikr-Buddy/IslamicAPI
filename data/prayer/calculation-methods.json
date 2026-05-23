@@ -10,6 +10,7 @@
     "Karachi": { "fajrAngle": 18, "ishaAngle": 18 },
     "UmmAlQura": { "fajrAngle": 18.5, "ishaMinutes": 90 },
     "Dubai": { "fajrAngle": 18.2, "ishaAngle": 18.2 },
-    "MoonsightingCommittee": { "fajrAngle": 18, "ishaAngle": 18 }
+    "MoonsightingCommittee": { "fajrAngle": 18, "ishaAngle": 18 },
+    "ISNA": { "fajrAngle": 15, "ishaAngle": 15 }
   }
 }

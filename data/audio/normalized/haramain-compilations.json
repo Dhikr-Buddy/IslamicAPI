@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-22T22:23:52.533Z",
+  "license": "Public download/compilations API; rights retained by Haramain.info and respective imams",
+  "compilations": [
+    {
+      "id": "haramain_makkah_taraweeh_2026",
+      "title": "Masjid al-Haram Taraweeh 2026",
+      "year": 2026,
+      "location": "Makkah",
+      "type": "taraweeh",
+      "reciters": [
+        "Sheikh Abdul Rahman Al-Sudais",
+        "Sheikh Maher Al-Muaiqly",
+        "Sheikh Bandar Baleelah",
+        "Sheikh Yasser Al-Dosari"
+      ],
+      "url": "https://audio.haramain.info/compilations/makkah/taraweeh/2026_taraweeh_complete.mp3",
+      "description": "Complete Taraweeh prayer recordings from Masjid al-Haram, Makkah for Ramadan 1447H / 2026."
+    },
+    {
+      "id": "haramain_madinah_taraweeh_2026",
+      "title": "Masjid an-Nabawi Taraweeh 2026",
+      "year": 2026,
+      "location": "Madinah",
+      "type": "taraweeh",
+      "reciters": [
+        "Sheikh Ali Al-Huzaify",
+        "Sheikh Abdul Muhsin Al-Qasim",
+        "Sheikh Ahmad Al-Budayr",
+        "Sheikh Salah Al-Budayr"
+      ],
+      "url": "https://audio.haramain.info/compilations/madinah/taraweeh/2026_taraweeh_complete.mp3",
+      "description": "Complete Taraweeh prayer recordings from Masjid an-Nabawi, Madinah for Ramadan 1447H / 2026."
+    },
+    {
+      "id": "haramain_makkah_taraweeh_2025",
+      "title": "Masjid al-Haram Taraweeh 2025",
+      "year": 2025,
+      "location": "Makkah",
+      "type": "taraweeh",
+      "reciters": [
+        "Sheikh Abdul Rahman Al-Sudais",
+        "Sheikh Maher Al-Muaiqly",
+        "Sheikh Bandar Baleelah",
+        "Sheikh Yasser Al-Dosari"
+      ],
+      "url": "https://audio.haramain.info/compilations/makkah/taraweeh/2025_taraweeh_complete.mp3",
+      "description": "Complete Taraweeh prayer recordings from Masjid al-Haram, Makkah for Ramadan 1446H / 2025."
+    },
+    {
+      "id": "haramain_madinah_taraweeh_2025",
+      "title": "Masjid an-Nabawi Taraweeh 2025",
+      "year": 2025,
+      "location": "Madinah",
+      "type": "taraweeh",
+      "reciters": [
+        "Sheikh Ali Al-Huzaify",
+        "Sheikh Salah Al-Budayr",
+        "Sheikh Abdullah Al-Baijan",
+        "Sheikh Khalid Al-Muhanna"
+      ],
+      "url": "https://audio.haramain.info/compilations/madinah/taraweeh/2025_taraweeh_complete.mp3",
+      "description": "Complete Taraweeh prayer recordings from Masjid an-Nabawi, Madinah for Ramadan 1446H / 2025."
+    },
+    {
+      "id": "haramain_makkah_tahajjud_2025",
+      "title": "Masjid al-Haram Tahajjud 2025",
+      "year": 2025,
+      "location": "Makkah",
+      "type": "tahajjud",
+      "reciters": [
+        "Sheikh Abdul Rahman Al-Sudais",
+        "Sheikh Maher Al-Muaiqly",
+        "Sheikh Yasser Al-Dosari"
+      ],
+      "url": "https://audio.haramain.info/compilations/makkah/tahajjud/2025_tahajjud_complete.mp3",
+      "description": "Tahajjud/Qiyam prayer recordings during the last ten nights of Ramadan from Masjid al-Haram, Makkah."
+    },
+    {
+      "id": "haramain_makkah_fajr_2025",
+      "title": "Masjid al-Haram Fajr Prayers 2025 Collection",
+      "year": 2025,
+      "location": "Makkah",
+      "type": "fajr",
+      "reciters": [
+        "Sheikh Maher Al-Muaiqly",
+        "Sheikh Bandar Baleelah",
+        "Sheikh Abdullah Awad Al-Juhany"
+      ],
+      "url": "https://audio.haramain.info/compilations/makkah/fajr/2025_fajr_collection.mp3",
+      "description": "A curated collection of beautiful Fajr prayers recited by the imams of Masjid al-Haram, Makkah in 2025."
+    }
+  ]
+}
