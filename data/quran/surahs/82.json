@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T02:06:49.473Z",
+  "generatedAt": "2026-05-23T02:33:24.499Z",
   "surahNumber": 82,
   "ayahCount": 19,
   "ayahs": [
@@ -20,7 +20,21 @@
         "ru_abuadel": "Перевод айята [82:1] на русский язык (Абу Адель).",
         "tr_diyanet": "[82:1] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [82:1] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［82:1］ 马坚 译文"
+        "zh_jian": "真主启示 ［82:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [82:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [82:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [82:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [82:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [82:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [82:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [82:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [82:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [82:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [82:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [82:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [82:1]."
       }
     },
     {
@@ -39,7 +53,21 @@
         "ru_abuadel": "Перевод айята [82:2] на русский язык (Абу Адель).",
         "tr_diyanet": "[82:2] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [82:2] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［82:2］ 马坚 译文"
+        "zh_jian": "真主启示 ［82:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [82:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [82:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [82:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [82:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [82:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [82:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [82:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [82:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [82:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [82:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [82:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [82:2]."
       }
     },
     {
@@ -58,7 +86,21 @@
         "ru_abuadel": "Перевод айята [82:3] на русский язык (Абу Адель).",
         "tr_diyanet": "[82:3] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [82:3] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［82:3］ 马坚 译文"
+        "zh_jian": "真主启示 ［82:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [82:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [82:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [82:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [82:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [82:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [82:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [82:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [82:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [82:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [82:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [82:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [82:3]."
       }
     },
     {
@@ -77,7 +119,21 @@
         "ru_abuadel": "Перевод айята [82:4] на русский язык (Абу Адель).",
         "tr_diyanet": "[82:4] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [82:4] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［82:4］ 马坚 译文"
+        "zh_jian": "真主启示 ［82:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [82:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [82:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [82:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [82:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [82:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [82:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [82:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [82:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [82:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [82:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [82:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [82:4]."
       }
     },
     {
@@ -96,7 +152,21 @@
         "ru_abuadel": "Перевод айята [82:5] на русский язык (Абу Адель).",
         "tr_diyanet": "[82:5] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [82:5] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［82:5］ 马坚 译文"
+        "zh_jian": "真主启示 ［82:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [82:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [82:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [82:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [82:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [82:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [82:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [82:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [82:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [82:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [82:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [82:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [82:5]."
       }
     },
     {
@@ -115,7 +185,21 @@
         "ru_abuadel": "Перевод айята [82:6] на русский язык (Абу Адель).",
         "tr_diyanet": "[82:6] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [82:6] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［82:6］ 马坚 译文"
+        "zh_jian": "真主启示 ［82:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [82:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [82:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [82:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [82:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [82:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [82:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [82:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [82:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [82:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [82:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [82:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [82:6]."
       }
     },
     {
@@ -134,7 +218,21 @@
         "ru_abuadel": "Перевод айята [82:7] на русский язык (Абу Адель).",
         "tr_diyanet": "[82:7] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [82:7] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［82:7］ 马坚 译文"
+        "zh_jian": "真主启示 ［82:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [82:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [82:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [82:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [82:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [82:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [82:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [82:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [82:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [82:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [82:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [82:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [82:7]."
       }
     },
     {
@@ -153,7 +251,21 @@
         "ru_abuadel": "Перевод айята [82:8] на русский язык (Абу Адель).",
         "tr_diyanet": "[82:8] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [82:8] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［82:8］ 马坚 译文"
+        "zh_jian": "真主启示 ［82:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [82:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [82:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [82:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [82:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [82:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [82:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [82:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [82:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [82:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [82:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [82:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [82:8]."
       }
     },
     {
@@ -172,7 +284,21 @@
         "ru_abuadel": "Перевод айята [82:9] на русский язык (Абу Адель).",
         "tr_diyanet": "[82:9] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [82:9] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［82:9］ 马坚 译文"
+        "zh_jian": "真主启示 ［82:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [82:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [82:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [82:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [82:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [82:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [82:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [82:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [82:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [82:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [82:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [82:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [82:9]."
       }
     },
     {
@@ -191,7 +317,21 @@
         "ru_abuadel": "Перевод айята [82:10] на русский язык (Абу Адель).",
         "tr_diyanet": "[82:10] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [82:10] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［82:10］ 马坚 译文"
+        "zh_jian": "真主启示 ［82:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [82:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [82:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [82:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [82:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [82:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [82:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [82:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [82:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [82:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [82:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [82:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [82:10]."
       }
     },
     {
@@ -210,7 +350,21 @@
         "ru_abuadel": "Перевод айята [82:11] на русский язык (Абу Адель).",
         "tr_diyanet": "[82:11] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [82:11] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［82:11］ 马坚 译文"
+        "zh_jian": "真主启示 ［82:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [82:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [82:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [82:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [82:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [82:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [82:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [82:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [82:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [82:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [82:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [82:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [82:11]."
       }
     },
     {
@@ -229,7 +383,21 @@
         "ru_abuadel": "Перевод айята [82:12] на русский язык (Абу Адель).",
         "tr_diyanet": "[82:12] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [82:12] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［82:12］ 马坚 译文"
+        "zh_jian": "真主启示 ［82:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [82:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [82:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [82:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [82:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [82:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [82:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [82:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [82:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [82:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [82:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [82:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [82:12]."
       }
     },
     {
@@ -248,7 +416,21 @@
         "ru_abuadel": "Перевод айята [82:13] на русский язык (Абу Адель).",
         "tr_diyanet": "[82:13] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [82:13] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［82:13］ 马坚 译文"
+        "zh_jian": "真主启示 ［82:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [82:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [82:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [82:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [82:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [82:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [82:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [82:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [82:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [82:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [82:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [82:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [82:13]."
       }
     },
     {
@@ -267,7 +449,21 @@
         "ru_abuadel": "Перевод айята [82:14] на русский язык (Абу Адель).",
         "tr_diyanet": "[82:14] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [82:14] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［82:14］ 马坚 译文"
+        "zh_jian": "真主启示 ［82:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [82:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [82:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [82:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [82:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [82:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [82:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [82:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [82:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [82:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [82:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [82:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [82:14]."
       }
     },
     {
@@ -286,7 +482,21 @@
         "ru_abuadel": "Перевод айята [82:15] на русский язык (Абу Адель).",
         "tr_diyanet": "[82:15] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [82:15] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［82:15］ 马坚 译文"
+        "zh_jian": "真主启示 ［82:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [82:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [82:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [82:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [82:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [82:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [82:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [82:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [82:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [82:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [82:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [82:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [82:15]."
       }
     },
     {
@@ -305,7 +515,21 @@
         "ru_abuadel": "Перевод айята [82:16] на русский язык (Абу Адель).",
         "tr_diyanet": "[82:16] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [82:16] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［82:16］ 马坚 译文"
+        "zh_jian": "真主启示 ［82:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [82:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [82:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [82:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [82:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [82:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [82:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [82:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [82:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [82:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [82:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [82:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [82:16]."
       }
     },
     {
@@ -324,7 +548,21 @@
         "ru_abuadel": "Перевод айята [82:17] на русский язык (Абу Адель).",
         "tr_diyanet": "[82:17] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [82:17] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［82:17］ 马坚 译文"
+        "zh_jian": "真主启示 ［82:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [82:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [82:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [82:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [82:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [82:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [82:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [82:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [82:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [82:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [82:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [82:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [82:17]."
       }
     },
     {
@@ -343,7 +581,21 @@
         "ru_abuadel": "Перевод айята [82:18] на русский язык (Абу Адель).",
         "tr_diyanet": "[82:18] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [82:18] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［82:18］ 马坚 译文"
+        "zh_jian": "真主启示 ［82:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [82:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [82:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [82:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [82:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [82:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [82:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [82:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [82:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [82:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [82:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [82:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [82:18]."
       }
     },
     {
@@ -362,7 +614,21 @@
         "ru_abuadel": "Перевод айята [82:19] на русский язык (Абу Адель).",
         "tr_diyanet": "[82:19] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [82:19] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［82:19］ 马坚 译文"
+        "zh_jian": "真主启示 ［82:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [82:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [82:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [82:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [82:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [82:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [82:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [82:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [82:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [82:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [82:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [82:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [82:19]."
       }
     }
   ],

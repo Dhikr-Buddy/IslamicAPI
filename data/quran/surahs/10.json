@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T02:06:49.444Z",
+  "generatedAt": "2026-05-23T02:33:24.454Z",
   "surahNumber": 10,
   "ayahCount": 109,
   "ayahs": [
@@ -20,7 +20,21 @@
         "ru_abuadel": "Перевод айята [10:1] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:1] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:1] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:1］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:1]."
       }
     },
     {
@@ -39,7 +53,21 @@
         "ru_abuadel": "Перевод айята [10:2] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:2] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:2] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:2］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:2]."
       }
     },
     {
@@ -58,7 +86,21 @@
         "ru_abuadel": "Перевод айята [10:3] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:3] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:3] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:3］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:3]."
       }
     },
     {
@@ -77,7 +119,21 @@
         "ru_abuadel": "Перевод айята [10:4] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:4] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:4] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:4］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:4]."
       }
     },
     {
@@ -96,7 +152,21 @@
         "ru_abuadel": "Перевод айята [10:5] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:5] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:5] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:5］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:5]."
       }
     },
     {
@@ -115,7 +185,21 @@
         "ru_abuadel": "Перевод айята [10:6] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:6] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:6] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:6］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:6]."
       }
     },
     {
@@ -134,7 +218,21 @@
         "ru_abuadel": "Перевод айята [10:7] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:7] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:7] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:7］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:7]."
       }
     },
     {
@@ -153,7 +251,21 @@
         "ru_abuadel": "Перевод айята [10:8] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:8] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:8] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:8］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:8]."
       }
     },
     {
@@ -172,7 +284,21 @@
         "ru_abuadel": "Перевод айята [10:9] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:9] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:9] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:9］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:9]."
       }
     },
     {
@@ -191,7 +317,21 @@
         "ru_abuadel": "Перевод айята [10:10] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:10] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:10] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:10］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:10]."
       }
     },
     {
@@ -210,7 +350,21 @@
         "ru_abuadel": "Перевод айята [10:11] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:11] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:11] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:11］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:11]."
       }
     },
     {
@@ -229,7 +383,21 @@
         "ru_abuadel": "Перевод айята [10:12] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:12] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:12] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:12］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:12]."
       }
     },
     {
@@ -248,7 +416,21 @@
         "ru_abuadel": "Перевод айята [10:13] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:13] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:13] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:13］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:13]."
       }
     },
     {
@@ -267,7 +449,21 @@
         "ru_abuadel": "Перевод айята [10:14] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:14] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:14] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:14］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:14]."
       }
     },
     {
@@ -286,7 +482,21 @@
         "ru_abuadel": "Перевод айята [10:15] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:15] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:15] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:15］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:15]."
       }
     },
     {
@@ -305,7 +515,21 @@
         "ru_abuadel": "Перевод айята [10:16] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:16] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:16] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:16］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:16]."
       }
     },
     {
@@ -324,7 +548,21 @@
         "ru_abuadel": "Перевод айята [10:17] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:17] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:17] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:17］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:17]."
       }
     },
     {
@@ -343,7 +581,21 @@
         "ru_abuadel": "Перевод айята [10:18] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:18] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:18] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:18］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:18]."
       }
     },
     {
@@ -362,7 +614,21 @@
         "ru_abuadel": "Перевод айята [10:19] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:19] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:19] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:19］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:19]."
       }
     },
     {
@@ -381,7 +647,21 @@
         "ru_abuadel": "Перевод айята [10:20] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:20] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:20] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:20］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:20]."
       }
     },
     {
@@ -400,7 +680,21 @@
         "ru_abuadel": "Перевод айята [10:21] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:21] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:21] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:21］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:21］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:21] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:21] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:21] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:21] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:21]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:21] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:21].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:21] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:21].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:21].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:21].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:21]."
       }
     },
     {
@@ -419,7 +713,21 @@
         "ru_abuadel": "Перевод айята [10:22] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:22] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:22] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:22］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:22］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:22] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:22] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:22] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:22] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:22]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:22] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:22].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:22] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:22].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:22].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:22].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:22]."
       }
     },
     {
@@ -438,7 +746,21 @@
         "ru_abuadel": "Перевод айята [10:23] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:23] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:23] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:23］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:23］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:23] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:23] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:23] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:23] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:23]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:23] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:23].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:23] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:23].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:23].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:23].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:23]."
       }
     },
     {
@@ -457,7 +779,21 @@
         "ru_abuadel": "Перевод айята [10:24] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:24] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:24] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:24］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:24］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:24] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:24] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:24] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:24] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:24]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:24] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:24].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:24] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:24].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:24].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:24].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:24]."
       }
     },
     {
@@ -476,7 +812,21 @@
         "ru_abuadel": "Перевод айята [10:25] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:25] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:25] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:25］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:25］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:25] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:25] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:25] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:25] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:25]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:25] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:25].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:25] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:25].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:25].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:25].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:25]."
       }
     },
     {
@@ -495,7 +845,21 @@
         "ru_abuadel": "Перевод айята [10:26] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:26] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:26] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:26］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:26］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:26] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:26] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:26] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:26] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:26]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:26] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:26].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:26] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:26].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:26].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:26].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:26]."
       }
     },
     {
@@ -514,7 +878,21 @@
         "ru_abuadel": "Перевод айята [10:27] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:27] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:27] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:27］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:27］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:27] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:27] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:27] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:27] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:27]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:27] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:27].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:27] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:27].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:27].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:27].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:27]."
       }
     },
     {
@@ -533,7 +911,21 @@
         "ru_abuadel": "Перевод айята [10:28] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:28] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:28] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:28］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:28］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:28] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:28] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:28] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:28] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:28]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:28] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:28].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:28] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:28].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:28].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:28].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:28]."
       }
     },
     {
@@ -552,7 +944,21 @@
         "ru_abuadel": "Перевод айята [10:29] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:29] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:29] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:29］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:29］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:29] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:29] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:29] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:29] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:29]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:29] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:29].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:29] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:29].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:29].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:29].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:29]."
       }
     },
     {
@@ -571,7 +977,21 @@
         "ru_abuadel": "Перевод айята [10:30] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:30] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:30] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:30］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:30］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:30] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:30] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:30] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:30] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:30]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:30] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:30].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:30] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:30].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:30].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:30].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:30]."
       }
     },
     {
@@ -590,7 +1010,21 @@
         "ru_abuadel": "Перевод айята [10:31] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:31] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:31] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:31］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:31］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:31] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:31] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:31] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:31] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:31]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:31] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:31].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:31] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:31].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:31].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:31].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:31]."
       }
     },
     {
@@ -609,7 +1043,21 @@
         "ru_abuadel": "Перевод айята [10:32] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:32] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:32] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:32］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:32］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:32] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:32] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:32] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:32] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:32]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:32] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:32].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:32] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:32].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:32].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:32].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:32]."
       }
     },
     {
@@ -628,7 +1076,21 @@
         "ru_abuadel": "Перевод айята [10:33] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:33] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:33] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:33］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:33］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:33] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:33] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:33] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:33] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:33]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:33] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:33].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:33] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:33].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:33].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:33].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:33]."
       }
     },
     {
@@ -647,7 +1109,21 @@
         "ru_abuadel": "Перевод айята [10:34] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:34] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:34] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:34］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:34］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:34] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:34] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:34] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:34] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:34]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:34] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:34].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:34] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:34].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:34].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:34].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:34]."
       }
     },
     {
@@ -666,7 +1142,21 @@
         "ru_abuadel": "Перевод айята [10:35] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:35] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:35] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:35］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:35］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:35] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:35] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:35] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:35] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:35]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:35] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:35].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:35] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:35].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:35].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:35].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:35]."
       }
     },
     {
@@ -685,7 +1175,21 @@
         "ru_abuadel": "Перевод айята [10:36] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:36] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:36] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:36］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:36］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:36] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:36] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:36] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:36] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:36]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:36] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:36].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:36] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:36].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:36].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:36].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:36]."
       }
     },
     {
@@ -704,7 +1208,21 @@
         "ru_abuadel": "Перевод айята [10:37] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:37] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:37] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:37］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:37］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:37] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:37] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:37] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:37] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:37]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:37] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:37].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:37] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:37].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:37].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:37].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:37]."
       }
     },
     {
@@ -723,7 +1241,21 @@
         "ru_abuadel": "Перевод айята [10:38] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:38] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:38] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:38］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:38］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:38] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:38] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:38] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:38] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:38]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:38] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:38].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:38] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:38].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:38].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:38].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:38]."
       }
     },
     {
@@ -742,7 +1274,21 @@
         "ru_abuadel": "Перевод айята [10:39] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:39] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:39] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:39］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:39］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:39] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:39] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:39] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:39] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:39]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:39] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:39].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:39] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:39].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:39].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:39].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:39]."
       }
     },
     {
@@ -761,7 +1307,21 @@
         "ru_abuadel": "Перевод айята [10:40] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:40] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:40] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:40］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:40］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:40] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:40] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:40] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:40] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:40]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:40] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:40].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:40] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:40].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:40].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:40].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:40]."
       }
     },
     {
@@ -780,7 +1340,21 @@
         "ru_abuadel": "Перевод айята [10:41] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:41] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:41] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:41］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:41］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:41] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:41] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:41] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:41] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:41]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:41] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:41].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:41] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:41].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:41].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:41].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:41]."
       }
     },
     {
@@ -799,7 +1373,21 @@
         "ru_abuadel": "Перевод айята [10:42] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:42] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:42] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:42］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:42］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:42] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:42] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:42] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:42] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:42]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:42] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:42].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:42] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:42].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:42].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:42].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:42]."
       }
     },
     {
@@ -818,7 +1406,21 @@
         "ru_abuadel": "Перевод айята [10:43] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:43] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:43] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:43］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:43］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:43] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:43] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:43] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:43] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:43]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:43] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:43].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:43] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:43].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:43].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:43].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:43]."
       }
     },
     {
@@ -837,7 +1439,21 @@
         "ru_abuadel": "Перевод айята [10:44] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:44] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:44] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:44］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:44］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:44] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:44] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:44] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:44] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:44]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:44] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:44].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:44] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:44].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:44].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:44].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:44]."
       }
     },
     {
@@ -856,7 +1472,21 @@
         "ru_abuadel": "Перевод айята [10:45] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:45] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:45] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:45］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:45］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:45] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:45] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:45] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:45] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:45]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:45] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:45].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:45] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:45].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:45].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:45].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:45]."
       }
     },
     {
@@ -875,7 +1505,21 @@
         "ru_abuadel": "Перевод айята [10:46] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:46] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:46] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:46］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:46］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:46] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:46] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:46] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:46] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:46]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:46] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:46].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:46] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:46].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:46].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:46].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:46]."
       }
     },
     {
@@ -894,7 +1538,21 @@
         "ru_abuadel": "Перевод айята [10:47] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:47] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:47] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:47］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:47］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:47] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:47] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:47] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:47] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:47]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:47] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:47].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:47] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:47].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:47].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:47].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:47]."
       }
     },
     {
@@ -913,7 +1571,21 @@
         "ru_abuadel": "Перевод айята [10:48] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:48] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:48] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:48］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:48］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:48] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:48] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:48] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:48] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:48]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:48] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:48].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:48] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:48].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:48].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:48].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:48]."
       }
     },
     {
@@ -932,7 +1604,21 @@
         "ru_abuadel": "Перевод айята [10:49] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:49] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:49] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:49］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:49］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:49] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:49] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:49] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:49] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:49]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:49] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:49].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:49] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:49].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:49].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:49].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:49]."
       }
     },
     {
@@ -951,7 +1637,21 @@
         "ru_abuadel": "Перевод айята [10:50] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:50] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:50] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:50］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:50］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:50] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:50] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:50] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:50] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:50]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:50] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:50].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:50] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:50].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:50].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:50].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:50]."
       }
     },
     {
@@ -970,7 +1670,21 @@
         "ru_abuadel": "Перевод айята [10:51] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:51] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:51] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:51］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:51］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:51] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:51] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:51] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:51] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:51]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:51] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:51].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:51] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:51].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:51].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:51].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:51]."
       }
     },
     {
@@ -989,7 +1703,21 @@
         "ru_abuadel": "Перевод айята [10:52] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:52] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:52] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:52］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:52］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:52] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:52] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:52] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:52] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:52]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:52] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:52].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:52] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:52].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:52].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:52].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:52]."
       }
     },
     {
@@ -1008,7 +1736,21 @@
         "ru_abuadel": "Перевод айята [10:53] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:53] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:53] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:53］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:53］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:53] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:53] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:53] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:53] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:53]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:53] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:53].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:53] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:53].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:53].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:53].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:53]."
       }
     },
     {
@@ -1027,7 +1769,21 @@
         "ru_abuadel": "Перевод айята [10:54] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:54] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:54] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:54］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:54］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:54] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:54] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:54] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:54] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:54]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:54] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:54].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:54] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:54].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:54].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:54].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:54]."
       }
     },
     {
@@ -1046,7 +1802,21 @@
         "ru_abuadel": "Перевод айята [10:55] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:55] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:55] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:55］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:55］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:55] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:55] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:55] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:55] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:55]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:55] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:55].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:55] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:55].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:55].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:55].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:55]."
       }
     },
     {
@@ -1065,7 +1835,21 @@
         "ru_abuadel": "Перевод айята [10:56] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:56] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:56] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:56］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:56］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:56] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:56] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:56] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:56] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:56]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:56] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:56].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:56] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:56].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:56].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:56].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:56]."
       }
     },
     {
@@ -1084,7 +1868,21 @@
         "ru_abuadel": "Перевод айята [10:57] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:57] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:57] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:57］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:57］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:57] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:57] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:57] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:57] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:57]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:57] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:57].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:57] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:57].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:57].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:57].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:57]."
       }
     },
     {
@@ -1103,7 +1901,21 @@
         "ru_abuadel": "Перевод айята [10:58] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:58] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:58] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:58］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:58］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:58] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:58] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:58] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:58] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:58]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:58] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:58].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:58] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:58].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:58].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:58].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:58]."
       }
     },
     {
@@ -1122,7 +1934,21 @@
         "ru_abuadel": "Перевод айята [10:59] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:59] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:59] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:59］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:59］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:59] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:59] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:59] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:59] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:59]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:59] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:59].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:59] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:59].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:59].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:59].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:59]."
       }
     },
     {
@@ -1141,7 +1967,21 @@
         "ru_abuadel": "Перевод айята [10:60] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:60] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:60] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:60］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:60］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:60] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:60] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:60] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:60] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:60]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:60] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:60].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:60] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:60].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:60].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:60].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:60]."
       }
     },
     {
@@ -1160,7 +2000,21 @@
         "ru_abuadel": "Перевод айята [10:61] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:61] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:61] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:61］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:61］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:61] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:61] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:61] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:61] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:61]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:61] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:61].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:61] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:61].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:61].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:61].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:61]."
       }
     },
     {
@@ -1179,7 +2033,21 @@
         "ru_abuadel": "Перевод айята [10:62] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:62] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:62] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:62］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:62］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:62] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:62] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:62] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:62] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:62]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:62] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:62].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:62] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:62].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:62].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:62].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:62]."
       }
     },
     {
@@ -1198,7 +2066,21 @@
         "ru_abuadel": "Перевод айята [10:63] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:63] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:63] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:63］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:63］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:63] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:63] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:63] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:63] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:63]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:63] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:63].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:63] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:63].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:63].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:63].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:63]."
       }
     },
     {
@@ -1217,7 +2099,21 @@
         "ru_abuadel": "Перевод айята [10:64] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:64] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:64] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:64］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:64］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:64] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:64] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:64] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:64] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:64]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:64] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:64].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:64] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:64].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:64].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:64].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:64]."
       }
     },
     {
@@ -1236,7 +2132,21 @@
         "ru_abuadel": "Перевод айята [10:65] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:65] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:65] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:65］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:65］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:65] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:65] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:65] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:65] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:65]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:65] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:65].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:65] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:65].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:65].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:65].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:65]."
       }
     },
     {
@@ -1255,7 +2165,21 @@
         "ru_abuadel": "Перевод айята [10:66] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:66] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:66] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:66］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:66］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:66] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:66] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:66] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:66] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:66]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:66] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:66].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:66] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:66].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:66].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:66].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:66]."
       }
     },
     {
@@ -1274,7 +2198,21 @@
         "ru_abuadel": "Перевод айята [10:67] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:67] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:67] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:67］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:67］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:67] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:67] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:67] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:67] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:67]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:67] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:67].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:67] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:67].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:67].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:67].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:67]."
       }
     },
     {
@@ -1293,7 +2231,21 @@
         "ru_abuadel": "Перевод айята [10:68] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:68] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:68] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:68］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:68］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:68] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:68] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:68] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:68] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:68]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:68] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:68].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:68] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:68].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:68].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:68].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:68]."
       }
     },
     {
@@ -1312,7 +2264,21 @@
         "ru_abuadel": "Перевод айята [10:69] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:69] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:69] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:69］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:69］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:69] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:69] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:69] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:69] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:69]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:69] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:69].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:69] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:69].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:69].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:69].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:69]."
       }
     },
     {
@@ -1331,7 +2297,21 @@
         "ru_abuadel": "Перевод айята [10:70] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:70] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:70] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:70］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:70］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:70] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:70] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:70] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:70] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:70]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:70] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:70].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:70] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:70].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:70].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:70].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:70]."
       }
     },
     {
@@ -1350,7 +2330,21 @@
         "ru_abuadel": "Перевод айята [10:71] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:71] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:71] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:71］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:71］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:71] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:71] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:71] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:71] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:71]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:71] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:71].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:71] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:71].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:71].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:71].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:71]."
       }
     },
     {
@@ -1369,7 +2363,21 @@
         "ru_abuadel": "Перевод айята [10:72] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:72] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:72] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:72］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:72］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:72] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:72] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:72] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:72] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:72]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:72] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:72].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:72] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:72].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:72].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:72].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:72]."
       }
     },
     {
@@ -1388,7 +2396,21 @@
         "ru_abuadel": "Перевод айята [10:73] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:73] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:73] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:73］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:73］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:73] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:73] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:73] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:73] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:73]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:73] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:73].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:73] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:73].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:73].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:73].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:73]."
       }
     },
     {
@@ -1407,7 +2429,21 @@
         "ru_abuadel": "Перевод айята [10:74] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:74] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:74] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:74］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:74］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:74] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:74] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:74] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:74] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:74]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:74] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:74].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:74] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:74].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:74].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:74].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:74]."
       }
     },
     {
@@ -1426,7 +2462,21 @@
         "ru_abuadel": "Перевод айята [10:75] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:75] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:75] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:75］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:75］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:75] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:75] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:75] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:75] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:75]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:75] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:75].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:75] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:75].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:75].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:75].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:75]."
       }
     },
     {
@@ -1445,7 +2495,21 @@
         "ru_abuadel": "Перевод айята [10:76] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:76] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:76] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:76］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:76］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:76] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:76] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:76] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:76] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:76]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:76] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:76].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:76] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:76].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:76].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:76].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:76]."
       }
     },
     {
@@ -1464,7 +2528,21 @@
         "ru_abuadel": "Перевод айята [10:77] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:77] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:77] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:77］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:77］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:77] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:77] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:77] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:77] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:77]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:77] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:77].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:77] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:77].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:77].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:77].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:77]."
       }
     },
     {
@@ -1483,7 +2561,21 @@
         "ru_abuadel": "Перевод айята [10:78] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:78] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:78] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:78］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:78］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:78] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:78] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:78] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:78] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:78]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:78] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:78].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:78] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:78].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:78].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:78].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:78]."
       }
     },
     {
@@ -1502,7 +2594,21 @@
         "ru_abuadel": "Перевод айята [10:79] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:79] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:79] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:79］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:79］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:79] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:79] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:79] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:79] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:79]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:79] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:79].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:79] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:79].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:79].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:79].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:79]."
       }
     },
     {
@@ -1521,7 +2627,21 @@
         "ru_abuadel": "Перевод айята [10:80] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:80] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:80] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:80］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:80］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:80] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:80] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:80] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:80] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:80]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:80] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:80].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:80] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:80].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:80].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:80].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:80]."
       }
     },
     {
@@ -1540,7 +2660,21 @@
         "ru_abuadel": "Перевод айята [10:81] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:81] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:81] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:81］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:81］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:81] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:81] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:81] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:81] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:81]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:81] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:81].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:81] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:81].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:81].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:81].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:81]."
       }
     },
     {
@@ -1559,7 +2693,21 @@
         "ru_abuadel": "Перевод айята [10:82] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:82] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:82] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:82］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:82］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:82] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:82] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:82] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:82] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:82]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:82] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:82].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:82] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:82].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:82].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:82].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:82]."
       }
     },
     {
@@ -1578,7 +2726,21 @@
         "ru_abuadel": "Перевод айята [10:83] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:83] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:83] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:83］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:83］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:83] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:83] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:83] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:83] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:83]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:83] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:83].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:83] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:83].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:83].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:83].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:83]."
       }
     },
     {
@@ -1597,7 +2759,21 @@
         "ru_abuadel": "Перевод айята [10:84] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:84] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:84] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:84］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:84］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:84] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:84] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:84] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:84] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:84]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:84] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:84].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:84] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:84].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:84].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:84].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:84]."
       }
     },
     {
@@ -1616,7 +2792,21 @@
         "ru_abuadel": "Перевод айята [10:85] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:85] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:85] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:85］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:85］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:85] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:85] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:85] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:85] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:85]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:85] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:85].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:85] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:85].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:85].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:85].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:85]."
       }
     },
     {
@@ -1635,7 +2825,21 @@
         "ru_abuadel": "Перевод айята [10:86] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:86] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:86] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:86］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:86］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:86] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:86] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:86] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:86] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:86]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:86] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:86].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:86] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:86].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:86].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:86].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:86]."
       }
     },
     {
@@ -1654,7 +2858,21 @@
         "ru_abuadel": "Перевод айята [10:87] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:87] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:87] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:87］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:87］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:87] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:87] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:87] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:87] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:87]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:87] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:87].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:87] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:87].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:87].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:87].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:87]."
       }
     },
     {
@@ -1673,7 +2891,21 @@
         "ru_abuadel": "Перевод айята [10:88] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:88] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:88] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:88］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:88］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:88] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:88] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:88] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:88] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:88]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:88] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:88].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:88] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:88].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:88].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:88].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:88]."
       }
     },
     {
@@ -1692,7 +2924,21 @@
         "ru_abuadel": "Перевод айята [10:89] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:89] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:89] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:89］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:89］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:89] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:89] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:89] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:89] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:89]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:89] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:89].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:89] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:89].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:89].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:89].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:89]."
       }
     },
     {
@@ -1711,7 +2957,21 @@
         "ru_abuadel": "Перевод айята [10:90] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:90] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:90] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:90］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:90］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:90] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:90] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:90] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:90] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:90]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:90] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:90].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:90] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:90].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:90].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:90].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:90]."
       }
     },
     {
@@ -1730,7 +2990,21 @@
         "ru_abuadel": "Перевод айята [10:91] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:91] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:91] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:91］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:91］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:91] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:91] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:91] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:91] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:91]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:91] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:91].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:91] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:91].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:91].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:91].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:91]."
       }
     },
     {
@@ -1749,7 +3023,21 @@
         "ru_abuadel": "Перевод айята [10:92] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:92] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:92] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:92］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:92］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:92] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:92] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:92] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:92] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:92]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:92] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:92].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:92] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:92].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:92].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:92].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:92]."
       }
     },
     {
@@ -1768,7 +3056,21 @@
         "ru_abuadel": "Перевод айята [10:93] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:93] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:93] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:93］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:93］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:93] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:93] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:93] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:93] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:93]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:93] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:93].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:93] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:93].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:93].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:93].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:93]."
       }
     },
     {
@@ -1787,7 +3089,21 @@
         "ru_abuadel": "Перевод айята [10:94] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:94] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:94] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:94］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:94］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:94] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:94] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:94] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:94] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:94]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:94] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:94].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:94] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:94].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:94].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:94].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:94]."
       }
     },
     {
@@ -1806,7 +3122,21 @@
         "ru_abuadel": "Перевод айята [10:95] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:95] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:95] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:95］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:95］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:95] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:95] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:95] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:95] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:95]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:95] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:95].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:95] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:95].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:95].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:95].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:95]."
       }
     },
     {
@@ -1825,7 +3155,21 @@
         "ru_abuadel": "Перевод айята [10:96] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:96] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:96] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:96］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:96］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:96] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:96] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:96] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:96] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:96]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:96] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:96].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:96] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:96].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:96].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:96].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:96]."
       }
     },
     {
@@ -1844,7 +3188,21 @@
         "ru_abuadel": "Перевод айята [10:97] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:97] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:97] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:97］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:97］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:97] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:97] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:97] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:97] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:97]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:97] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:97].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:97] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:97].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:97].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:97].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:97]."
       }
     },
     {
@@ -1863,7 +3221,21 @@
         "ru_abuadel": "Перевод айята [10:98] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:98] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:98] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:98］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:98］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:98] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:98] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:98] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:98] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:98]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:98] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:98].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:98] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:98].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:98].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:98].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:98]."
       }
     },
     {
@@ -1882,7 +3254,21 @@
         "ru_abuadel": "Перевод айята [10:99] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:99] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:99] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:99］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:99］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:99] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:99] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:99] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:99] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:99]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:99] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:99].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:99] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:99].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:99].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:99].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:99]."
       }
     },
     {
@@ -1901,7 +3287,21 @@
         "ru_abuadel": "Перевод айята [10:100] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:100] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:100] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:100］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:100］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:100] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:100] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:100] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:100] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:100]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:100] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:100].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:100] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:100].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:100].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:100].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:100]."
       }
     },
     {
@@ -1920,7 +3320,21 @@
         "ru_abuadel": "Перевод айята [10:101] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:101] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:101] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:101］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:101］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:101] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:101] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:101] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:101] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:101]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:101] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:101].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:101] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:101].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:101].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:101].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:101]."
       }
     },
     {
@@ -1939,7 +3353,21 @@
         "ru_abuadel": "Перевод айята [10:102] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:102] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:102] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:102］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:102］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:102] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:102] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:102] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:102] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:102]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:102] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:102].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:102] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:102].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:102].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:102].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:102]."
       }
     },
     {
@@ -1958,7 +3386,21 @@
         "ru_abuadel": "Перевод айята [10:103] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:103] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:103] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:103］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:103］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:103] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:103] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:103] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:103] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:103]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:103] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:103].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:103] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:103].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:103].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:103].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:103]."
       }
     },
     {
@@ -1977,7 +3419,21 @@
         "ru_abuadel": "Перевод айята [10:104] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:104] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:104] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:104］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:104］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:104] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:104] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:104] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:104] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:104]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:104] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:104].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:104] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:104].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:104].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:104].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:104]."
       }
     },
     {
@@ -1996,7 +3452,21 @@
         "ru_abuadel": "Перевод айята [10:105] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:105] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:105] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:105］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:105］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:105] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:105] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:105] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:105] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:105]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:105] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:105].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:105] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:105].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:105].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:105].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:105]."
       }
     },
     {
@@ -2015,7 +3485,21 @@
         "ru_abuadel": "Перевод айята [10:106] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:106] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:106] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:106］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:106］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:106] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:106] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:106] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:106] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:106]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:106] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:106].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:106] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:106].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:106].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:106].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:106]."
       }
     },
     {
@@ -2034,7 +3518,21 @@
         "ru_abuadel": "Перевод айята [10:107] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:107] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:107] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:107］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:107］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:107] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:107] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:107] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:107] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:107]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:107] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:107].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:107] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:107].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:107].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:107].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:107]."
       }
     },
     {
@@ -2053,7 +3551,21 @@
         "ru_abuadel": "Перевод айята [10:108] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:108] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:108] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:108］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:108］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:108] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:108] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:108] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:108] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:108]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:108] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:108].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:108] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:108].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:108].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:108].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:108]."
       }
     },
     {
@@ -2072,7 +3584,21 @@
         "ru_abuadel": "Перевод айята [10:109] на русский язык (Абу Адель).",
         "tr_diyanet": "[10:109] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [10:109] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［10:109］ 马坚 译文"
+        "zh_jian": "真主启示 ［10:109］ 马坚 译文",
+        "it_piccardo": "Traduzione di [10:109] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [10:109] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [10:109] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [10:109] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [10:109]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [10:109] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [10:109].",
+        "ar_jalalayn": "تفسير الجلالين للآية [10:109] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [10:109].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [10:109].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [10:109].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [10:109]."
       }
     }
   ],

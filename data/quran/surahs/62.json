@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T02:06:49.468Z",
+  "generatedAt": "2026-05-23T02:33:24.490Z",
   "surahNumber": 62,
   "ayahCount": 11,
   "ayahs": [
@@ -20,7 +20,21 @@
         "ru_abuadel": "Перевод айята [62:1] на русский язык (Абу Адель).",
         "tr_diyanet": "[62:1] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [62:1] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［62:1］ 马坚 译文"
+        "zh_jian": "真主启示 ［62:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [62:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [62:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [62:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [62:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [62:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [62:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [62:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [62:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [62:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [62:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [62:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [62:1]."
       }
     },
     {
@@ -39,7 +53,21 @@
         "ru_abuadel": "Перевод айята [62:2] на русский язык (Абу Адель).",
         "tr_diyanet": "[62:2] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [62:2] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［62:2］ 马坚 译文"
+        "zh_jian": "真主启示 ［62:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [62:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [62:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [62:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [62:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [62:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [62:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [62:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [62:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [62:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [62:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [62:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [62:2]."
       }
     },
     {
@@ -58,7 +86,21 @@
         "ru_abuadel": "Перевод айята [62:3] на русский язык (Абу Адель).",
         "tr_diyanet": "[62:3] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [62:3] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［62:3］ 马坚 译文"
+        "zh_jian": "真主启示 ［62:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [62:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [62:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [62:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [62:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [62:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [62:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [62:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [62:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [62:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [62:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [62:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [62:3]."
       }
     },
     {
@@ -77,7 +119,21 @@
         "ru_abuadel": "Перевод айята [62:4] на русский язык (Абу Адель).",
         "tr_diyanet": "[62:4] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [62:4] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［62:4］ 马坚 译文"
+        "zh_jian": "真主启示 ［62:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [62:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [62:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [62:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [62:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [62:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [62:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [62:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [62:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [62:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [62:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [62:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [62:4]."
       }
     },
     {
@@ -96,7 +152,21 @@
         "ru_abuadel": "Перевод айята [62:5] на русский язык (Абу Адель).",
         "tr_diyanet": "[62:5] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [62:5] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［62:5］ 马坚 译文"
+        "zh_jian": "真主启示 ［62:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [62:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [62:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [62:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [62:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [62:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [62:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [62:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [62:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [62:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [62:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [62:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [62:5]."
       }
     },
     {
@@ -115,7 +185,21 @@
         "ru_abuadel": "Перевод айята [62:6] на русский язык (Абу Адель).",
         "tr_diyanet": "[62:6] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [62:6] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［62:6］ 马坚 译文"
+        "zh_jian": "真主启示 ［62:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [62:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [62:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [62:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [62:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [62:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [62:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [62:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [62:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [62:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [62:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [62:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [62:6]."
       }
     },
     {
@@ -134,7 +218,21 @@
         "ru_abuadel": "Перевод айята [62:7] на русский язык (Абу Адель).",
         "tr_diyanet": "[62:7] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [62:7] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［62:7］ 马坚 译文"
+        "zh_jian": "真主启示 ［62:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [62:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [62:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [62:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [62:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [62:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [62:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [62:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [62:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [62:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [62:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [62:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [62:7]."
       }
     },
     {
@@ -153,7 +251,21 @@
         "ru_abuadel": "Перевод айята [62:8] на русский язык (Абу Адель).",
         "tr_diyanet": "[62:8] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [62:8] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［62:8］ 马坚 译文"
+        "zh_jian": "真主启示 ［62:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [62:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [62:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [62:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [62:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [62:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [62:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [62:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [62:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [62:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [62:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [62:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [62:8]."
       }
     },
     {
@@ -172,7 +284,21 @@
         "ru_abuadel": "Перевод айята [62:9] на русский язык (Абу Адель).",
         "tr_diyanet": "[62:9] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [62:9] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［62:9］ 马坚 译文"
+        "zh_jian": "真主启示 ［62:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [62:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [62:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [62:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [62:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [62:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [62:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [62:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [62:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [62:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [62:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [62:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [62:9]."
       }
     },
     {
@@ -191,7 +317,21 @@
         "ru_abuadel": "Перевод айята [62:10] на русский язык (Абу Адель).",
         "tr_diyanet": "[62:10] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [62:10] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［62:10］ 马坚 译文"
+        "zh_jian": "真主启示 ［62:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [62:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [62:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [62:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [62:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [62:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [62:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [62:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [62:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [62:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [62:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [62:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [62:10]."
       }
     },
     {
@@ -210,7 +350,21 @@
         "ru_abuadel": "Перевод айята [62:11] на русский язык (Абу Адель).",
         "tr_diyanet": "[62:11] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [62:11] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［62:11］ 马坚 译文"
+        "zh_jian": "真主启示 ［62:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [62:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [62:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [62:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [62:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [62:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [62:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [62:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [62:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [62:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [62:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [62:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [62:11]."
       }
     }
   ],

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T02:06:49.463Z",
+  "generatedAt": "2026-05-23T02:33:24.485Z",
   "surahNumber": 49,
   "ayahCount": 18,
   "ayahs": [
@@ -20,7 +20,21 @@
         "ru_abuadel": "Перевод айята [49:1] на русский язык (Абу Адель).",
         "tr_diyanet": "[49:1] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [49:1] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［49:1］ 马坚 译文"
+        "zh_jian": "真主启示 ［49:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [49:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [49:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [49:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [49:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [49:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [49:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [49:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [49:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [49:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [49:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [49:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [49:1]."
       }
     },
     {
@@ -39,7 +53,21 @@
         "ru_abuadel": "Перевод айята [49:2] на русский язык (Абу Адель).",
         "tr_diyanet": "[49:2] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [49:2] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［49:2］ 马坚 译文"
+        "zh_jian": "真主启示 ［49:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [49:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [49:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [49:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [49:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [49:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [49:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [49:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [49:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [49:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [49:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [49:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [49:2]."
       }
     },
     {
@@ -58,7 +86,21 @@
         "ru_abuadel": "Перевод айята [49:3] на русский язык (Абу Адель).",
         "tr_diyanet": "[49:3] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [49:3] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［49:3］ 马坚 译文"
+        "zh_jian": "真主启示 ［49:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [49:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [49:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [49:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [49:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [49:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [49:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [49:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [49:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [49:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [49:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [49:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [49:3]."
       }
     },
     {
@@ -77,7 +119,21 @@
         "ru_abuadel": "Перевод айята [49:4] на русский язык (Абу Адель).",
         "tr_diyanet": "[49:4] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [49:4] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［49:4］ 马坚 译文"
+        "zh_jian": "真主启示 ［49:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [49:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [49:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [49:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [49:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [49:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [49:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [49:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [49:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [49:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [49:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [49:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [49:4]."
       }
     },
     {
@@ -96,7 +152,21 @@
         "ru_abuadel": "Перевод айята [49:5] на русский язык (Абу Адель).",
         "tr_diyanet": "[49:5] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [49:5] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［49:5］ 马坚 译文"
+        "zh_jian": "真主启示 ［49:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [49:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [49:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [49:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [49:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [49:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [49:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [49:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [49:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [49:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [49:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [49:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [49:5]."
       }
     },
     {
@@ -115,7 +185,21 @@
         "ru_abuadel": "Перевод айята [49:6] на русский язык (Абу Адель).",
         "tr_diyanet": "[49:6] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [49:6] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［49:6］ 马坚 译文"
+        "zh_jian": "真主启示 ［49:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [49:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [49:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [49:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [49:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [49:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [49:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [49:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [49:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [49:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [49:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [49:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [49:6]."
       }
     },
     {
@@ -134,7 +218,21 @@
         "ru_abuadel": "Перевод айята [49:7] на русский язык (Абу Адель).",
         "tr_diyanet": "[49:7] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [49:7] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［49:7］ 马坚 译文"
+        "zh_jian": "真主启示 ［49:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [49:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [49:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [49:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [49:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [49:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [49:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [49:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [49:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [49:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [49:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [49:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [49:7]."
       }
     },
     {
@@ -153,7 +251,21 @@
         "ru_abuadel": "Перевод айята [49:8] на русский язык (Абу Адель).",
         "tr_diyanet": "[49:8] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [49:8] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［49:8］ 马坚 译文"
+        "zh_jian": "真主启示 ［49:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [49:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [49:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [49:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [49:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [49:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [49:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [49:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [49:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [49:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [49:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [49:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [49:8]."
       }
     },
     {
@@ -172,7 +284,21 @@
         "ru_abuadel": "Перевод айята [49:9] на русский язык (Абу Адель).",
         "tr_diyanet": "[49:9] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [49:9] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［49:9］ 马坚 译文"
+        "zh_jian": "真主启示 ［49:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [49:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [49:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [49:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [49:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [49:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [49:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [49:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [49:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [49:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [49:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [49:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [49:9]."
       }
     },
     {
@@ -191,7 +317,21 @@
         "ru_abuadel": "Перевод айята [49:10] на русский язык (Абу Адель).",
         "tr_diyanet": "[49:10] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [49:10] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［49:10］ 马坚 译文"
+        "zh_jian": "真主启示 ［49:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [49:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [49:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [49:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [49:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [49:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [49:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [49:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [49:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [49:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [49:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [49:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [49:10]."
       }
     },
     {
@@ -210,7 +350,21 @@
         "ru_abuadel": "Перевод айята [49:11] на русский язык (Абу Адель).",
         "tr_diyanet": "[49:11] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [49:11] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［49:11］ 马坚 译文"
+        "zh_jian": "真主启示 ［49:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [49:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [49:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [49:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [49:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [49:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [49:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [49:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [49:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [49:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [49:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [49:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [49:11]."
       }
     },
     {
@@ -229,7 +383,21 @@
         "ru_abuadel": "Перевод айята [49:12] на русский язык (Абу Адель).",
         "tr_diyanet": "[49:12] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [49:12] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［49:12］ 马坚 译文"
+        "zh_jian": "真主启示 ［49:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [49:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [49:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [49:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [49:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [49:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [49:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [49:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [49:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [49:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [49:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [49:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [49:12]."
       }
     },
     {
@@ -248,7 +416,21 @@
         "ru_abuadel": "Перевод айята [49:13] на русский язык (Абу Адель).",
         "tr_diyanet": "[49:13] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [49:13] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［49:13］ 马坚 译文"
+        "zh_jian": "真主启示 ［49:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [49:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [49:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [49:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [49:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [49:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [49:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [49:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [49:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [49:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [49:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [49:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [49:13]."
       }
     },
     {
@@ -267,7 +449,21 @@
         "ru_abuadel": "Перевод айята [49:14] на русский язык (Абу Адель).",
         "tr_diyanet": "[49:14] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [49:14] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［49:14］ 马坚 译文"
+        "zh_jian": "真主启示 ［49:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [49:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [49:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [49:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [49:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [49:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [49:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [49:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [49:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [49:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [49:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [49:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [49:14]."
       }
     },
     {
@@ -286,7 +482,21 @@
         "ru_abuadel": "Перевод айята [49:15] на русский язык (Абу Адель).",
         "tr_diyanet": "[49:15] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [49:15] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［49:15］ 马坚 译文"
+        "zh_jian": "真主启示 ［49:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [49:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [49:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [49:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [49:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [49:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [49:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [49:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [49:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [49:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [49:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [49:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [49:15]."
       }
     },
     {
@@ -305,7 +515,21 @@
         "ru_abuadel": "Перевод айята [49:16] на русский язык (Абу Адель).",
         "tr_diyanet": "[49:16] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [49:16] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［49:16］ 马坚 译文"
+        "zh_jian": "真主启示 ［49:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [49:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [49:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [49:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [49:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [49:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [49:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [49:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [49:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [49:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [49:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [49:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [49:16]."
       }
     },
     {
@@ -324,7 +548,21 @@
         "ru_abuadel": "Перевод айята [49:17] на русский язык (Абу Адель).",
         "tr_diyanet": "[49:17] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [49:17] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［49:17］ 马坚 译文"
+        "zh_jian": "真主启示 ［49:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [49:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [49:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [49:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [49:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [49:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [49:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [49:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [49:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [49:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [49:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [49:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [49:17]."
       }
     },
     {
@@ -343,7 +581,21 @@
         "ru_abuadel": "Перевод айята [49:18] на русский язык (Абу Адель).",
         "tr_diyanet": "[49:18] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [49:18] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［49:18］ 马坚 译文"
+        "zh_jian": "真主启示 ［49:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [49:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [49:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [49:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [49:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [49:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [49:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [49:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [49:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [49:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [49:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [49:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [49:18]."
       }
     }
   ],

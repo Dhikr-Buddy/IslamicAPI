@@ -1,0 +1,586 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>IslamicAPI Demonstration Playground</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Amiri:ital,wght@0,400;0,700;1,400&display=swap" />
+    <style>
+      :root {
+        --primary: #116149;
+        --primary-light: #e8f3ee;
+        --primary-dark: #0d4a37;
+        --text-color: #1e293b;
+        --bg-color: #f8fafc;
+        --border-color: #e2e8f0;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: 'Inter', system-ui, -apple-system, sans-serif;
+        color: var(--text-color);
+        background: var(--bg-color);
+        padding: 0;
+      }
+
+      header {
+        background: #ffffff;
+        border-bottom: 1px solid var(--border-color);
+        padding: 20px 48px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+      }
+
+      header h1 {
+        margin: 0;
+        font-size: 1.5rem;
+        font-weight: 800;
+        color: var(--primary);
+      }
+
+      header nav a {
+        color: #475569;
+        text-decoration: none;
+        font-weight: 500;
+        font-size: 0.95rem;
+        padding: 8px 16px;
+        border-radius: 6px;
+        transition: all 0.2s ease;
+      }
+
+      header nav a:hover {
+        background: var(--primary-light);
+        color: var(--primary);
+      }
+
+      .container {
+        max-width: 1200px;
+        margin: 40px auto;
+        padding: 0 24px;
+        display: grid;
+        grid-template-columns: 1fr 320px;
+        gap: 32px;
+      }
+
+      .card {
+        background: #ffffff;
+        border: 1px solid var(--border-color);
+        border-radius: 12px;
+        padding: 32px;
+        box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.05);
+        margin-bottom: 32px;
+      }
+
+      .card h2 {
+        margin-top: 0;
+        font-size: 1.25rem;
+        font-weight: 700;
+        color: #0f172a;
+        border-bottom: 1px solid var(--border-color);
+        padding-bottom: 12px;
+        margin-bottom: 24px;
+      }
+
+      /* Control layout */
+      .controls {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+        gap: 16px;
+        margin-bottom: 32px;
+      }
+
+      .control-group {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+      }
+
+      .control-group label {
+        font-size: 0.8rem;
+        font-weight: 600;
+        text-transform: uppercase;
+        color: #64748b;
+        letter-spacing: 0.05em;
+      }
+
+      .control-group select, .control-group input {
+        width: 100%;
+        padding: 10px 12px;
+        border-radius: 6px;
+        border: 1px solid var(--border-color);
+        background: #ffffff;
+        color: var(--text-color);
+        font-family: inherit;
+        font-size: 0.9rem;
+        outline: none;
+        transition: border-color 0.2s ease;
+      }
+
+      .control-group select:focus, .control-group input:focus {
+        border-color: var(--primary);
+      }
+
+      button {
+        background: var(--primary);
+        color: #ffffff;
+        border: none;
+        padding: 12px 24px;
+        font-size: 0.95rem;
+        font-weight: 600;
+        border-radius: 6px;
+        cursor: pointer;
+        transition: background 0.2s ease;
+        font-family: inherit;
+      }
+
+      button:hover {
+        background: var(--primary-dark);
+      }
+
+      /* Quran recitation viewer */
+      .quran-viewer {
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
+      }
+
+      .ayah-card {
+        padding: 24px;
+        border-radius: 8px;
+        border: 1px solid var(--border-color);
+        background: #f8fafc;
+        transition: all 0.2s ease;
+      }
+
+      .ayah-card.active {
+        border-color: var(--primary);
+        background: var(--primary-light);
+      }
+
+      .arabic-text {
+        font-family: 'Amiri', serif;
+        font-size: 2rem;
+        text-align: right;
+        direction: rtl;
+        line-height: 2.2;
+        margin-bottom: 16px;
+        color: #0f172a;
+      }
+
+      .word-span {
+        display: inline-block;
+        padding: 0 4px;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: all 0.2s ease;
+      }
+
+      .word-span.highlight {
+        background: #fef08a; /* Soft yellow highlighting */
+        color: #000000;
+      }
+
+      .translation-text {
+        font-size: 1rem;
+        color: #334155;
+        line-height: 1.6;
+        margin-bottom: 12px;
+      }
+
+      .tafsir-text {
+        font-size: 0.875rem;
+        color: #475569;
+        line-height: 1.5;
+        border-left: 3px solid var(--primary);
+        padding-left: 12px;
+        background: #f1f5f9;
+        padding: 12px;
+        border-radius: 4px;
+      }
+
+      /* Sidebar widgets */
+      .sidebar-section {
+        display: flex;
+        flex-direction: column;
+        gap: 32px;
+      }
+
+      .qibla-compass {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 16px;
+      }
+
+      .compass-ring {
+        width: 160px;
+        height: 160px;
+        border: 4px solid var(--primary);
+        border-radius: 50%;
+        position: relative;
+        background: #ffffff;
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+      }
+
+      .compass-arrow {
+        width: 0;
+        height: 0;
+        border-left: 12px solid transparent;
+        border-right: 12px solid transparent;
+        border-bottom: 50px solid #ef4444;
+        position: absolute;
+        top: 30px;
+        left: 68px;
+        transform-origin: 50% 100%;
+        transition: transform 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+      }
+
+      .compass-label {
+        font-size: 0.85rem;
+        font-weight: 700;
+        color: #475569;
+      }
+
+      /* Audio control strip */
+      .media-player {
+        display: flex;
+        align-items: center;
+        gap: 16px;
+        margin-bottom: 24px;
+        background: #f1f5f9;
+        padding: 16px;
+        border-radius: 8px;
+        border: 1px solid var(--border-color);
+      }
+
+      audio {
+        flex: 1;
+        outline: none;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>🕌 IslamicAPI Playground</h1>
+      <nav>
+        <a href="./index.html">← Back to Wiki</a>
+      </nav>
+    </header>
+
+    <div class="container">
+      <div>
+        <div class="card">
+          <h2>Quran Reciter, Translation & Tafsir Aligned Player</h2>
+          
+          <div class="controls">
+            <div class="control-group">
+              <label for="surah-select">Surah</label>
+              <select id="surah-select">
+                <option value="1">1. Al-Fatihah</option>
+                <option value="2">2. Al-Baqarah</option>
+                <option value="3">3. Al-Imran</option>
+                <option value="112">112. Al-Ikhlas</option>
+                <option value="113">113. Al-Falaq</option>
+                <option value="114">114. Al-Nas</option>
+              </select>
+            </div>
+
+            <div class="control-group">
+              <label for="reciter-select">Reciter Namespace</label>
+              <select id="reciter-select">
+                <option value="alafasy:mp3quran">alafasy:mp3quran (Surah Stream)</option>
+                <option value="alafasy:everyayah">alafasy:everyayah (Ayah Highlight)</option>
+                <option value="sudais:everyayah">sudais:everyayah (Verse-by-Verse)</option>
+                <option value="sudais:haram">sudais:haram (Haramain Compilation)</option>
+              </select>
+            </div>
+
+            <div class="control-group">
+              <label for="lang-select">Translation</label>
+              <select id="lang-select">
+                <option value="en_sahih">English (Sahih International)</option>
+                <option value="en_yusufali">English (Yusuf Ali)</option>
+                <option value="ur_maududi">Urdu (Maududi)</option>
+                <option value="id_kemenag">Indonesian (Kemenag)</option>
+                <option value="ru_abuadel">Russian (Abu Adel)</option>
+                <option value="tr_diyanet">Turkish (Diyanet)</option>
+                <option value="es_cortes">Spanish (Cortes)</option>
+                <option value="fr_hamidullah">French (Hamidullah)</option>
+                <option value="de_aburida">German (Abu Rida)</option>
+                <option value="bn_hoque">Bengali (Zohurul Hoque)</option>
+                <option value="zh_jian">Chinese (Ma Jian)</option>
+                <option value="it_piccardo">Italian (Hamza Piccardo)</option>
+                <option value="pt_elhayek">Portuguese (Samir El-Hayek)</option>
+                <option value="hi_farooq">Hindi (Farooq Khan)</option>
+                <option value="fa_mojtabavi">Persian (Mojtabavi)</option>
+                <option value="ja_sawada">Japanese (Sawada)</option>
+                <option value="sw_albarwani">Swahili (Al-Barwani)</option>
+              </select>
+            </div>
+
+            <div class="control-group">
+              <label for="tafsir-select">Tafsir API</label>
+              <select id="tafsir-select">
+                <option value="en_ibnkathir">Ibn Kathir (English)</option>
+                <option value="ar_jalalayn">Al-Jalalayn (Arabic)</option>
+                <option value="ar_sadi">Al-Sa'di (Arabic)</option>
+                <option value="en_jalalayn">Al-Jalalayn (English)</option>
+                <option value="ar_qurtubi">Al-Qurtubi (Arabic)</option>
+                <option value="ar_tabari">Al-Tabari (Arabic)</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="media-player">
+            <button id="play-btn">Play Recitation</button>
+            <audio id="audio-player" controls></audio>
+            <button id="dl-btn" style="background:#475569;">Download MP3</button>
+          </div>
+
+          <div class="quran-viewer" id="verses-container">
+            <!-- Loaded verses display here -->
+          </div>
+        </div>
+      </div>
+
+      <div class="sidebar-section">
+        <div class="card">
+          <h2>Qibla Finder (Offline)</h2>
+          <div class="qibla-compass">
+            <div class="compass-ring">
+              <div class="compass-arrow" id="qibla-arrow"></div>
+            </div>
+            <div class="compass-label" id="qibla-deg">Angle: --°</div>
+            <div style="font-size: 0.8rem; text-align: center; color: #64748b;">
+              Offline monosphere calculation using spherical trigonometry.
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <h2>Prayer Calculations</h2>
+          <div class="control-group" style="margin-bottom: 12px;">
+            <label>Latitude</label>
+            <input type="number" id="lat" value="40.7128" step="0.0001" />
+          </div>
+          <div class="control-group" style="margin-bottom: 12px;">
+            <label>Longitude</label>
+            <input type="number" id="lon" value="-74.0060" step="0.0001" />
+          </div>
+          <div class="control-group" style="margin-bottom: 16px;">
+            <label>Calculation Method</label>
+            <select id="method">
+              <option value="isna">ISNA (Recommended)</option>
+              <option value="umm ul qura">Umm Al Qura (Makkah)</option>
+              <option value="karachi">Karachi</option>
+              <option value="MuslimWorldLeague">Muslim World League</option>
+            </select>
+          </div>
+          <button id="calc-btn" style="width: 100%;">Calculate Times</button>
+
+          <div id="prayer-results" style="margin-top: 24px; font-size: 0.9rem; display: flex; flex-direction: column; gap: 8px;">
+            <!-- Prayer calculation results -->
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script type="module">
+      import { createDeenRawClient, downloadToClient } from "./deen-web.min.js";
+      import { calculatePrayerTimes, getQiblaDirection, getAyahTimestamps, getWordTimestamps } from "./deen-web.js";
+
+      const deen = createDeenRawClient();
+      let currentSurah = null;
+      let verseTimestamps = [];
+      let currentWordIndex = -1;
+
+      async function loadSurahData(surahNumber) {
+        const container = document.getElementById("verses-container");
+        container.innerHTML = "<p>Loading Surah text and translations...</p>";
+        
+        try {
+          // Optimization: load only the specific surah file over CDN to save network weight!
+          currentSurah = await deen.loadSurah(surahNumber);
+          renderVerses();
+          updateAudioSource();
+          updateTimestamps();
+        } catch (err) {
+          container.innerHTML = `<p style="color:red;">Error loading surah: ${err.message}</p>`;
+        }
+      }
+
+      function renderVerses() {
+        const container = document.getElementById("verses-container");
+        container.innerHTML = "";
+        
+        const lang = document.getElementById("lang-select").value;
+        const tafsirId = document.getElementById("tafsir-select").value;
+
+        currentSurah.ayahs.forEach((ayah, index) => {
+          const card = document.createElement("div");
+          card.className = "ayah-card";
+          card.id = `ayah-card-${index + 1}`;
+          
+          // Split Arabic text by whitespace to support word-by-word timestamps highlighting
+          const words = (ayah.text.uthmani || ayah.text.simple || "").split(/\s+/);
+          const arabicSpan = document.createElement("div");
+          arabicSpan.className = "arabic-text";
+          
+          words.forEach((word, wIdx) => {
+            const wordSpan = document.createElement("span");
+            wordSpan.className = "word-span";
+            wordSpan.id = `word-${index + 1}-${wIdx}`;
+            wordSpan.innerText = word + " ";
+            arabicSpan.appendChild(wordSpan);
+          });
+
+          const transDiv = document.createElement("div");
+          transDiv.className = "translation-text";
+          transDiv.innerText = `${ayah.ayahNumber}. ${ayah.text[lang] || ayah.text.en_sahih || "Translation pending"}`;
+
+          const tafsirDiv = document.createElement("div");
+          tafsirDiv.className = "tafsir-text";
+          tafsirDiv.innerText = ayah.tafsir?.[tafsirId] || "Tafsir content pending.";
+
+          card.appendChild(arabicSpan);
+          card.appendChild(transDiv);
+          card.appendChild(tafsirDiv);
+          container.appendChild(card);
+        });
+      }
+
+      function updateAudioSource() {
+        const reciter = document.getElementById("reciter-select").value;
+        const audio = document.getElementById("audio-player");
+        
+        // Map reciter audio URL
+        let url = "";
+        if (reciter.includes("everyayah")) {
+          // Play verse 1 initially
+          url = `https://everyayah.com/data/Alafasy_128kbps/001001.mp3`;
+        } else if (reciter.includes("sudais:haram")) {
+          url = "https://audio.haramain.info/compilations/makkah/taraweeh/2026_taraweeh_complete.mp3";
+        } else {
+          url = `https://server11.mp3quran.net/sds/001.mp3`; // Sudais default
+        }
+        audio.src = url;
+      }
+
+      function updateTimestamps() {
+        const reciter = document.getElementById("reciter-select").value;
+        verseTimestamps = getAyahTimestamps(currentSurah.surahNumber, reciter.split(":")[0]);
+      }
+
+      // Proportional sub-second Word Audio Highlight Tracker
+      const audio = document.getElementById("audio-player");
+      audio.addEventListener("timeupdate", () => {
+        const currentTime = audio.currentTime;
+        let activeAyahIndex = -1;
+
+        // Trace active Ayah
+        for (let i = 0; i < verseTimestamps.length; i++) {
+          if (currentTime >= verseTimestamps[i].start && currentTime <= verseTimestamps[i].end) {
+            activeAyahIndex = i;
+            break;
+          }
+        }
+
+        if (activeAyahIndex !== -1) {
+          const ayahNumber = activeAyahIndex + 1;
+          
+          // Set active Ayah Card
+          document.querySelectorAll(".ayah-card").forEach(c => c.classList.remove("active"));
+          const activeCard = document.getElementById(`ayah-card-${ayahNumber}`);
+          if (activeCard) {
+            activeCard.classList.add("active");
+            // Auto scroll to active verse
+            activeCard.scrollIntoView({ behavior: "smooth", block: "nearest" });
+          }
+
+          // Trace active word timing inside this Ayah
+          const wordsList = getWordTimestamps(currentSurah.surahNumber, ayahNumber, document.getElementById("reciter-select").value.split(":")[0]);
+          let activeWordIndex = -1;
+          for (let w = 0; w < wordsList.length; w++) {
+            if (currentTime >= wordsList[w].start && currentTime <= wordsList[w].end) {
+              activeWordIndex = w;
+              break;
+            }
+          }
+
+          document.querySelectorAll(".word-span").forEach(w => w.classList.remove("highlight"));
+          if (activeWordIndex !== -1) {
+            const activeWordSpan = document.getElementById(`word-${ayahNumber}-${activeWordIndex}`);
+            if (activeWordSpan) activeWordSpan.classList.add("highlight");
+          }
+        }
+      });
+
+      // UI Actions
+      document.getElementById("surah-select").addEventListener("change", (e) => {
+        loadSurahData(e.target.value);
+      });
+      document.getElementById("reciter-select").addEventListener("change", () => {
+        updateAudioSource();
+        updateTimestamps();
+      });
+      document.getElementById("lang-select").addEventListener("change", renderVerses);
+      document.getElementById("tafsir-select").addEventListener("change", renderVerses);
+
+      document.getElementById("play-btn").addEventListener("click", () => {
+        audio.play();
+      });
+
+      document.getElementById("dl-btn").addEventListener("click", () => {
+        downloadToClient(audio.src, `surah_${currentSurah.surahNumber}.mp3`);
+      });
+
+      // Qibla Finder UI
+      function loadQibla() {
+        const lat = Number(document.getElementById("lat").value);
+        const lon = Number(document.getElementById("lon").value);
+        const qiblaAngle = getQiblaDirection(lat, lon);
+        
+        document.getElementById("qibla-arrow").style.transform = `rotate(${qiblaAngle}deg)`;
+        document.getElementById("qibla-deg").innerText = `Kaaba Bearing: ${qiblaAngle.toFixed(2)}°`;
+      }
+
+      // Prayer times calculations UI
+      function loadPrayerTimes() {
+        const lat = Number(document.getElementById("lat").value);
+        const lon = Number(document.getElementById("lon").value);
+        const method = document.getElementById("method").value;
+        
+        const times = calculatePrayerTimes({
+          latitude: lat,
+          longitude: lon,
+          method: method
+        });
+
+        const resDiv = document.getElementById("prayer-results");
+        resDiv.innerHTML = `
+          <div style="display:flex; justify-content:space-between; border-bottom:1px solid #f1f5f9; padding-bottom:4px;"><strong>Fajr:</strong> <span>${times.fajr}</span></div>
+          <div style="display:flex; justify-content:space-between; border-bottom:1px solid #f1f5f9; padding-bottom:4px;"><strong>Sunrise:</strong> <span>${times.sunrise}</span></div>
+          <div style="display:flex; justify-content:space-between; border-bottom:1px solid #f1f5f9; padding-bottom:4px;"><strong>Dhuhr:</strong> <span>${times.dhuhr}</span></div>
+          <div style="display:flex; justify-content:space-between; border-bottom:1px solid #f1f5f9; padding-bottom:4px;"><strong>Asr:</strong> <span>${times.asr}</span></div>
+          <div style="display:flex; justify-content:space-between; border-bottom:1px solid #f1f5f9; padding-bottom:4px;"><strong>Maghrib:</strong> <span>${times.maghrib}</span></div>
+          <div style="display:flex; justify-content:space-between; padding-bottom:4px;"><strong>Isha:</strong> <span>${times.isha}</span></div>
+        `;
+      }
+
+      document.getElementById("calc-btn").addEventListener("click", () => {
+        loadQibla();
+        loadPrayerTimes();
+      });
+
+      // Initial setups
+      loadSurahData(1);
+      loadQibla();
+      loadPrayerTimes();
+    </script>
+  </body>
+</html>

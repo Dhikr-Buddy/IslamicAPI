@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T02:06:49.464Z",
+  "generatedAt": "2026-05-23T02:33:24.486Z",
   "surahNumber": 52,
   "ayahCount": 49,
   "ayahs": [
@@ -20,7 +20,21 @@
         "ru_abuadel": "Перевод айята [52:1] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:1] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:1] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:1］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:1]."
       }
     },
     {
@@ -39,7 +53,21 @@
         "ru_abuadel": "Перевод айята [52:2] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:2] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:2] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:2］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:2]."
       }
     },
     {
@@ -58,7 +86,21 @@
         "ru_abuadel": "Перевод айята [52:3] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:3] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:3] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:3］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:3]."
       }
     },
     {
@@ -77,7 +119,21 @@
         "ru_abuadel": "Перевод айята [52:4] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:4] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:4] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:4］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:4]."
       }
     },
     {
@@ -96,7 +152,21 @@
         "ru_abuadel": "Перевод айята [52:5] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:5] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:5] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:5］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:5]."
       }
     },
     {
@@ -115,7 +185,21 @@
         "ru_abuadel": "Перевод айята [52:6] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:6] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:6] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:6］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:6]."
       }
     },
     {
@@ -134,7 +218,21 @@
         "ru_abuadel": "Перевод айята [52:7] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:7] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:7] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:7］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:7]."
       }
     },
     {
@@ -153,7 +251,21 @@
         "ru_abuadel": "Перевод айята [52:8] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:8] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:8] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:8］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:8]."
       }
     },
     {
@@ -172,7 +284,21 @@
         "ru_abuadel": "Перевод айята [52:9] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:9] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:9] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:9］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:9]."
       }
     },
     {
@@ -191,7 +317,21 @@
         "ru_abuadel": "Перевод айята [52:10] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:10] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:10] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:10］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:10]."
       }
     },
     {
@@ -210,7 +350,21 @@
         "ru_abuadel": "Перевод айята [52:11] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:11] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:11] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:11］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:11]."
       }
     },
     {
@@ -229,7 +383,21 @@
         "ru_abuadel": "Перевод айята [52:12] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:12] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:12] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:12］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:12]."
       }
     },
     {
@@ -248,7 +416,21 @@
         "ru_abuadel": "Перевод айята [52:13] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:13] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:13] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:13］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:13]."
       }
     },
     {
@@ -267,7 +449,21 @@
         "ru_abuadel": "Перевод айята [52:14] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:14] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:14] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:14］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:14]."
       }
     },
     {
@@ -286,7 +482,21 @@
         "ru_abuadel": "Перевод айята [52:15] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:15] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:15] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:15］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:15]."
       }
     },
     {
@@ -305,7 +515,21 @@
         "ru_abuadel": "Перевод айята [52:16] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:16] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:16] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:16］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:16]."
       }
     },
     {
@@ -324,7 +548,21 @@
         "ru_abuadel": "Перевод айята [52:17] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:17] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:17] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:17］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:17]."
       }
     },
     {
@@ -343,7 +581,21 @@
         "ru_abuadel": "Перевод айята [52:18] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:18] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:18] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:18］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:18]."
       }
     },
     {
@@ -362,7 +614,21 @@
         "ru_abuadel": "Перевод айята [52:19] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:19] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:19] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:19］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:19]."
       }
     },
     {
@@ -381,7 +647,21 @@
         "ru_abuadel": "Перевод айята [52:20] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:20] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:20] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:20］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:20]."
       }
     },
     {
@@ -400,7 +680,21 @@
         "ru_abuadel": "Перевод айята [52:21] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:21] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:21] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:21］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:21］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:21] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:21] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:21] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:21] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:21]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:21] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:21].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:21] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:21].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:21].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:21].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:21]."
       }
     },
     {
@@ -419,7 +713,21 @@
         "ru_abuadel": "Перевод айята [52:22] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:22] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:22] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:22］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:22］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:22] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:22] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:22] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:22] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:22]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:22] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:22].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:22] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:22].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:22].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:22].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:22]."
       }
     },
     {
@@ -438,7 +746,21 @@
         "ru_abuadel": "Перевод айята [52:23] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:23] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:23] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:23］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:23］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:23] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:23] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:23] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:23] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:23]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:23] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:23].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:23] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:23].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:23].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:23].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:23]."
       }
     },
     {
@@ -457,7 +779,21 @@
         "ru_abuadel": "Перевод айята [52:24] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:24] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:24] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:24］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:24］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:24] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:24] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:24] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:24] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:24]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:24] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:24].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:24] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:24].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:24].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:24].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:24]."
       }
     },
     {
@@ -476,7 +812,21 @@
         "ru_abuadel": "Перевод айята [52:25] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:25] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:25] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:25］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:25］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:25] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:25] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:25] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:25] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:25]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:25] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:25].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:25] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:25].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:25].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:25].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:25]."
       }
     },
     {
@@ -495,7 +845,21 @@
         "ru_abuadel": "Перевод айята [52:26] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:26] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:26] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:26］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:26］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:26] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:26] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:26] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:26] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:26]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:26] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:26].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:26] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:26].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:26].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:26].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:26]."
       }
     },
     {
@@ -514,7 +878,21 @@
         "ru_abuadel": "Перевод айята [52:27] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:27] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:27] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:27］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:27］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:27] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:27] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:27] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:27] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:27]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:27] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:27].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:27] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:27].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:27].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:27].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:27]."
       }
     },
     {
@@ -533,7 +911,21 @@
         "ru_abuadel": "Перевод айята [52:28] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:28] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:28] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:28］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:28］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:28] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:28] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:28] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:28] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:28]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:28] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:28].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:28] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:28].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:28].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:28].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:28]."
       }
     },
     {
@@ -552,7 +944,21 @@
         "ru_abuadel": "Перевод айята [52:29] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:29] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:29] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:29］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:29］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:29] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:29] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:29] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:29] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:29]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:29] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:29].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:29] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:29].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:29].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:29].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:29]."
       }
     },
     {
@@ -571,7 +977,21 @@
         "ru_abuadel": "Перевод айята [52:30] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:30] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:30] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:30］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:30］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:30] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:30] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:30] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:30] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:30]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:30] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:30].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:30] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:30].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:30].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:30].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:30]."
       }
     },
     {
@@ -590,7 +1010,21 @@
         "ru_abuadel": "Перевод айята [52:31] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:31] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:31] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:31］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:31］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:31] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:31] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:31] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:31] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:31]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:31] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:31].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:31] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:31].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:31].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:31].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:31]."
       }
     },
     {
@@ -609,7 +1043,21 @@
         "ru_abuadel": "Перевод айята [52:32] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:32] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:32] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:32］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:32］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:32] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:32] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:32] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:32] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:32]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:32] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:32].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:32] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:32].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:32].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:32].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:32]."
       }
     },
     {
@@ -628,7 +1076,21 @@
         "ru_abuadel": "Перевод айята [52:33] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:33] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:33] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:33］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:33］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:33] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:33] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:33] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:33] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:33]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:33] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:33].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:33] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:33].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:33].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:33].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:33]."
       }
     },
     {
@@ -647,7 +1109,21 @@
         "ru_abuadel": "Перевод айята [52:34] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:34] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:34] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:34］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:34］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:34] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:34] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:34] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:34] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:34]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:34] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:34].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:34] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:34].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:34].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:34].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:34]."
       }
     },
     {
@@ -666,7 +1142,21 @@
         "ru_abuadel": "Перевод айята [52:35] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:35] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:35] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:35］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:35］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:35] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:35] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:35] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:35] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:35]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:35] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:35].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:35] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:35].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:35].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:35].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:35]."
       }
     },
     {
@@ -685,7 +1175,21 @@
         "ru_abuadel": "Перевод айята [52:36] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:36] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:36] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:36］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:36］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:36] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:36] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:36] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:36] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:36]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:36] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:36].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:36] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:36].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:36].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:36].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:36]."
       }
     },
     {
@@ -704,7 +1208,21 @@
         "ru_abuadel": "Перевод айята [52:37] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:37] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:37] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:37］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:37］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:37] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:37] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:37] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:37] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:37]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:37] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:37].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:37] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:37].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:37].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:37].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:37]."
       }
     },
     {
@@ -723,7 +1241,21 @@
         "ru_abuadel": "Перевод айята [52:38] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:38] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:38] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:38］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:38］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:38] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:38] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:38] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:38] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:38]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:38] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:38].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:38] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:38].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:38].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:38].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:38]."
       }
     },
     {
@@ -742,7 +1274,21 @@
         "ru_abuadel": "Перевод айята [52:39] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:39] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:39] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:39］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:39］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:39] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:39] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:39] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:39] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:39]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:39] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:39].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:39] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:39].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:39].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:39].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:39]."
       }
     },
     {
@@ -761,7 +1307,21 @@
         "ru_abuadel": "Перевод айята [52:40] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:40] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:40] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:40］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:40］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:40] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:40] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:40] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:40] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:40]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:40] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:40].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:40] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:40].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:40].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:40].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:40]."
       }
     },
     {
@@ -780,7 +1340,21 @@
         "ru_abuadel": "Перевод айята [52:41] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:41] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:41] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:41］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:41］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:41] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:41] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:41] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:41] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:41]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:41] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:41].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:41] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:41].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:41].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:41].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:41]."
       }
     },
     {
@@ -799,7 +1373,21 @@
         "ru_abuadel": "Перевод айята [52:42] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:42] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:42] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:42］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:42］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:42] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:42] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:42] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:42] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:42]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:42] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:42].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:42] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:42].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:42].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:42].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:42]."
       }
     },
     {
@@ -818,7 +1406,21 @@
         "ru_abuadel": "Перевод айята [52:43] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:43] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:43] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:43］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:43］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:43] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:43] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:43] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:43] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:43]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:43] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:43].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:43] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:43].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:43].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:43].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:43]."
       }
     },
     {
@@ -837,7 +1439,21 @@
         "ru_abuadel": "Перевод айята [52:44] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:44] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:44] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:44］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:44］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:44] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:44] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:44] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:44] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:44]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:44] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:44].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:44] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:44].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:44].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:44].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:44]."
       }
     },
     {
@@ -856,7 +1472,21 @@
         "ru_abuadel": "Перевод айята [52:45] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:45] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:45] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:45］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:45］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:45] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:45] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:45] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:45] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:45]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:45] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:45].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:45] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:45].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:45].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:45].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:45]."
       }
     },
     {
@@ -875,7 +1505,21 @@
         "ru_abuadel": "Перевод айята [52:46] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:46] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:46] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:46］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:46］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:46] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:46] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:46] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:46] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:46]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:46] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:46].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:46] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:46].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:46].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:46].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:46]."
       }
     },
     {
@@ -894,7 +1538,21 @@
         "ru_abuadel": "Перевод айята [52:47] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:47] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:47] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:47］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:47］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:47] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:47] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:47] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:47] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:47]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:47] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:47].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:47] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:47].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:47].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:47].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:47]."
       }
     },
     {
@@ -913,7 +1571,21 @@
         "ru_abuadel": "Перевод айята [52:48] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:48] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:48] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:48］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:48］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:48] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:48] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:48] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:48] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:48]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:48] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:48].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:48] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:48].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:48].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:48].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:48]."
       }
     },
     {
@@ -932,7 +1604,21 @@
         "ru_abuadel": "Перевод айята [52:49] на русский язык (Абу Адель).",
         "tr_diyanet": "[52:49] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [52:49] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［52:49］ 马坚 译文"
+        "zh_jian": "真主启示 ［52:49］ 马坚 译文",
+        "it_piccardo": "Traduzione di [52:49] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [52:49] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [52:49] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [52:49] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [52:49]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [52:49] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [52:49].",
+        "ar_jalalayn": "تفسير الجلالين للآية [52:49] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [52:49].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [52:49].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [52:49].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [52:49]."
       }
     }
   ],

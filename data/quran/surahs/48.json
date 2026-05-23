@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T02:06:49.462Z",
+  "generatedAt": "2026-05-23T02:33:24.484Z",
   "surahNumber": 48,
   "ayahCount": 29,
   "ayahs": [
@@ -20,7 +20,21 @@
         "ru_abuadel": "Перевод айята [48:1] на русский язык (Абу Адель).",
         "tr_diyanet": "[48:1] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [48:1] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［48:1］ 马坚 译文"
+        "zh_jian": "真主启示 ［48:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [48:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [48:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [48:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [48:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [48:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [48:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [48:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [48:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [48:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [48:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [48:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [48:1]."
       }
     },
     {
@@ -39,7 +53,21 @@
         "ru_abuadel": "Перевод айята [48:2] на русский язык (Абу Адель).",
         "tr_diyanet": "[48:2] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [48:2] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［48:2］ 马坚 译文"
+        "zh_jian": "真主启示 ［48:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [48:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [48:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [48:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [48:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [48:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [48:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [48:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [48:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [48:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [48:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [48:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [48:2]."
       }
     },
     {
@@ -58,7 +86,21 @@
         "ru_abuadel": "Перевод айята [48:3] на русский язык (Абу Адель).",
         "tr_diyanet": "[48:3] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [48:3] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［48:3］ 马坚 译文"
+        "zh_jian": "真主启示 ［48:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [48:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [48:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [48:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [48:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [48:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [48:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [48:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [48:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [48:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [48:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [48:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [48:3]."
       }
     },
     {
@@ -77,7 +119,21 @@
         "ru_abuadel": "Перевод айята [48:4] на русский язык (Абу Адель).",
         "tr_diyanet": "[48:4] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [48:4] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［48:4］ 马坚 译文"
+        "zh_jian": "真主启示 ［48:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [48:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [48:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [48:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [48:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [48:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [48:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [48:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [48:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [48:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [48:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [48:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [48:4]."
       }
     },
     {
@@ -96,7 +152,21 @@
         "ru_abuadel": "Перевод айята [48:5] на русский язык (Абу Адель).",
         "tr_diyanet": "[48:5] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [48:5] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［48:5］ 马坚 译文"
+        "zh_jian": "真主启示 ［48:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [48:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [48:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [48:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [48:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [48:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [48:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [48:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [48:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [48:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [48:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [48:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [48:5]."
       }
     },
     {
@@ -115,7 +185,21 @@
         "ru_abuadel": "Перевод айята [48:6] на русский язык (Абу Адель).",
         "tr_diyanet": "[48:6] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [48:6] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［48:6］ 马坚 译文"
+        "zh_jian": "真主启示 ［48:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [48:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [48:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [48:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [48:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [48:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [48:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [48:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [48:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [48:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [48:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [48:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [48:6]."
       }
     },
     {
@@ -134,7 +218,21 @@
         "ru_abuadel": "Перевод айята [48:7] на русский язык (Абу Адель).",
         "tr_diyanet": "[48:7] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [48:7] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［48:7］ 马坚 译文"
+        "zh_jian": "真主启示 ［48:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [48:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [48:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [48:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [48:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [48:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [48:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [48:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [48:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [48:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [48:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [48:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [48:7]."
       }
     },
     {
@@ -153,7 +251,21 @@
         "ru_abuadel": "Перевод айята [48:8] на русский язык (Абу Адель).",
         "tr_diyanet": "[48:8] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [48:8] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［48:8］ 马坚 译文"
+        "zh_jian": "真主启示 ［48:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [48:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [48:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [48:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [48:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [48:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [48:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [48:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [48:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [48:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [48:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [48:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [48:8]."
       }
     },
     {
@@ -172,7 +284,21 @@
         "ru_abuadel": "Перевод айята [48:9] на русский язык (Абу Адель).",
         "tr_diyanet": "[48:9] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [48:9] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［48:9］ 马坚 译文"
+        "zh_jian": "真主启示 ［48:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [48:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [48:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [48:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [48:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [48:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [48:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [48:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [48:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [48:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [48:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [48:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [48:9]."
       }
     },
     {
@@ -191,7 +317,21 @@
         "ru_abuadel": "Перевод айята [48:10] на русский язык (Абу Адель).",
         "tr_diyanet": "[48:10] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [48:10] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［48:10］ 马坚 译文"
+        "zh_jian": "真主启示 ［48:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [48:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [48:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [48:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [48:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [48:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [48:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [48:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [48:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [48:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [48:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [48:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [48:10]."
       }
     },
     {
@@ -210,7 +350,21 @@
         "ru_abuadel": "Перевод айята [48:11] на русский язык (Абу Адель).",
         "tr_diyanet": "[48:11] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [48:11] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［48:11］ 马坚 译文"
+        "zh_jian": "真主启示 ［48:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [48:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [48:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [48:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [48:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [48:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [48:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [48:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [48:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [48:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [48:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [48:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [48:11]."
       }
     },
     {
@@ -229,7 +383,21 @@
         "ru_abuadel": "Перевод айята [48:12] на русский язык (Абу Адель).",
         "tr_diyanet": "[48:12] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [48:12] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［48:12］ 马坚 译文"
+        "zh_jian": "真主启示 ［48:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [48:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [48:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [48:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [48:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [48:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [48:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [48:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [48:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [48:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [48:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [48:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [48:12]."
       }
     },
     {
@@ -248,7 +416,21 @@
         "ru_abuadel": "Перевод айята [48:13] на русский язык (Абу Адель).",
         "tr_diyanet": "[48:13] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [48:13] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［48:13］ 马坚 译文"
+        "zh_jian": "真主启示 ［48:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [48:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [48:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [48:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [48:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [48:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [48:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [48:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [48:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [48:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [48:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [48:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [48:13]."
       }
     },
     {
@@ -267,7 +449,21 @@
         "ru_abuadel": "Перевод айята [48:14] на русский язык (Абу Адель).",
         "tr_diyanet": "[48:14] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [48:14] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［48:14］ 马坚 译文"
+        "zh_jian": "真主启示 ［48:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [48:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [48:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [48:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [48:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [48:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [48:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [48:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [48:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [48:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [48:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [48:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [48:14]."
       }
     },
     {
@@ -286,7 +482,21 @@
         "ru_abuadel": "Перевод айята [48:15] на русский язык (Абу Адель).",
         "tr_diyanet": "[48:15] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [48:15] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［48:15］ 马坚 译文"
+        "zh_jian": "真主启示 ［48:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [48:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [48:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [48:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [48:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [48:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [48:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [48:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [48:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [48:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [48:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [48:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [48:15]."
       }
     },
     {
@@ -305,7 +515,21 @@
         "ru_abuadel": "Перевод айята [48:16] на русский язык (Абу Адель).",
         "tr_diyanet": "[48:16] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [48:16] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［48:16］ 马坚 译文"
+        "zh_jian": "真主启示 ［48:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [48:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [48:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [48:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [48:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [48:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [48:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [48:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [48:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [48:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [48:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [48:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [48:16]."
       }
     },
     {
@@ -324,7 +548,21 @@
         "ru_abuadel": "Перевод айята [48:17] на русский язык (Абу Адель).",
         "tr_diyanet": "[48:17] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [48:17] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［48:17］ 马坚 译文"
+        "zh_jian": "真主启示 ［48:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [48:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [48:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [48:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [48:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [48:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [48:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [48:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [48:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [48:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [48:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [48:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [48:17]."
       }
     },
     {
@@ -343,7 +581,21 @@
         "ru_abuadel": "Перевод айята [48:18] на русский язык (Абу Адель).",
         "tr_diyanet": "[48:18] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [48:18] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［48:18］ 马坚 译文"
+        "zh_jian": "真主启示 ［48:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [48:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [48:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [48:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [48:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [48:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [48:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [48:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [48:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [48:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [48:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [48:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [48:18]."
       }
     },
     {
@@ -362,7 +614,21 @@
         "ru_abuadel": "Перевод айята [48:19] на русский язык (Абу Адель).",
         "tr_diyanet": "[48:19] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [48:19] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［48:19］ 马坚 译文"
+        "zh_jian": "真主启示 ［48:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [48:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [48:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [48:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [48:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [48:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [48:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [48:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [48:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [48:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [48:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [48:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [48:19]."
       }
     },
     {
@@ -381,7 +647,21 @@
         "ru_abuadel": "Перевод айята [48:20] на русский язык (Абу Адель).",
         "tr_diyanet": "[48:20] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [48:20] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［48:20］ 马坚 译文"
+        "zh_jian": "真主启示 ［48:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [48:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [48:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [48:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [48:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [48:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [48:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [48:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [48:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [48:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [48:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [48:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [48:20]."
       }
     },
     {
@@ -400,7 +680,21 @@
         "ru_abuadel": "Перевод айята [48:21] на русский язык (Абу Адель).",
         "tr_diyanet": "[48:21] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [48:21] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［48:21］ 马坚 译文"
+        "zh_jian": "真主启示 ［48:21］ 马坚 译文",
+        "it_piccardo": "Traduzione di [48:21] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [48:21] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [48:21] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [48:21] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [48:21]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [48:21] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [48:21].",
+        "ar_jalalayn": "تفسير الجلالين للآية [48:21] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [48:21].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [48:21].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [48:21].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [48:21]."
       }
     },
     {
@@ -419,7 +713,21 @@
         "ru_abuadel": "Перевод айята [48:22] на русский язык (Абу Адель).",
         "tr_diyanet": "[48:22] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [48:22] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［48:22］ 马坚 译文"
+        "zh_jian": "真主启示 ［48:22］ 马坚 译文",
+        "it_piccardo": "Traduzione di [48:22] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [48:22] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [48:22] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [48:22] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [48:22]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [48:22] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [48:22].",
+        "ar_jalalayn": "تفسير الجلالين للآية [48:22] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [48:22].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [48:22].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [48:22].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [48:22]."
       }
     },
     {
@@ -438,7 +746,21 @@
         "ru_abuadel": "Перевод айята [48:23] на русский язык (Абу Адель).",
         "tr_diyanet": "[48:23] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [48:23] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［48:23］ 马坚 译文"
+        "zh_jian": "真主启示 ［48:23］ 马坚 译文",
+        "it_piccardo": "Traduzione di [48:23] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [48:23] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [48:23] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [48:23] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [48:23]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [48:23] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [48:23].",
+        "ar_jalalayn": "تفسير الجلالين للآية [48:23] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [48:23].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [48:23].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [48:23].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [48:23]."
       }
     },
     {
@@ -457,7 +779,21 @@
         "ru_abuadel": "Перевод айята [48:24] на русский язык (Абу Адель).",
         "tr_diyanet": "[48:24] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [48:24] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［48:24］ 马坚 译文"
+        "zh_jian": "真主启示 ［48:24］ 马坚 译文",
+        "it_piccardo": "Traduzione di [48:24] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [48:24] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [48:24] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [48:24] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [48:24]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [48:24] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [48:24].",
+        "ar_jalalayn": "تفسير الجلالين للآية [48:24] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [48:24].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [48:24].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [48:24].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [48:24]."
       }
     },
     {
@@ -476,7 +812,21 @@
         "ru_abuadel": "Перевод айята [48:25] на русский язык (Абу Адель).",
         "tr_diyanet": "[48:25] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [48:25] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［48:25］ 马坚 译文"
+        "zh_jian": "真主启示 ［48:25］ 马坚 译文",
+        "it_piccardo": "Traduzione di [48:25] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [48:25] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [48:25] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [48:25] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [48:25]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [48:25] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [48:25].",
+        "ar_jalalayn": "تفسير الجلالين للآية [48:25] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [48:25].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [48:25].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [48:25].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [48:25]."
       }
     },
     {
@@ -495,7 +845,21 @@
         "ru_abuadel": "Перевод айята [48:26] на русский язык (Абу Адель).",
         "tr_diyanet": "[48:26] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [48:26] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［48:26］ 马坚 译文"
+        "zh_jian": "真主启示 ［48:26］ 马坚 译文",
+        "it_piccardo": "Traduzione di [48:26] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [48:26] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [48:26] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [48:26] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [48:26]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [48:26] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [48:26].",
+        "ar_jalalayn": "تفسير الجلالين للآية [48:26] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [48:26].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [48:26].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [48:26].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [48:26]."
       }
     },
     {
@@ -514,7 +878,21 @@
         "ru_abuadel": "Перевод айята [48:27] на русский язык (Абу Адель).",
         "tr_diyanet": "[48:27] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [48:27] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［48:27］ 马坚 译文"
+        "zh_jian": "真主启示 ［48:27］ 马坚 译文",
+        "it_piccardo": "Traduzione di [48:27] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [48:27] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [48:27] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [48:27] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [48:27]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [48:27] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [48:27].",
+        "ar_jalalayn": "تفسير الجلالين للآية [48:27] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [48:27].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [48:27].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [48:27].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [48:27]."
       }
     },
     {
@@ -533,7 +911,21 @@
         "ru_abuadel": "Перевод айята [48:28] на русский язык (Абу Адель).",
         "tr_diyanet": "[48:28] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [48:28] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［48:28］ 马坚 译文"
+        "zh_jian": "真主启示 ［48:28］ 马坚 译文",
+        "it_piccardo": "Traduzione di [48:28] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [48:28] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [48:28] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [48:28] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [48:28]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [48:28] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [48:28].",
+        "ar_jalalayn": "تفسير الجلالين للآية [48:28] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [48:28].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [48:28].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [48:28].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [48:28]."
       }
     },
     {
@@ -552,7 +944,21 @@
         "ru_abuadel": "Перевод айята [48:29] на русский язык (Абу Адель).",
         "tr_diyanet": "[48:29] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [48:29] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［48:29］ 马坚 译文"
+        "zh_jian": "真主启示 ［48:29］ 马坚 译文",
+        "it_piccardo": "Traduzione di [48:29] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [48:29] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [48:29] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [48:29] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [48:29]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [48:29] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [48:29].",
+        "ar_jalalayn": "تفسير الجلالين للآية [48:29] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [48:29].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [48:29].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [48:29].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [48:29]."
       }
     }
   ],

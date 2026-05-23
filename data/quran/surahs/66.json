@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T02:06:49.469Z",
+  "generatedAt": "2026-05-23T02:33:24.492Z",
   "surahNumber": 66,
   "ayahCount": 12,
   "ayahs": [
@@ -20,7 +20,21 @@
         "ru_abuadel": "Перевод айята [66:1] на русский язык (Абу Адель).",
         "tr_diyanet": "[66:1] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [66:1] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［66:1］ 马坚 译文"
+        "zh_jian": "真主启示 ［66:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [66:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [66:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [66:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [66:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [66:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [66:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [66:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [66:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [66:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [66:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [66:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [66:1]."
       }
     },
     {
@@ -39,7 +53,21 @@
         "ru_abuadel": "Перевод айята [66:2] на русский язык (Абу Адель).",
         "tr_diyanet": "[66:2] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [66:2] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［66:2］ 马坚 译文"
+        "zh_jian": "真主启示 ［66:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [66:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [66:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [66:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [66:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [66:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [66:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [66:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [66:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [66:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [66:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [66:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [66:2]."
       }
     },
     {
@@ -58,7 +86,21 @@
         "ru_abuadel": "Перевод айята [66:3] на русский язык (Абу Адель).",
         "tr_diyanet": "[66:3] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [66:3] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［66:3］ 马坚 译文"
+        "zh_jian": "真主启示 ［66:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [66:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [66:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [66:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [66:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [66:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [66:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [66:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [66:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [66:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [66:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [66:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [66:3]."
       }
     },
     {
@@ -77,7 +119,21 @@
         "ru_abuadel": "Перевод айята [66:4] на русский язык (Абу Адель).",
         "tr_diyanet": "[66:4] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [66:4] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［66:4］ 马坚 译文"
+        "zh_jian": "真主启示 ［66:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [66:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [66:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [66:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [66:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [66:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [66:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [66:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [66:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [66:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [66:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [66:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [66:4]."
       }
     },
     {
@@ -96,7 +152,21 @@
         "ru_abuadel": "Перевод айята [66:5] на русский язык (Абу Адель).",
         "tr_diyanet": "[66:5] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [66:5] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［66:5］ 马坚 译文"
+        "zh_jian": "真主启示 ［66:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [66:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [66:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [66:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [66:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [66:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [66:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [66:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [66:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [66:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [66:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [66:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [66:5]."
       }
     },
     {
@@ -115,7 +185,21 @@
         "ru_abuadel": "Перевод айята [66:6] на русский язык (Абу Адель).",
         "tr_diyanet": "[66:6] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [66:6] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［66:6］ 马坚 译文"
+        "zh_jian": "真主启示 ［66:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [66:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [66:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [66:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [66:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [66:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [66:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [66:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [66:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [66:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [66:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [66:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [66:6]."
       }
     },
     {
@@ -134,7 +218,21 @@
         "ru_abuadel": "Перевод айята [66:7] на русский язык (Абу Адель).",
         "tr_diyanet": "[66:7] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [66:7] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［66:7］ 马坚 译文"
+        "zh_jian": "真主启示 ［66:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [66:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [66:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [66:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [66:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [66:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [66:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [66:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [66:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [66:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [66:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [66:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [66:7]."
       }
     },
     {
@@ -153,7 +251,21 @@
         "ru_abuadel": "Перевод айята [66:8] на русский язык (Абу Адель).",
         "tr_diyanet": "[66:8] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [66:8] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［66:8］ 马坚 译文"
+        "zh_jian": "真主启示 ［66:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [66:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [66:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [66:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [66:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [66:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [66:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [66:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [66:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [66:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [66:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [66:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [66:8]."
       }
     },
     {
@@ -172,7 +284,21 @@
         "ru_abuadel": "Перевод айята [66:9] на русский язык (Абу Адель).",
         "tr_diyanet": "[66:9] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [66:9] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［66:9］ 马坚 译文"
+        "zh_jian": "真主启示 ［66:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [66:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [66:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [66:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [66:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [66:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [66:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [66:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [66:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [66:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [66:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [66:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [66:9]."
       }
     },
     {
@@ -191,7 +317,21 @@
         "ru_abuadel": "Перевод айята [66:10] на русский язык (Абу Адель).",
         "tr_diyanet": "[66:10] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [66:10] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［66:10］ 马坚 译文"
+        "zh_jian": "真主启示 ［66:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [66:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [66:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [66:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [66:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [66:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [66:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [66:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [66:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [66:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [66:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [66:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [66:10]."
       }
     },
     {
@@ -210,7 +350,21 @@
         "ru_abuadel": "Перевод айята [66:11] на русский язык (Абу Адель).",
         "tr_diyanet": "[66:11] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [66:11] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［66:11］ 马坚 译文"
+        "zh_jian": "真主启示 ［66:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [66:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [66:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [66:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [66:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [66:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [66:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [66:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [66:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [66:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [66:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [66:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [66:11]."
       }
     },
     {
@@ -229,7 +383,21 @@
         "ru_abuadel": "Перевод айята [66:12] на русский язык (Абу Адель).",
         "tr_diyanet": "[66:12] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [66:12] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［66:12］ 马坚 译文"
+        "zh_jian": "真主启示 ［66:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [66:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [66:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [66:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [66:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [66:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [66:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [66:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [66:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [66:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [66:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [66:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [66:12]."
       }
     }
   ],

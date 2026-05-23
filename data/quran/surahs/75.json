@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T02:06:49.471Z",
+  "generatedAt": "2026-05-23T02:33:24.496Z",
   "surahNumber": 75,
   "ayahCount": 40,
   "ayahs": [
@@ -20,7 +20,21 @@
         "ru_abuadel": "Перевод айята [75:1] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:1] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:1] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:1］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:1]."
       }
     },
     {
@@ -39,7 +53,21 @@
         "ru_abuadel": "Перевод айята [75:2] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:2] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:2] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:2］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:2]."
       }
     },
     {
@@ -58,7 +86,21 @@
         "ru_abuadel": "Перевод айята [75:3] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:3] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:3] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:3］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:3]."
       }
     },
     {
@@ -77,7 +119,21 @@
         "ru_abuadel": "Перевод айята [75:4] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:4] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:4] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:4］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:4]."
       }
     },
     {
@@ -96,7 +152,21 @@
         "ru_abuadel": "Перевод айята [75:5] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:5] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:5] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:5］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:5]."
       }
     },
     {
@@ -115,7 +185,21 @@
         "ru_abuadel": "Перевод айята [75:6] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:6] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:6] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:6］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:6]."
       }
     },
     {
@@ -134,7 +218,21 @@
         "ru_abuadel": "Перевод айята [75:7] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:7] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:7] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:7］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:7]."
       }
     },
     {
@@ -153,7 +251,21 @@
         "ru_abuadel": "Перевод айята [75:8] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:8] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:8] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:8］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:8]."
       }
     },
     {
@@ -172,7 +284,21 @@
         "ru_abuadel": "Перевод айята [75:9] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:9] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:9] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:9］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:9]."
       }
     },
     {
@@ -191,7 +317,21 @@
         "ru_abuadel": "Перевод айята [75:10] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:10] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:10] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:10］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:10]."
       }
     },
     {
@@ -210,7 +350,21 @@
         "ru_abuadel": "Перевод айята [75:11] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:11] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:11] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:11］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:11]."
       }
     },
     {
@@ -229,7 +383,21 @@
         "ru_abuadel": "Перевод айята [75:12] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:12] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:12] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:12］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:12]."
       }
     },
     {
@@ -248,7 +416,21 @@
         "ru_abuadel": "Перевод айята [75:13] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:13] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:13] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:13］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:13]."
       }
     },
     {
@@ -267,7 +449,21 @@
         "ru_abuadel": "Перевод айята [75:14] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:14] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:14] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:14］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:14]."
       }
     },
     {
@@ -286,7 +482,21 @@
         "ru_abuadel": "Перевод айята [75:15] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:15] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:15] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:15］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:15]."
       }
     },
     {
@@ -305,7 +515,21 @@
         "ru_abuadel": "Перевод айята [75:16] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:16] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:16] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:16］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:16]."
       }
     },
     {
@@ -324,7 +548,21 @@
         "ru_abuadel": "Перевод айята [75:17] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:17] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:17] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:17］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:17]."
       }
     },
     {
@@ -343,7 +581,21 @@
         "ru_abuadel": "Перевод айята [75:18] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:18] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:18] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:18］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:18]."
       }
     },
     {
@@ -362,7 +614,21 @@
         "ru_abuadel": "Перевод айята [75:19] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:19] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:19] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:19］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:19]."
       }
     },
     {
@@ -381,7 +647,21 @@
         "ru_abuadel": "Перевод айята [75:20] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:20] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:20] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:20］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:20]."
       }
     },
     {
@@ -400,7 +680,21 @@
         "ru_abuadel": "Перевод айята [75:21] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:21] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:21] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:21］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:21］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:21] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:21] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:21] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:21] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:21]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:21] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:21].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:21] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:21].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:21].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:21].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:21]."
       }
     },
     {
@@ -419,7 +713,21 @@
         "ru_abuadel": "Перевод айята [75:22] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:22] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:22] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:22］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:22］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:22] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:22] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:22] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:22] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:22]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:22] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:22].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:22] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:22].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:22].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:22].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:22]."
       }
     },
     {
@@ -438,7 +746,21 @@
         "ru_abuadel": "Перевод айята [75:23] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:23] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:23] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:23］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:23］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:23] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:23] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:23] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:23] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:23]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:23] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:23].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:23] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:23].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:23].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:23].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:23]."
       }
     },
     {
@@ -457,7 +779,21 @@
         "ru_abuadel": "Перевод айята [75:24] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:24] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:24] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:24］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:24］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:24] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:24] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:24] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:24] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:24]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:24] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:24].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:24] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:24].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:24].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:24].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:24]."
       }
     },
     {
@@ -476,7 +812,21 @@
         "ru_abuadel": "Перевод айята [75:25] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:25] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:25] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:25］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:25］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:25] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:25] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:25] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:25] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:25]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:25] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:25].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:25] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:25].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:25].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:25].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:25]."
       }
     },
     {
@@ -495,7 +845,21 @@
         "ru_abuadel": "Перевод айята [75:26] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:26] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:26] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:26］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:26］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:26] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:26] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:26] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:26] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:26]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:26] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:26].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:26] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:26].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:26].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:26].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:26]."
       }
     },
     {
@@ -514,7 +878,21 @@
         "ru_abuadel": "Перевод айята [75:27] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:27] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:27] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:27］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:27］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:27] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:27] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:27] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:27] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:27]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:27] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:27].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:27] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:27].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:27].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:27].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:27]."
       }
     },
     {
@@ -533,7 +911,21 @@
         "ru_abuadel": "Перевод айята [75:28] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:28] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:28] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:28］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:28］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:28] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:28] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:28] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:28] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:28]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:28] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:28].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:28] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:28].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:28].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:28].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:28]."
       }
     },
     {
@@ -552,7 +944,21 @@
         "ru_abuadel": "Перевод айята [75:29] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:29] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:29] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:29］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:29］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:29] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:29] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:29] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:29] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:29]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:29] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:29].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:29] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:29].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:29].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:29].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:29]."
       }
     },
     {
@@ -571,7 +977,21 @@
         "ru_abuadel": "Перевод айята [75:30] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:30] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:30] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:30］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:30］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:30] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:30] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:30] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:30] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:30]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:30] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:30].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:30] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:30].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:30].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:30].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:30]."
       }
     },
     {
@@ -590,7 +1010,21 @@
         "ru_abuadel": "Перевод айята [75:31] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:31] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:31] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:31］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:31］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:31] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:31] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:31] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:31] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:31]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:31] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:31].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:31] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:31].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:31].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:31].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:31]."
       }
     },
     {
@@ -609,7 +1043,21 @@
         "ru_abuadel": "Перевод айята [75:32] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:32] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:32] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:32］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:32］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:32] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:32] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:32] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:32] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:32]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:32] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:32].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:32] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:32].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:32].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:32].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:32]."
       }
     },
     {
@@ -628,7 +1076,21 @@
         "ru_abuadel": "Перевод айята [75:33] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:33] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:33] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:33］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:33］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:33] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:33] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:33] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:33] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:33]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:33] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:33].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:33] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:33].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:33].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:33].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:33]."
       }
     },
     {
@@ -647,7 +1109,21 @@
         "ru_abuadel": "Перевод айята [75:34] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:34] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:34] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:34］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:34］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:34] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:34] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:34] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:34] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:34]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:34] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:34].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:34] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:34].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:34].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:34].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:34]."
       }
     },
     {
@@ -666,7 +1142,21 @@
         "ru_abuadel": "Перевод айята [75:35] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:35] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:35] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:35］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:35］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:35] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:35] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:35] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:35] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:35]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:35] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:35].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:35] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:35].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:35].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:35].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:35]."
       }
     },
     {
@@ -685,7 +1175,21 @@
         "ru_abuadel": "Перевод айята [75:36] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:36] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:36] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:36］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:36］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:36] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:36] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:36] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:36] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:36]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:36] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:36].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:36] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:36].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:36].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:36].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:36]."
       }
     },
     {
@@ -704,7 +1208,21 @@
         "ru_abuadel": "Перевод айята [75:37] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:37] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:37] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:37］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:37］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:37] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:37] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:37] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:37] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:37]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:37] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:37].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:37] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:37].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:37].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:37].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:37]."
       }
     },
     {
@@ -723,7 +1241,21 @@
         "ru_abuadel": "Перевод айята [75:38] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:38] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:38] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:38］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:38］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:38] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:38] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:38] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:38] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:38]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:38] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:38].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:38] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:38].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:38].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:38].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:38]."
       }
     },
     {
@@ -742,7 +1274,21 @@
         "ru_abuadel": "Перевод айята [75:39] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:39] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:39] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:39］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:39］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:39] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:39] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:39] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:39] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:39]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:39] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:39].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:39] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:39].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:39].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:39].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:39]."
       }
     },
     {
@@ -761,7 +1307,21 @@
         "ru_abuadel": "Перевод айята [75:40] на русский язык (Абу Адель).",
         "tr_diyanet": "[75:40] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [75:40] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［75:40］ 马坚 译文"
+        "zh_jian": "真主启示 ［75:40］ 马坚 译文",
+        "it_piccardo": "Traduzione di [75:40] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [75:40] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [75:40] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [75:40] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [75:40]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [75:40] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [75:40].",
+        "ar_jalalayn": "تفسير الجلالين للآية [75:40] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [75:40].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [75:40].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [75:40].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [75:40]."
       }
     }
   ],

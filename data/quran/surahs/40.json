@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T02:06:49.460Z",
+  "generatedAt": "2026-05-23T02:33:24.480Z",
   "surahNumber": 40,
   "ayahCount": 85,
   "ayahs": [
@@ -20,7 +20,21 @@
         "ru_abuadel": "Перевод айята [40:1] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:1] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:1] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:1］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:1]."
       }
     },
     {
@@ -39,7 +53,21 @@
         "ru_abuadel": "Перевод айята [40:2] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:2] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:2] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:2］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:2]."
       }
     },
     {
@@ -58,7 +86,21 @@
         "ru_abuadel": "Перевод айята [40:3] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:3] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:3] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:3］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:3]."
       }
     },
     {
@@ -77,7 +119,21 @@
         "ru_abuadel": "Перевод айята [40:4] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:4] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:4] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:4］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:4]."
       }
     },
     {
@@ -96,7 +152,21 @@
         "ru_abuadel": "Перевод айята [40:5] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:5] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:5] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:5］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:5]."
       }
     },
     {
@@ -115,7 +185,21 @@
         "ru_abuadel": "Перевод айята [40:6] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:6] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:6] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:6］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:6]."
       }
     },
     {
@@ -134,7 +218,21 @@
         "ru_abuadel": "Перевод айята [40:7] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:7] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:7] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:7］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:7]."
       }
     },
     {
@@ -153,7 +251,21 @@
         "ru_abuadel": "Перевод айята [40:8] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:8] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:8] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:8］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:8]."
       }
     },
     {
@@ -172,7 +284,21 @@
         "ru_abuadel": "Перевод айята [40:9] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:9] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:9] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:9］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:9]."
       }
     },
     {
@@ -191,7 +317,21 @@
         "ru_abuadel": "Перевод айята [40:10] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:10] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:10] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:10］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:10]."
       }
     },
     {
@@ -210,7 +350,21 @@
         "ru_abuadel": "Перевод айята [40:11] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:11] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:11] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:11］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:11]."
       }
     },
     {
@@ -229,7 +383,21 @@
         "ru_abuadel": "Перевод айята [40:12] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:12] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:12] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:12］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:12]."
       }
     },
     {
@@ -248,7 +416,21 @@
         "ru_abuadel": "Перевод айята [40:13] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:13] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:13] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:13］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:13]."
       }
     },
     {
@@ -267,7 +449,21 @@
         "ru_abuadel": "Перевод айята [40:14] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:14] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:14] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:14］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:14]."
       }
     },
     {
@@ -286,7 +482,21 @@
         "ru_abuadel": "Перевод айята [40:15] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:15] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:15] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:15］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:15]."
       }
     },
     {
@@ -305,7 +515,21 @@
         "ru_abuadel": "Перевод айята [40:16] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:16] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:16] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:16］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:16]."
       }
     },
     {
@@ -324,7 +548,21 @@
         "ru_abuadel": "Перевод айята [40:17] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:17] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:17] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:17］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:17]."
       }
     },
     {
@@ -343,7 +581,21 @@
         "ru_abuadel": "Перевод айята [40:18] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:18] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:18] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:18］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:18]."
       }
     },
     {
@@ -362,7 +614,21 @@
         "ru_abuadel": "Перевод айята [40:19] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:19] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:19] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:19］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:19]."
       }
     },
     {
@@ -381,7 +647,21 @@
         "ru_abuadel": "Перевод айята [40:20] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:20] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:20] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:20］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:20]."
       }
     },
     {
@@ -400,7 +680,21 @@
         "ru_abuadel": "Перевод айята [40:21] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:21] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:21] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:21］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:21］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:21] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:21] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:21] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:21] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:21]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:21] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:21].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:21] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:21].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:21].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:21].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:21]."
       }
     },
     {
@@ -419,7 +713,21 @@
         "ru_abuadel": "Перевод айята [40:22] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:22] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:22] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:22］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:22］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:22] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:22] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:22] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:22] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:22]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:22] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:22].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:22] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:22].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:22].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:22].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:22]."
       }
     },
     {
@@ -438,7 +746,21 @@
         "ru_abuadel": "Перевод айята [40:23] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:23] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:23] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:23］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:23］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:23] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:23] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:23] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:23] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:23]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:23] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:23].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:23] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:23].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:23].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:23].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:23]."
       }
     },
     {
@@ -457,7 +779,21 @@
         "ru_abuadel": "Перевод айята [40:24] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:24] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:24] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:24］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:24］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:24] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:24] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:24] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:24] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:24]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:24] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:24].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:24] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:24].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:24].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:24].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:24]."
       }
     },
     {
@@ -476,7 +812,21 @@
         "ru_abuadel": "Перевод айята [40:25] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:25] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:25] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:25］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:25］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:25] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:25] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:25] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:25] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:25]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:25] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:25].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:25] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:25].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:25].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:25].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:25]."
       }
     },
     {
@@ -495,7 +845,21 @@
         "ru_abuadel": "Перевод айята [40:26] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:26] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:26] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:26］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:26］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:26] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:26] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:26] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:26] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:26]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:26] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:26].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:26] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:26].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:26].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:26].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:26]."
       }
     },
     {
@@ -514,7 +878,21 @@
         "ru_abuadel": "Перевод айята [40:27] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:27] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:27] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:27］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:27］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:27] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:27] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:27] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:27] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:27]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:27] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:27].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:27] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:27].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:27].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:27].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:27]."
       }
     },
     {
@@ -533,7 +911,21 @@
         "ru_abuadel": "Перевод айята [40:28] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:28] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:28] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:28］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:28］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:28] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:28] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:28] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:28] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:28]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:28] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:28].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:28] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:28].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:28].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:28].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:28]."
       }
     },
     {
@@ -552,7 +944,21 @@
         "ru_abuadel": "Перевод айята [40:29] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:29] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:29] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:29］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:29］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:29] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:29] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:29] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:29] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:29]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:29] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:29].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:29] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:29].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:29].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:29].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:29]."
       }
     },
     {
@@ -571,7 +977,21 @@
         "ru_abuadel": "Перевод айята [40:30] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:30] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:30] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:30］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:30］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:30] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:30] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:30] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:30] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:30]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:30] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:30].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:30] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:30].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:30].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:30].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:30]."
       }
     },
     {
@@ -590,7 +1010,21 @@
         "ru_abuadel": "Перевод айята [40:31] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:31] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:31] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:31］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:31］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:31] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:31] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:31] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:31] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:31]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:31] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:31].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:31] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:31].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:31].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:31].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:31]."
       }
     },
     {
@@ -609,7 +1043,21 @@
         "ru_abuadel": "Перевод айята [40:32] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:32] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:32] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:32］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:32］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:32] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:32] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:32] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:32] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:32]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:32] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:32].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:32] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:32].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:32].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:32].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:32]."
       }
     },
     {
@@ -628,7 +1076,21 @@
         "ru_abuadel": "Перевод айята [40:33] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:33] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:33] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:33］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:33］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:33] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:33] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:33] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:33] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:33]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:33] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:33].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:33] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:33].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:33].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:33].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:33]."
       }
     },
     {
@@ -647,7 +1109,21 @@
         "ru_abuadel": "Перевод айята [40:34] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:34] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:34] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:34］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:34］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:34] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:34] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:34] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:34] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:34]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:34] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:34].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:34] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:34].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:34].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:34].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:34]."
       }
     },
     {
@@ -666,7 +1142,21 @@
         "ru_abuadel": "Перевод айята [40:35] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:35] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:35] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:35］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:35］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:35] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:35] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:35] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:35] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:35]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:35] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:35].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:35] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:35].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:35].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:35].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:35]."
       }
     },
     {
@@ -685,7 +1175,21 @@
         "ru_abuadel": "Перевод айята [40:36] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:36] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:36] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:36］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:36］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:36] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:36] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:36] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:36] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:36]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:36] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:36].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:36] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:36].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:36].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:36].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:36]."
       }
     },
     {
@@ -704,7 +1208,21 @@
         "ru_abuadel": "Перевод айята [40:37] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:37] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:37] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:37］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:37］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:37] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:37] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:37] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:37] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:37]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:37] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:37].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:37] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:37].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:37].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:37].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:37]."
       }
     },
     {
@@ -723,7 +1241,21 @@
         "ru_abuadel": "Перевод айята [40:38] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:38] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:38] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:38］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:38］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:38] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:38] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:38] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:38] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:38]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:38] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:38].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:38] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:38].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:38].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:38].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:38]."
       }
     },
     {
@@ -742,7 +1274,21 @@
         "ru_abuadel": "Перевод айята [40:39] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:39] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:39] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:39］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:39］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:39] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:39] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:39] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:39] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:39]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:39] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:39].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:39] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:39].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:39].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:39].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:39]."
       }
     },
     {
@@ -761,7 +1307,21 @@
         "ru_abuadel": "Перевод айята [40:40] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:40] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:40] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:40］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:40］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:40] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:40] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:40] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:40] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:40]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:40] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:40].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:40] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:40].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:40].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:40].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:40]."
       }
     },
     {
@@ -780,7 +1340,21 @@
         "ru_abuadel": "Перевод айята [40:41] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:41] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:41] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:41］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:41］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:41] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:41] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:41] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:41] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:41]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:41] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:41].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:41] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:41].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:41].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:41].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:41]."
       }
     },
     {
@@ -799,7 +1373,21 @@
         "ru_abuadel": "Перевод айята [40:42] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:42] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:42] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:42］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:42］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:42] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:42] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:42] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:42] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:42]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:42] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:42].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:42] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:42].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:42].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:42].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:42]."
       }
     },
     {
@@ -818,7 +1406,21 @@
         "ru_abuadel": "Перевод айята [40:43] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:43] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:43] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:43］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:43］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:43] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:43] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:43] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:43] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:43]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:43] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:43].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:43] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:43].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:43].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:43].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:43]."
       }
     },
     {
@@ -837,7 +1439,21 @@
         "ru_abuadel": "Перевод айята [40:44] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:44] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:44] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:44］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:44］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:44] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:44] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:44] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:44] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:44]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:44] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:44].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:44] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:44].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:44].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:44].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:44]."
       }
     },
     {
@@ -856,7 +1472,21 @@
         "ru_abuadel": "Перевод айята [40:45] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:45] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:45] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:45］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:45］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:45] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:45] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:45] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:45] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:45]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:45] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:45].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:45] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:45].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:45].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:45].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:45]."
       }
     },
     {
@@ -875,7 +1505,21 @@
         "ru_abuadel": "Перевод айята [40:46] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:46] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:46] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:46］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:46］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:46] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:46] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:46] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:46] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:46]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:46] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:46].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:46] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:46].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:46].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:46].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:46]."
       }
     },
     {
@@ -894,7 +1538,21 @@
         "ru_abuadel": "Перевод айята [40:47] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:47] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:47] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:47］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:47］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:47] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:47] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:47] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:47] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:47]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:47] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:47].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:47] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:47].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:47].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:47].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:47]."
       }
     },
     {
@@ -913,7 +1571,21 @@
         "ru_abuadel": "Перевод айята [40:48] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:48] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:48] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:48］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:48］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:48] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:48] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:48] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:48] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:48]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:48] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:48].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:48] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:48].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:48].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:48].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:48]."
       }
     },
     {
@@ -932,7 +1604,21 @@
         "ru_abuadel": "Перевод айята [40:49] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:49] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:49] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:49］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:49］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:49] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:49] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:49] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:49] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:49]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:49] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:49].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:49] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:49].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:49].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:49].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:49]."
       }
     },
     {
@@ -951,7 +1637,21 @@
         "ru_abuadel": "Перевод айята [40:50] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:50] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:50] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:50］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:50］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:50] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:50] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:50] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:50] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:50]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:50] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:50].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:50] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:50].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:50].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:50].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:50]."
       }
     },
     {
@@ -970,7 +1670,21 @@
         "ru_abuadel": "Перевод айята [40:51] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:51] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:51] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:51］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:51］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:51] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:51] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:51] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:51] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:51]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:51] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:51].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:51] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:51].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:51].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:51].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:51]."
       }
     },
     {
@@ -989,7 +1703,21 @@
         "ru_abuadel": "Перевод айята [40:52] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:52] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:52] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:52］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:52］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:52] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:52] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:52] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:52] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:52]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:52] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:52].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:52] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:52].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:52].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:52].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:52]."
       }
     },
     {
@@ -1008,7 +1736,21 @@
         "ru_abuadel": "Перевод айята [40:53] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:53] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:53] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:53］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:53］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:53] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:53] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:53] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:53] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:53]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:53] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:53].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:53] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:53].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:53].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:53].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:53]."
       }
     },
     {
@@ -1027,7 +1769,21 @@
         "ru_abuadel": "Перевод айята [40:54] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:54] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:54] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:54］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:54］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:54] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:54] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:54] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:54] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:54]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:54] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:54].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:54] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:54].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:54].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:54].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:54]."
       }
     },
     {
@@ -1046,7 +1802,21 @@
         "ru_abuadel": "Перевод айята [40:55] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:55] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:55] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:55］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:55］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:55] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:55] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:55] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:55] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:55]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:55] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:55].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:55] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:55].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:55].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:55].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:55]."
       }
     },
     {
@@ -1065,7 +1835,21 @@
         "ru_abuadel": "Перевод айята [40:56] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:56] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:56] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:56］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:56］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:56] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:56] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:56] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:56] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:56]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:56] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:56].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:56] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:56].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:56].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:56].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:56]."
       }
     },
     {
@@ -1084,7 +1868,21 @@
         "ru_abuadel": "Перевод айята [40:57] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:57] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:57] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:57］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:57］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:57] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:57] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:57] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:57] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:57]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:57] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:57].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:57] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:57].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:57].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:57].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:57]."
       }
     },
     {
@@ -1103,7 +1901,21 @@
         "ru_abuadel": "Перевод айята [40:58] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:58] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:58] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:58］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:58］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:58] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:58] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:58] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:58] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:58]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:58] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:58].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:58] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:58].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:58].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:58].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:58]."
       }
     },
     {
@@ -1122,7 +1934,21 @@
         "ru_abuadel": "Перевод айята [40:59] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:59] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:59] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:59］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:59］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:59] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:59] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:59] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:59] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:59]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:59] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:59].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:59] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:59].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:59].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:59].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:59]."
       }
     },
     {
@@ -1141,7 +1967,21 @@
         "ru_abuadel": "Перевод айята [40:60] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:60] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:60] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:60］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:60］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:60] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:60] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:60] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:60] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:60]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:60] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:60].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:60] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:60].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:60].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:60].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:60]."
       }
     },
     {
@@ -1160,7 +2000,21 @@
         "ru_abuadel": "Перевод айята [40:61] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:61] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:61] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:61］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:61］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:61] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:61] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:61] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:61] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:61]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:61] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:61].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:61] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:61].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:61].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:61].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:61]."
       }
     },
     {
@@ -1179,7 +2033,21 @@
         "ru_abuadel": "Перевод айята [40:62] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:62] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:62] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:62］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:62］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:62] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:62] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:62] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:62] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:62]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:62] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:62].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:62] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:62].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:62].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:62].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:62]."
       }
     },
     {
@@ -1198,7 +2066,21 @@
         "ru_abuadel": "Перевод айята [40:63] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:63] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:63] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:63］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:63］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:63] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:63] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:63] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:63] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:63]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:63] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:63].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:63] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:63].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:63].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:63].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:63]."
       }
     },
     {
@@ -1217,7 +2099,21 @@
         "ru_abuadel": "Перевод айята [40:64] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:64] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:64] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:64］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:64］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:64] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:64] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:64] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:64] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:64]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:64] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:64].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:64] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:64].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:64].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:64].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:64]."
       }
     },
     {
@@ -1236,7 +2132,21 @@
         "ru_abuadel": "Перевод айята [40:65] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:65] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:65] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:65］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:65］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:65] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:65] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:65] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:65] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:65]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:65] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:65].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:65] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:65].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:65].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:65].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:65]."
       }
     },
     {
@@ -1255,7 +2165,21 @@
         "ru_abuadel": "Перевод айята [40:66] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:66] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:66] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:66］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:66］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:66] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:66] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:66] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:66] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:66]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:66] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:66].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:66] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:66].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:66].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:66].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:66]."
       }
     },
     {
@@ -1274,7 +2198,21 @@
         "ru_abuadel": "Перевод айята [40:67] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:67] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:67] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:67］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:67］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:67] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:67] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:67] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:67] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:67]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:67] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:67].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:67] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:67].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:67].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:67].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:67]."
       }
     },
     {
@@ -1293,7 +2231,21 @@
         "ru_abuadel": "Перевод айята [40:68] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:68] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:68] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:68］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:68］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:68] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:68] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:68] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:68] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:68]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:68] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:68].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:68] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:68].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:68].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:68].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:68]."
       }
     },
     {
@@ -1312,7 +2264,21 @@
         "ru_abuadel": "Перевод айята [40:69] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:69] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:69] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:69］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:69］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:69] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:69] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:69] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:69] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:69]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:69] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:69].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:69] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:69].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:69].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:69].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:69]."
       }
     },
     {
@@ -1331,7 +2297,21 @@
         "ru_abuadel": "Перевод айята [40:70] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:70] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:70] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:70］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:70］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:70] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:70] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:70] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:70] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:70]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:70] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:70].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:70] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:70].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:70].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:70].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:70]."
       }
     },
     {
@@ -1350,7 +2330,21 @@
         "ru_abuadel": "Перевод айята [40:71] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:71] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:71] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:71］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:71］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:71] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:71] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:71] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:71] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:71]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:71] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:71].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:71] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:71].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:71].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:71].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:71]."
       }
     },
     {
@@ -1369,7 +2363,21 @@
         "ru_abuadel": "Перевод айята [40:72] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:72] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:72] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:72］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:72］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:72] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:72] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:72] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:72] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:72]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:72] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:72].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:72] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:72].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:72].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:72].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:72]."
       }
     },
     {
@@ -1388,7 +2396,21 @@
         "ru_abuadel": "Перевод айята [40:73] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:73] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:73] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:73］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:73］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:73] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:73] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:73] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:73] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:73]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:73] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:73].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:73] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:73].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:73].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:73].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:73]."
       }
     },
     {
@@ -1407,7 +2429,21 @@
         "ru_abuadel": "Перевод айята [40:74] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:74] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:74] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:74］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:74］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:74] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:74] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:74] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:74] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:74]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:74] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:74].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:74] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:74].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:74].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:74].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:74]."
       }
     },
     {
@@ -1426,7 +2462,21 @@
         "ru_abuadel": "Перевод айята [40:75] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:75] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:75] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:75］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:75］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:75] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:75] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:75] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:75] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:75]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:75] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:75].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:75] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:75].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:75].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:75].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:75]."
       }
     },
     {
@@ -1445,7 +2495,21 @@
         "ru_abuadel": "Перевод айята [40:76] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:76] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:76] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:76］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:76］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:76] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:76] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:76] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:76] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:76]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:76] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:76].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:76] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:76].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:76].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:76].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:76]."
       }
     },
     {
@@ -1464,7 +2528,21 @@
         "ru_abuadel": "Перевод айята [40:77] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:77] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:77] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:77］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:77］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:77] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:77] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:77] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:77] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:77]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:77] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:77].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:77] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:77].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:77].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:77].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:77]."
       }
     },
     {
@@ -1483,7 +2561,21 @@
         "ru_abuadel": "Перевод айята [40:78] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:78] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:78] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:78］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:78］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:78] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:78] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:78] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:78] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:78]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:78] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:78].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:78] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:78].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:78].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:78].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:78]."
       }
     },
     {
@@ -1502,7 +2594,21 @@
         "ru_abuadel": "Перевод айята [40:79] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:79] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:79] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:79］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:79］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:79] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:79] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:79] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:79] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:79]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:79] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:79].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:79] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:79].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:79].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:79].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:79]."
       }
     },
     {
@@ -1521,7 +2627,21 @@
         "ru_abuadel": "Перевод айята [40:80] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:80] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:80] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:80］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:80］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:80] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:80] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:80] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:80] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:80]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:80] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:80].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:80] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:80].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:80].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:80].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:80]."
       }
     },
     {
@@ -1540,7 +2660,21 @@
         "ru_abuadel": "Перевод айята [40:81] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:81] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:81] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:81］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:81］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:81] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:81] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:81] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:81] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:81]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:81] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:81].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:81] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:81].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:81].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:81].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:81]."
       }
     },
     {
@@ -1559,7 +2693,21 @@
         "ru_abuadel": "Перевод айята [40:82] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:82] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:82] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:82］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:82］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:82] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:82] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:82] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:82] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:82]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:82] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:82].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:82] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:82].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:82].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:82].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:82]."
       }
     },
     {
@@ -1578,7 +2726,21 @@
         "ru_abuadel": "Перевод айята [40:83] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:83] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:83] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:83］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:83］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:83] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:83] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:83] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:83] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:83]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:83] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:83].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:83] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:83].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:83].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:83].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:83]."
       }
     },
     {
@@ -1597,7 +2759,21 @@
         "ru_abuadel": "Перевод айята [40:84] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:84] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:84] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:84］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:84］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:84] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:84] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:84] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:84] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:84]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:84] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:84].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:84] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:84].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:84].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:84].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:84]."
       }
     },
     {
@@ -1616,7 +2792,21 @@
         "ru_abuadel": "Перевод айята [40:85] на русский язык (Абу Адель).",
         "tr_diyanet": "[40:85] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [40:85] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［40:85］ 马坚 译文"
+        "zh_jian": "真主启示 ［40:85］ 马坚 译文",
+        "it_piccardo": "Traduzione di [40:85] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [40:85] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [40:85] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [40:85] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [40:85]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [40:85] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [40:85].",
+        "ar_jalalayn": "تفسير الجلالين للآية [40:85] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [40:85].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [40:85].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [40:85].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [40:85]."
       }
     }
   ],

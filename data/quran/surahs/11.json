@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T02:06:49.444Z",
+  "generatedAt": "2026-05-23T02:33:24.455Z",
   "surahNumber": 11,
   "ayahCount": 123,
   "ayahs": [
@@ -20,7 +20,21 @@
         "ru_abuadel": "Перевод айята [11:1] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:1] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:1] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:1］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:1]."
       }
     },
     {
@@ -39,7 +53,21 @@
         "ru_abuadel": "Перевод айята [11:2] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:2] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:2] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:2］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:2]."
       }
     },
     {
@@ -58,7 +86,21 @@
         "ru_abuadel": "Перевод айята [11:3] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:3] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:3] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:3］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:3]."
       }
     },
     {
@@ -77,7 +119,21 @@
         "ru_abuadel": "Перевод айята [11:4] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:4] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:4] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:4］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:4]."
       }
     },
     {
@@ -96,7 +152,21 @@
         "ru_abuadel": "Перевод айята [11:5] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:5] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:5] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:5］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:5]."
       }
     },
     {
@@ -115,7 +185,21 @@
         "ru_abuadel": "Перевод айята [11:6] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:6] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:6] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:6］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:6]."
       }
     },
     {
@@ -134,7 +218,21 @@
         "ru_abuadel": "Перевод айята [11:7] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:7] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:7] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:7］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:7]."
       }
     },
     {
@@ -153,7 +251,21 @@
         "ru_abuadel": "Перевод айята [11:8] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:8] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:8] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:8］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:8]."
       }
     },
     {
@@ -172,7 +284,21 @@
         "ru_abuadel": "Перевод айята [11:9] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:9] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:9] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:9］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:9]."
       }
     },
     {
@@ -191,7 +317,21 @@
         "ru_abuadel": "Перевод айята [11:10] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:10] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:10] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:10］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:10]."
       }
     },
     {
@@ -210,7 +350,21 @@
         "ru_abuadel": "Перевод айята [11:11] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:11] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:11] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:11］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:11]."
       }
     },
     {
@@ -229,7 +383,21 @@
         "ru_abuadel": "Перевод айята [11:12] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:12] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:12] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:12］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:12]."
       }
     },
     {
@@ -248,7 +416,21 @@
         "ru_abuadel": "Перевод айята [11:13] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:13] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:13] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:13］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:13]."
       }
     },
     {
@@ -267,7 +449,21 @@
         "ru_abuadel": "Перевод айята [11:14] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:14] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:14] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:14］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:14]."
       }
     },
     {
@@ -286,7 +482,21 @@
         "ru_abuadel": "Перевод айята [11:15] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:15] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:15] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:15］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:15]."
       }
     },
     {
@@ -305,7 +515,21 @@
         "ru_abuadel": "Перевод айята [11:16] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:16] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:16] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:16］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:16]."
       }
     },
     {
@@ -324,7 +548,21 @@
         "ru_abuadel": "Перевод айята [11:17] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:17] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:17] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:17］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:17]."
       }
     },
     {
@@ -343,7 +581,21 @@
         "ru_abuadel": "Перевод айята [11:18] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:18] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:18] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:18］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:18]."
       }
     },
     {
@@ -362,7 +614,21 @@
         "ru_abuadel": "Перевод айята [11:19] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:19] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:19] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:19］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:19]."
       }
     },
     {
@@ -381,7 +647,21 @@
         "ru_abuadel": "Перевод айята [11:20] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:20] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:20] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:20］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:20]."
       }
     },
     {
@@ -400,7 +680,21 @@
         "ru_abuadel": "Перевод айята [11:21] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:21] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:21] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:21］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:21］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:21] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:21] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:21] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:21] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:21]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:21] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:21].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:21] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:21].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:21].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:21].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:21]."
       }
     },
     {
@@ -419,7 +713,21 @@
         "ru_abuadel": "Перевод айята [11:22] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:22] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:22] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:22］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:22］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:22] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:22] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:22] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:22] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:22]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:22] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:22].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:22] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:22].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:22].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:22].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:22]."
       }
     },
     {
@@ -438,7 +746,21 @@
         "ru_abuadel": "Перевод айята [11:23] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:23] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:23] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:23］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:23］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:23] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:23] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:23] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:23] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:23]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:23] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:23].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:23] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:23].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:23].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:23].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:23]."
       }
     },
     {
@@ -457,7 +779,21 @@
         "ru_abuadel": "Перевод айята [11:24] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:24] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:24] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:24］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:24］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:24] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:24] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:24] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:24] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:24]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:24] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:24].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:24] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:24].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:24].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:24].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:24]."
       }
     },
     {
@@ -476,7 +812,21 @@
         "ru_abuadel": "Перевод айята [11:25] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:25] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:25] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:25］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:25］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:25] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:25] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:25] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:25] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:25]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:25] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:25].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:25] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:25].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:25].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:25].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:25]."
       }
     },
     {
@@ -495,7 +845,21 @@
         "ru_abuadel": "Перевод айята [11:26] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:26] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:26] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:26］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:26］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:26] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:26] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:26] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:26] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:26]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:26] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:26].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:26] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:26].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:26].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:26].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:26]."
       }
     },
     {
@@ -514,7 +878,21 @@
         "ru_abuadel": "Перевод айята [11:27] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:27] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:27] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:27］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:27］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:27] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:27] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:27] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:27] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:27]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:27] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:27].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:27] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:27].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:27].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:27].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:27]."
       }
     },
     {
@@ -533,7 +911,21 @@
         "ru_abuadel": "Перевод айята [11:28] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:28] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:28] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:28］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:28］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:28] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:28] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:28] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:28] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:28]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:28] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:28].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:28] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:28].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:28].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:28].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:28]."
       }
     },
     {
@@ -552,7 +944,21 @@
         "ru_abuadel": "Перевод айята [11:29] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:29] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:29] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:29］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:29］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:29] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:29] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:29] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:29] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:29]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:29] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:29].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:29] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:29].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:29].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:29].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:29]."
       }
     },
     {
@@ -571,7 +977,21 @@
         "ru_abuadel": "Перевод айята [11:30] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:30] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:30] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:30］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:30］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:30] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:30] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:30] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:30] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:30]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:30] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:30].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:30] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:30].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:30].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:30].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:30]."
       }
     },
     {
@@ -590,7 +1010,21 @@
         "ru_abuadel": "Перевод айята [11:31] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:31] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:31] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:31］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:31］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:31] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:31] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:31] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:31] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:31]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:31] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:31].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:31] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:31].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:31].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:31].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:31]."
       }
     },
     {
@@ -609,7 +1043,21 @@
         "ru_abuadel": "Перевод айята [11:32] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:32] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:32] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:32］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:32］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:32] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:32] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:32] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:32] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:32]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:32] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:32].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:32] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:32].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:32].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:32].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:32]."
       }
     },
     {
@@ -628,7 +1076,21 @@
         "ru_abuadel": "Перевод айята [11:33] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:33] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:33] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:33］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:33］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:33] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:33] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:33] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:33] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:33]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:33] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:33].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:33] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:33].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:33].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:33].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:33]."
       }
     },
     {
@@ -647,7 +1109,21 @@
         "ru_abuadel": "Перевод айята [11:34] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:34] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:34] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:34］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:34］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:34] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:34] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:34] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:34] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:34]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:34] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:34].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:34] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:34].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:34].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:34].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:34]."
       }
     },
     {
@@ -666,7 +1142,21 @@
         "ru_abuadel": "Перевод айята [11:35] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:35] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:35] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:35］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:35］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:35] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:35] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:35] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:35] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:35]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:35] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:35].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:35] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:35].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:35].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:35].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:35]."
       }
     },
     {
@@ -685,7 +1175,21 @@
         "ru_abuadel": "Перевод айята [11:36] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:36] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:36] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:36］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:36］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:36] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:36] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:36] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:36] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:36]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:36] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:36].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:36] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:36].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:36].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:36].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:36]."
       }
     },
     {
@@ -704,7 +1208,21 @@
         "ru_abuadel": "Перевод айята [11:37] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:37] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:37] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:37］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:37］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:37] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:37] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:37] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:37] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:37]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:37] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:37].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:37] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:37].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:37].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:37].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:37]."
       }
     },
     {
@@ -723,7 +1241,21 @@
         "ru_abuadel": "Перевод айята [11:38] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:38] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:38] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:38］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:38］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:38] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:38] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:38] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:38] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:38]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:38] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:38].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:38] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:38].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:38].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:38].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:38]."
       }
     },
     {
@@ -742,7 +1274,21 @@
         "ru_abuadel": "Перевод айята [11:39] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:39] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:39] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:39］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:39］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:39] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:39] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:39] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:39] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:39]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:39] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:39].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:39] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:39].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:39].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:39].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:39]."
       }
     },
     {
@@ -761,7 +1307,21 @@
         "ru_abuadel": "Перевод айята [11:40] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:40] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:40] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:40］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:40］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:40] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:40] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:40] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:40] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:40]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:40] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:40].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:40] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:40].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:40].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:40].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:40]."
       }
     },
     {
@@ -780,7 +1340,21 @@
         "ru_abuadel": "Перевод айята [11:41] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:41] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:41] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:41］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:41］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:41] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:41] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:41] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:41] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:41]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:41] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:41].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:41] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:41].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:41].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:41].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:41]."
       }
     },
     {
@@ -799,7 +1373,21 @@
         "ru_abuadel": "Перевод айята [11:42] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:42] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:42] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:42］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:42］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:42] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:42] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:42] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:42] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:42]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:42] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:42].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:42] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:42].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:42].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:42].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:42]."
       }
     },
     {
@@ -818,7 +1406,21 @@
         "ru_abuadel": "Перевод айята [11:43] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:43] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:43] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:43］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:43］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:43] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:43] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:43] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:43] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:43]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:43] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:43].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:43] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:43].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:43].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:43].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:43]."
       }
     },
     {
@@ -837,7 +1439,21 @@
         "ru_abuadel": "Перевод айята [11:44] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:44] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:44] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:44］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:44］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:44] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:44] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:44] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:44] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:44]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:44] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:44].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:44] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:44].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:44].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:44].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:44]."
       }
     },
     {
@@ -856,7 +1472,21 @@
         "ru_abuadel": "Перевод айята [11:45] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:45] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:45] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:45］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:45］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:45] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:45] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:45] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:45] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:45]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:45] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:45].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:45] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:45].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:45].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:45].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:45]."
       }
     },
     {
@@ -875,7 +1505,21 @@
         "ru_abuadel": "Перевод айята [11:46] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:46] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:46] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:46］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:46］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:46] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:46] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:46] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:46] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:46]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:46] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:46].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:46] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:46].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:46].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:46].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:46]."
       }
     },
     {
@@ -894,7 +1538,21 @@
         "ru_abuadel": "Перевод айята [11:47] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:47] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:47] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:47］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:47］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:47] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:47] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:47] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:47] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:47]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:47] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:47].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:47] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:47].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:47].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:47].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:47]."
       }
     },
     {
@@ -913,7 +1571,21 @@
         "ru_abuadel": "Перевод айята [11:48] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:48] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:48] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:48］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:48］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:48] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:48] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:48] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:48] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:48]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:48] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:48].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:48] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:48].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:48].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:48].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:48]."
       }
     },
     {
@@ -932,7 +1604,21 @@
         "ru_abuadel": "Перевод айята [11:49] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:49] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:49] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:49］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:49］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:49] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:49] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:49] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:49] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:49]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:49] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:49].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:49] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:49].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:49].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:49].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:49]."
       }
     },
     {
@@ -951,7 +1637,21 @@
         "ru_abuadel": "Перевод айята [11:50] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:50] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:50] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:50］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:50］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:50] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:50] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:50] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:50] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:50]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:50] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:50].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:50] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:50].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:50].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:50].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:50]."
       }
     },
     {
@@ -970,7 +1670,21 @@
         "ru_abuadel": "Перевод айята [11:51] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:51] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:51] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:51］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:51］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:51] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:51] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:51] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:51] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:51]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:51] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:51].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:51] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:51].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:51].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:51].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:51]."
       }
     },
     {
@@ -989,7 +1703,21 @@
         "ru_abuadel": "Перевод айята [11:52] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:52] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:52] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:52］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:52］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:52] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:52] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:52] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:52] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:52]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:52] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:52].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:52] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:52].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:52].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:52].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:52]."
       }
     },
     {
@@ -1008,7 +1736,21 @@
         "ru_abuadel": "Перевод айята [11:53] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:53] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:53] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:53］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:53］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:53] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:53] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:53] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:53] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:53]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:53] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:53].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:53] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:53].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:53].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:53].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:53]."
       }
     },
     {
@@ -1027,7 +1769,21 @@
         "ru_abuadel": "Перевод айята [11:54] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:54] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:54] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:54］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:54］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:54] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:54] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:54] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:54] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:54]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:54] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:54].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:54] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:54].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:54].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:54].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:54]."
       }
     },
     {
@@ -1046,7 +1802,21 @@
         "ru_abuadel": "Перевод айята [11:55] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:55] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:55] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:55］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:55］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:55] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:55] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:55] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:55] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:55]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:55] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:55].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:55] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:55].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:55].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:55].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:55]."
       }
     },
     {
@@ -1065,7 +1835,21 @@
         "ru_abuadel": "Перевод айята [11:56] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:56] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:56] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:56］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:56］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:56] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:56] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:56] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:56] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:56]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:56] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:56].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:56] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:56].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:56].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:56].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:56]."
       }
     },
     {
@@ -1084,7 +1868,21 @@
         "ru_abuadel": "Перевод айята [11:57] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:57] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:57] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:57］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:57］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:57] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:57] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:57] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:57] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:57]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:57] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:57].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:57] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:57].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:57].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:57].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:57]."
       }
     },
     {
@@ -1103,7 +1901,21 @@
         "ru_abuadel": "Перевод айята [11:58] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:58] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:58] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:58］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:58］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:58] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:58] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:58] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:58] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:58]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:58] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:58].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:58] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:58].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:58].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:58].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:58]."
       }
     },
     {
@@ -1122,7 +1934,21 @@
         "ru_abuadel": "Перевод айята [11:59] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:59] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:59] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:59］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:59］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:59] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:59] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:59] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:59] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:59]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:59] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:59].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:59] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:59].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:59].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:59].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:59]."
       }
     },
     {
@@ -1141,7 +1967,21 @@
         "ru_abuadel": "Перевод айята [11:60] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:60] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:60] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:60］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:60］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:60] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:60] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:60] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:60] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:60]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:60] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:60].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:60] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:60].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:60].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:60].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:60]."
       }
     },
     {
@@ -1160,7 +2000,21 @@
         "ru_abuadel": "Перевод айята [11:61] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:61] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:61] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:61］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:61］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:61] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:61] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:61] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:61] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:61]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:61] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:61].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:61] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:61].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:61].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:61].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:61]."
       }
     },
     {
@@ -1179,7 +2033,21 @@
         "ru_abuadel": "Перевод айята [11:62] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:62] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:62] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:62］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:62］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:62] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:62] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:62] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:62] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:62]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:62] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:62].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:62] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:62].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:62].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:62].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:62]."
       }
     },
     {
@@ -1198,7 +2066,21 @@
         "ru_abuadel": "Перевод айята [11:63] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:63] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:63] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:63］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:63］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:63] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:63] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:63] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:63] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:63]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:63] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:63].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:63] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:63].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:63].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:63].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:63]."
       }
     },
     {
@@ -1217,7 +2099,21 @@
         "ru_abuadel": "Перевод айята [11:64] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:64] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:64] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:64］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:64］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:64] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:64] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:64] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:64] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:64]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:64] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:64].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:64] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:64].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:64].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:64].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:64]."
       }
     },
     {
@@ -1236,7 +2132,21 @@
         "ru_abuadel": "Перевод айята [11:65] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:65] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:65] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:65］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:65］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:65] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:65] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:65] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:65] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:65]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:65] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:65].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:65] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:65].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:65].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:65].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:65]."
       }
     },
     {
@@ -1255,7 +2165,21 @@
         "ru_abuadel": "Перевод айята [11:66] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:66] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:66] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:66］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:66］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:66] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:66] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:66] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:66] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:66]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:66] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:66].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:66] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:66].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:66].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:66].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:66]."
       }
     },
     {
@@ -1274,7 +2198,21 @@
         "ru_abuadel": "Перевод айята [11:67] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:67] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:67] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:67］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:67］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:67] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:67] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:67] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:67] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:67]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:67] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:67].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:67] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:67].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:67].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:67].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:67]."
       }
     },
     {
@@ -1293,7 +2231,21 @@
         "ru_abuadel": "Перевод айята [11:68] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:68] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:68] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:68］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:68］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:68] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:68] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:68] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:68] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:68]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:68] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:68].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:68] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:68].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:68].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:68].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:68]."
       }
     },
     {
@@ -1312,7 +2264,21 @@
         "ru_abuadel": "Перевод айята [11:69] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:69] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:69] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:69］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:69］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:69] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:69] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:69] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:69] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:69]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:69] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:69].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:69] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:69].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:69].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:69].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:69]."
       }
     },
     {
@@ -1331,7 +2297,21 @@
         "ru_abuadel": "Перевод айята [11:70] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:70] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:70] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:70］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:70］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:70] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:70] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:70] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:70] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:70]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:70] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:70].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:70] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:70].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:70].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:70].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:70]."
       }
     },
     {
@@ -1350,7 +2330,21 @@
         "ru_abuadel": "Перевод айята [11:71] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:71] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:71] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:71］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:71］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:71] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:71] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:71] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:71] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:71]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:71] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:71].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:71] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:71].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:71].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:71].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:71]."
       }
     },
     {
@@ -1369,7 +2363,21 @@
         "ru_abuadel": "Перевод айята [11:72] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:72] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:72] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:72］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:72］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:72] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:72] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:72] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:72] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:72]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:72] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:72].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:72] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:72].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:72].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:72].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:72]."
       }
     },
     {
@@ -1388,7 +2396,21 @@
         "ru_abuadel": "Перевод айята [11:73] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:73] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:73] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:73］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:73］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:73] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:73] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:73] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:73] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:73]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:73] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:73].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:73] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:73].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:73].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:73].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:73]."
       }
     },
     {
@@ -1407,7 +2429,21 @@
         "ru_abuadel": "Перевод айята [11:74] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:74] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:74] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:74］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:74］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:74] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:74] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:74] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:74] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:74]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:74] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:74].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:74] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:74].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:74].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:74].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:74]."
       }
     },
     {
@@ -1426,7 +2462,21 @@
         "ru_abuadel": "Перевод айята [11:75] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:75] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:75] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:75］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:75］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:75] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:75] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:75] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:75] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:75]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:75] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:75].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:75] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:75].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:75].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:75].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:75]."
       }
     },
     {
@@ -1445,7 +2495,21 @@
         "ru_abuadel": "Перевод айята [11:76] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:76] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:76] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:76］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:76］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:76] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:76] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:76] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:76] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:76]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:76] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:76].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:76] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:76].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:76].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:76].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:76]."
       }
     },
     {
@@ -1464,7 +2528,21 @@
         "ru_abuadel": "Перевод айята [11:77] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:77] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:77] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:77］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:77］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:77] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:77] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:77] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:77] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:77]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:77] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:77].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:77] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:77].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:77].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:77].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:77]."
       }
     },
     {
@@ -1483,7 +2561,21 @@
         "ru_abuadel": "Перевод айята [11:78] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:78] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:78] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:78］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:78］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:78] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:78] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:78] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:78] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:78]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:78] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:78].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:78] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:78].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:78].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:78].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:78]."
       }
     },
     {
@@ -1502,7 +2594,21 @@
         "ru_abuadel": "Перевод айята [11:79] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:79] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:79] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:79］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:79］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:79] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:79] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:79] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:79] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:79]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:79] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:79].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:79] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:79].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:79].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:79].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:79]."
       }
     },
     {
@@ -1521,7 +2627,21 @@
         "ru_abuadel": "Перевод айята [11:80] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:80] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:80] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:80］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:80］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:80] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:80] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:80] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:80] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:80]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:80] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:80].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:80] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:80].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:80].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:80].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:80]."
       }
     },
     {
@@ -1540,7 +2660,21 @@
         "ru_abuadel": "Перевод айята [11:81] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:81] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:81] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:81］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:81］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:81] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:81] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:81] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:81] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:81]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:81] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:81].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:81] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:81].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:81].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:81].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:81]."
       }
     },
     {
@@ -1559,7 +2693,21 @@
         "ru_abuadel": "Перевод айята [11:82] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:82] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:82] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:82］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:82］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:82] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:82] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:82] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:82] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:82]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:82] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:82].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:82] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:82].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:82].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:82].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:82]."
       }
     },
     {
@@ -1578,7 +2726,21 @@
         "ru_abuadel": "Перевод айята [11:83] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:83] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:83] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:83］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:83］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:83] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:83] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:83] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:83] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:83]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:83] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:83].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:83] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:83].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:83].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:83].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:83]."
       }
     },
     {
@@ -1597,7 +2759,21 @@
         "ru_abuadel": "Перевод айята [11:84] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:84] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:84] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:84］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:84］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:84] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:84] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:84] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:84] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:84]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:84] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:84].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:84] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:84].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:84].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:84].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:84]."
       }
     },
     {
@@ -1616,7 +2792,21 @@
         "ru_abuadel": "Перевод айята [11:85] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:85] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:85] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:85］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:85］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:85] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:85] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:85] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:85] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:85]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:85] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:85].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:85] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:85].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:85].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:85].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:85]."
       }
     },
     {
@@ -1635,7 +2825,21 @@
         "ru_abuadel": "Перевод айята [11:86] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:86] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:86] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:86］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:86］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:86] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:86] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:86] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:86] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:86]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:86] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:86].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:86] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:86].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:86].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:86].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:86]."
       }
     },
     {
@@ -1654,7 +2858,21 @@
         "ru_abuadel": "Перевод айята [11:87] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:87] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:87] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:87］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:87］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:87] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:87] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:87] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:87] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:87]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:87] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:87].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:87] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:87].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:87].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:87].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:87]."
       }
     },
     {
@@ -1673,7 +2891,21 @@
         "ru_abuadel": "Перевод айята [11:88] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:88] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:88] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:88］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:88］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:88] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:88] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:88] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:88] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:88]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:88] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:88].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:88] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:88].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:88].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:88].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:88]."
       }
     },
     {
@@ -1692,7 +2924,21 @@
         "ru_abuadel": "Перевод айята [11:89] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:89] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:89] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:89］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:89］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:89] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:89] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:89] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:89] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:89]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:89] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:89].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:89] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:89].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:89].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:89].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:89]."
       }
     },
     {
@@ -1711,7 +2957,21 @@
         "ru_abuadel": "Перевод айята [11:90] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:90] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:90] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:90］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:90］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:90] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:90] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:90] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:90] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:90]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:90] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:90].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:90] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:90].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:90].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:90].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:90]."
       }
     },
     {
@@ -1730,7 +2990,21 @@
         "ru_abuadel": "Перевод айята [11:91] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:91] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:91] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:91］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:91］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:91] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:91] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:91] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:91] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:91]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:91] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:91].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:91] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:91].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:91].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:91].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:91]."
       }
     },
     {
@@ -1749,7 +3023,21 @@
         "ru_abuadel": "Перевод айята [11:92] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:92] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:92] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:92］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:92］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:92] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:92] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:92] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:92] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:92]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:92] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:92].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:92] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:92].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:92].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:92].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:92]."
       }
     },
     {
@@ -1768,7 +3056,21 @@
         "ru_abuadel": "Перевод айята [11:93] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:93] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:93] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:93］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:93］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:93] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:93] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:93] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:93] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:93]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:93] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:93].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:93] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:93].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:93].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:93].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:93]."
       }
     },
     {
@@ -1787,7 +3089,21 @@
         "ru_abuadel": "Перевод айята [11:94] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:94] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:94] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:94］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:94］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:94] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:94] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:94] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:94] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:94]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:94] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:94].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:94] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:94].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:94].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:94].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:94]."
       }
     },
     {
@@ -1806,7 +3122,21 @@
         "ru_abuadel": "Перевод айята [11:95] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:95] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:95] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:95］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:95］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:95] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:95] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:95] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:95] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:95]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:95] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:95].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:95] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:95].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:95].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:95].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:95]."
       }
     },
     {
@@ -1825,7 +3155,21 @@
         "ru_abuadel": "Перевод айята [11:96] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:96] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:96] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:96］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:96］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:96] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:96] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:96] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:96] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:96]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:96] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:96].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:96] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:96].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:96].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:96].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:96]."
       }
     },
     {
@@ -1844,7 +3188,21 @@
         "ru_abuadel": "Перевод айята [11:97] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:97] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:97] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:97］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:97］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:97] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:97] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:97] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:97] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:97]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:97] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:97].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:97] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:97].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:97].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:97].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:97]."
       }
     },
     {
@@ -1863,7 +3221,21 @@
         "ru_abuadel": "Перевод айята [11:98] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:98] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:98] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:98］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:98］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:98] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:98] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:98] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:98] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:98]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:98] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:98].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:98] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:98].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:98].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:98].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:98]."
       }
     },
     {
@@ -1882,7 +3254,21 @@
         "ru_abuadel": "Перевод айята [11:99] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:99] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:99] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:99］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:99］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:99] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:99] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:99] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:99] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:99]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:99] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:99].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:99] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:99].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:99].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:99].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:99]."
       }
     },
     {
@@ -1901,7 +3287,21 @@
         "ru_abuadel": "Перевод айята [11:100] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:100] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:100] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:100］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:100］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:100] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:100] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:100] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:100] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:100]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:100] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:100].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:100] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:100].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:100].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:100].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:100]."
       }
     },
     {
@@ -1920,7 +3320,21 @@
         "ru_abuadel": "Перевод айята [11:101] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:101] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:101] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:101］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:101］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:101] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:101] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:101] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:101] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:101]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:101] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:101].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:101] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:101].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:101].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:101].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:101]."
       }
     },
     {
@@ -1939,7 +3353,21 @@
         "ru_abuadel": "Перевод айята [11:102] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:102] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:102] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:102］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:102］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:102] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:102] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:102] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:102] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:102]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:102] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:102].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:102] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:102].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:102].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:102].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:102]."
       }
     },
     {
@@ -1958,7 +3386,21 @@
         "ru_abuadel": "Перевод айята [11:103] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:103] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:103] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:103］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:103］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:103] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:103] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:103] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:103] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:103]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:103] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:103].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:103] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:103].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:103].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:103].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:103]."
       }
     },
     {
@@ -1977,7 +3419,21 @@
         "ru_abuadel": "Перевод айята [11:104] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:104] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:104] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:104］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:104］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:104] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:104] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:104] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:104] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:104]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:104] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:104].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:104] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:104].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:104].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:104].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:104]."
       }
     },
     {
@@ -1996,7 +3452,21 @@
         "ru_abuadel": "Перевод айята [11:105] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:105] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:105] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:105］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:105］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:105] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:105] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:105] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:105] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:105]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:105] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:105].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:105] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:105].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:105].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:105].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:105]."
       }
     },
     {
@@ -2015,7 +3485,21 @@
         "ru_abuadel": "Перевод айята [11:106] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:106] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:106] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:106］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:106］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:106] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:106] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:106] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:106] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:106]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:106] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:106].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:106] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:106].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:106].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:106].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:106]."
       }
     },
     {
@@ -2034,7 +3518,21 @@
         "ru_abuadel": "Перевод айята [11:107] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:107] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:107] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:107］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:107］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:107] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:107] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:107] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:107] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:107]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:107] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:107].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:107] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:107].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:107].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:107].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:107]."
       }
     },
     {
@@ -2053,7 +3551,21 @@
         "ru_abuadel": "Перевод айята [11:108] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:108] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:108] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:108］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:108］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:108] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:108] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:108] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:108] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:108]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:108] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:108].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:108] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:108].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:108].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:108].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:108]."
       }
     },
     {
@@ -2072,7 +3584,21 @@
         "ru_abuadel": "Перевод айята [11:109] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:109] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:109] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:109］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:109］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:109] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:109] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:109] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:109] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:109]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:109] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:109].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:109] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:109].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:109].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:109].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:109]."
       }
     },
     {
@@ -2091,7 +3617,21 @@
         "ru_abuadel": "Перевод айята [11:110] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:110] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:110] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:110］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:110］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:110] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:110] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:110] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:110] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:110]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:110] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:110].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:110] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:110].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:110].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:110].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:110]."
       }
     },
     {
@@ -2110,7 +3650,21 @@
         "ru_abuadel": "Перевод айята [11:111] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:111] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:111] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:111］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:111］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:111] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:111] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:111] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:111] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:111]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:111] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:111].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:111] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:111].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:111].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:111].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:111]."
       }
     },
     {
@@ -2129,7 +3683,21 @@
         "ru_abuadel": "Перевод айята [11:112] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:112] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:112] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:112］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:112］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:112] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:112] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:112] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:112] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:112]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:112] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:112].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:112] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:112].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:112].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:112].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:112]."
       }
     },
     {
@@ -2148,7 +3716,21 @@
         "ru_abuadel": "Перевод айята [11:113] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:113] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:113] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:113］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:113］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:113] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:113] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:113] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:113] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:113]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:113] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:113].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:113] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:113].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:113].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:113].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:113]."
       }
     },
     {
@@ -2167,7 +3749,21 @@
         "ru_abuadel": "Перевод айята [11:114] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:114] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:114] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:114］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:114］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:114] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:114] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:114] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:114] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:114]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:114] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:114].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:114] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:114].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:114].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:114].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:114]."
       }
     },
     {
@@ -2186,7 +3782,21 @@
         "ru_abuadel": "Перевод айята [11:115] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:115] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:115] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:115］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:115］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:115] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:115] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:115] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:115] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:115]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:115] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:115].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:115] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:115].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:115].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:115].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:115]."
       }
     },
     {
@@ -2205,7 +3815,21 @@
         "ru_abuadel": "Перевод айята [11:116] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:116] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:116] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:116］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:116］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:116] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:116] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:116] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:116] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:116]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:116] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:116].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:116] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:116].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:116].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:116].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:116]."
       }
     },
     {
@@ -2224,7 +3848,21 @@
         "ru_abuadel": "Перевод айята [11:117] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:117] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:117] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:117］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:117］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:117] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:117] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:117] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:117] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:117]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:117] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:117].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:117] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:117].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:117].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:117].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:117]."
       }
     },
     {
@@ -2243,7 +3881,21 @@
         "ru_abuadel": "Перевод айята [11:118] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:118] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:118] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:118］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:118］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:118] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:118] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:118] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:118] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:118]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:118] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:118].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:118] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:118].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:118].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:118].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:118]."
       }
     },
     {
@@ -2262,7 +3914,21 @@
         "ru_abuadel": "Перевод айята [11:119] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:119] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:119] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:119］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:119］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:119] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:119] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:119] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:119] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:119]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:119] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:119].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:119] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:119].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:119].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:119].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:119]."
       }
     },
     {
@@ -2281,7 +3947,21 @@
         "ru_abuadel": "Перевод айята [11:120] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:120] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:120] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:120］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:120］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:120] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:120] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:120] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:120] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:120]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:120] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:120].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:120] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:120].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:120].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:120].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:120]."
       }
     },
     {
@@ -2300,7 +3980,21 @@
         "ru_abuadel": "Перевод айята [11:121] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:121] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:121] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:121］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:121］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:121] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:121] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:121] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:121] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:121]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:121] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:121].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:121] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:121].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:121].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:121].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:121]."
       }
     },
     {
@@ -2319,7 +4013,21 @@
         "ru_abuadel": "Перевод айята [11:122] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:122] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:122] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:122］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:122］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:122] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:122] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:122] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:122] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:122]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:122] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:122].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:122] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:122].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:122].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:122].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:122]."
       }
     },
     {
@@ -2338,7 +4046,21 @@
         "ru_abuadel": "Перевод айята [11:123] на русский язык (Абу Адель).",
         "tr_diyanet": "[11:123] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [11:123] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［11:123］ 马坚 译文"
+        "zh_jian": "真主启示 ［11:123］ 马坚 译文",
+        "it_piccardo": "Traduzione di [11:123] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [11:123] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [11:123] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [11:123] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [11:123]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [11:123] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [11:123].",
+        "ar_jalalayn": "تفسير الجلالين للآية [11:123] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [11:123].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [11:123].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [11:123].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [11:123]."
       }
     }
   ],

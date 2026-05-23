@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T02:06:49.452Z",
+  "generatedAt": "2026-05-23T02:33:24.467Z",
   "surahNumber": 23,
   "ayahCount": 118,
   "ayahs": [
@@ -20,7 +20,21 @@
         "ru_abuadel": "Перевод айята [23:1] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:1] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:1] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:1］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:1]."
       }
     },
     {
@@ -39,7 +53,21 @@
         "ru_abuadel": "Перевод айята [23:2] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:2] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:2] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:2］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:2]."
       }
     },
     {
@@ -58,7 +86,21 @@
         "ru_abuadel": "Перевод айята [23:3] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:3] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:3] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:3］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:3]."
       }
     },
     {
@@ -77,7 +119,21 @@
         "ru_abuadel": "Перевод айята [23:4] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:4] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:4] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:4］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:4]."
       }
     },
     {
@@ -96,7 +152,21 @@
         "ru_abuadel": "Перевод айята [23:5] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:5] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:5] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:5］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:5]."
       }
     },
     {
@@ -115,7 +185,21 @@
         "ru_abuadel": "Перевод айята [23:6] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:6] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:6] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:6］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:6]."
       }
     },
     {
@@ -134,7 +218,21 @@
         "ru_abuadel": "Перевод айята [23:7] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:7] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:7] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:7］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:7]."
       }
     },
     {
@@ -153,7 +251,21 @@
         "ru_abuadel": "Перевод айята [23:8] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:8] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:8] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:8］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:8]."
       }
     },
     {
@@ -172,7 +284,21 @@
         "ru_abuadel": "Перевод айята [23:9] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:9] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:9] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:9］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:9]."
       }
     },
     {
@@ -191,7 +317,21 @@
         "ru_abuadel": "Перевод айята [23:10] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:10] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:10] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:10］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:10]."
       }
     },
     {
@@ -210,7 +350,21 @@
         "ru_abuadel": "Перевод айята [23:11] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:11] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:11] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:11］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:11]."
       }
     },
     {
@@ -229,7 +383,21 @@
         "ru_abuadel": "Перевод айята [23:12] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:12] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:12] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:12］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:12]."
       }
     },
     {
@@ -248,7 +416,21 @@
         "ru_abuadel": "Перевод айята [23:13] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:13] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:13] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:13］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:13]."
       }
     },
     {
@@ -267,7 +449,21 @@
         "ru_abuadel": "Перевод айята [23:14] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:14] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:14] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:14］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:14]."
       }
     },
     {
@@ -286,7 +482,21 @@
         "ru_abuadel": "Перевод айята [23:15] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:15] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:15] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:15］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:15]."
       }
     },
     {
@@ -305,7 +515,21 @@
         "ru_abuadel": "Перевод айята [23:16] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:16] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:16] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:16］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:16]."
       }
     },
     {
@@ -324,7 +548,21 @@
         "ru_abuadel": "Перевод айята [23:17] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:17] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:17] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:17］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:17]."
       }
     },
     {
@@ -343,7 +581,21 @@
         "ru_abuadel": "Перевод айята [23:18] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:18] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:18] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:18］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:18]."
       }
     },
     {
@@ -362,7 +614,21 @@
         "ru_abuadel": "Перевод айята [23:19] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:19] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:19] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:19］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:19]."
       }
     },
     {
@@ -381,7 +647,21 @@
         "ru_abuadel": "Перевод айята [23:20] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:20] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:20] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:20］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:20]."
       }
     },
     {
@@ -400,7 +680,21 @@
         "ru_abuadel": "Перевод айята [23:21] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:21] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:21] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:21］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:21］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:21] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:21] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:21] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:21] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:21]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:21] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:21].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:21] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:21].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:21].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:21].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:21]."
       }
     },
     {
@@ -419,7 +713,21 @@
         "ru_abuadel": "Перевод айята [23:22] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:22] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:22] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:22］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:22］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:22] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:22] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:22] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:22] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:22]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:22] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:22].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:22] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:22].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:22].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:22].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:22]."
       }
     },
     {
@@ -438,7 +746,21 @@
         "ru_abuadel": "Перевод айята [23:23] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:23] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:23] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:23］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:23］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:23] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:23] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:23] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:23] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:23]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:23] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:23].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:23] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:23].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:23].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:23].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:23]."
       }
     },
     {
@@ -457,7 +779,21 @@
         "ru_abuadel": "Перевод айята [23:24] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:24] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:24] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:24］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:24］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:24] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:24] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:24] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:24] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:24]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:24] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:24].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:24] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:24].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:24].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:24].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:24]."
       }
     },
     {
@@ -476,7 +812,21 @@
         "ru_abuadel": "Перевод айята [23:25] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:25] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:25] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:25］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:25］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:25] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:25] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:25] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:25] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:25]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:25] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:25].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:25] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:25].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:25].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:25].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:25]."
       }
     },
     {
@@ -495,7 +845,21 @@
         "ru_abuadel": "Перевод айята [23:26] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:26] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:26] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:26］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:26］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:26] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:26] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:26] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:26] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:26]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:26] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:26].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:26] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:26].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:26].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:26].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:26]."
       }
     },
     {
@@ -514,7 +878,21 @@
         "ru_abuadel": "Перевод айята [23:27] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:27] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:27] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:27］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:27］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:27] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:27] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:27] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:27] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:27]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:27] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:27].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:27] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:27].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:27].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:27].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:27]."
       }
     },
     {
@@ -533,7 +911,21 @@
         "ru_abuadel": "Перевод айята [23:28] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:28] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:28] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:28］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:28］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:28] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:28] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:28] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:28] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:28]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:28] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:28].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:28] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:28].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:28].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:28].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:28]."
       }
     },
     {
@@ -552,7 +944,21 @@
         "ru_abuadel": "Перевод айята [23:29] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:29] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:29] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:29］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:29］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:29] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:29] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:29] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:29] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:29]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:29] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:29].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:29] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:29].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:29].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:29].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:29]."
       }
     },
     {
@@ -571,7 +977,21 @@
         "ru_abuadel": "Перевод айята [23:30] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:30] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:30] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:30］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:30］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:30] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:30] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:30] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:30] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:30]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:30] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:30].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:30] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:30].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:30].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:30].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:30]."
       }
     },
     {
@@ -590,7 +1010,21 @@
         "ru_abuadel": "Перевод айята [23:31] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:31] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:31] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:31］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:31］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:31] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:31] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:31] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:31] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:31]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:31] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:31].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:31] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:31].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:31].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:31].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:31]."
       }
     },
     {
@@ -609,7 +1043,21 @@
         "ru_abuadel": "Перевод айята [23:32] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:32] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:32] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:32］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:32］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:32] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:32] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:32] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:32] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:32]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:32] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:32].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:32] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:32].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:32].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:32].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:32]."
       }
     },
     {
@@ -628,7 +1076,21 @@
         "ru_abuadel": "Перевод айята [23:33] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:33] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:33] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:33］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:33］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:33] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:33] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:33] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:33] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:33]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:33] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:33].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:33] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:33].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:33].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:33].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:33]."
       }
     },
     {
@@ -647,7 +1109,21 @@
         "ru_abuadel": "Перевод айята [23:34] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:34] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:34] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:34］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:34］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:34] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:34] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:34] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:34] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:34]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:34] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:34].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:34] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:34].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:34].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:34].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:34]."
       }
     },
     {
@@ -666,7 +1142,21 @@
         "ru_abuadel": "Перевод айята [23:35] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:35] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:35] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:35］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:35］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:35] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:35] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:35] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:35] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:35]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:35] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:35].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:35] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:35].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:35].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:35].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:35]."
       }
     },
     {
@@ -685,7 +1175,21 @@
         "ru_abuadel": "Перевод айята [23:36] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:36] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:36] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:36］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:36］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:36] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:36] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:36] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:36] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:36]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:36] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:36].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:36] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:36].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:36].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:36].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:36]."
       }
     },
     {
@@ -704,7 +1208,21 @@
         "ru_abuadel": "Перевод айята [23:37] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:37] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:37] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:37］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:37］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:37] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:37] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:37] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:37] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:37]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:37] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:37].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:37] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:37].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:37].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:37].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:37]."
       }
     },
     {
@@ -723,7 +1241,21 @@
         "ru_abuadel": "Перевод айята [23:38] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:38] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:38] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:38］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:38］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:38] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:38] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:38] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:38] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:38]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:38] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:38].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:38] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:38].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:38].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:38].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:38]."
       }
     },
     {
@@ -742,7 +1274,21 @@
         "ru_abuadel": "Перевод айята [23:39] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:39] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:39] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:39］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:39］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:39] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:39] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:39] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:39] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:39]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:39] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:39].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:39] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:39].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:39].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:39].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:39]."
       }
     },
     {
@@ -761,7 +1307,21 @@
         "ru_abuadel": "Перевод айята [23:40] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:40] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:40] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:40］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:40］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:40] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:40] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:40] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:40] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:40]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:40] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:40].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:40] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:40].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:40].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:40].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:40]."
       }
     },
     {
@@ -780,7 +1340,21 @@
         "ru_abuadel": "Перевод айята [23:41] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:41] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:41] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:41］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:41］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:41] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:41] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:41] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:41] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:41]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:41] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:41].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:41] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:41].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:41].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:41].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:41]."
       }
     },
     {
@@ -799,7 +1373,21 @@
         "ru_abuadel": "Перевод айята [23:42] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:42] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:42] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:42］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:42］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:42] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:42] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:42] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:42] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:42]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:42] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:42].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:42] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:42].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:42].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:42].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:42]."
       }
     },
     {
@@ -818,7 +1406,21 @@
         "ru_abuadel": "Перевод айята [23:43] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:43] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:43] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:43］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:43］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:43] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:43] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:43] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:43] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:43]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:43] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:43].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:43] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:43].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:43].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:43].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:43]."
       }
     },
     {
@@ -837,7 +1439,21 @@
         "ru_abuadel": "Перевод айята [23:44] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:44] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:44] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:44］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:44］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:44] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:44] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:44] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:44] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:44]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:44] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:44].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:44] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:44].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:44].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:44].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:44]."
       }
     },
     {
@@ -856,7 +1472,21 @@
         "ru_abuadel": "Перевод айята [23:45] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:45] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:45] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:45］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:45］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:45] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:45] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:45] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:45] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:45]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:45] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:45].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:45] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:45].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:45].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:45].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:45]."
       }
     },
     {
@@ -875,7 +1505,21 @@
         "ru_abuadel": "Перевод айята [23:46] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:46] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:46] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:46］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:46］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:46] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:46] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:46] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:46] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:46]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:46] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:46].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:46] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:46].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:46].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:46].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:46]."
       }
     },
     {
@@ -894,7 +1538,21 @@
         "ru_abuadel": "Перевод айята [23:47] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:47] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:47] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:47］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:47］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:47] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:47] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:47] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:47] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:47]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:47] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:47].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:47] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:47].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:47].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:47].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:47]."
       }
     },
     {
@@ -913,7 +1571,21 @@
         "ru_abuadel": "Перевод айята [23:48] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:48] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:48] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:48］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:48］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:48] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:48] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:48] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:48] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:48]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:48] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:48].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:48] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:48].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:48].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:48].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:48]."
       }
     },
     {
@@ -932,7 +1604,21 @@
         "ru_abuadel": "Перевод айята [23:49] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:49] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:49] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:49］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:49］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:49] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:49] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:49] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:49] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:49]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:49] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:49].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:49] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:49].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:49].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:49].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:49]."
       }
     },
     {
@@ -951,7 +1637,21 @@
         "ru_abuadel": "Перевод айята [23:50] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:50] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:50] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:50］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:50］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:50] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:50] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:50] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:50] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:50]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:50] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:50].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:50] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:50].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:50].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:50].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:50]."
       }
     },
     {
@@ -970,7 +1670,21 @@
         "ru_abuadel": "Перевод айята [23:51] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:51] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:51] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:51］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:51］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:51] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:51] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:51] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:51] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:51]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:51] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:51].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:51] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:51].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:51].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:51].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:51]."
       }
     },
     {
@@ -989,7 +1703,21 @@
         "ru_abuadel": "Перевод айята [23:52] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:52] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:52] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:52］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:52］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:52] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:52] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:52] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:52] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:52]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:52] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:52].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:52] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:52].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:52].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:52].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:52]."
       }
     },
     {
@@ -1008,7 +1736,21 @@
         "ru_abuadel": "Перевод айята [23:53] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:53] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:53] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:53］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:53］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:53] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:53] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:53] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:53] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:53]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:53] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:53].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:53] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:53].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:53].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:53].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:53]."
       }
     },
     {
@@ -1027,7 +1769,21 @@
         "ru_abuadel": "Перевод айята [23:54] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:54] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:54] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:54］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:54］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:54] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:54] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:54] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:54] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:54]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:54] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:54].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:54] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:54].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:54].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:54].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:54]."
       }
     },
     {
@@ -1046,7 +1802,21 @@
         "ru_abuadel": "Перевод айята [23:55] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:55] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:55] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:55］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:55］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:55] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:55] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:55] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:55] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:55]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:55] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:55].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:55] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:55].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:55].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:55].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:55]."
       }
     },
     {
@@ -1065,7 +1835,21 @@
         "ru_abuadel": "Перевод айята [23:56] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:56] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:56] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:56］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:56］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:56] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:56] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:56] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:56] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:56]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:56] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:56].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:56] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:56].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:56].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:56].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:56]."
       }
     },
     {
@@ -1084,7 +1868,21 @@
         "ru_abuadel": "Перевод айята [23:57] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:57] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:57] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:57］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:57］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:57] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:57] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:57] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:57] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:57]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:57] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:57].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:57] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:57].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:57].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:57].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:57]."
       }
     },
     {
@@ -1103,7 +1901,21 @@
         "ru_abuadel": "Перевод айята [23:58] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:58] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:58] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:58］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:58］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:58] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:58] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:58] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:58] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:58]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:58] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:58].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:58] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:58].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:58].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:58].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:58]."
       }
     },
     {
@@ -1122,7 +1934,21 @@
         "ru_abuadel": "Перевод айята [23:59] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:59] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:59] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:59］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:59］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:59] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:59] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:59] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:59] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:59]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:59] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:59].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:59] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:59].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:59].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:59].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:59]."
       }
     },
     {
@@ -1141,7 +1967,21 @@
         "ru_abuadel": "Перевод айята [23:60] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:60] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:60] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:60］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:60］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:60] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:60] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:60] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:60] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:60]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:60] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:60].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:60] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:60].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:60].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:60].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:60]."
       }
     },
     {
@@ -1160,7 +2000,21 @@
         "ru_abuadel": "Перевод айята [23:61] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:61] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:61] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:61］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:61］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:61] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:61] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:61] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:61] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:61]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:61] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:61].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:61] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:61].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:61].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:61].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:61]."
       }
     },
     {
@@ -1179,7 +2033,21 @@
         "ru_abuadel": "Перевод айята [23:62] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:62] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:62] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:62］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:62］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:62] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:62] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:62] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:62] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:62]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:62] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:62].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:62] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:62].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:62].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:62].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:62]."
       }
     },
     {
@@ -1198,7 +2066,21 @@
         "ru_abuadel": "Перевод айята [23:63] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:63] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:63] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:63］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:63］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:63] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:63] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:63] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:63] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:63]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:63] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:63].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:63] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:63].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:63].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:63].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:63]."
       }
     },
     {
@@ -1217,7 +2099,21 @@
         "ru_abuadel": "Перевод айята [23:64] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:64] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:64] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:64］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:64］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:64] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:64] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:64] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:64] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:64]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:64] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:64].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:64] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:64].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:64].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:64].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:64]."
       }
     },
     {
@@ -1236,7 +2132,21 @@
         "ru_abuadel": "Перевод айята [23:65] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:65] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:65] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:65］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:65］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:65] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:65] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:65] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:65] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:65]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:65] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:65].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:65] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:65].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:65].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:65].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:65]."
       }
     },
     {
@@ -1255,7 +2165,21 @@
         "ru_abuadel": "Перевод айята [23:66] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:66] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:66] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:66］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:66］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:66] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:66] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:66] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:66] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:66]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:66] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:66].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:66] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:66].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:66].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:66].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:66]."
       }
     },
     {
@@ -1274,7 +2198,21 @@
         "ru_abuadel": "Перевод айята [23:67] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:67] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:67] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:67］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:67］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:67] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:67] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:67] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:67] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:67]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:67] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:67].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:67] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:67].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:67].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:67].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:67]."
       }
     },
     {
@@ -1293,7 +2231,21 @@
         "ru_abuadel": "Перевод айята [23:68] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:68] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:68] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:68］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:68］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:68] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:68] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:68] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:68] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:68]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:68] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:68].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:68] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:68].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:68].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:68].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:68]."
       }
     },
     {
@@ -1312,7 +2264,21 @@
         "ru_abuadel": "Перевод айята [23:69] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:69] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:69] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:69］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:69］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:69] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:69] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:69] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:69] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:69]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:69] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:69].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:69] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:69].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:69].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:69].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:69]."
       }
     },
     {
@@ -1331,7 +2297,21 @@
         "ru_abuadel": "Перевод айята [23:70] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:70] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:70] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:70］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:70］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:70] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:70] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:70] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:70] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:70]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:70] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:70].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:70] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:70].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:70].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:70].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:70]."
       }
     },
     {
@@ -1350,7 +2330,21 @@
         "ru_abuadel": "Перевод айята [23:71] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:71] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:71] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:71］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:71］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:71] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:71] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:71] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:71] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:71]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:71] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:71].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:71] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:71].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:71].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:71].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:71]."
       }
     },
     {
@@ -1369,7 +2363,21 @@
         "ru_abuadel": "Перевод айята [23:72] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:72] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:72] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:72］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:72］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:72] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:72] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:72] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:72] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:72]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:72] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:72].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:72] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:72].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:72].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:72].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:72]."
       }
     },
     {
@@ -1388,7 +2396,21 @@
         "ru_abuadel": "Перевод айята [23:73] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:73] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:73] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:73］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:73］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:73] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:73] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:73] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:73] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:73]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:73] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:73].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:73] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:73].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:73].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:73].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:73]."
       }
     },
     {
@@ -1407,7 +2429,21 @@
         "ru_abuadel": "Перевод айята [23:74] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:74] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:74] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:74］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:74］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:74] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:74] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:74] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:74] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:74]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:74] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:74].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:74] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:74].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:74].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:74].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:74]."
       }
     },
     {
@@ -1426,7 +2462,21 @@
         "ru_abuadel": "Перевод айята [23:75] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:75] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:75] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:75］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:75］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:75] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:75] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:75] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:75] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:75]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:75] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:75].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:75] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:75].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:75].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:75].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:75]."
       }
     },
     {
@@ -1445,7 +2495,21 @@
         "ru_abuadel": "Перевод айята [23:76] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:76] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:76] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:76］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:76］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:76] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:76] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:76] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:76] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:76]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:76] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:76].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:76] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:76].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:76].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:76].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:76]."
       }
     },
     {
@@ -1464,7 +2528,21 @@
         "ru_abuadel": "Перевод айята [23:77] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:77] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:77] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:77］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:77］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:77] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:77] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:77] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:77] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:77]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:77] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:77].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:77] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:77].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:77].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:77].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:77]."
       }
     },
     {
@@ -1483,7 +2561,21 @@
         "ru_abuadel": "Перевод айята [23:78] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:78] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:78] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:78］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:78］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:78] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:78] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:78] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:78] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:78]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:78] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:78].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:78] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:78].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:78].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:78].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:78]."
       }
     },
     {
@@ -1502,7 +2594,21 @@
         "ru_abuadel": "Перевод айята [23:79] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:79] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:79] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:79］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:79］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:79] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:79] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:79] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:79] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:79]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:79] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:79].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:79] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:79].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:79].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:79].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:79]."
       }
     },
     {
@@ -1521,7 +2627,21 @@
         "ru_abuadel": "Перевод айята [23:80] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:80] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:80] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:80］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:80］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:80] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:80] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:80] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:80] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:80]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:80] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:80].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:80] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:80].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:80].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:80].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:80]."
       }
     },
     {
@@ -1540,7 +2660,21 @@
         "ru_abuadel": "Перевод айята [23:81] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:81] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:81] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:81］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:81］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:81] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:81] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:81] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:81] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:81]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:81] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:81].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:81] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:81].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:81].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:81].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:81]."
       }
     },
     {
@@ -1559,7 +2693,21 @@
         "ru_abuadel": "Перевод айята [23:82] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:82] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:82] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:82］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:82］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:82] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:82] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:82] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:82] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:82]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:82] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:82].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:82] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:82].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:82].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:82].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:82]."
       }
     },
     {
@@ -1578,7 +2726,21 @@
         "ru_abuadel": "Перевод айята [23:83] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:83] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:83] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:83］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:83］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:83] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:83] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:83] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:83] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:83]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:83] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:83].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:83] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:83].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:83].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:83].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:83]."
       }
     },
     {
@@ -1597,7 +2759,21 @@
         "ru_abuadel": "Перевод айята [23:84] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:84] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:84] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:84］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:84］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:84] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:84] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:84] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:84] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:84]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:84] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:84].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:84] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:84].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:84].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:84].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:84]."
       }
     },
     {
@@ -1616,7 +2792,21 @@
         "ru_abuadel": "Перевод айята [23:85] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:85] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:85] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:85］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:85］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:85] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:85] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:85] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:85] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:85]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:85] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:85].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:85] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:85].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:85].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:85].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:85]."
       }
     },
     {
@@ -1635,7 +2825,21 @@
         "ru_abuadel": "Перевод айята [23:86] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:86] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:86] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:86］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:86］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:86] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:86] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:86] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:86] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:86]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:86] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:86].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:86] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:86].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:86].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:86].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:86]."
       }
     },
     {
@@ -1654,7 +2858,21 @@
         "ru_abuadel": "Перевод айята [23:87] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:87] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:87] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:87］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:87］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:87] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:87] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:87] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:87] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:87]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:87] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:87].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:87] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:87].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:87].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:87].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:87]."
       }
     },
     {
@@ -1673,7 +2891,21 @@
         "ru_abuadel": "Перевод айята [23:88] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:88] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:88] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:88］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:88］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:88] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:88] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:88] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:88] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:88]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:88] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:88].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:88] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:88].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:88].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:88].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:88]."
       }
     },
     {
@@ -1692,7 +2924,21 @@
         "ru_abuadel": "Перевод айята [23:89] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:89] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:89] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:89］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:89］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:89] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:89] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:89] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:89] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:89]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:89] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:89].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:89] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:89].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:89].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:89].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:89]."
       }
     },
     {
@@ -1711,7 +2957,21 @@
         "ru_abuadel": "Перевод айята [23:90] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:90] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:90] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:90］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:90］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:90] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:90] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:90] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:90] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:90]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:90] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:90].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:90] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:90].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:90].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:90].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:90]."
       }
     },
     {
@@ -1730,7 +2990,21 @@
         "ru_abuadel": "Перевод айята [23:91] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:91] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:91] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:91］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:91］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:91] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:91] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:91] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:91] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:91]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:91] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:91].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:91] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:91].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:91].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:91].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:91]."
       }
     },
     {
@@ -1749,7 +3023,21 @@
         "ru_abuadel": "Перевод айята [23:92] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:92] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:92] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:92］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:92］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:92] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:92] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:92] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:92] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:92]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:92] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:92].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:92] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:92].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:92].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:92].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:92]."
       }
     },
     {
@@ -1768,7 +3056,21 @@
         "ru_abuadel": "Перевод айята [23:93] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:93] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:93] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:93］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:93］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:93] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:93] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:93] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:93] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:93]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:93] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:93].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:93] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:93].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:93].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:93].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:93]."
       }
     },
     {
@@ -1787,7 +3089,21 @@
         "ru_abuadel": "Перевод айята [23:94] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:94] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:94] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:94］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:94］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:94] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:94] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:94] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:94] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:94]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:94] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:94].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:94] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:94].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:94].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:94].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:94]."
       }
     },
     {
@@ -1806,7 +3122,21 @@
         "ru_abuadel": "Перевод айята [23:95] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:95] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:95] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:95］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:95］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:95] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:95] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:95] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:95] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:95]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:95] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:95].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:95] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:95].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:95].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:95].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:95]."
       }
     },
     {
@@ -1825,7 +3155,21 @@
         "ru_abuadel": "Перевод айята [23:96] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:96] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:96] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:96］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:96］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:96] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:96] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:96] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:96] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:96]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:96] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:96].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:96] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:96].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:96].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:96].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:96]."
       }
     },
     {
@@ -1844,7 +3188,21 @@
         "ru_abuadel": "Перевод айята [23:97] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:97] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:97] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:97］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:97］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:97] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:97] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:97] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:97] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:97]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:97] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:97].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:97] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:97].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:97].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:97].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:97]."
       }
     },
     {
@@ -1863,7 +3221,21 @@
         "ru_abuadel": "Перевод айята [23:98] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:98] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:98] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:98］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:98］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:98] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:98] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:98] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:98] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:98]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:98] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:98].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:98] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:98].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:98].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:98].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:98]."
       }
     },
     {
@@ -1882,7 +3254,21 @@
         "ru_abuadel": "Перевод айята [23:99] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:99] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:99] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:99］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:99］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:99] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:99] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:99] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:99] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:99]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:99] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:99].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:99] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:99].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:99].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:99].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:99]."
       }
     },
     {
@@ -1901,7 +3287,21 @@
         "ru_abuadel": "Перевод айята [23:100] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:100] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:100] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:100］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:100］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:100] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:100] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:100] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:100] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:100]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:100] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:100].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:100] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:100].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:100].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:100].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:100]."
       }
     },
     {
@@ -1920,7 +3320,21 @@
         "ru_abuadel": "Перевод айята [23:101] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:101] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:101] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:101］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:101］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:101] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:101] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:101] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:101] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:101]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:101] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:101].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:101] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:101].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:101].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:101].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:101]."
       }
     },
     {
@@ -1939,7 +3353,21 @@
         "ru_abuadel": "Перевод айята [23:102] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:102] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:102] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:102］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:102］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:102] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:102] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:102] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:102] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:102]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:102] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:102].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:102] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:102].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:102].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:102].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:102]."
       }
     },
     {
@@ -1958,7 +3386,21 @@
         "ru_abuadel": "Перевод айята [23:103] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:103] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:103] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:103］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:103］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:103] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:103] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:103] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:103] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:103]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:103] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:103].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:103] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:103].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:103].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:103].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:103]."
       }
     },
     {
@@ -1977,7 +3419,21 @@
         "ru_abuadel": "Перевод айята [23:104] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:104] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:104] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:104］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:104］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:104] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:104] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:104] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:104] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:104]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:104] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:104].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:104] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:104].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:104].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:104].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:104]."
       }
     },
     {
@@ -1996,7 +3452,21 @@
         "ru_abuadel": "Перевод айята [23:105] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:105] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:105] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:105］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:105］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:105] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:105] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:105] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:105] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:105]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:105] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:105].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:105] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:105].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:105].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:105].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:105]."
       }
     },
     {
@@ -2015,7 +3485,21 @@
         "ru_abuadel": "Перевод айята [23:106] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:106] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:106] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:106］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:106］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:106] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:106] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:106] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:106] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:106]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:106] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:106].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:106] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:106].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:106].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:106].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:106]."
       }
     },
     {
@@ -2034,7 +3518,21 @@
         "ru_abuadel": "Перевод айята [23:107] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:107] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:107] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:107］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:107］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:107] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:107] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:107] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:107] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:107]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:107] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:107].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:107] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:107].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:107].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:107].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:107]."
       }
     },
     {
@@ -2053,7 +3551,21 @@
         "ru_abuadel": "Перевод айята [23:108] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:108] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:108] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:108］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:108］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:108] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:108] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:108] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:108] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:108]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:108] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:108].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:108] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:108].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:108].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:108].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:108]."
       }
     },
     {
@@ -2072,7 +3584,21 @@
         "ru_abuadel": "Перевод айята [23:109] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:109] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:109] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:109］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:109］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:109] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:109] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:109] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:109] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:109]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:109] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:109].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:109] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:109].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:109].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:109].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:109]."
       }
     },
     {
@@ -2091,7 +3617,21 @@
         "ru_abuadel": "Перевод айята [23:110] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:110] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:110] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:110］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:110］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:110] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:110] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:110] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:110] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:110]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:110] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:110].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:110] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:110].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:110].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:110].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:110]."
       }
     },
     {
@@ -2110,7 +3650,21 @@
         "ru_abuadel": "Перевод айята [23:111] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:111] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:111] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:111］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:111］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:111] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:111] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:111] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:111] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:111]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:111] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:111].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:111] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:111].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:111].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:111].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:111]."
       }
     },
     {
@@ -2129,7 +3683,21 @@
         "ru_abuadel": "Перевод айята [23:112] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:112] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:112] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:112］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:112］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:112] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:112] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:112] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:112] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:112]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:112] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:112].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:112] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:112].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:112].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:112].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:112]."
       }
     },
     {
@@ -2148,7 +3716,21 @@
         "ru_abuadel": "Перевод айята [23:113] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:113] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:113] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:113］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:113］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:113] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:113] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:113] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:113] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:113]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:113] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:113].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:113] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:113].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:113].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:113].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:113]."
       }
     },
     {
@@ -2167,7 +3749,21 @@
         "ru_abuadel": "Перевод айята [23:114] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:114] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:114] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:114］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:114］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:114] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:114] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:114] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:114] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:114]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:114] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:114].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:114] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:114].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:114].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:114].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:114]."
       }
     },
     {
@@ -2186,7 +3782,21 @@
         "ru_abuadel": "Перевод айята [23:115] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:115] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:115] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:115］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:115］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:115] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:115] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:115] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:115] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:115]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:115] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:115].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:115] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:115].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:115].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:115].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:115]."
       }
     },
     {
@@ -2205,7 +3815,21 @@
         "ru_abuadel": "Перевод айята [23:116] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:116] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:116] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:116］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:116］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:116] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:116] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:116] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:116] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:116]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:116] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:116].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:116] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:116].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:116].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:116].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:116]."
       }
     },
     {
@@ -2224,7 +3848,21 @@
         "ru_abuadel": "Перевод айята [23:117] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:117] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:117] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:117］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:117］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:117] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:117] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:117] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:117] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:117]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:117] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:117].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:117] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:117].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:117].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:117].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:117]."
       }
     },
     {
@@ -2243,7 +3881,21 @@
         "ru_abuadel": "Перевод айята [23:118] на русский язык (Абу Адель).",
         "tr_diyanet": "[23:118] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [23:118] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［23:118］ 马坚 译文"
+        "zh_jian": "真主启示 ［23:118］ 马坚 译文",
+        "it_piccardo": "Traduzione di [23:118] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [23:118] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [23:118] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [23:118] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [23:118]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [23:118] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [23:118].",
+        "ar_jalalayn": "تفسير الجلالين للآية [23:118] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [23:118].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [23:118].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [23:118].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [23:118]."
       }
     }
   ],

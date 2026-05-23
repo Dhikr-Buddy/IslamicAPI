@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T02:06:49.472Z",
+  "generatedAt": "2026-05-23T02:33:24.497Z",
   "surahNumber": 78,
   "ayahCount": 40,
   "ayahs": [
@@ -20,7 +20,21 @@
         "ru_abuadel": "Перевод айята [78:1] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:1] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:1] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:1］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:1]."
       }
     },
     {
@@ -39,7 +53,21 @@
         "ru_abuadel": "Перевод айята [78:2] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:2] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:2] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:2］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:2]."
       }
     },
     {
@@ -58,7 +86,21 @@
         "ru_abuadel": "Перевод айята [78:3] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:3] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:3] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:3］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:3]."
       }
     },
     {
@@ -77,7 +119,21 @@
         "ru_abuadel": "Перевод айята [78:4] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:4] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:4] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:4］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:4]."
       }
     },
     {
@@ -96,7 +152,21 @@
         "ru_abuadel": "Перевод айята [78:5] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:5] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:5] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:5］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:5]."
       }
     },
     {
@@ -115,7 +185,21 @@
         "ru_abuadel": "Перевод айята [78:6] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:6] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:6] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:6］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:6]."
       }
     },
     {
@@ -134,7 +218,21 @@
         "ru_abuadel": "Перевод айята [78:7] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:7] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:7] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:7］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:7]."
       }
     },
     {
@@ -153,7 +251,21 @@
         "ru_abuadel": "Перевод айята [78:8] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:8] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:8] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:8］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:8]."
       }
     },
     {
@@ -172,7 +284,21 @@
         "ru_abuadel": "Перевод айята [78:9] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:9] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:9] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:9］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:9]."
       }
     },
     {
@@ -191,7 +317,21 @@
         "ru_abuadel": "Перевод айята [78:10] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:10] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:10] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:10］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:10]."
       }
     },
     {
@@ -210,7 +350,21 @@
         "ru_abuadel": "Перевод айята [78:11] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:11] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:11] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:11］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:11]."
       }
     },
     {
@@ -229,7 +383,21 @@
         "ru_abuadel": "Перевод айята [78:12] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:12] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:12] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:12］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:12]."
       }
     },
     {
@@ -248,7 +416,21 @@
         "ru_abuadel": "Перевод айята [78:13] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:13] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:13] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:13］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:13]."
       }
     },
     {
@@ -267,7 +449,21 @@
         "ru_abuadel": "Перевод айята [78:14] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:14] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:14] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:14］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:14]."
       }
     },
     {
@@ -286,7 +482,21 @@
         "ru_abuadel": "Перевод айята [78:15] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:15] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:15] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:15］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:15]."
       }
     },
     {
@@ -305,7 +515,21 @@
         "ru_abuadel": "Перевод айята [78:16] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:16] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:16] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:16］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:16]."
       }
     },
     {
@@ -324,7 +548,21 @@
         "ru_abuadel": "Перевод айята [78:17] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:17] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:17] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:17］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:17]."
       }
     },
     {
@@ -343,7 +581,21 @@
         "ru_abuadel": "Перевод айята [78:18] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:18] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:18] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:18］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:18]."
       }
     },
     {
@@ -362,7 +614,21 @@
         "ru_abuadel": "Перевод айята [78:19] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:19] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:19] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:19］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:19]."
       }
     },
     {
@@ -381,7 +647,21 @@
         "ru_abuadel": "Перевод айята [78:20] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:20] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:20] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:20］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:20]."
       }
     },
     {
@@ -400,7 +680,21 @@
         "ru_abuadel": "Перевод айята [78:21] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:21] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:21] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:21］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:21］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:21] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:21] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:21] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:21] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:21]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:21] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:21].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:21] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:21].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:21].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:21].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:21]."
       }
     },
     {
@@ -419,7 +713,21 @@
         "ru_abuadel": "Перевод айята [78:22] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:22] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:22] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:22］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:22］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:22] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:22] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:22] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:22] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:22]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:22] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:22].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:22] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:22].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:22].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:22].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:22]."
       }
     },
     {
@@ -438,7 +746,21 @@
         "ru_abuadel": "Перевод айята [78:23] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:23] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:23] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:23］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:23］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:23] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:23] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:23] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:23] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:23]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:23] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:23].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:23] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:23].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:23].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:23].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:23]."
       }
     },
     {
@@ -457,7 +779,21 @@
         "ru_abuadel": "Перевод айята [78:24] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:24] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:24] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:24］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:24］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:24] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:24] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:24] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:24] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:24]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:24] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:24].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:24] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:24].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:24].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:24].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:24]."
       }
     },
     {
@@ -476,7 +812,21 @@
         "ru_abuadel": "Перевод айята [78:25] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:25] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:25] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:25］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:25］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:25] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:25] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:25] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:25] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:25]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:25] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:25].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:25] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:25].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:25].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:25].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:25]."
       }
     },
     {
@@ -495,7 +845,21 @@
         "ru_abuadel": "Перевод айята [78:26] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:26] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:26] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:26］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:26］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:26] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:26] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:26] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:26] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:26]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:26] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:26].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:26] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:26].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:26].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:26].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:26]."
       }
     },
     {
@@ -514,7 +878,21 @@
         "ru_abuadel": "Перевод айята [78:27] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:27] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:27] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:27］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:27］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:27] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:27] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:27] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:27] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:27]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:27] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:27].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:27] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:27].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:27].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:27].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:27]."
       }
     },
     {
@@ -533,7 +911,21 @@
         "ru_abuadel": "Перевод айята [78:28] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:28] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:28] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:28］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:28］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:28] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:28] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:28] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:28] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:28]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:28] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:28].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:28] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:28].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:28].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:28].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:28]."
       }
     },
     {
@@ -552,7 +944,21 @@
         "ru_abuadel": "Перевод айята [78:29] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:29] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:29] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:29］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:29］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:29] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:29] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:29] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:29] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:29]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:29] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:29].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:29] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:29].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:29].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:29].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:29]."
       }
     },
     {
@@ -571,7 +977,21 @@
         "ru_abuadel": "Перевод айята [78:30] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:30] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:30] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:30］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:30］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:30] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:30] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:30] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:30] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:30]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:30] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:30].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:30] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:30].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:30].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:30].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:30]."
       }
     },
     {
@@ -590,7 +1010,21 @@
         "ru_abuadel": "Перевод айята [78:31] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:31] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:31] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:31］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:31］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:31] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:31] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:31] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:31] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:31]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:31] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:31].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:31] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:31].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:31].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:31].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:31]."
       }
     },
     {
@@ -609,7 +1043,21 @@
         "ru_abuadel": "Перевод айята [78:32] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:32] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:32] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:32］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:32］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:32] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:32] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:32] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:32] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:32]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:32] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:32].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:32] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:32].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:32].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:32].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:32]."
       }
     },
     {
@@ -628,7 +1076,21 @@
         "ru_abuadel": "Перевод айята [78:33] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:33] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:33] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:33］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:33］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:33] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:33] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:33] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:33] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:33]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:33] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:33].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:33] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:33].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:33].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:33].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:33]."
       }
     },
     {
@@ -647,7 +1109,21 @@
         "ru_abuadel": "Перевод айята [78:34] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:34] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:34] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:34］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:34］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:34] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:34] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:34] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:34] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:34]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:34] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:34].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:34] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:34].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:34].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:34].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:34]."
       }
     },
     {
@@ -666,7 +1142,21 @@
         "ru_abuadel": "Перевод айята [78:35] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:35] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:35] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:35］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:35］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:35] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:35] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:35] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:35] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:35]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:35] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:35].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:35] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:35].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:35].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:35].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:35]."
       }
     },
     {
@@ -685,7 +1175,21 @@
         "ru_abuadel": "Перевод айята [78:36] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:36] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:36] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:36］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:36］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:36] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:36] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:36] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:36] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:36]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:36] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:36].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:36] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:36].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:36].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:36].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:36]."
       }
     },
     {
@@ -704,7 +1208,21 @@
         "ru_abuadel": "Перевод айята [78:37] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:37] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:37] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:37］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:37］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:37] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:37] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:37] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:37] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:37]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:37] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:37].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:37] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:37].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:37].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:37].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:37]."
       }
     },
     {
@@ -723,7 +1241,21 @@
         "ru_abuadel": "Перевод айята [78:38] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:38] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:38] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:38］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:38］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:38] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:38] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:38] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:38] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:38]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:38] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:38].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:38] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:38].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:38].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:38].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:38]."
       }
     },
     {
@@ -742,7 +1274,21 @@
         "ru_abuadel": "Перевод айята [78:39] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:39] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:39] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:39］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:39］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:39] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:39] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:39] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:39] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:39]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:39] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:39].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:39] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:39].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:39].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:39].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:39]."
       }
     },
     {
@@ -761,7 +1307,21 @@
         "ru_abuadel": "Перевод айята [78:40] на русский язык (Абу Адель).",
         "tr_diyanet": "[78:40] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [78:40] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［78:40］ 马坚 译文"
+        "zh_jian": "真主启示 ［78:40］ 马坚 译文",
+        "it_piccardo": "Traduzione di [78:40] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [78:40] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [78:40] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [78:40] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [78:40]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [78:40] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [78:40].",
+        "ar_jalalayn": "تفسير الجلالين للآية [78:40] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [78:40].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [78:40].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [78:40].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [78:40]."
       }
     }
   ],

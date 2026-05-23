@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T02:06:49.450Z",
+  "generatedAt": "2026-05-23T02:33:24.464Z",
   "surahNumber": 20,
   "ayahCount": 135,
   "ayahs": [
@@ -20,7 +20,21 @@
         "ru_abuadel": "Перевод айята [20:1] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:1] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:1] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:1］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:1]."
       }
     },
     {
@@ -39,7 +53,21 @@
         "ru_abuadel": "Перевод айята [20:2] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:2] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:2] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:2］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:2]."
       }
     },
     {
@@ -58,7 +86,21 @@
         "ru_abuadel": "Перевод айята [20:3] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:3] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:3] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:3］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:3]."
       }
     },
     {
@@ -77,7 +119,21 @@
         "ru_abuadel": "Перевод айята [20:4] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:4] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:4] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:4］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:4]."
       }
     },
     {
@@ -96,7 +152,21 @@
         "ru_abuadel": "Перевод айята [20:5] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:5] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:5] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:5］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:5]."
       }
     },
     {
@@ -115,7 +185,21 @@
         "ru_abuadel": "Перевод айята [20:6] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:6] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:6] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:6］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:6]."
       }
     },
     {
@@ -134,7 +218,21 @@
         "ru_abuadel": "Перевод айята [20:7] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:7] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:7] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:7］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:7]."
       }
     },
     {
@@ -153,7 +251,21 @@
         "ru_abuadel": "Перевод айята [20:8] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:8] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:8] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:8］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:8]."
       }
     },
     {
@@ -172,7 +284,21 @@
         "ru_abuadel": "Перевод айята [20:9] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:9] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:9] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:9］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:9]."
       }
     },
     {
@@ -191,7 +317,21 @@
         "ru_abuadel": "Перевод айята [20:10] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:10] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:10] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:10］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:10]."
       }
     },
     {
@@ -210,7 +350,21 @@
         "ru_abuadel": "Перевод айята [20:11] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:11] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:11] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:11］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:11]."
       }
     },
     {
@@ -229,7 +383,21 @@
         "ru_abuadel": "Перевод айята [20:12] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:12] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:12] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:12］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:12]."
       }
     },
     {
@@ -248,7 +416,21 @@
         "ru_abuadel": "Перевод айята [20:13] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:13] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:13] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:13］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:13]."
       }
     },
     {
@@ -267,7 +449,21 @@
         "ru_abuadel": "Перевод айята [20:14] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:14] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:14] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:14］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:14]."
       }
     },
     {
@@ -286,7 +482,21 @@
         "ru_abuadel": "Перевод айята [20:15] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:15] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:15] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:15］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:15]."
       }
     },
     {
@@ -305,7 +515,21 @@
         "ru_abuadel": "Перевод айята [20:16] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:16] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:16] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:16］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:16]."
       }
     },
     {
@@ -324,7 +548,21 @@
         "ru_abuadel": "Перевод айята [20:17] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:17] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:17] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:17］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:17]."
       }
     },
     {
@@ -343,7 +581,21 @@
         "ru_abuadel": "Перевод айята [20:18] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:18] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:18] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:18］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:18]."
       }
     },
     {
@@ -362,7 +614,21 @@
         "ru_abuadel": "Перевод айята [20:19] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:19] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:19] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:19］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:19]."
       }
     },
     {
@@ -381,7 +647,21 @@
         "ru_abuadel": "Перевод айята [20:20] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:20] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:20] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:20］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:20]."
       }
     },
     {
@@ -400,7 +680,21 @@
         "ru_abuadel": "Перевод айята [20:21] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:21] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:21] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:21］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:21］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:21] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:21] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:21] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:21] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:21]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:21] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:21].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:21] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:21].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:21].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:21].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:21]."
       }
     },
     {
@@ -419,7 +713,21 @@
         "ru_abuadel": "Перевод айята [20:22] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:22] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:22] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:22］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:22］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:22] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:22] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:22] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:22] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:22]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:22] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:22].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:22] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:22].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:22].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:22].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:22]."
       }
     },
     {
@@ -438,7 +746,21 @@
         "ru_abuadel": "Перевод айята [20:23] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:23] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:23] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:23］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:23］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:23] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:23] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:23] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:23] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:23]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:23] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:23].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:23] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:23].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:23].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:23].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:23]."
       }
     },
     {
@@ -457,7 +779,21 @@
         "ru_abuadel": "Перевод айята [20:24] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:24] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:24] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:24］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:24］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:24] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:24] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:24] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:24] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:24]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:24] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:24].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:24] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:24].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:24].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:24].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:24]."
       }
     },
     {
@@ -476,7 +812,21 @@
         "ru_abuadel": "Перевод айята [20:25] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:25] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:25] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:25］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:25］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:25] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:25] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:25] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:25] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:25]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:25] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:25].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:25] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:25].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:25].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:25].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:25]."
       }
     },
     {
@@ -495,7 +845,21 @@
         "ru_abuadel": "Перевод айята [20:26] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:26] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:26] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:26］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:26］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:26] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:26] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:26] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:26] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:26]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:26] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:26].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:26] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:26].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:26].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:26].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:26]."
       }
     },
     {
@@ -514,7 +878,21 @@
         "ru_abuadel": "Перевод айята [20:27] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:27] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:27] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:27］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:27］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:27] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:27] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:27] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:27] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:27]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:27] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:27].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:27] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:27].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:27].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:27].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:27]."
       }
     },
     {
@@ -533,7 +911,21 @@
         "ru_abuadel": "Перевод айята [20:28] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:28] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:28] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:28］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:28］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:28] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:28] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:28] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:28] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:28]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:28] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:28].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:28] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:28].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:28].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:28].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:28]."
       }
     },
     {
@@ -552,7 +944,21 @@
         "ru_abuadel": "Перевод айята [20:29] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:29] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:29] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:29］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:29］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:29] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:29] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:29] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:29] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:29]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:29] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:29].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:29] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:29].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:29].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:29].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:29]."
       }
     },
     {
@@ -571,7 +977,21 @@
         "ru_abuadel": "Перевод айята [20:30] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:30] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:30] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:30］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:30］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:30] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:30] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:30] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:30] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:30]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:30] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:30].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:30] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:30].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:30].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:30].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:30]."
       }
     },
     {
@@ -590,7 +1010,21 @@
         "ru_abuadel": "Перевод айята [20:31] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:31] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:31] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:31］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:31］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:31] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:31] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:31] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:31] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:31]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:31] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:31].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:31] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:31].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:31].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:31].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:31]."
       }
     },
     {
@@ -609,7 +1043,21 @@
         "ru_abuadel": "Перевод айята [20:32] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:32] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:32] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:32］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:32］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:32] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:32] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:32] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:32] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:32]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:32] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:32].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:32] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:32].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:32].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:32].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:32]."
       }
     },
     {
@@ -628,7 +1076,21 @@
         "ru_abuadel": "Перевод айята [20:33] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:33] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:33] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:33］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:33］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:33] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:33] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:33] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:33] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:33]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:33] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:33].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:33] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:33].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:33].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:33].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:33]."
       }
     },
     {
@@ -647,7 +1109,21 @@
         "ru_abuadel": "Перевод айята [20:34] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:34] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:34] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:34］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:34］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:34] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:34] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:34] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:34] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:34]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:34] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:34].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:34] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:34].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:34].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:34].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:34]."
       }
     },
     {
@@ -666,7 +1142,21 @@
         "ru_abuadel": "Перевод айята [20:35] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:35] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:35] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:35］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:35］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:35] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:35] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:35] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:35] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:35]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:35] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:35].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:35] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:35].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:35].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:35].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:35]."
       }
     },
     {
@@ -685,7 +1175,21 @@
         "ru_abuadel": "Перевод айята [20:36] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:36] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:36] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:36］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:36］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:36] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:36] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:36] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:36] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:36]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:36] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:36].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:36] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:36].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:36].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:36].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:36]."
       }
     },
     {
@@ -704,7 +1208,21 @@
         "ru_abuadel": "Перевод айята [20:37] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:37] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:37] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:37］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:37］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:37] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:37] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:37] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:37] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:37]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:37] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:37].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:37] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:37].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:37].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:37].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:37]."
       }
     },
     {
@@ -723,7 +1241,21 @@
         "ru_abuadel": "Перевод айята [20:38] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:38] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:38] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:38］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:38］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:38] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:38] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:38] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:38] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:38]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:38] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:38].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:38] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:38].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:38].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:38].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:38]."
       }
     },
     {
@@ -742,7 +1274,21 @@
         "ru_abuadel": "Перевод айята [20:39] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:39] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:39] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:39］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:39］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:39] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:39] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:39] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:39] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:39]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:39] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:39].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:39] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:39].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:39].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:39].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:39]."
       }
     },
     {
@@ -761,7 +1307,21 @@
         "ru_abuadel": "Перевод айята [20:40] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:40] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:40] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:40］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:40］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:40] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:40] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:40] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:40] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:40]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:40] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:40].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:40] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:40].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:40].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:40].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:40]."
       }
     },
     {
@@ -780,7 +1340,21 @@
         "ru_abuadel": "Перевод айята [20:41] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:41] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:41] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:41］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:41］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:41] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:41] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:41] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:41] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:41]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:41] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:41].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:41] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:41].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:41].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:41].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:41]."
       }
     },
     {
@@ -799,7 +1373,21 @@
         "ru_abuadel": "Перевод айята [20:42] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:42] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:42] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:42］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:42］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:42] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:42] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:42] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:42] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:42]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:42] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:42].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:42] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:42].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:42].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:42].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:42]."
       }
     },
     {
@@ -818,7 +1406,21 @@
         "ru_abuadel": "Перевод айята [20:43] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:43] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:43] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:43］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:43］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:43] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:43] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:43] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:43] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:43]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:43] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:43].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:43] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:43].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:43].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:43].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:43]."
       }
     },
     {
@@ -837,7 +1439,21 @@
         "ru_abuadel": "Перевод айята [20:44] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:44] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:44] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:44］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:44］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:44] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:44] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:44] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:44] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:44]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:44] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:44].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:44] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:44].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:44].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:44].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:44]."
       }
     },
     {
@@ -856,7 +1472,21 @@
         "ru_abuadel": "Перевод айята [20:45] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:45] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:45] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:45］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:45］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:45] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:45] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:45] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:45] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:45]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:45] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:45].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:45] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:45].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:45].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:45].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:45]."
       }
     },
     {
@@ -875,7 +1505,21 @@
         "ru_abuadel": "Перевод айята [20:46] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:46] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:46] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:46］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:46］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:46] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:46] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:46] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:46] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:46]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:46] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:46].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:46] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:46].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:46].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:46].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:46]."
       }
     },
     {
@@ -894,7 +1538,21 @@
         "ru_abuadel": "Перевод айята [20:47] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:47] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:47] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:47］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:47］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:47] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:47] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:47] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:47] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:47]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:47] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:47].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:47] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:47].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:47].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:47].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:47]."
       }
     },
     {
@@ -913,7 +1571,21 @@
         "ru_abuadel": "Перевод айята [20:48] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:48] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:48] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:48］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:48］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:48] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:48] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:48] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:48] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:48]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:48] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:48].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:48] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:48].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:48].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:48].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:48]."
       }
     },
     {
@@ -932,7 +1604,21 @@
         "ru_abuadel": "Перевод айята [20:49] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:49] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:49] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:49］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:49］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:49] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:49] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:49] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:49] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:49]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:49] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:49].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:49] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:49].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:49].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:49].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:49]."
       }
     },
     {
@@ -951,7 +1637,21 @@
         "ru_abuadel": "Перевод айята [20:50] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:50] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:50] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:50］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:50］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:50] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:50] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:50] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:50] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:50]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:50] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:50].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:50] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:50].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:50].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:50].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:50]."
       }
     },
     {
@@ -970,7 +1670,21 @@
         "ru_abuadel": "Перевод айята [20:51] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:51] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:51] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:51］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:51］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:51] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:51] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:51] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:51] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:51]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:51] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:51].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:51] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:51].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:51].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:51].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:51]."
       }
     },
     {
@@ -989,7 +1703,21 @@
         "ru_abuadel": "Перевод айята [20:52] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:52] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:52] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:52］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:52］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:52] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:52] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:52] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:52] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:52]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:52] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:52].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:52] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:52].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:52].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:52].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:52]."
       }
     },
     {
@@ -1008,7 +1736,21 @@
         "ru_abuadel": "Перевод айята [20:53] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:53] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:53] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:53］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:53］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:53] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:53] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:53] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:53] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:53]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:53] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:53].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:53] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:53].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:53].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:53].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:53]."
       }
     },
     {
@@ -1027,7 +1769,21 @@
         "ru_abuadel": "Перевод айята [20:54] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:54] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:54] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:54］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:54］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:54] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:54] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:54] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:54] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:54]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:54] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:54].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:54] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:54].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:54].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:54].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:54]."
       }
     },
     {
@@ -1046,7 +1802,21 @@
         "ru_abuadel": "Перевод айята [20:55] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:55] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:55] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:55］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:55］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:55] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:55] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:55] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:55] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:55]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:55] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:55].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:55] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:55].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:55].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:55].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:55]."
       }
     },
     {
@@ -1065,7 +1835,21 @@
         "ru_abuadel": "Перевод айята [20:56] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:56] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:56] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:56］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:56］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:56] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:56] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:56] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:56] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:56]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:56] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:56].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:56] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:56].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:56].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:56].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:56]."
       }
     },
     {
@@ -1084,7 +1868,21 @@
         "ru_abuadel": "Перевод айята [20:57] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:57] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:57] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:57］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:57］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:57] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:57] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:57] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:57] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:57]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:57] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:57].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:57] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:57].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:57].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:57].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:57]."
       }
     },
     {
@@ -1103,7 +1901,21 @@
         "ru_abuadel": "Перевод айята [20:58] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:58] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:58] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:58］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:58］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:58] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:58] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:58] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:58] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:58]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:58] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:58].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:58] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:58].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:58].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:58].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:58]."
       }
     },
     {
@@ -1122,7 +1934,21 @@
         "ru_abuadel": "Перевод айята [20:59] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:59] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:59] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:59］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:59］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:59] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:59] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:59] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:59] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:59]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:59] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:59].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:59] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:59].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:59].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:59].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:59]."
       }
     },
     {
@@ -1141,7 +1967,21 @@
         "ru_abuadel": "Перевод айята [20:60] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:60] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:60] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:60］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:60］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:60] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:60] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:60] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:60] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:60]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:60] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:60].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:60] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:60].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:60].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:60].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:60]."
       }
     },
     {
@@ -1160,7 +2000,21 @@
         "ru_abuadel": "Перевод айята [20:61] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:61] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:61] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:61］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:61］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:61] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:61] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:61] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:61] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:61]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:61] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:61].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:61] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:61].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:61].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:61].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:61]."
       }
     },
     {
@@ -1179,7 +2033,21 @@
         "ru_abuadel": "Перевод айята [20:62] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:62] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:62] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:62］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:62］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:62] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:62] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:62] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:62] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:62]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:62] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:62].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:62] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:62].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:62].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:62].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:62]."
       }
     },
     {
@@ -1198,7 +2066,21 @@
         "ru_abuadel": "Перевод айята [20:63] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:63] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:63] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:63］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:63］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:63] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:63] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:63] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:63] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:63]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:63] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:63].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:63] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:63].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:63].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:63].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:63]."
       }
     },
     {
@@ -1217,7 +2099,21 @@
         "ru_abuadel": "Перевод айята [20:64] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:64] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:64] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:64］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:64］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:64] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:64] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:64] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:64] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:64]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:64] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:64].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:64] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:64].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:64].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:64].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:64]."
       }
     },
     {
@@ -1236,7 +2132,21 @@
         "ru_abuadel": "Перевод айята [20:65] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:65] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:65] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:65］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:65］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:65] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:65] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:65] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:65] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:65]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:65] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:65].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:65] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:65].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:65].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:65].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:65]."
       }
     },
     {
@@ -1255,7 +2165,21 @@
         "ru_abuadel": "Перевод айята [20:66] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:66] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:66] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:66］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:66］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:66] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:66] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:66] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:66] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:66]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:66] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:66].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:66] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:66].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:66].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:66].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:66]."
       }
     },
     {
@@ -1274,7 +2198,21 @@
         "ru_abuadel": "Перевод айята [20:67] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:67] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:67] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:67］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:67］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:67] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:67] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:67] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:67] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:67]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:67] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:67].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:67] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:67].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:67].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:67].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:67]."
       }
     },
     {
@@ -1293,7 +2231,21 @@
         "ru_abuadel": "Перевод айята [20:68] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:68] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:68] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:68］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:68］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:68] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:68] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:68] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:68] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:68]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:68] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:68].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:68] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:68].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:68].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:68].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:68]."
       }
     },
     {
@@ -1312,7 +2264,21 @@
         "ru_abuadel": "Перевод айята [20:69] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:69] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:69] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:69］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:69］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:69] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:69] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:69] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:69] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:69]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:69] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:69].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:69] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:69].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:69].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:69].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:69]."
       }
     },
     {
@@ -1331,7 +2297,21 @@
         "ru_abuadel": "Перевод айята [20:70] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:70] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:70] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:70］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:70］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:70] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:70] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:70] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:70] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:70]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:70] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:70].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:70] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:70].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:70].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:70].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:70]."
       }
     },
     {
@@ -1350,7 +2330,21 @@
         "ru_abuadel": "Перевод айята [20:71] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:71] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:71] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:71］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:71］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:71] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:71] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:71] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:71] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:71]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:71] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:71].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:71] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:71].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:71].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:71].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:71]."
       }
     },
     {
@@ -1369,7 +2363,21 @@
         "ru_abuadel": "Перевод айята [20:72] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:72] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:72] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:72］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:72］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:72] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:72] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:72] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:72] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:72]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:72] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:72].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:72] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:72].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:72].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:72].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:72]."
       }
     },
     {
@@ -1388,7 +2396,21 @@
         "ru_abuadel": "Перевод айята [20:73] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:73] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:73] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:73］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:73］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:73] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:73] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:73] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:73] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:73]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:73] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:73].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:73] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:73].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:73].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:73].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:73]."
       }
     },
     {
@@ -1407,7 +2429,21 @@
         "ru_abuadel": "Перевод айята [20:74] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:74] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:74] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:74］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:74］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:74] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:74] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:74] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:74] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:74]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:74] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:74].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:74] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:74].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:74].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:74].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:74]."
       }
     },
     {
@@ -1426,7 +2462,21 @@
         "ru_abuadel": "Перевод айята [20:75] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:75] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:75] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:75］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:75］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:75] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:75] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:75] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:75] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:75]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:75] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:75].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:75] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:75].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:75].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:75].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:75]."
       }
     },
     {
@@ -1445,7 +2495,21 @@
         "ru_abuadel": "Перевод айята [20:76] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:76] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:76] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:76］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:76］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:76] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:76] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:76] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:76] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:76]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:76] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:76].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:76] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:76].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:76].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:76].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:76]."
       }
     },
     {
@@ -1464,7 +2528,21 @@
         "ru_abuadel": "Перевод айята [20:77] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:77] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:77] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:77］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:77］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:77] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:77] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:77] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:77] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:77]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:77] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:77].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:77] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:77].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:77].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:77].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:77]."
       }
     },
     {
@@ -1483,7 +2561,21 @@
         "ru_abuadel": "Перевод айята [20:78] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:78] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:78] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:78］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:78］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:78] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:78] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:78] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:78] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:78]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:78] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:78].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:78] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:78].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:78].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:78].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:78]."
       }
     },
     {
@@ -1502,7 +2594,21 @@
         "ru_abuadel": "Перевод айята [20:79] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:79] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:79] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:79］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:79］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:79] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:79] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:79] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:79] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:79]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:79] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:79].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:79] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:79].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:79].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:79].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:79]."
       }
     },
     {
@@ -1521,7 +2627,21 @@
         "ru_abuadel": "Перевод айята [20:80] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:80] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:80] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:80］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:80］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:80] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:80] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:80] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:80] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:80]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:80] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:80].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:80] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:80].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:80].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:80].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:80]."
       }
     },
     {
@@ -1540,7 +2660,21 @@
         "ru_abuadel": "Перевод айята [20:81] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:81] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:81] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:81］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:81］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:81] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:81] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:81] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:81] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:81]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:81] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:81].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:81] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:81].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:81].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:81].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:81]."
       }
     },
     {
@@ -1559,7 +2693,21 @@
         "ru_abuadel": "Перевод айята [20:82] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:82] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:82] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:82］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:82］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:82] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:82] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:82] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:82] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:82]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:82] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:82].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:82] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:82].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:82].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:82].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:82]."
       }
     },
     {
@@ -1578,7 +2726,21 @@
         "ru_abuadel": "Перевод айята [20:83] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:83] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:83] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:83］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:83］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:83] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:83] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:83] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:83] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:83]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:83] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:83].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:83] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:83].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:83].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:83].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:83]."
       }
     },
     {
@@ -1597,7 +2759,21 @@
         "ru_abuadel": "Перевод айята [20:84] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:84] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:84] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:84］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:84］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:84] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:84] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:84] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:84] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:84]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:84] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:84].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:84] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:84].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:84].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:84].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:84]."
       }
     },
     {
@@ -1616,7 +2792,21 @@
         "ru_abuadel": "Перевод айята [20:85] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:85] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:85] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:85］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:85］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:85] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:85] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:85] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:85] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:85]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:85] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:85].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:85] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:85].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:85].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:85].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:85]."
       }
     },
     {
@@ -1635,7 +2825,21 @@
         "ru_abuadel": "Перевод айята [20:86] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:86] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:86] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:86］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:86］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:86] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:86] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:86] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:86] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:86]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:86] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:86].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:86] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:86].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:86].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:86].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:86]."
       }
     },
     {
@@ -1654,7 +2858,21 @@
         "ru_abuadel": "Перевод айята [20:87] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:87] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:87] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:87］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:87］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:87] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:87] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:87] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:87] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:87]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:87] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:87].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:87] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:87].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:87].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:87].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:87]."
       }
     },
     {
@@ -1673,7 +2891,21 @@
         "ru_abuadel": "Перевод айята [20:88] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:88] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:88] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:88］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:88］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:88] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:88] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:88] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:88] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:88]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:88] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:88].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:88] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:88].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:88].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:88].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:88]."
       }
     },
     {
@@ -1692,7 +2924,21 @@
         "ru_abuadel": "Перевод айята [20:89] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:89] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:89] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:89］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:89］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:89] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:89] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:89] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:89] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:89]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:89] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:89].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:89] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:89].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:89].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:89].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:89]."
       }
     },
     {
@@ -1711,7 +2957,21 @@
         "ru_abuadel": "Перевод айята [20:90] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:90] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:90] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:90］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:90］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:90] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:90] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:90] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:90] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:90]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:90] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:90].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:90] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:90].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:90].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:90].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:90]."
       }
     },
     {
@@ -1730,7 +2990,21 @@
         "ru_abuadel": "Перевод айята [20:91] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:91] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:91] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:91］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:91］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:91] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:91] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:91] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:91] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:91]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:91] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:91].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:91] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:91].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:91].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:91].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:91]."
       }
     },
     {
@@ -1749,7 +3023,21 @@
         "ru_abuadel": "Перевод айята [20:92] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:92] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:92] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:92］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:92］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:92] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:92] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:92] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:92] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:92]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:92] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:92].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:92] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:92].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:92].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:92].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:92]."
       }
     },
     {
@@ -1768,7 +3056,21 @@
         "ru_abuadel": "Перевод айята [20:93] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:93] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:93] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:93］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:93］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:93] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:93] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:93] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:93] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:93]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:93] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:93].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:93] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:93].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:93].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:93].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:93]."
       }
     },
     {
@@ -1787,7 +3089,21 @@
         "ru_abuadel": "Перевод айята [20:94] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:94] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:94] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:94］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:94］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:94] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:94] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:94] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:94] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:94]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:94] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:94].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:94] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:94].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:94].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:94].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:94]."
       }
     },
     {
@@ -1806,7 +3122,21 @@
         "ru_abuadel": "Перевод айята [20:95] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:95] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:95] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:95］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:95］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:95] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:95] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:95] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:95] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:95]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:95] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:95].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:95] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:95].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:95].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:95].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:95]."
       }
     },
     {
@@ -1825,7 +3155,21 @@
         "ru_abuadel": "Перевод айята [20:96] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:96] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:96] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:96］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:96］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:96] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:96] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:96] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:96] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:96]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:96] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:96].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:96] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:96].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:96].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:96].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:96]."
       }
     },
     {
@@ -1844,7 +3188,21 @@
         "ru_abuadel": "Перевод айята [20:97] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:97] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:97] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:97］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:97］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:97] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:97] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:97] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:97] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:97]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:97] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:97].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:97] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:97].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:97].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:97].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:97]."
       }
     },
     {
@@ -1863,7 +3221,21 @@
         "ru_abuadel": "Перевод айята [20:98] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:98] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:98] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:98］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:98］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:98] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:98] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:98] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:98] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:98]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:98] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:98].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:98] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:98].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:98].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:98].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:98]."
       }
     },
     {
@@ -1882,7 +3254,21 @@
         "ru_abuadel": "Перевод айята [20:99] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:99] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:99] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:99］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:99］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:99] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:99] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:99] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:99] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:99]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:99] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:99].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:99] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:99].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:99].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:99].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:99]."
       }
     },
     {
@@ -1901,7 +3287,21 @@
         "ru_abuadel": "Перевод айята [20:100] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:100] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:100] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:100］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:100］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:100] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:100] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:100] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:100] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:100]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:100] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:100].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:100] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:100].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:100].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:100].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:100]."
       }
     },
     {
@@ -1920,7 +3320,21 @@
         "ru_abuadel": "Перевод айята [20:101] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:101] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:101] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:101］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:101］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:101] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:101] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:101] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:101] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:101]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:101] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:101].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:101] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:101].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:101].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:101].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:101]."
       }
     },
     {
@@ -1939,7 +3353,21 @@
         "ru_abuadel": "Перевод айята [20:102] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:102] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:102] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:102］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:102］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:102] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:102] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:102] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:102] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:102]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:102] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:102].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:102] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:102].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:102].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:102].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:102]."
       }
     },
     {
@@ -1958,7 +3386,21 @@
         "ru_abuadel": "Перевод айята [20:103] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:103] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:103] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:103］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:103］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:103] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:103] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:103] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:103] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:103]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:103] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:103].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:103] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:103].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:103].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:103].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:103]."
       }
     },
     {
@@ -1977,7 +3419,21 @@
         "ru_abuadel": "Перевод айята [20:104] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:104] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:104] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:104］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:104］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:104] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:104] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:104] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:104] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:104]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:104] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:104].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:104] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:104].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:104].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:104].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:104]."
       }
     },
     {
@@ -1996,7 +3452,21 @@
         "ru_abuadel": "Перевод айята [20:105] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:105] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:105] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:105］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:105］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:105] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:105] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:105] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:105] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:105]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:105] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:105].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:105] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:105].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:105].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:105].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:105]."
       }
     },
     {
@@ -2015,7 +3485,21 @@
         "ru_abuadel": "Перевод айята [20:106] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:106] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:106] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:106］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:106］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:106] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:106] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:106] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:106] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:106]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:106] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:106].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:106] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:106].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:106].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:106].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:106]."
       }
     },
     {
@@ -2034,7 +3518,21 @@
         "ru_abuadel": "Перевод айята [20:107] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:107] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:107] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:107］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:107］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:107] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:107] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:107] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:107] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:107]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:107] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:107].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:107] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:107].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:107].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:107].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:107]."
       }
     },
     {
@@ -2053,7 +3551,21 @@
         "ru_abuadel": "Перевод айята [20:108] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:108] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:108] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:108］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:108］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:108] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:108] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:108] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:108] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:108]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:108] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:108].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:108] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:108].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:108].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:108].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:108]."
       }
     },
     {
@@ -2072,7 +3584,21 @@
         "ru_abuadel": "Перевод айята [20:109] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:109] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:109] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:109］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:109］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:109] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:109] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:109] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:109] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:109]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:109] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:109].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:109] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:109].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:109].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:109].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:109]."
       }
     },
     {
@@ -2091,7 +3617,21 @@
         "ru_abuadel": "Перевод айята [20:110] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:110] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:110] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:110］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:110］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:110] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:110] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:110] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:110] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:110]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:110] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:110].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:110] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:110].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:110].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:110].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:110]."
       }
     },
     {
@@ -2110,7 +3650,21 @@
         "ru_abuadel": "Перевод айята [20:111] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:111] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:111] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:111］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:111］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:111] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:111] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:111] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:111] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:111]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:111] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:111].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:111] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:111].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:111].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:111].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:111]."
       }
     },
     {
@@ -2129,7 +3683,21 @@
         "ru_abuadel": "Перевод айята [20:112] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:112] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:112] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:112］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:112］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:112] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:112] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:112] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:112] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:112]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:112] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:112].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:112] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:112].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:112].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:112].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:112]."
       }
     },
     {
@@ -2148,7 +3716,21 @@
         "ru_abuadel": "Перевод айята [20:113] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:113] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:113] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:113］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:113］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:113] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:113] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:113] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:113] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:113]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:113] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:113].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:113] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:113].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:113].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:113].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:113]."
       }
     },
     {
@@ -2167,7 +3749,21 @@
         "ru_abuadel": "Перевод айята [20:114] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:114] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:114] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:114］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:114］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:114] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:114] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:114] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:114] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:114]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:114] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:114].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:114] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:114].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:114].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:114].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:114]."
       }
     },
     {
@@ -2186,7 +3782,21 @@
         "ru_abuadel": "Перевод айята [20:115] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:115] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:115] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:115］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:115］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:115] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:115] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:115] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:115] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:115]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:115] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:115].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:115] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:115].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:115].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:115].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:115]."
       }
     },
     {
@@ -2205,7 +3815,21 @@
         "ru_abuadel": "Перевод айята [20:116] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:116] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:116] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:116］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:116］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:116] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:116] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:116] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:116] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:116]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:116] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:116].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:116] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:116].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:116].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:116].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:116]."
       }
     },
     {
@@ -2224,7 +3848,21 @@
         "ru_abuadel": "Перевод айята [20:117] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:117] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:117] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:117］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:117］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:117] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:117] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:117] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:117] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:117]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:117] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:117].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:117] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:117].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:117].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:117].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:117]."
       }
     },
     {
@@ -2243,7 +3881,21 @@
         "ru_abuadel": "Перевод айята [20:118] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:118] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:118] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:118］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:118］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:118] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:118] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:118] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:118] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:118]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:118] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:118].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:118] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:118].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:118].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:118].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:118]."
       }
     },
     {
@@ -2262,7 +3914,21 @@
         "ru_abuadel": "Перевод айята [20:119] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:119] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:119] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:119］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:119］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:119] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:119] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:119] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:119] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:119]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:119] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:119].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:119] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:119].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:119].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:119].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:119]."
       }
     },
     {
@@ -2281,7 +3947,21 @@
         "ru_abuadel": "Перевод айята [20:120] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:120] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:120] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:120］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:120］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:120] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:120] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:120] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:120] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:120]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:120] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:120].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:120] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:120].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:120].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:120].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:120]."
       }
     },
     {
@@ -2300,7 +3980,21 @@
         "ru_abuadel": "Перевод айята [20:121] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:121] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:121] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:121］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:121］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:121] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:121] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:121] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:121] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:121]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:121] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:121].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:121] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:121].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:121].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:121].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:121]."
       }
     },
     {
@@ -2319,7 +4013,21 @@
         "ru_abuadel": "Перевод айята [20:122] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:122] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:122] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:122］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:122］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:122] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:122] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:122] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:122] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:122]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:122] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:122].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:122] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:122].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:122].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:122].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:122]."
       }
     },
     {
@@ -2338,7 +4046,21 @@
         "ru_abuadel": "Перевод айята [20:123] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:123] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:123] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:123］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:123］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:123] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:123] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:123] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:123] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:123]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:123] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:123].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:123] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:123].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:123].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:123].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:123]."
       }
     },
     {
@@ -2357,7 +4079,21 @@
         "ru_abuadel": "Перевод айята [20:124] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:124] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:124] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:124］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:124］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:124] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:124] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:124] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:124] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:124]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:124] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:124].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:124] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:124].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:124].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:124].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:124]."
       }
     },
     {
@@ -2376,7 +4112,21 @@
         "ru_abuadel": "Перевод айята [20:125] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:125] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:125] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:125］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:125］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:125] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:125] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:125] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:125] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:125]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:125] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:125].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:125] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:125].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:125].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:125].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:125]."
       }
     },
     {
@@ -2395,7 +4145,21 @@
         "ru_abuadel": "Перевод айята [20:126] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:126] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:126] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:126］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:126］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:126] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:126] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:126] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:126] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:126]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:126] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:126].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:126] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:126].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:126].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:126].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:126]."
       }
     },
     {
@@ -2414,7 +4178,21 @@
         "ru_abuadel": "Перевод айята [20:127] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:127] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:127] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:127］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:127］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:127] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:127] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:127] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:127] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:127]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:127] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:127].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:127] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:127].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:127].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:127].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:127]."
       }
     },
     {
@@ -2433,7 +4211,21 @@
         "ru_abuadel": "Перевод айята [20:128] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:128] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:128] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:128］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:128］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:128] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:128] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:128] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:128] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:128]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:128] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:128].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:128] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:128].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:128].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:128].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:128]."
       }
     },
     {
@@ -2452,7 +4244,21 @@
         "ru_abuadel": "Перевод айята [20:129] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:129] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:129] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:129］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:129］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:129] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:129] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:129] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:129] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:129]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:129] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:129].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:129] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:129].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:129].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:129].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:129]."
       }
     },
     {
@@ -2471,7 +4277,21 @@
         "ru_abuadel": "Перевод айята [20:130] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:130] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:130] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:130］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:130］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:130] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:130] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:130] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:130] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:130]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:130] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:130].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:130] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:130].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:130].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:130].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:130]."
       }
     },
     {
@@ -2490,7 +4310,21 @@
         "ru_abuadel": "Перевод айята [20:131] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:131] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:131] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:131］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:131］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:131] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:131] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:131] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:131] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:131]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:131] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:131].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:131] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:131].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:131].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:131].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:131]."
       }
     },
     {
@@ -2509,7 +4343,21 @@
         "ru_abuadel": "Перевод айята [20:132] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:132] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:132] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:132］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:132］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:132] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:132] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:132] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:132] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:132]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:132] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:132].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:132] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:132].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:132].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:132].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:132]."
       }
     },
     {
@@ -2528,7 +4376,21 @@
         "ru_abuadel": "Перевод айята [20:133] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:133] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:133] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:133］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:133］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:133] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:133] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:133] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:133] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:133]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:133] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:133].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:133] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:133].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:133].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:133].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:133]."
       }
     },
     {
@@ -2547,7 +4409,21 @@
         "ru_abuadel": "Перевод айята [20:134] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:134] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:134] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:134］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:134］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:134] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:134] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:134] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:134] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:134]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:134] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:134].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:134] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:134].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:134].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:134].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:134]."
       }
     },
     {
@@ -2566,7 +4442,21 @@
         "ru_abuadel": "Перевод айята [20:135] на русский язык (Абу Адель).",
         "tr_diyanet": "[20:135] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [20:135] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［20:135］ 马坚 译文"
+        "zh_jian": "真主启示 ［20:135］ 马坚 译文",
+        "it_piccardo": "Traduzione di [20:135] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [20:135] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [20:135] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [20:135] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [20:135]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [20:135] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [20:135].",
+        "ar_jalalayn": "تفسير الجلالين للآية [20:135] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [20:135].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [20:135].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [20:135].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [20:135]."
       }
     }
   ],

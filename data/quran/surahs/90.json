@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T02:06:49.475Z",
+  "generatedAt": "2026-05-23T02:33:24.501Z",
   "surahNumber": 90,
   "ayahCount": 20,
   "ayahs": [
@@ -20,7 +20,21 @@
         "ru_abuadel": "Перевод айята [90:1] на русский язык (Абу Адель).",
         "tr_diyanet": "[90:1] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [90:1] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［90:1］ 马坚 译文"
+        "zh_jian": "真主启示 ［90:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [90:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [90:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [90:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [90:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [90:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [90:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [90:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [90:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [90:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [90:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [90:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [90:1]."
       }
     },
     {
@@ -39,7 +53,21 @@
         "ru_abuadel": "Перевод айята [90:2] на русский язык (Абу Адель).",
         "tr_diyanet": "[90:2] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [90:2] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［90:2］ 马坚 译文"
+        "zh_jian": "真主启示 ［90:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [90:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [90:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [90:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [90:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [90:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [90:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [90:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [90:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [90:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [90:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [90:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [90:2]."
       }
     },
     {
@@ -58,7 +86,21 @@
         "ru_abuadel": "Перевод айята [90:3] на русский язык (Абу Адель).",
         "tr_diyanet": "[90:3] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [90:3] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［90:3］ 马坚 译文"
+        "zh_jian": "真主启示 ［90:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [90:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [90:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [90:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [90:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [90:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [90:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [90:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [90:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [90:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [90:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [90:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [90:3]."
       }
     },
     {
@@ -77,7 +119,21 @@
         "ru_abuadel": "Перевод айята [90:4] на русский язык (Абу Адель).",
         "tr_diyanet": "[90:4] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [90:4] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［90:4］ 马坚 译文"
+        "zh_jian": "真主启示 ［90:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [90:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [90:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [90:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [90:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [90:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [90:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [90:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [90:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [90:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [90:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [90:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [90:4]."
       }
     },
     {
@@ -96,7 +152,21 @@
         "ru_abuadel": "Перевод айята [90:5] на русский язык (Абу Адель).",
         "tr_diyanet": "[90:5] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [90:5] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［90:5］ 马坚 译文"
+        "zh_jian": "真主启示 ［90:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [90:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [90:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [90:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [90:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [90:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [90:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [90:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [90:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [90:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [90:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [90:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [90:5]."
       }
     },
     {
@@ -115,7 +185,21 @@
         "ru_abuadel": "Перевод айята [90:6] на русский язык (Абу Адель).",
         "tr_diyanet": "[90:6] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [90:6] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［90:6］ 马坚 译文"
+        "zh_jian": "真主启示 ［90:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [90:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [90:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [90:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [90:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [90:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [90:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [90:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [90:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [90:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [90:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [90:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [90:6]."
       }
     },
     {
@@ -134,7 +218,21 @@
         "ru_abuadel": "Перевод айята [90:7] на русский язык (Абу Адель).",
         "tr_diyanet": "[90:7] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [90:7] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［90:7］ 马坚 译文"
+        "zh_jian": "真主启示 ［90:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [90:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [90:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [90:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [90:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [90:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [90:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [90:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [90:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [90:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [90:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [90:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [90:7]."
       }
     },
     {
@@ -153,7 +251,21 @@
         "ru_abuadel": "Перевод айята [90:8] на русский язык (Абу Адель).",
         "tr_diyanet": "[90:8] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [90:8] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［90:8］ 马坚 译文"
+        "zh_jian": "真主启示 ［90:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [90:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [90:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [90:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [90:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [90:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [90:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [90:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [90:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [90:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [90:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [90:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [90:8]."
       }
     },
     {
@@ -172,7 +284,21 @@
         "ru_abuadel": "Перевод айята [90:9] на русский язык (Абу Адель).",
         "tr_diyanet": "[90:9] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [90:9] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［90:9］ 马坚 译文"
+        "zh_jian": "真主启示 ［90:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [90:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [90:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [90:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [90:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [90:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [90:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [90:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [90:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [90:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [90:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [90:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [90:9]."
       }
     },
     {
@@ -191,7 +317,21 @@
         "ru_abuadel": "Перевод айята [90:10] на русский язык (Абу Адель).",
         "tr_diyanet": "[90:10] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [90:10] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［90:10］ 马坚 译文"
+        "zh_jian": "真主启示 ［90:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [90:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [90:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [90:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [90:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [90:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [90:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [90:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [90:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [90:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [90:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [90:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [90:10]."
       }
     },
     {
@@ -210,7 +350,21 @@
         "ru_abuadel": "Перевод айята [90:11] на русский язык (Абу Адель).",
         "tr_diyanet": "[90:11] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [90:11] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［90:11］ 马坚 译文"
+        "zh_jian": "真主启示 ［90:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [90:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [90:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [90:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [90:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [90:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [90:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [90:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [90:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [90:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [90:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [90:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [90:11]."
       }
     },
     {
@@ -229,7 +383,21 @@
         "ru_abuadel": "Перевод айята [90:12] на русский язык (Абу Адель).",
         "tr_diyanet": "[90:12] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [90:12] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［90:12］ 马坚 译文"
+        "zh_jian": "真主启示 ［90:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [90:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [90:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [90:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [90:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [90:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [90:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [90:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [90:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [90:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [90:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [90:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [90:12]."
       }
     },
     {
@@ -248,7 +416,21 @@
         "ru_abuadel": "Перевод айята [90:13] на русский язык (Абу Адель).",
         "tr_diyanet": "[90:13] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [90:13] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［90:13］ 马坚 译文"
+        "zh_jian": "真主启示 ［90:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [90:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [90:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [90:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [90:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [90:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [90:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [90:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [90:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [90:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [90:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [90:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [90:13]."
       }
     },
     {
@@ -267,7 +449,21 @@
         "ru_abuadel": "Перевод айята [90:14] на русский язык (Абу Адель).",
         "tr_diyanet": "[90:14] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [90:14] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［90:14］ 马坚 译文"
+        "zh_jian": "真主启示 ［90:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [90:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [90:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [90:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [90:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [90:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [90:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [90:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [90:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [90:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [90:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [90:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [90:14]."
       }
     },
     {
@@ -286,7 +482,21 @@
         "ru_abuadel": "Перевод айята [90:15] на русский язык (Абу Адель).",
         "tr_diyanet": "[90:15] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [90:15] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［90:15］ 马坚 译文"
+        "zh_jian": "真主启示 ［90:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [90:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [90:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [90:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [90:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [90:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [90:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [90:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [90:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [90:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [90:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [90:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [90:15]."
       }
     },
     {
@@ -305,7 +515,21 @@
         "ru_abuadel": "Перевод айята [90:16] на русский язык (Абу Адель).",
         "tr_diyanet": "[90:16] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [90:16] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［90:16］ 马坚 译文"
+        "zh_jian": "真主启示 ［90:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [90:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [90:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [90:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [90:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [90:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [90:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [90:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [90:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [90:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [90:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [90:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [90:16]."
       }
     },
     {
@@ -324,7 +548,21 @@
         "ru_abuadel": "Перевод айята [90:17] на русский язык (Абу Адель).",
         "tr_diyanet": "[90:17] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [90:17] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［90:17］ 马坚 译文"
+        "zh_jian": "真主启示 ［90:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [90:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [90:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [90:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [90:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [90:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [90:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [90:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [90:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [90:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [90:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [90:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [90:17]."
       }
     },
     {
@@ -343,7 +581,21 @@
         "ru_abuadel": "Перевод айята [90:18] на русский язык (Абу Адель).",
         "tr_diyanet": "[90:18] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [90:18] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［90:18］ 马坚 译文"
+        "zh_jian": "真主启示 ［90:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [90:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [90:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [90:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [90:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [90:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [90:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [90:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [90:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [90:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [90:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [90:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [90:18]."
       }
     },
     {
@@ -362,7 +614,21 @@
         "ru_abuadel": "Перевод айята [90:19] на русский язык (Абу Адель).",
         "tr_diyanet": "[90:19] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [90:19] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［90:19］ 马坚 译文"
+        "zh_jian": "真主启示 ［90:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [90:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [90:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [90:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [90:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [90:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [90:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [90:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [90:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [90:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [90:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [90:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [90:19]."
       }
     },
     {
@@ -381,7 +647,21 @@
         "ru_abuadel": "Перевод айята [90:20] на русский язык (Абу Адель).",
         "tr_diyanet": "[90:20] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [90:20] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［90:20］ 马坚 译文"
+        "zh_jian": "真主启示 ［90:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [90:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [90:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [90:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [90:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [90:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [90:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [90:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [90:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [90:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [90:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [90:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [90:20]."
       }
     }
   ],

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T02:06:49.480Z",
+  "generatedAt": "2026-05-23T02:33:24.510Z",
   "surahNumber": 112,
   "ayahCount": 4,
   "ayahs": [
@@ -20,7 +20,21 @@
         "ru_abuadel": "Перевод айята [112:1] на русский язык (Абу Адель).",
         "tr_diyanet": "[112:1] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [112:1] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［112:1］ 马坚 译文"
+        "zh_jian": "真主启示 ［112:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [112:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [112:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [112:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [112:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [112:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [112:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [112:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [112:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [112:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [112:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [112:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [112:1]."
       }
     },
     {
@@ -39,7 +53,21 @@
         "ru_abuadel": "Перевод айята [112:2] на русский язык (Абу Адель).",
         "tr_diyanet": "[112:2] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [112:2] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［112:2］ 马坚 译文"
+        "zh_jian": "真主启示 ［112:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [112:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [112:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [112:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [112:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [112:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [112:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [112:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [112:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [112:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [112:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [112:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [112:2]."
       }
     },
     {
@@ -58,7 +86,21 @@
         "ru_abuadel": "Перевод айята [112:3] на русский язык (Абу Адель).",
         "tr_diyanet": "[112:3] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [112:3] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［112:3］ 马坚 译文"
+        "zh_jian": "真主启示 ［112:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [112:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [112:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [112:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [112:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [112:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [112:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [112:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [112:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [112:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [112:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [112:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [112:3]."
       }
     },
     {
@@ -77,7 +119,21 @@
         "ru_abuadel": "Перевод айята [112:4] на русский язык (Абу Адель).",
         "tr_diyanet": "[112:4] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [112:4] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［112:4］ 马坚 译文"
+        "zh_jian": "真主启示 ［112:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [112:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [112:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [112:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [112:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [112:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [112:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [112:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [112:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [112:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [112:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [112:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [112:4]."
       }
     }
   ],

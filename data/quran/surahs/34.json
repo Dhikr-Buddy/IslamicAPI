@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T02:06:49.458Z",
+  "generatedAt": "2026-05-23T02:33:24.476Z",
   "surahNumber": 34,
   "ayahCount": 54,
   "ayahs": [
@@ -20,7 +20,21 @@
         "ru_abuadel": "Перевод айята [34:1] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:1] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:1] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:1］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:1]."
       }
     },
     {
@@ -39,7 +53,21 @@
         "ru_abuadel": "Перевод айята [34:2] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:2] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:2] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:2］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:2]."
       }
     },
     {
@@ -58,7 +86,21 @@
         "ru_abuadel": "Перевод айята [34:3] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:3] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:3] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:3］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:3]."
       }
     },
     {
@@ -77,7 +119,21 @@
         "ru_abuadel": "Перевод айята [34:4] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:4] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:4] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:4］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:4]."
       }
     },
     {
@@ -96,7 +152,21 @@
         "ru_abuadel": "Перевод айята [34:5] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:5] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:5] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:5］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:5]."
       }
     },
     {
@@ -115,7 +185,21 @@
         "ru_abuadel": "Перевод айята [34:6] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:6] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:6] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:6］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:6]."
       }
     },
     {
@@ -134,7 +218,21 @@
         "ru_abuadel": "Перевод айята [34:7] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:7] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:7] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:7］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:7]."
       }
     },
     {
@@ -153,7 +251,21 @@
         "ru_abuadel": "Перевод айята [34:8] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:8] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:8] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:8］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:8]."
       }
     },
     {
@@ -172,7 +284,21 @@
         "ru_abuadel": "Перевод айята [34:9] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:9] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:9] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:9］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:9]."
       }
     },
     {
@@ -191,7 +317,21 @@
         "ru_abuadel": "Перевод айята [34:10] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:10] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:10] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:10］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:10]."
       }
     },
     {
@@ -210,7 +350,21 @@
         "ru_abuadel": "Перевод айята [34:11] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:11] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:11] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:11］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:11]."
       }
     },
     {
@@ -229,7 +383,21 @@
         "ru_abuadel": "Перевод айята [34:12] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:12] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:12] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:12］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:12]."
       }
     },
     {
@@ -248,7 +416,21 @@
         "ru_abuadel": "Перевод айята [34:13] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:13] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:13] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:13］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:13]."
       }
     },
     {
@@ -267,7 +449,21 @@
         "ru_abuadel": "Перевод айята [34:14] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:14] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:14] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:14］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:14]."
       }
     },
     {
@@ -286,7 +482,21 @@
         "ru_abuadel": "Перевод айята [34:15] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:15] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:15] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:15］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:15]."
       }
     },
     {
@@ -305,7 +515,21 @@
         "ru_abuadel": "Перевод айята [34:16] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:16] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:16] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:16］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:16]."
       }
     },
     {
@@ -324,7 +548,21 @@
         "ru_abuadel": "Перевод айята [34:17] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:17] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:17] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:17］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:17]."
       }
     },
     {
@@ -343,7 +581,21 @@
         "ru_abuadel": "Перевод айята [34:18] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:18] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:18] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:18］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:18]."
       }
     },
     {
@@ -362,7 +614,21 @@
         "ru_abuadel": "Перевод айята [34:19] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:19] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:19] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:19］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:19]."
       }
     },
     {
@@ -381,7 +647,21 @@
         "ru_abuadel": "Перевод айята [34:20] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:20] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:20] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:20］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:20]."
       }
     },
     {
@@ -400,7 +680,21 @@
         "ru_abuadel": "Перевод айята [34:21] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:21] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:21] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:21］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:21］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:21] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:21] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:21] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:21] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:21]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:21] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:21].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:21] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:21].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:21].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:21].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:21]."
       }
     },
     {
@@ -419,7 +713,21 @@
         "ru_abuadel": "Перевод айята [34:22] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:22] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:22] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:22］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:22］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:22] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:22] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:22] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:22] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:22]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:22] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:22].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:22] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:22].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:22].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:22].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:22]."
       }
     },
     {
@@ -438,7 +746,21 @@
         "ru_abuadel": "Перевод айята [34:23] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:23] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:23] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:23］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:23］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:23] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:23] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:23] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:23] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:23]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:23] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:23].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:23] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:23].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:23].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:23].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:23]."
       }
     },
     {
@@ -457,7 +779,21 @@
         "ru_abuadel": "Перевод айята [34:24] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:24] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:24] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:24］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:24］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:24] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:24] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:24] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:24] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:24]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:24] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:24].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:24] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:24].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:24].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:24].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:24]."
       }
     },
     {
@@ -476,7 +812,21 @@
         "ru_abuadel": "Перевод айята [34:25] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:25] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:25] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:25］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:25］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:25] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:25] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:25] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:25] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:25]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:25] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:25].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:25] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:25].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:25].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:25].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:25]."
       }
     },
     {
@@ -495,7 +845,21 @@
         "ru_abuadel": "Перевод айята [34:26] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:26] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:26] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:26］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:26］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:26] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:26] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:26] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:26] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:26]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:26] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:26].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:26] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:26].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:26].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:26].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:26]."
       }
     },
     {
@@ -514,7 +878,21 @@
         "ru_abuadel": "Перевод айята [34:27] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:27] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:27] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:27］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:27］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:27] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:27] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:27] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:27] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:27]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:27] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:27].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:27] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:27].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:27].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:27].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:27]."
       }
     },
     {
@@ -533,7 +911,21 @@
         "ru_abuadel": "Перевод айята [34:28] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:28] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:28] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:28］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:28］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:28] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:28] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:28] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:28] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:28]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:28] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:28].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:28] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:28].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:28].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:28].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:28]."
       }
     },
     {
@@ -552,7 +944,21 @@
         "ru_abuadel": "Перевод айята [34:29] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:29] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:29] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:29］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:29］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:29] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:29] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:29] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:29] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:29]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:29] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:29].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:29] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:29].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:29].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:29].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:29]."
       }
     },
     {
@@ -571,7 +977,21 @@
         "ru_abuadel": "Перевод айята [34:30] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:30] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:30] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:30］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:30］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:30] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:30] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:30] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:30] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:30]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:30] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:30].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:30] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:30].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:30].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:30].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:30]."
       }
     },
     {
@@ -590,7 +1010,21 @@
         "ru_abuadel": "Перевод айята [34:31] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:31] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:31] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:31］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:31］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:31] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:31] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:31] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:31] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:31]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:31] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:31].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:31] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:31].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:31].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:31].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:31]."
       }
     },
     {
@@ -609,7 +1043,21 @@
         "ru_abuadel": "Перевод айята [34:32] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:32] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:32] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:32］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:32］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:32] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:32] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:32] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:32] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:32]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:32] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:32].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:32] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:32].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:32].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:32].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:32]."
       }
     },
     {
@@ -628,7 +1076,21 @@
         "ru_abuadel": "Перевод айята [34:33] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:33] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:33] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:33］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:33］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:33] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:33] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:33] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:33] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:33]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:33] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:33].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:33] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:33].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:33].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:33].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:33]."
       }
     },
     {
@@ -647,7 +1109,21 @@
         "ru_abuadel": "Перевод айята [34:34] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:34] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:34] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:34］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:34］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:34] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:34] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:34] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:34] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:34]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:34] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:34].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:34] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:34].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:34].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:34].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:34]."
       }
     },
     {
@@ -666,7 +1142,21 @@
         "ru_abuadel": "Перевод айята [34:35] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:35] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:35] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:35］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:35］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:35] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:35] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:35] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:35] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:35]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:35] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:35].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:35] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:35].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:35].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:35].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:35]."
       }
     },
     {
@@ -685,7 +1175,21 @@
         "ru_abuadel": "Перевод айята [34:36] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:36] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:36] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:36］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:36］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:36] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:36] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:36] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:36] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:36]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:36] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:36].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:36] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:36].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:36].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:36].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:36]."
       }
     },
     {
@@ -704,7 +1208,21 @@
         "ru_abuadel": "Перевод айята [34:37] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:37] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:37] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:37］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:37］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:37] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:37] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:37] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:37] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:37]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:37] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:37].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:37] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:37].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:37].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:37].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:37]."
       }
     },
     {
@@ -723,7 +1241,21 @@
         "ru_abuadel": "Перевод айята [34:38] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:38] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:38] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:38］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:38］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:38] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:38] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:38] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:38] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:38]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:38] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:38].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:38] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:38].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:38].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:38].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:38]."
       }
     },
     {
@@ -742,7 +1274,21 @@
         "ru_abuadel": "Перевод айята [34:39] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:39] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:39] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:39］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:39］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:39] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:39] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:39] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:39] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:39]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:39] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:39].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:39] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:39].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:39].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:39].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:39]."
       }
     },
     {
@@ -761,7 +1307,21 @@
         "ru_abuadel": "Перевод айята [34:40] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:40] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:40] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:40］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:40］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:40] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:40] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:40] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:40] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:40]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:40] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:40].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:40] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:40].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:40].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:40].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:40]."
       }
     },
     {
@@ -780,7 +1340,21 @@
         "ru_abuadel": "Перевод айята [34:41] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:41] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:41] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:41］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:41］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:41] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:41] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:41] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:41] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:41]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:41] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:41].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:41] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:41].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:41].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:41].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:41]."
       }
     },
     {
@@ -799,7 +1373,21 @@
         "ru_abuadel": "Перевод айята [34:42] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:42] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:42] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:42］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:42］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:42] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:42] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:42] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:42] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:42]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:42] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:42].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:42] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:42].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:42].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:42].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:42]."
       }
     },
     {
@@ -818,7 +1406,21 @@
         "ru_abuadel": "Перевод айята [34:43] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:43] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:43] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:43］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:43］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:43] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:43] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:43] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:43] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:43]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:43] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:43].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:43] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:43].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:43].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:43].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:43]."
       }
     },
     {
@@ -837,7 +1439,21 @@
         "ru_abuadel": "Перевод айята [34:44] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:44] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:44] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:44］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:44］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:44] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:44] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:44] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:44] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:44]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:44] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:44].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:44] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:44].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:44].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:44].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:44]."
       }
     },
     {
@@ -856,7 +1472,21 @@
         "ru_abuadel": "Перевод айята [34:45] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:45] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:45] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:45］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:45］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:45] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:45] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:45] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:45] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:45]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:45] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:45].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:45] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:45].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:45].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:45].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:45]."
       }
     },
     {
@@ -875,7 +1505,21 @@
         "ru_abuadel": "Перевод айята [34:46] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:46] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:46] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:46］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:46］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:46] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:46] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:46] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:46] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:46]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:46] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:46].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:46] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:46].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:46].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:46].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:46]."
       }
     },
     {
@@ -894,7 +1538,21 @@
         "ru_abuadel": "Перевод айята [34:47] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:47] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:47] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:47］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:47］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:47] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:47] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:47] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:47] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:47]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:47] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:47].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:47] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:47].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:47].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:47].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:47]."
       }
     },
     {
@@ -913,7 +1571,21 @@
         "ru_abuadel": "Перевод айята [34:48] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:48] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:48] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:48］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:48］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:48] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:48] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:48] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:48] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:48]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:48] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:48].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:48] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:48].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:48].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:48].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:48]."
       }
     },
     {
@@ -932,7 +1604,21 @@
         "ru_abuadel": "Перевод айята [34:49] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:49] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:49] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:49］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:49］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:49] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:49] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:49] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:49] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:49]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:49] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:49].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:49] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:49].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:49].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:49].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:49]."
       }
     },
     {
@@ -951,7 +1637,21 @@
         "ru_abuadel": "Перевод айята [34:50] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:50] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:50] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:50］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:50］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:50] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:50] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:50] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:50] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:50]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:50] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:50].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:50] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:50].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:50].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:50].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:50]."
       }
     },
     {
@@ -970,7 +1670,21 @@
         "ru_abuadel": "Перевод айята [34:51] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:51] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:51] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:51］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:51］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:51] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:51] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:51] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:51] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:51]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:51] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:51].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:51] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:51].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:51].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:51].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:51]."
       }
     },
     {
@@ -989,7 +1703,21 @@
         "ru_abuadel": "Перевод айята [34:52] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:52] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:52] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:52］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:52］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:52] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:52] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:52] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:52] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:52]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:52] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:52].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:52] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:52].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:52].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:52].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:52]."
       }
     },
     {
@@ -1008,7 +1736,21 @@
         "ru_abuadel": "Перевод айята [34:53] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:53] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:53] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:53］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:53］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:53] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:53] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:53] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:53] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:53]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:53] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:53].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:53] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:53].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:53].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:53].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:53]."
       }
     },
     {
@@ -1027,7 +1769,21 @@
         "ru_abuadel": "Перевод айята [34:54] на русский язык (Абу Адель).",
         "tr_diyanet": "[34:54] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [34:54] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［34:54］ 马坚 译文"
+        "zh_jian": "真主启示 ［34:54］ 马坚 译文",
+        "it_piccardo": "Traduzione di [34:54] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [34:54] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [34:54] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [34:54] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [34:54]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [34:54] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [34:54].",
+        "ar_jalalayn": "تفسير الجلالين للآية [34:54] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [34:54].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [34:54].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [34:54].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [34:54]."
       }
     }
   ],

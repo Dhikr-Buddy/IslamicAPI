@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T02:06:49.480Z",
+  "generatedAt": "2026-05-23T02:33:24.510Z",
   "surahNumber": 114,
   "ayahCount": 6,
   "ayahs": [
@@ -20,7 +20,21 @@
         "ru_abuadel": "Перевод айята [114:1] на русский язык (Абу Адель).",
         "tr_diyanet": "[114:1] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [114:1] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［114:1］ 马坚 译文"
+        "zh_jian": "真主启示 ［114:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [114:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [114:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [114:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [114:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [114:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [114:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [114:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [114:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [114:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [114:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [114:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [114:1]."
       }
     },
     {
@@ -39,7 +53,21 @@
         "ru_abuadel": "Перевод айята [114:2] на русский язык (Абу Адель).",
         "tr_diyanet": "[114:2] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [114:2] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［114:2］ 马坚 译文"
+        "zh_jian": "真主启示 ［114:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [114:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [114:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [114:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [114:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [114:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [114:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [114:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [114:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [114:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [114:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [114:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [114:2]."
       }
     },
     {
@@ -58,7 +86,21 @@
         "ru_abuadel": "Перевод айята [114:3] на русский язык (Абу Адель).",
         "tr_diyanet": "[114:3] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [114:3] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［114:3］ 马坚 译文"
+        "zh_jian": "真主启示 ［114:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [114:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [114:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [114:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [114:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [114:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [114:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [114:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [114:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [114:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [114:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [114:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [114:3]."
       }
     },
     {
@@ -77,7 +119,21 @@
         "ru_abuadel": "Перевод айята [114:4] на русский язык (Абу Адель).",
         "tr_diyanet": "[114:4] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [114:4] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［114:4］ 马坚 译文"
+        "zh_jian": "真主启示 ［114:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [114:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [114:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [114:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [114:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [114:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [114:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [114:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [114:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [114:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [114:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [114:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [114:4]."
       }
     },
     {
@@ -96,7 +152,21 @@
         "ru_abuadel": "Перевод айята [114:5] на русский язык (Абу Адель).",
         "tr_diyanet": "[114:5] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [114:5] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［114:5］ 马坚 译文"
+        "zh_jian": "真主启示 ［114:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [114:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [114:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [114:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [114:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [114:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [114:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [114:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [114:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [114:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [114:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [114:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [114:5]."
       }
     },
     {
@@ -115,7 +185,21 @@
         "ru_abuadel": "Перевод айята [114:6] на русский язык (Абу Адель).",
         "tr_diyanet": "[114:6] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [114:6] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［114:6］ 马坚 译文"
+        "zh_jian": "真主启示 ［114:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [114:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [114:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [114:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [114:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [114:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [114:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [114:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [114:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [114:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [114:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [114:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [114:6]."
       }
     }
   ],

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T02:06:49.475Z",
+  "generatedAt": "2026-05-23T02:33:24.502Z",
   "surahNumber": 91,
   "ayahCount": 15,
   "ayahs": [
@@ -20,7 +20,21 @@
         "ru_abuadel": "Перевод айята [91:1] на русский язык (Абу Адель).",
         "tr_diyanet": "[91:1] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [91:1] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［91:1］ 马坚 译文"
+        "zh_jian": "真主启示 ［91:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [91:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [91:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [91:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [91:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [91:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [91:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [91:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [91:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [91:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [91:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [91:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [91:1]."
       }
     },
     {
@@ -39,7 +53,21 @@
         "ru_abuadel": "Перевод айята [91:2] на русский язык (Абу Адель).",
         "tr_diyanet": "[91:2] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [91:2] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［91:2］ 马坚 译文"
+        "zh_jian": "真主启示 ［91:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [91:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [91:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [91:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [91:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [91:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [91:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [91:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [91:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [91:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [91:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [91:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [91:2]."
       }
     },
     {
@@ -58,7 +86,21 @@
         "ru_abuadel": "Перевод айята [91:3] на русский язык (Абу Адель).",
         "tr_diyanet": "[91:3] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [91:3] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［91:3］ 马坚 译文"
+        "zh_jian": "真主启示 ［91:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [91:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [91:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [91:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [91:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [91:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [91:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [91:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [91:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [91:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [91:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [91:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [91:3]."
       }
     },
     {
@@ -77,7 +119,21 @@
         "ru_abuadel": "Перевод айята [91:4] на русский язык (Абу Адель).",
         "tr_diyanet": "[91:4] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [91:4] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［91:4］ 马坚 译文"
+        "zh_jian": "真主启示 ［91:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [91:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [91:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [91:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [91:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [91:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [91:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [91:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [91:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [91:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [91:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [91:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [91:4]."
       }
     },
     {
@@ -96,7 +152,21 @@
         "ru_abuadel": "Перевод айята [91:5] на русский язык (Абу Адель).",
         "tr_diyanet": "[91:5] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [91:5] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［91:5］ 马坚 译文"
+        "zh_jian": "真主启示 ［91:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [91:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [91:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [91:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [91:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [91:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [91:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [91:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [91:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [91:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [91:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [91:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [91:5]."
       }
     },
     {
@@ -115,7 +185,21 @@
         "ru_abuadel": "Перевод айята [91:6] на русский язык (Абу Адель).",
         "tr_diyanet": "[91:6] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [91:6] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［91:6］ 马坚 译文"
+        "zh_jian": "真主启示 ［91:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [91:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [91:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [91:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [91:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [91:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [91:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [91:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [91:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [91:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [91:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [91:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [91:6]."
       }
     },
     {
@@ -134,7 +218,21 @@
         "ru_abuadel": "Перевод айята [91:7] на русский язык (Абу Адель).",
         "tr_diyanet": "[91:7] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [91:7] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［91:7］ 马坚 译文"
+        "zh_jian": "真主启示 ［91:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [91:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [91:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [91:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [91:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [91:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [91:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [91:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [91:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [91:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [91:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [91:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [91:7]."
       }
     },
     {
@@ -153,7 +251,21 @@
         "ru_abuadel": "Перевод айята [91:8] на русский язык (Абу Адель).",
         "tr_diyanet": "[91:8] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [91:8] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［91:8］ 马坚 译文"
+        "zh_jian": "真主启示 ［91:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [91:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [91:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [91:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [91:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [91:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [91:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [91:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [91:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [91:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [91:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [91:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [91:8]."
       }
     },
     {
@@ -172,7 +284,21 @@
         "ru_abuadel": "Перевод айята [91:9] на русский язык (Абу Адель).",
         "tr_diyanet": "[91:9] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [91:9] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［91:9］ 马坚 译文"
+        "zh_jian": "真主启示 ［91:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [91:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [91:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [91:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [91:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [91:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [91:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [91:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [91:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [91:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [91:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [91:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [91:9]."
       }
     },
     {
@@ -191,7 +317,21 @@
         "ru_abuadel": "Перевод айята [91:10] на русский язык (Абу Адель).",
         "tr_diyanet": "[91:10] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [91:10] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［91:10］ 马坚 译文"
+        "zh_jian": "真主启示 ［91:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [91:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [91:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [91:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [91:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [91:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [91:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [91:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [91:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [91:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [91:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [91:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [91:10]."
       }
     },
     {
@@ -210,7 +350,21 @@
         "ru_abuadel": "Перевод айята [91:11] на русский язык (Абу Адель).",
         "tr_diyanet": "[91:11] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [91:11] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［91:11］ 马坚 译文"
+        "zh_jian": "真主启示 ［91:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [91:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [91:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [91:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [91:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [91:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [91:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [91:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [91:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [91:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [91:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [91:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [91:11]."
       }
     },
     {
@@ -229,7 +383,21 @@
         "ru_abuadel": "Перевод айята [91:12] на русский язык (Абу Адель).",
         "tr_diyanet": "[91:12] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [91:12] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［91:12］ 马坚 译文"
+        "zh_jian": "真主启示 ［91:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [91:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [91:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [91:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [91:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [91:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [91:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [91:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [91:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [91:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [91:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [91:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [91:12]."
       }
     },
     {
@@ -248,7 +416,21 @@
         "ru_abuadel": "Перевод айята [91:13] на русский язык (Абу Адель).",
         "tr_diyanet": "[91:13] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [91:13] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［91:13］ 马坚 译文"
+        "zh_jian": "真主启示 ［91:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [91:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [91:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [91:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [91:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [91:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [91:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [91:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [91:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [91:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [91:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [91:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [91:13]."
       }
     },
     {
@@ -267,7 +449,21 @@
         "ru_abuadel": "Перевод айята [91:14] на русский язык (Абу Адель).",
         "tr_diyanet": "[91:14] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [91:14] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［91:14］ 马坚 译文"
+        "zh_jian": "真主启示 ［91:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [91:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [91:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [91:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [91:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [91:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [91:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [91:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [91:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [91:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [91:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [91:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [91:14]."
       }
     },
     {
@@ -286,7 +482,21 @@
         "ru_abuadel": "Перевод айята [91:15] на русский язык (Абу Адель).",
         "tr_diyanet": "[91:15] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [91:15] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［91:15］ 马坚 译文"
+        "zh_jian": "真主启示 ［91:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [91:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [91:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [91:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [91:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [91:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [91:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [91:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [91:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [91:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [91:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [91:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [91:15]."
       }
     }
   ],

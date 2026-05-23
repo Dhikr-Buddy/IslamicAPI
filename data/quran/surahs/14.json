@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T02:06:49.446Z",
+  "generatedAt": "2026-05-23T02:33:24.458Z",
   "surahNumber": 14,
   "ayahCount": 52,
   "ayahs": [
@@ -20,7 +20,21 @@
         "ru_abuadel": "Перевод айята [14:1] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:1] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:1] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:1］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:1]."
       }
     },
     {
@@ -39,7 +53,21 @@
         "ru_abuadel": "Перевод айята [14:2] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:2] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:2] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:2］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:2]."
       }
     },
     {
@@ -58,7 +86,21 @@
         "ru_abuadel": "Перевод айята [14:3] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:3] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:3] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:3］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:3]."
       }
     },
     {
@@ -77,7 +119,21 @@
         "ru_abuadel": "Перевод айята [14:4] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:4] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:4] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:4］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:4]."
       }
     },
     {
@@ -96,7 +152,21 @@
         "ru_abuadel": "Перевод айята [14:5] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:5] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:5] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:5］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:5]."
       }
     },
     {
@@ -115,7 +185,21 @@
         "ru_abuadel": "Перевод айята [14:6] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:6] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:6] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:6］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:6]."
       }
     },
     {
@@ -134,7 +218,21 @@
         "ru_abuadel": "Перевод айята [14:7] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:7] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:7] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:7］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:7]."
       }
     },
     {
@@ -153,7 +251,21 @@
         "ru_abuadel": "Перевод айята [14:8] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:8] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:8] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:8］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:8]."
       }
     },
     {
@@ -172,7 +284,21 @@
         "ru_abuadel": "Перевод айята [14:9] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:9] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:9] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:9］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:9]."
       }
     },
     {
@@ -191,7 +317,21 @@
         "ru_abuadel": "Перевод айята [14:10] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:10] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:10] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:10］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:10]."
       }
     },
     {
@@ -210,7 +350,21 @@
         "ru_abuadel": "Перевод айята [14:11] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:11] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:11] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:11］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:11]."
       }
     },
     {
@@ -229,7 +383,21 @@
         "ru_abuadel": "Перевод айята [14:12] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:12] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:12] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:12］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:12]."
       }
     },
     {
@@ -248,7 +416,21 @@
         "ru_abuadel": "Перевод айята [14:13] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:13] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:13] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:13］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:13]."
       }
     },
     {
@@ -267,7 +449,21 @@
         "ru_abuadel": "Перевод айята [14:14] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:14] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:14] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:14］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:14]."
       }
     },
     {
@@ -286,7 +482,21 @@
         "ru_abuadel": "Перевод айята [14:15] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:15] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:15] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:15］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:15]."
       }
     },
     {
@@ -305,7 +515,21 @@
         "ru_abuadel": "Перевод айята [14:16] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:16] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:16] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:16］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:16]."
       }
     },
     {
@@ -324,7 +548,21 @@
         "ru_abuadel": "Перевод айята [14:17] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:17] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:17] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:17］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:17]."
       }
     },
     {
@@ -343,7 +581,21 @@
         "ru_abuadel": "Перевод айята [14:18] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:18] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:18] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:18］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:18]."
       }
     },
     {
@@ -362,7 +614,21 @@
         "ru_abuadel": "Перевод айята [14:19] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:19] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:19] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:19］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:19]."
       }
     },
     {
@@ -381,7 +647,21 @@
         "ru_abuadel": "Перевод айята [14:20] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:20] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:20] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:20］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:20]."
       }
     },
     {
@@ -400,7 +680,21 @@
         "ru_abuadel": "Перевод айята [14:21] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:21] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:21] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:21］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:21］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:21] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:21] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:21] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:21] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:21]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:21] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:21].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:21] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:21].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:21].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:21].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:21]."
       }
     },
     {
@@ -419,7 +713,21 @@
         "ru_abuadel": "Перевод айята [14:22] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:22] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:22] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:22］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:22］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:22] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:22] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:22] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:22] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:22]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:22] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:22].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:22] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:22].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:22].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:22].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:22]."
       }
     },
     {
@@ -438,7 +746,21 @@
         "ru_abuadel": "Перевод айята [14:23] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:23] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:23] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:23］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:23］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:23] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:23] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:23] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:23] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:23]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:23] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:23].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:23] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:23].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:23].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:23].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:23]."
       }
     },
     {
@@ -457,7 +779,21 @@
         "ru_abuadel": "Перевод айята [14:24] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:24] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:24] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:24］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:24］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:24] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:24] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:24] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:24] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:24]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:24] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:24].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:24] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:24].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:24].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:24].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:24]."
       }
     },
     {
@@ -476,7 +812,21 @@
         "ru_abuadel": "Перевод айята [14:25] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:25] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:25] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:25］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:25］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:25] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:25] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:25] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:25] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:25]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:25] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:25].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:25] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:25].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:25].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:25].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:25]."
       }
     },
     {
@@ -495,7 +845,21 @@
         "ru_abuadel": "Перевод айята [14:26] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:26] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:26] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:26］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:26］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:26] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:26] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:26] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:26] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:26]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:26] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:26].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:26] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:26].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:26].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:26].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:26]."
       }
     },
     {
@@ -514,7 +878,21 @@
         "ru_abuadel": "Перевод айята [14:27] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:27] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:27] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:27］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:27］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:27] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:27] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:27] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:27] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:27]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:27] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:27].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:27] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:27].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:27].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:27].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:27]."
       }
     },
     {
@@ -533,7 +911,21 @@
         "ru_abuadel": "Перевод айята [14:28] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:28] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:28] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:28］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:28］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:28] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:28] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:28] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:28] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:28]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:28] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:28].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:28] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:28].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:28].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:28].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:28]."
       }
     },
     {
@@ -552,7 +944,21 @@
         "ru_abuadel": "Перевод айята [14:29] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:29] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:29] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:29］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:29］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:29] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:29] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:29] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:29] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:29]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:29] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:29].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:29] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:29].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:29].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:29].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:29]."
       }
     },
     {
@@ -571,7 +977,21 @@
         "ru_abuadel": "Перевод айята [14:30] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:30] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:30] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:30］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:30］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:30] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:30] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:30] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:30] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:30]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:30] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:30].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:30] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:30].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:30].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:30].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:30]."
       }
     },
     {
@@ -590,7 +1010,21 @@
         "ru_abuadel": "Перевод айята [14:31] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:31] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:31] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:31］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:31］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:31] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:31] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:31] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:31] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:31]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:31] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:31].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:31] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:31].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:31].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:31].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:31]."
       }
     },
     {
@@ -609,7 +1043,21 @@
         "ru_abuadel": "Перевод айята [14:32] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:32] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:32] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:32］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:32］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:32] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:32] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:32] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:32] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:32]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:32] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:32].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:32] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:32].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:32].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:32].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:32]."
       }
     },
     {
@@ -628,7 +1076,21 @@
         "ru_abuadel": "Перевод айята [14:33] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:33] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:33] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:33］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:33］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:33] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:33] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:33] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:33] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:33]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:33] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:33].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:33] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:33].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:33].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:33].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:33]."
       }
     },
     {
@@ -647,7 +1109,21 @@
         "ru_abuadel": "Перевод айята [14:34] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:34] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:34] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:34］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:34］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:34] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:34] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:34] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:34] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:34]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:34] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:34].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:34] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:34].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:34].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:34].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:34]."
       }
     },
     {
@@ -666,7 +1142,21 @@
         "ru_abuadel": "Перевод айята [14:35] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:35] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:35] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:35］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:35］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:35] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:35] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:35] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:35] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:35]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:35] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:35].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:35] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:35].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:35].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:35].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:35]."
       }
     },
     {
@@ -685,7 +1175,21 @@
         "ru_abuadel": "Перевод айята [14:36] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:36] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:36] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:36］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:36］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:36] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:36] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:36] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:36] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:36]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:36] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:36].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:36] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:36].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:36].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:36].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:36]."
       }
     },
     {
@@ -704,7 +1208,21 @@
         "ru_abuadel": "Перевод айята [14:37] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:37] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:37] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:37］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:37］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:37] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:37] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:37] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:37] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:37]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:37] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:37].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:37] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:37].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:37].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:37].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:37]."
       }
     },
     {
@@ -723,7 +1241,21 @@
         "ru_abuadel": "Перевод айята [14:38] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:38] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:38] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:38］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:38］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:38] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:38] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:38] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:38] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:38]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:38] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:38].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:38] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:38].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:38].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:38].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:38]."
       }
     },
     {
@@ -742,7 +1274,21 @@
         "ru_abuadel": "Перевод айята [14:39] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:39] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:39] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:39］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:39］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:39] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:39] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:39] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:39] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:39]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:39] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:39].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:39] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:39].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:39].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:39].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:39]."
       }
     },
     {
@@ -761,7 +1307,21 @@
         "ru_abuadel": "Перевод айята [14:40] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:40] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:40] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:40］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:40］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:40] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:40] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:40] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:40] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:40]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:40] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:40].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:40] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:40].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:40].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:40].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:40]."
       }
     },
     {
@@ -780,7 +1340,21 @@
         "ru_abuadel": "Перевод айята [14:41] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:41] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:41] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:41］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:41］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:41] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:41] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:41] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:41] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:41]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:41] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:41].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:41] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:41].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:41].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:41].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:41]."
       }
     },
     {
@@ -799,7 +1373,21 @@
         "ru_abuadel": "Перевод айята [14:42] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:42] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:42] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:42］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:42］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:42] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:42] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:42] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:42] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:42]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:42] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:42].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:42] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:42].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:42].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:42].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:42]."
       }
     },
     {
@@ -818,7 +1406,21 @@
         "ru_abuadel": "Перевод айята [14:43] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:43] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:43] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:43］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:43］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:43] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:43] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:43] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:43] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:43]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:43] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:43].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:43] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:43].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:43].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:43].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:43]."
       }
     },
     {
@@ -837,7 +1439,21 @@
         "ru_abuadel": "Перевод айята [14:44] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:44] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:44] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:44］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:44］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:44] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:44] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:44] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:44] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:44]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:44] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:44].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:44] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:44].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:44].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:44].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:44]."
       }
     },
     {
@@ -856,7 +1472,21 @@
         "ru_abuadel": "Перевод айята [14:45] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:45] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:45] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:45］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:45］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:45] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:45] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:45] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:45] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:45]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:45] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:45].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:45] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:45].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:45].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:45].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:45]."
       }
     },
     {
@@ -875,7 +1505,21 @@
         "ru_abuadel": "Перевод айята [14:46] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:46] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:46] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:46］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:46］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:46] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:46] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:46] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:46] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:46]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:46] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:46].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:46] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:46].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:46].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:46].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:46]."
       }
     },
     {
@@ -894,7 +1538,21 @@
         "ru_abuadel": "Перевод айята [14:47] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:47] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:47] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:47］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:47］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:47] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:47] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:47] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:47] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:47]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:47] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:47].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:47] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:47].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:47].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:47].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:47]."
       }
     },
     {
@@ -913,7 +1571,21 @@
         "ru_abuadel": "Перевод айята [14:48] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:48] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:48] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:48］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:48］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:48] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:48] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:48] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:48] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:48]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:48] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:48].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:48] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:48].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:48].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:48].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:48]."
       }
     },
     {
@@ -932,7 +1604,21 @@
         "ru_abuadel": "Перевод айята [14:49] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:49] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:49] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:49］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:49］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:49] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:49] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:49] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:49] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:49]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:49] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:49].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:49] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:49].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:49].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:49].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:49]."
       }
     },
     {
@@ -951,7 +1637,21 @@
         "ru_abuadel": "Перевод айята [14:50] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:50] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:50] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:50］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:50］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:50] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:50] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:50] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:50] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:50]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:50] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:50].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:50] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:50].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:50].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:50].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:50]."
       }
     },
     {
@@ -970,7 +1670,21 @@
         "ru_abuadel": "Перевод айята [14:51] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:51] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:51] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:51］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:51］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:51] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:51] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:51] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:51] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:51]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:51] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:51].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:51] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:51].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:51].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:51].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:51]."
       }
     },
     {
@@ -989,7 +1703,21 @@
         "ru_abuadel": "Перевод айята [14:52] на русский язык (Абу Адель).",
         "tr_diyanet": "[14:52] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [14:52] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［14:52］ 马坚 译文"
+        "zh_jian": "真主启示 ［14:52］ 马坚 译文",
+        "it_piccardo": "Traduzione di [14:52] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [14:52] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [14:52] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [14:52] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [14:52]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [14:52] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [14:52].",
+        "ar_jalalayn": "تفسير الجلالين للآية [14:52] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [14:52].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [14:52].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [14:52].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [14:52]."
       }
     }
   ],

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T02:06:49.473Z",
+  "generatedAt": "2026-05-23T02:33:24.499Z",
   "surahNumber": 81,
   "ayahCount": 29,
   "ayahs": [
@@ -20,7 +20,21 @@
         "ru_abuadel": "Перевод айята [81:1] на русский язык (Абу Адель).",
         "tr_diyanet": "[81:1] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [81:1] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［81:1］ 马坚 译文"
+        "zh_jian": "真主启示 ［81:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [81:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [81:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [81:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [81:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [81:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [81:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [81:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [81:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [81:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [81:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [81:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [81:1]."
       }
     },
     {
@@ -39,7 +53,21 @@
         "ru_abuadel": "Перевод айята [81:2] на русский язык (Абу Адель).",
         "tr_diyanet": "[81:2] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [81:2] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［81:2］ 马坚 译文"
+        "zh_jian": "真主启示 ［81:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [81:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [81:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [81:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [81:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [81:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [81:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [81:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [81:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [81:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [81:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [81:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [81:2]."
       }
     },
     {
@@ -58,7 +86,21 @@
         "ru_abuadel": "Перевод айята [81:3] на русский язык (Абу Адель).",
         "tr_diyanet": "[81:3] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [81:3] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［81:3］ 马坚 译文"
+        "zh_jian": "真主启示 ［81:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [81:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [81:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [81:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [81:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [81:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [81:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [81:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [81:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [81:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [81:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [81:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [81:3]."
       }
     },
     {
@@ -77,7 +119,21 @@
         "ru_abuadel": "Перевод айята [81:4] на русский язык (Абу Адель).",
         "tr_diyanet": "[81:4] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [81:4] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［81:4］ 马坚 译文"
+        "zh_jian": "真主启示 ［81:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [81:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [81:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [81:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [81:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [81:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [81:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [81:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [81:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [81:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [81:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [81:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [81:4]."
       }
     },
     {
@@ -96,7 +152,21 @@
         "ru_abuadel": "Перевод айята [81:5] на русский язык (Абу Адель).",
         "tr_diyanet": "[81:5] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [81:5] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［81:5］ 马坚 译文"
+        "zh_jian": "真主启示 ［81:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [81:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [81:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [81:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [81:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [81:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [81:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [81:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [81:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [81:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [81:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [81:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [81:5]."
       }
     },
     {
@@ -115,7 +185,21 @@
         "ru_abuadel": "Перевод айята [81:6] на русский язык (Абу Адель).",
         "tr_diyanet": "[81:6] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [81:6] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［81:6］ 马坚 译文"
+        "zh_jian": "真主启示 ［81:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [81:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [81:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [81:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [81:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [81:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [81:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [81:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [81:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [81:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [81:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [81:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [81:6]."
       }
     },
     {
@@ -134,7 +218,21 @@
         "ru_abuadel": "Перевод айята [81:7] на русский язык (Абу Адель).",
         "tr_diyanet": "[81:7] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [81:7] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［81:7］ 马坚 译文"
+        "zh_jian": "真主启示 ［81:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [81:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [81:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [81:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [81:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [81:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [81:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [81:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [81:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [81:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [81:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [81:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [81:7]."
       }
     },
     {
@@ -153,7 +251,21 @@
         "ru_abuadel": "Перевод айята [81:8] на русский язык (Абу Адель).",
         "tr_diyanet": "[81:8] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [81:8] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［81:8］ 马坚 译文"
+        "zh_jian": "真主启示 ［81:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [81:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [81:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [81:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [81:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [81:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [81:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [81:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [81:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [81:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [81:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [81:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [81:8]."
       }
     },
     {
@@ -172,7 +284,21 @@
         "ru_abuadel": "Перевод айята [81:9] на русский язык (Абу Адель).",
         "tr_diyanet": "[81:9] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [81:9] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［81:9］ 马坚 译文"
+        "zh_jian": "真主启示 ［81:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [81:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [81:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [81:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [81:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [81:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [81:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [81:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [81:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [81:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [81:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [81:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [81:9]."
       }
     },
     {
@@ -191,7 +317,21 @@
         "ru_abuadel": "Перевод айята [81:10] на русский язык (Абу Адель).",
         "tr_diyanet": "[81:10] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [81:10] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［81:10］ 马坚 译文"
+        "zh_jian": "真主启示 ［81:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [81:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [81:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [81:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [81:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [81:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [81:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [81:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [81:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [81:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [81:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [81:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [81:10]."
       }
     },
     {
@@ -210,7 +350,21 @@
         "ru_abuadel": "Перевод айята [81:11] на русский язык (Абу Адель).",
         "tr_diyanet": "[81:11] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [81:11] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［81:11］ 马坚 译文"
+        "zh_jian": "真主启示 ［81:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [81:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [81:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [81:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [81:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [81:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [81:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [81:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [81:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [81:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [81:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [81:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [81:11]."
       }
     },
     {
@@ -229,7 +383,21 @@
         "ru_abuadel": "Перевод айята [81:12] на русский язык (Абу Адель).",
         "tr_diyanet": "[81:12] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [81:12] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［81:12］ 马坚 译文"
+        "zh_jian": "真主启示 ［81:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [81:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [81:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [81:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [81:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [81:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [81:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [81:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [81:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [81:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [81:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [81:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [81:12]."
       }
     },
     {
@@ -248,7 +416,21 @@
         "ru_abuadel": "Перевод айята [81:13] на русский язык (Абу Адель).",
         "tr_diyanet": "[81:13] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [81:13] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［81:13］ 马坚 译文"
+        "zh_jian": "真主启示 ［81:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [81:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [81:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [81:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [81:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [81:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [81:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [81:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [81:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [81:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [81:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [81:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [81:13]."
       }
     },
     {
@@ -267,7 +449,21 @@
         "ru_abuadel": "Перевод айята [81:14] на русский язык (Абу Адель).",
         "tr_diyanet": "[81:14] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [81:14] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［81:14］ 马坚 译文"
+        "zh_jian": "真主启示 ［81:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [81:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [81:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [81:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [81:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [81:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [81:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [81:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [81:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [81:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [81:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [81:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [81:14]."
       }
     },
     {
@@ -286,7 +482,21 @@
         "ru_abuadel": "Перевод айята [81:15] на русский язык (Абу Адель).",
         "tr_diyanet": "[81:15] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [81:15] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［81:15］ 马坚 译文"
+        "zh_jian": "真主启示 ［81:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [81:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [81:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [81:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [81:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [81:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [81:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [81:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [81:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [81:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [81:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [81:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [81:15]."
       }
     },
     {
@@ -305,7 +515,21 @@
         "ru_abuadel": "Перевод айята [81:16] на русский язык (Абу Адель).",
         "tr_diyanet": "[81:16] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [81:16] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［81:16］ 马坚 译文"
+        "zh_jian": "真主启示 ［81:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [81:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [81:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [81:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [81:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [81:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [81:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [81:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [81:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [81:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [81:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [81:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [81:16]."
       }
     },
     {
@@ -324,7 +548,21 @@
         "ru_abuadel": "Перевод айята [81:17] на русский язык (Абу Адель).",
         "tr_diyanet": "[81:17] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [81:17] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［81:17］ 马坚 译文"
+        "zh_jian": "真主启示 ［81:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [81:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [81:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [81:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [81:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [81:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [81:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [81:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [81:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [81:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [81:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [81:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [81:17]."
       }
     },
     {
@@ -343,7 +581,21 @@
         "ru_abuadel": "Перевод айята [81:18] на русский язык (Абу Адель).",
         "tr_diyanet": "[81:18] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [81:18] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［81:18］ 马坚 译文"
+        "zh_jian": "真主启示 ［81:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [81:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [81:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [81:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [81:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [81:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [81:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [81:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [81:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [81:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [81:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [81:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [81:18]."
       }
     },
     {
@@ -362,7 +614,21 @@
         "ru_abuadel": "Перевод айята [81:19] на русский язык (Абу Адель).",
         "tr_diyanet": "[81:19] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [81:19] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［81:19］ 马坚 译文"
+        "zh_jian": "真主启示 ［81:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [81:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [81:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [81:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [81:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [81:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [81:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [81:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [81:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [81:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [81:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [81:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [81:19]."
       }
     },
     {
@@ -381,7 +647,21 @@
         "ru_abuadel": "Перевод айята [81:20] на русский язык (Абу Адель).",
         "tr_diyanet": "[81:20] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [81:20] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［81:20］ 马坚 译文"
+        "zh_jian": "真主启示 ［81:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [81:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [81:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [81:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [81:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [81:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [81:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [81:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [81:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [81:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [81:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [81:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [81:20]."
       }
     },
     {
@@ -400,7 +680,21 @@
         "ru_abuadel": "Перевод айята [81:21] на русский язык (Абу Адель).",
         "tr_diyanet": "[81:21] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [81:21] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［81:21］ 马坚 译文"
+        "zh_jian": "真主启示 ［81:21］ 马坚 译文",
+        "it_piccardo": "Traduzione di [81:21] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [81:21] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [81:21] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [81:21] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [81:21]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [81:21] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [81:21].",
+        "ar_jalalayn": "تفسير الجلالين للآية [81:21] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [81:21].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [81:21].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [81:21].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [81:21]."
       }
     },
     {
@@ -419,7 +713,21 @@
         "ru_abuadel": "Перевод айята [81:22] на русский язык (Абу Адель).",
         "tr_diyanet": "[81:22] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [81:22] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［81:22］ 马坚 译文"
+        "zh_jian": "真主启示 ［81:22］ 马坚 译文",
+        "it_piccardo": "Traduzione di [81:22] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [81:22] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [81:22] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [81:22] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [81:22]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [81:22] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [81:22].",
+        "ar_jalalayn": "تفسير الجلالين للآية [81:22] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [81:22].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [81:22].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [81:22].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [81:22]."
       }
     },
     {
@@ -438,7 +746,21 @@
         "ru_abuadel": "Перевод айята [81:23] на русский язык (Абу Адель).",
         "tr_diyanet": "[81:23] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [81:23] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［81:23］ 马坚 译文"
+        "zh_jian": "真主启示 ［81:23］ 马坚 译文",
+        "it_piccardo": "Traduzione di [81:23] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [81:23] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [81:23] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [81:23] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [81:23]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [81:23] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [81:23].",
+        "ar_jalalayn": "تفسير الجلالين للآية [81:23] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [81:23].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [81:23].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [81:23].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [81:23]."
       }
     },
     {
@@ -457,7 +779,21 @@
         "ru_abuadel": "Перевод айята [81:24] на русский язык (Абу Адель).",
         "tr_diyanet": "[81:24] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [81:24] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［81:24］ 马坚 译文"
+        "zh_jian": "真主启示 ［81:24］ 马坚 译文",
+        "it_piccardo": "Traduzione di [81:24] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [81:24] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [81:24] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [81:24] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [81:24]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [81:24] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [81:24].",
+        "ar_jalalayn": "تفسير الجلالين للآية [81:24] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [81:24].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [81:24].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [81:24].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [81:24]."
       }
     },
     {
@@ -476,7 +812,21 @@
         "ru_abuadel": "Перевод айята [81:25] на русский язык (Абу Адель).",
         "tr_diyanet": "[81:25] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [81:25] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［81:25］ 马坚 译文"
+        "zh_jian": "真主启示 ［81:25］ 马坚 译文",
+        "it_piccardo": "Traduzione di [81:25] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [81:25] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [81:25] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [81:25] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [81:25]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [81:25] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [81:25].",
+        "ar_jalalayn": "تفسير الجلالين للآية [81:25] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [81:25].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [81:25].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [81:25].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [81:25]."
       }
     },
     {
@@ -495,7 +845,21 @@
         "ru_abuadel": "Перевод айята [81:26] на русский язык (Абу Адель).",
         "tr_diyanet": "[81:26] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [81:26] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［81:26］ 马坚 译文"
+        "zh_jian": "真主启示 ［81:26］ 马坚 译文",
+        "it_piccardo": "Traduzione di [81:26] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [81:26] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [81:26] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [81:26] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [81:26]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [81:26] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [81:26].",
+        "ar_jalalayn": "تفسير الجلالين للآية [81:26] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [81:26].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [81:26].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [81:26].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [81:26]."
       }
     },
     {
@@ -514,7 +878,21 @@
         "ru_abuadel": "Перевод айята [81:27] на русский язык (Абу Адель).",
         "tr_diyanet": "[81:27] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [81:27] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［81:27］ 马坚 译文"
+        "zh_jian": "真主启示 ［81:27］ 马坚 译文",
+        "it_piccardo": "Traduzione di [81:27] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [81:27] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [81:27] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [81:27] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [81:27]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [81:27] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [81:27].",
+        "ar_jalalayn": "تفسير الجلالين للآية [81:27] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [81:27].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [81:27].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [81:27].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [81:27]."
       }
     },
     {
@@ -533,7 +911,21 @@
         "ru_abuadel": "Перевод айята [81:28] на русский язык (Абу Адель).",
         "tr_diyanet": "[81:28] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [81:28] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［81:28］ 马坚 译文"
+        "zh_jian": "真主启示 ［81:28］ 马坚 译文",
+        "it_piccardo": "Traduzione di [81:28] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [81:28] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [81:28] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [81:28] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [81:28]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [81:28] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [81:28].",
+        "ar_jalalayn": "تفسير الجلالين للآية [81:28] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [81:28].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [81:28].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [81:28].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [81:28]."
       }
     },
     {
@@ -552,7 +944,21 @@
         "ru_abuadel": "Перевод айята [81:29] на русский язык (Абу Адель).",
         "tr_diyanet": "[81:29] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [81:29] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［81:29］ 马坚 译文"
+        "zh_jian": "真主启示 ［81:29］ 马坚 译文",
+        "it_piccardo": "Traduzione di [81:29] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [81:29] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [81:29] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [81:29] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [81:29]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [81:29] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [81:29].",
+        "ar_jalalayn": "تفسير الجلالين للآية [81:29] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [81:29].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [81:29].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [81:29].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [81:29]."
       }
     }
   ],

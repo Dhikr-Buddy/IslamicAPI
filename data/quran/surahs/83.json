@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T02:06:49.473Z",
+  "generatedAt": "2026-05-23T02:33:24.499Z",
   "surahNumber": 83,
   "ayahCount": 36,
   "ayahs": [
@@ -20,7 +20,21 @@
         "ru_abuadel": "Перевод айята [83:1] на русский язык (Абу Адель).",
         "tr_diyanet": "[83:1] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [83:1] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［83:1］ 马坚 译文"
+        "zh_jian": "真主启示 ［83:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [83:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [83:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [83:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [83:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [83:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [83:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [83:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [83:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [83:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [83:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [83:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [83:1]."
       }
     },
     {
@@ -39,7 +53,21 @@
         "ru_abuadel": "Перевод айята [83:2] на русский язык (Абу Адель).",
         "tr_diyanet": "[83:2] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [83:2] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［83:2］ 马坚 译文"
+        "zh_jian": "真主启示 ［83:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [83:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [83:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [83:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [83:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [83:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [83:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [83:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [83:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [83:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [83:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [83:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [83:2]."
       }
     },
     {
@@ -58,7 +86,21 @@
         "ru_abuadel": "Перевод айята [83:3] на русский язык (Абу Адель).",
         "tr_diyanet": "[83:3] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [83:3] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［83:3］ 马坚 译文"
+        "zh_jian": "真主启示 ［83:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [83:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [83:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [83:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [83:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [83:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [83:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [83:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [83:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [83:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [83:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [83:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [83:3]."
       }
     },
     {
@@ -77,7 +119,21 @@
         "ru_abuadel": "Перевод айята [83:4] на русский язык (Абу Адель).",
         "tr_diyanet": "[83:4] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [83:4] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［83:4］ 马坚 译文"
+        "zh_jian": "真主启示 ［83:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [83:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [83:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [83:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [83:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [83:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [83:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [83:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [83:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [83:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [83:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [83:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [83:4]."
       }
     },
     {
@@ -96,7 +152,21 @@
         "ru_abuadel": "Перевод айята [83:5] на русский язык (Абу Адель).",
         "tr_diyanet": "[83:5] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [83:5] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［83:5］ 马坚 译文"
+        "zh_jian": "真主启示 ［83:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [83:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [83:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [83:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [83:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [83:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [83:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [83:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [83:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [83:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [83:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [83:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [83:5]."
       }
     },
     {
@@ -115,7 +185,21 @@
         "ru_abuadel": "Перевод айята [83:6] на русский язык (Абу Адель).",
         "tr_diyanet": "[83:6] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [83:6] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［83:6］ 马坚 译文"
+        "zh_jian": "真主启示 ［83:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [83:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [83:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [83:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [83:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [83:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [83:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [83:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [83:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [83:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [83:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [83:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [83:6]."
       }
     },
     {
@@ -134,7 +218,21 @@
         "ru_abuadel": "Перевод айята [83:7] на русский язык (Абу Адель).",
         "tr_diyanet": "[83:7] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [83:7] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［83:7］ 马坚 译文"
+        "zh_jian": "真主启示 ［83:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [83:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [83:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [83:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [83:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [83:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [83:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [83:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [83:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [83:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [83:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [83:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [83:7]."
       }
     },
     {
@@ -153,7 +251,21 @@
         "ru_abuadel": "Перевод айята [83:8] на русский язык (Абу Адель).",
         "tr_diyanet": "[83:8] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [83:8] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［83:8］ 马坚 译文"
+        "zh_jian": "真主启示 ［83:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [83:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [83:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [83:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [83:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [83:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [83:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [83:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [83:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [83:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [83:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [83:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [83:8]."
       }
     },
     {
@@ -172,7 +284,21 @@
         "ru_abuadel": "Перевод айята [83:9] на русский язык (Абу Адель).",
         "tr_diyanet": "[83:9] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [83:9] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［83:9］ 马坚 译文"
+        "zh_jian": "真主启示 ［83:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [83:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [83:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [83:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [83:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [83:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [83:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [83:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [83:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [83:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [83:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [83:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [83:9]."
       }
     },
     {
@@ -191,7 +317,21 @@
         "ru_abuadel": "Перевод айята [83:10] на русский язык (Абу Адель).",
         "tr_diyanet": "[83:10] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [83:10] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［83:10］ 马坚 译文"
+        "zh_jian": "真主启示 ［83:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [83:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [83:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [83:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [83:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [83:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [83:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [83:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [83:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [83:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [83:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [83:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [83:10]."
       }
     },
     {
@@ -210,7 +350,21 @@
         "ru_abuadel": "Перевод айята [83:11] на русский язык (Абу Адель).",
         "tr_diyanet": "[83:11] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [83:11] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［83:11］ 马坚 译文"
+        "zh_jian": "真主启示 ［83:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [83:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [83:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [83:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [83:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [83:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [83:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [83:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [83:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [83:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [83:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [83:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [83:11]."
       }
     },
     {
@@ -229,7 +383,21 @@
         "ru_abuadel": "Перевод айята [83:12] на русский язык (Абу Адель).",
         "tr_diyanet": "[83:12] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [83:12] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［83:12］ 马坚 译文"
+        "zh_jian": "真主启示 ［83:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [83:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [83:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [83:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [83:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [83:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [83:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [83:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [83:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [83:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [83:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [83:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [83:12]."
       }
     },
     {
@@ -248,7 +416,21 @@
         "ru_abuadel": "Перевод айята [83:13] на русский язык (Абу Адель).",
         "tr_diyanet": "[83:13] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [83:13] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［83:13］ 马坚 译文"
+        "zh_jian": "真主启示 ［83:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [83:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [83:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [83:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [83:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [83:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [83:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [83:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [83:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [83:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [83:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [83:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [83:13]."
       }
     },
     {
@@ -267,7 +449,21 @@
         "ru_abuadel": "Перевод айята [83:14] на русский язык (Абу Адель).",
         "tr_diyanet": "[83:14] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [83:14] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［83:14］ 马坚 译文"
+        "zh_jian": "真主启示 ［83:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [83:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [83:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [83:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [83:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [83:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [83:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [83:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [83:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [83:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [83:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [83:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [83:14]."
       }
     },
     {
@@ -286,7 +482,21 @@
         "ru_abuadel": "Перевод айята [83:15] на русский язык (Абу Адель).",
         "tr_diyanet": "[83:15] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [83:15] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［83:15］ 马坚 译文"
+        "zh_jian": "真主启示 ［83:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [83:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [83:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [83:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [83:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [83:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [83:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [83:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [83:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [83:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [83:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [83:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [83:15]."
       }
     },
     {
@@ -305,7 +515,21 @@
         "ru_abuadel": "Перевод айята [83:16] на русский язык (Абу Адель).",
         "tr_diyanet": "[83:16] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [83:16] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［83:16］ 马坚 译文"
+        "zh_jian": "真主启示 ［83:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [83:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [83:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [83:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [83:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [83:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [83:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [83:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [83:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [83:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [83:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [83:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [83:16]."
       }
     },
     {
@@ -324,7 +548,21 @@
         "ru_abuadel": "Перевод айята [83:17] на русский язык (Абу Адель).",
         "tr_diyanet": "[83:17] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [83:17] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［83:17］ 马坚 译文"
+        "zh_jian": "真主启示 ［83:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [83:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [83:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [83:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [83:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [83:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [83:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [83:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [83:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [83:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [83:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [83:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [83:17]."
       }
     },
     {
@@ -343,7 +581,21 @@
         "ru_abuadel": "Перевод айята [83:18] на русский язык (Абу Адель).",
         "tr_diyanet": "[83:18] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [83:18] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［83:18］ 马坚 译文"
+        "zh_jian": "真主启示 ［83:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [83:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [83:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [83:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [83:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [83:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [83:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [83:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [83:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [83:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [83:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [83:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [83:18]."
       }
     },
     {
@@ -362,7 +614,21 @@
         "ru_abuadel": "Перевод айята [83:19] на русский язык (Абу Адель).",
         "tr_diyanet": "[83:19] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [83:19] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［83:19］ 马坚 译文"
+        "zh_jian": "真主启示 ［83:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [83:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [83:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [83:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [83:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [83:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [83:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [83:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [83:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [83:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [83:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [83:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [83:19]."
       }
     },
     {
@@ -381,7 +647,21 @@
         "ru_abuadel": "Перевод айята [83:20] на русский язык (Абу Адель).",
         "tr_diyanet": "[83:20] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [83:20] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［83:20］ 马坚 译文"
+        "zh_jian": "真主启示 ［83:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [83:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [83:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [83:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [83:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [83:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [83:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [83:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [83:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [83:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [83:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [83:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [83:20]."
       }
     },
     {
@@ -400,7 +680,21 @@
         "ru_abuadel": "Перевод айята [83:21] на русский язык (Абу Адель).",
         "tr_diyanet": "[83:21] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [83:21] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［83:21］ 马坚 译文"
+        "zh_jian": "真主启示 ［83:21］ 马坚 译文",
+        "it_piccardo": "Traduzione di [83:21] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [83:21] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [83:21] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [83:21] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [83:21]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [83:21] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [83:21].",
+        "ar_jalalayn": "تفسير الجلالين للآية [83:21] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [83:21].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [83:21].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [83:21].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [83:21]."
       }
     },
     {
@@ -419,7 +713,21 @@
         "ru_abuadel": "Перевод айята [83:22] на русский язык (Абу Адель).",
         "tr_diyanet": "[83:22] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [83:22] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［83:22］ 马坚 译文"
+        "zh_jian": "真主启示 ［83:22］ 马坚 译文",
+        "it_piccardo": "Traduzione di [83:22] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [83:22] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [83:22] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [83:22] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [83:22]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [83:22] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [83:22].",
+        "ar_jalalayn": "تفسير الجلالين للآية [83:22] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [83:22].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [83:22].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [83:22].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [83:22]."
       }
     },
     {
@@ -438,7 +746,21 @@
         "ru_abuadel": "Перевод айята [83:23] на русский язык (Абу Адель).",
         "tr_diyanet": "[83:23] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [83:23] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［83:23］ 马坚 译文"
+        "zh_jian": "真主启示 ［83:23］ 马坚 译文",
+        "it_piccardo": "Traduzione di [83:23] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [83:23] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [83:23] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [83:23] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [83:23]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [83:23] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [83:23].",
+        "ar_jalalayn": "تفسير الجلالين للآية [83:23] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [83:23].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [83:23].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [83:23].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [83:23]."
       }
     },
     {
@@ -457,7 +779,21 @@
         "ru_abuadel": "Перевод айята [83:24] на русский язык (Абу Адель).",
         "tr_diyanet": "[83:24] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [83:24] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［83:24］ 马坚 译文"
+        "zh_jian": "真主启示 ［83:24］ 马坚 译文",
+        "it_piccardo": "Traduzione di [83:24] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [83:24] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [83:24] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [83:24] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [83:24]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [83:24] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [83:24].",
+        "ar_jalalayn": "تفسير الجلالين للآية [83:24] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [83:24].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [83:24].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [83:24].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [83:24]."
       }
     },
     {
@@ -476,7 +812,21 @@
         "ru_abuadel": "Перевод айята [83:25] на русский язык (Абу Адель).",
         "tr_diyanet": "[83:25] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [83:25] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［83:25］ 马坚 译文"
+        "zh_jian": "真主启示 ［83:25］ 马坚 译文",
+        "it_piccardo": "Traduzione di [83:25] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [83:25] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [83:25] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [83:25] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [83:25]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [83:25] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [83:25].",
+        "ar_jalalayn": "تفسير الجلالين للآية [83:25] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [83:25].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [83:25].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [83:25].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [83:25]."
       }
     },
     {
@@ -495,7 +845,21 @@
         "ru_abuadel": "Перевод айята [83:26] на русский язык (Абу Адель).",
         "tr_diyanet": "[83:26] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [83:26] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［83:26］ 马坚 译文"
+        "zh_jian": "真主启示 ［83:26］ 马坚 译文",
+        "it_piccardo": "Traduzione di [83:26] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [83:26] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [83:26] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [83:26] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [83:26]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [83:26] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [83:26].",
+        "ar_jalalayn": "تفسير الجلالين للآية [83:26] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [83:26].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [83:26].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [83:26].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [83:26]."
       }
     },
     {
@@ -514,7 +878,21 @@
         "ru_abuadel": "Перевод айята [83:27] на русский язык (Абу Адель).",
         "tr_diyanet": "[83:27] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [83:27] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［83:27］ 马坚 译文"
+        "zh_jian": "真主启示 ［83:27］ 马坚 译文",
+        "it_piccardo": "Traduzione di [83:27] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [83:27] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [83:27] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [83:27] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [83:27]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [83:27] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [83:27].",
+        "ar_jalalayn": "تفسير الجلالين للآية [83:27] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [83:27].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [83:27].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [83:27].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [83:27]."
       }
     },
     {
@@ -533,7 +911,21 @@
         "ru_abuadel": "Перевод айята [83:28] на русский язык (Абу Адель).",
         "tr_diyanet": "[83:28] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [83:28] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［83:28］ 马坚 译文"
+        "zh_jian": "真主启示 ［83:28］ 马坚 译文",
+        "it_piccardo": "Traduzione di [83:28] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [83:28] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [83:28] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [83:28] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [83:28]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [83:28] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [83:28].",
+        "ar_jalalayn": "تفسير الجلالين للآية [83:28] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [83:28].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [83:28].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [83:28].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [83:28]."
       }
     },
     {
@@ -552,7 +944,21 @@
         "ru_abuadel": "Перевод айята [83:29] на русский язык (Абу Адель).",
         "tr_diyanet": "[83:29] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [83:29] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［83:29］ 马坚 译文"
+        "zh_jian": "真主启示 ［83:29］ 马坚 译文",
+        "it_piccardo": "Traduzione di [83:29] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [83:29] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [83:29] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [83:29] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [83:29]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [83:29] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [83:29].",
+        "ar_jalalayn": "تفسير الجلالين للآية [83:29] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [83:29].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [83:29].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [83:29].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [83:29]."
       }
     },
     {
@@ -571,7 +977,21 @@
         "ru_abuadel": "Перевод айята [83:30] на русский язык (Абу Адель).",
         "tr_diyanet": "[83:30] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [83:30] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［83:30］ 马坚 译文"
+        "zh_jian": "真主启示 ［83:30］ 马坚 译文",
+        "it_piccardo": "Traduzione di [83:30] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [83:30] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [83:30] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [83:30] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [83:30]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [83:30] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [83:30].",
+        "ar_jalalayn": "تفسير الجلالين للآية [83:30] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [83:30].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [83:30].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [83:30].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [83:30]."
       }
     },
     {
@@ -590,7 +1010,21 @@
         "ru_abuadel": "Перевод айята [83:31] на русский язык (Абу Адель).",
         "tr_diyanet": "[83:31] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [83:31] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［83:31］ 马坚 译文"
+        "zh_jian": "真主启示 ［83:31］ 马坚 译文",
+        "it_piccardo": "Traduzione di [83:31] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [83:31] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [83:31] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [83:31] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [83:31]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [83:31] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [83:31].",
+        "ar_jalalayn": "تفسير الجلالين للآية [83:31] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [83:31].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [83:31].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [83:31].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [83:31]."
       }
     },
     {
@@ -609,7 +1043,21 @@
         "ru_abuadel": "Перевод айята [83:32] на русский язык (Абу Адель).",
         "tr_diyanet": "[83:32] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [83:32] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［83:32］ 马坚 译文"
+        "zh_jian": "真主启示 ［83:32］ 马坚 译文",
+        "it_piccardo": "Traduzione di [83:32] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [83:32] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [83:32] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [83:32] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [83:32]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [83:32] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [83:32].",
+        "ar_jalalayn": "تفسير الجلالين للآية [83:32] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [83:32].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [83:32].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [83:32].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [83:32]."
       }
     },
     {
@@ -628,7 +1076,21 @@
         "ru_abuadel": "Перевод айята [83:33] на русский язык (Абу Адель).",
         "tr_diyanet": "[83:33] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [83:33] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［83:33］ 马坚 译文"
+        "zh_jian": "真主启示 ［83:33］ 马坚 译文",
+        "it_piccardo": "Traduzione di [83:33] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [83:33] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [83:33] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [83:33] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [83:33]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [83:33] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [83:33].",
+        "ar_jalalayn": "تفسير الجلالين للآية [83:33] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [83:33].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [83:33].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [83:33].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [83:33]."
       }
     },
     {
@@ -647,7 +1109,21 @@
         "ru_abuadel": "Перевод айята [83:34] на русский язык (Абу Адель).",
         "tr_diyanet": "[83:34] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [83:34] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［83:34］ 马坚 译文"
+        "zh_jian": "真主启示 ［83:34］ 马坚 译文",
+        "it_piccardo": "Traduzione di [83:34] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [83:34] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [83:34] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [83:34] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [83:34]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [83:34] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [83:34].",
+        "ar_jalalayn": "تفسير الجلالين للآية [83:34] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [83:34].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [83:34].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [83:34].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [83:34]."
       }
     },
     {
@@ -666,7 +1142,21 @@
         "ru_abuadel": "Перевод айята [83:35] на русский язык (Абу Адель).",
         "tr_diyanet": "[83:35] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [83:35] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［83:35］ 马坚 译文"
+        "zh_jian": "真主启示 ［83:35］ 马坚 译文",
+        "it_piccardo": "Traduzione di [83:35] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [83:35] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [83:35] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [83:35] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [83:35]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [83:35] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [83:35].",
+        "ar_jalalayn": "تفسير الجلالين للآية [83:35] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [83:35].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [83:35].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [83:35].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [83:35]."
       }
     },
     {
@@ -685,7 +1175,21 @@
         "ru_abuadel": "Перевод айята [83:36] на русский язык (Абу Адель).",
         "tr_diyanet": "[83:36] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [83:36] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［83:36］ 马坚 译文"
+        "zh_jian": "真主启示 ［83:36］ 马坚 译文",
+        "it_piccardo": "Traduzione di [83:36] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [83:36] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [83:36] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [83:36] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [83:36]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [83:36] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [83:36].",
+        "ar_jalalayn": "تفسير الجلالين للآية [83:36] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [83:36].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [83:36].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [83:36].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [83:36]."
       }
     }
   ],

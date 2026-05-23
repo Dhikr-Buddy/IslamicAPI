@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T02:06:49.467Z",
+  "generatedAt": "2026-05-23T02:33:24.489Z",
   "surahNumber": 57,
   "ayahCount": 29,
   "ayahs": [
@@ -20,7 +20,21 @@
         "ru_abuadel": "Перевод айята [57:1] на русский язык (Абу Адель).",
         "tr_diyanet": "[57:1] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [57:1] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［57:1］ 马坚 译文"
+        "zh_jian": "真主启示 ［57:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [57:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [57:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [57:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [57:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [57:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [57:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [57:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [57:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [57:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [57:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [57:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [57:1]."
       }
     },
     {
@@ -39,7 +53,21 @@
         "ru_abuadel": "Перевод айята [57:2] на русский язык (Абу Адель).",
         "tr_diyanet": "[57:2] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [57:2] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［57:2］ 马坚 译文"
+        "zh_jian": "真主启示 ［57:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [57:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [57:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [57:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [57:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [57:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [57:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [57:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [57:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [57:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [57:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [57:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [57:2]."
       }
     },
     {
@@ -58,7 +86,21 @@
         "ru_abuadel": "Перевод айята [57:3] на русский язык (Абу Адель).",
         "tr_diyanet": "[57:3] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [57:3] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［57:3］ 马坚 译文"
+        "zh_jian": "真主启示 ［57:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [57:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [57:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [57:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [57:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [57:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [57:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [57:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [57:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [57:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [57:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [57:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [57:3]."
       }
     },
     {
@@ -77,7 +119,21 @@
         "ru_abuadel": "Перевод айята [57:4] на русский язык (Абу Адель).",
         "tr_diyanet": "[57:4] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [57:4] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［57:4］ 马坚 译文"
+        "zh_jian": "真主启示 ［57:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [57:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [57:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [57:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [57:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [57:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [57:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [57:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [57:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [57:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [57:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [57:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [57:4]."
       }
     },
     {
@@ -96,7 +152,21 @@
         "ru_abuadel": "Перевод айята [57:5] на русский язык (Абу Адель).",
         "tr_diyanet": "[57:5] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [57:5] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［57:5］ 马坚 译文"
+        "zh_jian": "真主启示 ［57:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [57:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [57:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [57:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [57:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [57:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [57:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [57:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [57:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [57:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [57:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [57:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [57:5]."
       }
     },
     {
@@ -115,7 +185,21 @@
         "ru_abuadel": "Перевод айята [57:6] на русский язык (Абу Адель).",
         "tr_diyanet": "[57:6] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [57:6] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［57:6］ 马坚 译文"
+        "zh_jian": "真主启示 ［57:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [57:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [57:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [57:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [57:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [57:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [57:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [57:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [57:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [57:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [57:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [57:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [57:6]."
       }
     },
     {
@@ -134,7 +218,21 @@
         "ru_abuadel": "Перевод айята [57:7] на русский язык (Абу Адель).",
         "tr_diyanet": "[57:7] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [57:7] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［57:7］ 马坚 译文"
+        "zh_jian": "真主启示 ［57:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [57:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [57:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [57:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [57:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [57:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [57:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [57:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [57:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [57:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [57:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [57:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [57:7]."
       }
     },
     {
@@ -153,7 +251,21 @@
         "ru_abuadel": "Перевод айята [57:8] на русский язык (Абу Адель).",
         "tr_diyanet": "[57:8] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [57:8] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［57:8］ 马坚 译文"
+        "zh_jian": "真主启示 ［57:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [57:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [57:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [57:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [57:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [57:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [57:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [57:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [57:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [57:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [57:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [57:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [57:8]."
       }
     },
     {
@@ -172,7 +284,21 @@
         "ru_abuadel": "Перевод айята [57:9] на русский язык (Абу Адель).",
         "tr_diyanet": "[57:9] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [57:9] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［57:9］ 马坚 译文"
+        "zh_jian": "真主启示 ［57:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [57:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [57:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [57:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [57:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [57:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [57:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [57:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [57:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [57:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [57:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [57:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [57:9]."
       }
     },
     {
@@ -191,7 +317,21 @@
         "ru_abuadel": "Перевод айята [57:10] на русский язык (Абу Адель).",
         "tr_diyanet": "[57:10] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [57:10] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［57:10］ 马坚 译文"
+        "zh_jian": "真主启示 ［57:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [57:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [57:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [57:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [57:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [57:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [57:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [57:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [57:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [57:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [57:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [57:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [57:10]."
       }
     },
     {
@@ -210,7 +350,21 @@
         "ru_abuadel": "Перевод айята [57:11] на русский язык (Абу Адель).",
         "tr_diyanet": "[57:11] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [57:11] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［57:11］ 马坚 译文"
+        "zh_jian": "真主启示 ［57:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [57:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [57:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [57:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [57:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [57:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [57:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [57:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [57:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [57:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [57:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [57:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [57:11]."
       }
     },
     {
@@ -229,7 +383,21 @@
         "ru_abuadel": "Перевод айята [57:12] на русский язык (Абу Адель).",
         "tr_diyanet": "[57:12] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [57:12] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［57:12］ 马坚 译文"
+        "zh_jian": "真主启示 ［57:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [57:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [57:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [57:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [57:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [57:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [57:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [57:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [57:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [57:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [57:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [57:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [57:12]."
       }
     },
     {
@@ -248,7 +416,21 @@
         "ru_abuadel": "Перевод айята [57:13] на русский язык (Абу Адель).",
         "tr_diyanet": "[57:13] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [57:13] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［57:13］ 马坚 译文"
+        "zh_jian": "真主启示 ［57:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [57:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [57:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [57:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [57:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [57:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [57:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [57:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [57:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [57:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [57:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [57:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [57:13]."
       }
     },
     {
@@ -267,7 +449,21 @@
         "ru_abuadel": "Перевод айята [57:14] на русский язык (Абу Адель).",
         "tr_diyanet": "[57:14] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [57:14] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［57:14］ 马坚 译文"
+        "zh_jian": "真主启示 ［57:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [57:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [57:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [57:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [57:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [57:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [57:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [57:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [57:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [57:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [57:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [57:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [57:14]."
       }
     },
     {
@@ -286,7 +482,21 @@
         "ru_abuadel": "Перевод айята [57:15] на русский язык (Абу Адель).",
         "tr_diyanet": "[57:15] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [57:15] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［57:15］ 马坚 译文"
+        "zh_jian": "真主启示 ［57:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [57:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [57:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [57:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [57:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [57:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [57:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [57:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [57:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [57:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [57:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [57:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [57:15]."
       }
     },
     {
@@ -305,7 +515,21 @@
         "ru_abuadel": "Перевод айята [57:16] на русский язык (Абу Адель).",
         "tr_diyanet": "[57:16] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [57:16] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［57:16］ 马坚 译文"
+        "zh_jian": "真主启示 ［57:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [57:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [57:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [57:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [57:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [57:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [57:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [57:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [57:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [57:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [57:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [57:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [57:16]."
       }
     },
     {
@@ -324,7 +548,21 @@
         "ru_abuadel": "Перевод айята [57:17] на русский язык (Абу Адель).",
         "tr_diyanet": "[57:17] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [57:17] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［57:17］ 马坚 译文"
+        "zh_jian": "真主启示 ［57:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [57:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [57:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [57:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [57:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [57:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [57:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [57:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [57:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [57:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [57:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [57:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [57:17]."
       }
     },
     {
@@ -343,7 +581,21 @@
         "ru_abuadel": "Перевод айята [57:18] на русский язык (Абу Адель).",
         "tr_diyanet": "[57:18] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [57:18] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［57:18］ 马坚 译文"
+        "zh_jian": "真主启示 ［57:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [57:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [57:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [57:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [57:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [57:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [57:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [57:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [57:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [57:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [57:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [57:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [57:18]."
       }
     },
     {
@@ -362,7 +614,21 @@
         "ru_abuadel": "Перевод айята [57:19] на русский язык (Абу Адель).",
         "tr_diyanet": "[57:19] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [57:19] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［57:19］ 马坚 译文"
+        "zh_jian": "真主启示 ［57:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [57:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [57:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [57:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [57:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [57:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [57:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [57:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [57:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [57:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [57:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [57:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [57:19]."
       }
     },
     {
@@ -381,7 +647,21 @@
         "ru_abuadel": "Перевод айята [57:20] на русский язык (Абу Адель).",
         "tr_diyanet": "[57:20] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [57:20] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［57:20］ 马坚 译文"
+        "zh_jian": "真主启示 ［57:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [57:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [57:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [57:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [57:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [57:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [57:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [57:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [57:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [57:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [57:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [57:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [57:20]."
       }
     },
     {
@@ -400,7 +680,21 @@
         "ru_abuadel": "Перевод айята [57:21] на русский язык (Абу Адель).",
         "tr_diyanet": "[57:21] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [57:21] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［57:21］ 马坚 译文"
+        "zh_jian": "真主启示 ［57:21］ 马坚 译文",
+        "it_piccardo": "Traduzione di [57:21] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [57:21] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [57:21] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [57:21] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [57:21]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [57:21] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [57:21].",
+        "ar_jalalayn": "تفسير الجلالين للآية [57:21] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [57:21].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [57:21].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [57:21].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [57:21]."
       }
     },
     {
@@ -419,7 +713,21 @@
         "ru_abuadel": "Перевод айята [57:22] на русский язык (Абу Адель).",
         "tr_diyanet": "[57:22] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [57:22] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［57:22］ 马坚 译文"
+        "zh_jian": "真主启示 ［57:22］ 马坚 译文",
+        "it_piccardo": "Traduzione di [57:22] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [57:22] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [57:22] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [57:22] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [57:22]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [57:22] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [57:22].",
+        "ar_jalalayn": "تفسير الجلالين للآية [57:22] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [57:22].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [57:22].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [57:22].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [57:22]."
       }
     },
     {
@@ -438,7 +746,21 @@
         "ru_abuadel": "Перевод айята [57:23] на русский язык (Абу Адель).",
         "tr_diyanet": "[57:23] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [57:23] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［57:23］ 马坚 译文"
+        "zh_jian": "真主启示 ［57:23］ 马坚 译文",
+        "it_piccardo": "Traduzione di [57:23] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [57:23] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [57:23] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [57:23] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [57:23]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [57:23] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [57:23].",
+        "ar_jalalayn": "تفسير الجلالين للآية [57:23] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [57:23].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [57:23].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [57:23].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [57:23]."
       }
     },
     {
@@ -457,7 +779,21 @@
         "ru_abuadel": "Перевод айята [57:24] на русский язык (Абу Адель).",
         "tr_diyanet": "[57:24] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [57:24] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［57:24］ 马坚 译文"
+        "zh_jian": "真主启示 ［57:24］ 马坚 译文",
+        "it_piccardo": "Traduzione di [57:24] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [57:24] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [57:24] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [57:24] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [57:24]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [57:24] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [57:24].",
+        "ar_jalalayn": "تفسير الجلالين للآية [57:24] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [57:24].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [57:24].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [57:24].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [57:24]."
       }
     },
     {
@@ -476,7 +812,21 @@
         "ru_abuadel": "Перевод айята [57:25] на русский язык (Абу Адель).",
         "tr_diyanet": "[57:25] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [57:25] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［57:25］ 马坚 译文"
+        "zh_jian": "真主启示 ［57:25］ 马坚 译文",
+        "it_piccardo": "Traduzione di [57:25] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [57:25] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [57:25] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [57:25] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [57:25]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [57:25] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [57:25].",
+        "ar_jalalayn": "تفسير الجلالين للآية [57:25] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [57:25].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [57:25].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [57:25].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [57:25]."
       }
     },
     {
@@ -495,7 +845,21 @@
         "ru_abuadel": "Перевод айята [57:26] на русский язык (Абу Адель).",
         "tr_diyanet": "[57:26] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [57:26] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［57:26］ 马坚 译文"
+        "zh_jian": "真主启示 ［57:26］ 马坚 译文",
+        "it_piccardo": "Traduzione di [57:26] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [57:26] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [57:26] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [57:26] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [57:26]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [57:26] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [57:26].",
+        "ar_jalalayn": "تفسير الجلالين للآية [57:26] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [57:26].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [57:26].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [57:26].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [57:26]."
       }
     },
     {
@@ -514,7 +878,21 @@
         "ru_abuadel": "Перевод айята [57:27] на русский язык (Абу Адель).",
         "tr_diyanet": "[57:27] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [57:27] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［57:27］ 马坚 译文"
+        "zh_jian": "真主启示 ［57:27］ 马坚 译文",
+        "it_piccardo": "Traduzione di [57:27] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [57:27] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [57:27] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [57:27] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [57:27]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [57:27] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [57:27].",
+        "ar_jalalayn": "تفسير الجلالين للآية [57:27] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [57:27].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [57:27].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [57:27].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [57:27]."
       }
     },
     {
@@ -533,7 +911,21 @@
         "ru_abuadel": "Перевод айята [57:28] на русский язык (Абу Адель).",
         "tr_diyanet": "[57:28] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [57:28] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［57:28］ 马坚 译文"
+        "zh_jian": "真主启示 ［57:28］ 马坚 译文",
+        "it_piccardo": "Traduzione di [57:28] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [57:28] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [57:28] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [57:28] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [57:28]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [57:28] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [57:28].",
+        "ar_jalalayn": "تفسير الجلالين للآية [57:28] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [57:28].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [57:28].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [57:28].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [57:28]."
       }
     },
     {
@@ -552,7 +944,21 @@
         "ru_abuadel": "Перевод айята [57:29] на русский язык (Абу Адель).",
         "tr_diyanet": "[57:29] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [57:29] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［57:29］ 马坚 译文"
+        "zh_jian": "真主启示 ［57:29］ 马坚 译文",
+        "it_piccardo": "Traduzione di [57:29] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [57:29] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [57:29] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [57:29] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [57:29]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [57:29] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [57:29].",
+        "ar_jalalayn": "تفسير الجلالين للآية [57:29] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [57:29].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [57:29].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [57:29].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [57:29]."
       }
     }
   ],

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T02:06:49.468Z",
+  "generatedAt": "2026-05-23T02:33:24.490Z",
   "surahNumber": 59,
   "ayahCount": 24,
   "ayahs": [
@@ -20,7 +20,21 @@
         "ru_abuadel": "Перевод айята [59:1] на русский язык (Абу Адель).",
         "tr_diyanet": "[59:1] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [59:1] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［59:1］ 马坚 译文"
+        "zh_jian": "真主启示 ［59:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [59:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [59:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [59:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [59:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [59:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [59:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [59:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [59:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [59:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [59:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [59:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [59:1]."
       }
     },
     {
@@ -39,7 +53,21 @@
         "ru_abuadel": "Перевод айята [59:2] на русский язык (Абу Адель).",
         "tr_diyanet": "[59:2] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [59:2] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［59:2］ 马坚 译文"
+        "zh_jian": "真主启示 ［59:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [59:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [59:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [59:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [59:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [59:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [59:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [59:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [59:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [59:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [59:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [59:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [59:2]."
       }
     },
     {
@@ -58,7 +86,21 @@
         "ru_abuadel": "Перевод айята [59:3] на русский язык (Абу Адель).",
         "tr_diyanet": "[59:3] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [59:3] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［59:3］ 马坚 译文"
+        "zh_jian": "真主启示 ［59:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [59:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [59:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [59:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [59:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [59:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [59:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [59:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [59:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [59:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [59:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [59:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [59:3]."
       }
     },
     {
@@ -77,7 +119,21 @@
         "ru_abuadel": "Перевод айята [59:4] на русский язык (Абу Адель).",
         "tr_diyanet": "[59:4] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [59:4] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［59:4］ 马坚 译文"
+        "zh_jian": "真主启示 ［59:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [59:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [59:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [59:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [59:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [59:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [59:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [59:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [59:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [59:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [59:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [59:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [59:4]."
       }
     },
     {
@@ -96,7 +152,21 @@
         "ru_abuadel": "Перевод айята [59:5] на русский язык (Абу Адель).",
         "tr_diyanet": "[59:5] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [59:5] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［59:5］ 马坚 译文"
+        "zh_jian": "真主启示 ［59:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [59:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [59:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [59:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [59:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [59:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [59:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [59:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [59:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [59:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [59:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [59:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [59:5]."
       }
     },
     {
@@ -115,7 +185,21 @@
         "ru_abuadel": "Перевод айята [59:6] на русский язык (Абу Адель).",
         "tr_diyanet": "[59:6] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [59:6] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［59:6］ 马坚 译文"
+        "zh_jian": "真主启示 ［59:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [59:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [59:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [59:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [59:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [59:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [59:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [59:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [59:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [59:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [59:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [59:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [59:6]."
       }
     },
     {
@@ -134,7 +218,21 @@
         "ru_abuadel": "Перевод айята [59:7] на русский язык (Абу Адель).",
         "tr_diyanet": "[59:7] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [59:7] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［59:7］ 马坚 译文"
+        "zh_jian": "真主启示 ［59:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [59:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [59:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [59:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [59:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [59:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [59:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [59:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [59:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [59:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [59:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [59:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [59:7]."
       }
     },
     {
@@ -153,7 +251,21 @@
         "ru_abuadel": "Перевод айята [59:8] на русский язык (Абу Адель).",
         "tr_diyanet": "[59:8] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [59:8] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［59:8］ 马坚 译文"
+        "zh_jian": "真主启示 ［59:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [59:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [59:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [59:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [59:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [59:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [59:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [59:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [59:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [59:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [59:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [59:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [59:8]."
       }
     },
     {
@@ -172,7 +284,21 @@
         "ru_abuadel": "Перевод айята [59:9] на русский язык (Абу Адель).",
         "tr_diyanet": "[59:9] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [59:9] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［59:9］ 马坚 译文"
+        "zh_jian": "真主启示 ［59:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [59:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [59:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [59:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [59:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [59:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [59:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [59:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [59:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [59:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [59:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [59:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [59:9]."
       }
     },
     {
@@ -191,7 +317,21 @@
         "ru_abuadel": "Перевод айята [59:10] на русский язык (Абу Адель).",
         "tr_diyanet": "[59:10] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [59:10] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［59:10］ 马坚 译文"
+        "zh_jian": "真主启示 ［59:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [59:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [59:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [59:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [59:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [59:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [59:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [59:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [59:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [59:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [59:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [59:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [59:10]."
       }
     },
     {
@@ -210,7 +350,21 @@
         "ru_abuadel": "Перевод айята [59:11] на русский язык (Абу Адель).",
         "tr_diyanet": "[59:11] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [59:11] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［59:11］ 马坚 译文"
+        "zh_jian": "真主启示 ［59:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [59:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [59:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [59:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [59:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [59:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [59:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [59:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [59:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [59:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [59:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [59:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [59:11]."
       }
     },
     {
@@ -229,7 +383,21 @@
         "ru_abuadel": "Перевод айята [59:12] на русский язык (Абу Адель).",
         "tr_diyanet": "[59:12] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [59:12] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［59:12］ 马坚 译文"
+        "zh_jian": "真主启示 ［59:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [59:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [59:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [59:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [59:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [59:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [59:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [59:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [59:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [59:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [59:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [59:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [59:12]."
       }
     },
     {
@@ -248,7 +416,21 @@
         "ru_abuadel": "Перевод айята [59:13] на русский язык (Абу Адель).",
         "tr_diyanet": "[59:13] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [59:13] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［59:13］ 马坚 译文"
+        "zh_jian": "真主启示 ［59:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [59:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [59:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [59:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [59:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [59:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [59:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [59:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [59:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [59:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [59:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [59:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [59:13]."
       }
     },
     {
@@ -267,7 +449,21 @@
         "ru_abuadel": "Перевод айята [59:14] на русский язык (Абу Адель).",
         "tr_diyanet": "[59:14] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [59:14] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［59:14］ 马坚 译文"
+        "zh_jian": "真主启示 ［59:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [59:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [59:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [59:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [59:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [59:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [59:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [59:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [59:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [59:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [59:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [59:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [59:14]."
       }
     },
     {
@@ -286,7 +482,21 @@
         "ru_abuadel": "Перевод айята [59:15] на русский язык (Абу Адель).",
         "tr_diyanet": "[59:15] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [59:15] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［59:15］ 马坚 译文"
+        "zh_jian": "真主启示 ［59:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [59:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [59:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [59:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [59:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [59:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [59:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [59:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [59:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [59:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [59:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [59:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [59:15]."
       }
     },
     {
@@ -305,7 +515,21 @@
         "ru_abuadel": "Перевод айята [59:16] на русский язык (Абу Адель).",
         "tr_diyanet": "[59:16] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [59:16] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［59:16］ 马坚 译文"
+        "zh_jian": "真主启示 ［59:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [59:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [59:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [59:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [59:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [59:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [59:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [59:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [59:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [59:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [59:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [59:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [59:16]."
       }
     },
     {
@@ -324,7 +548,21 @@
         "ru_abuadel": "Перевод айята [59:17] на русский язык (Абу Адель).",
         "tr_diyanet": "[59:17] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [59:17] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［59:17］ 马坚 译文"
+        "zh_jian": "真主启示 ［59:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [59:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [59:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [59:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [59:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [59:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [59:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [59:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [59:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [59:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [59:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [59:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [59:17]."
       }
     },
     {
@@ -343,7 +581,21 @@
         "ru_abuadel": "Перевод айята [59:18] на русский язык (Абу Адель).",
         "tr_diyanet": "[59:18] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [59:18] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［59:18］ 马坚 译文"
+        "zh_jian": "真主启示 ［59:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [59:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [59:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [59:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [59:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [59:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [59:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [59:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [59:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [59:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [59:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [59:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [59:18]."
       }
     },
     {
@@ -362,7 +614,21 @@
         "ru_abuadel": "Перевод айята [59:19] на русский язык (Абу Адель).",
         "tr_diyanet": "[59:19] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [59:19] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［59:19］ 马坚 译文"
+        "zh_jian": "真主启示 ［59:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [59:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [59:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [59:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [59:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [59:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [59:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [59:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [59:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [59:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [59:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [59:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [59:19]."
       }
     },
     {
@@ -381,7 +647,21 @@
         "ru_abuadel": "Перевод айята [59:20] на русский язык (Абу Адель).",
         "tr_diyanet": "[59:20] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [59:20] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［59:20］ 马坚 译文"
+        "zh_jian": "真主启示 ［59:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [59:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [59:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [59:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [59:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [59:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [59:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [59:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [59:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [59:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [59:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [59:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [59:20]."
       }
     },
     {
@@ -400,7 +680,21 @@
         "ru_abuadel": "Перевод айята [59:21] на русский язык (Абу Адель).",
         "tr_diyanet": "[59:21] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [59:21] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［59:21］ 马坚 译文"
+        "zh_jian": "真主启示 ［59:21］ 马坚 译文",
+        "it_piccardo": "Traduzione di [59:21] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [59:21] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [59:21] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [59:21] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [59:21]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [59:21] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [59:21].",
+        "ar_jalalayn": "تفسير الجلالين للآية [59:21] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [59:21].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [59:21].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [59:21].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [59:21]."
       }
     },
     {
@@ -419,7 +713,21 @@
         "ru_abuadel": "Перевод айята [59:22] на русский язык (Абу Адель).",
         "tr_diyanet": "[59:22] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [59:22] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［59:22］ 马坚 译文"
+        "zh_jian": "真主启示 ［59:22］ 马坚 译文",
+        "it_piccardo": "Traduzione di [59:22] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [59:22] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [59:22] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [59:22] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [59:22]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [59:22] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [59:22].",
+        "ar_jalalayn": "تفسير الجلالين للآية [59:22] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [59:22].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [59:22].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [59:22].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [59:22]."
       }
     },
     {
@@ -438,7 +746,21 @@
         "ru_abuadel": "Перевод айята [59:23] на русский язык (Абу Адель).",
         "tr_diyanet": "[59:23] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [59:23] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［59:23］ 马坚 译文"
+        "zh_jian": "真主启示 ［59:23］ 马坚 译文",
+        "it_piccardo": "Traduzione di [59:23] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [59:23] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [59:23] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [59:23] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [59:23]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [59:23] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [59:23].",
+        "ar_jalalayn": "تفسير الجلالين للآية [59:23] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [59:23].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [59:23].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [59:23].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [59:23]."
       }
     },
     {
@@ -457,7 +779,21 @@
         "ru_abuadel": "Перевод айята [59:24] на русский язык (Абу Адель).",
         "tr_diyanet": "[59:24] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [59:24] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［59:24］ 马坚 译文"
+        "zh_jian": "真主启示 ［59:24］ 马坚 译文",
+        "it_piccardo": "Traduzione di [59:24] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [59:24] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [59:24] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [59:24] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [59:24]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [59:24] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [59:24].",
+        "ar_jalalayn": "تفسير الجلالين للآية [59:24] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [59:24].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [59:24].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [59:24].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [59:24]."
       }
     }
   ],

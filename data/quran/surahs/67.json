@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T02:06:49.469Z",
+  "generatedAt": "2026-05-23T02:33:24.492Z",
   "surahNumber": 67,
   "ayahCount": 30,
   "ayahs": [
@@ -20,7 +20,21 @@
         "ru_abuadel": "Перевод айята [67:1] на русский язык (Абу Адель).",
         "tr_diyanet": "[67:1] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [67:1] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［67:1］ 马坚 译文"
+        "zh_jian": "真主启示 ［67:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [67:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [67:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [67:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [67:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [67:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [67:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [67:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [67:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [67:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [67:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [67:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [67:1]."
       }
     },
     {
@@ -39,7 +53,21 @@
         "ru_abuadel": "Перевод айята [67:2] на русский язык (Абу Адель).",
         "tr_diyanet": "[67:2] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [67:2] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［67:2］ 马坚 译文"
+        "zh_jian": "真主启示 ［67:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [67:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [67:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [67:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [67:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [67:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [67:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [67:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [67:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [67:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [67:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [67:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [67:2]."
       }
     },
     {
@@ -58,7 +86,21 @@
         "ru_abuadel": "Перевод айята [67:3] на русский язык (Абу Адель).",
         "tr_diyanet": "[67:3] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [67:3] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［67:3］ 马坚 译文"
+        "zh_jian": "真主启示 ［67:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [67:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [67:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [67:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [67:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [67:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [67:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [67:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [67:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [67:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [67:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [67:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [67:3]."
       }
     },
     {
@@ -77,7 +119,21 @@
         "ru_abuadel": "Перевод айята [67:4] на русский язык (Абу Адель).",
         "tr_diyanet": "[67:4] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [67:4] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［67:4］ 马坚 译文"
+        "zh_jian": "真主启示 ［67:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [67:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [67:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [67:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [67:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [67:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [67:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [67:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [67:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [67:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [67:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [67:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [67:4]."
       }
     },
     {
@@ -96,7 +152,21 @@
         "ru_abuadel": "Перевод айята [67:5] на русский язык (Абу Адель).",
         "tr_diyanet": "[67:5] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [67:5] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［67:5］ 马坚 译文"
+        "zh_jian": "真主启示 ［67:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [67:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [67:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [67:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [67:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [67:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [67:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [67:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [67:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [67:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [67:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [67:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [67:5]."
       }
     },
     {
@@ -115,7 +185,21 @@
         "ru_abuadel": "Перевод айята [67:6] на русский язык (Абу Адель).",
         "tr_diyanet": "[67:6] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [67:6] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［67:6］ 马坚 译文"
+        "zh_jian": "真主启示 ［67:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [67:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [67:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [67:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [67:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [67:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [67:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [67:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [67:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [67:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [67:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [67:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [67:6]."
       }
     },
     {
@@ -134,7 +218,21 @@
         "ru_abuadel": "Перевод айята [67:7] на русский язык (Абу Адель).",
         "tr_diyanet": "[67:7] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [67:7] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［67:7］ 马坚 译文"
+        "zh_jian": "真主启示 ［67:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [67:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [67:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [67:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [67:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [67:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [67:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [67:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [67:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [67:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [67:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [67:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [67:7]."
       }
     },
     {
@@ -153,7 +251,21 @@
         "ru_abuadel": "Перевод айята [67:8] на русский язык (Абу Адель).",
         "tr_diyanet": "[67:8] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [67:8] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［67:8］ 马坚 译文"
+        "zh_jian": "真主启示 ［67:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [67:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [67:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [67:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [67:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [67:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [67:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [67:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [67:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [67:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [67:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [67:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [67:8]."
       }
     },
     {
@@ -172,7 +284,21 @@
         "ru_abuadel": "Перевод айята [67:9] на русский язык (Абу Адель).",
         "tr_diyanet": "[67:9] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [67:9] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［67:9］ 马坚 译文"
+        "zh_jian": "真主启示 ［67:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [67:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [67:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [67:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [67:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [67:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [67:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [67:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [67:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [67:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [67:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [67:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [67:9]."
       }
     },
     {
@@ -191,7 +317,21 @@
         "ru_abuadel": "Перевод айята [67:10] на русский язык (Абу Адель).",
         "tr_diyanet": "[67:10] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [67:10] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［67:10］ 马坚 译文"
+        "zh_jian": "真主启示 ［67:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [67:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [67:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [67:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [67:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [67:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [67:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [67:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [67:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [67:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [67:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [67:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [67:10]."
       }
     },
     {
@@ -210,7 +350,21 @@
         "ru_abuadel": "Перевод айята [67:11] на русский язык (Абу Адель).",
         "tr_diyanet": "[67:11] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [67:11] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［67:11］ 马坚 译文"
+        "zh_jian": "真主启示 ［67:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [67:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [67:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [67:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [67:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [67:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [67:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [67:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [67:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [67:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [67:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [67:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [67:11]."
       }
     },
     {
@@ -229,7 +383,21 @@
         "ru_abuadel": "Перевод айята [67:12] на русский язык (Абу Адель).",
         "tr_diyanet": "[67:12] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [67:12] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［67:12］ 马坚 译文"
+        "zh_jian": "真主启示 ［67:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [67:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [67:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [67:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [67:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [67:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [67:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [67:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [67:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [67:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [67:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [67:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [67:12]."
       }
     },
     {
@@ -248,7 +416,21 @@
         "ru_abuadel": "Перевод айята [67:13] на русский язык (Абу Адель).",
         "tr_diyanet": "[67:13] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [67:13] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［67:13］ 马坚 译文"
+        "zh_jian": "真主启示 ［67:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [67:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [67:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [67:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [67:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [67:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [67:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [67:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [67:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [67:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [67:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [67:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [67:13]."
       }
     },
     {
@@ -267,7 +449,21 @@
         "ru_abuadel": "Перевод айята [67:14] на русский язык (Абу Адель).",
         "tr_diyanet": "[67:14] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [67:14] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［67:14］ 马坚 译文"
+        "zh_jian": "真主启示 ［67:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [67:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [67:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [67:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [67:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [67:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [67:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [67:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [67:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [67:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [67:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [67:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [67:14]."
       }
     },
     {
@@ -286,7 +482,21 @@
         "ru_abuadel": "Перевод айята [67:15] на русский язык (Абу Адель).",
         "tr_diyanet": "[67:15] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [67:15] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［67:15］ 马坚 译文"
+        "zh_jian": "真主启示 ［67:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [67:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [67:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [67:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [67:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [67:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [67:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [67:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [67:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [67:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [67:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [67:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [67:15]."
       }
     },
     {
@@ -305,7 +515,21 @@
         "ru_abuadel": "Перевод айята [67:16] на русский язык (Абу Адель).",
         "tr_diyanet": "[67:16] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [67:16] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［67:16］ 马坚 译文"
+        "zh_jian": "真主启示 ［67:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [67:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [67:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [67:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [67:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [67:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [67:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [67:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [67:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [67:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [67:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [67:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [67:16]."
       }
     },
     {
@@ -324,7 +548,21 @@
         "ru_abuadel": "Перевод айята [67:17] на русский язык (Абу Адель).",
         "tr_diyanet": "[67:17] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [67:17] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［67:17］ 马坚 译文"
+        "zh_jian": "真主启示 ［67:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [67:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [67:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [67:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [67:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [67:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [67:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [67:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [67:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [67:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [67:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [67:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [67:17]."
       }
     },
     {
@@ -343,7 +581,21 @@
         "ru_abuadel": "Перевод айята [67:18] на русский язык (Абу Адель).",
         "tr_diyanet": "[67:18] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [67:18] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［67:18］ 马坚 译文"
+        "zh_jian": "真主启示 ［67:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [67:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [67:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [67:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [67:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [67:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [67:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [67:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [67:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [67:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [67:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [67:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [67:18]."
       }
     },
     {
@@ -362,7 +614,21 @@
         "ru_abuadel": "Перевод айята [67:19] на русский язык (Абу Адель).",
         "tr_diyanet": "[67:19] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [67:19] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［67:19］ 马坚 译文"
+        "zh_jian": "真主启示 ［67:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [67:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [67:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [67:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [67:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [67:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [67:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [67:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [67:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [67:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [67:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [67:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [67:19]."
       }
     },
     {
@@ -381,7 +647,21 @@
         "ru_abuadel": "Перевод айята [67:20] на русский язык (Абу Адель).",
         "tr_diyanet": "[67:20] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [67:20] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［67:20］ 马坚 译文"
+        "zh_jian": "真主启示 ［67:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [67:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [67:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [67:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [67:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [67:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [67:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [67:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [67:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [67:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [67:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [67:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [67:20]."
       }
     },
     {
@@ -400,7 +680,21 @@
         "ru_abuadel": "Перевод айята [67:21] на русский язык (Абу Адель).",
         "tr_diyanet": "[67:21] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [67:21] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［67:21］ 马坚 译文"
+        "zh_jian": "真主启示 ［67:21］ 马坚 译文",
+        "it_piccardo": "Traduzione di [67:21] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [67:21] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [67:21] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [67:21] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [67:21]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [67:21] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [67:21].",
+        "ar_jalalayn": "تفسير الجلالين للآية [67:21] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [67:21].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [67:21].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [67:21].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [67:21]."
       }
     },
     {
@@ -419,7 +713,21 @@
         "ru_abuadel": "Перевод айята [67:22] на русский язык (Абу Адель).",
         "tr_diyanet": "[67:22] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [67:22] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［67:22］ 马坚 译文"
+        "zh_jian": "真主启示 ［67:22］ 马坚 译文",
+        "it_piccardo": "Traduzione di [67:22] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [67:22] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [67:22] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [67:22] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [67:22]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [67:22] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [67:22].",
+        "ar_jalalayn": "تفسير الجلالين للآية [67:22] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [67:22].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [67:22].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [67:22].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [67:22]."
       }
     },
     {
@@ -438,7 +746,21 @@
         "ru_abuadel": "Перевод айята [67:23] на русский язык (Абу Адель).",
         "tr_diyanet": "[67:23] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [67:23] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［67:23］ 马坚 译文"
+        "zh_jian": "真主启示 ［67:23］ 马坚 译文",
+        "it_piccardo": "Traduzione di [67:23] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [67:23] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [67:23] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [67:23] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [67:23]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [67:23] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [67:23].",
+        "ar_jalalayn": "تفسير الجلالين للآية [67:23] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [67:23].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [67:23].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [67:23].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [67:23]."
       }
     },
     {
@@ -457,7 +779,21 @@
         "ru_abuadel": "Перевод айята [67:24] на русский язык (Абу Адель).",
         "tr_diyanet": "[67:24] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [67:24] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［67:24］ 马坚 译文"
+        "zh_jian": "真主启示 ［67:24］ 马坚 译文",
+        "it_piccardo": "Traduzione di [67:24] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [67:24] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [67:24] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [67:24] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [67:24]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [67:24] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [67:24].",
+        "ar_jalalayn": "تفسير الجلالين للآية [67:24] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [67:24].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [67:24].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [67:24].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [67:24]."
       }
     },
     {
@@ -476,7 +812,21 @@
         "ru_abuadel": "Перевод айята [67:25] на русский язык (Абу Адель).",
         "tr_diyanet": "[67:25] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [67:25] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［67:25］ 马坚 译文"
+        "zh_jian": "真主启示 ［67:25］ 马坚 译文",
+        "it_piccardo": "Traduzione di [67:25] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [67:25] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [67:25] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [67:25] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [67:25]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [67:25] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [67:25].",
+        "ar_jalalayn": "تفسير الجلالين للآية [67:25] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [67:25].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [67:25].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [67:25].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [67:25]."
       }
     },
     {
@@ -495,7 +845,21 @@
         "ru_abuadel": "Перевод айята [67:26] на русский язык (Абу Адель).",
         "tr_diyanet": "[67:26] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [67:26] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［67:26］ 马坚 译文"
+        "zh_jian": "真主启示 ［67:26］ 马坚 译文",
+        "it_piccardo": "Traduzione di [67:26] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [67:26] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [67:26] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [67:26] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [67:26]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [67:26] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [67:26].",
+        "ar_jalalayn": "تفسير الجلالين للآية [67:26] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [67:26].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [67:26].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [67:26].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [67:26]."
       }
     },
     {
@@ -514,7 +878,21 @@
         "ru_abuadel": "Перевод айята [67:27] на русский язык (Абу Адель).",
         "tr_diyanet": "[67:27] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [67:27] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［67:27］ 马坚 译文"
+        "zh_jian": "真主启示 ［67:27］ 马坚 译文",
+        "it_piccardo": "Traduzione di [67:27] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [67:27] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [67:27] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [67:27] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [67:27]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [67:27] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [67:27].",
+        "ar_jalalayn": "تفسير الجلالين للآية [67:27] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [67:27].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [67:27].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [67:27].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [67:27]."
       }
     },
     {
@@ -533,7 +911,21 @@
         "ru_abuadel": "Перевод айята [67:28] на русский язык (Абу Адель).",
         "tr_diyanet": "[67:28] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [67:28] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［67:28］ 马坚 译文"
+        "zh_jian": "真主启示 ［67:28］ 马坚 译文",
+        "it_piccardo": "Traduzione di [67:28] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [67:28] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [67:28] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [67:28] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [67:28]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [67:28] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [67:28].",
+        "ar_jalalayn": "تفسير الجلالين للآية [67:28] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [67:28].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [67:28].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [67:28].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [67:28]."
       }
     },
     {
@@ -552,7 +944,21 @@
         "ru_abuadel": "Перевод айята [67:29] на русский язык (Абу Адель).",
         "tr_diyanet": "[67:29] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [67:29] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［67:29］ 马坚 译文"
+        "zh_jian": "真主启示 ［67:29］ 马坚 译文",
+        "it_piccardo": "Traduzione di [67:29] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [67:29] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [67:29] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [67:29] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [67:29]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [67:29] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [67:29].",
+        "ar_jalalayn": "تفسير الجلالين للآية [67:29] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [67:29].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [67:29].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [67:29].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [67:29]."
       }
     },
     {
@@ -571,7 +977,21 @@
         "ru_abuadel": "Перевод айята [67:30] на русский язык (Абу Адель).",
         "tr_diyanet": "[67:30] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [67:30] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［67:30］ 马坚 译文"
+        "zh_jian": "真主启示 ［67:30］ 马坚 译文",
+        "it_piccardo": "Traduzione di [67:30] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [67:30] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [67:30] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [67:30] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [67:30]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [67:30] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [67:30].",
+        "ar_jalalayn": "تفسير الجلالين للآية [67:30] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [67:30].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [67:30].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [67:30].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [67:30]."
       }
     }
   ],

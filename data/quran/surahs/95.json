@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T02:06:49.475Z",
+  "generatedAt": "2026-05-23T02:33:24.503Z",
   "surahNumber": 95,
   "ayahCount": 8,
   "ayahs": [
@@ -20,7 +20,21 @@
         "ru_abuadel": "Перевод айята [95:1] на русский язык (Абу Адель).",
         "tr_diyanet": "[95:1] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [95:1] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［95:1］ 马坚 译文"
+        "zh_jian": "真主启示 ［95:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [95:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [95:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [95:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [95:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [95:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [95:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [95:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [95:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [95:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [95:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [95:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [95:1]."
       }
     },
     {
@@ -39,7 +53,21 @@
         "ru_abuadel": "Перевод айята [95:2] на русский язык (Абу Адель).",
         "tr_diyanet": "[95:2] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [95:2] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［95:2］ 马坚 译文"
+        "zh_jian": "真主启示 ［95:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [95:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [95:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [95:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [95:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [95:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [95:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [95:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [95:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [95:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [95:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [95:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [95:2]."
       }
     },
     {
@@ -58,7 +86,21 @@
         "ru_abuadel": "Перевод айята [95:3] на русский язык (Абу Адель).",
         "tr_diyanet": "[95:3] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [95:3] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［95:3］ 马坚 译文"
+        "zh_jian": "真主启示 ［95:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [95:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [95:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [95:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [95:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [95:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [95:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [95:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [95:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [95:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [95:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [95:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [95:3]."
       }
     },
     {
@@ -77,7 +119,21 @@
         "ru_abuadel": "Перевод айята [95:4] на русский язык (Абу Адель).",
         "tr_diyanet": "[95:4] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [95:4] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［95:4］ 马坚 译文"
+        "zh_jian": "真主启示 ［95:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [95:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [95:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [95:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [95:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [95:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [95:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [95:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [95:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [95:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [95:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [95:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [95:4]."
       }
     },
     {
@@ -96,7 +152,21 @@
         "ru_abuadel": "Перевод айята [95:5] на русский язык (Абу Адель).",
         "tr_diyanet": "[95:5] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [95:5] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［95:5］ 马坚 译文"
+        "zh_jian": "真主启示 ［95:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [95:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [95:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [95:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [95:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [95:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [95:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [95:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [95:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [95:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [95:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [95:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [95:5]."
       }
     },
     {
@@ -115,7 +185,21 @@
         "ru_abuadel": "Перевод айята [95:6] на русский язык (Абу Адель).",
         "tr_diyanet": "[95:6] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [95:6] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［95:6］ 马坚 译文"
+        "zh_jian": "真主启示 ［95:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [95:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [95:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [95:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [95:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [95:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [95:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [95:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [95:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [95:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [95:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [95:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [95:6]."
       }
     },
     {
@@ -134,7 +218,21 @@
         "ru_abuadel": "Перевод айята [95:7] на русский язык (Абу Адель).",
         "tr_diyanet": "[95:7] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [95:7] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［95:7］ 马坚 译文"
+        "zh_jian": "真主启示 ［95:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [95:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [95:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [95:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [95:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [95:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [95:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [95:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [95:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [95:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [95:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [95:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [95:7]."
       }
     },
     {
@@ -153,7 +251,21 @@
         "ru_abuadel": "Перевод айята [95:8] на русский язык (Абу Адель).",
         "tr_diyanet": "[95:8] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [95:8] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［95:8］ 马坚 译文"
+        "zh_jian": "真主启示 ［95:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [95:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [95:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [95:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [95:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [95:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [95:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [95:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [95:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [95:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [95:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [95:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [95:8]."
       }
     }
   ],

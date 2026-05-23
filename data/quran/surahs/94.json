@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T02:06:49.475Z",
+  "generatedAt": "2026-05-23T02:33:24.502Z",
   "surahNumber": 94,
   "ayahCount": 8,
   "ayahs": [
@@ -20,7 +20,21 @@
         "ru_abuadel": "Перевод айята [94:1] на русский язык (Абу Адель).",
         "tr_diyanet": "[94:1] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [94:1] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［94:1］ 马坚 译文"
+        "zh_jian": "真主启示 ［94:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [94:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [94:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [94:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [94:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [94:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [94:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [94:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [94:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [94:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [94:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [94:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [94:1]."
       }
     },
     {
@@ -39,7 +53,21 @@
         "ru_abuadel": "Перевод айята [94:2] на русский язык (Абу Адель).",
         "tr_diyanet": "[94:2] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [94:2] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［94:2］ 马坚 译文"
+        "zh_jian": "真主启示 ［94:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [94:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [94:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [94:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [94:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [94:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [94:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [94:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [94:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [94:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [94:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [94:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [94:2]."
       }
     },
     {
@@ -58,7 +86,21 @@
         "ru_abuadel": "Перевод айята [94:3] на русский язык (Абу Адель).",
         "tr_diyanet": "[94:3] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [94:3] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［94:3］ 马坚 译文"
+        "zh_jian": "真主启示 ［94:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [94:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [94:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [94:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [94:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [94:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [94:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [94:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [94:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [94:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [94:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [94:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [94:3]."
       }
     },
     {
@@ -77,7 +119,21 @@
         "ru_abuadel": "Перевод айята [94:4] на русский язык (Абу Адель).",
         "tr_diyanet": "[94:4] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [94:4] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［94:4］ 马坚 译文"
+        "zh_jian": "真主启示 ［94:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [94:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [94:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [94:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [94:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [94:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [94:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [94:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [94:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [94:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [94:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [94:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [94:4]."
       }
     },
     {
@@ -96,7 +152,21 @@
         "ru_abuadel": "Перевод айята [94:5] на русский язык (Абу Адель).",
         "tr_diyanet": "[94:5] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [94:5] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［94:5］ 马坚 译文"
+        "zh_jian": "真主启示 ［94:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [94:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [94:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [94:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [94:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [94:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [94:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [94:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [94:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [94:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [94:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [94:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [94:5]."
       }
     },
     {
@@ -115,7 +185,21 @@
         "ru_abuadel": "Перевод айята [94:6] на русский язык (Абу Адель).",
         "tr_diyanet": "[94:6] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [94:6] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［94:6］ 马坚 译文"
+        "zh_jian": "真主启示 ［94:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [94:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [94:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [94:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [94:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [94:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [94:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [94:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [94:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [94:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [94:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [94:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [94:6]."
       }
     },
     {
@@ -134,7 +218,21 @@
         "ru_abuadel": "Перевод айята [94:7] на русский язык (Абу Адель).",
         "tr_diyanet": "[94:7] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [94:7] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［94:7］ 马坚 译文"
+        "zh_jian": "真主启示 ［94:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [94:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [94:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [94:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [94:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [94:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [94:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [94:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [94:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [94:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [94:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [94:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [94:7]."
       }
     },
     {
@@ -153,7 +251,21 @@
         "ru_abuadel": "Перевод айята [94:8] на русский язык (Абу Адель).",
         "tr_diyanet": "[94:8] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [94:8] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［94:8］ 马坚 译文"
+        "zh_jian": "真主启示 ［94:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [94:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [94:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [94:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [94:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [94:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [94:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [94:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [94:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [94:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [94:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [94:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [94:8]."
       }
     }
   ],

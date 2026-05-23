@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T02:06:49.468Z",
+  "generatedAt": "2026-05-23T02:33:24.490Z",
   "surahNumber": 61,
   "ayahCount": 14,
   "ayahs": [
@@ -20,7 +20,21 @@
         "ru_abuadel": "Перевод айята [61:1] на русский язык (Абу Адель).",
         "tr_diyanet": "[61:1] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [61:1] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［61:1］ 马坚 译文"
+        "zh_jian": "真主启示 ［61:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [61:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [61:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [61:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [61:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [61:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [61:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [61:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [61:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [61:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [61:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [61:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [61:1]."
       }
     },
     {
@@ -39,7 +53,21 @@
         "ru_abuadel": "Перевод айята [61:2] на русский язык (Абу Адель).",
         "tr_diyanet": "[61:2] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [61:2] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［61:2］ 马坚 译文"
+        "zh_jian": "真主启示 ［61:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [61:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [61:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [61:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [61:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [61:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [61:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [61:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [61:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [61:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [61:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [61:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [61:2]."
       }
     },
     {
@@ -58,7 +86,21 @@
         "ru_abuadel": "Перевод айята [61:3] на русский язык (Абу Адель).",
         "tr_diyanet": "[61:3] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [61:3] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［61:3］ 马坚 译文"
+        "zh_jian": "真主启示 ［61:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [61:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [61:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [61:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [61:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [61:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [61:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [61:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [61:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [61:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [61:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [61:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [61:3]."
       }
     },
     {
@@ -77,7 +119,21 @@
         "ru_abuadel": "Перевод айята [61:4] на русский язык (Абу Адель).",
         "tr_diyanet": "[61:4] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [61:4] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［61:4］ 马坚 译文"
+        "zh_jian": "真主启示 ［61:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [61:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [61:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [61:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [61:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [61:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [61:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [61:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [61:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [61:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [61:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [61:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [61:4]."
       }
     },
     {
@@ -96,7 +152,21 @@
         "ru_abuadel": "Перевод айята [61:5] на русский язык (Абу Адель).",
         "tr_diyanet": "[61:5] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [61:5] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［61:5］ 马坚 译文"
+        "zh_jian": "真主启示 ［61:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [61:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [61:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [61:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [61:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [61:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [61:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [61:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [61:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [61:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [61:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [61:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [61:5]."
       }
     },
     {
@@ -115,7 +185,21 @@
         "ru_abuadel": "Перевод айята [61:6] на русский язык (Абу Адель).",
         "tr_diyanet": "[61:6] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [61:6] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［61:6］ 马坚 译文"
+        "zh_jian": "真主启示 ［61:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [61:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [61:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [61:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [61:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [61:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [61:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [61:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [61:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [61:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [61:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [61:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [61:6]."
       }
     },
     {
@@ -134,7 +218,21 @@
         "ru_abuadel": "Перевод айята [61:7] на русский язык (Абу Адель).",
         "tr_diyanet": "[61:7] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [61:7] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［61:7］ 马坚 译文"
+        "zh_jian": "真主启示 ［61:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [61:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [61:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [61:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [61:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [61:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [61:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [61:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [61:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [61:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [61:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [61:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [61:7]."
       }
     },
     {
@@ -153,7 +251,21 @@
         "ru_abuadel": "Перевод айята [61:8] на русский язык (Абу Адель).",
         "tr_diyanet": "[61:8] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [61:8] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［61:8］ 马坚 译文"
+        "zh_jian": "真主启示 ［61:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [61:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [61:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [61:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [61:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [61:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [61:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [61:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [61:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [61:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [61:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [61:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [61:8]."
       }
     },
     {
@@ -172,7 +284,21 @@
         "ru_abuadel": "Перевод айята [61:9] на русский язык (Абу Адель).",
         "tr_diyanet": "[61:9] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [61:9] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［61:9］ 马坚 译文"
+        "zh_jian": "真主启示 ［61:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [61:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [61:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [61:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [61:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [61:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [61:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [61:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [61:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [61:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [61:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [61:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [61:9]."
       }
     },
     {
@@ -191,7 +317,21 @@
         "ru_abuadel": "Перевод айята [61:10] на русский язык (Абу Адель).",
         "tr_diyanet": "[61:10] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [61:10] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［61:10］ 马坚 译文"
+        "zh_jian": "真主启示 ［61:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [61:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [61:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [61:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [61:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [61:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [61:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [61:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [61:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [61:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [61:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [61:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [61:10]."
       }
     },
     {
@@ -210,7 +350,21 @@
         "ru_abuadel": "Перевод айята [61:11] на русский язык (Абу Адель).",
         "tr_diyanet": "[61:11] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [61:11] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［61:11］ 马坚 译文"
+        "zh_jian": "真主启示 ［61:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [61:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [61:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [61:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [61:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [61:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [61:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [61:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [61:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [61:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [61:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [61:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [61:11]."
       }
     },
     {
@@ -229,7 +383,21 @@
         "ru_abuadel": "Перевод айята [61:12] на русский язык (Абу Адель).",
         "tr_diyanet": "[61:12] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [61:12] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［61:12］ 马坚 译文"
+        "zh_jian": "真主启示 ［61:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [61:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [61:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [61:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [61:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [61:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [61:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [61:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [61:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [61:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [61:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [61:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [61:12]."
       }
     },
     {
@@ -248,7 +416,21 @@
         "ru_abuadel": "Перевод айята [61:13] на русский язык (Абу Адель).",
         "tr_diyanet": "[61:13] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [61:13] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［61:13］ 马坚 译文"
+        "zh_jian": "真主启示 ［61:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [61:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [61:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [61:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [61:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [61:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [61:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [61:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [61:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [61:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [61:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [61:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [61:13]."
       }
     },
     {
@@ -267,7 +449,21 @@
         "ru_abuadel": "Перевод айята [61:14] на русский язык (Абу Адель).",
         "tr_diyanet": "[61:14] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [61:14] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［61:14］ 马坚 译文"
+        "zh_jian": "真主启示 ［61:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [61:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [61:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [61:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [61:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [61:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [61:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [61:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [61:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [61:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [61:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [61:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [61:14]."
       }
     }
   ],

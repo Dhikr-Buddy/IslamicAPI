@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T02:06:49.453Z",
+  "generatedAt": "2026-05-23T02:33:24.469Z",
   "surahNumber": 25,
   "ayahCount": 77,
   "ayahs": [
@@ -20,7 +20,21 @@
         "ru_abuadel": "Перевод айята [25:1] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:1] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:1] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:1］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:1]."
       }
     },
     {
@@ -39,7 +53,21 @@
         "ru_abuadel": "Перевод айята [25:2] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:2] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:2] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:2］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:2]."
       }
     },
     {
@@ -58,7 +86,21 @@
         "ru_abuadel": "Перевод айята [25:3] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:3] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:3] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:3］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:3]."
       }
     },
     {
@@ -77,7 +119,21 @@
         "ru_abuadel": "Перевод айята [25:4] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:4] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:4] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:4］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:4]."
       }
     },
     {
@@ -96,7 +152,21 @@
         "ru_abuadel": "Перевод айята [25:5] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:5] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:5] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:5］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:5]."
       }
     },
     {
@@ -115,7 +185,21 @@
         "ru_abuadel": "Перевод айята [25:6] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:6] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:6] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:6］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:6]."
       }
     },
     {
@@ -134,7 +218,21 @@
         "ru_abuadel": "Перевод айята [25:7] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:7] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:7] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:7］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:7]."
       }
     },
     {
@@ -153,7 +251,21 @@
         "ru_abuadel": "Перевод айята [25:8] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:8] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:8] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:8］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:8]."
       }
     },
     {
@@ -172,7 +284,21 @@
         "ru_abuadel": "Перевод айята [25:9] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:9] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:9] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:9］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:9]."
       }
     },
     {
@@ -191,7 +317,21 @@
         "ru_abuadel": "Перевод айята [25:10] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:10] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:10] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:10］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:10]."
       }
     },
     {
@@ -210,7 +350,21 @@
         "ru_abuadel": "Перевод айята [25:11] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:11] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:11] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:11］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:11]."
       }
     },
     {
@@ -229,7 +383,21 @@
         "ru_abuadel": "Перевод айята [25:12] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:12] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:12] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:12］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:12]."
       }
     },
     {
@@ -248,7 +416,21 @@
         "ru_abuadel": "Перевод айята [25:13] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:13] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:13] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:13］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:13]."
       }
     },
     {
@@ -267,7 +449,21 @@
         "ru_abuadel": "Перевод айята [25:14] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:14] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:14] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:14］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:14]."
       }
     },
     {
@@ -286,7 +482,21 @@
         "ru_abuadel": "Перевод айята [25:15] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:15] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:15] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:15］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:15]."
       }
     },
     {
@@ -305,7 +515,21 @@
         "ru_abuadel": "Перевод айята [25:16] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:16] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:16] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:16］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:16]."
       }
     },
     {
@@ -324,7 +548,21 @@
         "ru_abuadel": "Перевод айята [25:17] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:17] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:17] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:17］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:17]."
       }
     },
     {
@@ -343,7 +581,21 @@
         "ru_abuadel": "Перевод айята [25:18] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:18] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:18] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:18］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:18]."
       }
     },
     {
@@ -362,7 +614,21 @@
         "ru_abuadel": "Перевод айята [25:19] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:19] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:19] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:19］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:19]."
       }
     },
     {
@@ -381,7 +647,21 @@
         "ru_abuadel": "Перевод айята [25:20] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:20] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:20] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:20］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:20]."
       }
     },
     {
@@ -400,7 +680,21 @@
         "ru_abuadel": "Перевод айята [25:21] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:21] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:21] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:21］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:21］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:21] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:21] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:21] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:21] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:21]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:21] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:21].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:21] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:21].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:21].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:21].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:21]."
       }
     },
     {
@@ -419,7 +713,21 @@
         "ru_abuadel": "Перевод айята [25:22] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:22] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:22] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:22］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:22］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:22] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:22] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:22] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:22] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:22]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:22] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:22].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:22] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:22].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:22].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:22].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:22]."
       }
     },
     {
@@ -438,7 +746,21 @@
         "ru_abuadel": "Перевод айята [25:23] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:23] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:23] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:23］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:23］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:23] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:23] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:23] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:23] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:23]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:23] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:23].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:23] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:23].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:23].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:23].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:23]."
       }
     },
     {
@@ -457,7 +779,21 @@
         "ru_abuadel": "Перевод айята [25:24] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:24] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:24] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:24］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:24］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:24] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:24] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:24] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:24] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:24]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:24] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:24].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:24] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:24].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:24].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:24].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:24]."
       }
     },
     {
@@ -476,7 +812,21 @@
         "ru_abuadel": "Перевод айята [25:25] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:25] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:25] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:25］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:25］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:25] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:25] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:25] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:25] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:25]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:25] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:25].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:25] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:25].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:25].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:25].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:25]."
       }
     },
     {
@@ -495,7 +845,21 @@
         "ru_abuadel": "Перевод айята [25:26] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:26] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:26] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:26］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:26］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:26] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:26] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:26] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:26] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:26]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:26] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:26].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:26] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:26].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:26].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:26].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:26]."
       }
     },
     {
@@ -514,7 +878,21 @@
         "ru_abuadel": "Перевод айята [25:27] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:27] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:27] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:27］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:27］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:27] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:27] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:27] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:27] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:27]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:27] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:27].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:27] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:27].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:27].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:27].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:27]."
       }
     },
     {
@@ -533,7 +911,21 @@
         "ru_abuadel": "Перевод айята [25:28] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:28] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:28] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:28］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:28］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:28] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:28] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:28] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:28] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:28]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:28] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:28].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:28] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:28].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:28].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:28].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:28]."
       }
     },
     {
@@ -552,7 +944,21 @@
         "ru_abuadel": "Перевод айята [25:29] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:29] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:29] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:29］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:29］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:29] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:29] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:29] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:29] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:29]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:29] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:29].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:29] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:29].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:29].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:29].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:29]."
       }
     },
     {
@@ -571,7 +977,21 @@
         "ru_abuadel": "Перевод айята [25:30] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:30] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:30] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:30］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:30］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:30] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:30] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:30] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:30] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:30]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:30] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:30].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:30] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:30].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:30].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:30].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:30]."
       }
     },
     {
@@ -590,7 +1010,21 @@
         "ru_abuadel": "Перевод айята [25:31] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:31] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:31] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:31］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:31］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:31] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:31] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:31] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:31] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:31]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:31] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:31].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:31] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:31].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:31].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:31].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:31]."
       }
     },
     {
@@ -609,7 +1043,21 @@
         "ru_abuadel": "Перевод айята [25:32] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:32] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:32] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:32］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:32］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:32] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:32] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:32] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:32] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:32]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:32] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:32].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:32] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:32].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:32].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:32].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:32]."
       }
     },
     {
@@ -628,7 +1076,21 @@
         "ru_abuadel": "Перевод айята [25:33] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:33] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:33] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:33］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:33］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:33] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:33] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:33] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:33] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:33]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:33] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:33].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:33] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:33].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:33].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:33].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:33]."
       }
     },
     {
@@ -647,7 +1109,21 @@
         "ru_abuadel": "Перевод айята [25:34] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:34] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:34] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:34］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:34］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:34] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:34] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:34] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:34] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:34]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:34] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:34].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:34] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:34].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:34].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:34].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:34]."
       }
     },
     {
@@ -666,7 +1142,21 @@
         "ru_abuadel": "Перевод айята [25:35] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:35] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:35] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:35］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:35］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:35] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:35] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:35] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:35] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:35]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:35] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:35].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:35] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:35].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:35].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:35].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:35]."
       }
     },
     {
@@ -685,7 +1175,21 @@
         "ru_abuadel": "Перевод айята [25:36] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:36] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:36] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:36］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:36］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:36] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:36] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:36] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:36] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:36]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:36] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:36].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:36] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:36].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:36].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:36].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:36]."
       }
     },
     {
@@ -704,7 +1208,21 @@
         "ru_abuadel": "Перевод айята [25:37] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:37] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:37] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:37］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:37］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:37] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:37] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:37] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:37] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:37]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:37] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:37].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:37] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:37].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:37].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:37].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:37]."
       }
     },
     {
@@ -723,7 +1241,21 @@
         "ru_abuadel": "Перевод айята [25:38] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:38] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:38] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:38］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:38］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:38] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:38] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:38] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:38] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:38]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:38] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:38].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:38] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:38].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:38].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:38].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:38]."
       }
     },
     {
@@ -742,7 +1274,21 @@
         "ru_abuadel": "Перевод айята [25:39] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:39] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:39] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:39］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:39］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:39] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:39] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:39] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:39] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:39]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:39] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:39].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:39] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:39].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:39].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:39].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:39]."
       }
     },
     {
@@ -761,7 +1307,21 @@
         "ru_abuadel": "Перевод айята [25:40] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:40] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:40] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:40］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:40］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:40] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:40] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:40] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:40] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:40]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:40] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:40].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:40] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:40].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:40].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:40].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:40]."
       }
     },
     {
@@ -780,7 +1340,21 @@
         "ru_abuadel": "Перевод айята [25:41] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:41] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:41] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:41］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:41］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:41] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:41] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:41] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:41] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:41]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:41] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:41].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:41] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:41].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:41].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:41].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:41]."
       }
     },
     {
@@ -799,7 +1373,21 @@
         "ru_abuadel": "Перевод айята [25:42] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:42] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:42] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:42］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:42］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:42] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:42] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:42] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:42] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:42]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:42] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:42].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:42] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:42].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:42].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:42].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:42]."
       }
     },
     {
@@ -818,7 +1406,21 @@
         "ru_abuadel": "Перевод айята [25:43] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:43] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:43] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:43］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:43］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:43] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:43] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:43] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:43] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:43]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:43] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:43].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:43] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:43].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:43].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:43].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:43]."
       }
     },
     {
@@ -837,7 +1439,21 @@
         "ru_abuadel": "Перевод айята [25:44] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:44] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:44] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:44］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:44］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:44] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:44] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:44] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:44] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:44]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:44] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:44].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:44] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:44].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:44].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:44].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:44]."
       }
     },
     {
@@ -856,7 +1472,21 @@
         "ru_abuadel": "Перевод айята [25:45] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:45] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:45] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:45］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:45］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:45] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:45] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:45] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:45] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:45]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:45] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:45].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:45] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:45].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:45].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:45].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:45]."
       }
     },
     {
@@ -875,7 +1505,21 @@
         "ru_abuadel": "Перевод айята [25:46] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:46] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:46] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:46］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:46］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:46] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:46] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:46] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:46] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:46]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:46] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:46].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:46] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:46].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:46].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:46].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:46]."
       }
     },
     {
@@ -894,7 +1538,21 @@
         "ru_abuadel": "Перевод айята [25:47] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:47] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:47] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:47］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:47］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:47] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:47] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:47] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:47] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:47]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:47] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:47].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:47] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:47].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:47].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:47].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:47]."
       }
     },
     {
@@ -913,7 +1571,21 @@
         "ru_abuadel": "Перевод айята [25:48] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:48] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:48] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:48］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:48］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:48] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:48] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:48] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:48] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:48]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:48] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:48].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:48] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:48].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:48].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:48].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:48]."
       }
     },
     {
@@ -932,7 +1604,21 @@
         "ru_abuadel": "Перевод айята [25:49] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:49] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:49] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:49］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:49］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:49] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:49] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:49] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:49] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:49]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:49] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:49].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:49] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:49].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:49].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:49].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:49]."
       }
     },
     {
@@ -951,7 +1637,21 @@
         "ru_abuadel": "Перевод айята [25:50] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:50] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:50] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:50］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:50］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:50] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:50] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:50] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:50] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:50]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:50] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:50].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:50] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:50].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:50].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:50].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:50]."
       }
     },
     {
@@ -970,7 +1670,21 @@
         "ru_abuadel": "Перевод айята [25:51] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:51] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:51] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:51］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:51］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:51] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:51] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:51] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:51] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:51]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:51] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:51].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:51] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:51].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:51].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:51].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:51]."
       }
     },
     {
@@ -989,7 +1703,21 @@
         "ru_abuadel": "Перевод айята [25:52] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:52] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:52] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:52］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:52］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:52] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:52] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:52] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:52] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:52]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:52] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:52].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:52] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:52].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:52].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:52].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:52]."
       }
     },
     {
@@ -1008,7 +1736,21 @@
         "ru_abuadel": "Перевод айята [25:53] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:53] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:53] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:53］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:53］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:53] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:53] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:53] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:53] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:53]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:53] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:53].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:53] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:53].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:53].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:53].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:53]."
       }
     },
     {
@@ -1027,7 +1769,21 @@
         "ru_abuadel": "Перевод айята [25:54] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:54] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:54] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:54］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:54］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:54] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:54] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:54] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:54] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:54]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:54] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:54].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:54] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:54].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:54].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:54].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:54]."
       }
     },
     {
@@ -1046,7 +1802,21 @@
         "ru_abuadel": "Перевод айята [25:55] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:55] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:55] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:55］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:55］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:55] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:55] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:55] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:55] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:55]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:55] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:55].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:55] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:55].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:55].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:55].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:55]."
       }
     },
     {
@@ -1065,7 +1835,21 @@
         "ru_abuadel": "Перевод айята [25:56] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:56] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:56] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:56］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:56］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:56] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:56] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:56] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:56] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:56]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:56] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:56].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:56] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:56].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:56].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:56].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:56]."
       }
     },
     {
@@ -1084,7 +1868,21 @@
         "ru_abuadel": "Перевод айята [25:57] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:57] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:57] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:57］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:57］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:57] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:57] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:57] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:57] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:57]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:57] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:57].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:57] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:57].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:57].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:57].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:57]."
       }
     },
     {
@@ -1103,7 +1901,21 @@
         "ru_abuadel": "Перевод айята [25:58] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:58] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:58] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:58］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:58］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:58] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:58] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:58] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:58] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:58]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:58] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:58].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:58] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:58].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:58].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:58].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:58]."
       }
     },
     {
@@ -1122,7 +1934,21 @@
         "ru_abuadel": "Перевод айята [25:59] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:59] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:59] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:59］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:59］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:59] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:59] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:59] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:59] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:59]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:59] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:59].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:59] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:59].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:59].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:59].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:59]."
       }
     },
     {
@@ -1141,7 +1967,21 @@
         "ru_abuadel": "Перевод айята [25:60] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:60] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:60] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:60］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:60］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:60] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:60] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:60] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:60] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:60]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:60] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:60].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:60] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:60].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:60].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:60].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:60]."
       }
     },
     {
@@ -1160,7 +2000,21 @@
         "ru_abuadel": "Перевод айята [25:61] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:61] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:61] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:61］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:61］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:61] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:61] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:61] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:61] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:61]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:61] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:61].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:61] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:61].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:61].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:61].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:61]."
       }
     },
     {
@@ -1179,7 +2033,21 @@
         "ru_abuadel": "Перевод айята [25:62] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:62] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:62] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:62］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:62］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:62] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:62] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:62] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:62] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:62]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:62] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:62].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:62] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:62].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:62].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:62].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:62]."
       }
     },
     {
@@ -1198,7 +2066,21 @@
         "ru_abuadel": "Перевод айята [25:63] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:63] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:63] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:63］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:63］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:63] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:63] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:63] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:63] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:63]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:63] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:63].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:63] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:63].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:63].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:63].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:63]."
       }
     },
     {
@@ -1217,7 +2099,21 @@
         "ru_abuadel": "Перевод айята [25:64] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:64] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:64] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:64］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:64］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:64] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:64] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:64] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:64] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:64]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:64] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:64].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:64] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:64].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:64].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:64].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:64]."
       }
     },
     {
@@ -1236,7 +2132,21 @@
         "ru_abuadel": "Перевод айята [25:65] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:65] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:65] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:65］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:65］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:65] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:65] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:65] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:65] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:65]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:65] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:65].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:65] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:65].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:65].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:65].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:65]."
       }
     },
     {
@@ -1255,7 +2165,21 @@
         "ru_abuadel": "Перевод айята [25:66] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:66] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:66] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:66］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:66］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:66] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:66] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:66] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:66] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:66]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:66] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:66].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:66] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:66].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:66].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:66].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:66]."
       }
     },
     {
@@ -1274,7 +2198,21 @@
         "ru_abuadel": "Перевод айята [25:67] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:67] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:67] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:67］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:67］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:67] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:67] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:67] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:67] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:67]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:67] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:67].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:67] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:67].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:67].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:67].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:67]."
       }
     },
     {
@@ -1293,7 +2231,21 @@
         "ru_abuadel": "Перевод айята [25:68] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:68] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:68] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:68］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:68］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:68] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:68] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:68] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:68] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:68]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:68] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:68].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:68] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:68].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:68].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:68].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:68]."
       }
     },
     {
@@ -1312,7 +2264,21 @@
         "ru_abuadel": "Перевод айята [25:69] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:69] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:69] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:69］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:69］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:69] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:69] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:69] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:69] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:69]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:69] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:69].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:69] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:69].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:69].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:69].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:69]."
       }
     },
     {
@@ -1331,7 +2297,21 @@
         "ru_abuadel": "Перевод айята [25:70] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:70] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:70] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:70］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:70］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:70] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:70] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:70] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:70] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:70]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:70] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:70].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:70] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:70].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:70].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:70].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:70]."
       }
     },
     {
@@ -1350,7 +2330,21 @@
         "ru_abuadel": "Перевод айята [25:71] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:71] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:71] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:71］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:71］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:71] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:71] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:71] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:71] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:71]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:71] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:71].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:71] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:71].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:71].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:71].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:71]."
       }
     },
     {
@@ -1369,7 +2363,21 @@
         "ru_abuadel": "Перевод айята [25:72] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:72] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:72] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:72］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:72］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:72] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:72] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:72] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:72] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:72]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:72] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:72].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:72] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:72].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:72].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:72].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:72]."
       }
     },
     {
@@ -1388,7 +2396,21 @@
         "ru_abuadel": "Перевод айята [25:73] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:73] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:73] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:73］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:73］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:73] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:73] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:73] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:73] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:73]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:73] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:73].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:73] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:73].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:73].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:73].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:73]."
       }
     },
     {
@@ -1407,7 +2429,21 @@
         "ru_abuadel": "Перевод айята [25:74] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:74] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:74] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:74］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:74］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:74] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:74] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:74] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:74] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:74]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:74] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:74].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:74] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:74].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:74].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:74].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:74]."
       }
     },
     {
@@ -1426,7 +2462,21 @@
         "ru_abuadel": "Перевод айята [25:75] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:75] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:75] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:75］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:75］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:75] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:75] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:75] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:75] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:75]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:75] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:75].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:75] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:75].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:75].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:75].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:75]."
       }
     },
     {
@@ -1445,7 +2495,21 @@
         "ru_abuadel": "Перевод айята [25:76] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:76] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:76] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:76］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:76］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:76] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:76] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:76] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:76] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:76]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:76] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:76].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:76] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:76].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:76].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:76].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:76]."
       }
     },
     {
@@ -1464,7 +2528,21 @@
         "ru_abuadel": "Перевод айята [25:77] на русский язык (Абу Адель).",
         "tr_diyanet": "[25:77] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [25:77] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［25:77］ 马坚 译文"
+        "zh_jian": "真主启示 ［25:77］ 马坚 译文",
+        "it_piccardo": "Traduzione di [25:77] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [25:77] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [25:77] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [25:77] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [25:77]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [25:77] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [25:77].",
+        "ar_jalalayn": "تفسير الجلالين للآية [25:77] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [25:77].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [25:77].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [25:77].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [25:77]."
       }
     }
   ],

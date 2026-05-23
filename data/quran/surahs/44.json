@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T02:06:49.461Z",
+  "generatedAt": "2026-05-23T02:33:24.482Z",
   "surahNumber": 44,
   "ayahCount": 59,
   "ayahs": [
@@ -20,7 +20,21 @@
         "ru_abuadel": "Перевод айята [44:1] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:1] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:1] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:1］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:1]."
       }
     },
     {
@@ -39,7 +53,21 @@
         "ru_abuadel": "Перевод айята [44:2] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:2] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:2] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:2］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:2]."
       }
     },
     {
@@ -58,7 +86,21 @@
         "ru_abuadel": "Перевод айята [44:3] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:3] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:3] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:3］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:3]."
       }
     },
     {
@@ -77,7 +119,21 @@
         "ru_abuadel": "Перевод айята [44:4] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:4] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:4] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:4］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:4]."
       }
     },
     {
@@ -96,7 +152,21 @@
         "ru_abuadel": "Перевод айята [44:5] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:5] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:5] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:5］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:5]."
       }
     },
     {
@@ -115,7 +185,21 @@
         "ru_abuadel": "Перевод айята [44:6] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:6] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:6] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:6］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:6]."
       }
     },
     {
@@ -134,7 +218,21 @@
         "ru_abuadel": "Перевод айята [44:7] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:7] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:7] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:7］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:7]."
       }
     },
     {
@@ -153,7 +251,21 @@
         "ru_abuadel": "Перевод айята [44:8] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:8] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:8] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:8］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:8]."
       }
     },
     {
@@ -172,7 +284,21 @@
         "ru_abuadel": "Перевод айята [44:9] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:9] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:9] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:9］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:9]."
       }
     },
     {
@@ -191,7 +317,21 @@
         "ru_abuadel": "Перевод айята [44:10] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:10] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:10] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:10］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:10]."
       }
     },
     {
@@ -210,7 +350,21 @@
         "ru_abuadel": "Перевод айята [44:11] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:11] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:11] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:11］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:11]."
       }
     },
     {
@@ -229,7 +383,21 @@
         "ru_abuadel": "Перевод айята [44:12] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:12] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:12] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:12］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:12]."
       }
     },
     {
@@ -248,7 +416,21 @@
         "ru_abuadel": "Перевод айята [44:13] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:13] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:13] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:13］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:13]."
       }
     },
     {
@@ -267,7 +449,21 @@
         "ru_abuadel": "Перевод айята [44:14] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:14] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:14] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:14］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:14]."
       }
     },
     {
@@ -286,7 +482,21 @@
         "ru_abuadel": "Перевод айята [44:15] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:15] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:15] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:15］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:15]."
       }
     },
     {
@@ -305,7 +515,21 @@
         "ru_abuadel": "Перевод айята [44:16] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:16] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:16] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:16］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:16]."
       }
     },
     {
@@ -324,7 +548,21 @@
         "ru_abuadel": "Перевод айята [44:17] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:17] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:17] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:17］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:17]."
       }
     },
     {
@@ -343,7 +581,21 @@
         "ru_abuadel": "Перевод айята [44:18] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:18] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:18] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:18］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:18]."
       }
     },
     {
@@ -362,7 +614,21 @@
         "ru_abuadel": "Перевод айята [44:19] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:19] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:19] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:19］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:19]."
       }
     },
     {
@@ -381,7 +647,21 @@
         "ru_abuadel": "Перевод айята [44:20] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:20] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:20] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:20］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:20]."
       }
     },
     {
@@ -400,7 +680,21 @@
         "ru_abuadel": "Перевод айята [44:21] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:21] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:21] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:21］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:21］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:21] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:21] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:21] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:21] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:21]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:21] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:21].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:21] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:21].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:21].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:21].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:21]."
       }
     },
     {
@@ -419,7 +713,21 @@
         "ru_abuadel": "Перевод айята [44:22] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:22] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:22] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:22］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:22］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:22] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:22] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:22] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:22] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:22]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:22] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:22].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:22] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:22].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:22].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:22].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:22]."
       }
     },
     {
@@ -438,7 +746,21 @@
         "ru_abuadel": "Перевод айята [44:23] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:23] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:23] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:23］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:23］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:23] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:23] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:23] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:23] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:23]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:23] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:23].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:23] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:23].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:23].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:23].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:23]."
       }
     },
     {
@@ -457,7 +779,21 @@
         "ru_abuadel": "Перевод айята [44:24] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:24] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:24] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:24］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:24］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:24] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:24] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:24] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:24] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:24]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:24] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:24].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:24] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:24].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:24].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:24].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:24]."
       }
     },
     {
@@ -476,7 +812,21 @@
         "ru_abuadel": "Перевод айята [44:25] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:25] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:25] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:25］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:25］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:25] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:25] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:25] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:25] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:25]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:25] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:25].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:25] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:25].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:25].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:25].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:25]."
       }
     },
     {
@@ -495,7 +845,21 @@
         "ru_abuadel": "Перевод айята [44:26] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:26] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:26] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:26］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:26］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:26] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:26] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:26] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:26] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:26]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:26] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:26].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:26] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:26].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:26].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:26].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:26]."
       }
     },
     {
@@ -514,7 +878,21 @@
         "ru_abuadel": "Перевод айята [44:27] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:27] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:27] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:27］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:27］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:27] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:27] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:27] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:27] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:27]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:27] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:27].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:27] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:27].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:27].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:27].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:27]."
       }
     },
     {
@@ -533,7 +911,21 @@
         "ru_abuadel": "Перевод айята [44:28] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:28] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:28] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:28］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:28］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:28] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:28] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:28] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:28] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:28]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:28] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:28].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:28] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:28].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:28].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:28].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:28]."
       }
     },
     {
@@ -552,7 +944,21 @@
         "ru_abuadel": "Перевод айята [44:29] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:29] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:29] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:29］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:29］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:29] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:29] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:29] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:29] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:29]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:29] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:29].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:29] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:29].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:29].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:29].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:29]."
       }
     },
     {
@@ -571,7 +977,21 @@
         "ru_abuadel": "Перевод айята [44:30] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:30] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:30] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:30］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:30］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:30] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:30] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:30] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:30] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:30]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:30] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:30].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:30] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:30].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:30].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:30].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:30]."
       }
     },
     {
@@ -590,7 +1010,21 @@
         "ru_abuadel": "Перевод айята [44:31] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:31] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:31] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:31］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:31］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:31] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:31] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:31] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:31] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:31]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:31] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:31].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:31] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:31].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:31].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:31].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:31]."
       }
     },
     {
@@ -609,7 +1043,21 @@
         "ru_abuadel": "Перевод айята [44:32] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:32] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:32] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:32］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:32］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:32] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:32] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:32] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:32] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:32]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:32] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:32].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:32] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:32].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:32].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:32].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:32]."
       }
     },
     {
@@ -628,7 +1076,21 @@
         "ru_abuadel": "Перевод айята [44:33] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:33] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:33] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:33］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:33］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:33] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:33] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:33] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:33] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:33]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:33] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:33].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:33] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:33].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:33].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:33].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:33]."
       }
     },
     {
@@ -647,7 +1109,21 @@
         "ru_abuadel": "Перевод айята [44:34] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:34] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:34] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:34］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:34］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:34] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:34] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:34] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:34] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:34]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:34] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:34].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:34] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:34].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:34].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:34].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:34]."
       }
     },
     {
@@ -666,7 +1142,21 @@
         "ru_abuadel": "Перевод айята [44:35] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:35] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:35] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:35］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:35］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:35] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:35] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:35] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:35] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:35]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:35] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:35].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:35] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:35].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:35].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:35].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:35]."
       }
     },
     {
@@ -685,7 +1175,21 @@
         "ru_abuadel": "Перевод айята [44:36] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:36] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:36] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:36］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:36］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:36] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:36] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:36] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:36] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:36]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:36] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:36].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:36] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:36].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:36].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:36].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:36]."
       }
     },
     {
@@ -704,7 +1208,21 @@
         "ru_abuadel": "Перевод айята [44:37] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:37] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:37] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:37］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:37］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:37] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:37] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:37] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:37] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:37]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:37] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:37].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:37] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:37].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:37].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:37].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:37]."
       }
     },
     {
@@ -723,7 +1241,21 @@
         "ru_abuadel": "Перевод айята [44:38] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:38] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:38] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:38］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:38］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:38] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:38] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:38] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:38] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:38]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:38] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:38].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:38] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:38].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:38].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:38].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:38]."
       }
     },
     {
@@ -742,7 +1274,21 @@
         "ru_abuadel": "Перевод айята [44:39] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:39] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:39] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:39］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:39］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:39] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:39] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:39] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:39] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:39]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:39] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:39].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:39] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:39].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:39].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:39].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:39]."
       }
     },
     {
@@ -761,7 +1307,21 @@
         "ru_abuadel": "Перевод айята [44:40] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:40] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:40] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:40］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:40］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:40] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:40] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:40] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:40] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:40]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:40] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:40].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:40] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:40].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:40].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:40].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:40]."
       }
     },
     {
@@ -780,7 +1340,21 @@
         "ru_abuadel": "Перевод айята [44:41] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:41] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:41] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:41］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:41］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:41] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:41] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:41] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:41] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:41]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:41] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:41].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:41] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:41].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:41].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:41].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:41]."
       }
     },
     {
@@ -799,7 +1373,21 @@
         "ru_abuadel": "Перевод айята [44:42] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:42] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:42] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:42］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:42］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:42] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:42] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:42] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:42] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:42]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:42] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:42].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:42] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:42].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:42].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:42].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:42]."
       }
     },
     {
@@ -818,7 +1406,21 @@
         "ru_abuadel": "Перевод айята [44:43] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:43] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:43] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:43］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:43］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:43] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:43] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:43] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:43] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:43]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:43] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:43].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:43] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:43].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:43].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:43].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:43]."
       }
     },
     {
@@ -837,7 +1439,21 @@
         "ru_abuadel": "Перевод айята [44:44] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:44] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:44] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:44］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:44］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:44] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:44] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:44] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:44] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:44]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:44] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:44].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:44] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:44].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:44].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:44].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:44]."
       }
     },
     {
@@ -856,7 +1472,21 @@
         "ru_abuadel": "Перевод айята [44:45] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:45] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:45] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:45］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:45］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:45] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:45] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:45] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:45] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:45]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:45] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:45].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:45] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:45].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:45].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:45].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:45]."
       }
     },
     {
@@ -875,7 +1505,21 @@
         "ru_abuadel": "Перевод айята [44:46] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:46] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:46] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:46］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:46］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:46] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:46] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:46] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:46] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:46]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:46] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:46].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:46] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:46].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:46].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:46].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:46]."
       }
     },
     {
@@ -894,7 +1538,21 @@
         "ru_abuadel": "Перевод айята [44:47] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:47] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:47] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:47］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:47］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:47] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:47] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:47] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:47] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:47]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:47] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:47].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:47] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:47].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:47].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:47].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:47]."
       }
     },
     {
@@ -913,7 +1571,21 @@
         "ru_abuadel": "Перевод айята [44:48] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:48] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:48] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:48］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:48］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:48] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:48] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:48] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:48] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:48]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:48] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:48].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:48] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:48].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:48].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:48].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:48]."
       }
     },
     {
@@ -932,7 +1604,21 @@
         "ru_abuadel": "Перевод айята [44:49] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:49] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:49] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:49］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:49］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:49] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:49] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:49] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:49] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:49]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:49] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:49].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:49] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:49].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:49].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:49].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:49]."
       }
     },
     {
@@ -951,7 +1637,21 @@
         "ru_abuadel": "Перевод айята [44:50] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:50] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:50] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:50］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:50］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:50] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:50] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:50] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:50] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:50]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:50] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:50].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:50] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:50].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:50].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:50].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:50]."
       }
     },
     {
@@ -970,7 +1670,21 @@
         "ru_abuadel": "Перевод айята [44:51] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:51] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:51] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:51］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:51］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:51] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:51] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:51] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:51] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:51]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:51] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:51].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:51] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:51].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:51].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:51].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:51]."
       }
     },
     {
@@ -989,7 +1703,21 @@
         "ru_abuadel": "Перевод айята [44:52] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:52] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:52] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:52］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:52］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:52] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:52] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:52] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:52] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:52]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:52] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:52].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:52] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:52].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:52].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:52].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:52]."
       }
     },
     {
@@ -1008,7 +1736,21 @@
         "ru_abuadel": "Перевод айята [44:53] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:53] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:53] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:53］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:53］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:53] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:53] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:53] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:53] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:53]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:53] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:53].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:53] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:53].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:53].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:53].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:53]."
       }
     },
     {
@@ -1027,7 +1769,21 @@
         "ru_abuadel": "Перевод айята [44:54] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:54] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:54] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:54］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:54］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:54] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:54] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:54] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:54] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:54]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:54] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:54].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:54] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:54].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:54].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:54].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:54]."
       }
     },
     {
@@ -1046,7 +1802,21 @@
         "ru_abuadel": "Перевод айята [44:55] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:55] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:55] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:55］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:55］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:55] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:55] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:55] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:55] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:55]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:55] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:55].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:55] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:55].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:55].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:55].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:55]."
       }
     },
     {
@@ -1065,7 +1835,21 @@
         "ru_abuadel": "Перевод айята [44:56] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:56] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:56] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:56］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:56］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:56] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:56] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:56] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:56] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:56]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:56] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:56].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:56] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:56].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:56].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:56].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:56]."
       }
     },
     {
@@ -1084,7 +1868,21 @@
         "ru_abuadel": "Перевод айята [44:57] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:57] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:57] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:57］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:57］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:57] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:57] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:57] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:57] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:57]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:57] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:57].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:57] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:57].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:57].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:57].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:57]."
       }
     },
     {
@@ -1103,7 +1901,21 @@
         "ru_abuadel": "Перевод айята [44:58] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:58] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:58] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:58］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:58］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:58] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:58] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:58] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:58] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:58]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:58] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:58].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:58] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:58].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:58].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:58].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:58]."
       }
     },
     {
@@ -1122,7 +1934,21 @@
         "ru_abuadel": "Перевод айята [44:59] на русский язык (Абу Адель).",
         "tr_diyanet": "[44:59] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [44:59] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［44:59］ 马坚 译文"
+        "zh_jian": "真主启示 ［44:59］ 马坚 译文",
+        "it_piccardo": "Traduzione di [44:59] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [44:59] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [44:59] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [44:59] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [44:59]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [44:59] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [44:59].",
+        "ar_jalalayn": "تفسير الجلالين للآية [44:59] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [44:59].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [44:59].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [44:59].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [44:59]."
       }
     }
   ],

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T02:06:49.457Z",
+  "generatedAt": "2026-05-23T02:33:24.475Z",
   "surahNumber": 31,
   "ayahCount": 34,
   "ayahs": [
@@ -20,7 +20,21 @@
         "ru_abuadel": "Перевод айята [31:1] на русский язык (Абу Адель).",
         "tr_diyanet": "[31:1] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [31:1] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［31:1］ 马坚 译文"
+        "zh_jian": "真主启示 ［31:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [31:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [31:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [31:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [31:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [31:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [31:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [31:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [31:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [31:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [31:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [31:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [31:1]."
       }
     },
     {
@@ -39,7 +53,21 @@
         "ru_abuadel": "Перевод айята [31:2] на русский язык (Абу Адель).",
         "tr_diyanet": "[31:2] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [31:2] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［31:2］ 马坚 译文"
+        "zh_jian": "真主启示 ［31:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [31:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [31:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [31:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [31:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [31:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [31:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [31:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [31:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [31:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [31:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [31:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [31:2]."
       }
     },
     {
@@ -58,7 +86,21 @@
         "ru_abuadel": "Перевод айята [31:3] на русский язык (Абу Адель).",
         "tr_diyanet": "[31:3] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [31:3] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［31:3］ 马坚 译文"
+        "zh_jian": "真主启示 ［31:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [31:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [31:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [31:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [31:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [31:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [31:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [31:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [31:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [31:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [31:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [31:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [31:3]."
       }
     },
     {
@@ -77,7 +119,21 @@
         "ru_abuadel": "Перевод айята [31:4] на русский язык (Абу Адель).",
         "tr_diyanet": "[31:4] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [31:4] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［31:4］ 马坚 译文"
+        "zh_jian": "真主启示 ［31:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [31:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [31:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [31:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [31:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [31:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [31:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [31:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [31:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [31:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [31:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [31:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [31:4]."
       }
     },
     {
@@ -96,7 +152,21 @@
         "ru_abuadel": "Перевод айята [31:5] на русский язык (Абу Адель).",
         "tr_diyanet": "[31:5] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [31:5] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［31:5］ 马坚 译文"
+        "zh_jian": "真主启示 ［31:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [31:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [31:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [31:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [31:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [31:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [31:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [31:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [31:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [31:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [31:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [31:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [31:5]."
       }
     },
     {
@@ -115,7 +185,21 @@
         "ru_abuadel": "Перевод айята [31:6] на русский язык (Абу Адель).",
         "tr_diyanet": "[31:6] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [31:6] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［31:6］ 马坚 译文"
+        "zh_jian": "真主启示 ［31:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [31:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [31:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [31:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [31:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [31:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [31:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [31:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [31:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [31:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [31:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [31:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [31:6]."
       }
     },
     {
@@ -134,7 +218,21 @@
         "ru_abuadel": "Перевод айята [31:7] на русский язык (Абу Адель).",
         "tr_diyanet": "[31:7] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [31:7] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［31:7］ 马坚 译文"
+        "zh_jian": "真主启示 ［31:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [31:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [31:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [31:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [31:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [31:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [31:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [31:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [31:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [31:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [31:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [31:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [31:7]."
       }
     },
     {
@@ -153,7 +251,21 @@
         "ru_abuadel": "Перевод айята [31:8] на русский язык (Абу Адель).",
         "tr_diyanet": "[31:8] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [31:8] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［31:8］ 马坚 译文"
+        "zh_jian": "真主启示 ［31:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [31:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [31:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [31:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [31:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [31:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [31:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [31:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [31:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [31:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [31:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [31:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [31:8]."
       }
     },
     {
@@ -172,7 +284,21 @@
         "ru_abuadel": "Перевод айята [31:9] на русский язык (Абу Адель).",
         "tr_diyanet": "[31:9] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [31:9] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［31:9］ 马坚 译文"
+        "zh_jian": "真主启示 ［31:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [31:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [31:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [31:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [31:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [31:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [31:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [31:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [31:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [31:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [31:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [31:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [31:9]."
       }
     },
     {
@@ -191,7 +317,21 @@
         "ru_abuadel": "Перевод айята [31:10] на русский язык (Абу Адель).",
         "tr_diyanet": "[31:10] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [31:10] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［31:10］ 马坚 译文"
+        "zh_jian": "真主启示 ［31:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [31:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [31:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [31:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [31:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [31:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [31:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [31:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [31:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [31:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [31:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [31:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [31:10]."
       }
     },
     {
@@ -210,7 +350,21 @@
         "ru_abuadel": "Перевод айята [31:11] на русский язык (Абу Адель).",
         "tr_diyanet": "[31:11] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [31:11] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［31:11］ 马坚 译文"
+        "zh_jian": "真主启示 ［31:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [31:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [31:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [31:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [31:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [31:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [31:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [31:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [31:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [31:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [31:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [31:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [31:11]."
       }
     },
     {
@@ -229,7 +383,21 @@
         "ru_abuadel": "Перевод айята [31:12] на русский язык (Абу Адель).",
         "tr_diyanet": "[31:12] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [31:12] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［31:12］ 马坚 译文"
+        "zh_jian": "真主启示 ［31:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [31:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [31:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [31:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [31:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [31:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [31:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [31:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [31:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [31:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [31:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [31:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [31:12]."
       }
     },
     {
@@ -248,7 +416,21 @@
         "ru_abuadel": "Перевод айята [31:13] на русский язык (Абу Адель).",
         "tr_diyanet": "[31:13] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [31:13] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［31:13］ 马坚 译文"
+        "zh_jian": "真主启示 ［31:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [31:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [31:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [31:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [31:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [31:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [31:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [31:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [31:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [31:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [31:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [31:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [31:13]."
       }
     },
     {
@@ -267,7 +449,21 @@
         "ru_abuadel": "Перевод айята [31:14] на русский язык (Абу Адель).",
         "tr_diyanet": "[31:14] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [31:14] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［31:14］ 马坚 译文"
+        "zh_jian": "真主启示 ［31:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [31:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [31:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [31:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [31:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [31:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [31:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [31:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [31:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [31:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [31:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [31:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [31:14]."
       }
     },
     {
@@ -286,7 +482,21 @@
         "ru_abuadel": "Перевод айята [31:15] на русский язык (Абу Адель).",
         "tr_diyanet": "[31:15] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [31:15] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［31:15］ 马坚 译文"
+        "zh_jian": "真主启示 ［31:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [31:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [31:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [31:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [31:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [31:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [31:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [31:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [31:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [31:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [31:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [31:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [31:15]."
       }
     },
     {
@@ -305,7 +515,21 @@
         "ru_abuadel": "Перевод айята [31:16] на русский язык (Абу Адель).",
         "tr_diyanet": "[31:16] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [31:16] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［31:16］ 马坚 译文"
+        "zh_jian": "真主启示 ［31:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [31:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [31:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [31:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [31:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [31:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [31:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [31:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [31:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [31:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [31:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [31:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [31:16]."
       }
     },
     {
@@ -324,7 +548,21 @@
         "ru_abuadel": "Перевод айята [31:17] на русский язык (Абу Адель).",
         "tr_diyanet": "[31:17] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [31:17] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［31:17］ 马坚 译文"
+        "zh_jian": "真主启示 ［31:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [31:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [31:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [31:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [31:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [31:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [31:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [31:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [31:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [31:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [31:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [31:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [31:17]."
       }
     },
     {
@@ -343,7 +581,21 @@
         "ru_abuadel": "Перевод айята [31:18] на русский язык (Абу Адель).",
         "tr_diyanet": "[31:18] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [31:18] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［31:18］ 马坚 译文"
+        "zh_jian": "真主启示 ［31:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [31:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [31:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [31:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [31:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [31:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [31:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [31:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [31:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [31:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [31:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [31:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [31:18]."
       }
     },
     {
@@ -362,7 +614,21 @@
         "ru_abuadel": "Перевод айята [31:19] на русский язык (Абу Адель).",
         "tr_diyanet": "[31:19] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [31:19] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［31:19］ 马坚 译文"
+        "zh_jian": "真主启示 ［31:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [31:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [31:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [31:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [31:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [31:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [31:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [31:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [31:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [31:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [31:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [31:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [31:19]."
       }
     },
     {
@@ -381,7 +647,21 @@
         "ru_abuadel": "Перевод айята [31:20] на русский язык (Абу Адель).",
         "tr_diyanet": "[31:20] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [31:20] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［31:20］ 马坚 译文"
+        "zh_jian": "真主启示 ［31:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [31:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [31:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [31:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [31:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [31:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [31:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [31:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [31:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [31:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [31:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [31:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [31:20]."
       }
     },
     {
@@ -400,7 +680,21 @@
         "ru_abuadel": "Перевод айята [31:21] на русский язык (Абу Адель).",
         "tr_diyanet": "[31:21] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [31:21] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［31:21］ 马坚 译文"
+        "zh_jian": "真主启示 ［31:21］ 马坚 译文",
+        "it_piccardo": "Traduzione di [31:21] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [31:21] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [31:21] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [31:21] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [31:21]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [31:21] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [31:21].",
+        "ar_jalalayn": "تفسير الجلالين للآية [31:21] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [31:21].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [31:21].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [31:21].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [31:21]."
       }
     },
     {
@@ -419,7 +713,21 @@
         "ru_abuadel": "Перевод айята [31:22] на русский язык (Абу Адель).",
         "tr_diyanet": "[31:22] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [31:22] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［31:22］ 马坚 译文"
+        "zh_jian": "真主启示 ［31:22］ 马坚 译文",
+        "it_piccardo": "Traduzione di [31:22] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [31:22] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [31:22] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [31:22] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [31:22]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [31:22] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [31:22].",
+        "ar_jalalayn": "تفسير الجلالين للآية [31:22] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [31:22].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [31:22].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [31:22].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [31:22]."
       }
     },
     {
@@ -438,7 +746,21 @@
         "ru_abuadel": "Перевод айята [31:23] на русский язык (Абу Адель).",
         "tr_diyanet": "[31:23] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [31:23] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［31:23］ 马坚 译文"
+        "zh_jian": "真主启示 ［31:23］ 马坚 译文",
+        "it_piccardo": "Traduzione di [31:23] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [31:23] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [31:23] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [31:23] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [31:23]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [31:23] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [31:23].",
+        "ar_jalalayn": "تفسير الجلالين للآية [31:23] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [31:23].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [31:23].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [31:23].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [31:23]."
       }
     },
     {
@@ -457,7 +779,21 @@
         "ru_abuadel": "Перевод айята [31:24] на русский язык (Абу Адель).",
         "tr_diyanet": "[31:24] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [31:24] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［31:24］ 马坚 译文"
+        "zh_jian": "真主启示 ［31:24］ 马坚 译文",
+        "it_piccardo": "Traduzione di [31:24] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [31:24] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [31:24] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [31:24] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [31:24]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [31:24] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [31:24].",
+        "ar_jalalayn": "تفسير الجلالين للآية [31:24] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [31:24].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [31:24].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [31:24].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [31:24]."
       }
     },
     {
@@ -476,7 +812,21 @@
         "ru_abuadel": "Перевод айята [31:25] на русский язык (Абу Адель).",
         "tr_diyanet": "[31:25] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [31:25] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［31:25］ 马坚 译文"
+        "zh_jian": "真主启示 ［31:25］ 马坚 译文",
+        "it_piccardo": "Traduzione di [31:25] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [31:25] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [31:25] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [31:25] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [31:25]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [31:25] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [31:25].",
+        "ar_jalalayn": "تفسير الجلالين للآية [31:25] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [31:25].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [31:25].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [31:25].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [31:25]."
       }
     },
     {
@@ -495,7 +845,21 @@
         "ru_abuadel": "Перевод айята [31:26] на русский язык (Абу Адель).",
         "tr_diyanet": "[31:26] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [31:26] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［31:26］ 马坚 译文"
+        "zh_jian": "真主启示 ［31:26］ 马坚 译文",
+        "it_piccardo": "Traduzione di [31:26] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [31:26] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [31:26] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [31:26] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [31:26]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [31:26] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [31:26].",
+        "ar_jalalayn": "تفسير الجلالين للآية [31:26] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [31:26].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [31:26].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [31:26].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [31:26]."
       }
     },
     {
@@ -514,7 +878,21 @@
         "ru_abuadel": "Перевод айята [31:27] на русский язык (Абу Адель).",
         "tr_diyanet": "[31:27] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [31:27] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［31:27］ 马坚 译文"
+        "zh_jian": "真主启示 ［31:27］ 马坚 译文",
+        "it_piccardo": "Traduzione di [31:27] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [31:27] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [31:27] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [31:27] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [31:27]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [31:27] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [31:27].",
+        "ar_jalalayn": "تفسير الجلالين للآية [31:27] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [31:27].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [31:27].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [31:27].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [31:27]."
       }
     },
     {
@@ -533,7 +911,21 @@
         "ru_abuadel": "Перевод айята [31:28] на русский язык (Абу Адель).",
         "tr_diyanet": "[31:28] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [31:28] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［31:28］ 马坚 译文"
+        "zh_jian": "真主启示 ［31:28］ 马坚 译文",
+        "it_piccardo": "Traduzione di [31:28] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [31:28] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [31:28] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [31:28] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [31:28]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [31:28] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [31:28].",
+        "ar_jalalayn": "تفسير الجلالين للآية [31:28] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [31:28].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [31:28].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [31:28].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [31:28]."
       }
     },
     {
@@ -552,7 +944,21 @@
         "ru_abuadel": "Перевод айята [31:29] на русский язык (Абу Адель).",
         "tr_diyanet": "[31:29] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [31:29] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［31:29］ 马坚 译文"
+        "zh_jian": "真主启示 ［31:29］ 马坚 译文",
+        "it_piccardo": "Traduzione di [31:29] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [31:29] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [31:29] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [31:29] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [31:29]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [31:29] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [31:29].",
+        "ar_jalalayn": "تفسير الجلالين للآية [31:29] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [31:29].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [31:29].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [31:29].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [31:29]."
       }
     },
     {
@@ -571,7 +977,21 @@
         "ru_abuadel": "Перевод айята [31:30] на русский язык (Абу Адель).",
         "tr_diyanet": "[31:30] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [31:30] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［31:30］ 马坚 译文"
+        "zh_jian": "真主启示 ［31:30］ 马坚 译文",
+        "it_piccardo": "Traduzione di [31:30] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [31:30] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [31:30] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [31:30] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [31:30]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [31:30] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [31:30].",
+        "ar_jalalayn": "تفسير الجلالين للآية [31:30] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [31:30].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [31:30].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [31:30].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [31:30]."
       }
     },
     {
@@ -590,7 +1010,21 @@
         "ru_abuadel": "Перевод айята [31:31] на русский язык (Абу Адель).",
         "tr_diyanet": "[31:31] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [31:31] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［31:31］ 马坚 译文"
+        "zh_jian": "真主启示 ［31:31］ 马坚 译文",
+        "it_piccardo": "Traduzione di [31:31] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [31:31] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [31:31] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [31:31] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [31:31]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [31:31] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [31:31].",
+        "ar_jalalayn": "تفسير الجلالين للآية [31:31] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [31:31].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [31:31].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [31:31].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [31:31]."
       }
     },
     {
@@ -609,7 +1043,21 @@
         "ru_abuadel": "Перевод айята [31:32] на русский язык (Абу Адель).",
         "tr_diyanet": "[31:32] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [31:32] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［31:32］ 马坚 译文"
+        "zh_jian": "真主启示 ［31:32］ 马坚 译文",
+        "it_piccardo": "Traduzione di [31:32] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [31:32] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [31:32] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [31:32] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [31:32]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [31:32] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [31:32].",
+        "ar_jalalayn": "تفسير الجلالين للآية [31:32] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [31:32].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [31:32].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [31:32].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [31:32]."
       }
     },
     {
@@ -628,7 +1076,21 @@
         "ru_abuadel": "Перевод айята [31:33] на русский язык (Абу Адель).",
         "tr_diyanet": "[31:33] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [31:33] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［31:33］ 马坚 译文"
+        "zh_jian": "真主启示 ［31:33］ 马坚 译文",
+        "it_piccardo": "Traduzione di [31:33] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [31:33] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [31:33] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [31:33] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [31:33]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [31:33] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [31:33].",
+        "ar_jalalayn": "تفسير الجلالين للآية [31:33] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [31:33].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [31:33].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [31:33].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [31:33]."
       }
     },
     {
@@ -647,7 +1109,21 @@
         "ru_abuadel": "Перевод айята [31:34] на русский язык (Абу Адель).",
         "tr_diyanet": "[31:34] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [31:34] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［31:34］ 马坚 译文"
+        "zh_jian": "真主启示 ［31:34］ 马坚 译文",
+        "it_piccardo": "Traduzione di [31:34] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [31:34] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [31:34] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [31:34] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [31:34]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [31:34] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [31:34].",
+        "ar_jalalayn": "تفسير الجلالين للآية [31:34] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [31:34].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [31:34].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [31:34].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [31:34]."
       }
     }
   ],

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T02:06:49.476Z",
+  "generatedAt": "2026-05-23T02:33:24.504Z",
   "surahNumber": 97,
   "ayahCount": 5,
   "ayahs": [
@@ -20,7 +20,21 @@
         "ru_abuadel": "Перевод айята [97:1] на русский язык (Абу Адель).",
         "tr_diyanet": "[97:1] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [97:1] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［97:1］ 马坚 译文"
+        "zh_jian": "真主启示 ［97:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [97:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [97:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [97:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [97:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [97:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [97:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [97:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [97:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [97:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [97:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [97:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [97:1]."
       }
     },
     {
@@ -39,7 +53,21 @@
         "ru_abuadel": "Перевод айята [97:2] на русский язык (Абу Адель).",
         "tr_diyanet": "[97:2] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [97:2] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［97:2］ 马坚 译文"
+        "zh_jian": "真主启示 ［97:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [97:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [97:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [97:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [97:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [97:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [97:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [97:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [97:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [97:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [97:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [97:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [97:2]."
       }
     },
     {
@@ -58,7 +86,21 @@
         "ru_abuadel": "Перевод айята [97:3] на русский язык (Абу Адель).",
         "tr_diyanet": "[97:3] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [97:3] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［97:3］ 马坚 译文"
+        "zh_jian": "真主启示 ［97:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [97:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [97:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [97:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [97:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [97:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [97:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [97:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [97:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [97:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [97:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [97:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [97:3]."
       }
     },
     {
@@ -77,7 +119,21 @@
         "ru_abuadel": "Перевод айята [97:4] на русский язык (Абу Адель).",
         "tr_diyanet": "[97:4] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [97:4] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［97:4］ 马坚 译文"
+        "zh_jian": "真主启示 ［97:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [97:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [97:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [97:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [97:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [97:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [97:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [97:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [97:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [97:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [97:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [97:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [97:4]."
       }
     },
     {
@@ -96,7 +152,21 @@
         "ru_abuadel": "Перевод айята [97:5] на русский язык (Абу Адель).",
         "tr_diyanet": "[97:5] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [97:5] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［97:5］ 马坚 译文"
+        "zh_jian": "真主启示 ［97:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [97:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [97:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [97:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [97:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [97:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [97:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [97:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [97:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [97:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [97:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [97:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [97:5]."
       }
     }
   ],

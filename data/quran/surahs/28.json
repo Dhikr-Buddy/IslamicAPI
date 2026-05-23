@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T02:06:49.455Z",
+  "generatedAt": "2026-05-23T02:33:24.472Z",
   "surahNumber": 28,
   "ayahCount": 88,
   "ayahs": [
@@ -20,7 +20,21 @@
         "ru_abuadel": "Перевод айята [28:1] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:1] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:1] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:1］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:1]."
       }
     },
     {
@@ -39,7 +53,21 @@
         "ru_abuadel": "Перевод айята [28:2] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:2] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:2] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:2］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:2]."
       }
     },
     {
@@ -58,7 +86,21 @@
         "ru_abuadel": "Перевод айята [28:3] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:3] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:3] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:3］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:3]."
       }
     },
     {
@@ -77,7 +119,21 @@
         "ru_abuadel": "Перевод айята [28:4] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:4] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:4] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:4］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:4]."
       }
     },
     {
@@ -96,7 +152,21 @@
         "ru_abuadel": "Перевод айята [28:5] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:5] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:5] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:5］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:5]."
       }
     },
     {
@@ -115,7 +185,21 @@
         "ru_abuadel": "Перевод айята [28:6] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:6] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:6] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:6］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:6]."
       }
     },
     {
@@ -134,7 +218,21 @@
         "ru_abuadel": "Перевод айята [28:7] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:7] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:7] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:7］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:7]."
       }
     },
     {
@@ -153,7 +251,21 @@
         "ru_abuadel": "Перевод айята [28:8] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:8] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:8] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:8］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:8]."
       }
     },
     {
@@ -172,7 +284,21 @@
         "ru_abuadel": "Перевод айята [28:9] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:9] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:9] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:9］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:9]."
       }
     },
     {
@@ -191,7 +317,21 @@
         "ru_abuadel": "Перевод айята [28:10] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:10] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:10] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:10］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:10]."
       }
     },
     {
@@ -210,7 +350,21 @@
         "ru_abuadel": "Перевод айята [28:11] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:11] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:11] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:11］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:11]."
       }
     },
     {
@@ -229,7 +383,21 @@
         "ru_abuadel": "Перевод айята [28:12] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:12] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:12] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:12］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:12]."
       }
     },
     {
@@ -248,7 +416,21 @@
         "ru_abuadel": "Перевод айята [28:13] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:13] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:13] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:13］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:13]."
       }
     },
     {
@@ -267,7 +449,21 @@
         "ru_abuadel": "Перевод айята [28:14] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:14] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:14] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:14］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:14]."
       }
     },
     {
@@ -286,7 +482,21 @@
         "ru_abuadel": "Перевод айята [28:15] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:15] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:15] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:15］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:15]."
       }
     },
     {
@@ -305,7 +515,21 @@
         "ru_abuadel": "Перевод айята [28:16] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:16] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:16] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:16］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:16]."
       }
     },
     {
@@ -324,7 +548,21 @@
         "ru_abuadel": "Перевод айята [28:17] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:17] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:17] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:17］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:17]."
       }
     },
     {
@@ -343,7 +581,21 @@
         "ru_abuadel": "Перевод айята [28:18] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:18] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:18] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:18］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:18]."
       }
     },
     {
@@ -362,7 +614,21 @@
         "ru_abuadel": "Перевод айята [28:19] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:19] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:19] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:19］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:19]."
       }
     },
     {
@@ -381,7 +647,21 @@
         "ru_abuadel": "Перевод айята [28:20] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:20] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:20] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:20］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:20]."
       }
     },
     {
@@ -400,7 +680,21 @@
         "ru_abuadel": "Перевод айята [28:21] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:21] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:21] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:21］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:21］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:21] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:21] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:21] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:21] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:21]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:21] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:21].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:21] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:21].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:21].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:21].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:21]."
       }
     },
     {
@@ -419,7 +713,21 @@
         "ru_abuadel": "Перевод айята [28:22] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:22] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:22] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:22］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:22］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:22] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:22] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:22] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:22] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:22]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:22] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:22].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:22] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:22].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:22].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:22].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:22]."
       }
     },
     {
@@ -438,7 +746,21 @@
         "ru_abuadel": "Перевод айята [28:23] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:23] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:23] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:23］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:23］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:23] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:23] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:23] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:23] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:23]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:23] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:23].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:23] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:23].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:23].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:23].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:23]."
       }
     },
     {
@@ -457,7 +779,21 @@
         "ru_abuadel": "Перевод айята [28:24] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:24] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:24] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:24］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:24］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:24] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:24] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:24] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:24] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:24]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:24] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:24].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:24] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:24].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:24].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:24].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:24]."
       }
     },
     {
@@ -476,7 +812,21 @@
         "ru_abuadel": "Перевод айята [28:25] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:25] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:25] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:25］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:25］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:25] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:25] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:25] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:25] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:25]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:25] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:25].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:25] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:25].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:25].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:25].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:25]."
       }
     },
     {
@@ -495,7 +845,21 @@
         "ru_abuadel": "Перевод айята [28:26] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:26] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:26] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:26］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:26］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:26] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:26] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:26] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:26] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:26]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:26] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:26].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:26] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:26].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:26].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:26].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:26]."
       }
     },
     {
@@ -514,7 +878,21 @@
         "ru_abuadel": "Перевод айята [28:27] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:27] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:27] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:27］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:27］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:27] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:27] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:27] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:27] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:27]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:27] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:27].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:27] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:27].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:27].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:27].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:27]."
       }
     },
     {
@@ -533,7 +911,21 @@
         "ru_abuadel": "Перевод айята [28:28] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:28] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:28] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:28］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:28］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:28] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:28] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:28] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:28] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:28]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:28] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:28].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:28] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:28].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:28].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:28].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:28]."
       }
     },
     {
@@ -552,7 +944,21 @@
         "ru_abuadel": "Перевод айята [28:29] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:29] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:29] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:29］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:29］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:29] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:29] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:29] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:29] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:29]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:29] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:29].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:29] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:29].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:29].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:29].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:29]."
       }
     },
     {
@@ -571,7 +977,21 @@
         "ru_abuadel": "Перевод айята [28:30] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:30] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:30] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:30］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:30］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:30] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:30] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:30] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:30] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:30]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:30] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:30].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:30] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:30].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:30].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:30].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:30]."
       }
     },
     {
@@ -590,7 +1010,21 @@
         "ru_abuadel": "Перевод айята [28:31] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:31] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:31] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:31］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:31］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:31] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:31] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:31] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:31] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:31]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:31] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:31].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:31] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:31].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:31].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:31].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:31]."
       }
     },
     {
@@ -609,7 +1043,21 @@
         "ru_abuadel": "Перевод айята [28:32] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:32] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:32] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:32］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:32］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:32] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:32] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:32] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:32] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:32]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:32] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:32].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:32] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:32].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:32].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:32].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:32]."
       }
     },
     {
@@ -628,7 +1076,21 @@
         "ru_abuadel": "Перевод айята [28:33] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:33] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:33] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:33］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:33］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:33] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:33] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:33] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:33] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:33]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:33] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:33].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:33] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:33].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:33].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:33].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:33]."
       }
     },
     {
@@ -647,7 +1109,21 @@
         "ru_abuadel": "Перевод айята [28:34] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:34] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:34] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:34］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:34］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:34] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:34] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:34] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:34] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:34]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:34] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:34].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:34] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:34].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:34].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:34].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:34]."
       }
     },
     {
@@ -666,7 +1142,21 @@
         "ru_abuadel": "Перевод айята [28:35] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:35] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:35] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:35］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:35］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:35] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:35] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:35] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:35] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:35]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:35] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:35].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:35] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:35].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:35].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:35].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:35]."
       }
     },
     {
@@ -685,7 +1175,21 @@
         "ru_abuadel": "Перевод айята [28:36] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:36] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:36] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:36］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:36］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:36] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:36] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:36] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:36] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:36]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:36] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:36].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:36] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:36].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:36].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:36].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:36]."
       }
     },
     {
@@ -704,7 +1208,21 @@
         "ru_abuadel": "Перевод айята [28:37] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:37] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:37] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:37］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:37］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:37] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:37] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:37] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:37] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:37]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:37] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:37].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:37] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:37].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:37].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:37].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:37]."
       }
     },
     {
@@ -723,7 +1241,21 @@
         "ru_abuadel": "Перевод айята [28:38] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:38] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:38] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:38］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:38］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:38] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:38] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:38] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:38] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:38]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:38] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:38].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:38] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:38].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:38].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:38].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:38]."
       }
     },
     {
@@ -742,7 +1274,21 @@
         "ru_abuadel": "Перевод айята [28:39] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:39] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:39] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:39］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:39］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:39] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:39] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:39] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:39] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:39]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:39] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:39].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:39] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:39].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:39].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:39].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:39]."
       }
     },
     {
@@ -761,7 +1307,21 @@
         "ru_abuadel": "Перевод айята [28:40] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:40] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:40] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:40］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:40］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:40] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:40] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:40] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:40] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:40]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:40] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:40].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:40] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:40].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:40].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:40].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:40]."
       }
     },
     {
@@ -780,7 +1340,21 @@
         "ru_abuadel": "Перевод айята [28:41] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:41] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:41] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:41］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:41］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:41] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:41] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:41] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:41] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:41]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:41] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:41].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:41] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:41].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:41].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:41].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:41]."
       }
     },
     {
@@ -799,7 +1373,21 @@
         "ru_abuadel": "Перевод айята [28:42] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:42] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:42] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:42］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:42］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:42] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:42] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:42] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:42] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:42]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:42] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:42].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:42] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:42].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:42].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:42].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:42]."
       }
     },
     {
@@ -818,7 +1406,21 @@
         "ru_abuadel": "Перевод айята [28:43] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:43] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:43] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:43］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:43］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:43] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:43] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:43] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:43] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:43]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:43] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:43].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:43] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:43].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:43].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:43].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:43]."
       }
     },
     {
@@ -837,7 +1439,21 @@
         "ru_abuadel": "Перевод айята [28:44] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:44] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:44] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:44］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:44］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:44] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:44] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:44] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:44] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:44]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:44] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:44].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:44] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:44].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:44].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:44].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:44]."
       }
     },
     {
@@ -856,7 +1472,21 @@
         "ru_abuadel": "Перевод айята [28:45] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:45] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:45] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:45］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:45］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:45] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:45] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:45] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:45] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:45]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:45] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:45].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:45] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:45].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:45].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:45].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:45]."
       }
     },
     {
@@ -875,7 +1505,21 @@
         "ru_abuadel": "Перевод айята [28:46] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:46] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:46] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:46］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:46］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:46] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:46] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:46] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:46] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:46]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:46] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:46].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:46] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:46].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:46].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:46].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:46]."
       }
     },
     {
@@ -894,7 +1538,21 @@
         "ru_abuadel": "Перевод айята [28:47] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:47] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:47] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:47］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:47］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:47] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:47] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:47] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:47] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:47]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:47] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:47].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:47] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:47].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:47].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:47].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:47]."
       }
     },
     {
@@ -913,7 +1571,21 @@
         "ru_abuadel": "Перевод айята [28:48] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:48] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:48] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:48］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:48］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:48] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:48] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:48] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:48] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:48]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:48] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:48].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:48] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:48].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:48].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:48].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:48]."
       }
     },
     {
@@ -932,7 +1604,21 @@
         "ru_abuadel": "Перевод айята [28:49] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:49] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:49] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:49］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:49］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:49] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:49] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:49] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:49] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:49]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:49] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:49].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:49] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:49].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:49].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:49].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:49]."
       }
     },
     {
@@ -951,7 +1637,21 @@
         "ru_abuadel": "Перевод айята [28:50] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:50] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:50] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:50］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:50］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:50] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:50] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:50] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:50] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:50]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:50] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:50].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:50] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:50].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:50].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:50].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:50]."
       }
     },
     {
@@ -970,7 +1670,21 @@
         "ru_abuadel": "Перевод айята [28:51] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:51] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:51] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:51］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:51］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:51] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:51] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:51] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:51] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:51]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:51] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:51].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:51] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:51].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:51].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:51].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:51]."
       }
     },
     {
@@ -989,7 +1703,21 @@
         "ru_abuadel": "Перевод айята [28:52] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:52] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:52] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:52］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:52］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:52] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:52] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:52] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:52] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:52]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:52] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:52].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:52] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:52].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:52].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:52].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:52]."
       }
     },
     {
@@ -1008,7 +1736,21 @@
         "ru_abuadel": "Перевод айята [28:53] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:53] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:53] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:53］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:53］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:53] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:53] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:53] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:53] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:53]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:53] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:53].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:53] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:53].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:53].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:53].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:53]."
       }
     },
     {
@@ -1027,7 +1769,21 @@
         "ru_abuadel": "Перевод айята [28:54] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:54] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:54] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:54］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:54］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:54] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:54] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:54] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:54] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:54]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:54] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:54].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:54] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:54].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:54].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:54].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:54]."
       }
     },
     {
@@ -1046,7 +1802,21 @@
         "ru_abuadel": "Перевод айята [28:55] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:55] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:55] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:55］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:55］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:55] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:55] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:55] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:55] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:55]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:55] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:55].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:55] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:55].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:55].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:55].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:55]."
       }
     },
     {
@@ -1065,7 +1835,21 @@
         "ru_abuadel": "Перевод айята [28:56] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:56] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:56] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:56］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:56］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:56] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:56] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:56] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:56] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:56]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:56] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:56].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:56] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:56].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:56].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:56].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:56]."
       }
     },
     {
@@ -1084,7 +1868,21 @@
         "ru_abuadel": "Перевод айята [28:57] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:57] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:57] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:57］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:57］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:57] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:57] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:57] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:57] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:57]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:57] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:57].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:57] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:57].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:57].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:57].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:57]."
       }
     },
     {
@@ -1103,7 +1901,21 @@
         "ru_abuadel": "Перевод айята [28:58] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:58] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:58] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:58］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:58］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:58] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:58] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:58] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:58] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:58]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:58] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:58].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:58] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:58].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:58].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:58].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:58]."
       }
     },
     {
@@ -1122,7 +1934,21 @@
         "ru_abuadel": "Перевод айята [28:59] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:59] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:59] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:59］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:59］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:59] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:59] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:59] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:59] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:59]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:59] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:59].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:59] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:59].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:59].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:59].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:59]."
       }
     },
     {
@@ -1141,7 +1967,21 @@
         "ru_abuadel": "Перевод айята [28:60] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:60] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:60] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:60］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:60］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:60] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:60] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:60] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:60] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:60]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:60] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:60].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:60] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:60].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:60].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:60].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:60]."
       }
     },
     {
@@ -1160,7 +2000,21 @@
         "ru_abuadel": "Перевод айята [28:61] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:61] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:61] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:61］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:61］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:61] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:61] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:61] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:61] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:61]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:61] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:61].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:61] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:61].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:61].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:61].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:61]."
       }
     },
     {
@@ -1179,7 +2033,21 @@
         "ru_abuadel": "Перевод айята [28:62] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:62] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:62] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:62］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:62］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:62] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:62] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:62] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:62] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:62]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:62] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:62].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:62] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:62].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:62].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:62].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:62]."
       }
     },
     {
@@ -1198,7 +2066,21 @@
         "ru_abuadel": "Перевод айята [28:63] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:63] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:63] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:63］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:63］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:63] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:63] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:63] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:63] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:63]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:63] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:63].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:63] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:63].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:63].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:63].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:63]."
       }
     },
     {
@@ -1217,7 +2099,21 @@
         "ru_abuadel": "Перевод айята [28:64] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:64] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:64] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:64］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:64］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:64] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:64] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:64] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:64] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:64]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:64] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:64].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:64] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:64].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:64].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:64].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:64]."
       }
     },
     {
@@ -1236,7 +2132,21 @@
         "ru_abuadel": "Перевод айята [28:65] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:65] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:65] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:65］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:65］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:65] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:65] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:65] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:65] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:65]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:65] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:65].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:65] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:65].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:65].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:65].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:65]."
       }
     },
     {
@@ -1255,7 +2165,21 @@
         "ru_abuadel": "Перевод айята [28:66] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:66] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:66] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:66］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:66］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:66] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:66] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:66] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:66] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:66]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:66] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:66].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:66] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:66].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:66].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:66].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:66]."
       }
     },
     {
@@ -1274,7 +2198,21 @@
         "ru_abuadel": "Перевод айята [28:67] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:67] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:67] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:67］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:67］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:67] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:67] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:67] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:67] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:67]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:67] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:67].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:67] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:67].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:67].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:67].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:67]."
       }
     },
     {
@@ -1293,7 +2231,21 @@
         "ru_abuadel": "Перевод айята [28:68] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:68] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:68] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:68］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:68］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:68] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:68] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:68] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:68] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:68]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:68] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:68].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:68] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:68].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:68].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:68].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:68]."
       }
     },
     {
@@ -1312,7 +2264,21 @@
         "ru_abuadel": "Перевод айята [28:69] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:69] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:69] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:69］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:69］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:69] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:69] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:69] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:69] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:69]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:69] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:69].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:69] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:69].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:69].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:69].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:69]."
       }
     },
     {
@@ -1331,7 +2297,21 @@
         "ru_abuadel": "Перевод айята [28:70] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:70] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:70] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:70］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:70］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:70] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:70] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:70] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:70] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:70]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:70] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:70].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:70] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:70].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:70].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:70].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:70]."
       }
     },
     {
@@ -1350,7 +2330,21 @@
         "ru_abuadel": "Перевод айята [28:71] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:71] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:71] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:71］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:71］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:71] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:71] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:71] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:71] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:71]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:71] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:71].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:71] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:71].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:71].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:71].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:71]."
       }
     },
     {
@@ -1369,7 +2363,21 @@
         "ru_abuadel": "Перевод айята [28:72] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:72] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:72] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:72］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:72］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:72] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:72] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:72] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:72] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:72]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:72] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:72].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:72] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:72].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:72].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:72].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:72]."
       }
     },
     {
@@ -1388,7 +2396,21 @@
         "ru_abuadel": "Перевод айята [28:73] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:73] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:73] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:73］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:73］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:73] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:73] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:73] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:73] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:73]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:73] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:73].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:73] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:73].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:73].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:73].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:73]."
       }
     },
     {
@@ -1407,7 +2429,21 @@
         "ru_abuadel": "Перевод айята [28:74] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:74] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:74] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:74］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:74］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:74] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:74] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:74] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:74] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:74]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:74] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:74].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:74] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:74].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:74].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:74].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:74]."
       }
     },
     {
@@ -1426,7 +2462,21 @@
         "ru_abuadel": "Перевод айята [28:75] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:75] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:75] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:75］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:75］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:75] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:75] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:75] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:75] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:75]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:75] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:75].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:75] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:75].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:75].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:75].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:75]."
       }
     },
     {
@@ -1445,7 +2495,21 @@
         "ru_abuadel": "Перевод айята [28:76] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:76] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:76] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:76］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:76］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:76] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:76] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:76] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:76] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:76]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:76] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:76].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:76] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:76].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:76].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:76].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:76]."
       }
     },
     {
@@ -1464,7 +2528,21 @@
         "ru_abuadel": "Перевод айята [28:77] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:77] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:77] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:77］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:77］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:77] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:77] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:77] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:77] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:77]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:77] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:77].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:77] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:77].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:77].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:77].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:77]."
       }
     },
     {
@@ -1483,7 +2561,21 @@
         "ru_abuadel": "Перевод айята [28:78] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:78] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:78] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:78］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:78］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:78] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:78] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:78] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:78] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:78]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:78] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:78].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:78] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:78].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:78].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:78].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:78]."
       }
     },
     {
@@ -1502,7 +2594,21 @@
         "ru_abuadel": "Перевод айята [28:79] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:79] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:79] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:79］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:79］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:79] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:79] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:79] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:79] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:79]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:79] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:79].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:79] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:79].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:79].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:79].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:79]."
       }
     },
     {
@@ -1521,7 +2627,21 @@
         "ru_abuadel": "Перевод айята [28:80] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:80] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:80] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:80］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:80］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:80] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:80] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:80] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:80] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:80]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:80] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:80].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:80] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:80].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:80].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:80].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:80]."
       }
     },
     {
@@ -1540,7 +2660,21 @@
         "ru_abuadel": "Перевод айята [28:81] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:81] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:81] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:81］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:81］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:81] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:81] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:81] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:81] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:81]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:81] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:81].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:81] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:81].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:81].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:81].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:81]."
       }
     },
     {
@@ -1559,7 +2693,21 @@
         "ru_abuadel": "Перевод айята [28:82] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:82] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:82] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:82］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:82］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:82] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:82] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:82] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:82] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:82]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:82] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:82].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:82] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:82].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:82].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:82].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:82]."
       }
     },
     {
@@ -1578,7 +2726,21 @@
         "ru_abuadel": "Перевод айята [28:83] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:83] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:83] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:83］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:83］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:83] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:83] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:83] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:83] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:83]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:83] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:83].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:83] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:83].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:83].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:83].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:83]."
       }
     },
     {
@@ -1597,7 +2759,21 @@
         "ru_abuadel": "Перевод айята [28:84] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:84] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:84] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:84］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:84］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:84] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:84] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:84] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:84] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:84]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:84] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:84].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:84] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:84].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:84].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:84].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:84]."
       }
     },
     {
@@ -1616,7 +2792,21 @@
         "ru_abuadel": "Перевод айята [28:85] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:85] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:85] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:85］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:85］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:85] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:85] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:85] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:85] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:85]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:85] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:85].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:85] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:85].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:85].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:85].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:85]."
       }
     },
     {
@@ -1635,7 +2825,21 @@
         "ru_abuadel": "Перевод айята [28:86] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:86] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:86] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:86］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:86］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:86] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:86] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:86] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:86] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:86]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:86] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:86].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:86] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:86].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:86].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:86].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:86]."
       }
     },
     {
@@ -1654,7 +2858,21 @@
         "ru_abuadel": "Перевод айята [28:87] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:87] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:87] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:87］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:87］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:87] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:87] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:87] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:87] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:87]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:87] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:87].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:87] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:87].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:87].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:87].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:87]."
       }
     },
     {
@@ -1673,7 +2891,21 @@
         "ru_abuadel": "Перевод айята [28:88] на русский язык (Абу Адель).",
         "tr_diyanet": "[28:88] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [28:88] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［28:88］ 马坚 译文"
+        "zh_jian": "真主启示 ［28:88］ 马坚 译文",
+        "it_piccardo": "Traduzione di [28:88] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [28:88] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [28:88] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [28:88] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [28:88]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [28:88] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [28:88].",
+        "ar_jalalayn": "تفسير الجلالين للآية [28:88] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [28:88].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [28:88].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [28:88].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [28:88]."
       }
     }
   ],

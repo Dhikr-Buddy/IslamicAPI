@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T02:06:49.462Z",
+  "generatedAt": "2026-05-23T02:33:24.484Z",
   "surahNumber": 47,
   "ayahCount": 38,
   "ayahs": [
@@ -20,7 +20,21 @@
         "ru_abuadel": "Перевод айята [47:1] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:1] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:1] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:1］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:1]."
       }
     },
     {
@@ -39,7 +53,21 @@
         "ru_abuadel": "Перевод айята [47:2] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:2] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:2] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:2］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:2]."
       }
     },
     {
@@ -58,7 +86,21 @@
         "ru_abuadel": "Перевод айята [47:3] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:3] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:3] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:3］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:3]."
       }
     },
     {
@@ -77,7 +119,21 @@
         "ru_abuadel": "Перевод айята [47:4] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:4] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:4] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:4］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:4]."
       }
     },
     {
@@ -96,7 +152,21 @@
         "ru_abuadel": "Перевод айята [47:5] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:5] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:5] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:5］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:5]."
       }
     },
     {
@@ -115,7 +185,21 @@
         "ru_abuadel": "Перевод айята [47:6] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:6] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:6] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:6］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:6]."
       }
     },
     {
@@ -134,7 +218,21 @@
         "ru_abuadel": "Перевод айята [47:7] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:7] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:7] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:7］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:7]."
       }
     },
     {
@@ -153,7 +251,21 @@
         "ru_abuadel": "Перевод айята [47:8] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:8] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:8] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:8］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:8]."
       }
     },
     {
@@ -172,7 +284,21 @@
         "ru_abuadel": "Перевод айята [47:9] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:9] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:9] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:9］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:9]."
       }
     },
     {
@@ -191,7 +317,21 @@
         "ru_abuadel": "Перевод айята [47:10] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:10] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:10] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:10］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:10]."
       }
     },
     {
@@ -210,7 +350,21 @@
         "ru_abuadel": "Перевод айята [47:11] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:11] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:11] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:11］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:11]."
       }
     },
     {
@@ -229,7 +383,21 @@
         "ru_abuadel": "Перевод айята [47:12] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:12] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:12] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:12］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:12]."
       }
     },
     {
@@ -248,7 +416,21 @@
         "ru_abuadel": "Перевод айята [47:13] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:13] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:13] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:13］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:13]."
       }
     },
     {
@@ -267,7 +449,21 @@
         "ru_abuadel": "Перевод айята [47:14] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:14] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:14] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:14］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:14]."
       }
     },
     {
@@ -286,7 +482,21 @@
         "ru_abuadel": "Перевод айята [47:15] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:15] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:15] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:15］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:15]."
       }
     },
     {
@@ -305,7 +515,21 @@
         "ru_abuadel": "Перевод айята [47:16] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:16] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:16] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:16］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:16]."
       }
     },
     {
@@ -324,7 +548,21 @@
         "ru_abuadel": "Перевод айята [47:17] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:17] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:17] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:17］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:17]."
       }
     },
     {
@@ -343,7 +581,21 @@
         "ru_abuadel": "Перевод айята [47:18] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:18] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:18] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:18］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:18]."
       }
     },
     {
@@ -362,7 +614,21 @@
         "ru_abuadel": "Перевод айята [47:19] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:19] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:19] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:19］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:19]."
       }
     },
     {
@@ -381,7 +647,21 @@
         "ru_abuadel": "Перевод айята [47:20] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:20] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:20] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:20］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:20]."
       }
     },
     {
@@ -400,7 +680,21 @@
         "ru_abuadel": "Перевод айята [47:21] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:21] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:21] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:21］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:21］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:21] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:21] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:21] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:21] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:21]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:21] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:21].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:21] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:21].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:21].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:21].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:21]."
       }
     },
     {
@@ -419,7 +713,21 @@
         "ru_abuadel": "Перевод айята [47:22] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:22] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:22] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:22］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:22］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:22] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:22] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:22] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:22] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:22]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:22] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:22].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:22] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:22].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:22].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:22].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:22]."
       }
     },
     {
@@ -438,7 +746,21 @@
         "ru_abuadel": "Перевод айята [47:23] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:23] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:23] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:23］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:23］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:23] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:23] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:23] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:23] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:23]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:23] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:23].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:23] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:23].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:23].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:23].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:23]."
       }
     },
     {
@@ -457,7 +779,21 @@
         "ru_abuadel": "Перевод айята [47:24] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:24] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:24] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:24］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:24］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:24] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:24] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:24] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:24] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:24]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:24] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:24].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:24] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:24].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:24].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:24].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:24]."
       }
     },
     {
@@ -476,7 +812,21 @@
         "ru_abuadel": "Перевод айята [47:25] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:25] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:25] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:25］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:25］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:25] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:25] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:25] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:25] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:25]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:25] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:25].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:25] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:25].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:25].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:25].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:25]."
       }
     },
     {
@@ -495,7 +845,21 @@
         "ru_abuadel": "Перевод айята [47:26] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:26] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:26] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:26］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:26］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:26] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:26] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:26] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:26] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:26]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:26] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:26].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:26] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:26].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:26].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:26].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:26]."
       }
     },
     {
@@ -514,7 +878,21 @@
         "ru_abuadel": "Перевод айята [47:27] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:27] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:27] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:27］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:27］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:27] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:27] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:27] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:27] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:27]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:27] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:27].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:27] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:27].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:27].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:27].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:27]."
       }
     },
     {
@@ -533,7 +911,21 @@
         "ru_abuadel": "Перевод айята [47:28] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:28] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:28] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:28］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:28］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:28] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:28] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:28] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:28] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:28]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:28] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:28].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:28] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:28].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:28].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:28].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:28]."
       }
     },
     {
@@ -552,7 +944,21 @@
         "ru_abuadel": "Перевод айята [47:29] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:29] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:29] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:29］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:29］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:29] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:29] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:29] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:29] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:29]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:29] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:29].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:29] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:29].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:29].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:29].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:29]."
       }
     },
     {
@@ -571,7 +977,21 @@
         "ru_abuadel": "Перевод айята [47:30] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:30] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:30] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:30］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:30］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:30] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:30] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:30] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:30] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:30]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:30] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:30].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:30] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:30].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:30].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:30].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:30]."
       }
     },
     {
@@ -590,7 +1010,21 @@
         "ru_abuadel": "Перевод айята [47:31] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:31] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:31] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:31］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:31］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:31] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:31] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:31] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:31] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:31]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:31] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:31].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:31] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:31].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:31].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:31].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:31]."
       }
     },
     {
@@ -609,7 +1043,21 @@
         "ru_abuadel": "Перевод айята [47:32] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:32] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:32] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:32］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:32］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:32] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:32] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:32] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:32] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:32]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:32] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:32].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:32] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:32].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:32].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:32].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:32]."
       }
     },
     {
@@ -628,7 +1076,21 @@
         "ru_abuadel": "Перевод айята [47:33] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:33] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:33] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:33］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:33］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:33] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:33] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:33] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:33] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:33]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:33] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:33].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:33] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:33].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:33].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:33].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:33]."
       }
     },
     {
@@ -647,7 +1109,21 @@
         "ru_abuadel": "Перевод айята [47:34] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:34] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:34] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:34］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:34］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:34] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:34] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:34] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:34] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:34]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:34] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:34].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:34] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:34].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:34].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:34].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:34]."
       }
     },
     {
@@ -666,7 +1142,21 @@
         "ru_abuadel": "Перевод айята [47:35] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:35] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:35] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:35］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:35］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:35] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:35] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:35] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:35] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:35]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:35] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:35].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:35] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:35].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:35].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:35].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:35]."
       }
     },
     {
@@ -685,7 +1175,21 @@
         "ru_abuadel": "Перевод айята [47:36] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:36] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:36] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:36］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:36］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:36] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:36] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:36] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:36] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:36]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:36] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:36].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:36] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:36].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:36].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:36].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:36]."
       }
     },
     {
@@ -704,7 +1208,21 @@
         "ru_abuadel": "Перевод айята [47:37] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:37] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:37] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:37］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:37］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:37] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:37] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:37] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:37] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:37]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:37] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:37].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:37] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:37].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:37].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:37].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:37]."
       }
     },
     {
@@ -723,7 +1241,21 @@
         "ru_abuadel": "Перевод айята [47:38] на русский язык (Абу Адель).",
         "tr_diyanet": "[47:38] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [47:38] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［47:38］ 马坚 译文"
+        "zh_jian": "真主启示 ［47:38］ 马坚 译文",
+        "it_piccardo": "Traduzione di [47:38] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [47:38] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [47:38] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [47:38] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [47:38]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [47:38] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [47:38].",
+        "ar_jalalayn": "تفسير الجلالين للآية [47:38] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [47:38].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [47:38].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [47:38].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [47:38]."
       }
     }
   ],

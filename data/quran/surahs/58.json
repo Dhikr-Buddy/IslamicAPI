@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T02:06:49.467Z",
+  "generatedAt": "2026-05-23T02:33:24.489Z",
   "surahNumber": 58,
   "ayahCount": 22,
   "ayahs": [
@@ -20,7 +20,21 @@
         "ru_abuadel": "Перевод айята [58:1] на русский язык (Абу Адель).",
         "tr_diyanet": "[58:1] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [58:1] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［58:1］ 马坚 译文"
+        "zh_jian": "真主启示 ［58:1］ 马坚 译文",
+        "it_piccardo": "Traduzione di [58:1] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [58:1] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [58:1] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [58:1] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [58:1]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [58:1] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [58:1].",
+        "ar_jalalayn": "تفسير الجلالين للآية [58:1] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [58:1].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [58:1].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [58:1].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [58:1]."
       }
     },
     {
@@ -39,7 +53,21 @@
         "ru_abuadel": "Перевод айята [58:2] на русский язык (Абу Адель).",
         "tr_diyanet": "[58:2] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [58:2] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［58:2］ 马坚 译文"
+        "zh_jian": "真主启示 ［58:2］ 马坚 译文",
+        "it_piccardo": "Traduzione di [58:2] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [58:2] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [58:2] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [58:2] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [58:2]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [58:2] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [58:2].",
+        "ar_jalalayn": "تفسير الجلالين للآية [58:2] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [58:2].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [58:2].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [58:2].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [58:2]."
       }
     },
     {
@@ -58,7 +86,21 @@
         "ru_abuadel": "Перевод айята [58:3] на русский язык (Абу Адель).",
         "tr_diyanet": "[58:3] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [58:3] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［58:3］ 马坚 译文"
+        "zh_jian": "真主启示 ［58:3］ 马坚 译文",
+        "it_piccardo": "Traduzione di [58:3] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [58:3] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [58:3] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [58:3] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [58:3]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [58:3] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [58:3].",
+        "ar_jalalayn": "تفسير الجلالين للآية [58:3] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [58:3].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [58:3].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [58:3].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [58:3]."
       }
     },
     {
@@ -77,7 +119,21 @@
         "ru_abuadel": "Перевод айята [58:4] на русский язык (Абу Адель).",
         "tr_diyanet": "[58:4] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [58:4] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［58:4］ 马坚 译文"
+        "zh_jian": "真主启示 ［58:4］ 马坚 译文",
+        "it_piccardo": "Traduzione di [58:4] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [58:4] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [58:4] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [58:4] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [58:4]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [58:4] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [58:4].",
+        "ar_jalalayn": "تفسير الجلالين للآية [58:4] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [58:4].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [58:4].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [58:4].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [58:4]."
       }
     },
     {
@@ -96,7 +152,21 @@
         "ru_abuadel": "Перевод айята [58:5] на русский язык (Абу Адель).",
         "tr_diyanet": "[58:5] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [58:5] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［58:5］ 马坚 译文"
+        "zh_jian": "真主启示 ［58:5］ 马坚 译文",
+        "it_piccardo": "Traduzione di [58:5] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [58:5] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [58:5] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [58:5] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [58:5]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [58:5] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [58:5].",
+        "ar_jalalayn": "تفسير الجلالين للآية [58:5] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [58:5].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [58:5].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [58:5].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [58:5]."
       }
     },
     {
@@ -115,7 +185,21 @@
         "ru_abuadel": "Перевод айята [58:6] на русский язык (Абу Адель).",
         "tr_diyanet": "[58:6] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [58:6] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［58:6］ 马坚 译文"
+        "zh_jian": "真主启示 ［58:6］ 马坚 译文",
+        "it_piccardo": "Traduzione di [58:6] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [58:6] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [58:6] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [58:6] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [58:6]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [58:6] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [58:6].",
+        "ar_jalalayn": "تفسير الجلالين للآية [58:6] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [58:6].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [58:6].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [58:6].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [58:6]."
       }
     },
     {
@@ -134,7 +218,21 @@
         "ru_abuadel": "Перевод айята [58:7] на русский язык (Абу Адель).",
         "tr_diyanet": "[58:7] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [58:7] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［58:7］ 马坚 译文"
+        "zh_jian": "真主启示 ［58:7］ 马坚 译文",
+        "it_piccardo": "Traduzione di [58:7] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [58:7] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [58:7] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [58:7] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [58:7]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [58:7] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [58:7].",
+        "ar_jalalayn": "تفسير الجلالين للآية [58:7] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [58:7].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [58:7].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [58:7].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [58:7]."
       }
     },
     {
@@ -153,7 +251,21 @@
         "ru_abuadel": "Перевод айята [58:8] на русский язык (Абу Адель).",
         "tr_diyanet": "[58:8] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [58:8] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［58:8］ 马坚 译文"
+        "zh_jian": "真主启示 ［58:8］ 马坚 译文",
+        "it_piccardo": "Traduzione di [58:8] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [58:8] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [58:8] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [58:8] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [58:8]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [58:8] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [58:8].",
+        "ar_jalalayn": "تفسير الجلالين للآية [58:8] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [58:8].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [58:8].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [58:8].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [58:8]."
       }
     },
     {
@@ -172,7 +284,21 @@
         "ru_abuadel": "Перевод айята [58:9] на русский язык (Абу Адель).",
         "tr_diyanet": "[58:9] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [58:9] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［58:9］ 马坚 译文"
+        "zh_jian": "真主启示 ［58:9］ 马坚 译文",
+        "it_piccardo": "Traduzione di [58:9] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [58:9] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [58:9] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [58:9] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [58:9]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [58:9] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [58:9].",
+        "ar_jalalayn": "تفسير الجلالين للآية [58:9] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [58:9].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [58:9].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [58:9].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [58:9]."
       }
     },
     {
@@ -191,7 +317,21 @@
         "ru_abuadel": "Перевод айята [58:10] на русский язык (Абу Адель).",
         "tr_diyanet": "[58:10] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [58:10] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［58:10］ 马坚 译文"
+        "zh_jian": "真主启示 ［58:10］ 马坚 译文",
+        "it_piccardo": "Traduzione di [58:10] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [58:10] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [58:10] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [58:10] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [58:10]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [58:10] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [58:10].",
+        "ar_jalalayn": "تفسير الجلالين للآية [58:10] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [58:10].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [58:10].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [58:10].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [58:10]."
       }
     },
     {
@@ -210,7 +350,21 @@
         "ru_abuadel": "Перевод айята [58:11] на русский язык (Абу Адель).",
         "tr_diyanet": "[58:11] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [58:11] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［58:11］ 马坚 译文"
+        "zh_jian": "真主启示 ［58:11］ 马坚 译文",
+        "it_piccardo": "Traduzione di [58:11] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [58:11] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [58:11] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [58:11] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [58:11]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [58:11] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [58:11].",
+        "ar_jalalayn": "تفسير الجلالين للآية [58:11] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [58:11].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [58:11].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [58:11].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [58:11]."
       }
     },
     {
@@ -229,7 +383,21 @@
         "ru_abuadel": "Перевод айята [58:12] на русский язык (Абу Адель).",
         "tr_diyanet": "[58:12] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [58:12] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［58:12］ 马坚 译文"
+        "zh_jian": "真主启示 ［58:12］ 马坚 译文",
+        "it_piccardo": "Traduzione di [58:12] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [58:12] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [58:12] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [58:12] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [58:12]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [58:12] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [58:12].",
+        "ar_jalalayn": "تفسير الجلالين للآية [58:12] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [58:12].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [58:12].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [58:12].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [58:12]."
       }
     },
     {
@@ -248,7 +416,21 @@
         "ru_abuadel": "Перевод айята [58:13] на русский язык (Абу Адель).",
         "tr_diyanet": "[58:13] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [58:13] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［58:13］ 马坚 译文"
+        "zh_jian": "真主启示 ［58:13］ 马坚 译文",
+        "it_piccardo": "Traduzione di [58:13] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [58:13] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [58:13] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [58:13] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [58:13]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [58:13] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [58:13].",
+        "ar_jalalayn": "تفسير الجلالين للآية [58:13] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [58:13].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [58:13].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [58:13].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [58:13]."
       }
     },
     {
@@ -267,7 +449,21 @@
         "ru_abuadel": "Перевод айята [58:14] на русский язык (Абу Адель).",
         "tr_diyanet": "[58:14] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [58:14] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［58:14］ 马坚 译文"
+        "zh_jian": "真主启示 ［58:14］ 马坚 译文",
+        "it_piccardo": "Traduzione di [58:14] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [58:14] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [58:14] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [58:14] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [58:14]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [58:14] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [58:14].",
+        "ar_jalalayn": "تفسير الجلالين للآية [58:14] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [58:14].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [58:14].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [58:14].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [58:14]."
       }
     },
     {
@@ -286,7 +482,21 @@
         "ru_abuadel": "Перевод айята [58:15] на русский язык (Абу Адель).",
         "tr_diyanet": "[58:15] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [58:15] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［58:15］ 马坚 译文"
+        "zh_jian": "真主启示 ［58:15］ 马坚 译文",
+        "it_piccardo": "Traduzione di [58:15] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [58:15] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [58:15] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [58:15] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [58:15]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [58:15] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [58:15].",
+        "ar_jalalayn": "تفسير الجلالين للآية [58:15] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [58:15].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [58:15].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [58:15].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [58:15]."
       }
     },
     {
@@ -305,7 +515,21 @@
         "ru_abuadel": "Перевод айята [58:16] на русский язык (Абу Адель).",
         "tr_diyanet": "[58:16] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [58:16] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［58:16］ 马坚 译文"
+        "zh_jian": "真主启示 ［58:16］ 马坚 译文",
+        "it_piccardo": "Traduzione di [58:16] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [58:16] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [58:16] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [58:16] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [58:16]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [58:16] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [58:16].",
+        "ar_jalalayn": "تفسير الجلالين للآية [58:16] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [58:16].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [58:16].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [58:16].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [58:16]."
       }
     },
     {
@@ -324,7 +548,21 @@
         "ru_abuadel": "Перевод айята [58:17] на русский язык (Абу Адель).",
         "tr_diyanet": "[58:17] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [58:17] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［58:17］ 马坚 译文"
+        "zh_jian": "真主启示 ［58:17］ 马坚 译文",
+        "it_piccardo": "Traduzione di [58:17] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [58:17] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [58:17] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [58:17] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [58:17]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [58:17] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [58:17].",
+        "ar_jalalayn": "تفسير الجلالين للآية [58:17] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [58:17].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [58:17].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [58:17].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [58:17]."
       }
     },
     {
@@ -343,7 +581,21 @@
         "ru_abuadel": "Перевод айята [58:18] на русский язык (Абу Адель).",
         "tr_diyanet": "[58:18] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [58:18] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［58:18］ 马坚 译文"
+        "zh_jian": "真主启示 ［58:18］ 马坚 译文",
+        "it_piccardo": "Traduzione di [58:18] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [58:18] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [58:18] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [58:18] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [58:18]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [58:18] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [58:18].",
+        "ar_jalalayn": "تفسير الجلالين للآية [58:18] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [58:18].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [58:18].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [58:18].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [58:18]."
       }
     },
     {
@@ -362,7 +614,21 @@
         "ru_abuadel": "Перевод айята [58:19] на русский язык (Абу Адель).",
         "tr_diyanet": "[58:19] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [58:19] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［58:19］ 马坚 译文"
+        "zh_jian": "真主启示 ［58:19］ 马坚 译文",
+        "it_piccardo": "Traduzione di [58:19] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [58:19] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [58:19] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [58:19] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [58:19]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [58:19] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [58:19].",
+        "ar_jalalayn": "تفسير الجلالين للآية [58:19] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [58:19].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [58:19].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [58:19].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [58:19]."
       }
     },
     {
@@ -381,7 +647,21 @@
         "ru_abuadel": "Перевод айята [58:20] на русский язык (Абу Адель).",
         "tr_diyanet": "[58:20] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [58:20] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［58:20］ 马坚 译文"
+        "zh_jian": "真主启示 ［58:20］ 马坚 译文",
+        "it_piccardo": "Traduzione di [58:20] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [58:20] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [58:20] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [58:20] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [58:20]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [58:20] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [58:20].",
+        "ar_jalalayn": "تفسير الجلالين للآية [58:20] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [58:20].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [58:20].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [58:20].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [58:20]."
       }
     },
     {
@@ -400,7 +680,21 @@
         "ru_abuadel": "Перевод айята [58:21] на русский язык (Абу Адель).",
         "tr_diyanet": "[58:21] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [58:21] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［58:21］ 马坚 译文"
+        "zh_jian": "真主启示 ［58:21］ 马坚 译文",
+        "it_piccardo": "Traduzione di [58:21] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [58:21] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [58:21] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [58:21] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [58:21]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [58:21] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [58:21].",
+        "ar_jalalayn": "تفسير الجلالين للآية [58:21] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [58:21].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [58:21].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [58:21].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [58:21]."
       }
     },
     {
@@ -419,7 +713,21 @@
         "ru_abuadel": "Перевод айята [58:22] на русский язык (Абу Адель).",
         "tr_diyanet": "[58:22] ayetinin Türkçe meali (Diyanet Vakfı).",
         "de_aburida": "Übersetzung von [58:22] in deutscher Sprache (Abu Rida).",
-        "zh_jian": "真主启示 ［58:22］ 马坚 译文"
+        "zh_jian": "真主启示 ［58:22］ 马坚 译文",
+        "it_piccardo": "Traduzione di [58:22] in italiano (Hamza Piccardo).",
+        "pt_elhayek": "Tradução de [58:22] em português (Samir El-Hayek).",
+        "hi_farooq": "अनुवाद [58:22] हिन्दी में (फ़ारूक ख़าน)।",
+        "fa_mojtabavi": "ترجمه [58:22] به زبان فارسی (مجتبوی).",
+        "ja_sawada": "日本語訳 [58:22]（澤田）。",
+        "sw_albarwani": "Tafsiri ya [58:22] kwa Kiswahili (Al-Barwani)."
+      },
+      "tafsir": {
+        "en_ibnkathir": "English Tafsir Ibn Kathir explanation for verse [58:22].",
+        "ar_jalalayn": "تفسير الجلالين للآية [58:22] باللغة العربية البسيطة.",
+        "ar_sadi": "تفسير السعدي تيسير الكريم الرحمن في تفسير كلام المنان للآية [58:22].",
+        "en_jalalayn": "English Tafsir al-Jalalayn exegesis for verse [58:22].",
+        "ar_qurtubi": "الجامع لأحكام القرآن للقرطبي للآية [58:22].",
+        "ar_tabari": "تفسير جامع البيان في تأويل القرآن للطبري للآية [58:22]."
       }
     }
   ],
