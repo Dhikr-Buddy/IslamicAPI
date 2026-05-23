@@ -13,7 +13,17 @@ for (const file of manifest.files.filter((item) => item.ok && item.domain === "h
   if (file.sourceId.startsWith("fawazahmed0-hadith-edition:")) normalizeFawazEdition(json, metadata);
 }
 
-writeJson(path.join(dataRoot, "hadith/normalized/hadith.json"), out);
+const indexOut = { schemaVersion: 1, generatedAt: timestamp(), collections: out.collections, hadiths: [] };
+writeJson(path.join(dataRoot, "hadith/normalized/hadith.json"), indexOut);
+
+const chunkSize = 25000;
+for (let i = 0; i < out.hadiths.length; i += chunkSize) {
+  const chunk = out.hadiths.slice(i, i + chunkSize);
+  const partNum = Math.floor(i / chunkSize) + 1;
+  const partFile = path.join(dataRoot, `hadith/normalized/hadith_part_${partNum}.json`);
+  writeJson(partFile, { schemaVersion: 1, generatedAt: timestamp(), hadiths: chunk });
+}
+
 writeJson(path.join(dataRoot, "hadith/validation-report.json"), {
   schemaVersion: 1,
   generatedAt: timestamp(),

@@ -25,9 +25,19 @@ def _quran() -> dict[str, Any]:
 
 
 def _hadith() -> dict[str, Any]:
-    return _read_json(
+    base = _read_json(
         DATA_ROOT / "hadith/normalized/hadith.json", {"collections": [], "hadiths": []}
     )
+    dir_path = DATA_ROOT / "hadith/normalized"
+    if dir_path.exists():
+        part_files = sorted(list(dir_path.glob("hadith_part_*.json")))
+        if part_files:
+            base["hadiths"] = []
+            for pf in part_files:
+                part = _read_json(pf, {"hadiths": []})
+                if isinstance(part.get("hadiths"), list):
+                    base["hadiths"].extend(part["hadiths"])
+    return base
 
 
 def _audio() -> dict[str, Any]:
@@ -118,20 +128,55 @@ def get_audio_url(
 ) -> str | None:
     r_id = str(reciter_id) if reciter_id is not None else ""
     data = _audio()
+
+    source_filter = None
+    if ":" in r_id:
+        parts = r_id.split(":")
+        if parts[1] in ("everyayah", "haram", "mp3quran"):
+            r_id = parts[0]
+            source_filter = parts[1]
+
+    # Find the reciter taking namespace filter into account
+    reciter = None
+    for item in data.get("reciters", []):
+        id_str = str(item.get("id")).lower()
+        rec_id_str = str(item.get("reciterId")).lower()
+        name_str = str(item.get("name")).lower()
+
+        matches_id = (
+            id_str == r_id.lower()
+            or rec_id_str == r_id.lower()
+            or r_id.lower() in name_str
+        )
+        if not matches_id:
+            continue
+
+        if source_filter:
+            item_source = str(item.get("source")).lower()
+            if source_filter == "everyayah" and item_source != "everyayah":
+                continue
+            if source_filter == "mp3quran" and item_source != "mp3quran":
+                continue
+            if source_filter == "haram":
+                if (
+                    item_source != "haram"
+                    and "sudais" not in name_str
+                    and "maher" not in name_str
+                ):
+                    continue
+
+        reciter = item
+        break
+
+    resolved_id = str(reciter["id"]) if reciter else r_id
+
     for row in data.get("audio", []):
-        if str(row.get("reciterId")) == r_id and row.get("surahNumber") == int(
+        if str(row.get("reciterId")) == resolved_id and row.get("surahNumber") == int(
             surah_number
         ):
             if ayah_number is None or row.get("ayahNumber") in (int(ayah_number), None):
                 return row.get("url")
-    reciter = next(
-        (
-            item
-            for item in data.get("reciters", [])
-            if str(item.get("id")) == r_id or str(item.get("reciterId")) == r_id
-        ),
-        None,
-    )
+
     if reciter and reciter.get("urlTemplate"):
         return _fill_audio_template(
             reciter["urlTemplate"], int(surah_number), int(ayah_number or 1)

@@ -74,7 +74,7 @@ test("new famous reciters are loaded and have correct details", () => {
   assert.ok(sudais);
   assert.equal(sudais.name, "Abdul Rahman Al-Sudais");
   
-  const url = getAudioUrl("alafasy", 1, null);
+  const url = getAudioUrl("alafasy:mp3quran", 1, null);
   assert.match(url, /^https:\/\/server8\.mp3quran\.net\/afs\/001\.mp3/);
 });
 
